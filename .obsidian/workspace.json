@@ -35,8 +35,7 @@
               "title": "Root text - pali roman"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -209,9 +208,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0478a76b359d2e4a",
+  "active": "d066ca5c15f520a5",
   "lastOpenFiles": [
-    "README.md",
-    "Root text - pali roman.md"
+    "Root text - pali roman.md",
+    "README.md"
   ]
 }
