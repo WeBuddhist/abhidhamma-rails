@@ -9,28 +9,32 @@ Schema (observed):
   Each segment: id, chapter, paragraph, span_start, span_end, content,
                 css_class, original_path
 
-  css_class values:
-    centered    — homage line ("Namo tassa…")
-    nikaya      — pitaka label ("Abhidhammapiṭake")
-    book        — book title  ("Dhammasaṅgaṇīpāḷi")
-    chapter     — chapter heading (one per chapter)
-    title       — major sub-section heading
-    subhead     — minor sub-section heading
-    bodytext    — verse / prose body
-    unindented  — verse body (continuation)
+  css_class values and their structural roles:
+    centered    — homage line ("Namo tassa…")             → preface
+    nikaya      — pitaka label ("Abhidhammapiṭake")       → preface
+    book        — book title  ("Dhammasaṅgaṇīpāḷi")       → preface
+    chapter     — chapter heading (one per source chapter)  → ##  ^N-0
+    title       — major sub-section (e.g. "Dukamātikā")     → ###  ^N-M-0
+    subhead     — minor sub-section. CONTEXT-DEPENDENT:
+                    • if seen before any `title` in this chapter,
+                      it's a sibling of `title`   → ### ^N-M-0
+                    • if seen after a `title`, it's a child of that title
+                      and emits as            → #### ^N-M-K-0
+    bodytext    — verse / prose body                      → verse ^N-V
+    unindented  — verse body (continuation)               → verse ^N-V
 
 Output strategy:
-  - All `centered` / `nikaya` / `book` segments BEFORE the first chapter
-    css_class segment are pulled into a synthetic `## 0. Introduction ^0-0`
-    block, numbered ^0-1, ^0-2, …
-  - Each source chapter is emitted as `## N. {chapter title} ^N-0`, with
-    source chapter numbers shifted by +1 to make room for chapter 0.
-  - `title` and `subhead` become `### N.M {title} ^N-M-0` (section counter
-    increments for either).
-  - `bodytext` / `unindented` become verses with `^N-V` IDs, V restarting
-    per chapter.
-  - Leading "N. " in source titles is stripped (the source's own numbering
-    is replaced by our chapter / section number).
+  - Opening run of `centered`/`nikaya`/`book` segments → synthetic
+    `## 0. Introduction ^0-0` with verses `^0-1`, `^0-2`, …
+  - Source chapter N → `## (N+1). {chapter_title} ^(N+1)-0`
+  - Per chapter, maintain a section counter (incremented for each `title`
+    or for each `subhead` seen BEFORE the first title) and a subsection
+    counter (incremented for each `subhead` AFTER a title, reset whenever
+    a new title is seen).
+  - Verses get `^chapter-V` with V restarting at 1 per chapter, regardless
+    of any nesting under titles or subheads (per source-formatting.md:
+    "sub-sections do not affect verse IDs").
+  - Leading "N. " in source titles is stripped (our own numbering replaces it).
 
 CLI:
     python tipitaka_org_book.py source.json output.md
@@ -50,6 +54,7 @@ from json_to_source_text import (  # noqa: E402
     format_frontmatter,
     format_chapter_heading,
     format_subsection_heading,
+    format_subsubsection_heading,
     format_verse,
     clean_text,
 )
@@ -59,15 +64,15 @@ _leading_num_re = re.compile(r"^\s*\d+\.\s*")
 
 
 def strip_leading_number(title: str) -> str:
-    """Source titles like '1. Cittuppādakaṇḍaṃ' carry their own numbering;
-    we add our own chapter/section number, so strip the leading 'N. ' to
-    avoid duplicates like '## 2. 1. Cittuppādakaṇḍaṃ'."""
+    """Strip leading 'N. ' from source titles to avoid double-numbering
+    (the source's '1. Cittuppādakaṇḍaṃ' becomes our '## 2. Cittuppādakaṇḍaṃ')."""
     return _leading_num_re.sub("", title).strip()
 
 
 # Roles
 ROLE_CHAPTER = "chapter"
-ROLE_SUBSECTION = "subsection"
+ROLE_TITLE = "title"
+ROLE_SUBHEAD = "subhead"
 ROLE_VERSE = "verse"
 ROLE_PREFACE = "preface"
 
@@ -76,8 +81,8 @@ CATEGORY_TO_ROLE = {
     "nikaya":     ROLE_PREFACE,
     "book":       ROLE_PREFACE,
     "chapter":    ROLE_CHAPTER,
-    "title":      ROLE_SUBSECTION,
-    "subhead":    ROLE_SUBSECTION,
+    "title":      ROLE_TITLE,
+    "subhead":    ROLE_SUBHEAD,
     "bodytext":   ROLE_VERSE,
     "unindented": ROLE_VERSE,
 }
@@ -127,6 +132,7 @@ def convert_json_to_source_text(json_path: str | Path, output_path: str | Path) 
     meta = extract_metadata(data, json_path)
     segments = data.get("segments", [])
 
+    # Phase 1: bucket segments. Pull opening preface; group everything else by source chapter.
     preface: list[str] = []
     chapters: dict[int, list[tuple[str, str]]] = {}
 
@@ -145,9 +151,11 @@ def convert_json_to_source_text(json_path: str | Path, output_path: str | Path) 
         if role == ROLE_CHAPTER:
             saw_first_chapter = True
         if role == ROLE_PREFACE:
+            # Late preface-class segments (rare) are demoted to verses.
             role = ROLE_VERSE
         chapters.setdefault(src_ch, []).append((role, content))
 
+    # Phase 2: emit Markdown.
     output: list[str] = [format_frontmatter(meta), "\n"]
 
     if preface:
@@ -161,29 +169,53 @@ def convert_json_to_source_text(json_path: str | Path, output_path: str | Path) 
         out_ch = src_ch + 1
         items = chapters[src_ch]
 
+        # First ROLE_CHAPTER item provides the chapter title.
         chapter_title_raw = next((c for r, c in items if r == ROLE_CHAPTER), f"Chapter {out_ch}")
         chapter_title = strip_leading_number(chapter_title_raw)
         output.append(format_chapter_heading(out_ch, chapter_title))
         output.append("\n")
 
-        section_counter = 0
+        section_counter = 0      # for ### headings (titles + standalone subheads)
+        subsection_counter = 0   # for #### headings (subheads under a title)
         verse_counter = 0
-        consumed_title = False
+        seen_title = False
+        consumed_chapter = False
 
         for role, content in items:
-            if role == ROLE_CHAPTER and not consumed_title:
-                consumed_title = True
-                continue
             if role == ROLE_CHAPTER:
+                if not consumed_chapter:
+                    consumed_chapter = True
+                    continue
+                # Stray "chapter" css inside the same source chapter — treat as ###
                 section_counter += 1
+                subsection_counter = 0
+                seen_title = False
                 output.append(format_subsection_heading(out_ch, section_counter, strip_leading_number(content)))
                 output.append("\n")
                 continue
-            if role == ROLE_SUBSECTION:
+            if role == ROLE_TITLE:
                 section_counter += 1
-                output.append(format_subsection_heading(out_ch, section_counter, strip_leading_number(content)))
+                subsection_counter = 0
+                seen_title = True
+                output.append(format_subsection_heading(
+                    out_ch, section_counter,
+                    strip_leading_number(content)))
                 output.append("\n")
                 continue
+            if role == ROLE_SUBHEAD:
+                if seen_title:
+                    subsection_counter += 1
+                    output.append(format_subsubsection_heading(
+                        out_ch, section_counter, subsection_counter,
+                        strip_leading_number(content)))
+                else:
+                    section_counter += 1
+                    output.append(format_subsection_heading(
+                        out_ch, section_counter,
+                        strip_leading_number(content)))
+                output.append("\n")
+                continue
+            # ROLE_VERSE
             verse_counter += 1
             output.append(format_verse(content, out_ch, verse_counter))
 
