@@ -1,4 +1,4 @@
-# 1-SOURCES — File Format and Linking Guidelines
+# 1-SOURCES — File Formatting Guidelines
 
 Formatting rules for all files in `1-SOURCES/`. Read this before adding any file to the folder.
 
@@ -10,7 +10,7 @@ For the LLM-facing distillation of these rules see `4-SYSTEM/CLAUDE.md` Sections
 
 **Single source of truth.** Every text, translation, and commentary lives in one file. Obsidian block IDs make individual verses linkable without splitting files.
 
-**Language tags everywhere.** Every file carrying material in a specific language carries a language tag suffix. See Section 14 for the full tag list.
+**Language tags everywhere.** Every file carrying material in a specific language carries a language tag suffix. See Section 9 for the full tag list.
 
 **Flat file structure.** Root texts, editions, translations, and commentaries are single files placed directly in their subfolder — no subfolder per file.
 
@@ -59,45 +59,9 @@ One script per file. Alternative script forms always go in a separate edition fi
 
 ---
 
-## 3. Source Identification and External IDs
+## 3. Frontmatter
 
-Every file must record its source and any relevant external database identifiers. This is essential for verification and for connecting the project to the broader scholarly infrastructure.
-
-### Source Fields in Frontmatter
-
-```yaml
-source_description: "Transcribed from Vaidya 1960 critical edition, pp. 1–219"
-source_url: https://www.dsbcproject.org/canon-text/content/71
-bdrc_work_id: WA1KG13126
-bdrc_instance_id: MW1KG13126
-cbeta_id:                       # for Chinese texts
-gretil_url: https://gretil.sub.uni-goettingen.de/...
-dsbc_url: https://www.dsbcproject.org/...
-suttacentral_id:                # for Pāli texts
-acip_id:                        # for Tibetan texts
-other_ids:
-  - "VIAF: 123456"
-  - "Wikidata: Q12345"
-```
-
-Include only the fields that apply. Leave inapplicable fields out entirely. `source_description` is required for every file — all others are conditional.
-
-### Key External Databases
-
-| Database     | Scope                   | Field                              |
-| ------------ | ----------------------- | ---------------------------------- |
-| BDRC         | Tibetan, Sanskrit, Pāli | `bdrc_work_id`, `bdrc_instance_id` |
-| CBETA        | Chinese Buddhist canon  | `cbeta_id`                         |
-| GRETIL       | Sanskrit texts          | `gretil_url`                       |
-| DSBC         | Sanskrit Buddhist canon | `dsbc_url`                         |
-| SuttaCentral | Pāli, translations      | `suttacentral_id`                  |
-| ACIP         | Tibetan                 | `acip_id`                          |
-| VIAF         | Authors and works       | in `other_ids`                     |
-| Wikidata     | Works and concepts      | in `other_ids`                     |
-
----
-
-## 4. Frontmatter
+`source_description` is required for every file. All other source/ID fields (`source_url`, `bdrc_work_id`, `gretil_url`, etc.) are conditional — include them only when they apply.
 
 ### Root Text Frontmatter
 
@@ -195,7 +159,7 @@ source_url: https://doi.org/10.1093/example
 
 ---
 
-## 5. Block IDs and Verse Structure
+## 4. Block IDs and Verse Structure
 
 Obsidian block IDs placed at the end of a verse are the sole verse-level linking mechanism across the entire project.
 
@@ -285,7 +249,7 @@ Example — Tibetan root text:
 
 ---
 
-## 6. File Format — Root Text
+## 5. File Format — Root Text
 
 ### Sanskrit (Devanāgarī)
 
@@ -345,7 +309,7 @@ Unicode Tibetan script is the standard for Tibetan root texts. Wylie translitera
 
 ---
 
-## 7. File Format — Translations
+## 6. File Format — Translations
 
 Same block ID system as the root text. Block IDs correspond to the **source verse**, not to any numbering the translator may use.
 
@@ -373,7 +337,7 @@ Where a translation combines multiple source verses, use the first verse's block
 
 ---
 
-## 8. File Format — Commentaries
+## 7. File Format — Commentaries
 
 A commentary is an independent authored work. It has:
 
@@ -468,45 +432,7 @@ Commentary on second verse. ^1-3-3
 
 ---
 
-## 9. Linking System
-
-### Block ID Links — verse level
-
-```markdown
-[[1-SOURCES/Text/sk-root-text.md#^1-1]]
-```
-
-For transclusion (renders the verse inline in Obsidian):
-
-```markdown
-![[1-SOURCES/Text/sk-root-text.md#^1-1]]
-```
-
-Use full paths in all `1-SOURCES/` and `2-RAILS/` files.
-
-### Wiki Links — file level
-
-```markdown
-[[1-SOURCES/Commentaries/prajnakaramati-sk.md]]
-```
-
-Used for file-to-file navigation and in frontmatter `related_*` fields.
-
-### YAML Frontmatter Lists
-
-The machine-readable map used by the LLM to traverse the verse-to-resource network.
-
-**Root text maps outward:**
-- `related_commentaries`
-- `related_translations`
-
-**Commentaries and translations map inward:**
-- `root_text` — the root text they comment on or translate
-- `covers_verses` — verse range in block ID format, e.g. `1-1–10-58`
-
----
-
-## 10. Editorial Notes
+## 8. Editorial Notes
 
 ```markdown
 [Ed: uncertain — two witnesses read *dharmadhātu* here. See Vaidya 1960 p. 47 apparatus.]
@@ -520,32 +446,7 @@ Rules:
 
 ---
 
-## 11. Checklist for Adding a New File
-
-- [ ] Correct folder — `Text/`, `Commentaries/`, `Translations/`, or `References/`
-- [ ] Filename uses language tag, no diacritics
-- [ ] Frontmatter complete — `source_description` required at minimum
-- [ ] External IDs added where applicable (BDRC, CBETA, GRETIL, DSBC, SuttaCentral)
-- [ ] `source_url` included if sourced digitally
-- [ ] `verse_id_format` declared in frontmatter
-- [ ] Every verse has a block ID on its last line — `^chapter-verse` or `^verse`
-- [ ] No zero-padding in block IDs
-- [ ] Chapter headings `##`, sub-sections `###` — no `####`
-- [ ] Commentary has its own TOC headings independent of root text structure
-- [ ] Commentary `verse_id_format` declared — follows the commentary author's system
-- [ ] Root verse transclusions added at appropriate points in commentary
-- [ ] Multi-verse sections use sequential individual transclusions, one per root verse
-- [ ] `root_text` and `covers_verses` set in commentary/translation frontmatter
-- [ ] `related_commentaries` / `related_translations` updated in root text frontmatter
-- [ ] Commentary `registered_id` added to `4-SYSTEM/CLAUDE.md` if this is a new commentary
-- [ ] Sanskrit root text in Devanāgarī; Tibetan/Chinese in Unicode
-- [ ] Alternative scripts go in separate edition files
-- [ ] Verse numbers restart per chapter — `^chapter-verse` not continuous
-- [ ] No interpretation — `[Ed: ...]` factual notes only
-
----
-
-## 12. Language Tags
+## 9. Language Tags
 
 All files use ISO 639-1 base codes with script or system suffixes where needed.
 
@@ -607,3 +508,27 @@ All files use ISO 639-1 base codes with script or system suffixes where needed.
 | `-si` | Sinhala (modern) |
 
 For languages not listed, use the appropriate ISO 639-1 code.
+
+---
+
+## 10. Checklist for Adding a New File
+
+- [ ] Correct folder — `Text/`, `Commentaries/`, `Translations/`, or `References/`
+- [ ] Filename uses language tag, no diacritics
+- [ ] Frontmatter complete — `source_description` required at minimum
+- [ ] `source_url` included if sourced digitally
+- [ ] `verse_id_format` declared in frontmatter
+- [ ] Every verse has a block ID on its last line — `^chapter-verse` or `^verse`
+- [ ] No zero-padding in block IDs
+- [ ] Chapter headings `##`, sub-sections `###` — no `####`
+- [ ] Commentary has its own TOC headings independent of root text structure
+- [ ] Commentary `verse_id_format` declared — follows the commentary author's system
+- [ ] Root verse transclusions added at appropriate points in commentary
+- [ ] Multi-verse sections use sequential individual transclusions, one per root verse
+- [ ] `root_text` and `covers_verses` set in commentary/translation frontmatter
+- [ ] `related_commentaries` / `related_translations` updated in root text frontmatter
+- [ ] Commentary `registered_id` added to `4-SYSTEM/CLAUDE.md` if this is a new commentary
+- [ ] Sanskrit root text in Devanāgarī; Tibetan/Chinese in Unicode
+- [ ] Alternative scripts go in separate edition files
+- [ ] Verse numbers restart per chapter — `^chapter-verse` not continuous
+- [ ] No interpretation — `[Ed: ...]` factual notes only
