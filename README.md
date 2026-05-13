@@ -2,24 +2,26 @@
 
 A collaborative [Obsidian](https://obsidian.md) vault for building **interpretive rails** through the Abhidhamma — the third basket of the Pali Canon.
 
-## What a "rail" is
+## What rails are and why we build them
 
-The Abhidhamma is a dense, technical analysis of mind and matter. Every key term carries a precise meaning, and most have been read in subtly different ways across the commentary tradition. Reading, teaching, or translating it well means resolving thousands of small interpretive decisions: which sense of *citta* is meant in this passage, what *anusaya* does here, how a compound parses, which commentator's reading to follow when they disagree.
+We build rails so that AI-powered work on the Abhidhamma — translation, summarisation, study-guide generation, question answering — can be done reliably. A **rail** extracts and structures the traditional interpretation of one verse, one section, or one concept of the text into a compact, citation-grounded note. When we then ask an AI to produce a translation or a lesson plan, it works from the combined rails — not from raw commentary scattered across thousands of pages in multiple languages — and the output stays fast, consistent, and traceable.
 
-A **rail** is a compiled, citation-grounded resolution of one such decision, attached to one verse or analytical unit. For each verse, the rails record:
+It's the same idea as Wikipedia for general knowledge. Almost every fact on Wikipedia exists somewhere else on the open internet, often in more detail. But AI tools reach for Wikipedia because the information has already been gathered, summarised, and organised by people who knew what they were doing — which makes it cheaper to retrieve from and more reliable to cite than the raw web. The rails do the same job for the Abhidhamma. The Abhidhamma is a dense, technical analysis of mind and matter, and every key term has been read in subtly different ways across the commentary tradition. Each rail is the curated, Wikipedia-style entry for one unit of the text — one verse, one section, or one concept — distilled from the commentary tradition, organised consistently, and citing the human source behind every claim.
+
+For each verse or analytical unit, a rail records:
 
 - The morphology and syntax of the original
 - The senses each commentator attests, with the commentary passages that establish them
 - The decisions any translator would have to make
 - A direct citation — file, verse, page — backing every claim
 
-The rails sit *between* the source texts and any output built on top of them. Everything downstream — translations, study guides, lesson plans — cites a rail; every rail cites a source. Nothing is invented along the way.
+Everything downstream cites a rail; every rail cites a source. Nothing is invented along the way.
 
 ```
 1-SOURCES/   →   2-RAILS/   →   3-TRANSFORMATIONS/
-ground truth     this vault's      generated outputs
-                 interpretive
-                 work
+ground truth     compact, curated   AI-generated outputs
+                 context per verse, (translations, study
+                 section, concept   guides, lesson plans)
 ```
 
 This is the methodology of a **Railroads vault**: one vault per classical text, holding its complete interpretive ecosystem. This particular vault serves the Abhidhamma.
