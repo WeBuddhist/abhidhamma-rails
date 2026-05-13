@@ -112,7 +112,7 @@ def extract_metadata(data: dict, source_path: Path) -> dict:
         "script": "Roman (PTS diacritics)",
         "file_type": "root-text",
         "lang_tag": "pi",
-        "verse_id_format": "chapter-verse",
+        "verse_id_format": "hierarchical-path",
         "pitaka": pitaka,
         "layer": layer,
         "source_description": description,
