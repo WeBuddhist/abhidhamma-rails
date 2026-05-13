@@ -194,8 +194,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "eb2538ea3fa47051",
+  "active": "076990a97213e071",
   "lastOpenFiles": [
+    "4-SYSTEM/Guidelines/why-rails.md",
+    "0-INBOX/raw-data/abh01m.json",
+    "0-INBOX/raw-data",
     "4-SYSTEM/How-to guides/Sync and troubleshoot.md",
     "4-SYSTEM/How-to guides/Set up the vault.md",
     "test .otr01.md",
@@ -216,10 +219,8 @@
     "README.md",
     "4-SYSTEM/Guidelines/source-formatting.md.tmp.9056.abe1f8fde824",
     "4-SYSTEM/Guidelines/0-VAULT-Structure.md",
-    "README.md.tmp.4012.47a1d1ee1c77",
     "1-Human-Sources/Root Text/Pali-Roman.md",
     "Copilot/Copilot-custom-promt.md",
-    "Copilot",
     "Root text - pali roman.md"
   ]
 }
