@@ -1,6 +1,12 @@
-# obsidian-vault-template
+# abhidhamma-rails
 
-A template for creating a shared [Obsidian](https://obsidian.md) notebook (called a *vault*) that your whole team can edit together. Everyone's changes save and sync automatically every 10 minutes. The vault comes set up with the [obsidian-git](https://github.com/Vinzent03/obsidian-git) community plugin.
+A shared [Obsidian](https://obsidian.md) vault for studying, structuring, and collaboratively developing **rails for the Abhidhamma** — the third basket of the Pali Canon. This vault is a working space for organizing Abhidhamma material into clear, navigable structures (categories, lists, matrices, and cross-references) that teammates can build on together. Everyone's changes save and sync automatically every 10 minutes via the [obsidian-git](https://github.com/Vinzent03/obsidian-git) community plugin.
+
+## What this vault is for
+
+- Mapping the core Abhidhamma teachings — citta, cetasika, rūpa, nibbāna — into structured notes.
+- Building "rails": consistent templates, tagging conventions, and linking patterns that keep the material organized as it grows.
+- Collaborating with teammates on translation, commentary, and analysis without stepping on each other's edits.
 
 ## What this gives you
 
