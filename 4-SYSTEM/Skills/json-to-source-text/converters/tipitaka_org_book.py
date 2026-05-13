@@ -154,9 +154,9 @@ def convert_json_to_source_text(json_path, output_path) -> None:
     if homage:
         out.append(homage + "\n\n")
     if pitaka_heading:
-        out.append(f"# {pitaka_heading}\n\n")
+        out.append(f"# {pitaka_heading} ^pitaka-0\n\n")
     if book_heading:
-        out.append(f"## {book_heading}\n\n")
+        out.append(f"## {book_heading} ^book-0\n\n")
 
     for src_ch in sorted(chapters.keys()):
         out_ch = src_ch
@@ -186,11 +186,18 @@ def convert_json_to_source_text(json_path, output_path) -> None:
             out.append(f"{body} ^{current_path}-{verse_counter}\n\n")
             verse_buffer.clear()
 
-        def change_path(new_path: str) -> None:
+        def change_path(new_path: str, reset_counter: bool) -> None:
+            """Flush any buffered verse, switch the current heading path,
+            and optionally reset the verse counter.
+
+            Reset on h2 (chapter) and h3 (sub-section) boundaries; do NOT
+            reset on h4 — verses keep running from the enclosing h3 even as
+            they pass through h4 sub-sub-sections."""
             nonlocal current_path, verse_counter
             flush_verse()
             current_path = new_path
-            verse_counter = 0
+            if reset_counter:
+                verse_counter = 0
 
         for role, content in items:
             if role == ROLE_CHAPTER:
@@ -200,7 +207,7 @@ def convert_json_to_source_text(json_path, output_path) -> None:
                 section_counter += 1
                 subsection_counter = 0
                 seen_title = False
-                change_path(f"{out_ch}-{section_counter}")
+                change_path(f"{out_ch}-{section_counter}", reset_counter=True)
                 out.append(format_subsection_heading(
                     out_ch, section_counter, strip_leading_number(content)))
                 out.append("\n")
@@ -209,7 +216,7 @@ def convert_json_to_source_text(json_path, output_path) -> None:
                 section_counter += 1
                 subsection_counter = 0
                 seen_title = True
-                change_path(f"{out_ch}-{section_counter}")
+                change_path(f"{out_ch}-{section_counter}", reset_counter=True)
                 out.append(format_subsection_heading(
                     out_ch, section_counter, strip_leading_number(content)))
                 out.append("\n")
@@ -217,13 +224,13 @@ def convert_json_to_source_text(json_path, output_path) -> None:
             if role == ROLE_SUBHEAD:
                 if seen_title:
                     subsection_counter += 1
-                    change_path(f"{out_ch}-{section_counter}-{subsection_counter}")
+                    change_path(f"{out_ch}-{section_counter}-{subsection_counter}", reset_counter=False)
                     out.append(format_subsubsection_heading(
                         out_ch, section_counter, subsection_counter,
                         strip_leading_number(content)))
                 else:
                     section_counter += 1
-                    change_path(f"{out_ch}-{section_counter}")
+                    change_path(f"{out_ch}-{section_counter}", reset_counter=True)
                     out.append(format_subsection_heading(
                         out_ch, section_counter, strip_leading_number(content)))
                 out.append("\n")

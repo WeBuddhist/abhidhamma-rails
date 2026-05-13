@@ -59,7 +59,7 @@ def format_subsubsection_heading(chapter: int, section: int, sub: int, title: st
     chapter / title / subhead distinction). The 4-component block ID does not
     collide with verse IDs (verses are 2 or 3 components and never end in 0).
     """
-    return f"#### {chapter}.{section}.{sub} {title.strip()} ^{chapter}-{section}-{sub}-0\n"
+    return f"#### {title.strip()} ^{chapter}-{section}-{sub}-0\n"
 
 
 def format_verse(content: str, path, verse: int) -> str:
