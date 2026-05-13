@@ -62,9 +62,15 @@ def format_subsubsection_heading(chapter: int, section: int, sub: int, title: st
     return f"#### {chapter}.{section}.{sub} {title.strip()} ^{chapter}-{section}-{sub}-0\n"
 
 
-def format_verse(content: str, chapter: int, verse: int) -> str:
-    """content ^chapter-verse"""
-    return f"{content.rstrip()} ^{chapter}-{verse}\n"
+def format_verse(content: str, path, verse: int) -> str:
+    """content ^path-verse
+
+    `path` is a heading path: either an int (chapter only, e.g. 1) or a
+    hyphen-joined string (any depth, e.g. "1-2-3"). Verse IDs carry the full
+    path of the enclosing heading, so verses under heading ^1-2-3-0 are
+    ^1-2-3-1, ^1-2-3-2, …, and a verse directly under chapter 0 is ^0-1.
+    """
+    return f"{content.rstrip()} ^{path}-{verse}\n"
 
 
 _ws_re = re.compile(r"[ \t]+")

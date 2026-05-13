@@ -122,20 +122,30 @@ def extract_metadata(data: dict, source_path: Path) -> dict:
     }
 
 
-def convert_json_to_source_text(json_path: str | Path, output_path: str | Path) -> None:
+def convert_json_to_source_text(json_path, output_path) -> None:
+    """Convert one tipitaka.org JSON file to a source-text Markdown.
+
+    - Source chapter numbers are preserved (no shift). The source's chapter 0
+      (Mātikā) becomes our chapter 0 — i.e. the Introduction / TOC chapter
+      of the book. Verses from the opening homage/title preface are folded
+      into chapter 0 as its first verses.
+    - Verse IDs carry the full heading path: ^0-1 for verses directly under
+      `## 0`, ^0-1-V for verses under `### 0.1`, ^0-2-1-V for verses under
+      `#### 0.2.1`. Verse counters restart at 1 every time a new heading
+      changes the path.
+    """
     json_path = Path(json_path)
     output_path = Path(output_path)
 
-    with json_path.open(encoding="utf-8") as f:
-        data = json.load(f)
+    with json_path.open(encoding="utf-8") as fh:
+        data = json.load(fh)
 
     meta = extract_metadata(data, json_path)
     segments = data.get("segments", [])
 
-    # Phase 1: bucket segments. Pull opening preface; group everything else by source chapter.
+    # Phase 1: bucket segments by source chapter; pull opening preface separately.
     preface: list[str] = []
     chapters: dict[int, list[tuple[str, str]]] = {}
-
     saw_first_chapter = False
     for seg in segments:
         css = seg.get("css_class", "")
@@ -151,73 +161,84 @@ def convert_json_to_source_text(json_path: str | Path, output_path: str | Path) 
         if role == ROLE_CHAPTER:
             saw_first_chapter = True
         if role == ROLE_PREFACE:
-            # Late preface-class segments (rare) are demoted to verses.
             role = ROLE_VERSE
         chapters.setdefault(src_ch, []).append((role, content))
 
     # Phase 2: emit Markdown.
     output: list[str] = [format_frontmatter(meta), "\n"]
 
-    if preface:
-        output.append(format_chapter_heading(0, "Introduction"))
-        output.append("\n")
-        for i, content in enumerate(preface, start=1):
-            output.append(format_verse(content, 0, i))
-        output.append("\n")
-
     for src_ch in sorted(chapters.keys()):
-        out_ch = src_ch + 1
+        out_ch = src_ch  # preserve source chapter numbering — Mātikā stays as chapter 0
         items = chapters[src_ch]
 
-        # First ROLE_CHAPTER item provides the chapter title.
-        chapter_title_raw = next((c for r, c in items if r == ROLE_CHAPTER), f"Chapter {out_ch}")
+        chapter_title_raw = next(
+            (c for r, c in items if r == ROLE_CHAPTER),
+            f"Chapter {out_ch}",
+        )
         chapter_title = strip_leading_number(chapter_title_raw)
         output.append(format_chapter_heading(out_ch, chapter_title))
         output.append("\n")
 
-        section_counter = 0      # for ### headings (titles + standalone subheads)
-        subsection_counter = 0   # for #### headings (subheads under a title)
+        # Heading-path state for this chapter
+        current_path = str(out_ch)
         verse_counter = 0
+        section_counter = 0
+        subsection_counter = 0
         seen_title = False
-        consumed_chapter = False
+        consumed_chapter_title = False
+
+        # For chapter 0, the book's opening preface (homage, pitaka label, book
+        # title) is emitted as the first verses of the chapter, directly under
+        # ## 0, before any sub-section heading.
+        if src_ch == 0 and preface:
+            for content in preface:
+                verse_counter += 1
+                output.append(format_verse(content, current_path, verse_counter))
 
         for role, content in items:
+            if role == ROLE_CHAPTER and not consumed_chapter_title:
+                consumed_chapter_title = True
+                continue
             if role == ROLE_CHAPTER:
-                if not consumed_chapter:
-                    consumed_chapter = True
-                    continue
-                # Stray "chapter" css inside the same source chapter — treat as ###
+                # Extra chapter-class element inside a source chapter — treat as ###
                 section_counter += 1
                 subsection_counter = 0
                 seen_title = False
-                output.append(format_subsection_heading(out_ch, section_counter, strip_leading_number(content)))
+                current_path = f"{out_ch}-{section_counter}"
+                verse_counter = 0
+                output.append(format_subsection_heading(
+                    out_ch, section_counter, strip_leading_number(content)))
                 output.append("\n")
                 continue
             if role == ROLE_TITLE:
                 section_counter += 1
                 subsection_counter = 0
                 seen_title = True
+                current_path = f"{out_ch}-{section_counter}"
+                verse_counter = 0
                 output.append(format_subsection_heading(
-                    out_ch, section_counter,
-                    strip_leading_number(content)))
+                    out_ch, section_counter, strip_leading_number(content)))
                 output.append("\n")
                 continue
             if role == ROLE_SUBHEAD:
                 if seen_title:
                     subsection_counter += 1
+                    current_path = f"{out_ch}-{section_counter}-{subsection_counter}"
+                    verse_counter = 0
                     output.append(format_subsubsection_heading(
                         out_ch, section_counter, subsection_counter,
                         strip_leading_number(content)))
                 else:
                     section_counter += 1
+                    current_path = f"{out_ch}-{section_counter}"
+                    verse_counter = 0
                     output.append(format_subsection_heading(
-                        out_ch, section_counter,
-                        strip_leading_number(content)))
+                        out_ch, section_counter, strip_leading_number(content)))
                 output.append("\n")
                 continue
             # ROLE_VERSE
             verse_counter += 1
-            output.append(format_verse(content, out_ch, verse_counter))
+            output.append(format_verse(content, current_path, verse_counter))
 
         output.append("\n")
 
