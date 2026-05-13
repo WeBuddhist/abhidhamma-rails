@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "eb0e43f32ce46554",
+        "id": "7bc5f13d5c6a51d0",
         "type": "tabs",
         "children": [
           {
-            "id": "361f1424b34914e6",
+            "id": "076990a97213e071",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": "test .otr01.md",
-                "bFile": "test .otr01.md",
-                "aRef": ""
+                "file": "README.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: test .otr01  (Working Tree)"
+              "icon": "lucide-file",
+              "title": "README"
             }
           }
         ]
@@ -194,8 +194,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "361f1424b34914e6",
+  "active": "eb2538ea3fa47051",
   "lastOpenFiles": [
+    "4-SYSTEM/How-to guides/Sync and troubleshoot.md",
+    "4-SYSTEM/How-to guides/Set up the vault.md",
     "test .otr01.md",
     "1-SOURCES/Text/Pali-Roman.md",
     "test.md",
