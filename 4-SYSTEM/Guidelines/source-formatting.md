@@ -6,6 +6,47 @@ For the LLM-facing distillation of these rules see `4-SYSTEM/CLAUDE.md` Sections
 
 ---
 
+## Summary
+
+Every text in `1-SOURCES/` is a single Markdown file with **YAML frontmatter** at the top and the text body below. Author-defined chapters become `##` headings; sub-sections become `###`. Every verse ends with an Obsidian **block ID** in the form `^chapter-verse` (e.g., `^1-1`) — natural numbers, never zero-padded. Filenames are lowercase and carry a language-tag suffix (e.g., `sk-root-text.md` for Sanskrit, `bo-root-text.md` for Tibetan). Anything that isn't part of the original text — manuscript variants, scribal observations, clarifications — goes in inline `[Ed: ...]` notes. No translation, no interpretation: those belong in other folders.
+
+### Example — a properly formatted root text
+
+A file at `1-SOURCES/Text/sk-root-text.md` should look like this:
+
+````markdown
+---
+title: Bodhicaryāvatāra
+author: Śāntideva
+date: 8th century CE
+language: Sanskrit
+script: Devanāgarī
+file_type: root-text
+lang_tag: sk
+chapters: 10
+verse_id_format: chapter-verse
+source_description: "Transcribed from Vaidya 1960 critical edition"
+source_url: https://www.dsbcproject.org/canon-text/content/71
+---
+
+## 0. Introduction
+
+ॐ नमः सर्वबुद्धबोधिसत्त्वेभ्यः ॥ ^0-1
+
+## 1. बोधिचित्तानुशंस
+
+सुगतान् सगणान् नत्वा धर्मकायादिगोचरान् ।
+सर्वान् सुतान् अपि तथा वन्द्यानभिवाद्य च सादरम् ॥ ^1-1
+[Ed: continuous verse number 1 in Vaidya 1960]
+
+इदं हि बुद्धपुत्राणां मनोऽभिरमयिष्यति ।
+सम्यक् प्रतिपन्नानां श्रद्धा च वर्धयिष्यति ॥ ^1-2
+````
+
+The rest of this document defines each piece in detail: folder structure, frontmatter fields for each file type, block ID conventions, body format per language, editorial notes, and language tags.
+
+---
+
 ## 1. Principles
 
 **Single source of truth.** Every text, translation, and commentary lives in one file. Obsidian block IDs make individual verses linkable without splitting files.
