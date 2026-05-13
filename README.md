@@ -8,6 +8,8 @@ We build rails so that AI-powered work on the Abhidhamma — translation, summar
 
 It's the same idea as Wikipedia for general knowledge. Almost every fact on Wikipedia exists somewhere else on the open internet, often in more detail. But AI tools reach for Wikipedia because the information has already been gathered, summarised, and organised by people who knew what they were doing — which makes it cheaper to retrieve from and more reliable to cite than the raw web. The rails do the same job for the Abhidhamma. The Abhidhamma is a dense, technical analysis of mind and matter, and every key term has been read in subtly different ways across the commentary tradition. Each rail is the curated, Wikipedia-style entry for one unit of the text — one verse, one section, or one concept — distilled from the commentary tradition, organised consistently, and citing the human source behind every claim.
 
+For the full Wikipedia ↔ rails parallel — information density, structure, context-window fit, citations, tone, licensing, data cleanliness, cross-lingual coverage — see [`4-SYSTEM/Guidelines/why-rails.md`](4-SYSTEM/Guidelines/why-rails.md).
+
 For each verse or analytical unit, a rail records:
 
 - The morphology and syntax of the original
@@ -50,6 +52,7 @@ If you're joining the project for the first time:
 
 The methodology and rules live in `4-SYSTEM/`:
 
+- [`Guidelines/why-rails.md`](4-SYSTEM/Guidelines/why-rails.md) — the Wikipedia analogy in full, with the parallel mapped category by category
 - [`Guidelines/0-VAULT-Structure.md`](4-SYSTEM/Guidelines/0-VAULT-Structure.md) — top-level architecture and the citation chain
 - [`Guidelines/1-SOURCES-Guideline.md`](4-SYSTEM/Guidelines/1-SOURCES-Guideline.md) — rules for source files
 - [`Guidelines/2-RAILS-Guideline.md`](4-SYSTEM/Guidelines/2-RAILS-Guideline.md) — schema for compiling rails
