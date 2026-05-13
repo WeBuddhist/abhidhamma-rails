@@ -8,7 +8,7 @@ For the LLM-facing distillation of these rules see `4-SYSTEM/CLAUDE.md` Sections
 
 ## Summary
 
-Every text in `1-SOURCES/` is a single Markdown file with **YAML frontmatter** at the top and the text body below. Author-defined chapters become `##` headings; sub-sections become `###`. Every verse ends with an Obsidian **block ID** in the form `^chapter-verse` (e.g., `^1-1`) — natural numbers, never zero-padded. Filenames are lowercase and carry a language-tag suffix (e.g., `sk-root-text.md` for Sanskrit, `bo-root-text.md` for Tibetan). Anything that isn't part of the original text — manuscript variants, scribal observations, clarifications — goes in inline `[Ed: ...]` notes. No translation, no interpretation: those belong in other folders.
+Every text in `1-SOURCES/` is a single Markdown file with **YAML frontmatter** at the top and the text body below. Author-defined chapters become `##` headings; sub-sections become `###`. **Every heading and every verse carries an Obsidian block ID**: verses use `^chapter-verse` (e.g., `^1-1`), chapter headings use `^chapter-0`, and sub-section headings use `^chapter-section-0`. Numbers are natural — never zero-padded. Filenames are lowercase and carry a language-tag suffix (e.g., `sk-root-text.md` for Sanskrit, `bo-root-text.md` for Tibetan). Anything that isn't part of the original text — manuscript variants, scribal observations, clarifications — goes in inline `[Ed: ...]` notes. No translation, no interpretation: those belong in other folders.
 
 ### Example — a properly formatted root text
 
@@ -29,11 +29,11 @@ source_description: "Transcribed from Vaidya 1960 critical edition"
 source_url: https://www.dsbcproject.org/canon-text/content/71
 ---
 
-## 0. Introduction
+## 0. Introduction ^0-0
 
 ॐ नमः सर्वबुद्धबोधिसत्त्वेभ्यः ॥ ^0-1
 
-## 1. बोधिचित्तानुशंस
+## 1. बोधिचित्तानुशंस ^1-0
 
 सुगतान् सगणान् नत्वा धर्मकायादिगोचरान् ।
 सर्वान् सुतान् अपि तथा वन्द्यानभिवाद्य च सादरम् ॥ ^1-1
@@ -224,21 +224,21 @@ For multi-line prose passages in commentaries, the block ID goes on the last lin
 
 ### Chapter and Section Headings
 
-Author-defined structural divisions map directly to the Markdown heading hierarchy. If the author provided a table of contents, its entries define the headings.
+Author-defined structural divisions map directly to the Markdown heading hierarchy. If the author provided a table of contents, its entries define the headings. Every heading also carries a block ID — `0` in the verse position — so the heading itself is individually linkable.
 
 ```markdown
-## Chapter 6: Kṣānti — Patience
+## Chapter 6: Kṣānti — Patience ^6-0
 
-### 6.1 The harm of anger
+### 6.1 The harm of anger ^6-1-0
 
-### 6.2 The cultivation of patience
+### 6.2 The cultivation of patience ^6-2-0
 ```
 
-- `##` — author-defined books or chapters
-- `###` — author-defined sub-sections (from the author's own TOC)
+- `##` — author-defined books or chapters → `^chapter-0`
+- `###` — author-defined sub-sections (from the author's own TOC) → `^chapter-section-0`
 - `####` — not used; block IDs replace verse-level headings
 
-**Sub-sections do not affect verse IDs.** Verses beneath a `###` heading still use `^chapter-verse` block IDs, not `^chapter-section-verse`. Sub-section headings are for navigation only.
+**Sub-sections do not affect verse IDs.** Verses beneath a `###` heading still use `^chapter-verse` block IDs, not `^chapter-section-verse`. The sub-section heading's own `^chapter-section-0` ID is for navigation only and doesn't collide with verse IDs (verses never use `0` in the verse position).
 
 Never use headings for editor-imposed divisions. If an edition or translator adds section titles not present in the original, note them as `[Ed: ...]` inline.
 
@@ -262,12 +262,12 @@ This keeps the `^chapter-verse` system fully consistent: chapter 0 is the pre-ch
 Example — Tibetan root text:
 
 ```markdown
-## 0. Introduction
+## 0. Introduction ^0-0
 
 ༄། །བྱང་ཆུབ་སེམས་དཔའི་སྤྱོད་པ་ལ་འཇུག་པ་བཞུགས་སོ། ། ^0-1
 ༄༅༅། །རྒྱ་གར་སྐད་དུ། བོ་དྷི་སཏྭ་ཙརྱ་ཨ་བ་ཏཱ་ར། ^0-2
 
-## 1. ལེའུ་དང་པོ།
+## 1. ལེའུ་དང་པོ། ^1-0
 
 བདེ་གཤེགས་ཆོས་ཀྱི་སྐུ་མངའ་སྲས་བཅས་དང་། །
 ཕྱག་འོས་ཀུན་ལའང་གུས་པར་ཕྱག་འཚལ་ཏེ། །
@@ -301,9 +301,9 @@ Devanāgarī is the standard script for all Sanskrit root texts. IAST goes in a 
 [frontmatter]
 ---
 
-## 0. Introduction
+## 0. Introduction ^0-0
 
-## 1. बोधिचित्तानुशंस
+## 1. बोधिचित्तानुशंस ^1-0
 
 सुगतान् सगणान् नत्वा धर्मकायादिगोचरान् ।
 बोधिसत्त्वपदप्राप्तिं वक्ष्यामि शास्त्रसङ्ग्रहम् ॥ ^1-1
@@ -323,7 +323,7 @@ Devanāgarī is the standard script for all Sanskrit root texts. IAST goes in a 
 [frontmatter]
 ---
 
-## 1. Kusalā Dhammā
+## 1. Kusalā Dhammā ^1-0
 
 katame dhammā kusalā? yasmiṃ samaye kāmāvacaraṃ kusalaṃ cittaṃ uppannaṃ hoti
 somanassasahagataṃ ñāṇasampayuttaṃ... ^1
@@ -338,11 +338,11 @@ Unicode Tibetan script is the standard for Tibetan root texts. Wylie translitera
 [frontmatter]
 ---
 
-## 0. Introduction
+## 0. Introduction ^0-0
 
 ༄། །བྱང་ཆུབ་སེམས་དཔའི་སྤྱོད་པ་ལ་འཇུག་པ་བཞུགས་སོ། ། ^0-1
 
-## 1. བྱང་ཆུབ་སེམས་ཀྱི་ཡོན་ཏན་བསྟོད་པ།
+## 1. བྱང་ཆུབ་སེམས་ཀྱི་ཡོན་ཏན་བསྟོད་པ། ^1-0
 
 བདེ་གཤེགས་ཆོས་ཀྱི་སྐུ་མངའ་སྲས་བཅས་དང་། །
 ཕྱག་འོས་ཀུན་ལའང་གུས་པར་ཕྱག་འཚལ་ཏེ། ། ^1-1
@@ -359,7 +359,7 @@ Same block ID system as the root text. Block IDs correspond to the **source vers
 [frontmatter]
 ---
 
-## Chapter 1: The Excellence of Bodhicitta
+## Chapter 1: The Excellence of Bodhicitta ^1-0
 
 Having paid homage to the Sugatas together with their retinues,
 whose scope encompasses the dharmakāya and so forth,
@@ -407,18 +407,18 @@ Use whatever system the commentary author defined. If the commentary has no inte
 [frontmatter — verse_id_format: book-chapter-verse]
 ---
 
-## 1. Commentary on Chapter 1
+## 1. Commentary on Chapter 1 ^1-0
 
-### 1.1 Introduction to Chapter 1
+### 1.1 Introduction to Chapter 1 ^1-1-0
 
 General introduction to chapter 1. ^1-1-1
 General introduction continued. ^1-1-2
 
-### 1.2 Verses 1–5 — Overview
+### 1.2 Verses 1–5 — Overview ^1-2-0
 
 Introductory overview of the first five verses. ^1-2-1
 
-### 1.3 Verse-by-verse commentary
+### 1.3 Verse-by-verse commentary ^1-3-0
 
 Commentary on first verse. ^1-3-1
 Commentary on first verse continued. ^1-3-2
@@ -439,13 +439,13 @@ Transclusions anchor the commentary to the root text. They are placed where root
 [frontmatter — verse_id_format: book-chapter-verse]
 ---
 
-## 1. Commentary on Chapter 1
+## 1. Commentary on Chapter 1 ^1-0
 
-### 1.1 Introduction to Chapter 1
+### 1.1 Introduction to Chapter 1 ^1-1-0
 
 General introduction to chapter 1. ^1-1-1
 
-### 1.2 Verses 1–5 — Overview
+### 1.2 Verses 1–5 — Overview ^1-2-0
 
 ![[1-SOURCES/Text/sk-root-text.md#^1-1]]
 ![[1-SOURCES/Text/sk-root-text.md#^1-2]]
@@ -455,7 +455,7 @@ General introduction to chapter 1. ^1-1-1
 
 Introductory overview of verses 1–5. ^1-2-1
 
-### 1.3 Verse-by-verse commentary
+### 1.3 Verse-by-verse commentary ^1-3-0
 
 ![[1-SOURCES/Text/sk-root-text.md#^1-1]]
 
@@ -560,6 +560,7 @@ For languages not listed, use the appropriate ISO 639-1 code.
 - [ ] `source_url` included if sourced digitally
 - [ ] `verse_id_format` declared in frontmatter
 - [ ] Every verse has a block ID on its last line — `^chapter-verse` or `^verse`
+- [ ] Every chapter heading carries `^chapter-0`; every sub-section heading carries `^chapter-section-0`
 - [ ] No zero-padding in block IDs
 - [ ] Chapter headings `##`, sub-sections `###` — no `####`
 - [ ] Commentary has its own TOC headings independent of root text structure
