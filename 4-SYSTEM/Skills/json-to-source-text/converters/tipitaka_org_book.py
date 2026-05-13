@@ -223,8 +223,12 @@ def convert_json_to_source_text(json_path, output_path) -> None:
                 continue
             if role == ROLE_SUBHEAD:
                 if seen_title:
+                    # h4 sub-sub-section: emit its full path in the heading ID,
+                    # but leave current_path at h3 level so following verses
+                    # stay at 3 components (^N-M-V). Verse counter continues
+                    # from the enclosing h3.
                     subsection_counter += 1
-                    change_path(f"{out_ch}-{section_counter}-{subsection_counter}", reset_counter=False)
+                    flush_verse()
                     out.append(format_subsubsection_heading(
                         out_ch, section_counter, subsection_counter,
                         strip_leading_number(content)))
