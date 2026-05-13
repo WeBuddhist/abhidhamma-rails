@@ -2,39 +2,31 @@
 """
 tipitaka_org_book.py — converter for tipitaka.org Mūla book exports.
 
-Schema (observed):
-  Top level:  id, title_pali, title_breadcrumb, collection, pitaka, layer,
-              layer_type, fts_prefix, source_filename, total_segments,
-              total_characters, full_text, segments
-  Each segment: id, chapter, paragraph, span_start, span_end, content,
-                css_class, original_path
+Outputs Markdown matching the Abhidhamma-rails source-text conventions
+(see 4-SYSTEM/Guidelines/source-formatting.md and the file-level header
+hierarchy adopted for canonical Pāli texts).
 
-  css_class values and their structural roles:
-    centered    — homage line ("Namo tassa…")             → preface
-    nikaya      — pitaka label ("Abhidhammapiṭake")       → preface
-    book        — book title  ("Dhammasaṅgaṇīpāḷi")       → preface
-    chapter     — chapter heading (one per source chapter)  → ##  ^N-0
-    title       — major sub-section (e.g. "Dukamātikā")     → ###  ^N-M-0
-    subhead     — minor sub-section. CONTEXT-DEPENDENT:
-                    • if seen before any `title` in this chapter,
-                      it's a sibling of `title`   → ### ^N-M-0
-                    • if seen after a `title`, it's a child of that title
-                      and emits as            → #### ^N-M-K-0
-    bodytext    — verse / prose body                      → verse ^N-V
-    unindented  — verse body (continuation)               → verse ^N-V
+Header hierarchy emitted:
+    Namo tassa…             — plain text, no ID
+    # <pitaka name>         — from css_class="nikaya"
+    ## <book name>          — from css_class="book"
+    ## N. <chapter name>    — one per source chapter; chapter 0 = Mātikā (TOC)
+    ### N.M <title>         — major sub-section (css_class="title", or a
+                              standalone css_class="subhead" before any title)
+    #### N.M.K <subhead>    — minor sub-section (css_class="subhead" after a
+                              title in the same chapter)
 
-Output strategy:
-  - Opening run of `centered`/`nikaya`/`book` segments → synthetic
-    `## 0. Introduction ^0-0` with verses `^0-1`, `^0-2`, …
-  - Source chapter N → `## (N+1). {chapter_title} ^(N+1)-0`
-  - Per chapter, maintain a section counter (incremented for each `title`
-    or for each `subhead` seen BEFORE the first title) and a subsection
-    counter (incremented for each `subhead` AFTER a title, reset whenever
-    a new title is seen).
-  - Verses get `^chapter-V` with V restarting at 1 per chapter, regardless
-    of any nesting under titles or subheads (per source-formatting.md:
-    "sub-sections do not affect verse IDs").
-  - Leading "N. " in source titles is stripped (our own numbering replaces it).
+Block IDs:
+    Headings:   ^N-0, ^N-M-0, ^N-M-K-0  (trailing 0 = heading marker)
+    Verses:     ^N-V, ^N-M-V, ^N-M-K-V  (full path of enclosing heading +
+                                          verse number from the source)
+
+Verse grouping:
+    A bodytext segment whose content starts with `<digit>+.` (e.g. "1.",
+    "23.") opens a new verse. Subsequent bodytext segments are accumulated
+    as continuation lines of that verse until the next numbered segment or
+    a heading. Each verse emits as a multi-line block with the ID at the
+    end of the last line, followed by a blank line.
 
 CLI:
     python tipitaka_org_book.py source.json output.md
@@ -47,7 +39,6 @@ import re
 import sys
 from pathlib import Path
 
-# Allow `python converters/tipitaka_org_book.py …` to import the template
 sys.path.insert(0, str(Path(__file__).resolve().parent.parent))
 
 from json_to_source_text import (  # noqa: E402
@@ -55,31 +46,25 @@ from json_to_source_text import (  # noqa: E402
     format_chapter_heading,
     format_subsection_heading,
     format_subsubsection_heading,
-    format_verse,
     clean_text,
 )
 
 
 _leading_num_re = re.compile(r"^\s*\d+\.\s*")
+_verse_opening_re = re.compile(r"^\s*\d+\.\s")
 
 
 def strip_leading_number(title: str) -> str:
-    """Strip leading 'N. ' from source titles to avoid double-numbering
-    (the source's '1. Cittuppādakaṇḍaṃ' becomes our '## 2. Cittuppādakaṇḍaṃ')."""
     return _leading_num_re.sub("", title).strip()
 
 
-# Roles
+# Internal roles
 ROLE_CHAPTER = "chapter"
 ROLE_TITLE = "title"
 ROLE_SUBHEAD = "subhead"
 ROLE_VERSE = "verse"
-ROLE_PREFACE = "preface"
 
 CATEGORY_TO_ROLE = {
-    "centered":   ROLE_PREFACE,
-    "nikaya":     ROLE_PREFACE,
-    "book":       ROLE_PREFACE,
     "chapter":    ROLE_CHAPTER,
     "title":      ROLE_TITLE,
     "subhead":    ROLE_SUBHEAD,
@@ -123,17 +108,6 @@ def extract_metadata(data: dict, source_path: Path) -> dict:
 
 
 def convert_json_to_source_text(json_path, output_path) -> None:
-    """Convert one tipitaka.org JSON file to a source-text Markdown.
-
-    - Source chapter numbers are preserved (no shift). The source's chapter 0
-      (Mātikā) becomes our chapter 0 — i.e. the Introduction / TOC chapter
-      of the book. Verses from the opening homage/title preface are folded
-      into chapter 0 as its first verses.
-    - Verse IDs carry the full heading path: ^0-1 for verses directly under
-      `## 0`, ^0-1-V for verses under `### 0.1`, ^0-2-1-V for verses under
-      `#### 0.2.1`. Verse counters restart at 1 every time a new heading
-      changes the path.
-    """
     json_path = Path(json_path)
     output_path = Path(output_path)
 
@@ -143,110 +117,130 @@ def convert_json_to_source_text(json_path, output_path) -> None:
     meta = extract_metadata(data, json_path)
     segments = data.get("segments", [])
 
-    # Phase 1: bucket segments by source chapter; pull opening preface separately.
-    preface: list[str] = []
-    chapters: dict[int, list[tuple[str, str]]] = {}
+    # Phase 1 — bucket segments.
+    homage = None
+    pitaka_heading = None
+    book_heading = None
+    chapters: dict[int, list] = {}
     saw_first_chapter = False
+
     for seg in segments:
         css = seg.get("css_class", "")
-        role = CATEGORY_TO_ROLE.get(css, ROLE_VERSE)
         content = clean_text(seg.get("content", ""))
         if not content:
             continue
         src_ch = seg.get("chapter", 0)
 
-        if role == ROLE_PREFACE and not saw_first_chapter:
-            preface.append(content)
-            continue
+        if not saw_first_chapter:
+            if css == "centered":
+                if homage is None:
+                    homage = content
+                continue
+            if css == "nikaya":
+                pitaka_heading = content
+                continue
+            if css == "book":
+                book_heading = content
+                continue
+
+        role = CATEGORY_TO_ROLE.get(css, ROLE_VERSE)
         if role == ROLE_CHAPTER:
             saw_first_chapter = True
-        if role == ROLE_PREFACE:
-            role = ROLE_VERSE
         chapters.setdefault(src_ch, []).append((role, content))
 
-    # Phase 2: emit Markdown.
-    output: list[str] = [format_frontmatter(meta), "\n"]
+    # Phase 2 — emit.
+    out: list[str] = [format_frontmatter(meta), "\n"]
+
+    if homage:
+        out.append(homage + "\n\n")
+    if pitaka_heading:
+        out.append(f"# {pitaka_heading}\n\n")
+    if book_heading:
+        out.append(f"## {book_heading}\n\n")
 
     for src_ch in sorted(chapters.keys()):
-        out_ch = src_ch  # preserve source chapter numbering — Mātikā stays as chapter 0
+        out_ch = src_ch
         items = chapters[src_ch]
-
         chapter_title_raw = next(
             (c for r, c in items if r == ROLE_CHAPTER),
             f"Chapter {out_ch}",
         )
         chapter_title = strip_leading_number(chapter_title_raw)
-        output.append(format_chapter_heading(out_ch, chapter_title))
-        output.append("\n")
+        out.append(format_chapter_heading(out_ch, chapter_title))
+        out.append("\n")
 
-        # Heading-path state for this chapter
         current_path = str(out_ch)
         verse_counter = 0
         section_counter = 0
         subsection_counter = 0
         seen_title = False
         consumed_chapter_title = False
+        verse_buffer: list[str] = []
 
-        # For chapter 0, the book's opening preface (homage, pitaka label, book
-        # title) is emitted as the first verses of the chapter, directly under
-        # ## 0, before any sub-section heading.
-        if src_ch == 0 and preface:
-            for content in preface:
-                verse_counter += 1
-                output.append(format_verse(content, current_path, verse_counter))
+        def flush_verse() -> None:
+            nonlocal verse_counter
+            if not verse_buffer:
+                return
+            verse_counter += 1
+            body = "\n".join(verse_buffer)
+            out.append(f"{body} ^{current_path}-{verse_counter}\n\n")
+            verse_buffer.clear()
+
+        def change_path(new_path: str) -> None:
+            nonlocal current_path, verse_counter
+            flush_verse()
+            current_path = new_path
+            verse_counter = 0
 
         for role, content in items:
-            if role == ROLE_CHAPTER and not consumed_chapter_title:
-                consumed_chapter_title = True
-                continue
             if role == ROLE_CHAPTER:
-                # Extra chapter-class element inside a source chapter — treat as ###
+                if not consumed_chapter_title:
+                    consumed_chapter_title = True
+                    continue
                 section_counter += 1
                 subsection_counter = 0
                 seen_title = False
-                current_path = f"{out_ch}-{section_counter}"
-                verse_counter = 0
-                output.append(format_subsection_heading(
+                change_path(f"{out_ch}-{section_counter}")
+                out.append(format_subsection_heading(
                     out_ch, section_counter, strip_leading_number(content)))
-                output.append("\n")
+                out.append("\n")
                 continue
             if role == ROLE_TITLE:
                 section_counter += 1
                 subsection_counter = 0
                 seen_title = True
-                current_path = f"{out_ch}-{section_counter}"
-                verse_counter = 0
-                output.append(format_subsection_heading(
+                change_path(f"{out_ch}-{section_counter}")
+                out.append(format_subsection_heading(
                     out_ch, section_counter, strip_leading_number(content)))
-                output.append("\n")
+                out.append("\n")
                 continue
             if role == ROLE_SUBHEAD:
                 if seen_title:
                     subsection_counter += 1
-                    current_path = f"{out_ch}-{section_counter}-{subsection_counter}"
-                    verse_counter = 0
-                    output.append(format_subsubsection_heading(
+                    change_path(f"{out_ch}-{section_counter}-{subsection_counter}")
+                    out.append(format_subsubsection_heading(
                         out_ch, section_counter, subsection_counter,
                         strip_leading_number(content)))
                 else:
                     section_counter += 1
-                    current_path = f"{out_ch}-{section_counter}"
-                    verse_counter = 0
-                    output.append(format_subsection_heading(
+                    change_path(f"{out_ch}-{section_counter}")
+                    out.append(format_subsection_heading(
                         out_ch, section_counter, strip_leading_number(content)))
-                output.append("\n")
+                out.append("\n")
                 continue
-            # ROLE_VERSE
-            verse_counter += 1
-            output.append(format_verse(content, current_path, verse_counter))
+            # ROLE_VERSE — accumulate; a new "<n>." opens a new verse
+            if _verse_opening_re.match(content):
+                flush_verse()
+            verse_buffer.append(content)
 
-        output.append("\n")
+        flush_verse()
+        out.append("\n")
 
     output_path.parent.mkdir(parents=True, exist_ok=True)
-    output_path.write_text("".join(output), encoding="utf-8")
+    output_path.write_text("".join(out), encoding="utf-8")
 
 
-def main():
+def main() -> None:
     ap = argparse.ArgumentParser(description=__doc__)
     ap.add_argument("json_path", type=Path)
     ap.add_argument("output_path", type=Path)
