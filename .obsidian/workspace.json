@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1-SOURCES/Text/Pali-Roman.md",
+                "file": "4-SYSTEM/How-to guides/Align audio.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Pali-Roman"
+              "title": "Align audio"
             }
           }
         ]
@@ -196,9 +196,9 @@
   },
   "active": "a2e871a4ae7b5bbe",
   "lastOpenFiles": [
+    "1-SOURCES/Text/Pali-Roman.md",
     "4-SYSTEM/How-to guides/Align audio.md",
     "conflict-files-obsidian-git.md",
-    "1-SOURCES/Text/Pali-Roman.md",
     "4-SYSTEM/Guidelines/1-SOURCES-Guideline.md",
     "4-SYSTEM/How-to guides/align audio/Untitled.md",
     "4-SYSTEM/How-to guides/align audio",
