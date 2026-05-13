@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4-SYSTEM/Guidelines/source-formatting.md",
+                "file": "1-SOURCES/Text/Pali-Roman.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "source-formatting"
+              "title": "Pali-Roman"
             }
           }
         ]
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 605.5
+    "width": 237.50852584838867
   },
   "right": {
     "id": "08fb4a0a47ab3b49",
@@ -180,7 +180,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 568.5
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -196,11 +196,11 @@
   },
   "active": "d460e595355d97ba",
   "lastOpenFiles": [
+    "4-SYSTEM/Guidelines/source-formatting.md",
     "4-SYSTEM/Guidelines/source-formatting.md.tmp.61252.d4b15618aabe",
     "4-SYSTEM/Guidelines/source-formatting.md.tmp.61252.53f827c9b741",
     "4-SYSTEM/Guidelines/source-formatting.md.tmp.61252.24791d4c8452",
     "README.md",
-    "4-SYSTEM/Guidelines/source-formatting.md",
     "4-SYSTEM/Guidelines/source-formatting.md.tmp.9056.abe1f8fde824",
     "4-SYSTEM/Guidelines/0-VAULT-Structure.md",
     "README.md.tmp.4012.47a1d1ee1c77",
