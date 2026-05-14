@@ -316,18 +316,108 @@ Devanāgarī is the standard script for all Sanskrit root texts. IAST goes in a 
 
 **Half-verse markers in IAST:** `|` at the caesura, `||` at verse end. Do not create separate block IDs for half-verses.
 
-### Pāli
+### Pāli — Tipiṭaka root texts (Bible-style addressing)
+
+Pāli canonical texts (Tipiṭaka books) are numbered using a Bible-inspired addressing scheme. One Markdown file holds one canonical book. This convention overrides the generic rules in Sections 4 and 5 for these texts.
+
+**The analogy:**
+
+| Bible                       | Tipiṭaka                                                       |
+| --------------------------- | -------------------------------------------------------------- |
+| The Bible (whole canon)     | The Tipiṭaka                                                   |
+| Book (Genesis, Matthew, …)  | Pitaka (Vinaya, Sutta, Abhidhamma)                             |
+| Chapter (Genesis 1)         | A canonical book within a pitaka (Dhammasaṅgaṇī, Vibhaṅga, …)  |
+| Verse (Genesis 1:1)         | A verse running continuously through the book                  |
+
+**Heading hierarchy and anchors:**
+
+| Markdown                  | Role                              | Anchor                                                              |
+| ------------------------- | --------------------------------- | ------------------------------------------------------------------- |
+| (plain text, no heading)  | Homage line (`Namo tassa…`)       | —                                                                   |
+| `# <pitaka>`              | The pitaka                        | `^<pitaka-slug>-0` (e.g. `^abhidhamma-0`)                           |
+| `## <book>`               | The canonical book                | `^<book>-0` (book = position within pitaka, e.g. `1` for Dhammasaṅgaṇī) |
+| `### <title>`             | Major book-internal section       | `^<book>-<h3>-0`                                                    |
+| `#### <title>`            | Sub-section                       | `^<book>-<h3>-<h4>-0` (TOC exception below)                         |
+| `##### <title>`           | Deeper sub-section                | `^<book>-<h3>-<h4>-<h5>-0` (TOC exception below)                    |
+
+**Verse IDs — two namespaces:**
+
+The book has a **single, continuous verse counter** that runs through every section. Verses are `^<book>-V`, e.g. `^1-1`, `^1-2`, …, `^1-1626`. The counter does NOT reset at h3, h4 or h5 boundaries — Cittuppādakaṇḍaṃ's last verse is followed immediately by Rūpakaṇḍaṃ's first verse with the next number.
+
+The Mātikā / table-of-contents section (typically the source's first chapter) is the exception. Its h4 sub-sections (Tikamātikā, Dukamātikā, …) get **letter-suffixed sub-namespaces**:
+
+- The h4 sub-sections of Mātikā are labelled `a`, `b`, `c`, … in document order
+- Verses in each get a 3-component ID: `^<book>-0<letter>-V`, e.g. `^1-0a-1` (Tikamātikā verse 1), `^1-0b-1` (Dukamātikā verse 1)
+- `V` restarts at 1 for each h4, but does NOT restart at h5 boundaries (gocchakas under Dukamātikā continue Dukamātikā's verse count: Hetugocchakaṃ ends at `^1-0b-6`, Cūḷantaradukaṃ picks up at `^1-0b-7`)
+
+**Verse grouping rule:**
+
+A body line that starts with `<digit>+. ` (e.g. `1.`, `583.`) opens a new verse. Subsequent body lines without a leading number — typically `(Ka)` / `(Kha)` / `(Ga)` triplet markers, or trailing summary words like `Hetugocchakaṃ.` — are merged into the current verse as additional lines, and the block ID goes on the verse's final line.
+
+**Frontmatter:** set `verse_id_format: book-verse`.
+
+**Sub-verse citations:** when downstream content (rails, transformations) cites a sub-portion of a verse, use Bible-style letter suffixes (`^1-1a`, `^1-1b` for lines a, b of verse 1). **These are not generated in `1-SOURCES/`** — the source file gives each verse one ID; sub-verse addressing is added at citation time in `2-RAILS/` and downstream.
+
+**Example structure (Dhammasaṅgaṇī, 1st book of the Abhidhamma):**
 
 ```markdown
 ---
-[frontmatter]
+title: Dhammasaṅgaṇīpāḷi
+language: Pali
+file_type: root-text
+lang_tag: pi
+verse_id_format: book-verse
+pitaka: abhidhamma
+…
 ---
 
-## 1. Kusalā Dhammā ^1-0
+Namo tassa bhagavato arahato sammāsambuddhassa
 
-katame dhammā kusalā? yasmiṃ samaye kāmāvacaraṃ kusalaṃ cittaṃ uppannaṃ hoti
-somanassasahagataṃ ñāṇasampayuttaṃ... ^1
+# Abhidhammapiṭake ^abhidhamma-0
+
+## Dhammasaṅgaṇīpāḷi ^1-0
+
+### Mātikā ^1-0-0
+
+#### Tikamātikā ^1-0a-0
+
+1. (Ka) kusalā dhammā.
+(Kha) akusalā dhammā.
+(Ga) abyākatā dhammā. ^1-0a-1
+…
+
+#### Dukamātikā ^1-0b-0
+
+##### Hetugocchakaṃ ^1-0b-1-0
+
+1. (Ka) hetū dhammā.
+(Kha) na hetū dhammā. ^1-0b-1
+…
+
+##### Cūḷantaradukaṃ ^1-0b-2-0
+
+7. (Ka) sappaccayā dhammā.
+(Kha) appaccayā dhammā. ^1-0b-7
+…
+
+### Cittuppādakaṇḍaṃ ^1-1-0
+
+#### Kāmāvacarakusalaṃ ^1-1-1-0
+
+##### Padabhājanī ^1-1-1-1-0
+
+1. Katame dhammā kusalā? … ^1-1
+
+2. Katamo tasmiṃ samaye phasso hoti? … ^1-2
+…
+
+### Rūpakaṇḍaṃ ^1-2-0
+
+583. Katame dhammā abyākatā? … ^1-583
+…
 ```
+
+**Conversion:** Tipiṭaka book JSON exports from tipitaka.org are converted to this format by `4-SYSTEM/Skills/json-to-source-text/converters/tipitaka_org_book.py`. See that skill's `SKILL.md` for the full workflow.
 
 ### Tibetan (Unicode)
 
