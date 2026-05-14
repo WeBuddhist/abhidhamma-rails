@@ -20,8 +20,23 @@
               "icon": "diff",
               "title": "Diff: test .otr01  (Working Tree)"
             }
+          },
+          {
+            "id": "b69d8d636b476718",
+            "type": "leaf",
+            "state": {
+              "type": "split-diff-view",
+              "state": {
+                "aFile": ".obsidian/workspace.json",
+                "bFile": ".obsidian/workspace.json",
+                "aRef": ""
+              },
+              "icon": "diff",
+              "title": "Diff: workspace.json  (Working Tree)"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -194,30 +209,36 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "eb2538ea3fa47051",
+  "active": "b69d8d636b476718",
   "lastOpenFiles": [
-    "test .otr01.md",
-    "1-SOURCES/Text/Pali-Roman.md",
-    "test.md",
-    "1-SOURCES/Audio/Test.otr",
-    "4-SYSTEM/How-to guides/Align audio.md",
+    "1-SOURCES/Text/pi-dhammasangani.md",
     "conflict-files-obsidian-git.md",
+    "1-SOURCES/Text/Pali-Roman.md",
+    "4-SYSTEM/Skills/json-to-source-text/converters/__pycache__/tipitaka_org_book.cpython-310.pyc",
+    "4-SYSTEM/Skills/json-to-source-text/__pycache__/json_to_source_text.cpython-310.pyc",
+    "4-SYSTEM/Skills/json-to-source-text/converters/__pycache__",
+    "4-SYSTEM/Skills/json-to-source-text/converters/tipitaka_org_book.py",
+    "4-SYSTEM/Skills/json-to-source-text/SKILL.md",
+    "4-SYSTEM/Skills/json-to-source-text/__pycache__",
+    "4-SYSTEM/Skills/json-to-source-text/json_to_source_text.py",
+    "4-SYSTEM/Skills/json-to-source-text/json_inspector.py",
+    "4-SYSTEM/Skills/json-to-source-text/converters",
+    "4-SYSTEM/Skills/json-to-source-text",
+    "4-SYSTEM/How-to guides/Sync and troubleshoot.md",
+    "4-SYSTEM/How-to guides/Set up the vault.md",
+    "4-SYSTEM/Guidelines/why-rails.md",
+    "0-INBOX/temp/pi-dhammasangani.md",
+    "0-INBOX/temp",
+    "test .otr01.md",
+    "test.md",
+    "4-SYSTEM/How-to guides/Align audio.md",
     "4-SYSTEM/Guidelines/1-SOURCES-Guideline.md",
     "4-SYSTEM/How-to guides/align audio/Untitled.md",
-    "4-SYSTEM/How-to guides/align audio",
-    "4-SYSTEM/How-to guides",
-    "1-SOURCES/Audio",
     "4-SYSTEM/Guidelines/source-formatting.md",
-    "4-SYSTEM/Guidelines/source-formatting.md.tmp.61252.d4b15618aabe",
-    "4-SYSTEM/Guidelines/source-formatting.md.tmp.61252.53f827c9b741",
-    "4-SYSTEM/Guidelines/source-formatting.md.tmp.61252.24791d4c8452",
     "README.md",
-    "4-SYSTEM/Guidelines/source-formatting.md.tmp.9056.abe1f8fde824",
     "4-SYSTEM/Guidelines/0-VAULT-Structure.md",
-    "README.md.tmp.4012.47a1d1ee1c77",
     "1-Human-Sources/Root Text/Pali-Roman.md",
     "Copilot/Copilot-custom-promt.md",
-    "Copilot",
     "Root text - pali roman.md"
   ]
 }
