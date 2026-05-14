@@ -219,10 +219,12 @@ def convert_json_to_source_text(
             first_line = f"{num}. {ai_body}"
             verse_buffer.append(first_line)
         else:
-            # Continuation / trailing marker: append to current verse if one exists.
-            if verse_buffer:
-                verse_buffer.append(ai_body)
-            # else: drop (rare — shouldn't happen with a well-formed source)
+            # Non-numbered, non-heading entry: append to the current verse
+            # buffer. If the buffer is empty (we just flushed for a heading,
+            # for example), this entry seeds a new verse — which matches the
+            # Pāli converter's behaviour and keeps verse IDs aligned across
+            # the parallel files.
+            verse_buffer.append(ai_body)
 
     flush_verse()
 
