@@ -2,31 +2,44 @@
 """
 tipitaka_org_book.py — converter for tipitaka.org Mūla book exports.
 
-Outputs Markdown matching the Abhidhamma-rails source-text conventions
-(see 4-SYSTEM/Guidelines/source-formatting.md and the file-level header
-hierarchy adopted for canonical Pāli texts).
+Outputs Markdown using a Bible-style addressing scheme: one file = one "book"
+in the Bible sense (= one tipitaka.org-level book like Dhammasaṅgaṇī),
+which corresponds to a single "chapter" in the larger pitaka. Verses run
+continuously through the whole book.
 
-Header hierarchy emitted:
-    Namo tassa…             — plain text, no ID
-    # <pitaka name>         — from css_class="nikaya"
-    ## <book name>          — from css_class="book"
-    ## N. <chapter name>    — one per source chapter; chapter 0 = Mātikā (TOC)
-    ### N.M <title>         — major sub-section (css_class="title", or a
-                              standalone css_class="subhead" before any title)
-    #### N.M.K <subhead>    — minor sub-section (css_class="subhead" after a
-                              title in the same chapter)
+Header hierarchy:
+    Namo tassa…         — plain text, no ID
+    # <pitaka>          — h1, anchor ^<pitaka-slug>-0
+    ## <book>           — h2, anchor ^<book_id>-0 (book_id = 1 for Dhammasaṅgaṇī)
+    ### <h3 title>      — h3, source-level "chapter" segments (Mātikā,
+                          Cittuppādakaṇḍaṃ, Rūpakaṇḍaṃ, Nikkhepakaṇḍaṃ,
+                          Aṭṭhakathākaṇḍaṃ). Anchor ^<book>-<h3>-0.
+    #### <h4 title>     — h4, source-level "title" segments (or a standalone
+                          "subhead" before the first title in this h3).
+                          - Inside Mātikā (TOC), uses letter-suffix path:
+                            ^<book>-0a-0, ^<book>-0b-0, …
+                          - Elsewhere: ^<book>-<h3>-<h4>-0
+    ##### <h5 title>    — h5, source-level "subhead" segments that appear
+                          after a title.
+                          - Inside Mātikā: ^<book>-0<letter>-<h5>-0
+                          - Elsewhere:     ^<book>-<h3>-<h4>-<h5>-0
 
-Block IDs:
-    Headings:   ^N-0, ^N-M-0, ^N-M-K-0  (trailing 0 = heading marker)
-    Verses:     ^N-V, ^N-M-V, ^N-M-K-V  (full path of enclosing heading +
-                                          verse number from the source)
+Verse IDs:
+    Main book content (everything except Mātikā):
+        ^<book>-V   where V is a SINGLE counter that runs continuously
+                    through every h3/h4/h5 from the first non-TOC verse
+                    to the last verse of the book.
+
+    TOC (Mātikā) exception:
+        ^<book>-0<letter>-V   verse V of TOC sub-section <letter>
+        The letter (a, b, c, …) is assigned to each h4 inside Mātikā in order.
+        V restarts at 1 for each h4 but does NOT restart at h5 boundaries
+        (gocchakas under Dukamātikā continue Dukamātikā's verse count).
 
 Verse grouping:
-    A bodytext segment whose content starts with `<digit>+.` (e.g. "1.",
-    "23.") opens a new verse. Subsequent bodytext segments are accumulated
-    as continuation lines of that verse until the next numbered segment or
-    a heading. Each verse emits as a multi-line block with the ID at the
-    end of the last line, followed by a blank line.
+    Same as before: a bodytext segment starting with `<digit>+. ` opens a new
+    verse. Subsequent bodytext segments without a leading number are merged
+    into the current verse as continuation lines.
 
 CLI:
     python tipitaka_org_book.py source.json output.md
@@ -41,13 +54,7 @@ from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).resolve().parent.parent))
 
-from json_to_source_text import (  # noqa: E402
-    format_frontmatter,
-    format_chapter_heading,
-    format_subsection_heading,
-    format_subsubsection_heading,
-    clean_text,
-)
+from json_to_source_text import format_frontmatter, clean_text  # noqa: E402
 
 
 _leading_num_re = re.compile(r"^\s*\d+\.\s*")
@@ -72,6 +79,13 @@ CATEGORY_TO_ROLE = {
     "unindented": ROLE_VERSE,
 }
 
+# Map this source's pitaka field to a stable slug for the # heading anchor.
+PITAKA_SLUG = {
+    "abhidhamma": "abhidhamma",
+    "sutta":      "sutta",
+    "vinaya":     "vinaya",
+}
+
 
 def extract_metadata(data: dict, source_path: Path) -> dict:
     title = data.get("title_pali") or data.get("title") or source_path.stem
@@ -81,7 +95,6 @@ def extract_metadata(data: dict, source_path: Path) -> dict:
     source_id = data.get("id")
     source_filename = data.get("source_filename")
     total_segments = data.get("total_segments")
-
     bits = []
     if breadcrumb:
         bits.append(breadcrumb)
@@ -90,14 +103,13 @@ def extract_metadata(data: dict, source_path: Path) -> dict:
     description = "Tipitaka.org Mūla edition export."
     if bits:
         description += " " + "; ".join(bits) + "."
-
     return {
         "title": title,
         "language": "Pali",
         "script": "Roman (PTS diacritics)",
         "file_type": "root-text",
         "lang_tag": "pi",
-        "verse_id_format": "hierarchical-path",
+        "verse_id_format": "book-verse",
         "pitaka": pitaka,
         "layer": layer,
         "source_description": description,
@@ -113,24 +125,21 @@ def convert_json_to_source_text(json_path, output_path) -> None:
 
     with json_path.open(encoding="utf-8") as fh:
         data = json.load(fh)
-
     meta = extract_metadata(data, json_path)
     segments = data.get("segments", [])
 
-    # Phase 1 — bucket segments.
+    # Phase 1: bucket segments.
     homage = None
     pitaka_heading = None
     book_heading = None
     chapters: dict[int, list] = {}
     saw_first_chapter = False
-
     for seg in segments:
         css = seg.get("css_class", "")
         content = clean_text(seg.get("content", ""))
         if not content:
             continue
         src_ch = seg.get("chapter", 0)
-
         if not saw_first_chapter:
             if css == "centered":
                 if homage is None:
@@ -142,113 +151,140 @@ def convert_json_to_source_text(json_path, output_path) -> None:
             if css == "book":
                 book_heading = content
                 continue
-
         role = CATEGORY_TO_ROLE.get(css, ROLE_VERSE)
         if role == ROLE_CHAPTER:
             saw_first_chapter = True
         chapters.setdefault(src_ch, []).append((role, content))
 
-    # Phase 2 — emit.
+    # Phase 2: emit.
     out: list[str] = [format_frontmatter(meta), "\n"]
 
     if homage:
         out.append(homage + "\n\n")
+
+    pitaka_slug = PITAKA_SLUG.get(str(meta.get("pitaka", "")).lower(), "pitaka")
     if pitaka_heading:
-        out.append(f"# {pitaka_heading} ^pitaka-0\n\n")
+        out.append(f"# {pitaka_heading} ^{pitaka_slug}-0\n\n")
+
+    # book_id: position of this book within its pitaka. Dhammasaṅgaṇī is the
+    # 1st of the 7 Abhidhamma books, so we hard-code 1 here. When other books
+    # are added, derive this from the source ID (abh01m → 1, abh02m → 2, …).
+    book_id = _derive_book_id(meta.get("source_filename"), data.get("id"))
+
     if book_heading:
-        out.append(f"## {book_heading} ^book-0\n\n")
+        out.append(f"## {book_heading} ^{book_id}-0\n\n")
+
+    # Single global counter for non-TOC ("main") verses of the book.
+    main_verse_counter = [0]  # list to allow nested-function mutation w/o nonlocal
 
     for src_ch in sorted(chapters.keys()):
-        out_ch = src_ch
+        h3_position = src_ch
+        is_toc = (src_ch == 0)
         items = chapters[src_ch]
-        chapter_title_raw = next(
-            (c for r, c in items if r == ROLE_CHAPTER),
-            f"Chapter {out_ch}",
-        )
-        chapter_title = strip_leading_number(chapter_title_raw)
-        out.append(format_chapter_heading(out_ch, chapter_title))
-        out.append("\n")
 
-        current_path = str(out_ch)
-        verse_counter = 0
-        section_counter = 0
-        subsection_counter = 0
+        h3_title_raw = next(
+            (c for r, c in items if r == ROLE_CHAPTER),
+            f"Section {h3_position}",
+        )
+        h3_title = strip_leading_number(h3_title_raw)
+        out.append(f"### {h3_title} ^{book_id}-{h3_position}-0\n\n")
+
+        # Per-h3 emission state.
+        h4_counter = 0          # numeric counter for h4 in non-TOC h3
+        toc_letter_index = -1   # -1 → no h4 yet; 0 → 'a', 1 → 'b', …
+        toc_letter = None       # current TOC h4 letter
+        h5_counter = 0          # h5 counter (resets per h4)
         seen_title = False
         consumed_chapter_title = False
+        toc_verse_counter = [0]  # resets per TOC h4
+
         verse_buffer: list[str] = []
 
-        def flush_verse() -> None:
-            nonlocal verse_counter
+        def make_verse_id():
+            if is_toc and toc_letter is not None:
+                toc_verse_counter[0] += 1
+                return f"^{book_id}-{h3_position}{toc_letter}-{toc_verse_counter[0]}"
+            else:
+                main_verse_counter[0] += 1
+                return f"^{book_id}-{main_verse_counter[0]}"
+
+        def flush_verse():
             if not verse_buffer:
                 return
-            verse_counter += 1
+            id_str = make_verse_id()
             body = "\n".join(verse_buffer)
-            out.append(f"{body} ^{current_path}-{verse_counter}\n\n")
+            out.append(f"{body} {id_str}\n\n")
             verse_buffer.clear()
-
-        def change_path(new_path: str, reset_counter: bool) -> None:
-            """Flush any buffered verse, switch the current heading path,
-            and optionally reset the verse counter.
-
-            Reset on h2 (chapter) and h3 (sub-section) boundaries; do NOT
-            reset on h4 — verses keep running from the enclosing h3 even as
-            they pass through h4 sub-sub-sections."""
-            nonlocal current_path, verse_counter
-            flush_verse()
-            current_path = new_path
-            if reset_counter:
-                verse_counter = 0
 
         for role, content in items:
             if role == ROLE_CHAPTER:
                 if not consumed_chapter_title:
                     consumed_chapter_title = True
                     continue
-                section_counter += 1
-                subsection_counter = 0
-                seen_title = False
-                change_path(f"{out_ch}-{section_counter}", reset_counter=True)
-                out.append(format_subsection_heading(
-                    out_ch, section_counter, strip_leading_number(content)))
-                out.append("\n")
-                continue
+                # Stray chapter inside source chapter — promote to title
+                role = ROLE_TITLE
             if role == ROLE_TITLE:
-                section_counter += 1
-                subsection_counter = 0
                 seen_title = True
-                change_path(f"{out_ch}-{section_counter}", reset_counter=True)
-                out.append(format_subsection_heading(
-                    out_ch, section_counter, strip_leading_number(content)))
-                out.append("\n")
+                flush_verse()
+                if is_toc:
+                    toc_letter_index += 1
+                    toc_letter = chr(ord("a") + toc_letter_index)
+                    toc_verse_counter[0] = 0
+                    heading_id = f"^{book_id}-{h3_position}{toc_letter}-0"
+                else:
+                    h4_counter += 1
+                    h5_counter = 0
+                    heading_id = f"^{book_id}-{h3_position}-{h4_counter}-0"
+                out.append(f"#### {strip_leading_number(content)} {heading_id}\n\n")
                 continue
             if role == ROLE_SUBHEAD:
+                flush_verse()
                 if seen_title:
-                    # h4 sub-sub-section: emit its full path in the heading ID,
-                    # but leave current_path at h3 level so following verses
-                    # stay at 3 components (^N-M-V). Verse counter continues
-                    # from the enclosing h3.
-                    subsection_counter += 1
-                    flush_verse()
-                    out.append(format_subsubsection_heading(
-                        out_ch, section_counter, subsection_counter,
-                        strip_leading_number(content)))
+                    # H5: deeper sub-section under a title — preserves verse path
+                    h5_counter += 1
+                    if is_toc:
+                        heading_id = f"^{book_id}-{h3_position}{toc_letter}-{h5_counter}-0"
+                    else:
+                        heading_id = f"^{book_id}-{h3_position}-{h4_counter}-{h5_counter}-0"
+                    out.append(f"##### {strip_leading_number(content)} {heading_id}\n\n")
                 else:
-                    section_counter += 1
-                    change_path(f"{out_ch}-{section_counter}", reset_counter=True)
-                    out.append(format_subsection_heading(
-                        out_ch, section_counter, strip_leading_number(content)))
-                out.append("\n")
+                    # Standalone subhead before any title — treat as H4
+                    if is_toc:
+                        toc_letter_index += 1
+                        toc_letter = chr(ord("a") + toc_letter_index)
+                        toc_verse_counter[0] = 0
+                        heading_id = f"^{book_id}-{h3_position}{toc_letter}-0"
+                    else:
+                        h4_counter += 1
+                        h5_counter = 0
+                        heading_id = f"^{book_id}-{h3_position}-{h4_counter}-0"
+                    out.append(f"#### {strip_leading_number(content)} {heading_id}\n\n")
                 continue
-            # ROLE_VERSE — accumulate; a new "<n>." opens a new verse
+            # ROLE_VERSE
             if _verse_opening_re.match(content):
                 flush_verse()
             verse_buffer.append(content)
 
         flush_verse()
-        out.append("\n")
 
     output_path.parent.mkdir(parents=True, exist_ok=True)
     output_path.write_text("".join(out), encoding="utf-8")
+
+
+_book_id_re = re.compile(r"abh(\d+)m")
+
+
+def _derive_book_id(source_filename, source_id) -> int:
+    """Derive the book's position within the Abhidhamma pitaka from the
+    source ID/filename. tipitaka.org uses abh01m, abh02m, … for the seven
+    Abhidhamma books."""
+    for s in (source_filename, source_id):
+        if not s:
+            continue
+        m = _book_id_re.search(str(s))
+        if m:
+            return int(m.group(1))
+    return 1  # default
 
 
 def main() -> None:
