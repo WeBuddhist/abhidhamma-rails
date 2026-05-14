@@ -1,10 +1,11 @@
+
 Obsidian updates `workspace.json` every time you open notes or change layouts. If you added this file to `.gitignore` but it still appears in your Git changes, Git is already tracking it. A `.gitignore` file cannot ignore files that are already part of your repository history.
 
-Follow this guide to stop tracking the file without losing your local layout settings.
+## Follow this guide to stop tracking the file without losing your local layout settings.
 
 ---
 
-Step 1: Open Your Terminal
+#### Step 1: Open Your Terminal
 
 1. Open your terminal or command prompt.
 2. Navigate to your Obsidian vault root directory.
@@ -18,7 +19,7 @@ Step 1: Open Your Terminal
     Use code with caution.
     
 
-Step 2: Remove the File From Git Index
+#### Step 2: Remove the File From Git Index
 
 Run the following command to tell Git to stop tracking the file. This deletes the file from Git's memory but **keeps the file safe on your computer**.
 
@@ -43,7 +44,7 @@ Run the following command to tell Git to stop tracking the file. This deletes th
     Use code with caution.
     
 
-Step 3: Update Your `.gitignore`
+#### Step 3: Update Your `.gitignore`
 
 Ensure your `.gitignore` file explicitly lists these paths. Open your `.gitignore` file in a text editor and add the following lines:
 
@@ -56,7 +57,7 @@ text
 
 Use code with caution.
 
-Step 4: Commit and Push the Changes
+#### Step 4: Commit and Push the Changes
 
 Commit the tracking removal and push the update to your remote repository (e.g., GitHub).
 
