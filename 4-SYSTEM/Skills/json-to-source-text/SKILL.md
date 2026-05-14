@@ -1,6 +1,6 @@
 ---
 name: json-to-source-text
-description: Convert JSON dumps of classical texts (tipitaka.org, SuttaCentral, GRETIL exports, BDRC, custom scraped JSON) into properly formatted Markdown source-text files for `1-SOURCES/Text/`. Adaptive — inspects each JSON's schema, reuses an existing converter if the source shape is known, otherwise generates a new converter tailored to that schema. Output follows `4-SYSTEM/Guidelines/source-formatting.md` exactly: frontmatter, `^chapter-verse` block IDs, heading IDs (`^chapter-0`, `^chapter-section-0`), Chapter 0 for pre-chapter material.
+description: Convert JSON dumps of classical texts (tipitaka.org, SuttaCentral, GRETIL exports, BDRC, custom scraped JSON) into properly formatted Markdown source-text files for `1-SOURCES/Text/`. Adaptive — inspects each JSON's schema, reuses an existing converter if the source shape is known, otherwise generates a new converter. The current converter (`tipitaka_org_book.py`) produces Pāli Tipiṭaka root texts in the Bible-style book-verse numbering scheme — see `4-SYSTEM/Guidelines/source-formatting.md` §5 "Pāli — Tipiṭaka root texts (Bible-style addressing)" for the full convention. New converters for other source types must declare which output convention they target.
 ---
 
 # JSON to Source Text Skill
@@ -70,15 +70,23 @@ Look in `4-SYSTEM/Skills/json-to-source-text/converters/` for a file named `<sou
 
 Existing converters in this skill:
 
-| Slug | Source convention | Languages |
-|---|---|---|
-| `tipitaka_org_book.py` | tipitaka.org book exports (Mūla layer): top-level metadata + `segments[]` array with `chapter`, `paragraph`, `content`, `css_class` | Pāli |
+| Slug | Source convention | Output convention | Languages |
+|---|---|---|---|
+| `tipitaka_org_book.py` | tipitaka.org book exports (Mūla layer): top-level metadata + `segments[]` array with `chapter`, `paragraph`, `content`, `css_class` | **Pāli Tipiṭaka root text (Bible-style book-verse numbering).** One file per book. Verses run continuously through the whole book; the Mātikā TOC chapter uses letter-suffixed sub-namespaces (`^1-0a-V`, `^1-0b-V`). Heading hierarchy goes `#` (pitaka) → `##` (book) → `###`/`####`/`#####`. See `source-formatting.md` for the spec. | Pāli |
 
 ---
 
 ## Step 3 — Generate a Custom Converter
 
-Write a new Python script at:
+**First, pick the output convention** appropriate to the source's text type:
+
+- **Pāli Tipiṭaka root texts** (Vinaya, Sutta, Abhidhamma books): use the Bible-style `book-verse` scheme documented in `source-formatting.md` §5 ("Pāli — Tipiṭaka root texts"). Model the new converter on `tipitaka_org_book.py`.
+- **Sanskrit / Tibetan root texts**: use the generic `^chapter-verse` (or `^book-chapter-verse`) scheme. See the generic Sanskrit, Tibetan and root-text sections of `source-formatting.md`.
+- **Translations and commentaries**: follow the same block-ID system as the root text they accompany.
+
+If the source's text type doesn't fit any existing convention, propose a new one in `source-formatting.md` first, then build the converter.
+
+Write the new Python script at:
 
 ```
 4-SYSTEM/Skills/json-to-source-text/converters/<source_slug>.py
