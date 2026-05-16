@@ -46,7 +46,7 @@ A small number of Pāli terms are kept untranslated and italicised on first use 
 - `dhamma` is rendered _phenomenon_ in Abhidhamma analytical contexts, _teaching_ in dispensation contexts, _quality_ in mind-state contexts. The first occurrence in any new text carries a footnote that names the three senses and points at `2-RAILS/Local-Wiki/dhamma (phenomenon).md`, `dhamma (teaching).md`, etc.
 - `Nibbāna` is kept in Pāli, italicised on first use, then in roman thereafter.
 - `Buddha`, `Dhamma` (capital-D, when it means the teaching), and `Saṅgha` are kept in their Pāli forms, capitalised, no italics.
-- Every other Pāli technical term uses its locked English rendering from `terminology.md`. New terms are added to that file before they appear in any output.
+- Every other Pāli technical term uses its locked English rendering, drawn from `2-RAILS/Glossaries/glossary-pi-en.md` and recorded in the Daily Tipiṭaka cross-output table at `../../Daily-Tipitaka/terminology.md`. A term is locked _across_ outputs, not per file — once a rendering ships, every later output uses the same one.
 
 ### 1.4 What we never do
 
@@ -100,13 +100,13 @@ For this vault, every English rendering passes three review gates:
 
 Only `status: complete` files are used downstream (e.g. published to the Daily Tipiṭaka app, included in a printed edition). This is the same gate that governs the rails themselves (`4-SYSTEM/Guidelines/0-VAULT-Structure.md` §8).
 
-The set of locked term renderings in `terminology.md` is updated only after a fourth conversation among drafter, Pāli reviewer, and a senior Abhidhamma teacher. Once a term is locked, it cannot be changed without re-reading every published output that uses it.
+The set of locked term renderings is updated only after a fourth conversation among drafter, Pāli reviewer, and a senior Abhidhamma teacher. Once a term is locked, it cannot be changed without re-reading every published output that uses it.
 
 ---
 
-## 4. Output folder
+## 4. Output files
 
-Files produced under this brief land in `./outputs/`, organised by source-text section. Each output file's frontmatter records:
+Translation files produced under this brief sit directly in this folder, one per source-text section (e.g. `en-dhammasangani-ai.md`, `en-vibhanga-ai.md`, …). Each file's frontmatter records:
 
 - `brief_id: en-Contemporary-English-Abhidhamma`
 - `source_rails:` — the rail packages it draws from (verse rails, section rails, local-wiki pages, glossary entries)
