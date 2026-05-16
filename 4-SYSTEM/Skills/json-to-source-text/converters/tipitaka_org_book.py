@@ -26,20 +26,47 @@ Header hierarchy:
 
 Verse IDs:
     Main book content (everything except Mātikā):
-        ^<book>-V   where V is a SINGLE counter that runs continuously
-                    through every h3/h4/h5 from the first non-TOC verse
-                    to the last verse of the book.
+        ^<book>-V   where V is the source's own leading verse number — taken
+                    directly from the `N.` prefix on the bodytext segment that
+                    opens the verse (e.g. `583. Katame dhammā…` → `^1-583`).
+                    This means source-N and block-ID stay aligned even when
+                    h4/h5 sub-section headings (Ekakaṃ, Dukaṃ, Tikaṃ, …)
+                    appear between numbered verses — the headings do NOT
+                    restart, advance, or otherwise influence the verse
+                    counter. A single source verse can therefore span
+                    multiple subsections and headings (e.g. ^1-585 in
+                    Dhammasaṅgaṇī carries content from after the `##### Tikaṃ`
+                    subhead through the trailing `Tikaṃ.` summary).
 
     TOC (Mātikā) exception:
         ^<book>-0<letter>-V   verse V of TOC sub-section <letter>
         The letter (a, b, c, …) is assigned to each h4 inside Mātikā in order.
         V restarts at 1 for each h4 but does NOT restart at h5 boundaries
-        (gocchakas under Dukamātikā continue Dukamātikā's verse count).
+        (gocchakas under Dukamātikā continue Dukamātikā's verse count). The
+        TOC keeps an internal counter because the source itself restarts
+        numbering across its TOC sub-sections.
 
-Verse grouping:
-    Same as before: a bodytext segment starting with `<digit>+. ` opens a new
-    verse. Subsequent bodytext segments without a leading number are merged
-    into the current verse as continuation lines.
+Verse grouping (main book):
+    A bodytext segment starting with `<digit>+. ` opens a new verse and
+    assigns that number as its block ID. Subsequent bodytext segments
+    without a leading number are merged into the current verse as
+    continuation lines, and the block ID lands on the verse's final line.
+
+    Headings (chapter/title/subhead) do NOT split a verse's numbering — they
+    are emitted at their original position with their own structural anchor
+    (`^<book>-<h3>-<h4>-0` etc.), and the verse's block ID is placed on the
+    last continuation line, which may sit either before or after one or more
+    intervening headings.
+
+    Unnumbered prose that appears between a heading and the next numbered
+    verse is prepended to that next verse (becomes the verse's preamble).
+
+    Unnumbered prose that appears in a section the source itself left
+    unlabelled (no `N.` anywhere inside the section, e.g. Dukaṃ inside the
+    Rūpakaṇḍaṃ matrix) is emitted as a single block WITHOUT a block ID —
+    the structural heading is the only addressable anchor for that section.
+    This preserves the invariant that every `^<book>-V` corresponds to a
+    real source-N.
 
 CLI:
     python tipitaka_org_book.py source.json output.md
@@ -58,7 +85,9 @@ from json_to_source_text import format_frontmatter, clean_text  # noqa: E402
 
 
 _leading_num_re = re.compile(r"^\s*\d+\.\s*")
-_verse_opening_re = re.compile(r"^\s*\d+\.\s")
+# Verse opening: captures the leading number (used as the block-ID verse part
+# for non-TOC sections). E.g. "583. Katame dhammā…" → group(1) == "583".
+_verse_opening_re = re.compile(r"^\s*(\d+)\.\s")
 
 
 def strip_leading_number(title: str) -> str:
@@ -174,8 +203,9 @@ def convert_json_to_source_text(json_path, output_path) -> None:
     if book_heading:
         out.append(f"## {book_heading} ^{book_id}-0\n\n")
 
-    # Single global counter for non-TOC ("main") verses of the book.
-    main_verse_counter = [0]  # list to allow nested-function mutation w/o nonlocal
+    # Non-TOC verse IDs are taken from the source's leading `N.` numbers, so
+    # there is no global counter for the main book — see the per-chapter
+    # `current_verse_num` state below.
 
     for src_ch in sorted(chapters.keys()):
         h3_position = src_ch
@@ -199,21 +229,35 @@ def convert_json_to_source_text(json_path, output_path) -> None:
         toc_verse_counter = [0]  # resets per TOC h4
 
         verse_buffer: list[str] = []
-
-        def make_verse_id():
-            if is_toc and toc_letter is not None:
-                toc_verse_counter[0] += 1
-                return f"^{book_id}-{h3_position}{toc_letter}-{toc_verse_counter[0]}"
-            else:
-                main_verse_counter[0] += 1
-                return f"^{book_id}-{main_verse_counter[0]}"
+        # Main-book state: tracks the source's leading `N.` for the verse
+        # currently being accumulated. None means the buffer is a "preamble"
+        # — prose that has appeared after a heading but before any numbered
+        # verse opening. A preamble is either prepended to the next numbered
+        # verse, or (if the section never produces a numbered verse) emitted
+        # as an orphan block with no block ID.
+        current_verse_num = [None]  # list trick for nested-function mutation
 
         def flush_verse():
             if not verse_buffer:
                 return
-            id_str = make_verse_id()
             body = "\n".join(verse_buffer)
-            out.append(f"{body} {id_str}\n\n")
+            if is_toc:
+                # TOC keeps the internal letter-suffixed counter — source
+                # itself restarts numbering across TOC sub-sections.
+                if toc_letter is not None:
+                    toc_verse_counter[0] += 1
+                    id_str = f" ^{book_id}-{h3_position}{toc_letter}-{toc_verse_counter[0]}"
+                else:
+                    id_str = ""
+            else:
+                # Main book: use source-N directly if we have one; otherwise
+                # this is an unlabelled section in the source — emit without
+                # a block ID (the structural heading is the only anchor).
+                if current_verse_num[0] is not None:
+                    id_str = f" ^{book_id}-{current_verse_num[0]}"
+                else:
+                    id_str = ""
+            out.append(f"{body}{id_str}\n\n")
             verse_buffer.clear()
 
         for role, content in items:
@@ -226,6 +270,7 @@ def convert_json_to_source_text(json_path, output_path) -> None:
             if role == ROLE_TITLE:
                 seen_title = True
                 flush_verse()
+                current_verse_num[0] = None
                 if is_toc:
                     toc_letter_index += 1
                     toc_letter = chr(ord("a") + toc_letter_index)
@@ -239,6 +284,7 @@ def convert_json_to_source_text(json_path, output_path) -> None:
                 continue
             if role == ROLE_SUBHEAD:
                 flush_verse()
+                current_verse_num[0] = None
                 if seen_title:
                     # H5: deeper sub-section under a title — preserves verse path
                     h5_counter += 1
@@ -261,8 +307,22 @@ def convert_json_to_source_text(json_path, output_path) -> None:
                     out.append(f"#### {strip_leading_number(content)} {heading_id}\n\n")
                 continue
             # ROLE_VERSE
-            if _verse_opening_re.match(content):
-                flush_verse()
+            m = _verse_opening_re.match(content)
+            if m:
+                if is_toc:
+                    # TOC: every numbered opening starts a new internal verse
+                    # (the source's leading number is irrelevant — it restarts
+                    # within TOC sub-sections and the internal counter handles it).
+                    flush_verse()
+                else:
+                    # Main book: if the buffer is a preamble (current_verse_num
+                    # is None) and we just opened a numbered verse, DON'T flush
+                    # — the preamble belongs to this verse. Otherwise the buffer
+                    # holds the previous numbered verse and must be flushed
+                    # before we start the new one.
+                    if current_verse_num[0] is not None:
+                        flush_verse()
+                    current_verse_num[0] = int(m.group(1))
             verse_buffer.append(content)
 
         flush_verse()
