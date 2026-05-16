@@ -16,8 +16,6 @@ other_ids:
 Namo tassa bhagavato arahato sammāsambuddhassa
 
 # Abhidhammapiṭake 
-
-
 ## Dhammasaṅgaṇīpāḷi ^1-0
 
 ### Mātikā ^1-0-0
