@@ -10,9 +10,11 @@ Language-by-language translations of the Abhidhamma produced from the rails. Eac
 
 ## Subfolders
 
-- `en-Contemporary-English-Abhidhamma/` — English, modelled on the NIV translation brief (optimal equivalence + reader-accessible English + committee review).
+- `en-Contemporary-English-Abhidhamma/` — English, modelled on the NIV translation brief (optimal equivalence + reader-accessible English + committee review). Brief in English.
+- `bn-Contemporary-Bengali-Abhidhamma/` — Bengali, same NIV-derived approach, adapted to Bengali. Brief in Bengali.
+- `si-Contemporary-Sinhala-Abhidhamma/` — Sinhala, same NIV-derived approach, adapted to Sinhala. Brief in Sinhala.
 
-Add additional tracks alongside this one as they are commissioned (e.g. `bo-Classical-Tibetan-Abhidhamma/`, `zh-Modern-Mandarin-Abhidhamma/`, `en-Scholarly-Abhidhamma/`).
+Each track's `brief.md` is written **in its target language** — the working language for that track's drafters and reviewers. Add additional tracks alongside these as they are commissioned (e.g. `bo-Classical-Tibetan-Abhidhamma/`, `zh-Modern-Mandarin-Abhidhamma/`).
 
 ## File-level rules
 
