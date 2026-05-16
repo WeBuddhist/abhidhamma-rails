@@ -42,48 +42,50 @@ Inserts or regenerates a table of contents in a source or rails file.
 
 These skills populate `2-RAILS/` with the structured context that translation and QA skills consume.
 
-### `section-summary-raw` **[planned]**
+### `section-summary-raw` **[exists]**
 **Purpose:** Generate a summary of one table-of-contents node in the original language, drawn from a single commentary.
 **Inputs:** Commentary file(s) in `1-SOURCES/`, the TOC node to summarise.
 **Outputs:** One summary file per commentary under `2-RAILS/Sections/Raw/<commentary-name>/<node-id>.md`.
 **Rules:** Use only the terminology the commentary itself uses. No translation. No paraphrase beyond compression. Every claim cites a block ID from the source file.
-→ `section-summary-raw/SKILL.md` *(to be written)*
+→ [`section-summary-raw/SKILL.md`](section-summary-raw/SKILL.md)
 
-### `section-summary-combined` **[planned]**
+### `section-summary-combined` **[exists]**
 **Purpose:** Combine the per-commentary raw summaries for one TOC node and add an English translation of the combined summary.
 **Inputs:** All raw summary files for the target node under `2-RAILS/Sections/Raw/`.
 **Outputs:** One combined file at `2-RAILS/Sections/<node-id>.md` containing the original-language synthesis and an English translation.
-→ `section-summary-combined/SKILL.md` *(to be written)*
+→ [`section-summary-combined/SKILL.md`](section-summary-combined/SKILL.md)
 
-### `verse-context` **[planned]**
+### `verse-context` **[exists]**
 **Purpose:** Build the verse-level context file for one verse.
 **Inputs:** Root-text verse (from `1-SOURCES/`), all commentary passages that discuss it (via block transclusions from `1-SOURCES/`).
 **Outputs:** One file at `2-RAILS/Verses/<verse-id>.md` containing: (1) transclusions of commentary passages, (2) a synthesis of the commentators' interpretations in the original language, (3) a disambiguated restatement of the verse in the original language precise enough to exclude any mistranslation.
-→ `verse-context/SKILL.md` *(to be written)*
+→ [`verse-context/SKILL.md`](verse-context/SKILL.md)
 
-### `local-wiki-article` **[planned]**
+### `local-wiki-article` **[exists]**
 **Purpose:** Create or update a Local-Wiki article for one key term.
 **Inputs:** Commentary passages that explain or define the term (via block citations from `1-SOURCES/`).
 **Outputs:** One file at `2-RAILS/Local-Wiki/<term>.md` containing: cited commentary explanations in the original language, and a short contextual definition drafted from those citations (also in the original language).
-→ `local-wiki-article/SKILL.md` *(to be written)*
+→ [`local-wiki-article/SKILL.md`](local-wiki-article/SKILL.md)
 
-### `glossary-extract-raw` **[planned]**
+### `glossary-extract-raw` **[exists]**
 **Purpose:** Extract every keyword and its rendered form from one existing translation or reference text, producing a raw per-source glossary.
 **Inputs:** One translation or reference text file in `1-SOURCES/` or `3-TRANSFORMATIONS/`.
 **Outputs:** One glossary file at `2-RAILS/Glossaries/Raw/<source-name>.md` with a table mapping Pali term → rendering used in that source.
-→ `glossary-extract-raw/SKILL.md` *(to be written)*
+**Helper:** `scripts/align_blocks.py` pairs root-text and translation blocks by block ID into a CSV working table before the keyword pass.
+→ [`glossary-extract-raw/SKILL.md`](glossary-extract-raw/SKILL.md)
 
-### `glossary-combine` **[planned]**
+### `glossary-combine` **[exists]**
 **Purpose:** Merge all raw glossary files for one language pair into a single consolidated glossary.
 **Inputs:** All relevant files under `2-RAILS/Glossaries/Raw/`.
 **Outputs:** One consolidated glossary at `2-RAILS/Glossaries/<lang-pair>.md` showing every attested rendering side by side.
-→ `glossary-combine/SKILL.md` *(to be written)*
+**Helper:** `scripts/combine_glossaries.py` merges raw rendering tables by keyword, sums frequencies across sources, normalises case-only duplicates, and writes the consolidated file with Local-Wiki links auto-populated where articles exist.
+→ [`glossary-combine/SKILL.md`](glossary-combine/SKILL.md)
 
-### `glossary-select` **[planned]**
-**Purpose:** Build the translation-specific working glossary for one track by selecting the preferred rendering for each term from the consolidated glossary, guided by the track's `requirements.md`. If no existing rendering is satisfactory, derive one from the Local-Wiki article for that term.
+### `glossary-select` **[exists]**
+**Purpose:** Build the translation-specific working glossary for one track by selecting the preferred rendering for each term from the consolidated glossary, guided by the track's `requirements.md`. If no existing rendering is satisfactory, derive one from the Local-Wiki article for that term and feed the new rendering back into the consolidated glossary.
 **Inputs:** `2-RAILS/Glossaries/<lang-pair>.md`, `3-TRANSFORMATIONS/Translation/<track-name>/requirements.md`, Local-Wiki articles as needed.
-**Outputs:** `3-TRANSFORMATIONS/Translation/<track-name>/glossary.md`.
-→ `glossary-select/SKILL.md` *(to be written)*
+**Outputs:** `3-TRANSFORMATIONS/Translation/<track-name>/glossary.md`; updates to the consolidated glossary for any new derived renderings.
+→ [`glossary-select/SKILL.md`](glossary-select/SKILL.md)
 
 ---
 
