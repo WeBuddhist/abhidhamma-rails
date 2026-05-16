@@ -72,7 +72,7 @@ Existing converters in this skill:
 
 | Slug | Source convention | Output convention | Languages |
 |---|---|---|---|
-| `tipitaka_org_book.py` | tipitaka.org book exports (Mūla layer): top-level metadata + `segments[]` array with `chapter`, `paragraph`, `content`, `css_class` | **Pāli Tipiṭaka root text (Bible-style book-verse numbering).** One file per book. Verses run continuously through the whole book; the Mātikā TOC chapter uses letter-suffixed sub-namespaces (`^1-0a-V`, `^1-0b-V`). Heading hierarchy goes `#` (pitaka) → `##` (book) → `###`/`####`/`#####`. See `source-formatting.md` for the spec. | Pāli |
+| `tipitaka_org_book.py` | tipitaka.org book exports (Mūla layer): top-level metadata + `segments[]` array with `chapter`, `paragraph`, `content`, `css_class` | **Pāli Tipiṭaka root text (Bible-style book-verse numbering).** One file per book. Main-book verse IDs come directly from the source's leading `N.` markers (e.g. `583. Katame dhammā…` → `^1-583`), so source-N and block-ID stay aligned even when h4/h5 sub-section headings appear between numbered verses — a verse can span multiple subsections without restarting the counter. The Mātikā TOC chapter uses letter-suffixed sub-namespaces (`^1-0a-V`, `^1-0b-V`) with an internal counter, because the source itself restarts numbering across its TOC sub-sections. Heading hierarchy goes `#` (pitaka) → `##` (book) → `###`/`####`/`#####`. See `source-formatting.md` for the spec. | Pāli |
 
 ---
 
@@ -140,7 +140,9 @@ Implement the routing as a dispatch table (`CATEGORY_TO_ROLE = {...}`) at the to
 - `###` headings get `^chapter-section-0`
 - Headings use `0` in the verse slot so they don't collide with verse IDs (verses never start at 0)
 
-**3.4 Verse numbering.** Restart verse counter at 1 for each chapter. Sub-sections do **not** affect verse IDs — verses beneath a `###` still get `^chapter-verse`, not `^chapter-section-verse`.
+**3.4 Verse numbering.** Restart verse counter at 1 for each chapter. Sub-sections do **not** affect verse IDs — verses beneath a `###` still get `^chapter-verse`, not `^chapter-section-verse`. A single verse can span multiple subsections and headings — when a `####`/`#####` heading appears in the middle of what the source treats as one numbered verse, emit the heading at its structural position but do NOT restart, advance, or otherwise change the verse counter; the verse's block ID lands on the last continuation line after the heading.
+
+For sources that carry an explicit per-verse number (e.g. tipitaka.org's `583. …` prefixes), use that number directly as the verse part of the block ID rather than an internal counter — this keeps source-N and block-ID aligned and makes the "verses span subsections" case trivial. Unnumbered prose between a heading and the next numbered verse is prepended to that verse; unnumbered prose in a section the source itself left unlabelled is emitted as a single block with no block ID (the structural heading is the only anchor).
 
 **3.5 Chapter 0 / pre-chapter handling.** If the JSON's first chapter contains both prefatory material (homage, title lines, dedicatory verses) and substantive authored content, split them: emit the prefatory material under `## 0. Introduction ^0-0` and treat the authored chapter as Chapter 1 (renumbering all subsequent chapters). If the JSON's chapter 0 is *all* prefatory, keep its numbering and just rename it `Introduction`.
 

@@ -342,17 +342,38 @@ Pāli canonical texts (Tipiṭaka books) are numbered using a Bible-inspired add
 
 **Verse IDs — two namespaces:**
 
-The book has a **single, continuous verse counter** that runs through every section. Verses are `^<book>-V`, e.g. `^1-1`, `^1-2`, …, `^1-1626`. The counter does NOT reset at h3, h4 or h5 boundaries — Cittuppādakaṇḍaṃ's last verse is followed immediately by Rūpakaṇḍaṃ's first verse with the next number.
+The book has a **single, continuous verse counter** that runs through every section. Verses are `^<book>-V`, e.g. `^1-1`, `^1-2`, …, `^1-1616`. The counter does NOT reset at h3, h4 or h5 boundaries — Cittuppādakaṇḍaṃ's last verse is followed immediately by Rūpakaṇḍaṃ's first verse with the next number. The counter value `V` is the source's own leading verse number (the `N.` prefix), so source-N and block-ID stay aligned.
 
 The Mātikā / table-of-contents section (typically the source's first chapter) is the exception. Its h4 sub-sections (Tikamātikā, Dukamātikā, …) get **letter-suffixed sub-namespaces**:
 
 - The h4 sub-sections of Mātikā are labelled `a`, `b`, `c`, … in document order
 - Verses in each get a 3-component ID: `^<book>-0<letter>-V`, e.g. `^1-0a-1` (Tikamātikā verse 1), `^1-0b-1` (Dukamātikā verse 1)
 - `V` restarts at 1 for each h4, but does NOT restart at h5 boundaries (gocchakas under Dukamātikā continue Dukamātikā's verse count: Hetugocchakaṃ ends at `^1-0b-6`, Cūḷantaradukaṃ picks up at `^1-0b-7`)
+- The TOC uses an internal counter (rather than the source's `N.` prefix) because the source itself restarts numbering across its TOC sub-sections.
 
 **Verse grouping rule:**
 
-A body line that starts with `<digit>+. ` (e.g. `1.`, `583.`) opens a new verse. Subsequent body lines without a leading number — typically `(Ka)` / `(Kha)` / `(Ga)` triplet markers, or trailing summary words like `Hetugocchakaṃ.` — are merged into the current verse as additional lines, and the block ID goes on the verse's final line.
+A body line that starts with `<digit>+. ` (e.g. `1.`, `583.`) opens a new verse and supplies its block-ID number. Subsequent body lines without a leading number — typically `(Ka)` / `(Kha)` / `(Ga)` triplet markers, intra-section intros like `Tividhena rūpasaṅgaho –`, or trailing summary words like `Hetugocchakaṃ.` — are merged into the current verse as additional lines, and the block ID goes on the verse's final line.
+
+**Verses spanning subsections and headings.**
+
+A single source verse can span multiple `####`/`#####` subsection headings — the headings are emitted at their structural position (with their own `^<book>-<h3>-<h4>(-<h5>)-0` anchor) but do NOT restart, advance, or otherwise affect the verse counter. The verse's block ID lands on the last continuation line, which may sit after one or more intervening headings.
+
+Worked example — `^1-585` in Dhammasaṅgaṇī:
+
+```markdown
+##### Tikaṃ ^1-2-2-3-0
+
+Tividhena rūpasaṅgaho –
+585. Yaṃ taṃ rūpaṃ ajjhattikaṃ, taṃ upādā …
+[many continuation lines]
+Evaṃ tividhena rūpasaṅgaho.
+Tikaṃ. ^1-585
+```
+
+The intro line `Tividhena rūpasaṅgaho –` appears before the numbered opening; the closing `Evaṃ … rūpasaṅgaho.` / `Tikaṃ.` appears after the body lines. Both are part of source verse 585 and share its block ID, which is placed once on the final line.
+
+**Unlabelled sections.** When the source itself leaves a sub-section unnumbered (no `N.` anywhere in the section, e.g. the `##### Dukaṃ` block inside the Rūpakaṇḍaṃ matrix), the section's body is emitted as a single block WITHOUT a verse-level block ID — only the structural heading `##### Dukaṃ ^1-2-2-2-0` is addressable. This preserves the invariant that every `^<book>-V` corresponds to a real source-N.
 
 **Frontmatter:** set `verse_id_format: book-verse`.
 
