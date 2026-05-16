@@ -1442,11 +1442,7 @@ Here ends the Second Portion for Recitation.
 A Buddhist Manual of Psychological Ethics , a rys_davids of the Dhammasaṅgaṇī, Compendium of States or Phenomena, by Caroline A.F. Rhys Davids and D. Litt., M.A. .
 Published by the Pali Text Society in 1900 . Reprinted 1923, 1974, 1993, 2004.
 Released by the Pali Text Society under Creative Commons Attribution-NonCommercial 3.0 licence (CC BY-NC 3.0) .
-See also the statement under http://www.palitext.com/ → Publications → Copyright Announcement.
-For non-commercial use only.
-Scanned by www.abhidhamma.ru .
-Typeset by www.abhidhamma.de .
-This SuttaCentral edition is based on the LaTeX edition prepared by Manfred Wierich and proofread by Ariya Baumann , converted to HTML by Ven. Vimala .
+See also the statement under http://
 Eighth consciousness.
 Eight great wholesome sense-sphere consciousnesses.
 Second Recitation Section.
@@ -1978,11 +1974,7 @@ The Jhāna of Foul Things may be developed in Sixteen Combinations.
 A Buddhist Manual of Psychological Ethics , a rys_davids of the Dhammasaṅgaṇī, Compendium of States or Phenomena, by Caroline A.F. Rhys Davids and D. Litt., M.A. .
 Published by the Pali Text Society in 1900 . Reprinted 1923, 1974, 1993, 2004.
 Released by the Pali Text Society under Creative Commons Attribution-NonCommercial 3.0 licence (CC BY-NC 3.0) .
-See also the statement under http://www.palitext.com/ → Publications → Copyright Announcement.
-For non-commercial use only.
-Scanned by www.abhidhamma.ru .
-Typeset by www.abhidhamma.de .
-This SuttaCentral edition is based on the LaTeX edition prepared by Manfred Wierich and proofread by Ariya Baumann , converted to HTML by Ven. Vimala .
+See also the statement under http://
 Meditation on impurity, sixteenfold.
 Wholesome Form-Sphere Consciousness.
 ^1-264
@@ -2015,11 +2007,7 @@ The Four Jhānas connected with Formless Existence may be developed in sixteen c
 A Buddhist Manual of Psychological Ethics , a rys_davids of the Dhammasaṅgaṇī, Compendium of States or Phenomena, by Caroline A.F. Rhys Davids and D. Litt., M.A. .
 Published by the Pali Text Society in 1900 . Reprinted 1923, 1974, 1993, 2004.
 Released by the Pali Text Society under Creative Commons Attribution-NonCommercial 3.0 licence (CC BY-NC 3.0) .
-See also the statement under http://www.palitext.com/ → Publications → Copyright Announcement.
-For non-commercial use only.
-Scanned by www.abhidhamma.ru .
-Typeset by www.abhidhamma.de .
-This SuttaCentral edition is based on the LaTeX edition prepared by Manfred Wierich and proofread by Ariya Baumann , converted to HTML by Ven. Vimala .
+See also the statement under http://
 The four formless jhanas, sixteenfold.
 Wholesome Formless-Sphere Consciousness.
 ^1-268
@@ -2137,11 +2125,7 @@ Here follow the three remaining “Jhānas connected with Formless Existence”,
 A Buddhist Manual of Psychological Ethics , a rys_davids of the Dhammasaṅgaṇī, Compendium of States or Phenomena, by Caroline A.F. Rhys Davids and D. Litt., M.A. .
 Published by the Pali Text Society in 1900 . Reprinted 1923, 1974, 1993, 2004.
 Released by the Pali Text Society under Creative Commons Attribution-NonCommercial 3.0 licence (CC BY-NC 3.0) .
-See also the statement under http://www.palitext.com/ → Publications → Copyright Announcement.
-For non-commercial use only.
-Scanned by www.abhidhamma.ru .
-Typeset by www.abhidhamma.de .
-This SuttaCentral edition is based on the LaTeX edition prepared by Manfred Wierich and proofread by Ariya Baumann , converted to HTML by Ven. Vimala .
+See also the statement under http://
 ^1-274
 
 Which states are wholesome?
@@ -3116,11 +3100,7 @@ Or whatever other, etc.
 A Buddhist Manual of Psychological Ethics , a rys_davids of the Dhammasaṅgaṇī, Compendium of States or Phenomena, by Caroline A.F. Rhys Davids and D. Litt., M.A. .
 Published by the Pali Text Society in 1900 . Reprinted 1923, 1974, 1993, 2004.
 Released by the Pali Text Society under Creative Commons Attribution-NonCommercial 3.0 licence (CC BY-NC 3.0) .
-See also the statement under http://www.palitext.com/ → Publications → Copyright Announcement.
-For non-commercial use only.
-Scanned by www.abhidhamma.ru .
-Typeset by www.abhidhamma.de .
-This SuttaCentral edition is based on the LaTeX edition prepared by Manfred Wierich and proofread by Ariya Baumann , converted to HTML by Ven. Vimala .
+See also the statement under http://
 Twelve Unwholesome Consciousnesses.
 ^1-430
 
@@ -3523,11 +3503,7 @@ Here follow in succession the other three “Jhānas connected with Formless Exi
 A Buddhist Manual of Psychological Ethics , a rys_davids of the Dhammasaṅgaṇī, Compendium of States or Phenomena, by Caroline A.F. Rhys Davids and D. Litt., M.A. .
 Published by the Pali Text Society in 1900 . Reprinted 1923, 1974, 1993, 2004.
 Released by the Pali Text Society under Creative Commons Attribution-NonCommercial 3.0 licence (CC BY-NC 3.0) .
-See also the statement under http://www.palitext.com/ → Publications → Copyright Announcement.
-For non-commercial use only.
-Scanned by www.abhidhamma.ru .
-Typeset by www.abhidhamma.de .
-This SuttaCentral edition is based on the LaTeX edition prepared by Manfred Wierich and proofread by Ariya Baumann , converted to HTML by Ven. Vimala .
+See also the statement under http://
 ^1-502
 
 Which states are indeterminate? When one cultivates the path for rebirth in the immaterial sphere, and, by transcending the base of infinite consciousness, attains and abides in the fourth jhāna accompanied by the perception of the base of nothingness, with the abandoning of pleasure...pe..., at that time, contact...pe... non-distraction...pe... these states are wholesome. As the result of that very immaterial sphere wholesome kamma, having been wrought and accumulated, by transcending the base of infinite consciousness, one attains and abides in the fourth jhāna accompanied by the perception of the base of nothingness, with the abandoning of pleasure...pe..., at that time, contact...pe... non-distraction...pe... these states are indeterminate.
@@ -3834,11 +3810,7 @@ Or whatever other incorporeal, causally induced states here are on that occasion
 A Buddhist Manual of Psychological Ethics , a rys_davids of the Dhammasaṅgaṇī, Compendium of States or Phenomena, by Caroline A.F. Rhys Davids and D. Litt., M.A. .
 Published by the Pali Text Society in 1900 . Reprinted 1923, 1974, 1993, 2004.
 Released by the Pali Text Society under Creative Commons Attribution-NonCommercial 3.0 licence (CC BY-NC 3.0) .
-See also the statement under http://www.palitext.com/ → Publications → Copyright Announcement.
-For non-commercial use only.
-Scanned by www.abhidhamma.ru .
-Typeset by www.abhidhamma.de .
-This SuttaCentral edition is based on the LaTeX edition prepared by Manfred Wierich and proofread by Ariya Baumann , converted to HTML by Ven. Vimala .
+See also the statement under http://
 Resultant of the second and subsequent paths.
 Supramundane resultant.
 ^1-555
@@ -4086,11 +4058,7 @@ Here follow, with the same opening formula as in the foregoing answer, the three
 A Buddhist Manual of Psychological Ethics , a rys_davids of the Dhammasaṅgaṇī, Compendium of States or Phenomena, by Caroline A.F. Rhys Davids and D. Litt., M.A. .
 Published by the Pali Text Society in 1900 . Reprinted 1923, 1974, 1993, 2004.
 Released by the Pali Text Society under Creative Commons Attribution-NonCommercial 3.0 licence (CC BY-NC 3.0) .
-See also the statement under http://www.palitext.com/ → Publications → Copyright Announcement.
-For non-commercial use only.
-Scanned by www.abhidhamma.ru .
-Typeset by www.abhidhamma.de .
-This SuttaCentral edition is based on the LaTeX edition prepared by Manfred Wierich and proofread by Ariya Baumann , converted to HTML by Ven. Vimala .
+See also the statement under http://
 ^1-580
 
 Which phenomena are indeterminate? When one develops immaterial sphere jhána, functional, neither wholesome nor unwholesome nor resultant of kamma, a happy abiding in this very life, by transcending completely the base of infinite consciousness, 
@@ -4113,11 +4081,7 @@ The results of good and bad states taking effect in the universe of sense, in th
 A Buddhist Manual of Psychological Ethics , a rys_davids of the Dhammasaṅgaṇī, Compendium of States or Phenomena, by Caroline A.F. Rhys Davids and D. Litt., M.A. .
 Published by the Pali Text Society in 1900 . Reprinted 1923, 1974, 1993, 2004.
 Released by the Pali Text Society under Creative Commons Attribution-NonCommercial 3.0 licence (CC BY-NC 3.0) .
-See also the statement under http://www.palitext.com/ → Publications → Copyright Announcement.
-For non-commercial use only.
-Scanned by www.abhidhamma.ru .
-Typeset by www.abhidhamma.de .
-This SuttaCentral edition is based on the LaTeX edition prepared by Manfred Wierich and proofread by Ariya Baumann , converted to HTML by Ven. Vimala .
+See also the statement under http://
 ^1-583
 
 #### Matrix ^1-2-2-0
@@ -4182,11 +4146,7 @@ Here follows the Mātika, or table of contents of the following analysis of Form
 A Buddhist Manual of Psychological Ethics , a rys_davids of the Dhammasaṅgaṇī, Compendium of States or Phenomena, by Caroline A.F. Rhys Davids and D. Litt., M.A. .
 Published by the Pali Text Society in 1900 . Reprinted 1923, 1974, 1993, 2004.
 Released by the Pali Text Society under Creative Commons Attribution-NonCommercial 3.0 licence (CC BY-NC 3.0) .
-See also the statement under http://www.palitext.com/ → Publications → Copyright Announcement.
-For non-commercial use only.
-Scanned by www.abhidhamma.ru .
-Typeset by www.abhidhamma.de .
-This SuttaCentral edition is based on the LaTeX edition prepared by Manfred Wierich and proofread by Ariya Baumann , converted to HTML by Ven. Vimala .
+See also the statement under http://
 Thus, the collection of material phenomena is threefold.
 Triads.
 ^1-585
@@ -6536,11 +6496,7 @@ Such is the Category of [Material] Form under an Elevenfold Aspect.
 A Buddhist Manual of Psychological Ethics , a rys_davids of the Dhammasaṅgaṇī, Compendium of States or Phenomena, by Caroline A.F. Rhys Davids and D. Litt., M.A. .
 Published by the Pali Text Society in 1900 . Reprinted 1923, 1974, 1993, 2004.
 Released by the Pali Text Society under Creative Commons Attribution-NonCommercial 3.0 licence (CC BY-NC 3.0) .
-See also the statement under http://www.palitext.com/ → Publications → Copyright Announcement.
-For non-commercial use only.
-Scanned by www.abhidhamma.ru .
-Typeset by www.abhidhamma.de .
-This SuttaCentral edition is based on the LaTeX edition prepared by Manfred Wierich and proofread by Ariya Baumann , converted to HTML by Ven. Vimala .
+See also the statement under http://
 ^1-980
 
 Which are the states that are good?
@@ -6846,11 +6802,7 @@ The four skandhas; that [material] form, moreover, which, being invisible and no
 A Buddhist Manual of Psychological Ethics , a rys_davids of the Dhammasaṅgaṇī, Compendium of States or Phenomena, by Caroline A.F. Rhys Davids and D. Litt., M.A. .
 Published by the Pali Text Society in 1900 . Reprinted 1923, 1974, 1993, 2004.
 Released by the Pali Text Society under Creative Commons Attribution-NonCommercial 3.0 licence (CC BY-NC 3.0) .
-See also the statement under http://www.palitext.com/ → Publications → Copyright Announcement.
-For non-commercial use only.
-Scanned by www.abhidhamma.ru .
-Typeset by www.abhidhamma.de .
-This SuttaCentral edition is based on the LaTeX edition prepared by Manfred Wierich and proofread by Ariya Baumann , converted to HTML by Ven. Vimala .
+See also the statement under http://
 ^1-1052
 
 Which are the states that are root-conditions?
@@ -8092,11 +8044,7 @@ Good, bad and indeterminate states, whether they relate to the worlds of Sense, 
 A Buddhist Manual of Psychological Ethics , a rys_davids of the Dhammasaṅgaṇī, Compendium of States or Phenomena, by Caroline A.F. Rhys Davids and D. Litt., M.A. .
 Published by the Pali Text Society in 1900 . Reprinted 1923, 1974, 1993, 2004.
 Released by the Pali Text Society under Creative Commons Attribution-NonCommercial 3.0 licence (CC BY-NC 3.0) .
-See also the statement under http://www.palitext.com/ → Publications → Copyright Announcement.
-For non-commercial use only.
-Scanned by www.abhidhamma.ru .
-Typeset by www.abhidhamma.de .
-This SuttaCentral edition is based on the LaTeX edition prepared by Manfred Wierich and proofread by Ariya Baumann , converted to HTML by Ven. Vimala .
+See also the statement under http://
 ^1-1294
 
 Which phenomena lead to liberation?
@@ -8420,11 +8368,7 @@ End of the Division entitled “The Deposition”.
 A Buddhist Manual of Psychological Ethics , a rys_davids of the Dhammasaṅgaṇī, Compendium of States or Phenomena, by Caroline A.F. Rhys Davids and D. Litt., M.A. .
 Published by the Pali Text Society in 1900 . Reprinted 1923, 1974, 1993, 2004.
 Released by the Pali Text Society under Creative Commons Attribution-NonCommercial 3.0 licence (CC BY-NC 3.0) .
-See also the statement under http://www.palitext.com/ → Publications → Copyright Announcement.
-For non-commercial use only.
-Scanned by www.abhidhamma.ru .
-Typeset by www.abhidhamma.de .
-This SuttaCentral edition is based on the LaTeX edition prepared by Manfred Wierich and proofread by Ariya Baumann , converted to HTML by Ven. Vimala .
+See also the statement under http://
 ^1-1366
 
 What is non-distraction? The stability of mind...pe...right concentration. This is called non-distraction.
