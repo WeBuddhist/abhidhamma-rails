@@ -1,14 +1,14 @@
 ---
-brief_id: en-Contemporary-English-Abhidhamma
+id: en-Contemporary-English-Abhidhamma
 target_language: en
 audience: contemporary English-speaking practitioners, including newcomers to the Abhidhamma
-model: New International Version (NIV) translation brief, adapted for the Abhidhamma
+model: New International Version (NIV) translation requirements, adapted for the Abhidhamma
 status: draft
 ---
 
-# Contemporary English Abhidhamma — Translation Brief
+# Contemporary English Abhidhamma — Translation Requirements
 
-This brief governs every English rendering of Abhidhamma material in this vault — the Reading-for-Meaning sections of the Daily Tipiṭaka, future standalone English Abhidhamma editions, study guides, and any other English-language transformation. It is modelled on the brief that produced the **New International Version (NIV)** of the Bible — the most widely read modern English translation of a classical sacred text — and adapted to the very different demands of the Abhidhamma.
+This document specifies the requirements governing every English rendering of Abhidhamma material in this vault — the Reading-for-Meaning sections of the Daily Tipiṭaka, future standalone English Abhidhamma editions, study guides, and any other English-language transformation. It is modelled on the requirements that produced the **New International Version (NIV)** of the Bible — the most widely read modern English translation of a classical sacred text — and adapted to the very different demands of the Abhidhamma.
 
 The NIV was chosen as the model for two reasons. First, its **translation philosophy**: it sits deliberately between strict word-for-word translation and free paraphrase, aiming to deliver _the meaning the original conveyed to its first hearers, in the most natural English available to its current reader_. Second, its **audience and readability**: the NIV is calibrated to be readable by the average English speaker without sacrificing dignity, which is exactly the contour we need for an Abhidhamma intended for both newcomers and serious practitioners. Both dimensions are mapped to Abhidhamma terms below.
 
@@ -106,9 +106,9 @@ The set of locked term renderings is updated only after a fourth conversation am
 
 ## 4. Output files
 
-Translation files produced under this brief sit directly in this folder, one per source-text section (e.g. `en-dhammasangani-ai.md`, `en-vibhanga-ai.md`, …). Each file's frontmatter records:
+Translation files produced under these requirements sit directly in this folder, one per source-text section (e.g. `en-dhammasangani-ai.md`, `en-vibhanga-ai.md`, …). Each file's frontmatter records:
 
-- `brief_id: en-Contemporary-English-Abhidhamma`
+- `requirements: en-Contemporary-English-Abhidhamma`
 - `source_rails:` — the rail packages it draws from (verse rails, section rails, local-wiki pages, glossary entries)
 - `status:` — `draft` / `partial` / `complete`
 - `reviewers:` — names of the Pāli reviewer and readability reviewer once each has signed off
@@ -126,4 +126,4 @@ A short note for future contributors. The NIV is not chosen because it is the "b
 
 The NIV's published answer to that problem (optimal equivalence + 7th-grade readability + committee review) has held up across half a century of revision and over a billion copies. Borrowing its scaffolding lets us spend our energy on the Abhidhamma-specific decisions, not on rediscovering principles that have already been worked out.
 
-For deeper reading, the canonical statement of the NIV's translation philosophy is Biblica's _Preface to the New International Version_, available on the publisher's site.
+For deeper reading, the canonical statement of the NIV's translation requirements is Biblica's _Preface to the New International Version_, available on the publisher's site.
