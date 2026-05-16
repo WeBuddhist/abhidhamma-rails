@@ -33,7 +33,7 @@ status: draft
 
 | Rendering | Sources | Total frequency | Local-Wiki |
 |-----------|---------|-----------------|------------|
-| indeterminate | pi-en (1), pi-en-rd (1) | 2 | — |
+| indeterminate | pi-en (1), pi-en-rd (1) | 2 | [[abyākata]] |
 
 ---
 
@@ -81,7 +81,7 @@ status: draft
 
 | Rendering | Sources | Total frequency | Local-Wiki |
 |-----------|---------|-----------------|------------|
-| unwholesome | pi-en (1), pi-en-rd (1) | 2 | — |
+| unwholesome | pi-en (1), pi-en-rd (1) | 2 | [[akusala]] |
 
 ---
 
@@ -249,7 +249,8 @@ status: draft
 
 | Rendering | Sources | Total frequency | Local-Wiki |
 |-----------|---------|-----------------|------------|
-| states | pi-en (22), pi-en-rd (22) | 44 | — |
+| states | pi-en (22), pi-en-rd (22) | 44 | [[dhamma]] |
+| phenomenon | en-Contemporary-English-Abhidhamma (0) | 0 | [[dhamma]] |
 
 ---
 
@@ -273,7 +274,7 @@ status: draft
 
 | Rendering | Sources | Total frequency | Local-Wiki |
 |-----------|---------|-----------------|------------|
-| wholesome | pi-en (1), pi-en-rd (1) | 2 | — |
+| wholesome | pi-en (1), pi-en-rd (1) | 2 | [[kusala]] |
 
 ---
 
