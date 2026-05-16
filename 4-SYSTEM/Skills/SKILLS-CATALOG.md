@@ -1,8 +1,10 @@
 # Skills Catalog
 
-This file catalogues every skill used in the abhidhamma-rails vault, grouped by workflow phase. Each entry names the skill, states its purpose, describes its inputs and outputs, and points to the SKILL.md that operationalises it.
+This file catalogues every skill used in the abhidhamma-rails vault, grouped by workflow phase. Each entry names the skill, states its purpose, describes its inputs and outputs, and points to the SKILL.md that operationalises it. For the phase a skill belongs to and the failure mode it addresses, see the **Translation workflow** section of the [vault README](../../README.md).
 
 Skills that already exist are marked **[exists]**. Skills that are planned but not yet written are marked **[planned]**.
+
+The translation pipeline reads top-to-bottom: source ingestion populates `1-SOURCES/`, the rails-building skills turn those sources into `2-RAILS/` context (Sections / Verses / Local-Wiki / Glossaries), the translation skills consume those rails to produce `3-TRANSFORMATIONS/Translation/<track-name>/`, and the QA skill checks the output back against the rails.
 
 ---
 
@@ -85,6 +87,17 @@ These skills populate `2-RAILS/` with the structured context that translation an
 
 ---
 
+## Translation requirements skills
+
+### `requirements-author` **[planned]**
+**Purpose:** Author or audit a track's `requirements.md` so it contains everything the `translate-section` skill needs to behave consistently across the whole text.
+**Inputs:** The track folder `3-TRANSFORMATIONS/Translation/<track-name>/`; the per-track glossary (if it exists yet); samples of any prior translation in the same target language.
+**Outputs:** A complete `3-TRANSFORMATIONS/Translation/<track-name>/requirements.md`, written in the target language, covering: target audience and register; glossary reference path; preferred rendering for structurally significant terms; style constraints (sentence length, paragraph length, treatment of verse vs. prose, list handling, transliteration vs. translation policy, footnote vs. inline glossing); cultural-adaptation rules; and the source-rail dependencies the translator must consult.
+**Audit mode:** Given an existing `requirements.md`, report which of the above sections are missing or under-specified before any translation begins.
+→ `requirements-author/SKILL.md` *(to be written)*
+
+---
+
 ## Translation skills
 
 ### `translate-section` **[planned]**
@@ -94,8 +107,9 @@ These skills populate `2-RAILS/` with the structured context that translation an
 - `3-TRANSFORMATIONS/Translation/<track-name>/glossary.md`
 - `2-RAILS/Sections/<node-id>.md` for each node in the batch
 - `2-RAILS/Verses/<verse-id>.md` for each verse in the batch
-**Outputs:** Updated translation file(s) in `3-TRANSFORMATIONS/Translation/<track-name>/`.
-**Rules:** Every keyword rendering must match the glossary. Introduce no new rendering without first adding it to the glossary. Translate from the disambiguated Pali in the verse-context file, not from the raw root text. The frontmatter of each translation file must list the rail files it was generated from.
+- `2-RAILS/Local-Wiki/<term>.md` for any term in the batch not adequately covered by the glossary
+**Outputs:** Updated translation file(s) in `3-TRANSFORMATIONS/Translation/<track-name>/`. The frontmatter of each translation file lists the rail files it was generated from.
+**Rules:** Translate small batches only — one or a few TOC nodes at a time. Every keyword rendering must match the per-track glossary. Introduce no new rendering without first adding it to the per-track glossary and feeding it back into the consolidated glossary under `2-RAILS/Glossaries/`. Translate from the disambiguated Pali in the verse-context file, not from the raw root text.
 → `translate-section/SKILL.md` *(to be written)*
 
 ---
@@ -108,10 +122,16 @@ These skills populate `2-RAILS/` with the structured context that translation an
 - The translated section(s) in `3-TRANSFORMATIONS/Translation/<track-name>/`
 - `3-TRANSFORMATIONS/Translation/<track-name>/requirements.md`
 - `3-TRANSFORMATIONS/Translation/<track-name>/glossary.md`
-- Relevant `2-RAILS/Sections/` and `2-RAILS/Verses/` files
-**Outputs:** Appended entries in `3-TRANSFORMATIONS/Translation/<track-name>/qa-report.md`. Each entry records: the segment, MQM error category, severity (critical / major / minor), and a suggested correction.
+- Relevant `2-RAILS/Sections/`, `2-RAILS/Verses/`, and `2-RAILS/Local-Wiki/` files
+**Outputs:** Appended entries in `3-TRANSFORMATIONS/Translation/<track-name>/qa-report.md`. Each entry records: the segment, MQM error category (accuracy, fluency, terminology, style, locale convention, …), severity (critical / major / minor), and a suggested correction.
 **Completion criterion:** A section is marked `status: complete` only when no critical or major MQM errors remain open in the QA report.
 → `translation-qa/SKILL.md` *(to be written)*
+
+### `style-consistency-check` **[planned]**
+**Purpose:** Catch the third failure mode — style drift over long texts — that section-by-section QA tends to miss. Scans across many already-translated sections of one track and flags creeping changes in register, sentence length, verse formatting, list handling, term gloss style, and similar style-level patterns.
+**Inputs:** All translated files in `3-TRANSFORMATIONS/Translation/<track-name>/`; `requirements.md`; the per-track glossary.
+**Outputs:** A style-drift section appended to `qa-report.md`, with span references back to the offending passages.
+→ `style-consistency-check/SKILL.md` *(to be written)*
 
 ---
 
