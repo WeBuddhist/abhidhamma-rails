@@ -35,7 +35,8 @@ verse IDs. The converter:
   3. Inserts one ![[root_text#^id]] transclusion line per resolved verse,
      before the commentary paragraph.
 
-Configure CHAPTER_ROOT_TEXT_CONTEXT (below) for each source file.
+Pass chapter_context dict to convert_json_to_commentary() to override the
+module-level CHAPTER_ROOT_TEXT_CONTEXT for a specific file.
 
 GATHA HANDLING
 ==============
@@ -44,10 +45,22 @@ CSS classes gatha1 / gatha2 / gatha3 / gathalast are verse lines. Lines
 accumulate until gathalast, which closes the stanza. One block ID is placed
 on the gathalast line.
 
+LAYER HANDLING
+==============
+
+The h1 anchor slug and display label are derived from the JSON "layer" field:
+
+  layer      -> anchor slug   -> display label
+  atthakatha -> atthakatha    -> aṭṭhakathā
+  tika       -> tika          -> ṭīkā
+  tiika      -> tika          -> ṭīkā
+  other      -> anutika       -> anuṭīkā   (used by Dhammasangani-anutika)
+
 CONFIGURATION
 =============
 
-Edit CHAPTER_ROOT_TEXT_CONTEXT and BOOK_ID before running on a new file.
+Edit CHAPTER_ROOT_TEXT_CONTEXT and BOOK_ID before running on a new file,
+or pass chapter_context= kwarg to convert_json_to_commentary().
 
 CLI:
     python tipitaka_org_atthakatha.py source.json output.md
@@ -55,10 +68,13 @@ CLI:
     # avoid .pyc staleness on mounted filesystems:
     python3 -c "
     import sys, pathlib, types
-    src = pathlib.Path('4-SYSTEM/Skills/json-to-commentary/scripts/converters/tipitaka_org_atthakatha.py').read_text()
+    src = pathlib.Path('4-SYSTEM/Skills/json-to-commentary/scripts/converters/tipitaka_org_atthakatha.py').read_bytes().rstrip(b'\\x00').decode('utf-8')
     mod = types.ModuleType('conv')
     exec(compile(src, 'tipitaka_org_atthakatha.py', 'exec'), mod.__dict__)
-    mod.convert_json_to_commentary('0-INBOX/raw-data/abh01a.json', '0-INBOX/temp/pi-dhammasangani-atthakatha.md')
+    mod.convert_json_to_commentary(
+        '0-INBOX/raw-data/abh01a.json',
+        '0-INBOX/temp/pi-dhammasangani-atthakatha.md',
+    )
     "
 """
 
@@ -78,6 +94,9 @@ from pathlib import Path
 # "toc_b" -> ^1-0b-N  (Dukamatiká)
 # "main"  -> ^1-N     (Cittuppadakanda and later main text)
 # None    -> no transclusion (intro chapters, heading-only chapters)
+#
+# This is the DEFAULT context (for abh01a - Atthasalini).
+# Pass chapter_context= to convert_json_to_commentary() to override per-file.
 CHAPTER_ROOT_TEXT_CONTEXT: dict[int, str | None] = {
     # abh01a - Atthasalini (Dhammasangani-atthakatha)
     0: None,        # Nidanakatha - introductory, no root-text verse refs
@@ -86,9 +105,33 @@ CHAPTER_ROOT_TEXT_CONTEXT: dict[int, str | None] = {
     3: "toc_b",     # Dukamatikapadavannana -> Dukamatiká (^1-0b-N)
     4: "main",      # Kamavacarakusalapadabhajaniyam -> main text (^1-N)
     5: "main",      # Rupakando
-    6: "main",      # Nikkhepakanoo
+    6: "main",      # Nikkhepakando
     7: "main",      # Atthakathakando
-    # abh01t / abh04t - inspect JSON chapter titles and adjust accordingly
+}
+
+# Chapter context for abh01t - Dhammasangani-mulatika (9 source chapters 0-8)
+CHAPTER_ROOT_TEXT_CONTEXT_MULATIKA: dict[int, str | None] = {
+    0: None,        # intro / Sumedhakathavannana
+    1: None,        # "1. Cittuppadakandam" - chapter label only
+    2: "toc_a",     # Tikamatikapadavannana
+    3: "toc_b",     # Dukamatikapadavannana
+    4: "main",      # Kamavacarakusalapadabhajaniyavannana
+    5: "main",      # Kamavacarakusalam (continuation)
+    6: "main",      # "2. Rupakandam"
+    7: "main",      # "3. Nikkhepakandom"
+    8: "main",      # "4. Atthakathakandom"
+}
+
+# Chapter context for abh04t - Dhammasangani-anutika (8 source chapters 0-7)
+CHAPTER_ROOT_TEXT_CONTEXT_ANUTIKA: dict[int, str | None] = {
+    0: None,        # intro / Nidanakathavannana
+    1: None,        # "1. Cittuppadakandam" - chapter label only
+    2: "toc_a",     # Tikamatikapadavannana
+    3: "toc_b",     # Dukamatikapadavannana
+    4: "main",      # Kamavacarakusalapadabhajaniyavannana
+    5: "main",      # "2. Rupakandam"
+    6: "main",      # "3. Nikkhepakandom"
+    7: "main",      # "4. Atthakathakandom"
 }
 
 # Obsidian vault-relative path to the root text.
@@ -97,18 +140,20 @@ ROOT_TEXT_PATH = "1-SOURCES/Text/pi-dhammasangani.md"
 # Book position within its pitaka (1 = Dhammasangani, 2 = Vibhanga, ...).
 BOOK_ID = 1
 
-# Pitaka-level slug used in the h1 anchor.
-PITAKA_SLUG_MAP = {
-    "abhidhamma": "atthakatha",
-    "sutta":      "sutta-att",
-    "vinaya":     "vinaya-att",
+# Layer "layer" field -> h1 anchor slug
+LAYER_SLUG_MAP = {
+    "atthakatha": "atthakatha",
+    "tika":       "tika",
+    "tiika":      "tika",
+    "other":      "anutika",   # Dhammasangani-anutika uses layer="other"
 }
 
 # Proper Pali display names for layer codes
 LAYER_DISPLAY_MAP = {
-    "atthakatha": "atthakatha",
-    "tika":       "tiika",
-    "tiika":      "tiika",
+    "atthakatha": "aṭṭhakathā",
+    "tika":       "ṭīkā",
+    "tiika":      "ṭīkā",
+    "other":      "anuṭīkā",   # Dhammasangani-anutika
 }
 
 # ---------------------------------------------------------------------------
@@ -214,18 +259,17 @@ def extract_metadata(data: dict, source_path: Path, book_id: int) -> dict:
         desc_parts.append(breadcrumb)
     if total_segs:
         desc_parts.append(f"{total_segs} segments in source")
-    description = "Tipitaka.org Atthakatha edition export."
+    description = "Tipitaka.org Atthakatha/Tika edition export."
     if desc_parts:
         description += " " + "; ".join(desc_parts) + "."
 
     # Derive layer slug for URL
     layer_lower = layer.lower()
-    layer_slug = {"atthakatha": "att", "tika": "tik", "tiika": "tik"}.get(
-        layer_lower, layer_lower[:3]
-    )
+    layer_type  = data.get("layer_type", "")
+    url_ext = layer_type if layer_type else {"atthakatha": "att", "tika": "tik", "tiika": "tik"}.get(layer_lower, layer_lower[:3])
     source_url = (
-        f"https://tipitaka.org/romn/cscd/{source_id}.{layer_slug}.xml"
-        if source_id and layer_slug
+        f"https://tipitaka.org/romn/cscd/{source_id}.{url_ext}.html"
+        if source_id and url_ext
         else None
     )
 
@@ -251,7 +295,22 @@ def extract_metadata(data: dict, source_path: Path, book_id: int) -> dict:
 # ---------------------------------------------------------------------------
 
 
-def convert_json_to_commentary(json_path, output_path) -> None:
+def convert_json_to_commentary(
+    json_path,
+    output_path,
+    chapter_context: dict[int, str | None] | None = None,
+) -> None:
+    """Convert a tipitaka.org JSON export to an Obsidian commentary Markdown file.
+
+    Args:
+        json_path:       Path to the source JSON file.
+        output_path:     Path to write the Markdown output.
+        chapter_context: Override for CHAPTER_ROOT_TEXT_CONTEXT.  Pass one of
+                         CHAPTER_ROOT_TEXT_CONTEXT_MULATIKA or
+                         CHAPTER_ROOT_TEXT_CONTEXT_ANUTIKA as appropriate, or
+                         supply your own dict.  Defaults to the module-level
+                         CHAPTER_ROOT_TEXT_CONTEXT (calibrated for abh01a).
+    """
     json_path   = Path(json_path)
     output_path = Path(output_path)
 
@@ -260,8 +319,14 @@ def convert_json_to_commentary(json_path, output_path) -> None:
 
     segments = data.get("segments", [])
     meta     = extract_metadata(data, json_path, BOOK_ID)
-    pitaka   = str(meta.get("pitaka", "")).lower()
-    pitaka_slug = PITAKA_SLUG_MAP.get(pitaka, "pitaka-att")
+
+    # Resolve layer slug for h1 anchor
+    raw_layer   = str(meta.get("layer", "")).lower()
+    layer_slug  = LAYER_SLUG_MAP.get(raw_layer, raw_layer or "commentary")
+    layer_label = LAYER_DISPLAY_MAP.get(raw_layer, raw_layer)
+
+    # Chapter-context to use (caller can override)
+    ctx = chapter_context if chapter_context is not None else CHAPTER_ROOT_TEXT_CONTEXT
 
     # Phase 1: extract pre-chapter structural elements
     # -----------------------------------------------------------------------
@@ -320,10 +385,8 @@ def convert_json_to_commentary(json_path, output_path) -> None:
         out.append(homage + "\n\n")
 
     if pitaka_heading:
-        raw_layer    = str(meta.get("layer", "")).lower()
-        layer_label  = LAYER_DISPLAY_MAP.get(raw_layer, raw_layer)
-        h1_title     = f"{pitaka_heading} ({layer_label})" if layer_label else pitaka_heading
-        out.append(f"# {h1_title} ^{pitaka_slug}-0\n\n")
+        h1_title = f"{pitaka_heading} ({layer_label})" if layer_label else pitaka_heading
+        out.append(f"# {h1_title} ^{layer_slug}-0\n\n")
 
     out.append(f"## {book_heading} ^{BOOK_ID}-0\n\n")
 
@@ -338,7 +401,7 @@ def convert_json_to_commentary(json_path, output_path) -> None:
     # -----------------------------------------------------------------------
     for src_ch in sorted(chapters.keys()):
         items        = chapters[src_ch]
-        root_context = CHAPTER_ROOT_TEXT_CONTEXT.get(src_ch)
+        root_context = ctx.get(src_ch)
 
         # Determine the h3 title for this chapter
         chapter_title_raw = next(
@@ -352,6 +415,7 @@ def convert_json_to_commentary(json_path, output_path) -> None:
             # (e.g. "Gantharambhakatha") since the subhead names the section.
             h3_title = (
                 next((c for r, c in items if r == ROLE_SUBHEAD), None)
+                or next((c for r, c in items if r == ROLE_TITLE), None)
                 or next((c for r, c in items if r == ROLE_SUBSUBHEAD), None)
                 or f"Section {src_ch}"
             )
