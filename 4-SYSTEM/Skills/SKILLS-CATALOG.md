@@ -67,11 +67,18 @@ These skills populate `2-RAILS/` with the structured context that translation an
 **Outputs:** One file at `2-RAILS/Local-Wiki/<term>.md` containing: cited commentary explanations in the original language, and a short contextual definition drafted from those citations (also in the original language).
 → [`local-wiki-article/SKILL.md`](local-wiki-article/SKILL.md)
 
+### `interlinear-gloss` **[exists]**
+**Purpose:** For one root text + one translation, build an interlinear gloss file at `2-RAILS/Glossaries/Raw/<source>-<target>-gloss.md` pairing them verse by verse. Each verse becomes a ```gloss``` block in the Obsidian Interlinear Glossing plugin format (`\gla` source tokens, `\glb` morphology/lemma, `\glc` token-by-token target glosses, `\t` free translation). Token-level alignment lives here so every downstream glossary step reads from one place.
+**Inputs:** `1-SOURCES/Text/<root-text>.md`, one translation under `1-SOURCES/Translations/`.
+**Outputs:** One gloss file per translation under `2-RAILS/Glossaries/Raw/<source-lang>-<target-lang-tag>-gloss.md`.
+**Helper:** `scripts/scaffold_gloss.py` aligns blocks by `^block-id`, populates `\gla` from source tokens (stripping editorial brackets and enumeration labels) and `\t` from the translation, scaffolds `\glb` and `\glc` with `--` placeholders at the right column count, and re-runs idempotently (preserves filled lines when token counts still match). `--validate` checks column-count consistency across the file.
+→ [`interlinear-gloss/SKILL.md`](interlinear-gloss/SKILL.md)
+
 ### `glossary-extract-raw` **[exists]**
-**Purpose:** Extract every keyword and its rendered form from one existing translation or reference text, producing a raw per-source glossary.
-**Inputs:** One translation or reference text file in `1-SOURCES/` or `3-TRANSFORMATIONS/`.
-**Outputs:** One glossary file at `2-RAILS/Glossaries/Raw/<source-name>.md` with a table mapping Pali term → rendering used in that source.
-**Helper:** `scripts/align_blocks.py` pairs root-text and translation blocks by block ID into a CSV working table before the keyword pass.
+**Purpose:** Extract every source-language keyword and the rendering(s) it receives, from one interlinear gloss file, into a raw per-source glossary.
+**Inputs:** One gloss file at `2-RAILS/Glossaries/Raw/<source>-<target>-gloss.md`.
+**Outputs:** One glossary file at `2-RAILS/Glossaries/Raw/<source>-<target>.md` with a table mapping source lemma → rendering used in that translation.
+**Helper:** `scripts/extract_pairs.py` walks every ``gloss`` block, pairs `\gla[i]` with `\glc[i]` per column, normalises lemmas using `\glb`, and emits a CSV of `(source_token, source_lemma, target_rendering, block_id)` rows ready for tallying. Legacy fallback `scripts/align_blocks.py` pairs by block ID only, for sources where no gloss file exists yet.
 → [`glossary-extract-raw/SKILL.md`](glossary-extract-raw/SKILL.md)
 
 ### `glossary-combine` **[exists]**

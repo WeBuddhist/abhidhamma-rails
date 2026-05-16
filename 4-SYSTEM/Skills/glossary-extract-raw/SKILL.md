@@ -1,34 +1,35 @@
 ---
 name: glossary-extract-raw
-description: Extract every source-language keyword and the rendering(s) it receives from one existing translation or reference text into a raw per-source glossary at 2-RAILS/Glossaries/Raw/<source-name>.md. Uses block-ID alignment between root text and translation to pair source/target snippets, then catalogues attested renderings keyword by keyword.
+description: Extract every source-language keyword and the rendering(s) it receives from one (root-text, translation) pair into a raw per-source glossary at 2-RAILS/Glossaries/Raw/<source-lang>-<target-lang-tag>.md. Reads the interlinear gloss file produced by interlinear-gloss (token-level \gla ↔ \glc alignment already done) and catalogues attested renderings keyword by keyword.
 ---
 
 # glossary-extract-raw
 
-This skill turns one translation file in `1-SOURCES/Translations/` (or any other reference text in the target language) into a **raw glossary** — a per-source record of every keyword in the original language and every distinct rendering that translation uses for it. The raw glossaries are the input for `glossary-combine`.
+This skill turns one **interlinear gloss file** in `2-RAILS/Glossaries/Raw/` into a **raw glossary** — a per-source record of every keyword in the original language and every distinct rendering it receives in this translation. The raw glossaries are the input for `glossary-combine`.
 
-The skill has two halves:
+The gloss file is the primary input. It must exist before this skill runs. Run `interlinear-gloss` first to produce it.
 
-1. **Mechanical alignment** (helper script) — pair every translation block with the corresponding root-text block by block ID. Output a working table.
-2. **Keyword extraction** (LLM) — walk through the paired blocks, identify source-language keywords, and record every rendering each one receives.
+The skill has two passes:
+
+1. **Token-pair extraction** (helper script) — walk every ```` ```gloss ```` block in the gloss file, pair each `\gla` token with the `\glc` token at the same column position, and tally distinct (source-token, target-rendering) pairs across verses.
+2. **Sense disambiguation and curation** (LLM) — group the raw tallies by source lemma, merge inflectional variants, separate clearly distinct senses, pick sample pairings, and write the final raw glossary.
 
 ---
 
 ## Inputs
 
-- **Translation file** — one file in `1-SOURCES/Translations/<source-name>.md` (or a reference text in the same target language).
-- **Root text** — the source-language file the translation is aligned against, declared in the translation file's `root_text` frontmatter field.
-- **Keyword list (optional)** — if a controlled keyword list exists for this text (extracted from the mātikā, or pulled from existing Local-Wiki articles), pass it in to constrain extraction. If none is supplied, extract every recurring substantive in the source.
+- **Interlinear gloss file** — `2-RAILS/Glossaries/Raw/<source-lang>-<target-lang-tag>-gloss.md`. Produced by the `interlinear-gloss` skill. Must validate clean (run `scaffold_gloss.py --validate` first).
+- **Keyword list (optional)** — if a controlled keyword list exists (extracted from the mātikā, or pulled from existing Local-Wiki articles), pass it in to constrain extraction. If omitted, extract every source token that recurs at least three times across the gloss file.
 
 ## Output
 
 One file at:
 
 ```
-2-RAILS/Glossaries/Raw/<source-name>.md
+2-RAILS/Glossaries/Raw/<source-lang>-<target-lang-tag>.md
 ```
 
-`<source-name>` matches the translation filename without the `.md` extension (e.g. `en-dhammasangani-rd`). Always include the `lang_tag` from the translation file's frontmatter in the source name so the language pair is obvious from the filename.
+The filename mirrors the gloss file but without the `-gloss` suffix. For example, `pi-en-rd-gloss.md` → `pi-en-rd.md`. Both files live side by side under `Glossaries/Raw/`.
 
 ---
 
@@ -36,11 +37,13 @@ One file at:
 
 ```markdown
 ---
-source_file: 1-SOURCES/Translations/<translation-name>.md
+gloss_file: 2-RAILS/Glossaries/Raw/<source-lang>-<target-lang-tag>-gloss.md
+source_file: 1-SOURCES/Text/<root-text>.md
+target_file: 1-SOURCES/Translations/<translation>.md
 source_language: <pi | sa | bo | zh>
 target_language: <en | bn | sin | ...>
 language_pair: <pi-en | pi-bn | ...>
-root_text: 1-SOURCES/Text/<root-text>.md
+target_lang_tag: <en-rd | en | bn | sin | ...>
 translator: <name from translation frontmatter, if present>
 total_keywords: <count>
 status: draft
@@ -48,7 +51,7 @@ status: draft
 
 # Raw glossary — <translator / translation short name>
 
-## <source-lang keyword> → renderings
+## <source-lang keyword>
 
 **Renderings attested in this source:**
 
@@ -59,61 +62,72 @@ status: draft
 
 **Sample pairings:**
 
-> **^1-0a-1** — *<source snippet containing the keyword>*
-> → "<corresponding target snippet>"
-
-> **^1-0a-5** — *<source snippet>*
-> → "<target snippet>"
+> **^<block-id>** — *<source snippet containing the keyword>*
+> → "<corresponding target rendering>"
 
 ---
 
-## <next keyword> → renderings
+## <next keyword>
 
 ...
 ```
 
 One `##` heading per keyword. Keywords are sorted alphabetically (by source-language form). Diacritics are preserved.
 
+The output schema is **unchanged** from earlier versions of this skill — what changed is the input: the source/target alignment is no longer extracted from the block level (whole-paragraph pairs) but from the token level (one `\gla` token paired with one `\glc` cell), giving cleaner and finer-grained rendering data.
+
 ---
 
 ## Rules
 
-1. **One file per translation source.** Never merge two translations into one raw file — that's what `glossary-combine` is for.
-2. **Pair by block ID, not by sentence proximity.** Translation files in this vault are block-aligned with the root text. Every snippet pairing uses the shared block ID.
-3. **Record every distinct rendering.** If the translator renders *dhammā* as "states" in one passage and "phenomena" in another, both appear in the rendering table with their frequencies.
-4. **Frequencies are counts of distinct blocks, not raw token counts.** A block in which *dhammā* appears three times all rendered as "states" counts once for "states".
-5. **Sample pairings show context.** Two to four blocks per keyword is enough. Pick blocks that show different renderings or different inflectional contexts.
-6. **No interpretive notes.** This file is descriptive: what the translation actually does. Judgments about whether a rendering is good belong in `glossary-select`, not here.
-7. **Use the translator's exact wording.** Preserve capitalisation, punctuation, and any glosses inline.
+1. **One raw glossary per gloss file.** A `pi-en-rd-gloss.md` becomes `pi-en-rd.md`. Never merge two translations into one raw file — that's what `glossary-combine` is for.
+2. **Tokens come from `\gla`; renderings come from `\glc`.** The free translation on `\t` is not used for rendering extraction (it's full-sentence English; `\glc` is the per-token gloss).
+3. **Inflectional variants are merged.** *dhammā*, *dhammānaṃ*, *dhammehi* all map to lemma *dhamma*. Where the gloss file's `\glb` line records the lemma, use it; where it doesn't, normalise manually.
+4. **Distinct renderings stay distinct.** `states` and `mental-states` are two renderings of the same keyword, not one. They each get a row with their own frequency.
+5. **Sample pairings show context.** Two to four pairings per keyword, chosen to cover the range of renderings and inflectional contexts. Quote the source token in context (a few words on each side) and the rendering verbatim.
+6. **No interpretive judgments.** This file is descriptive: what the translation actually does. Whether a rendering is good belongs in `glossary-select`, not here.
 
 ---
 
 ## Procedure
 
-1. **Verify alignment.** Confirm that the translation file and the root text both use the same block-ID scheme. Run the alignment helper (below) to produce the working table.
-2. **Identify keywords.** Run a frequency pass over the source-language file (or use the supplied keyword list). Substantives that recur at least three times across the text are candidates. Discard function words and inflectional particles unless they carry interpretive weight (e.g. *iti*).
-3. **For each keyword:** walk through every aligned block in which the keyword appears in the source snippet. Read the target snippet. Identify the word or phrase in the target that renders the keyword. Record it.
-4. **Tally renderings.** Build the rendering table — one row per distinct rendering, frequency = number of distinct blocks in which the rendering occurs.
-5. **Pick sample pairings.** Two to four blocks per keyword, chosen to cover the range of renderings and inflectional contexts.
-6. **Write the file** to `2-RAILS/Glossaries/Raw/<source-name>.md` with the frontmatter populated.
+1. **Validate the gloss file.** Run:
+
+   ```bash
+   python3 4-SYSTEM/Skills/interlinear-gloss/scripts/scaffold_gloss.py \
+       --validate 2-RAILS/Glossaries/Raw/pi-en-rd-gloss.md
+   ```
+
+   The gloss file must validate clean — every `\glb` and `\glc` line has the same token count as its `\gla` line.
+
+2. **Run the token-pair extractor:**
+
+   ```bash
+   python3 4-SYSTEM/Skills/glossary-extract-raw/scripts/extract_pairs.py \
+       2-RAILS/Glossaries/Raw/pi-en-rd-gloss.md \
+       0-INBOX/temp/pi-en-rd-pairs.csv
+   ```
+
+   The script reads every `gloss` block, pairs `\gla[i]` with `\glc[i]` for each column `i`, and emits a CSV with columns: `source_token, source_lemma, target_rendering, block_id, frequency_within_block`.
+
+   The `source_lemma` column is populated from `\glb` when the `\glb` cell looks like a lemma (a single alphabetic token, optionally with `+` for compounds). Otherwise it falls back to the source token itself.
+
+3. **Tally by lemma.** Open the CSV and group rows by `source_lemma`. For each lemma, count how many distinct blocks contain each `target_rendering`. Discard rows where the rendering is `--` (unfilled placeholder).
+
+4. **Filter to keywords.** Keep lemmas that recur at least three times. Discard function words and inflectional particles unless they carry interpretive weight (e.g. *iti*). If a controlled keyword list was supplied, intersect with it.
+
+5. **Pick sample pairings.** For each retained lemma, pick two to four blocks that illustrate the range of renderings. The CSV contains the block IDs; cross-reference the gloss file to extract the surrounding tokens for the snippet.
+
+6. **Write the raw glossary file** to `2-RAILS/Glossaries/Raw/<source-lang>-<target-lang-tag>.md` with the frontmatter populated. Sort `##` headings alphabetically.
+
 7. **Set `status: draft`.** A domain specialist marks the file `complete` after spot-checking.
 
 ---
 
-## Alignment helper
+## Helper scripts
 
-A small Python script under `scripts/` does the mechanical alignment. It reads both files, pulls out every block in each (block IDs of the form `^<id>` at end of paragraph), and emits a CSV of paired blocks.
-
-```bash
-python3 4-SYSTEM/Skills/glossary-extract-raw/scripts/align_blocks.py \
-    1-SOURCES/Text/pi-dhammasangani.md \
-    1-SOURCES/Translations/en-dhammasangani-rd.md \
-    0-INBOX/temp/align-en-rd.csv
-```
-
-The CSV has four columns: `block_id, source_text, target_text, notes`. Open it; this is the working table the keyword pass reads from.
-
-Blocks that exist in only one file are flagged in the `notes` column (`source-only` or `target-only`) so untranslated passages don't generate false renderings.
+- **`scripts/extract_pairs.py`** — walks one gloss file and emits a CSV of `(source_token, source_lemma, target_rendering, block_id)` rows.
+- **`scripts/align_blocks.py`** — legacy fallback for cases where no gloss file exists (e.g. for sources where token-level glossing was skipped). Pairs root-text and translation by block ID into a CSV. Use this only if the gloss workflow is not yet available for the language pair in question; the gloss-based extraction is otherwise the canonical input.
 
 ---
 
@@ -121,8 +135,9 @@ Blocks that exist in only one file are flagged in the `notes` column (`source-on
 
 - [ ] Every keyword appears as its own `##` heading
 - [ ] Every keyword has at least one rendering row and one sample pairing
-- [ ] Sample pairings show the block ID and quote both source and target verbatim
-- [ ] Frequencies count distinct blocks, not raw tokens
+- [ ] Sample pairings show the block ID and quote both source token (in context) and target rendering
+- [ ] Frequencies count distinct blocks, not raw token-pair occurrences
 - [ ] `total_keywords` in frontmatter matches the number of `##` headings
-- [ ] Source-only blocks (untranslated) have not generated empty rendering rows
+- [ ] `--` placeholder renderings have not generated rows
 - [ ] File is sorted alphabetically by source-language keyword
+- [ ] `gloss_file` frontmatter field points at the gloss file that was the input

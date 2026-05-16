@@ -87,7 +87,12 @@ For each key term explained in the commentaries, create a Local-Wiki article. Po
 
 #### 1d. Glossaries (`2-RAILS/Glossaries/`)
 
-For each existing translation or relevant reference text, extract every keyword and the rendering(s) it uses into a raw glossary file under `Glossaries/Raw/<source-name>.md`. Then combine the raw files into a consolidated glossary per language pair under `Glossaries/<source-lang>-<target-lang>.md`, with every attested rendering shown side by side. When setting up a new translation track, select the preferred rendering for each term from the consolidated glossary — guided by the track's `requirements.md` — and write a translation-specific glossary into `3-TRANSFORMATIONS/Translation/<track-name>/glossary.md`. If no existing rendering is satisfactory, use the Local-Wiki article for that term to derive a better one and record the new rendering back into both the per-track glossary and the consolidated glossary.
+Glossary preparation runs in four sub-steps:
+
+1. **Interlinear glosses (`Glossaries/Raw/<source>-<target>-gloss.md`).** For each translation in `1-SOURCES/Translations/`, build a gloss file pairing the root text against that translation verse by verse. Each verse becomes a `gloss` block in the Obsidian Interlinear Glossing plugin format (`\gla` source tokens, `\glb` morphology/lemma, `\glc` token-by-token target glosses, `\t` free translation). The gloss file is the single token-level alignment artefact that every downstream glossary step reads.
+2. **Raw glossaries (`Glossaries/Raw/<source>-<target>.md`).** From each gloss file, extract every source-language keyword and the rendering(s) it receives. The token-level alignment is already done in the gloss file, so this step is mostly mechanical: walk every `\gla` ↔ `\glc` pair, group by lemma (using `\glb`), tally distinct renderings, and record sample pairings.
+3. **Consolidated glossary (`Glossaries/<source-lang>-<target-lang>.md`).** Merge every raw glossary for a language pair into one file. Each keyword's row shows every attested rendering side by side, with per-source frequencies summed.
+4. **Per-track glossary (`3-TRANSFORMATIONS/Translation/<track-name>/glossary.md`).** When setting up a new translation track, select the preferred rendering for each keyword from the consolidated glossary — guided by the track's `requirements.md` — and write the per-track working glossary. If no attested rendering is satisfactory, use the Local-Wiki article for that term to derive a better one, and record the new rendering back into both the per-track glossary and the consolidated glossary.
 
 #### 1e. Translation requirements (`3-TRANSFORMATIONS/Translation/<track-name>/requirements.md`)
 
