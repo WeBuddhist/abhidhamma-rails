@@ -14,221 +14,135 @@
 
 তিকমাতিকা ^1-0a-0
 
----
 
-(ক) কুশলা ধম্মা।  
-(খ) অকুশলা ধম্মা।  
+1. (ক) কুশলা ধম্মা।
+(খ) অকুশলা ধম্মা।
 (গ) অব্যাকতা ধম্মা। ^1-0a-1
 
-(Ka) kusalā dhammā.  
-(Kha) akusalā dhammā.  
-(Ga) abyākatā dhammā.
-
----
-
-(ক) সুখায় বেদনায় সম্পযুত্তা ধম্মা।  
-(খ) দুক্খায় বেদনায় সম্পযুত্তা ধম্মা।  
+2. (ক) সুখায় বেদনায় সম্পযুত্তা ধম্মা।
+(খ) দুক্খায় বেদনায় সম্পযুত্তা ধম্মা।
 (গ) অদুক্খমসুখায় বেদনায় সম্পযুত্তা ধম্মা। ^1-0a-2
 
-(Ka) sukhāya vedanāya sampayuttā dhammā.  
-(Kha) dukkhāya vedanāya sampayuttā dhammā.  
-(Ga) adukkhamasukhāya vedanāya sampayuttā dhammā.
-
-
-(ক) বিপাকা ধম্মা।  
-(খ) বিপাকধম্মধম্মা।  
+3. (ক) বিপাকা ধম্মা।
+(খ) বিপাকধম্মধম্মা।
 (গ) নেববিপাকনবিপাকধম্মধম্মা। ^1-0a-3
 
-(Ka) vipākā dhammā.  
-(Kha) vipākadhammadhammā.  
-(Ga) nevavipākanavipākadhammadhammā.
-
----
-
-(ক) উপাদিন্নুপাদানিয়া ধম্মা।  
-(খ) অনুপাদিন্নুপাদানিয়া ধম্মা।  
+4. (ক) উপাদিন্নুপাদানিয়া ধম্মা।
+(খ) অনুপাদিন্নুপাদানিয়া ধম্মা।
 (গ) অনুপাদিন্নঅনুপাদানিয়া ধম্মা। ^1-0a-4
 
-(Ka) upādiṇṇupādāniyā [upādinnupādāniyā (syā.)] dhammā.  
-(Kha) anupādiṇṇupādāniyā dhammā.  
-(Ga) anupādiṇṇaanupādāniyā [anupādinnānupādāniyā (syā.)] dhammā.
-
----
-
-(ক) সংকিলিট্‌ঠসংকিলেসিকা ধম্মা।  
-(খ) অসংকিলিট্‌ঠসংকিলেসিকা ধম্মা।  
+5. (ক) সংকিলিট্‌ঠসংকিলেসিকা ধম্মা।
+(খ) অসংকিলিট্‌ঠসংকিলেসিকা ধম্মা।
 (গ) অসংকিলিট্‌ঠঅসংকিলেসিকা ধম্মা। ^1-0a-5
 
-(Ka) saṃkiliṭṭhasaṃkilesikā dhammā.  
-(Kha) asaṃkiliṭṭhasaṃkilesikā dhammā.  
-(Ga) asaṃkiliṭṭhaasaṃkilesikā [asaṃkiliṭṭhāsaṃkilesikā (syā.)] dhammā.
-
----
-
-(ক) সবিতক্‌কসবিচারা ধম্মা।  
-(খ) অবিতক্‌কবিচারমত্তা ধম্মা।  
+6. (ক) সবিতক্‌কসবিচারা ধম্মা।
+(খ) অবিতক্‌কবিচারমত্তা ধম্মা।
 (গ) অবিতক্‌কঅবিচারা ধম্মা। ^1-0a-6
 
-(Ka) savitakkasavicārā dhammā.  
-(Kha) avitakkavicāramattā dhammā.  
-(Ga) avitakkaavicārā [avitakkāvicārā (syā.)] dhammā.
-
----
-
-(ক) পীতিসহগতা ধম্মা।  
-(খ) সুখসহগতা ধম্মা।  
+7. (ক) পীতিসহগতা ধম্মা।
+(খ) সুখসহগতা ধম্মা।
 (গ) উপেক্‌খাসহগতা ধম্মা। ^1-0a-7
 
-(Ka) pītisahagatā dhammā.  
-(Kha) sukhasahagatā dhammā.  
-(Ga) upekkhāsahagatā dhammā.
-
----
-
-(ক) দস্‌সনেন পহাতব্‌বা ধম্মা।  
-(খ) ভাবনায় পহাতব্‌বা ধম্মা।  
+8. (ক) দস্‌সনেন পহাতব্‌বা ধম্মা।
+(খ) ভাবনায় পহাতব্‌বা ধম্মা।
 (গ) নেব দস্‌সনেন ন ভাবনায় পহাতব্‌বা ধম্মা। ^1-0a-8
 
-(Ka) dassanena pahātabbā dhammā.  
-(Kha) bhāvanāya pahātabbā dhammā.  
-(Ga) neva dassanena na bhāvanāya pahātabbā dhammā.
-
----
-
-(ক) দস্‌সনেন পহাতব্‌বাহেতুকা ধম্মা।  
-(খ) ভাবনায় পহাতব্‌বাহেতুকা ধম্মা।  
+9. (ক) দস্‌সনেন পহাতব্‌বাহেতুকা ধম্মা।
+(খ) ভাবনায় পহাতব্‌বাহেতুকা ধম্মা।
 (গ) নেব দস্‌সনেন ন ভাবনায় পহাতব্‌বাহেতুকা ধম্মা। ^1-0a-9
 
-(Ka) dassanena pahātabbahetukā dhammā.  
-(Kha) bhāvanāya pahātabbahetukā dhammā.  
-(Ga) neva dassanena na bhāvanāya pahātabbahetukā dhammā.
-
----
-
-(ক) আচয়গামিনো ধম্মা।  
-(খ) অপচয়গামিনো ধম্মা।  
+10. (ক) আচয়গামিনো ধম্মা।
+(খ) অপচয়গামিনো ধম্মা।
 (গ) নেবাচয়গামিনোনাপচয়গামিনো ধম্মা। ^1-0a-10
 
-(Ka) ācayagāmino dhammā.  
-(Kha) apacayagāmino dhammā.  
-(Ga) nevācayagāmināpacayagāmino dhammā.
-
----
-
-(ক) সেক্‌খা ধম্মা।  
-(খ) অসেক্‌খা ধম্মা।  
+11. (ক) সেক্‌খা ধম্মা।
+(খ) অসেক্‌খা ধম্মা।
 (গ) নেবসেক্‌খনাসেক্‌খা ধম্মা। ^1-0a-11
 
-(Ka) sekkhā dhammā.  
-(Kha) asekkhā dhammā.  
-(Ga) nevasekkhanāsekkhā dhammā.
-
----
-
-(ক) পরিত্‌তা ধম্মা।  
-(খ) মহগ্‌গতা ধম্মা।  
+12(ক) পরিত্‌তা ধম্মা।
+(খ) মহগ্‌গতা ধম্মা।
 (গ) অপ্‌পমাণা ধম্মা। ^1-0a-12
 
-(Ka) parittā dhammā.  
-(Kha) mahaggatā dhammā.  
+(Ka) parittā dhammā.
+(Kha) mahaggatā dhammā.
 (Ga) appamāṇā dhammā.
 
----
-
-(ক) পরিত্‌তারম্‌মণা ধম্মা।  
-(খ) মহগ্‌গতারম্‌মণা ধম্মা।  
+(ক) পরিত্‌তারম্‌মণা ধম্মা।
+(খ) মহগ্‌গতারম্‌মণা ধম্মা।
 (গ) অপ্‌পমাণারম্‌মণা ধম্মা। ^1-0a-13
 
-(Ka) parittārammaṇā dhammā.  
-(Kha) mahaggatārammaṇā dhammā.  
+(Ka) parittārammaṇā dhammā.
+(Kha) mahaggatārammaṇā dhammā.
 (Ga) appamāṇārammaṇā dhammā.
 
----
-
-(ক) হীনা ধম্মা।  
-(খ) মজ্‌ঝিমা ধম্মা।  
+(ক) হীনা ধম্মা।
+(খ) মজ্‌ঝিমা ধম্মা।
 (গ) পণীতা ধম্মা। ^1-0a-14
 
-(Ka) hīnā dhammā.  
-(Kha) majjhimā dhammā.  
+(Ka) hīnā dhammā.
+(Kha) majjhimā dhammā.
 (Ga) paṇītā dhammā.
 
----
-
-(ক) মিচ্‌ছত্‌তনিয়তা ধম্মা।  
-(খ) সম্‌মত্‌তনিয়তা ধম্মা।  
+(ক) মিচ্‌ছত্‌তনিয়তা ধম্মা।
+(খ) সম্‌মত্‌তনিয়তা ধম্মা।
 (গ) অনিয়তা ধম্মা। ^1-0a-15
 
-(Ka) micchattaniyatā dhammā.  
-(Kha) sammattaniyatā dhammā.  
+(Ka) micchattaniyatā dhammā.
+(Kha) sammattaniyatā dhammā.
 (Ga) aniyatā dhammā.
 
----
-
-(ক) মগ্‌গারম্‌মণা ধম্মা।  
-(খ) মগ্‌গহেতুকা ধম্মা।  
+(ক) মগ্‌গারম্‌মণা ধম্মা।
+(খ) মগ্‌গহেতুকা ধম্মা।
 (গ) মগ্‌গাধিপতিনো ধম্মা। ^1-0a-16
 
-(Ka) maggārammaṇā dhammā.  
-(Kha) maggahetukā dhammā.  
+(Ka) maggārammaṇā dhammā.
+(Kha) maggahetukā dhammā.
 (Ga) maggādhipatino dhammā.
 
----
-
-(ক) উপ্‌পন্‌না ধম্মা।  
-(খ) অনুপ্‌পন্‌না ধম্মা।  
+(ক) উপ্‌পন্‌না ধম্মা।
+(খ) অনুপ্‌পন্‌না ধম্মা।
 (গ) উপ্‌পাদিনো ধম্মা। ^1-0a-17
 
-(Ka) uppannā dhammā.  
-(Kha) anuppannā dhammā.  
+(Ka) uppannā dhammā.
+(Kha) anuppannā dhammā.
 (Ga) uppādino dhammā.
 
----
-
-(ক) অতীতা ধম্মা।  
-(খ) অনাগতা ধম্মা।  
+(ক) অতীতা ধম্মা।
+(খ) অনাগতা ধম্মা।
 (গ) পচ্‌চুপ্‌পন্‌না ধম্মা। ^1-0a-18
 
-(Ka) atītā dhammā.  
-(Kha) anāgatā dhammā.  
+(Ka) atītā dhammā.
+(Kha) anāgatā dhammā.
 (Ga) paccuppannā dhammā.
 
----
-
-(ক) অতীতারম্‌মণা ধম্মা।  
-(খ) অনাগতারম্‌মণা ধম্মা।  
+(ক) অতীতারম্‌মণা ধম্মা।
+(খ) অনাগতারম্‌মণা ধম্মা।
 (গ) পচ্‌চুপ্‌পন্‌নারম্‌মণা ধম্মা। ^1-0a-19
 
-(Ka) atītārammaṇā dhammā.  
-(Kha) anāgatārammaṇā dhammā.  
+(Ka) atītārammaṇā dhammā.
+(Kha) anāgatārammaṇā dhammā.
 (Ga) paccuppannārammaṇā dhammā.
 
----
-
-(ক) অজ্‌ঝত্‌তা ধম্মা।  
-(খ) বহিদ্‌ধা ধম্মা।  
+(ক) অজ্‌ঝত্‌তা ধম্মা।
+(খ) বহিদ্‌ধা ধম্মা।
 (গ) অজ্‌ঝত্‌তবহিদ্‌ধা ধম্মা। ^1-0a-20
 
-(Ka) ajjhattā dhammā.  
-(Kha) bahiddhā dhammā.  
+(Ka) ajjhattā dhammā.
+(Kha) bahiddhā dhammā.
 (Ga) ajjhattabahiddhā dhammā.
 
----
-
-(ক) অজ্‌ঝত্‌তারম্‌মণা ধম্মা।  
-(খ) বহিদ্‌ধারম্‌মণা ধম্মা।  
+(ক) অজ্‌ঝত্‌তারম্‌মণা ধম্মা।
+(খ) বহিদ্‌ধারম্‌মণা ধম্মা।
 (গ) অজ্‌ঝত্‌তবহিদ্‌ধারম্‌মণা ধম্মা। ^1-0a-21
 
-(Ka) ajjhattārammaṇā dhammā.  
-(Kha) bahiddhārammaṇā dhammā.  
+(Ka) ajjhattārammaṇā dhammā.
+(Kha) bahiddhārammaṇā dhammā.
 (Ga) ajjhattabahiddhārammaṇā dhammā.
 
----
-
-(ক) সনিদস্‌সনসপ্‌পটিঘা ধম্মা।  
-(খ) অনিদস্‌সনসপ্‌পটিঘা ধম্মা।  
+(ক) সনিদস্‌সনসপ্‌পটিঘা ধম্মা।
+(খ) অনিদস্‌সনসপ্‌পটিঘা ধম্মা।
 (গ) অনিদস্‌সনঅপ্‌পটিঘা ধম্মা। ^1-0a-22
 
-(Ka) sanidassanasappaṭighā dhammā.  
-(Kha) anidassanasappaṭighā dhammā.  
+(Ka) sanidassanasappaṭighā dhammā.
+(Kha) anidassanasappaṭighā dhammā.
 (Ga) anidassanaappaṭighā dhammā.
