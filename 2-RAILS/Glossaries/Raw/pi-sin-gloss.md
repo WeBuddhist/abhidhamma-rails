@@ -4,7 +4,7 @@ source_language: pi
 target_file: 1-SOURCES/Translations/sin-dhammasangani.md
 target_language: tgt
 target_lang_tag: tgt
-total_verses: 151
+total_verses: 152
 generated: 2026-05-16
 status: draft
 ---
@@ -14,192 +14,201 @@ status: draft
 ## ^1-0a-1
 
 ```gloss
-\gla    kusalā dhammā akusalā dhammā abyākatā dhammā
-\glb    --     --     --      --     --       --
-\glc    --     --     --      --     --       --
+\gla    kusalā          dhammā          akusalā          dhammā          abyākatā          dhammā
+\glb    kusala-NOM.PL.M dhamma-NOM.PL.M akusala-NOM.PL.M dhamma-NOM.PL.M abyākata-NOM.PL.M dhamma-NOM.PL.M
+\glc    කුශල            ධර්ම            අකුශල            ධර්ම            අව්‍යාකෘත         ධර්ම
 \t      ඒ භාග්‍යවත් අර්‍හත් සම්මාසම්බුදුරජාණන් වහන්සේට නමස්කාර වේවා. # අභිධර්ම පිටකය ## ධම්මසඞ්ගණීප්‍රකරණය ^1-0 ### මාතෘකා ^1-0-0 #### තිත-මාතෘකා ^1-0a-0 1. (ක) කුශලධර්‍මයෝ යැ, (ඛ) අකුශලධර්‍මයෝ යැ, (ග) අව්‍යාකෘතධර්‍මයෝ යි.
 ```
 
 ## ^1-0a-2
 
 ```gloss
-\gla    sukhāya vedanāya sampayuttā dhammā dukkhāya vedanāya sampayuttā dhammā adukkhamasukhāya vedanāya sampayuttā dhammā
-\glb    --      --       --         --     --       --       --         --     --               --       --         --
-\glc    --      --       --         --     --       --       --         --     --               --       --         --
+\gla    sukhāya          vedanāya          sampayuttā          dhammā          dukkhāya          vedanāya          sampayuttā          dhammā          adukkhamasukhāya          vedanāya          sampayuttā          dhammā
+\glb    sukha-INSTR.SG.F vedanā-INSTR.SG.F sampayutta-NOM.PL.M dhamma-NOM.PL.M dukkha-INSTR.SG.F vedanā-INSTR.SG.F sampayutta-NOM.PL.M dhamma-NOM.PL.M adukkhamasukha-INSTR.SG.F vedanā-INSTR.SG.F sampayutta-NOM.PL.M dhamma-NOM.PL.M
+\glc    සුඛ              වේදනා             සම්ප්‍රයුක්ත        ධර්ම            දුඃඛ              වේදනා             සම්ප්‍රයුක්ත        ධර්ම            අදුඃඛාසුඛ                 වේදනා             සම්ප්‍රයුක්ත        ධර්ම
 \t      2. (ක) සුඛවේදනාව හා සම්ප්‍රයුක්ත ධර්‍මයෝ යැ, (ඛ) දුඃඛවේදනාව හා සම්ප්‍රයුක්ත ධර්‍මයෝ යැ, (ග) අදුඃඛාසුඛ වේදනාව හා සම්ප්‍රයුක්ත ධර්‍මයෝ යි.
 ```
 
 ## ^1-0a-3
 
 ```gloss
-\gla    vipākā dhammā vipākadhammadhammā nevavipākanavipākadhammadhammā
-\glb    --     --     --                 --
-\glc    --     --     --                 --
+\gla    vipākā          dhammā          vipākadhammadhammā            nevavipākanavipākadhammadhammā
+\glb    vipāka-NOM.PL.M dhamma-NOM.PL.M vipāka+dhamma+dhamma-NOM.PL.M neva+vipāka+na+vipāka+dhamma+dhamma-NOM.PL.M
+\glc    විපාක           ධර්ම            විපාක-ස්වභාවධර්ම              නො-විපාක-නො-ස්වභාවධර්ම
 \t      3. (ක) විපාක ධර්‍මයෝ යැ, (ඛ) විපාක ස්වභාවධර්‍මයෝ යැ, (ග) නො මැ විපාක වූ, විපාකස්වභාව නො වූ ධර්‍මයෝ යි.
 ```
 
 ## ^1-0a-4
 
 ```gloss
-\gla    upādiṇṇupādāniyā dhammā anupādiṇṇupādāniyā dhammā anupādiṇṇaanupādāniyā dhammā
-\glb    --               --     --                 --     --                    --
-\glc    --               --     --                 --     --                    --
+\gla    upādiṇṇupādāniyā            dhammā          anupādiṇṇupādāniyā             dhammā          anupādiṇṇaanupādāniyā             dhammā
+\glb    upādiṇṇa+upādāniya-NOM.PL.M dhamma-NOM.PL.M an+upādiṇṇa+upādāniya-NOM.PL.M dhamma-NOM.PL.M an+upādiṇṇa+an+upādāniya-NOM.PL.M dhamma-NOM.PL.M
+\glc    උපාදින්න-උපාදානීය           ධර්ම            අනුපාදින්න-උපාදානීය            ධර්ම            අනුපාදින්න-අනුපාදානීය             ධර්ම
 \t      4. (ක) උපාදින්න-උපාදානීය ධර්‍මයෝ යැ, (ඛ) අනුපාදින්න-උපාදානීය ධර්‍මයෝ යැ, (ග) අනුපාදින්න-අනුපාදානීය ධර්‍මයෝ යි.
 ```
 
 ## ^1-0a-5
 
 ```gloss
-\gla    saṃkiliṭṭhasaṃkilesikā dhammā asaṃkiliṭṭhasaṃkilesikā dhammā asaṃkiliṭṭhaasaṃkilesikā dhammā
-\glb    --                     --     --                      --     --                       --
-\glc    --                     --     --                      --     --                       --
+\gla    saṃkiliṭṭhasaṃkilesikā           dhammā          asaṃkiliṭṭhasaṃkilesikā            dhammā          asaṃkiliṭṭhaasaṃkilesikā             dhammā
+\glb    saṃkiliṭṭha+saṃkilesika-NOM.PL.M dhamma-NOM.PL.M a+saṃkiliṭṭha+saṃkilesika-NOM.PL.M dhamma-NOM.PL.M a+saṃkiliṭṭha+a+saṃkilesika-NOM.PL.M dhamma-NOM.PL.M
+\glc    සඞ්කිලිට්ඨ-සඞ්කිලේසික            ධර්ම            අසඞ්කිලිට්ඨ-සඞ්කිලේසික             ධර්ම            අසඞ්කිලිට්ඨ-අසඞ්කිලේසික              ධර්ම
 \t      5. (ක) සඞ්කිලිට්ඨ-සඞ්කිලේසික ධර්‍මයෝ යැ, (ඛ) අසඞ්කිලිට්ඨ-සඞ්කිලේසික ධර්‍මයෝ යැ, (ග) අසඞ්කිලිට්ඨ-අසඞ්කිලේසික ධර්‍මයෝ යි.
 ```
 
 ## ^1-0a-6
 
 ```gloss
-\gla    savitakkasavicārā dhammā avitakkavicāramattā dhammā avitakkaavicārā dhammā
-\glb    --                --     --                  --     --              --
-\glc    --                --     --                  --     --              --
+\gla    savitakkasavicārā             dhammā          avitakkavicāramattā             dhammā          avitakkaavicārā             dhammā
+\glb    sa+vitakka+sa+vicāra-NOM.PL.M dhamma-NOM.PL.M a+vitakka+vicāra+matta-NOM.PL.M dhamma-NOM.PL.M a+vitakka+a+vicāra-NOM.PL.M dhamma-NOM.PL.M
+\glc    සවිතර්ක-සවිචාර                ධර්ම            අවිතර්ක-විචාරමාත්‍ර             ධර්ම            අවිතර්ක-අවිචාර              ධර්ම
 \t      6. (ක) සවිතර්‍ක-සවිචාර ධර්‍මයෝ යැ, (ඛ) අවිතර්‍ක-විචාරමාත්‍ර ධර්‍මයෝ යැ, (ග) අවිතර්‍ක-අවිචාර ධර්‍මයෝ යි.
 ```
 
 ## ^1-0a-7
 
 ```gloss
-\gla    pītisahagatā dhammā sukhasahagatā dhammā upekkhāsahagatā dhammā
-\glb    --           --     --            --     --              --
-\glc    --           --     --            --     --              --
+\gla    pītisahagatā           dhammā          sukhasahagatā           dhammā          upekkhāsahagatā           dhammā
+\glb    pīti+sahagata-NOM.PL.M dhamma-NOM.PL.M sukha+sahagata-NOM.PL.M dhamma-NOM.PL.M upekkhā+sahagata-NOM.PL.M dhamma-NOM.PL.M
+\glc    ප්‍රීතිසහගත            ධර්ම            සුඛසහගත                 ධර්ම            උපේක්‍ෂාසහගත              ධර්ම
 \t      7. (ක) ප්‍රීතිසහගත ධර්‍මයෝ යැ, (ඛ) සුඛසහගත ධර්‍මයෝ යැ, (ග) උපේක්‍ෂාසහගත ධර්‍මයෝ යි.
 ```
 
 ## ^1-0a-8
 
 ```gloss
-\gla    dassanena pahātabbā dhammā bhāvanāya pahātabbā dhammā neva dassanena na bhāvanāya pahātabbā dhammā
-\glb    --        --        --     --        --        --     --   --        -- --        --        --
-\glc    --        --        --     --        --        --     --   --        -- --        --        --
+\gla    dassanena          pahātabbā          dhammā          bhāvanāya          pahātabbā          dhammā          neva     dassanena          na     bhāvanāya          pahātabbā          dhammā
+\glb    dassana-INSTR.SG.N pahātabba-NOM.PL.M dhamma-NOM.PL.M bhāvanā-INSTR.SG.F pahātabba-NOM.PL.M dhamma-NOM.PL.M neva-NEG dassana-INSTR.SG.N na-NEG bhāvanā-INSTR.SG.F pahātabba-NOM.PL.M dhamma-NOM.PL.M
+\glc    දර්ශන              ප්‍රහාතව්‍ය        ධර්ම            භාවනා              ප්‍රහාතව්‍ය        ධර්ම            නො-මැ    දර්ශන              නො-ද   භාවනා              ප්‍රහාතව්‍ය        ධර්ම
 \t      8. (ක) දර්‍ශනයෙන් (සෝවාන් මගින්) ප්‍රහාතව්‍ය ධර්‍මයෝ යැ, (ඛ) භාවනායෙන් (ශේෂ මාර්‍ගත්‍රයෙන්) ප්‍රහාතව්‍ය ධර්‍මයෝ යැ, (ග) නො මැ දර්‍ශනයෙන් නො ද භාවනායෙන් ප්‍රහාතව්‍ය ධර්‍මයෝ යි.
 ```
 
 ## ^1-0a-9
 
 ```gloss
-\gla    dassanena pahātabbahetukā dhammā bhāvanāya pahātabbahetukā dhammā neva dassanena na bhāvanāya pahātabbahetukā dhammā
-\glb    --        --              --     --        --              --     --   --        -- --        --              --
-\glc    --        --              --     --        --              --     --   --        -- --        --              --
+\gla    dassanena          pahātabbahetukā           dhammā          bhāvanāya          pahātabbahetukā           dhammā          neva     dassanena          na     bhāvanāya          pahātabbahetukā           dhammā
+\glb    dassana-INSTR.SG.N pahātabba+hetuka-NOM.PL.M dhamma-NOM.PL.M bhāvanā-INSTR.SG.F pahātabba+hetuka-NOM.PL.M dhamma-NOM.PL.M neva-NEG dassana-INSTR.SG.N na-NEG bhāvanā-INSTR.SG.F pahātabba+hetuka-NOM.PL.M dhamma-NOM.PL.M
+\glc    දර්ශන              ප්‍රහාතව්‍ය-හේතු          ධර්ම            භාවනා              ප්‍රහාතව්‍ය-හේතු          ධර්ම            නො-මැ    දර්ශන              නො-ද   භාවනා              ප්‍රහාතව්‍ය-හේතු          ධර්ම
 \t      9. (ක) දර්‍ශනයෙන් ප්‍රහාතව්‍ය-හේතු ඇති ධර්‍මයෝ යැ, (ඛ) භාවනායෙන් ප්‍රහාතව්‍ය-හේතු ඇති ධර්‍මයෝ යැ, (ග) නො මැ දර්‍ශනයෙන් නො ද භාවනායෙන් ප්‍රහාතව්‍ය-හේතු ඇති ධර්‍මයෝ යි.
 ```
 
 ## ^1-0a-10
 
 ```gloss
-\gla    ācayagāmino dhammā apacayagāmino dhammā nevācayagāmināpacayagāmino dhammā
-\glb    --          --     --            --     --                         --
-\glc    --          --     --            --     --                         --
+\gla    ācayagāmino         dhammā          apacayagāmino         dhammā          nevācayagāmināpacayagāmino            dhammā
+\glb    ācayagāmin-NOM.PL.M dhamma-NOM.PL.M apacayagāmin-NOM.PL.M dhamma-NOM.PL.M neva+ācayagāmin+apācayagāmin-NOM.PL.M dhamma-NOM.PL.M
+\glc    ආචයගාමී             ධර්ම            අපචයගාමී              ධර්ම            නො-ආචයගාමී-අපචයගාමී                   ධර්ම
 \t      10. (ක) ආචයගාමී (ප්‍රතිසන්‍ධි, ච්‍යුති, ගති, ප්‍රවෘත්තීන්ට පමුණුවන) ධර්‍මයෝ යැ, (ඛ) අපචයගාමී (නිවනට පමුණුවන) ධර්‍මයෝ යැ, (ග) නො මැ ආචයගාමී නො ද අපචයගාමී ධර්‍මයෝ යි.
 ```
 
 ## ^1-0a-11
 
 ```gloss
-\gla    sekkhā dhammā asekkhā dhammā nevasekkhanāsekkhā dhammā
-\glb    --     --     --      --     --                 --
-\glc    --     --     --      --     --                 --
+\gla    sekkhā          dhammā          asekkhā          dhammā          nevasekkhanāsekkhā            dhammā
+\glb    sekkha-NOM.PL.M dhamma-NOM.PL.M asekkha-NOM.PL.M dhamma-NOM.PL.M neva+sekkha+nāsekkha-NOM.PL.M dhamma-NOM.PL.M
+\glc    ශික්‍ෂනීය       ධර්ම            අශික්‍ෂනීය       ධර්ම            නො-ශික්‍ෂනීය-අශික්‍ෂනීය       ධර්ම
 \t      11. (ක) ශෛක්‍ෂ ධර්‍මයෝ යැ, (ඛ) අශෛක්‍ෂ ධර්‍මයෝ යැ, (ග) නො මැ ශෛක්‍ෂ වූ නො ද අශෛක්‍ෂ වූ ධර්‍මයෝ යි.
 ```
 
 ## ^1-0a-12
 
 ```gloss
-\gla    parittā dhammā mahaggatā dhammā appamāṇā dhammā
-\glb    --      --     --        --     --       --
-\glc    --      --     --        --     --       --
+\gla    parittā          dhammā          mahaggatā          dhammā          appamāṇā          dhammā
+\glb    paritta-NOM.PL.M dhamma-NOM.PL.M mahaggata-NOM.PL.M dhamma-NOM.PL.M appamāṇa-NOM.PL.M dhamma-NOM.PL.M
+\glc    පරිමිත           ධර්ම            මහත්               ධර්ම            අපරිමේය           ධර්ම
 \t      12. (ක) පරිත්ත (කාමාවචර) ධර්‍මයෝ යැ, (ඛ) මහද්ගත (රූපාරූප) ධර්‍මයෝ යැ, (ග) අප්‍රමාණ (ලෝකෝත්තර) ධර්‍මයෝ යි.
 ```
 
 ## ^1-0a-13
 
 ```gloss
-\gla    parittārammaṇā dhammā mahaggatārammaṇā dhammā appamāṇārammaṇā dhammā
-\glb    --             --     --               --     --              --
-\glc    --             --     --               --     --              --
+\gla    parittārammaṇā            dhammā          mahaggatārammaṇā            dhammā          appamāṇārammaṇā            dhammā
+\glb    paritta+ārammaṇa-NOM.PL.M dhamma-NOM.PL.M mahaggata+ārammaṇa-NOM.PL.M dhamma-NOM.PL.M appamāṇa+ārammaṇa-NOM.PL.M dhamma-NOM.PL.M
+\glc    පරිමිත-ආලම්බන             ධර්ම            මහත්-ආලම්බන                 ධර්ම            අපරිමේය-ආලම්බන             ධර්ම
 \t      13. (ක) පරිත්ත-ආලම්බන ධර්‍මයෝ යැ, (ඛ) මහද්ගත-ආලම්බන ධර්‍මයෝ යැ, (ග) අප්‍රමාණ-ආලම්බන ධර්‍මයෝ යි.
 ```
 
 ## ^1-0a-14
 
 ```gloss
-\gla    hīnā dhammā majjhimā dhammā paṇītā dhammā
-\glb    --   --     --       --     --     --
-\glc    --   --     --       --     --     --
+\gla    hīnā          dhammā          majjhimā          dhammā          paṇītā          dhammā
+\glb    hīna-NOM.PL.M dhamma-NOM.PL.M majjhima-NOM.PL.M dhamma-NOM.PL.M paṇīta-NOM.PL.M dhamma-NOM.PL.M
+\glc    හීන           ධර්ම            මධ්‍යම            ධර්ම            ප්‍රණීත         ධර්ම
 \t      14. (ක) හීන (ලාමක අකුශල) ධර්‍මයෝ යැ, (ඛ) මධ්‍යම (අවශේෂ ත්‍රෛභූමික) ධර්‍මයෝ යැ, (ග) ප්‍රණීත (ලෝකෝත්තර) ධර්‍මයෝ යි.
 ```
 
 ## ^1-0a-15
 
 ```gloss
-\gla    micchattaniyatā dhammā sammattaniyatā dhammā aniyatā dhammā
-\glb    --              --     --             --     --      --
-\glc    --              --     --             --     --      --
+\gla    micchattaniyatā           dhammā          sammattaniyatā           dhammā          aniyatā          dhammā
+\glb    micchatta+niyata-NOM.PL.M dhamma-NOM.PL.M sammatta+niyata-NOM.PL.M dhamma-NOM.PL.M aniyata-NOM.PL.M dhamma-NOM.PL.M
+\glc    මිත්‍යත්ව-නියත            ධර්ම            සම්මත්ව-නියත             ධර්ම            අනියත            ධර්ම
 \t      15. (ක) මිථ්‍යාත්‍ව-නියත ධර්‍මයෝ යැ, (ඛ) සම්‍යක්ත්‍ව-නියත ධර්‍මයෝ යැ, (ග) අනියත ධර්‍මයෝ යි.
 ```
 
 ## ^1-0a-16
 
 ```gloss
-\gla    maggārammaṇā dhammā maggahetukā dhammā maggādhipatino dhammā
-\glb    --           --     --          --     --             --
-\glc    --           --     --          --     --             --
+\gla    maggārammaṇā            dhammā          maggahetukā           dhammā          maggādhipatino          dhammā
+\glb    magga+ārammaṇa-NOM.PL.M dhamma-NOM.PL.M magga+hetuka-NOM.PL.M dhamma-NOM.PL.M magga+adhipati-NOM.PL.M dhamma-NOM.PL.M
+\glc    මාර්ග-ආලම්බන            ධර්ම            මාර්ග-හේතු            ධර්ම            මාර්ග-අධිපති            ධර්ම
 \t      16. (ක) මාර්‍ග-ආලම්බන ධර්‍මයෝ යැ, (ඛ) මාර්‍ග-හේතුක ධර්‍මයෝ යැ, (ග) මාර්‍ග-ආධිපති ධර්‍මයෝ යි.
 ```
 
 ## ^1-0a-17
 
 ```gloss
-\gla    uppannā dhammā anuppannā dhammā uppādino dhammā
-\glb    --      --     --        --     --       --
-\glc    --      --     --        --     --       --
+\gla    uppannā          dhammā          anuppannā          dhammā          uppādino         dhammā
+\glb    uppanna-NOM.PL.M dhamma-NOM.PL.M anuppanna-NOM.PL.M dhamma-NOM.PL.M uppādin-NOM.PL.M dhamma-NOM.PL.M
+\glc    උපන්න            ධර්ම            අනුපන්න            ධර්ම            උපාදී            ධර්ම
 \t      17. (ක) උත්පන්න ධර්‍මයෝ යැ, (ඛ) අනුත්පන්න ධර්‍මයෝ යැ, (ග) උත්පාදී (අවශ්‍යයෙන් උපදනා) ධර්‍මයෝ යි.
 ```
 
 ## ^1-0a-18
 
 ```gloss
-\gla    atītā dhammā anāgatā dhammā paccuppannā dhammā
-\glb    --    --     --      --     --          --
-\glc    --    --     --      --     --          --
+\gla    atītā          dhammā          anāgatā          dhammā          paccuppannā          dhammā
+\glb    atīta-NOM.PL.M dhamma-NOM.PL.M anāgata-NOM.PL.M dhamma-NOM.PL.M paccuppanna-NOM.PL.M dhamma-NOM.PL.M
+\glc    අතීත           ධර්ම            අනාගත            ධර්ම            පච්චුපන්න            ධර්ම
 \t      18. (ක) අතීත ධර්‍මයෝ යැ, (ඛ) අනාගත ධර්‍මයෝ යැ, (ග) ප්‍රත්‍යුත්පන්න ධර්‍මයෝ යි.
 ```
 
 ## ^1-0a-19
 
 ```gloss
-\gla    atītārammaṇā dhammā anāgatārammaṇā dhammā paccuppannārammaṇā dhammā
-\glb    --           --     --             --     --                 --
-\glc    --           --     --             --     --                 --
+\gla    atītārammaṇā            dhammā          anāgatārammaṇā            dhammā          paccuppannārammaṇā            dhammā
+\glb    atīta+ārammaṇa-NOM.PL.M dhamma-NOM.PL.M anāgata+ārammaṇa-NOM.PL.M dhamma-NOM.PL.M paccuppanna+ārammaṇa-NOM.PL.M dhamma-NOM.PL.M
+\glc    අතීත-ආලම්බන             ධර්ම            අනාගත-ආලම්බන              ධර්ම            පච්චුපන්න-ආලම්බන              ධර්ම
 \t      19. (ක) අතීත-ආලම්බන ධර්‍මයෝ යැ, (ඛ) අනාගත-ආලම්බන ධර්‍මයෝ යැ, (ග) ප්‍රත්‍යුත්පන්න-ආලම්බන ධර්‍මයෝ යි.
 ```
 
 ## ^1-0a-20
 
 ```gloss
-\gla    ajjhattā dhammā bahiddhā dhammā ajjhattabahiddhā dhammā
-\glb    --       --     --       --     --               --
-\glc    --       --     --       --     --               --
+\gla    ajjhattā          dhammā          bahiddhā          dhammā          ajjhattabahiddhā           dhammā
+\glb    ajjhatta-NOM.PL.M dhamma-NOM.PL.M bahiddhā-NOM.PL.M dhamma-NOM.PL.M ajjhatta+bahiddhā-NOM.PL.M dhamma-NOM.PL.M
+\glc    අධ්‍යාත්ම         ධර්ම            බහිද්ධා           ධර්ම            අධ්‍යාත්ම-බහිද්ධා          ධර්ම
 \t      20. (ක) අධ්‍යාත්ම ධර්‍මයෝ යැ, (ඛ) බාහ්‍ය ධර්‍මයෝ යැ, (ග) අධ්‍යාත්ම-බාහ්‍ය ධර්‍මයෝ යි.
 ```
 
 ## ^1-0a-21
 
 ```gloss
-\gla    ajjhattārammaṇā dhammā bahiddhārammaṇā dhammā ajjhattabahiddhārammaṇā dhammā
-\glb    --              --     --              --     --                      --
-\glc    --              --     --              --     --                      --
+\gla    ajjhattārammaṇā            dhammā          bahiddhārammaṇā            dhammā          ajjhattabahiddhārammaṇā             dhammā
+\glb    ajjhatta+ārammaṇa-NOM.PL.M dhamma-NOM.PL.M bahiddhā+ārammaṇa-NOM.PL.M dhamma-NOM.PL.M ajjhatta+bahiddhā+ārammaṇa-NOM.PL.M dhamma-NOM.PL.M
+\glc    අධ්‍යාත්ම-ආලම්බන           ධර්ම            බහිද්ධා-ආලම්බන             ධර්ම            අධ්‍යාත්ම-බහිද්ධා-ආලම්බන            ධර්ම
 \t      21. (ක) අධ්‍යාත්ම-ආලම්බන ධර්‍මයෝ යැ, (ඛ) බාහ්‍ය-ආලම්බන ධර්‍මයෝ යැ, (ග) අධ්‍යාත්ම-බාහ්‍ය-ආලම්බන ධර්‍මයෝ යි.
 ```
 
+
+## ^1-0a-22
+
+```gloss
+\gla    sanidassanasappaṭighā            dhammā          anidassanasappaṭighā           dhammā          anidassanaappaṭighā           dhammā          Tikamātikā
+\glb    sa+nidassana+sa+paṭigha-NOM.PL.M dhamma-NOM.PL.M a+nidassana+sa+paṭigha-NOM.PL.M dhamma-NOM.PL.M a+nidassana+a+paṭigha-NOM.PL.M dhamma-NOM.PL.M tika+mātikā-LABEL
+\glc    සනිදර්ශන-සප්‍රතිඝ                ධර්ම            අනිදර්ශන-සප්‍රතිඝ              ධර්ම            අනිදර්ශන-අප්‍රතිඝ             ධර්ම            තික-මාතෘකා
+\t      22. (ක) සනිදර්ශන-සප්‍රතිඝ ධර්මයෝ යැ, (ඛ) අනිදර්ශන-සප්‍රතිඝ ධර්මයෝ යැ, (ග) අනිදර්ශන-අප්‍රතිඝ ධර්මයෝ යි. තික-මාතෘකා.
+```
 ## ^1-0b-1
 
 ```gloss
