@@ -60,3 +60,55 @@ The methodology and rules live in `4-SYSTEM/`:
 - [`CLAUDE.md`](4-SYSTEM/CLAUDE.md) — LLM-facing operational instructions
 
 For day-to-day workflows (audio alignment, EPUB conversion, formatting, and so on), see the rest of `4-SYSTEM/How-to guides/` and `4-SYSTEM/Skills/`.
+
+## Translation workflow
+
+Producing a reliable AI-assisted translation from the rails requires three sequential phases: **context preparation**, **translation**, and **QA**. Each phase addresses one of the three core failure modes of AI translation:
+
+| Failure mode | Where it is addressed |
+|---|---|
+| Hallucinations — fabricated meaning at section or verse level | Context preparation → `2-RAILS/Sections/`, `2-RAILS/Verses/` |
+| Inconsistent vocabulary — the same Pali term rendered differently across passages | Context preparation → `2-RAILS/Glossaries/` and the translation's own glossary |
+| Inconsistent style over long texts | Translation requirements document + QA phase |
+
+### Phase 1 — Translation context preparation
+
+#### 1a. Section-level factual context (`2-RAILS/Sections/`)
+
+For every node in the table of contents, generate a summary **in the original language** (Pali or the commentary language) drawn directly from each relevant commentary, preserving that commentary's own terminology without translating it. Each commentary gets its own file under `Sections/Raw/`. Then, in `Sections/`, combine the per-commentary summaries for each node and add an English translation of the combined summary. These files are what the translation skill loads to orient itself before tackling a section.
+
+#### 1b. Verse-level factual context (`2-RAILS/Verses/`)
+
+For each verse, create a context file that (1) transcludes the relevant commentary passages, (2) synthesises the commentators' respective interpretations in the original language, and (3) uses that synthesis to produce a **disambiguated version of the verse in the original language** — a restatement precise enough that no misreading or mistranslation of the Pali is possible. The translation skill works from this disambiguated version, not from the raw verse.
+
+#### 1c. Word-level factual context (`2-RAILS/Local-Wiki/`)
+
+For each key term explained in the commentaries, create a Local-Wiki article. Populate it with citations from the commentaries (in the original language) and a short contextual explanation drafted from those citations. All content in the Local-Wiki is in the original language. These articles are the reference of last resort when a glossary entry does not yet capture a term adequately.
+
+#### 1d. Glossaries (`2-RAILS/Glossaries/`)
+
+For each existing translation or relevant reference text, extract every keyword and its rendered form into a raw glossary file under `Glossaries/Raw/`. Then combine the raw files into a consolidated glossary per language pair under `Glossaries/`. When setting up a new translation track, select the preferred rendering for each term from the consolidated glossary — guided by the track's `requirements.md` — and write a translation-specific glossary into `3-TRANSFORMATIONS/Translation/<track-name>/`. If no existing rendering is satisfactory, use the Local-Wiki article for that term to derive a better one.
+
+#### 1e. Translation requirements
+
+Each translation track has a `requirements.md` file written in the target language. Before running any translation, verify that it covers: target audience and register, glossary reference path, preferred rendering for structurally significant terms, style constraints (sentence length, use of transliteration, treatment of lists and verse), and any cultural-adaptation rules. The translation skill will not produce consistent output unless these requirements are complete.
+
+### Phase 2 — Translation
+
+Working section by section through the table of contents (small batches — one or a few nodes at a time):
+
+1. Load the track's glossary from `3-TRANSFORMATIONS/Translation/<track-name>/`.
+2. Load the section summary for that node from `2-RAILS/Sections/`.
+3. Load the verse context files for every verse in the batch from `2-RAILS/Verses/`.
+4. Translate against the disambiguated Pali, the section context, and the glossary simultaneously.
+5. Write the result into the translation file (or update it if the file already exists).
+
+Never translate a batch without first loading all three levels of context. Never introduce a keyword rendering that is not in the glossary without recording the new rendering in the glossary first.
+
+### Phase 3 — Translation QA
+
+Review each translated section using the **MQM (Multidimensional Quality Metrics) error taxonomy** as the evaluation framework. For each error found, record the segment, the error category (accuracy, fluency, terminology, style, locale convention, …), the severity (critical / major / minor), and a suggested correction. Compare against `requirements.md` and, where accuracy is in question, against the relevant `2-RAILS/` content.
+
+Record all findings in `3-TRANSFORMATIONS/Translation/<track-name>/qa-report.md`. The QA report drives the next revision pass; a section is not considered complete until it has passed QA with no critical or major errors outstanding.
+
+For the full list of skills that implement each step of this workflow, see [`4-SYSTEM/Skills/SKILLS-CATALOG.md`](4-SYSTEM/Skills/SKILLS-CATALOG.md).
