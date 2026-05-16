@@ -66,7 +66,7 @@ Currently scaffolded: **day-001 through day-010** in each language. The remainin
 
 Adding a new language is a matter of creating a new `days/<tag>/` folder and copying the day files from `_template/`. The Pāli chanting in Step 6 is **identical across every language track** — it is the same chant in every language, just glossed differently in the surrounding steps.
 
-The Reading for Meaning (Step 4) in each language is generated using the translation brief that governs that target language — for English, see `../Translation/en-Contemporary-English-Abhidhamma/brief.md`. As other-language translation briefs come online, they sit next to that one.
+The Reading for Meaning (Step 4) in each language is generated using the translation requirements that govern that target language — for English, see `../Translation/en-Contemporary-English-Abhidhamma/requirements.md`. As other-language translation requirements come online, they sit next to that one.
 
 ## 6. The 200-Day Schedule — Plans of a Few Days Each
 
