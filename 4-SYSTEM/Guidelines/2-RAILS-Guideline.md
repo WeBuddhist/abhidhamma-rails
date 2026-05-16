@@ -90,16 +90,16 @@ This is what "authoritative context" means: not context that is authoritative be
 
 Each verse package contains five layers. Each layer resolves a different type of ambiguity that would otherwise be left to the LLM at generation time:
 
-|Level|Resolves|Key fields|
-|---|---|---|
-|Structural outline|How the text is divided and what each section does|TOC-as-headings with study notes per node|
-|Section summary|Functional, cultural, and rhetorical context for a passage|Translator study notes per section|
-|_(foundation)_ Source text|Which edition, which variants, cross-tradition witnesses|Transclusions from `1-SOURCES/`|
-|Traditional Interpretation|What commentaries say is happening|Paraphrased prose per commentary + Synthesis|
-|Morphological|Token segmentation, compound analysis, inflection|Token table with commentary citations|
-|Syntactic (UCCA)|Sentence structure, argument relations|ASCII tree with node key|
-|Semantic Gloss|Which sense of each term is active; which excluded|Interlinear gloss with WSD|
-|Translation Dynamics|How to render figures of speech, idioms, and culturally bound expressions|Prose subsections per figure with rendering strategies|
+| Level                      | Resolves                                                                  | Key fields                                             |
+| -------------------------- | ------------------------------------------------------------------------- | ------------------------------------------------------ |
+| Structural outline         | How the text is divided and what each section does                        | TOC-as-headings with study notes per node              |
+| Section summary            | Functional, cultural, and rhetorical context for a passage                | Translator study notes per section                     |
+| _(foundation)_ Source text | Which edition, which variants, cross-tradition witnesses                  | Transclusions from `1-SOURCES/`                        |
+| Traditional Interpretation | What commentaries say is happening                                        | Paraphrased prose per commentary + Synthesis           |
+| Morphological              | Token segmentation, compound analysis, inflection                         | Token table with commentary citations                  |
+| Syntactic (UCCA)           | Sentence structure, argument relations                                    | ASCII tree with node key                               |
+| Semantic Gloss             | Which sense of each term is active; which excluded                        | Interlinear gloss with WSD                             |
+| Translation Dynamics       | How to render figures of speech, idioms, and culturally bound expressions | Prose subsections per figure with rendering strategies |
 
 Layer order within verse packages is **language-specific** — declared in frontmatter and followed by the resolver script at assembly time. See Section 6 for per-language default orders.
 
