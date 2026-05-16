@@ -13,10 +13,10 @@ source_url: "https://tipitaka.org/romn/cscd/abh01m.mul.xml"
 other_ids:
   - tipitaka.org: abh01m
 ---
-
 Namo tassa bhagavato arahato sammāsambuddhassa
 
 # Abhidhammapiṭake 
+
 
 ## Dhammasaṅgaṇīpāḷi ^1-0
 
