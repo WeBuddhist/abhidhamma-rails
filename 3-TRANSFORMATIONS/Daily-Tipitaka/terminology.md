@@ -6,7 +6,7 @@ status: draft
 
 # Daily Tipiṭaka — Terminology
 
-This file pins the **standard rendering** of every recurring Abhidhamma term across the 200-day journey, in every language we publish. It is the single source of truth for the daily content; the per-language translation briefs (`../Translation/<lang>/brief.md`) are where the deeper rationale lives.
+This file pins the **standard rendering** of every recurring Abhidhamma term across the 200-day journey, in every language we publish. It is the single source of truth for the daily content; the per-language translation requirements (`../Translation/<lang>/requirements.md`) are where the deeper rationale lives.
 
 A term lands here once it has appeared (or will appear) in at least one published day, so its rendering is locked across every subsequent day.
 

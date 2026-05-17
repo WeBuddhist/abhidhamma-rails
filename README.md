@@ -60,3 +60,73 @@ The methodology and rules live in `4-SYSTEM/`:
 - [`CLAUDE.md`](4-SYSTEM/CLAUDE.md) — LLM-facing operational instructions
 
 For day-to-day workflows (audio alignment, EPUB conversion, formatting, and so on), see the rest of `4-SYSTEM/How-to guides/` and `4-SYSTEM/Skills/`.
+
+## Translation workflow
+
+Producing a reliable AI-assisted translation from the rails requires three sequential phases: **context preparation**, **translation**, and **QA**. Each phase exists to defuse one of the three core failure modes of AI translation:
+
+| Failure mode | Where it is addressed |
+|---|---|
+| Hallucinations — fabricated meaning at section or verse level | Context preparation → `2-RAILS/Sections/`, `2-RAILS/Verses/`, `2-RAILS/Local-Wiki/` |
+| Inconsistent vocabulary — the same Pali term rendered differently across passages | Context preparation → `2-RAILS/Glossaries/` and the per-track glossary in `3-TRANSFORMATIONS/Translation/<track-name>/glossary.md` |
+| Inconsistent style over long texts | `requirements.md` for the track (binding style contract) + QA phase using the MQM taxonomy |
+
+### Phase 1 — Translation context preparation
+
+#### 1a. Section-level factual context (`2-RAILS/Sections/`)
+
+For every node in the table of contents, generate a summary **in the original language** (Pali or the commentary language) drawn directly from each relevant commentary, preserving that commentary's own terminology without translating it. Each commentary gets its own file under `Sections/Raw/<commentary-name>/<node-id>.md` — one summary per node per commentary, so the per-commentary readings stay separable. Then, in `Sections/<node-id>.md`, combine the per-commentary summaries for that node and add an English translation of the combined summary. These combined files are what the translation skill loads to orient itself before tackling a section.
+
+#### 1b. Verse-level factual context (`2-RAILS/Verses/`)
+
+For each verse, create a context file that (1) transcludes the relevant commentary passages, (2) synthesises the commentators' respective interpretations in the original language, and (3) uses that synthesis to produce a **disambiguated version of the verse in the original language** — a restatement precise enough that no misreading or mistranslation of the Pali is possible. The translation skill works from this disambiguated version, not from the raw verse.
+
+#### 1c. Word-level factual context (`2-RAILS/Local-Wiki/`)
+
+For each key term explained in the commentaries, create a Local-Wiki article. Populate it with citations from the commentaries (in the original language) and a short contextual explanation drafted from those citations. All content in the Local-Wiki is in the original language. These articles are the reference of last resort when a glossary entry does not yet capture a term adequately.
+
+#### 1d. Glossaries (`2-RAILS/Glossaries/`)
+
+Glossary preparation runs in four sub-steps:
+
+1. **Interlinear glosses (`Glossaries/Raw/<source>-<target>-gloss.md`).** For each translation in `1-SOURCES/Translations/`, build a gloss file pairing the root text against that translation verse by verse. Each verse becomes a `gloss` block in the Obsidian Interlinear Glossing plugin format (`\gla` source tokens, `\glb` morphology/lemma, `\glc` token-by-token target glosses, `\t` free translation). The gloss file is the single token-level alignment artefact that every downstream glossary step reads.
+2. **Raw glossaries (`Glossaries/Raw/<source>-<target>.md`).** From each gloss file, extract every source-language keyword and the rendering(s) it receives. The token-level alignment is already done in the gloss file, so this step is mostly mechanical: walk every `\gla` ↔ `\glc` pair, group by lemma (using `\glb`), tally distinct renderings, and record sample pairings.
+3. **Consolidated glossary (`Glossaries/<source-lang>-<target-lang>.md`).** Merge every raw glossary for a language pair into one file. Each keyword's row shows every attested rendering side by side, with per-source frequencies summed.
+4. **Per-track glossary (`3-TRANSFORMATIONS/Translation/<track-name>/glossary.md`).** When setting up a new translation track, select the preferred rendering for each keyword from the consolidated glossary — guided by the track's `requirements.md` — and write the per-track working glossary. If no attested rendering is satisfactory, use the Local-Wiki article for that term to derive a better one, and record the new rendering back into both the per-track glossary and the consolidated glossary.
+
+#### 1e. Translation requirements (`3-TRANSFORMATIONS/Translation/<track-name>/requirements.md`)
+
+Each translation track is governed by a `requirements.md` written in the target language. This file is a binding contract that the translation skill reads on every run; if it is incomplete, the translation will drift in style and the QA phase will catch it as MQM "style" or "locale convention" errors. Before running any translation, verify that the document covers, at minimum:
+
+- **Target audience and register** (scholarly, lay, monastic, …) and reading level.
+- **Glossary reference path** — relative path to the per-track glossary.
+- **Preferred rendering for structurally significant terms** that recur across the text and must never vary.
+- **Style constraints** — sentence length, paragraph length, handling of verse vs. prose, treatment of lists, use vs. transliteration of technical Pali terms, footnote vs. inline glossing policy.
+- **Cultural-adaptation rules** — what to translate, what to gloss, what to leave untranslated.
+- **Source-rail dependencies** — which rails (`Sections/`, `Verses/`, `Local-Wiki/`) the translator must consult before each batch.
+
+Anything the translation skill needs to know to behave consistently across thousands of verses lives here.
+
+### Phase 2 — Translation
+
+Working in small batches through the table of contents — one or a few TOC nodes at a time, never the whole text at once:
+
+1. **Select** a small batch of nodes from the table of contents.
+2. **Fetch the per-track glossary** from `3-TRANSFORMATIONS/Translation/<track-name>/glossary.md`.
+3. **Fetch context at every relevant level from `2-RAILS/`**: the combined section summary for each node in the batch (`Sections/`), the verse-context file for every verse it contains (`Verses/`), and any Local-Wiki articles for terms that appear in the batch but aren't covered by the glossary.
+4. **Translate and write** the result into `3-TRANSFORMATIONS/Translation/<track-name>/`, creating the file or updating it in place. The translation file's frontmatter must list the rails it was generated from.
+
+Hard rules: never translate a batch without first loading all three levels of context; never introduce a keyword rendering that is not in the per-track glossary without recording the new rendering in the glossary first (and feeding it back into the consolidated glossary under `2-RAILS/Glossaries/`).
+
+### Phase 3 — Translation QA
+
+Review each translated section against the **MQM (Multidimensional Quality Metrics) error taxonomy**, comparing the translation back to `requirements.md` and — wherever an accuracy or terminology question arises — to the corresponding `2-RAILS/Sections/`, `2-RAILS/Verses/`, and `2-RAILS/Local-Wiki/` files. For each issue found, record:
+
+- the segment (verse ID or paragraph anchor),
+- the MQM error category (accuracy, fluency, terminology, style, locale convention, …),
+- severity (critical / major / minor),
+- and a suggested correction.
+
+All findings go into `3-TRANSFORMATIONS/Translation/<track-name>/qa-report.md`. That report drives the next revision pass. A section is not considered complete until it has passed QA with no critical or major errors outstanding.
+
+For the full list of skills that implement each step of this workflow, see [`4-SYSTEM/Skills/SKILLS-CATALOG.md`](4-SYSTEM/Skills/SKILLS-CATALOG.md).

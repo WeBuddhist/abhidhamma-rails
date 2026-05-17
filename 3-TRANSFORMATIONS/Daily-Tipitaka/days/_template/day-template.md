@@ -27,7 +27,7 @@ _(Pāli always; the gloss line in the target language sits directly underneath e
 
 ## 4. 💡 Reading for Meaning
 
-_The day's passage rendered in the target language. Cite the underlying rails. Translation governed by the brief at `3-TRANSFORMATIONS/Translation/<lang-tag>-…/brief.md`._
+_The day's passage rendered in the target language. Cite the underlying rails. Translation governed by the requirements at `3-TRANSFORMATIONS/Translation/<lang-tag>-…/requirements.md`._
 
 ## 5. 🔑 Pāli Word of the Day
 
