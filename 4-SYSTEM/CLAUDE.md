@@ -1,161 +1,122 @@
 # CLAUDE.md — 🛤️ Railroads
 
-Persistent instructions for the LLM working in this repo. Read in full before touching any file.
+Persistent operational instructions for an LLM agent working in this vault. Read before touching any file.
+
+This file is the **operational quick-reference**. The canonical rules for each folder live in that folder's README:
+
+- [`../1-SOURCES/About Sources.md`](../1-SOURCES/About Sources.md) — sources rules in full
+- [`../2-RAILS/About Rails.md`](../2-RAILS/About Rails.md) — rails schema in full
+- [`../3-TRANSFORMATIONS/About Transformations.md`](../3-TRANSFORMATIONS/About Transformations.md) — transformations rules in full
+
+When this file and a folder README disagree, the folder README wins.
 
 ---
 
-## 1. What this is
+## 1. What this vault is
 
-**Railroads** is a method for making AI-assisted work on classical Buddhist texts reliable. Instead of feeding a model raw commentary and hoping it synthesises correctly, we lay the **rails** first: structured, machine-readable context packages that resolve every ambiguity in a passage and cite the human source for each decision. Once the rails are laid, any model can run any transformation — translation, adaptation, lesson plan — without redoing the philological work.
+**Railroads** is a method for making AI-powered work on classical Buddhist texts reliable. Instead of feeding a model raw commentary and hoping it synthesises correctly, we lay the **rails** first: structured, machine-readable context packages that resolve every ambiguity in a passage and cite the human source for each decision. Once the rails are laid, any model can run any transformation — translation, adaptation, lesson plan, daily reading, study guide, anything — without redoing the philological work.
 
-Authority comes from the human commentary tradition, never from the LLM's parametric knowledge. **One vault per text.** This vault is for the *Bodhisattvacaryāvatāra*.
+Authority comes from the human commentary tradition, never from the LLM's parametric knowledge.
+
+**One vault per text.** This vault is for the **Pāli Abhidhamma Piṭaka**. For vault-specific conventions (Pāli Bible-style addressing, registered commentary IDs, language tracks), see [`Guidelines/abhidhamma-annex.md`](Guidelines/abhidhamma-annex.md).
 
 ---
 
-## 2. Folder structure
+## 2. Folder structure and citation chain
 
 ```
-0-INBOX/            # drafts and scratch — not authoritative
-1-SOURCES/          # human-produced material — read-only ground truth
-   Text/
-   Commentaries/
-   Translations/
-   References/      # dictionaries, secondary literature
-2-RAILS/            # the rails — structured interpretive context (LLM writes here)
-   Verses/
-   Sections/
-   Local-Wiki/
-   Glossaries/
-3-TRANSFORMATIONS/  # translations, adaptations, lessons generated from rails
-4-SYSTEM/           # guidelines (this file) — read-only for LLM
+0-INBOX/ # drafts and scratch — not authoritative
+1-SOURCES/ # human-produced material — read-only ground truth
+ Text/ # root texts (the seven books of the Abhidhamma)
+ Commentaries/ # aṭṭhakathā, mūlaṭīkā, anuṭīkā
+ Translations/ # existing translations (block-aligned with the root)
+ References/ # dictionaries, secondary literature
+ Audio/ # recitation and teaching recordings
+2-RAILS/ # compiled interpretive context (primary work area)
+ Sections/ # multi-commentary summaries per TOC node
+ Verses/ # verse-level context files
+ Local-Wiki/ # monolingual articles per key term
+ Bilingual-Glossaries/ # bilingual descriptive bilingual glossaries per language pair
+3-TRANSFORMATIONS/ # AI-generated outputs, organised in three categories
+ Translations/ # language-by-language translation tracks
+ Adaptations/ # audience-targeted retellings (children's, scholarly, …)
+ Plans/ # calendar-driven study/practice arcs
+4-SYSTEM/ # guidelines, skills, templates — read-only
 ```
 
 ### Citation chain — never skip a link
 
 ```
-1-SOURCES/  →  2-RAILS/  →  3-TRANSFORMATIONS/
+1-SOURCES/ → 2-RAILS/ → 3-TRANSFORMATIONS/
 ```
 
-`3-TRANSFORMATIONS/` cites `2-RAILS/` only. `2-RAILS/` cites `1-SOURCES/` only. If a claim cannot be cited, do not make it — leave the field blank and mark `status: draft`.
+- `2-RAILS/` cites `1-SOURCES/` only — never another rail file, never parametric knowledge, never `3-TRANSFORMATIONS/`.
+- `3-TRANSFORMATIONS/` cites `2-RAILS/` only — never reaching past the rails directly into the sources. (Plan tracks may also embed other completed `3-TRANSFORMATIONS/` outputs — e.g. a Daily-Abhidhamma day-file embedding the English Translation output — recorded the same way in `context_packages:`.)
+
+If a claim cannot be cited, do not make it. Leave the field blank and mark `status: draft`.
 
 ### Write permissions
 
 | Folder | LLM may write? |
-|---|---|
-| `0-INBOX/` | yes — scratch only |
-| `1-SOURCES/` | **no** — read only |
+| ------------------- | ------------------------------------------------------ |
+| `0-INBOX/` | yes — scratch only, never cited from elsewhere |
+| `1-SOURCES/` | **no** — only metadata additions via skill workflows |
 | `2-RAILS/` | yes — primary work area |
-| `3-TRANSFORMATIONS/` | yes, only when explicitly instructed |
-| `4-SYSTEM/` | **no** — read only |
+| `3-TRANSFORMATIONS/`| yes — only when explicitly instructed |
+| `4-SYSTEM/` | **no** — rule changes require a human contributor |
+
+The `1-SOURCES/` restriction is the most important. The folder receives human material once, has its block IDs and frontmatter added under controlled skills, and is then frozen. Adding interpretation here — even a paraphrase or a glossing parenthetical — corrupts the ground truth and breaks the citation chain.
 
 ---
 
-## 3. File naming
+## 3. Descriptive `2-RAILS/`, prescriptive `3-TRANSFORMATIONS/`
 
-- Lowercase, hyphenated, no diacritics in filenames. Diacritics fine inside file content.
-- Language tag suffix on every file carrying language-specific material: `-sk` Sanskrit (IAST default), `-pi` Pāli, `-bo` Tibetan, `-zh` Chinese, `-en` English. Add script suffix when needed: `-sk-iast`, `-bo-wy`.
-- Verse package files in `2-RAILS/Verses/` are named by block ID without the caret: `1-1.md`, `6-33.md`. Pre-chapter content is chapter 0: `0-1.md`.
-- Section files in `2-RAILS/Sections/` are named by chapter number: `1.md`, `6.md`.
+This split runs through every artefact in the vault and decides which folder a new piece of content belongs in:
 
----
+- **`2-RAILS/` is descriptive.** It distills and reformats what is already attested in `1-SOURCES/` — root text, commentaries, existing translations — without adding choices. Every claim cites a specific human source. The authority of a rail comes from the tradition it compiles, not from the LLM that compiled it.
+- **`3-TRANSFORMATIONS/` is prescriptive.** It contains the choices that guide AI-powered output for *each particular track* — audience, register, the rendering chosen for every keyword, the per-session shape. Where `2-RAILS/` records what translators *have done*, `3-TRANSFORMATIONS/` records what *this* output *will do*.
 
-## 4. Block IDs — the verse-level link
-
-Every verse or discrete prose block ends with an Obsidian block ID.
-
-```
-sugatān sagaṇān natvā dharmakāyādigocaran |
-bodhisattvapadaprāptiṃ vakṣyāmi śāstrasaṅgraham || ^1-1
-```
-
-- Format `^chapter-verse`. No zero-padding (`^6-33`, not `^06-033`).
-- Verse numbers restart at 1 each chapter.
-- Pre-chapter content (homage, colophons, title lines) goes under `## 0. Introduction ^0` with IDs `^0-1`, `^0-2`, etc.
-
-Link form: `[[1-SOURCES/Text/sk-iast-root-text.md#^1-1]]`
-Transclude: `![[1-SOURCES/Text/sk-iast-root-text.md#^1-1]]`
+The bilingual glossary chain makes this concrete: `2-RAILS/Bilingual-Glossaries/<src>-<tgt>.md` is descriptive (every rendering every translator attested); `3-TRANSFORMATIONS/Translations/<track>/termbase.md` is prescriptive (the one rendering this track will use). When a track introduces a new rendering, it is recorded back into the consolidated bilingual glossary as a new attestation row — one more descriptive data point.
 
 ---
 
-## 4a. Heading hierarchy for source text files
+## 4. File naming
 
-Headings are **editorial structure added to the original text** — they are not themselves original content. To mark this distinction and prevent any collision with verse/block IDs, every heading block ID ends with **`-0`** (the zero slot is reserved for the heading; original content always starts at `1`).
-
-| Level | Markdown | Purpose | Block ID format | Example |
-|---|---|---|---|---|
-| 1 | `#` | Title of the work | none | `# Bodhisattvacaryāvatāra` |
-| 2 | `##` | Book or top-level chapter | `^N-0` | `## 1. ལེའུ་དང་པོ། ^1-0` |
-| 3 | `###` | Chapter or section | `^N-N-0` | `### 1.2 Some Section ^1-2-0` |
-| 4 | `####` | Deeper TOC level | `^N-N-N-0` | `#### 1.2.3 Sub-section ^1-2-3-0` |
-
-Content blocks beneath a heading use the same numeric path but replace the trailing `0` with the sequential block number starting at `1`:
-
-```
-## 0. Introduction ^0-0
-
-༄། །བྱང་ཆུབ་སེམས་དཔའི་སྤྱོད་པ་ལ་འཇུག་པ་བཞུགས་སོ། །
-༄༅༅། །རྒྱ་གར་སྐད་དུ། བོ་དྷི་སཏྭ་ཙརྱ་ཨ་བ་ཏཱ་ར། ^0-1
-
-## 1. ལེའུ་དང་པོ། ^1-0
-
-བདེ་གཤེགས་ཆོས་ཀྱི་སྐུ་མངའ་སྲས་བཅས་དང་། །
-ཕྱག་འོས་ཀུན་ལའང་གུས་པར་ཕྱག་འཚལ་ཏེ། །
-བདེ་གཤེགས་སྲས་ཀྱི་སྡོམ་ལ་འཇུག་པ་ནི། །
-ལུང་བཞིན་མདོར་བསྡུས་ནས་ནི་བརྗོད་པར་བྱ། ། ^1-1
-
-### 1.2 Some sub-section ^1-2-0
-
-First prose block here. ^1-2-1
-Second prose block here. ^1-2-2
-```
-
-Rules:
-- The `#` title line takes **no** block ID.
-- `##` headings use `^N-0`. Chapter `0` is always the pre-chapter introduction (`## 0. Introduction ^0-0`).
-- `###` headings use `^N-N-0`, where the first segment is the parent chapter and the second is the section's ordinal within that chapter.
-- `####` headings use `^N-N-N-0`.
-- The `0` in the final position is **reserved** for the heading; original-text blocks always start at `1`. This makes it unambiguous which IDs are editorial structure and which are original content.
-- IDs must not exceed four segments (three path segments + the `0`); flatten deeper structures.
-- No zero-padding on any segment.
+- Lowercase, hyphenated, no diacritics in filenames. Diacritics fine inside file content and frontmatter.
+- Language tag suffix on every file carrying language-specific material: `-pi` Pāli (PTS romanisation, default), `-sk` Sanskrit (Devanāgarī, default), `-bo` Tibetan (Unicode), `-zh` Chinese, `-en` English. Add a script suffix when needed: `-sk-iast`, `-bo-wy`, `-pi-sinh`. Full tag list in [`../1-SOURCES/About Sources.md`](../1-SOURCES/About Sources.md) §13.
+- Verse package files in `2-RAILS/Verses/` are named by block ID without the caret: `1-1.md`, `1-583.md`, `1-0a-1.md`. Section files in `2-RAILS/Sections/` are named by node ID: `1.md`, `1-0a-0.md`.
+- Local-wiki files use `term_(disambiguating-phrase).md`, e.g. `kusala_(wholesome).md`.
 
 ---
 
-## 4b. Inline TOC phrases — wikilink tagging
+## 5. Block IDs — the verse-level link
 
-Buddhist texts frequently contain **inline structural announcements**: sentences where the author enumerates the upcoming sections before elaborating each one. These phrases are original content (not editorial additions), but they are also the textual source of the TOC headings. Tagging them makes the connection explicit and enables backlink navigation across the vault.
+Every verse or discrete prose block in `1-SOURCES/` ends with an Obsidian block ID. This is the sole mechanism for cross-file references at the verse level across the vault.
 
-**Convention:** wrap each announced term in a wikilink pointing to the block ID of the heading it sources.
-
-```markdown
-## ལེའུ་དང་པོ། ^1-0
-[[#^1-0|ལེའུ་དང་པོ་]]ལ་[[#^1-1-0|མདོར་བསྟན་པ་]]དང་[[#^1-2-0|རྒྱས་པར་བཤད་པ་]]གཉིས་ཡོད་པ་ལས།
-
-### མདོར་བསྟན་པ། ^1-1-0
-[[#^1-1-0|དང་པོ་མདོར་བསྟན་པ་]]ནི་འདི་དང་འདིའོ།།
-
-### རྒྱས་པར་བཤད་པ། ^1-2-0
-[[#^1-2-0|གཉིས་པ་རྒྱས་པར་བཤད་པ་]]ལ་ནི་དེ་དང་དེ་ལས་མང་བའོ།།
+```
+katame dhammā kusalā?... ^1-1
 ```
 
-Rules:
-- In the **enumeration sentence** (where multiple sections are announced together), each announced term links forward to its corresponding section heading: `[[#^N-N-0|term]]`.
-- In the **body of each section**, the repetition of the section title links to its own heading: `[[#^N-N-0|term]]`. This is self-referential by design — it tags the phrase as the textual source of that heading.
-- For cross-file links (e.g. a commentary tagging terms from the root text structure): `[[filename#^N-N-0|term]]`.
-- Use the minimal display text — just the structural term itself, not the full grammatical phrase.
-- These wikilinks are the only inline tagging mechanism. Do not use italics, HTML spans, or Dataview fields for this purpose.
+- Format: `^chapter-verse` (most common), `^verse`, or `^book-chapter-verse` — declared per file in the `verse_id_format` frontmatter field.
+- Numbers are not zero-padded. Use natural numbers (`^1-583`, not `^01-0583`).
+- The full heading-ID hierarchy (`^N-0` for chapters, `^N-N-0` for sub-sections; the trailing `-0` distinguishes editorial headings from content blocks) is in [`../1-SOURCES/About Sources.md`](../1-SOURCES/About Sources.md) §5.
+- Pāli canonical texts in this vault use a Bible-style addressing scheme (`^<book>-<verse>` with continuous numbering, plus letter-suffixed sub-namespaces for the Mātikā). See [`Guidelines/abhidhamma-annex.md`](Guidelines/abhidhamma-annex.md).
 
-**Why self-referential links are correct:** clicking `[[#^1-1-0|དང་པོ་མདོར་བསྟན་པ་]]` inside section `^1-1-0` scrolls you to the heading of that section — a minor navigation no-op. The value is in the backlinks panel: every file that tags a phrase with `#^1-1-0` becomes visible on that heading, revealing where the structure was announced across all commentaries and translations in the vault.
+Link form: `[[1-SOURCES/Text/pi-dhammasangani.md#^1-1]]`
+Transclude: `![[1-SOURCES/Text/pi-dhammasangani.md#^1-1]]`
+
+Use full paths in all `1-SOURCES/` and `2-RAILS/` files. Short wiki links are acceptable only inside `4-SYSTEM/` documentation.
 
 ---
 
-## 5. 1-SOURCES rules
+## 6. `1-SOURCES/` — what you may and may not do
 
-Files here are received material — formatted for navigation but never interpreted. Permitted additions only:
+Files here are received material — formatted for navigation, never interpreted. Permitted additions only:
 
 - Block IDs
 - Frontmatter metadata
 - Internal navigation links
-- Editorial notes marked `[Ed: ...]` (English, factual only)
+- Editorial notes marked `[Ed:...]` (English, factual only)
 
 Any interpretive claim — compound analysis, sense choice, syntactic reading — belongs in `2-RAILS/`, not here.
 
@@ -163,97 +124,75 @@ Any interpretive claim — compound analysis, sense choice, syntactic reading �
 
 ```yaml
 ---
-title: 
-author: 
-language: 
+title:
+author:
+language:
 file_type: root-text | commentary | translation | reference
-lang_tag: 
+lang_tag:
 source_description: "where this text came from"
 ---
 ```
 
 Add external IDs when available: `bdrc_work_id`, `cbeta_id`, `gretil_url`, `dsbc_url`, `suttacentral_id`, `acip_id`.
 
-For commentaries and translations, also include `root_text:` (path) and `covers_verses:` (range, e.g. `1-1–10-58`).
+For commentaries and translations, also include `root_text:` (path) and `covers_verses:` (range, e.g. `1-1–1-1616`).
+
+Full rules and per-file-type frontmatter in [`../1-SOURCES/About Sources.md`](../1-SOURCES/About Sources.md).
 
 ---
 
-## 6. 2-RAILS — verse package format
+## 7. `2-RAILS/` — what each subfolder produces
 
-One file per verse: `2-RAILS/Verses/1-1.md`. Each package resolves the verse's ambiguities and cites the commentary that grounds each decision.
+### `Sections/` — per-TOC-node summaries
 
-### Frontmatter
+Each node of the table of contents gets a summary in the original language drawn directly from each relevant commentary. Each commentary's summary is its own file under `Sections/Raw/<commentary>/<node-id>.md`. The combined file `Sections/<node-id>.md` synthesises the per-commentary summaries and adds an English translation underneath.
+
+Authoring skills: `section-summary-raw`, `section-summary-combined`.
+
+### `Verses/` — per-verse context packages
+
+One file per verse: `2-RAILS/Verses/1-1.md`. Each package (1) transcludes the relevant commentary passages, (2) synthesises the commentators' interpretations in the original language, and (3) produces a **disambiguated restatement of the verse in the original language** — precise enough that no misreading or mistranslation is possible. Transformation skills work from this disambiguated version, not from the raw verse.
+
+Minimum frontmatter:
 
 ```yaml
 ---
 ref: 1-1
-unit_type: single | group        # group = syntactically incomplete alone
-unit_verses: [1-1]               # list, multiple if group
-commentary_coverage: [prajnakaramati, kunzang-pelden]
+unit_type: single | group # group = syntactically incomplete alone
+unit_verses: [1-1]
+commentary_coverage: [dhammasangani-atthakatha, dhammasangani-mulatiika]
 status: draft | partial | complete
 ---
 ```
 
-Only `complete` packages are used to generate transformations. Domain specialists set `complete`.
+Only `status: complete` packages are used to generate transformations. Domain specialists set `complete` — the LLM never marks its own output complete. Full schema in [`../2-RAILS/About Rails.md`](../2-RAILS/About Rails.md).
 
-### Body
+Authoring skill: `verse-context`.
 
-```markdown
-## Source Text
-![[1-SOURCES/Text/sk-iast-root-text.md#^1-1]]
+### `Local-Wiki/` — per-term articles
 
-## Traditional Interpretation
+One page per attested sense ID within this text. Sense IDs are Wikipedia-style: `term (disambiguating phrase)`, e.g. `kusala (wholesome)`. Filename uses underscores: `kusala_(wholesome).md`. Each article holds verbatim commentary quotations defining the term, a short contextual definition synthesised from them, and divergence flags where commentaries disagree. All content in the original language.
 
-### prajnakaramati — Bodhicaryāvatārapañjikā (Sanskrit, 11th c.)
-[English paraphrase. Every claim cites its source passage.]
-(1-SOURCES/Commentaries/prajnakaramati-sk.md#^1-1)
+Authoring skill: `local-wiki-article`.
 
-### kunzang-pelden — Meaningful to Behold (Tibetan, 19th c.)
-[Paraphrase, citations.]
-(1-SOURCES/Commentaries/kunzang-pelden-bo.md#^1-1)
+### `Bilingual-Glossaries/` — bilingual descriptive bilingual glossaries
 
-### Synthesis
-[What all sources agree on. Do not flatten genuine disagreement here.]
+One consolidated file per language pair: `pi-en.md`, `pi-bn.md`, `pi-sin.md`. Each entry maps a source lemma to every attested target-language rendering, frequency-ranked across all existing translations.
 
-### Divergences
-[Where commentaries disagree, attributed and flagged ⚑.]
+Raw inputs sit under `Bilingual-Glossaries/Raw/`: one interlinear gloss file (`<src>-<tgt>-gloss.md`) per translation, and one per-translation raw bilingual glossary (`<src>-<tgt>.md`) extracted from it. The consolidated file merges them.
 
-## Word Analysis
-[Token-level notes only where the commentary makes a non-obvious choice —
-compound analysis, sense disambiguation, inflection ambiguity.
-Each row cites the commentary that determines the reading.]
-
-## Translation Notes
-[Figures of speech, idioms, honorifics, cultural references —
-each with rendering strategies for different audiences.
-Cite the commentary that explains the figure.]
-```
-
-Keep prose only. No quoting commentaries at length — paraphrase. English throughout. Original-language terms italicised on first use.
-
----
-
-## 7. 2-RAILS — sections, wiki, glossaries
-
-### Sections (`2-RAILS/Sections/[chapter].md`)
-
-Per-chapter summary synthesised from verse packages — what the chapter does, who its audience is, what cultural context a translator needs. Cites verse packages, not 1-SOURCES directly. No new claims beyond what the packages contain.
-
-### Local-Wiki (`2-RAILS/Local-Wiki/[sense-id].md`)
-
-One page per sense ID attested in the text. Sense ID format: `term (disambiguating phrase)` — Wikipedia style, e.g. `bodhicitta (awakening mind)`. Filename uses underscores: `bodhicitta_(awakening-mind).md`. Each page collects what commentaries say about that sense within this text.
-
-### Glossaries (`2-RAILS/Glossaries/`)
-
-One file per language pair: `glossary-sk-en.md`, `glossary-sk-bo.md`, etc. Each entry maps a source lemma to its attested target-language renderings, frequency-ranked. Source is always existing translations in `1-SOURCES/Translations/`.
+Authoring skills: `interlinear-gloss`, `glossary-extract-raw`, `glossary-combine`.
 
 ---
 
 ## 8. Divergences — never flatten
 
-When commentaries disagree, record the disagreement explicitly. Mark with ⚑ in any field where the divergence shows up. Add a `### Divergences` section attributing each position.
+When commentaries disagree, record the disagreement explicitly:
 
-If traditions teach genuinely incompatible doctrine on a verse, do not synthesise — record both positions and add to frontmatter:
+- Mark with ⚑ in any field where the divergence shows up.
+- Add a `### Divergences` section attributing each position to its source.
+
+If traditions teach genuinely incompatible doctrine on a verse, do not synthesise. Record both positions and add to frontmatter:
 
 ```yaml
 transformation_note: "tradition must be specified for this verse"
@@ -261,78 +200,49 @@ transformation_note: "tradition must be specified for this verse"
 
 ---
 
-## 9. 3-TRANSFORMATIONS
+## 9. `3-TRANSFORMATIONS/` — three categories, per-track governance
 
-Generated outputs only — translations, adaptations, lessons, reading plans. Each transformation lives under its own subfolder:
+Three top-level categories, each a top-level subfolder:
 
-```
-3-TRANSFORMATIONS/
-   scholarly-en/
-      brief.md          # purpose, audience, style, register
-      terminology.md    # standard term renderings selected from glossaries
-      outputs/          # the generated files
-   childrens-en/
-   ...
-```
+- **`Translations/`** — language-by-language translations. Each track has `requirements.md` + `termbase.md` + the generated translation file(s).
+- **`Adaptations/`** — audience-targeted retellings (children's versions, scholarly summaries, sermon cycles). Each track has `requirements.md` and optionally `termbase.md`.
+- **`Plans/`** — calendar-driven study/practice arcs (daily readings, retreat sessions, course schedules). Each plan has `requirements.md` plus calendar/days/communications/assets subfolders. The active plan is `Plans/Daily-Abhidhamma/`.
 
-Each output file's frontmatter records which `2-RAILS/` packages were used:
+Every track is governed by binding contract files:
 
-```yaml
----
-ref: 1-1
-transformation_type: translation | adaptation | lesson
-context_packages: [2-RAILS/Verses/1-1.md]
-generation_date: 
----
-```
+- **`requirements.md`** — style contract (audience, register, source-rail dependencies). Written in the target language.
+- **`termbase.md`** — vocabulary contract (one chosen rendering per keyword). Required for Translation tracks, optional for Adaptation tracks.
+- **`requirements.md`** — narrative brief for Plan tracks (covers what `requirements.md` would, plus per-session shape, calendar policy, communications convention).
 
-Do not generate from packages whose `status` is not `complete`.
+Every output file's frontmatter records which `2-RAILS/` packages it was generated from. Generation only ever flows `2-RAILS/ → 3-TRANSFORMATIONS/`, never the other way (except as new descriptive attestations written back into the consolidated bilingual glossary).
+
+Do not generate from rails whose `status` is not `complete`.
+
+Full rules in [`../3-TRANSFORMATIONS/About Transformations.md`](../3-TRANSFORMATIONS/About Transformations.md). The translation-specific Phase 1/2/3 workflow is in [`../3-TRANSFORMATIONS/Translations/About Translations.md`](../3-TRANSFORMATIONS/Translations/About Translations.md).
 
 ---
 
 ## 10. Style and language rules
 
-- Analysis language is English throughout `2-RAILS/`.
+- Analysis language is English throughout `2-RAILS/` (except per-commentary summaries and verse syntheses, which stay in the original language).
 - Quote original-language terms in IAST (Sanskrit/Pāli), Wylie or Unicode (Tibetan), Unicode (Chinese) — italicised on first use.
 - **No parametric knowledge.** If you cannot cite a claim to a file in `1-SOURCES/`, do not include it.
 - **No consensus flattening.** When commentaries disagree, say so.
-- Present tense for analytical claims ("Prajñākaramati reads this as…"); past tense for historical statements.
-- Use registered short IDs for commentaries throughout (e.g. `prajnakaramati`, `kunzang-pelden`).
+- Present tense for analytical claims ("Buddhaghosa reads this as…"); past tense for historical statements.
+- Use registered short IDs for commentaries throughout (e.g. `dhammasangani-atthakatha`). The roster lives in [`Guidelines/abhidhamma-annex.md`](Guidelines/abhidhamma-annex.md).
 
 ---
 
-## 11. Operations
+## 11. Standard operations
 
 **Ingest a passage**
 1. Confirm the source is in `1-SOURCES/`.
 2. Open or create the verse package in `2-RAILS/Verses/`.
-3. Populate Traditional Interpretation, Word Analysis, Translation Notes — each field cited.
+3. Populate the synthesis, disambiguated restatement, and word/translation notes — each field cited.
 4. Update or create local-wiki pages for any new sense IDs.
 5. Flag divergences with ⚑.
 
-**Lint**
+**Lint a rails file**
 - Any field in `2-RAILS/` without a `1-SOURCES/` citation → mark `status: draft`.
 - Any ⚑ flag without a Divergences entry → add one.
-- Any sense ID used but missing from `Local-Wiki/` → create stub.
-
-**Generate a transformation**
-1. Confirm relevant verse packages are `complete`.
-2. Assemble: section summary → source text → Traditional Interpretation → Word Analysis → Translation Notes → relevant Local-Wiki pages → terminology.md from the brief.
-3. Generate. File under `3-TRANSFORMATIONS/[brief-id]/outputs/`.
-4. Record context packages and generation date in frontmatter.
-
----
-
-## 12. Citation Rules
-
-Every claim in `2-RAILS/` must be traceable to a specific passage in `1-SOURCES/`. The citation format is:
-
-```
-(1-SOURCES/[folder]/[filename].md#^block-id)
-```
-
-Example:
-
-```
-(1-SOURCES/Commentaries/prajnakaramati-sk.md#^1-1)
-```
+- Any sens
