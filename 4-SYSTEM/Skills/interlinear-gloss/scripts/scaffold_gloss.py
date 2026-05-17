@@ -3,7 +3,7 @@
 
 Reads two markdown files that share an Obsidian block-ID scheme and writes a
 gloss file under ``2-RAILS/Glossaries/Raw/`` with one ``gloss`` code block
-per paired block. ``\\gla`` is populated from the source tokens and ``\\t``
+per paired block. ``\\gla`` is populated from the source tokens and ``\\ex``
 verbatim from the translation; ``\\glb`` and ``\\glc`` are scaffolded with
 ``--`` placeholders at the right column count for the LLM pass to fill in.
 
@@ -117,8 +117,8 @@ def parse_existing_gloss(text):
         gla = _find_gloss_line(section, "gla")
         glb = _find_gloss_line(section, "glb")
         glc = _find_gloss_line(section, "glc")
-        t = _find_gloss_line(section, "t")
-        out[block_id] = {"gla": gla, "glb": glb, "glc": glc, "t": t}
+        ex = _find_gloss_line(section, "ex")
+        out[block_id] = {"gla": gla, "glb": glb, "glc": glc, "ex": ex}
     return out
 
 
@@ -171,7 +171,7 @@ def build_gloss_block(gla_tokens, free_translation, existing):
     lines.append(f"\\gla    {gla_line}")
     lines.append(f"\\glb    {glb_line}")
     lines.append(f"\\glc    {glc_line}")
-    lines.append(f"\\t      {free_translation}")
+    lines.append(f"\\ex     {free_translation}")
     lines.append("```")
     return "\n".join(lines)
 

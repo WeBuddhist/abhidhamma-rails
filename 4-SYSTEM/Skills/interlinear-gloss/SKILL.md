@@ -1,6 +1,6 @@
 ---
 name: interlinear-gloss
-description: For one root text + one translation, build an interlinear gloss file at 2-RAILS/Glossaries/Raw/<source>-<target>-gloss.md. Each verse becomes a ```gloss``` block in the Obsidian Interlinear Glossing plugin format (\gla / \glb / \glc / \t), pairing source tokens against their morphological analysis, token-by-token target glosses, and the translator's free translation. Run once per translation. The output is what glossary-extract-raw reads to catalogue keyword renderings.
+description: For one root text + one translation, build an interlinear gloss file at 2-RAILS/Bilingual-Glossaries/Raw/<source>-<target>-gloss.md. Each verse becomes a ```gloss``` block in the Obsidian Interlinear Glossing plugin format (\gla / \glb / \glc / \t), pairing source tokens against their morphological analysis, token-by-token target glosses, and the translator's free translation. Run once per translation. The output is what glossary-extract-raw reads to catalogue keyword renderings.
 ---
 
 # interlinear-gloss
@@ -12,7 +12,7 @@ This skill creates the **interlinear gloss file** that pairs one root text again
 - `\glc` — token-by-token gloss in the target language, one entry per source token, lined up by position.
 - `\t` — the translator's free translation of the verse, verbatim from the translation file.
 
-A gloss block is the **token-level alignment** that all downstream glossary work depends on. `glossary-extract-raw` reads these files to find keyword renderings; `local-wiki-article` cites them when documenting how a term is rendered across translations; `glossary-select` consults them when judging whether an attested rendering meets a track's requirements.
+A gloss block is the **token-level alignment** that all downstream bilingual glossary work depends on. `glossary-extract-raw` reads these files to find keyword renderings; `local-wiki-article` cites them when documenting how a term is rendered across translations; `glossary-select` consults them when judging whether an attested rendering meets a track's requirements.
 
 This skill is run **once per translation**. Four translations → four gloss files.
 
@@ -28,7 +28,7 @@ This skill is run **once per translation**. Four translations → four gloss fil
 One file at:
 
 ```
-2-RAILS/Glossaries/Raw/<source-lang>-<target-lang-tag>-gloss.md
+2-RAILS/Bilingual-Glossaries/Raw/<source-lang>-<target-lang-tag>-gloss.md
 ```
 
 `<source-lang>` is the root text's `lang_tag` (`pi` for Dhammasaṅgaṇī).
@@ -38,10 +38,10 @@ Examples:
 
 | Translation | Output file |
 |---|---|
-| `en-dhammasangani-rd.md` (lang_tag `en-rd`) | `2-RAILS/Glossaries/Raw/pi-en-rd-gloss.md` |
-| `en-dhammasangani.md` (lang_tag `en`) | `2-RAILS/Glossaries/Raw/pi-en-gloss.md` |
-| `bn-dhammasangani.md` (lang_tag `bn`) | `2-RAILS/Glossaries/Raw/pi-bn-gloss.md` |
-| `sin-dhammasangani.md` (lang_tag `sin`) | `2-RAILS/Glossaries/Raw/pi-sin-gloss.md` |
+| `en-dhammasangani-rd.md` (lang_tag `en-rd`) | `2-RAILS/Bilingual-Glossaries/Raw/pi-en-rd-gloss.md` |
+| `en-dhammasangani.md` (lang_tag `en`) | `2-RAILS/Bilingual-Glossaries/Raw/pi-en-gloss.md` |
+| `bn-dhammasangani.md` (lang_tag `bn`) | `2-RAILS/Bilingual-Glossaries/Raw/pi-bn-gloss.md` |
+| `sin-dhammasangani.md` (lang_tag `sin`) | `2-RAILS/Bilingual-Glossaries/Raw/pi-sin-gloss.md` |
 
 If the file already exists, update in place: keep manually filled `\glb` and `\glc` lines, and only refresh `\gla` and `\t` from the underlying source files (so re-running this skill after the root text or translation is re-formatted does not lose token-gloss work).
 
@@ -106,7 +106,7 @@ The recommended path is the scaffold helper followed by an LLM pass for the `\gl
    python3 4-SYSTEM/Skills/interlinear-gloss/scripts/scaffold_gloss.py \
        1-SOURCES/Text/pi-dhammasangani.md \
        1-SOURCES/Translations/en-dhammasangani-rd.md \
-       2-RAILS/Glossaries/Raw/pi-en-rd-gloss.md
+       2-RAILS/Bilingual-Glossaries/Raw/pi-en-rd-gloss.md
    ```
 
    The script aligns blocks by `^block-id`, emits one `##` heading per paired block, and scaffolds each `gloss` block with `\gla` populated from the source tokens and `\t` populated verbatim from the translation. The `\glb` and `\glc` lines are scaffolded with `--` placeholders at the right column count.
@@ -122,7 +122,7 @@ The recommended path is the scaffold helper followed by an LLM pass for the `\gl
 
    ```bash
    python3 4-SYSTEM/Skills/interlinear-gloss/scripts/scaffold_gloss.py \
-       --validate 2-RAILS/Glossaries/Raw/pi-en-rd-gloss.md
+       --validate 2-RAILS/Bilingual-Glossaries/Raw/pi-en-rd-gloss.md
    ```
 
 5. **Set `status: draft`.** A domain specialist marks the file `complete` after review.

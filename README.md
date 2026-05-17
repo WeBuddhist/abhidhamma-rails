@@ -1,132 +1,86 @@
 # abhidhamma-rails
 
-A collaborative [Obsidian](https://obsidian.md) vault for building **interpretive rails** through the Abhidhamma — the third basket of the Pali Canon.
+A collaborative [Obsidian](https://obsidian.md) vault that makes AI-powered work on the **Pāli Abhidhamma** — the third basket of the Pāli Canon — reliable, traceable, and consistent at scale.
 
-## What rails are and why we build them
+## Why
 
-We build rails so that AI-powered work on the Abhidhamma — translation, summarisation, study-guide generation, question answering — can be done reliably. A **rail** extracts and structures the traditional interpretation of one verse, one section, or one concept of the text into a compact, citation-grounded note. When we then ask an AI to produce a translation or a lesson plan, it works from the combined rails — not from raw commentary scattered across thousands of pages in multiple languages — and the output stays fast, consistent, and traceable.
+AI models are powerful but unreliable at scale. Hand a model a classical text and a stack of commentary and ask for a translation, an adaptation, a study guide, or a daily reading, and what comes back looks fluent but is hard to trust:
 
-It's the same idea as Wikipedia for general knowledge. Almost every fact on Wikipedia exists somewhere else on the open internet, often in more detail. But AI tools reach for Wikipedia because the information has already been gathered, summarised, and organised by people who knew what they were doing — which makes it cheaper to retrieve from and more reliable to cite than the raw web. The rails do the same job for the Abhidhamma. The Abhidhamma is a dense, technical analysis of mind and matter, and every key term has been read in subtly different ways across the commentary tradition. Each rail is the curated, Wikipedia-style entry for one unit of the text — one verse, one section, or one concept — distilled from the commentary tradition, organised consistently, and citing the human source behind every claim.
+- **Hallucinations** — fabricated meanings that sound plausible.
+- **Inconsistency** — the same technical term rendered three different ways across one document.
+- **Style drift** — register shifts as the context window fills.
+- **No traceability** — no way to verify whether any specific claim is grounded in the commentary tradition or invented on the spot.
+- **Doesn't scale** — every new output rediscovers the same interpretive work from scratch.
 
-For the full Wikipedia ↔ rails parallel — information density, structure, context-window fit, citations, tone, licensing, data cleanliness, cross-lingual coverage — see [`4-SYSTEM/Guidelines/why-rails.md`](4-SYSTEM/Guidelines/why-rails.md).
+These failures aren't because the model is weak. They happen because the model is being asked to be **two different specialists at once** — a source-language domain expert who understands every nuance the commentary tradition has worked out, *and* a target-language stylist who knows how to render that meaning for a specific audience. With no preparation and no division of labour, it tries to do both jobs at generation time, in the same prompt, from raw sources. The drift is structural.
 
-For each verse or analytical unit, a rail records:
+This vault exists so that doesn't have to happen for the Abhidhamma.
 
-- The morphology and syntax of the original
-- The senses each commentator attests, with the commentary passages that establish them
-- The decisions any translator would have to make
-- A direct citation — file, verse, page — backing every claim
+## How
 
-Everything downstream cites a rail; every rail cites a source. Nothing is invented along the way.
+The fix is to separate the two specialists, then let them collaborate.
+
+**`2-RAILS/` is the source-language specialist, made permanent.** A pre-built, citation-grounded knowledge base of the commentary tradition — every sense distinction, every compound analysis, every commentator's reading — compiled once, by an LLM under domain-specialist review, with every claim citing the human source that grounds it. The same source specialist no human translator could realistically hire: someone who has read every commentary in the original, holds every attested sense distinction in mind, and can point to the textual basis for any claim.
+
+**Each track in `3-TRANSFORMATIONS/` is a target-language specialist for one audience.** A Translation track is a specialist in writing for English Buddhist scholars, or Bengali lay practitioners, or Sinhala monastics. An Adaptation track is a specialist in writing for children, or for sermon listeners. A Plan track is a specialist in pacing a 200-day daily-reading rhythm. Each one is bound by its own `requirements.md` (style contract) and `termbase.md` (vocabulary contract).
+
+The two specialists also work on different timescales. The source specialist's job is **bounded and stable**: the source corpus is finite — a known set of commentaries on a known text — so once each verse and section is compiled and reviewed by a domain specialist, the heavy lifting is done. The rails are refined incrementally as scholarship improves, but they're not redone for each new output. The target specialists' work is **open-ended and evolving**: each track's `termbase.md` grows as new keywords surface, its `requirements.md` evolves as the audience is better understood, and new tracks come online whenever a new audience is commissioned.
+
+This is what makes the methodology scale. The expensive interpretive work happens once, in `2-RAILS/`, and is amortised over every output ever produced from the vault. **Lay the rails once; run many transformations on them.**
+
+Two principles hold the collaboration together:
+
+- **Descriptive rails, prescriptive transformations.** The source specialist *describes* what the tradition attests: every commentator, every translator, every attested rendering. Each target specialist *prescribes* what *their* output does for *their* audience: this register, this rendering for each keyword.
+- **One-way citation chain.** `1-SOURCES/ → 2-RAILS/ → 3-TRANSFORMATIONS/`. Target specialists cite the source specialist; they never reach past the rails into raw commentary. If a claim can't be cited, it isn't made.
+
+For the information-architecture side of this — why structuring knowledge once for repeated AI consumption beats fresh inference each time — see [`4-SYSTEM/Guidelines/why-rails.md`](4-SYSTEM/Guidelines/why-rails.md), which maps the parallel to Wikipedia.
+
+## What
+
+The vault is a four-stage pipeline. Each stage has its own folder; each folder's `About <Folder>.md` is the authoritative source on what goes in it and how.
 
 ```
 1-SOURCES/   →   2-RAILS/   →   3-TRANSFORMATIONS/
-ground truth     compact, curated   AI-generated outputs
-                 context per verse, (translations, study
-                 section, concept   guides, lesson plans)
+human            original-       per-output prescriptive
+authoritative    language        rails plus the
+material         descriptive     AI-generated output
+                 context
+
+                ▲
+                │ all driven by
+                │
+              4-SYSTEM/   skills, templates, methodology
 ```
 
-This is the methodology of a **Railroads vault**: one vault per classical text, holding its complete interpretive ecosystem. This particular vault serves the Abhidhamma.
+- **[`1-SOURCES/`](1-SOURCES/)** — root texts, commentaries, existing translations, audio, references. Read-only ground truth.
+- **[`2-RAILS/`](2-RAILS/)** — original-language descriptive context at every level a transformation might need: section summaries, verse packages, per-term wiki articles, bilingual glossaries. Every claim cites `1-SOURCES/`.
+- **[`3-TRANSFORMATIONS/`](3-TRANSFORMATIONS/)** — three categories of output (**Translations**, **Adaptations**, **Plans**). Each track is governed by `requirements.md` (style contract) + `termbase.md` (vocabulary contract); the AI-generated output files sit alongside, citing the rails.
+- **[`4-SYSTEM/`](4-SYSTEM/)** — skills and workflows for every stage of the pipeline, plus cross-cutting methodology docs and templates.
 
-## How the vault is organised
+This particular vault serves the **Pāli Abhidhamma Piṭaka** — the seven canonical books beginning with the Dhammasaṅgaṇī. Vault-specific conventions (Pāli Bible-style addressing, registered commentary IDs, language tracks) live in [`4-SYSTEM/Guidelines/abhidhamma-annex.md`](4-SYSTEM/Guidelines/abhidhamma-annex.md).
 
-```
-abhidhamma-rails/
-├── 0-INBOX/                # drafts and raw downloads — not authoritative
-├── 1-SOURCES/              # the Abhidhamma texts, exactly as received
-├── 2-RAILS/                # the interpretive packages we build
-├── 3-TRANSFORMATIONS/      # outputs generated from completed rails
-└── 4-SYSTEM/               # guidelines, skills, templates, how-to guides
-```
+## Getting started — pick your path
 
-The folder numbers enforce reading order: sources before rails before transformations. Citation only ever flows one way along that arrow — see `4-SYSTEM/Guidelines/0-VAULT-Structure.md` for the full architectural picture.
+### If you are a human contributor
 
-## Getting started
+1. **This README** — Why · How · What (you are here).
+2. [Set up the vault on your computer](4-SYSTEM/How-to%20guides/Set%20up%20the%20vault.md) — install Obsidian, install Git, clone the repo, open it as a vault.
+3. [Sync and troubleshoot](4-SYSTEM/How-to%20guides/Sync%20and%20troubleshoot.md) — how everyone's edits stay in sync; what to do when something goes wrong.
+4. [`4-SYSTEM/Guidelines/why-rails.md`](4-SYSTEM/Guidelines/why-rails.md) — the specialist-pair and Wikipedia analogies in full.
+5. [`4-SYSTEM/Guidelines/0-VAULT-Structure.md`](4-SYSTEM/Guidelines/0-VAULT-Structure.md) — the architecture and the citation chain.
+6. [`1-SOURCES/About Sources.md`](1-SOURCES/About Sources.md) — rules for collecting, formatting, and linking source material.
+7. [`2-RAILS/About Rails.md`](2-RAILS/About Rails.md) — the schema for the descriptive rails.
+8. [`3-TRANSFORMATIONS/About Transformations.md`](3-TRANSFORMATIONS/About Transformations.md) — how transformation tracks are set up and how outputs are produced.
+9. [`4-SYSTEM/Guidelines/abhidhamma-annex.md`](4-SYSTEM/Guidelines/abhidhamma-annex.md) — the conventions specific to *this* vault.
+10. [`4-SYSTEM/Skills/SKILLS-CATALOG.md`](4-SYSTEM/Skills/SKILLS-CATALOG.md) — every workflow skill, grouped by pipeline stage; pick the one that matches the work you want to do.
 
-If you're joining the project for the first time:
+For day-to-day workflows not in the Skills catalog (oTranscribe, Obsidian Git troubleshooting), see the rest of [`4-SYSTEM/How-to guides/`](4-SYSTEM/How-to%20guides/).
 
-- [Set up the vault on your computer](4-SYSTEM/How-to%20guides/Set%20up%20the%20vault.md) — install Obsidian, install Git, clone the repo, and open it as a vault.
-- [Sync and troubleshoot](4-SYSTEM/How-to%20guides/Sync%20and%20troubleshoot.md) — how the vault keeps everyone's edits in sync, how to save on demand, and what to do when something goes wrong.
+### If you are an AI agent
 
-## Reference documents
+1. [`4-SYSTEM/CLAUDE.md`](4-SYSTEM/CLAUDE.md) — operational instructions: citation chain, write permissions, do-nots, standard operations. Read in full before touching any file.
+2. The `About <Folder>.md` for the folder you're working in — [`1-SOURCES/About Sources.md`](1-SOURCES/About Sources.md), [`2-RAILS/About Rails.md`](2-RAILS/About Rails.md), or [`3-TRANSFORMATIONS/About Transformations.md`](3-TRANSFORMATIONS/About Transformations.md). Each is the canonical authority for that folder's rules.
+3. [`4-SYSTEM/Guidelines/abhidhamma-annex.md`](4-SYSTEM/Guidelines/abhidhamma-annex.md) — vault-specific conventions.
+4. The relevant `4-SYSTEM/Skills/<skill>/SKILL.md` for the specific task.
 
-The methodology and rules live in `4-SYSTEM/`:
-
-- [`Guidelines/why-rails.md`](4-SYSTEM/Guidelines/why-rails.md) — the Wikipedia analogy in full, with the parallel mapped category by category
-- [`Guidelines/0-VAULT-Structure.md`](4-SYSTEM/Guidelines/0-VAULT-Structure.md) — top-level architecture and the citation chain
-- [`Guidelines/1-SOURCES-Guideline.md`](4-SYSTEM/Guidelines/1-SOURCES-Guideline.md) — rules for source files
-- [`Guidelines/2-RAILS-Guideline.md`](4-SYSTEM/Guidelines/2-RAILS-Guideline.md) — schema for compiling rails
-- [`Guidelines/source-formatting.md`](4-SYSTEM/Guidelines/source-formatting.md) — formatting rules for adding new source texts (frontmatter, block IDs, headings)
-- [`CLAUDE.md`](4-SYSTEM/CLAUDE.md) — LLM-facing operational instructions
-
-For day-to-day workflows (audio alignment, EPUB conversion, formatting, and so on), see the rest of `4-SYSTEM/How-to guides/` and `4-SYSTEM/Skills/`.
-
-## Translation workflow
-
-Producing a reliable AI-assisted translation from the rails requires three sequential phases: **context preparation**, **translation**, and **QA**. Each phase exists to defuse one of the three core failure modes of AI translation:
-
-| Failure mode | Where it is addressed |
-|---|---|
-| Hallucinations — fabricated meaning at section or verse level | Context preparation → `2-RAILS/Sections/`, `2-RAILS/Verses/`, `2-RAILS/Local-Wiki/` |
-| Inconsistent vocabulary — the same Pali term rendered differently across passages | Context preparation → `2-RAILS/Glossaries/` and the per-track glossary in `3-TRANSFORMATIONS/Translation/<track-name>/glossary.md` |
-| Inconsistent style over long texts | `requirements.md` for the track (binding style contract) + QA phase using the MQM taxonomy |
-
-### Phase 1 — Translation context preparation
-
-#### 1a. Section-level factual context (`2-RAILS/Sections/`)
-
-For every node in the table of contents, generate a summary **in the original language** (Pali or the commentary language) drawn directly from each relevant commentary, preserving that commentary's own terminology without translating it. Each commentary gets its own file under `Sections/Raw/<commentary-name>/<node-id>.md` — one summary per node per commentary, so the per-commentary readings stay separable. Then, in `Sections/<node-id>.md`, combine the per-commentary summaries for that node and add an English translation of the combined summary. These combined files are what the translation skill loads to orient itself before tackling a section.
-
-#### 1b. Verse-level factual context (`2-RAILS/Verses/`)
-
-For each verse, create a context file that (1) transcludes the relevant commentary passages, (2) synthesises the commentators' respective interpretations in the original language, and (3) uses that synthesis to produce a **disambiguated version of the verse in the original language** — a restatement precise enough that no misreading or mistranslation of the Pali is possible. The translation skill works from this disambiguated version, not from the raw verse.
-
-#### 1c. Word-level factual context (`2-RAILS/Local-Wiki/`)
-
-For each key term explained in the commentaries, create a Local-Wiki article. Populate it with citations from the commentaries (in the original language) and a short contextual explanation drafted from those citations. All content in the Local-Wiki is in the original language. These articles are the reference of last resort when a glossary entry does not yet capture a term adequately.
-
-#### 1d. Glossaries (`2-RAILS/Glossaries/`)
-
-Glossary preparation runs in four sub-steps:
-
-1. **Interlinear glosses (`Glossaries/Raw/<source>-<target>-gloss.md`).** For each translation in `1-SOURCES/Translations/`, build a gloss file pairing the root text against that translation verse by verse. Each verse becomes a `gloss` block in the Obsidian Interlinear Glossing plugin format (`\gla` source tokens, `\glb` morphology/lemma, `\glc` token-by-token target glosses, `\t` free translation). The gloss file is the single token-level alignment artefact that every downstream glossary step reads.
-2. **Raw glossaries (`Glossaries/Raw/<source>-<target>.md`).** From each gloss file, extract every source-language keyword and the rendering(s) it receives. The token-level alignment is already done in the gloss file, so this step is mostly mechanical: walk every `\gla` ↔ `\glc` pair, group by lemma (using `\glb`), tally distinct renderings, and record sample pairings.
-3. **Consolidated glossary (`Glossaries/<source-lang>-<target-lang>.md`).** Merge every raw glossary for a language pair into one file. Each keyword's row shows every attested rendering side by side, with per-source frequencies summed.
-4. **Per-track glossary (`3-TRANSFORMATIONS/Translation/<track-name>/glossary.md`).** When setting up a new translation track, select the preferred rendering for each keyword from the consolidated glossary — guided by the track's `requirements.md` — and write the per-track working glossary. If no attested rendering is satisfactory, use the Local-Wiki article for that term to derive a better one, and record the new rendering back into both the per-track glossary and the consolidated glossary.
-
-#### 1e. Translation requirements (`3-TRANSFORMATIONS/Translation/<track-name>/requirements.md`)
-
-Each translation track is governed by a `requirements.md` written in the target language. This file is a binding contract that the translation skill reads on every run; if it is incomplete, the translation will drift in style and the QA phase will catch it as MQM "style" or "locale convention" errors. Before running any translation, verify that the document covers, at minimum:
-
-- **Target audience and register** (scholarly, lay, monastic, …) and reading level.
-- **Glossary reference path** — relative path to the per-track glossary.
-- **Preferred rendering for structurally significant terms** that recur across the text and must never vary.
-- **Style constraints** — sentence length, paragraph length, handling of verse vs. prose, treatment of lists, use vs. transliteration of technical Pali terms, footnote vs. inline glossing policy.
-- **Cultural-adaptation rules** — what to translate, what to gloss, what to leave untranslated.
-- **Source-rail dependencies** — which rails (`Sections/`, `Verses/`, `Local-Wiki/`) the translator must consult before each batch.
-
-Anything the translation skill needs to know to behave consistently across thousands of verses lives here.
-
-### Phase 2 — Translation
-
-Working in small batches through the table of contents — one or a few TOC nodes at a time, never the whole text at once:
-
-1. **Select** a small batch of nodes from the table of contents.
-2. **Fetch the per-track glossary** from `3-TRANSFORMATIONS/Translation/<track-name>/glossary.md`.
-3. **Fetch context at every relevant level from `2-RAILS/`**: the combined section summary for each node in the batch (`Sections/`), the verse-context file for every verse it contains (`Verses/`), and any Local-Wiki articles for terms that appear in the batch but aren't covered by the glossary.
-4. **Translate and write** the result into `3-TRANSFORMATIONS/Translation/<track-name>/`, creating the file or updating it in place. The translation file's frontmatter must list the rails it was generated from.
-
-Hard rules: never translate a batch without first loading all three levels of context; never introduce a keyword rendering that is not in the per-track glossary without recording the new rendering in the glossary first (and feeding it back into the consolidated glossary under `2-RAILS/Glossaries/`).
-
-### Phase 3 — Translation QA
-
-Review each translated section against the **MQM (Multidimensional Quality Metrics) error taxonomy**, comparing the translation back to `requirements.md` and — wherever an accuracy or terminology question arises — to the corresponding `2-RAILS/Sections/`, `2-RAILS/Verses/`, and `2-RAILS/Local-Wiki/` files. For each issue found, record:
-
-- the segment (verse ID or paragraph anchor),
-- the MQM error category (accuracy, fluency, terminology, style, locale convention, …),
-- severity (critical / major / minor),
-- and a suggested correction.
-
-All findings go into `3-TRANSFORMATIONS/Translation/<track-name>/qa-report.md`. That report drives the next revision pass. A section is not considered complete until it has passed QA with no critical or major errors outstanding.
-
-For the full list of skills that implement each step of this workflow, see [`4-SYSTEM/Skills/SKILLS-CATALOG.md`](4-SYSTEM/Skills/SKILLS-CATALOG.md).
+`AGENTS.md` files exist for tooling that expects them ([`4-SYSTEM/gemini-scribe/AGENTS.md`](4-SYSTEM/gemini-scribe/AGENTS.md)) — they're thin pointers to `CLAUDE.md` and the folder docs.

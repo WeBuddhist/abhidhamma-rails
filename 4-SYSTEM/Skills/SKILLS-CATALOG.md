@@ -4,7 +4,7 @@ This file catalogues every skill used in the abhidhamma-rails vault, grouped by 
 
 Skills that already exist are marked **[exists]**. Skills that are planned but not yet written are marked **[planned]**.
 
-The translation pipeline reads top-to-bottom: source ingestion populates `1-SOURCES/`, the rails-building skills turn those sources into `2-RAILS/` context (Sections / Verses / Local-Wiki / Glossaries), the translation skills consume those rails to produce `3-TRANSFORMATIONS/Translation/<track-name>/`, and the QA skill checks the output back against the rails.
+The translation pipeline reads top-to-bottom: source ingestion populates `1-SOURCES/`, the rails-building skills turn those sources into `2-RAILS/` context (Sections / Verses / Local-Wiki / Bilingual Glossaries), the translation skills consume those rails to produce `3-TRANSFORMATIONS/Translations/<track-name>/`, and the QA skill checks the output back against the rails.
 
 ---
 
@@ -68,30 +68,30 @@ These skills populate `2-RAILS/` with the structured context that translation an
 → [`local-wiki-article/SKILL.md`](local-wiki-article/SKILL.md)
 
 ### `interlinear-gloss` **[exists]**
-**Purpose:** For one root text + one translation, build an interlinear gloss file at `2-RAILS/Glossaries/Raw/<source>-<target>-gloss.md` pairing them verse by verse. Each verse becomes a ```gloss``` block in the Obsidian Interlinear Glossing plugin format (`\gla` source tokens, `\glb` morphology/lemma, `\glc` token-by-token target glosses, `\t` free translation). Token-level alignment lives here so every downstream glossary step reads from one place.
+**Purpose:** For one root text + one translation, build an interlinear gloss file at `2-RAILS/Bilingual-Glossaries/Raw/<source>-<target>-gloss.md` pairing them verse by verse. Each verse becomes a ```gloss``` block in the Obsidian Interlinear Glossing plugin format (`\gla` source tokens, `\glb` morphology/lemma, `\glc` token-by-token target glosses, `\ex` free translation). Token-level alignment lives here so every downstream bilingual glossary step reads from one place.
 **Inputs:** `1-SOURCES/Text/<root-text>.md`, one translation under `1-SOURCES/Translations/`.
-**Outputs:** One gloss file per translation under `2-RAILS/Glossaries/Raw/<source-lang>-<target-lang-tag>-gloss.md`.
-**Helper:** `scripts/scaffold_gloss.py` aligns blocks by `^block-id`, populates `\gla` from source tokens (stripping editorial brackets and enumeration labels) and `\t` from the translation, scaffolds `\glb` and `\glc` with `--` placeholders at the right column count, and re-runs idempotently (preserves filled lines when token counts still match). `--validate` checks column-count consistency across the file.
+**Outputs:** One gloss file per translation under `2-RAILS/Bilingual-Glossaries/Raw/<source-lang>-<target-lang-tag>-gloss.md`.
+**Helper:** `scripts/scaffold_gloss.py` aligns blocks by `^block-id`, populates `\gla` from source tokens (stripping editorial brackets and enumeration labels) and `\ex` from the translation, scaffolds `\glb` and `\glc` with `--` placeholders at the right column count, and re-runs idempotently (preserves filled lines when token counts still match). `--validate` checks column-count consistency across the file.
 → [`interlinear-gloss/SKILL.md`](interlinear-gloss/SKILL.md)
 
 ### `glossary-extract-raw` **[exists]**
-**Purpose:** Extract every source-language keyword and the rendering(s) it receives, from one interlinear gloss file, into a raw per-source glossary.
-**Inputs:** One gloss file at `2-RAILS/Glossaries/Raw/<source>-<target>-gloss.md`.
-**Outputs:** One glossary file at `2-RAILS/Glossaries/Raw/<source>-<target>.md` with a table mapping source lemma → rendering used in that translation.
+**Purpose:** Extract every source-language keyword and the rendering(s) it receives, from one interlinear gloss file, into a raw per-source bilingual glossary.
+**Inputs:** One gloss file at `2-RAILS/Bilingual-Glossaries/Raw/<source>-<target>-gloss.md`.
+**Outputs:** One bilingual glossary file at `2-RAILS/Bilingual-Glossaries/Raw/<source>-<target>.md` with a table mapping source lemma → rendering used in that translation.
 **Helper:** `scripts/extract_pairs.py` walks every ``gloss`` block, pairs `\gla[i]` with `\glc[i]` per column, normalises lemmas using `\glb`, and emits a CSV of `(source_token, source_lemma, target_rendering, block_id)` rows ready for tallying. Legacy fallback `scripts/align_blocks.py` pairs by block ID only, for sources where no gloss file exists yet.
 → [`glossary-extract-raw/SKILL.md`](glossary-extract-raw/SKILL.md)
 
 ### `glossary-combine` **[exists]**
-**Purpose:** Merge all raw glossary files for one language pair into a single consolidated glossary.
-**Inputs:** All relevant files under `2-RAILS/Glossaries/Raw/`.
-**Outputs:** One consolidated glossary at `2-RAILS/Glossaries/<lang-pair>.md` showing every attested rendering side by side.
+**Purpose:** Merge all raw bilingual glossary files for one language pair into a single consolidated bilingual glossary.
+**Inputs:** All relevant files under `2-RAILS/Bilingual-Glossaries/Raw/`.
+**Outputs:** One consolidated bilingual glossary at `2-RAILS/Bilingual-Glossaries/<lang-pair>.md` showing every attested rendering side by side.
 **Helper:** `scripts/combine_glossaries.py` merges raw rendering tables by keyword, sums frequencies across sources, normalises case-only duplicates, and writes the consolidated file with Local-Wiki links auto-populated where articles exist.
 → [`glossary-combine/SKILL.md`](glossary-combine/SKILL.md)
 
 ### `glossary-select` **[exists]**
-**Purpose:** Build the translation-specific working glossary for one track by selecting the preferred rendering for each term from the consolidated glossary, guided by the track's `requirements.md`. If no existing rendering is satisfactory, derive one from the Local-Wiki article for that term and feed the new rendering back into the consolidated glossary.
-**Inputs:** `2-RAILS/Glossaries/<lang-pair>.md`, `3-TRANSFORMATIONS/Translation/<track-name>/requirements.md`, Local-Wiki articles as needed.
-**Outputs:** `3-TRANSFORMATIONS/Translation/<track-name>/glossary.md`; updates to the consolidated glossary for any new derived renderings.
+**Purpose:** Build the prescriptive per-track termbase for one track by selecting the preferred rendering for each term from the consolidated bilingual glossary, guided by the track's `requirements.md`. If no existing rendering is satisfactory, derive one from the Local-Wiki article for that term and feed the new rendering back into the consolidated bilingual glossary.
+**Inputs:** `2-RAILS/Bilingual-Glossaries/<lang-pair>.md`, `3-TRANSFORMATIONS/Translations/<track-name>/requirements.md`, Local-Wiki articles as needed.
+**Outputs:** `3-TRANSFORMATIONS/Translations/<track-name>/termbase.md` — the prescriptive termbase, scoped to keywords that appear in the text being translated; plus updates to the consolidated bilingual glossary for any new derived renderings.
 → [`glossary-select/SKILL.md`](glossary-select/SKILL.md)
 
 ---
@@ -100,8 +100,8 @@ These skills populate `2-RAILS/` with the structured context that translation an
 
 ### `requirements-author` **[planned]**
 **Purpose:** Author or audit a track's `requirements.md` so it contains everything the `translate-section` skill needs to behave consistently across the whole text.
-**Inputs:** The track folder `3-TRANSFORMATIONS/Translation/<track-name>/`; the per-track glossary (if it exists yet); samples of any prior translation in the same target language.
-**Outputs:** A complete `3-TRANSFORMATIONS/Translation/<track-name>/requirements.md`, written in the target language, covering: target audience and register; glossary reference path; preferred rendering for structurally significant terms; style constraints (sentence length, paragraph length, treatment of verse vs. prose, list handling, transliteration vs. translation policy, footnote vs. inline glossing); cultural-adaptation rules; and the source-rail dependencies the translator must consult.
+**Inputs:** The track folder `3-TRANSFORMATIONS/Translations/<track-name>/`; the per-track termbase (if it exists yet); samples of any prior translation in the same target language.
+**Outputs:** A complete `3-TRANSFORMATIONS/Translations/<track-name>/requirements.md`, written in the target language, covering: target audience and register; bilingual glossary reference path; preferred rendering for structurally significant terms; style constraints (sentence length, paragraph length, treatment of verse vs. prose, list handling, transliteration vs. translation policy, footnote vs. inline glossing); cultural-adaptation rules; and the source-rail dependencies the translator must consult.
 **Audit mode:** Given an existing `requirements.md`, report which of the above sections are missing or under-specified before any translation begins.
 → `requirements-author/SKILL.md` *(to be written)*
 
@@ -112,13 +112,13 @@ These skills populate `2-RAILS/` with the structured context that translation an
 ### `translate-section` **[planned]**
 **Purpose:** Translate a small batch of TOC nodes into the target language.
 **Inputs:**
-- `3-TRANSFORMATIONS/Translation/<track-name>/requirements.md`
-- `3-TRANSFORMATIONS/Translation/<track-name>/glossary.md`
+- `3-TRANSFORMATIONS/Translations/<track-name>/requirements.md`
+- `3-TRANSFORMATIONS/Translations/<track-name>/termbase.md`
 - `2-RAILS/Sections/<node-id>.md` for each node in the batch
 - `2-RAILS/Verses/<verse-id>.md` for each verse in the batch
-- `2-RAILS/Local-Wiki/<term>.md` for any term in the batch not adequately covered by the glossary
-**Outputs:** Updated translation file(s) in `3-TRANSFORMATIONS/Translation/<track-name>/`. The frontmatter of each translation file lists the rail files it was generated from.
-**Rules:** Translate small batches only — one or a few TOC nodes at a time. Every keyword rendering must match the per-track glossary. Introduce no new rendering without first adding it to the per-track glossary and feeding it back into the consolidated glossary under `2-RAILS/Glossaries/`. Translate from the disambiguated Pali in the verse-context file, not from the raw root text.
+- `2-RAILS/Local-Wiki/<term>.md` for any term in the batch not adequately covered by the bilingual glossary
+**Outputs:** Updated translation file(s) in `3-TRANSFORMATIONS/Translations/<track-name>/`. The frontmatter of each translation file lists the rail files it was generated from.
+**Rules:** Translate small batches only — one or a few TOC nodes at a time. Every keyword rendering must match the per-track termbase. Introduce no new rendering without first adding it to the per-track termbase and feeding it back into the consolidated bilingual glossary under `2-RAILS/Bilingual-Glossaries/`. Translate from the disambiguated Pali in the verse-context file, not from the raw root text.
 → `translate-section/SKILL.md` *(to be written)*
 
 ---
@@ -128,17 +128,17 @@ These skills populate `2-RAILS/` with the structured context that translation an
 ### `translation-qa` **[planned]**
 **Purpose:** Review a translated section against the MQM translation error taxonomy, the track requirements, and the source rails.
 **Inputs:**
-- The translated section(s) in `3-TRANSFORMATIONS/Translation/<track-name>/`
-- `3-TRANSFORMATIONS/Translation/<track-name>/requirements.md`
-- `3-TRANSFORMATIONS/Translation/<track-name>/glossary.md`
+- The translated section(s) in `3-TRANSFORMATIONS/Translations/<track-name>/`
+- `3-TRANSFORMATIONS/Translations/<track-name>/requirements.md`
+- `3-TRANSFORMATIONS/Translations/<track-name>/termbase.md`
 - Relevant `2-RAILS/Sections/`, `2-RAILS/Verses/`, and `2-RAILS/Local-Wiki/` files
-**Outputs:** Appended entries in `3-TRANSFORMATIONS/Translation/<track-name>/qa-report.md`. Each entry records: the segment, MQM error category (accuracy, fluency, terminology, style, locale convention, …), severity (critical / major / minor), and a suggested correction.
+**Outputs:** Appended entries in `3-TRANSFORMATIONS/Translations/<track-name>/qa-report.md`. Each entry records: the segment, MQM error category (accuracy, fluency, terminology, style, locale convention, …), severity (critical / major / minor), and a suggested correction.
 **Completion criterion:** A section is marked `status: complete` only when no critical or major MQM errors remain open in the QA report.
 → `translation-qa/SKILL.md` *(to be written)*
 
 ### `style-consistency-check` **[planned]**
 **Purpose:** Catch the third failure mode — style drift over long texts — that section-by-section QA tends to miss. Scans across many already-translated sections of one track and flags creeping changes in register, sentence length, verse formatting, list handling, term gloss style, and similar style-level patterns.
-**Inputs:** All translated files in `3-TRANSFORMATIONS/Translation/<track-name>/`; `requirements.md`; the per-track glossary.
+**Inputs:** All translated files in `3-TRANSFORMATIONS/Translations/<track-name>/`; `requirements.md`; the per-track termbase.
 **Outputs:** A style-drift section appended to `qa-report.md`, with span references back to the offending passages.
 → `style-consistency-check/SKILL.md` *(to be written)*
 

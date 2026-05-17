@@ -1,11 +1,11 @@
 ---
 name: local-wiki-article
-description: Create or update a Local-Wiki article in 2-RAILS/Local-Wiki/<term>.md for one key term explained in the commentaries. Populate with citations from the commentaries (in the original language) and a short contextual definition drafted from those citations. All content in the original language. Used as the reference of last resort when a glossary entry does not yet capture a term adequately.
+description: Create or update a Local-Wiki article in 2-RAILS/Local-Wiki/<term>.md for one key term explained in the commentaries. Populate with citations from the commentaries (in the original language) and a short contextual definition drafted from those citations. All content in the original language. Used as the reference of last resort when a bilingual glossary entry does not yet capture a term adequately.
 ---
 
 # local-wiki-article
 
-The Local-Wiki holds one article per **key term** explained in the commentary tradition of this text. Its purpose is narrow: when the per-track glossary does not yet have a satisfactory rendering for a term, the `glossary-select` skill consults the Local-Wiki article for that term to derive a better one. Local-Wiki articles are also the long-form definition that the translator falls back on when the glossary line alone is too compressed to disambiguate.
+The Local-Wiki holds one article per **key term** explained in the commentary tradition of this text. Its purpose is narrow: when the per-track bilingual glossary does not yet have a satisfactory rendering for a term, the `glossary-select` skill consults the Local-Wiki article for that term to derive a better one. Local-Wiki articles are also the long-form definition that the translator falls back on when the bilingual glossary line alone is too compressed to disambiguate.
 
 Local-Wiki articles are **monolingual** — they are in the original language of the commentaries (Pali for the Dhammasaṅgaṇī). They are not a translation aid in themselves; they are a primary-source-grounded definition of the term as the commentators use it.
 

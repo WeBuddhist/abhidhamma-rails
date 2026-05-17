@@ -7,7 +7,7 @@ description: Combine all per-commentary raw summaries for one TOC node into a si
 
 This skill produces the **combined section summary** for one node in the table of contents. It reads every raw per-commentary summary that exists for the node under `2-RAILS/Sections/Raw/`, synthesises them into a single original-language summary, flags interpretive divergences across commentaries, and adds an English translation underneath.
 
-The output is one of the three context layers loaded by `translate-section` (alongside `verse-context` and the per-track glossary).
+The output is one of the three context layers loaded by `translate-section` (alongside `verse-context` and the per-track bilingual glossary).
 
 ---
 
