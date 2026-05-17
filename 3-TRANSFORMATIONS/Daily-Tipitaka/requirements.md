@@ -19,6 +19,8 @@ Reference site: <https://lbdfi.org/daily-tipitaka/>.
 
 ## 2. Audience
 
+> Detailed audience profile lives in [`audience.md`](./audience.md). The bullets below are the headline summary; the profiling detail (demographics, prior knowledge, use cases, motivations) lives there.
+
 - Lay practitioners across the Theravāda world, including newcomers to the Abhidhamma.
 - Monastic participants of the ITCC chanting cohort.
 - Anyone preparing to attend or follow the Bodhgayā gathering online.

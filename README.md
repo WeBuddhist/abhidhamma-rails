@@ -107,6 +107,10 @@ Each translation track is governed by a `requirements.md` written in the target 
 
 Anything the translation skill needs to know to behave consistently across thousands of verses lives here.
 
+#### 1f. Audience profile (`3-TRANSFORMATIONS/Translation/<track-name>/audience.md`)
+
+Each track also carries an `audience.md` that profiles the reader the translation is written for: demographics and region, prior knowledge and reading level, use cases and reading settings, motivations and pain points. Where `requirements.md` says *how* we translate, `audience.md` says *who we translate for* — and the translation skill loads both before every batch so register, vocabulary, and structural choices stay calibrated to the reader. The template lives at `4-SYSTEM/Templates/audience.md`; non-translation transformations (e.g. `3-TRANSFORMATIONS/Daily-Tipitaka/`) carry an `audience.md` alongside their own requirements/brief in the same way.
+
 ### Phase 2 — Translation
 
 Working in small batches through the table of contents — one or a few TOC nodes at a time, never the whole text at once:
