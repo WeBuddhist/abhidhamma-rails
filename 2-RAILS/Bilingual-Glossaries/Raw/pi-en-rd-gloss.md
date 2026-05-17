@@ -6,7 +6,7 @@ target_language: English
 target_lang_tag: en-rd
 translator: C.A.F. Rhys Davids, A Buddhist Manual of Psychological Ethics (PTS, 1900)
 total_verses: 1058
-generated: 2026-05-16
+generated: 2026-05-17
 status: draft
 ---
 
