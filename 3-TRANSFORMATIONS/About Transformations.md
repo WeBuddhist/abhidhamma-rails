@@ -53,17 +53,20 @@ See [`Plans/About Plans.md`](Plans/About Plans.md) for the convention. The curre
 │ └── [track-id]/ # e.g. en-Contemporary-English-Abhidhamma
 │ ├── requirements.md # style contract
 │ ├── termbase.md # vocabulary contract
+│ ├── audience.md # audience profile
 │ ├── <output>.md # the generated translation files
 │ └── qa-report.md # MQM critique driving the next revision
 ├── Adaptations/
 │ └── [track-id]/
 │ ├── requirements.md # style contract for the adaptation
 │ ├── termbase.md # (optional) locked renderings
+│ ├── audience.md # audience profile
 │ └── <output>.md # the generated files
 └── Plans/
  └── [plan-id]/ # e.g. Daily-Abhidhamma
  ├── requirements.md # narrative brief governing the whole plan
  ├── termbase.md # standard term renderings
+ ├── audience.md # audience profile
  ├── schedule/ # calendar + milestones
  ├── plans/ # the plan's internal arc structure (if multi-arc)
  ├── days/ # per-session content, one subfolder per language
@@ -99,6 +102,12 @@ The termbase is built by the `glossary-select` skill from the consolidated `2-RA
 ### `requirements.md` — the plan contract
 
 Required for Plan tracks instead of `requirements.md` + `termbase.md`. A narrative document covering: purpose, audience, per-session shape, languages published, source-rail dependencies, communications convention, status rules, sample session. Plans cover so much surface area (multiple languages, multiple session formats, communications cadence, supporting assets) that a single narrative brief is easier to keep coherent than a split style-plus-vocab pair.
+
+### `audience.md` — the audience profile
+
+Required for every track. A binding profile of the reader the transformation is written for, covering four dimensions: demographics and region; prior knowledge and reading level; use cases and reading settings; motivations and pain points. Where `requirements.md` prescribes *how* the output reads and `termbase.md` prescribes *which words* it uses, `audience.md` prescribes *who* the output is for — the load-bearing context behind every other decision in the track.
+
+The generation skill loads `audience.md` alongside `requirements.md` and `termbase.md` before every batch, so register, vocabulary, and structural choices stay calibrated to the reader. Scaffold a new track's `audience.md` from the template at [`../4-SYSTEM/Templates/audience.md`](../4-SYSTEM/Templates/audience.md). For Translation tracks, the file is written in the target language alongside `requirements.md`. For Plan tracks, the file covers the plan as a whole; per-language nuance lives in each Translation track's own `audience.md`.
 
 ---
 
@@ -160,9 +169,10 @@ Adaptation and Plan skills are not yet catalogued; they will be added as those t
 
 - [ ] Decide the category (Translations, Adaptations, Plans) and create the folder under the appropriate top-level subfolder.
 - [ ] Author `requirements.md` (Translation/Adaptation) or `requirements.md` covering all required sections (§3).
+- [ ] Scaffold `audience.md` from [`../4-SYSTEM/Templates/audience.md`](../4-SYSTEM/Templates/audience.md) and fill in the four dimensions before any generation begins.
 - [ ] For Translation tracks: ensure the consolidated `2-RAILS/Bilingual-Glossaries/<src>-<tgt>.md` exists and is `status: complete`.
 - [ ] For Translation tracks: run `glossary-select` to produce the initial `termbase.md`.
-- [ ] Write a per-track README pointing at the brief/requirements, the termbase, and the per-output structure.
+- [ ] Write a per-track README pointing at the brief/requirements, the termbase, the audience profile, and the per-output structure.
 - [ ] Confirm the rails covering the first batch are `status: complete`.
 - [ ] Generate the first batch as `draft`; run QA; iterate until `complete`.
 

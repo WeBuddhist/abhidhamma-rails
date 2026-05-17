@@ -59,6 +59,8 @@ A small number of Pāli terms are kept untranslated and italicised on first use 
 
 ## 2. Audience and Readability
 
+> Detailed audience profile lives in [`audience.md`](./audience.md). This section captures only the *readability* implications; the *who* lives there.
+
 ### 2.1 Who we are writing for
 
 The NIV targets the **average English speaker** worldwide and tests its drafts at roughly a **7th-grade reading level**, on the principle that a translation of a sacred text should not require an advanced education to understand.
