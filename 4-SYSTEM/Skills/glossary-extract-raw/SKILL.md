@@ -81,7 +81,7 @@ The output schema is **unchanged** from earlier versions of this skill — what 
 ## Rules
 
 1. **One raw bilingual glossary per gloss file.** A `pi-en-rd-gloss.md` becomes `pi-en-rd.md`. Never merge two translations into one raw file — that's what `glossary-combine` is for.
-2. **Tokens come from `\gla`; renderings come from `\glc`.** The free translation on `\t` is not used for rendering extraction (it's full-sentence English; `\glc` is the per-token gloss).
+2. **Tokens come from `\gla`; renderings come from `\glc`.** The free translation on `\ex` is not used for rendering extraction (it's full-sentence English; `\glc` is the per-token gloss).
 3. **Inflectional variants are merged.** *dhammā*, *dhammānaṃ*, *dhammehi* all map to lemma *dhamma*. Where the gloss file's `\glb` line records the lemma, use it; where it doesn't, normalise manually.
 4. **Distinct renderings stay distinct.** `states` and `mental-states` are two renderings of the same keyword, not one. They each get a row with their own frequency.
 5. **Sample pairings show context.** Two to four pairings per keyword, chosen to cover the range of renderings and inflectional contexts. Quote the source token in context (a few words on each side) and the rendering verbatim.
