@@ -1322,3 +1322,331 @@ status: draft
 \glc Knowledge-in-making-an-end knowledge-in-not-coming-to-pass
 \ex Knowledge in making an end; knowledge in not coming to pass.
 ```
+
+## ^1-1
+
+```gloss
+\gla Katame dhammā kusalā Yasmiṃ samaye kāmāvacaraṃ kusalaṃ cittaṃ uppannaṃ hoti somanassasahagataṃ ñāṇasampayuttaṃ rūpārammaṇaṃ vā saddārammaṇaṃ vā gandhārammaṇaṃ vā rasārammaṇaṃ vā phoṭṭhabbārammaṇaṃ vā dhammārammaṇaṃ vā yaṃ yaṃ vā panārabbha tasmiṃ samaye phasso hoti vedanā hoti saññā hoti cetanā hoti cittaṃ hoti vitakko hoti vicāro hoti pīti hoti sukhaṃ hoti cittassekaggatā hoti saddhindriyaṃ hoti vīriyindriyaṃ hoti satindriyaṃ hoti samādhindriyaṃ hoti paññindriyaṃ hoti manindriyaṃ hoti somanassindriyaṃ hoti jīvitindriyaṃ hoti sammādiṭṭhi hoti sammāsaṅkappo hoti sammāvāyāmo hoti sammāsati hoti sammāsamādhi hoti saddhābalaṃ hoti vīriyabalaṃ hoti satibalaṃ hoti samādhibalaṃ hoti paññābalaṃ hoti hiribalaṃ hoti ottappabalaṃ hoti alobho hoti adoso hoti amoho hoti anabhijjhā hoti abyāpādo hoti sammādiṭṭhi hoti hirī hoti ottappaṃ hoti kāyapassaddhi hoti cittapassaddhi hoti kāyalahutā hoti cittalahutā hoti kāyamudutā hoti cittamudutā hoti kāyakammaññatā hoti cittakammaññatā hoti kāyapāguññatā hoti cittapāguññatā hoti kāyujukatā hoti cittujukatā hoti sati hoti sampajaññaṃ hoti samatho hoti vipassanā hoti paggāho hoti avikkhepo hoti ye vā pana tasmiṃ samaye aññepi atthi paṭiccasamuppannā arūpino dhammā ime dhammā kusalā
+\glc Which states good When occasion sensuous-universe good thought risen has accompanied-by-gladness associated-with-knowledge sight object or sound object or smell object or taste object or touch object or mental-state object or what not or but-whatsoever then occasion contact there-is feeling there-is perception there-is volition there-is thought there-is application there-is sustained-thinking there-is zest there-is ease there-is self-collectedness there-is faculty-of-faith there-is faculty-of-energy there-is faculty-of-mindfulness there-is faculty-of-concentration there-is faculty-of-insight there-is faculty-of-ideation there-is faculty-of-gladness there-is faculty-of-life there-is right-views there-is right-intention there-is right-endeavour there-is right-mindfulness there-is right-concentration there-is power-of-faith there-is power-of-energy there-is power-of-mindfulness there-is power-of-concentration there-is power-of-insight there-is power-of-conscientiousness there-is power-of-the-fear-of-blame there-is absence-of-greed there-is absence-of-hate there-is absence-of-dullness there-is absence-of-covetousness there-is absence-of-malice there-is right-views there-is conscientiousness there-is fear-of-blame there-is serenity there-is serenity there-is lightness there-is lightness there-is plasticity there-is plasticity there-is facility there-is facility there-is fitness there-is fitness there-is directness there-is directness there-is mindfulness there-is intelligence there-is quiet there-is intuition there-is grasp there-is balance there-is or whatever other then occasion other there-are causally-induced incorporeal states these states good
+\ex Which are the states that are good? When a good thought concerning the sensuous universe has risen, which is accompanied by gladness and associated with knowledge, and has as its object a sight, a sound, a smell, a taste, a touch, a [mental] state, or what not, then there is: contact ( § 2 ) feeling ( § 3 ) perception ( § 4 ) volition ( § 5 ) thought ( § 6 ) application ( § 7 ) sustained thinking ( § 8 ) zest ( § 9 ) ease ( § 10 ) self-collectedness ( § 11 ) the faculty of faith ( § 12 ) the faculty of energy ( § 13 ) the faculty of mindfulness ( § 14 ) the faculty of concentration ( § 15 ) the faculty of insight ( § 16 ) the faculty of ideation ( § 17 ) the faculty of gladness ( § 18 ) the faculty of life ( § 19 ) right views ( § 20 ) right intention ( § 21 ) right endeavour ( § 22 ) right mindfulness ( § 23 ) right concentration ( § 24 ) the power of faith ( § 25 ) the power of energy ( § 26 ) the power of mindfulness ( § 27 ) the power of concentration ( § 28 ) the power of insight ( § 29 ) the power of conscientiousness ( § 30 ) the power of the fear of blame ( § 31 ) absence of greed ( § 32 ) absence of hate ( § 33 ) absence of dullness ( § 34 ) absence of covetousness ( § 35 ) absence of malice ( § 36 ) right views ( § 37 ) conscientiousness ( § 38 ) fear of blame ( § 39 ) serenity in mind and mental factors ( §§ 40 , 41 ) lightness in mind and mental factors ( §§ 42 , 43 ) plasticity in mind and mental factors ( §§ 44 , 45 ) facility in mind and mental factors ( §§ 46 , 47 ) fitness in mind and mental factors ( §§ 48 , 49 ) directness in mind and mental factors ( §§ 50 , 51 ) mindfulness ( § 52 ) intelligence ( § 53 ) quiet ( § 54 ) intuition ( § 55 ) grasp ( § 56 ) balance ( § 57 ). Now these—or whatever other incorporeal, causally induced states there are on that occasion—these are states that are good.
+```
+
+## ^1-2
+
+```gloss
+\gla Katamo tasmiṃ samaye phasso hoti Yo tasmiṃ samaye phasso phusanā saṃphusanā saṃphusitattaṃ ayaṃ tasmiṃ samaye phasso hoti
+\glc What that occasion contact is The that occasion contact touching being-brought-into-contact state-of-having-been-brought-into-touch-with this that occasion contact is
+\ex What on that occasion is contact ( phasso )? The contact which on that occasion is touching, the being brought into contact, the state of having been brought into touch with—this is the contact that there then is.
+```
+
+## ^1-3
+
+```gloss
+\gla Katamā tasmiṃ samaye vedanā hoti Yaṃ tasmiṃ samaye tajjāmanoviññāṇadhātusamphassajaṃ cetasikaṃ sātaṃ cetasikaṃ sukhaṃ cetosamphassajaṃ sātaṃ sukhaṃ vedayitaṃ cetosamphassajā sātā sukhā vedanā ayaṃ tasmiṃ samaye vedanā hoti
+\glc What that occasion feeling is which that occasion born-of-contact-with-the-appropriate-element-of-representative-intellection mental pleasure mental ease born-of-contact-with-thought pleasurable easeful sensation born-of-contact-with-thought pleasurable easeful feeling this that occasion feeling is
+\ex What on that occasion is feeling ( vedana )? The mental pleasure, the mental ease, which, on that occasion, is born of contact with the appropriate element of representative intellection; the pleasurable, easeful sensation which is born of contact with thought; the pleasurable, easeful feeling which is born of contact with thought—this is the feeling that there then is.
+```
+
+## ^1-4
+
+```gloss
+\gla Katamā tasmiṃ samaye saññā hoti Yā tasmiṃ samaye tajjāmanoviññāṇadhātusamphassajā saññā sañjānanā sañjānitattaṃ ayaṃ tasmiṃ samaye saññā hoti
+\glc What that occasion perception is which that occasion born-of-contact-with-the-appropriate-element-of-representative-intellection perception perceiving state-of-having-perceived this that occasion perception is
+\ex What on that occasion is perception ( saññā )? The perception, the perceiving, the state of having perceived which on that occasion is born of contact with the appropriate element of representative intellection—this is the perception that there then is.
+```
+
+## ^1-5
+
+```gloss
+\gla Katamā tasmiṃ samaye cetanā hoti Yā tasmiṃ samaye tajjāmanoviññāṇadhātusamphassajā cetanā sañcetanā cetayitattaṃ ayaṃ tasmiṃ samaye cetanā hoti
+\glc What that occasion volition is which that occasion born-of-contact-with-the-appropriate-element-of-representative-intellection volition purpose purposefulness this that occasion volition is
+\ex What on that occasion is volition ( cetanā )? The volition, purpose, purposefulness, which is born of contact with the appropriate element of representative intellection—this is the volition that there then is.
+```
+
+## ^1-6
+
+```gloss
+\gla Katamaṃ tasmiṃ samaye cittaṃ hoti Yaṃ tasmiṃ samaye cittaṃ mano mānasaṃ hadayaṃ paṇḍaraṃ mano manāyatanaṃ manindriyaṃ viññāṇaṃ viññāṇakkhandho tajjāmanoviññāṇadhātu idaṃ tasmiṃ samaye cittaṃ hoti
+\glc What that occasion thought is which that occasion thought ideation mind heart that-which-is-clear ideation-as-the-sphere-of-mind faculty-of-mind intellection skandha-of-intellection appropriate-element-of-representative-intellection this that occasion thought is
+\ex What on that occasion is thought ( cittaṃ )? The thought which on that occasion is ideation, mind, heart, that which is clear, ideation as the sphere of mind, the faculty of mind, intellection, the skandha of intellection, the appropriate element of representative intellection—this is the thought that there then is.
+```
+
+## ^1-7
+
+```gloss
+\gla Katamo tasmiṃ samaye vitakko hoti Yo tasmiṃ samaye takko vitakko saṅkappo appanā byappanā cetaso abhiniropanā sammāsaṅkappo ayaṃ tasmiṃ samaye vitakko hoti
+\glc What that occasion application-of-mind is which that occasion discrimination application disposing fixing focussing superposing-of-the-mind right-disposing this that occasion application is
+\ex What on that occasion is application of mind ( vitakko )? The discrimination, the application, which on that occasion is the disposing, the fixing, the focussing, the superposing of the mind, right disposing—this is the application that there then is.
+```
+
+## ^1-8
+
+```gloss
+\gla Katamo tasmiṃ samaye vicāro hoti Yo tasmiṃ samaye cāro vicāro anuvicāro upavicāro cittassa anusandhānatā anupekkhanatā ayaṃ tasmiṃ samaye vicāro hoti
+\glc What that occasion sustained-thought is which that occasion process sustained-procedure vicāro progress access-of-the-mind continuous-adjusting focussing-of-thought this that occasion sustained-thought is
+\ex What on that occasion is sustained thought ( vicāro )? The process, the sustained procedure ( vicāro ), the progress and access [of the mind] which on that occasion is the [continuous] adjusting and focussing of thought—this is the sustained thought that there then is.
+```
+
+## ^1-9
+
+```gloss
+\gla Katamā tasmiṃ samaye pīti hoti Yā tasmiṃ samaye pīti pāmojjaṃ āmodanā pamodanā hāso pahāso vitti odagyaṃ attamanatā cittassa ayaṃ tasmiṃ samaye pīti hoti
+\glc What that occasion zest is which that occasion zest joy rejoicing-at rejoicing-over mirth merriment felicity exultation transport-of-mind this that occasion zest is
+\ex What on that occasion is zest ( pīti )? The zest which on that occasion is joy, rejoicing at, rejoicing over, mirth and merriment, felicity, exultation, transport of mind—this is the zest that there then is.
+```
+
+## ^1-10
+
+```gloss
+\gla Katamaṃ tasmiṃ samaye sukhaṃ hoti Yaṃ tasmiṃ samaye cetasikaṃ sātaṃ cetasikaṃ sukhaṃ cetosamphassajaṃ sātaṃ sukhaṃ vedayitaṃ cetosamphassajā sātā sukhā vedanā idaṃ tasmiṃ samaye sukhaṃ hoti
+\glc What that occasion ease is which that occasion mental pleasure mental ease pleasant easeful experience born-of-contact-with-thought this that occasion ease is
+\ex What on that occasion is ease ( sukhaṃ )? The mental pleasure, the mental ease, which on that occasion is the pleasant, easeful experience born of contact with thought—this is the ease that there then is.
+```
+
+## ^1-11
+
+```gloss
+\gla Katamā tasmiṃ samaye cittassekaggatā hoti Yā tasmiṃ samaye cittassa ṭhiti saṇṭhiti avaṭṭhiti avisāhāro avikkhepo avisāhaṭamānasatā samatho samādhindriyaṃ samādhibalaṃ sammāsamādhi ayaṃ tasmiṃ samaye cittassekaggatā hoti
+\glc What that occasion self-collectedness is which that occasion thought stability solidity absorbed-steadfastness absence-of-distraction balance unperturbed-mental-procedure quiet faculty-of-concentration power-of-concentration right-concentration this that occasion self-collectedness is
+\ex What on that occasion is self-collectedness ( cittass’ ekaggatā )? The stability, solidity, absorbed steadfastness of thought which on that occasion is the absence of distraction, balance, unperturbed mental procedure, quiet, the faculty and the power of concentration, right concentration—this is the self-collectedness that there then is.
+```
+
+## ^1-12
+
+```gloss
+\gla Katamaṃ tasmiṃ samaye saddhindriyaṃ hoti Yā tasmiṃ samaye saddhā saddahanā okappanā abhippasādo saddhā saddhindriyaṃ saddhābalaṃ idaṃ tasmiṃ samaye saddhindriyaṃ hoti
+\glc What that occasion faculty-of-faith is which that occasion faith trusting-in professing-confidence-in sense-of-assurance faith faculty power this that occasion faith is
+\ex What on that occasion is the faculty of faith ( saddhindriyaṃ )? The faith which on that occasion is a trusting in, the professing confidence in, the sense of assurance, faith, faith as a faculty and as a power—this is the faith that there then is.
+```
+
+## ^1-13
+
+```gloss
+\gla Katamaṃ tasmiṃ samaye vīriyindriyaṃ hoti Yo tasmiṃ samaye cetasiko vīriyārambho nikkamo parakkamo uyyāmo vāyāmo ussāho ussoḷhī thāmo dhiti asithilaparakkamatā anikkhittachandatā anikkhittadhuratā dhurasampaggāho vīriyaṃ vīriyindriyaṃ vīriyabalaṃ sammāvāyāmo idaṃ tasmiṃ samaye vīriyindriyaṃ hoti
+\glc What that occasion faculty-of-energy is which that occasion mental inception-of-energy striving onward-effort exertion endeavour zeal ardour vigour fortitude state-of-unfaltering-effort state-of-sustained-desire state-of-unflinching-endurance solid-grip-of-the-burden energy faculty power right-endeavour this that occasion energy is
+\ex What on that occasion is the faculty of energy ( viriyindriyaṃ )? The mental inception of energy which there is on that occasion, the striving and the onward effort, the exertion and endeavour, the zeal and ardour, the vigour and fortitude, the state of unfaltering effort, the state of sustained desire, the state of unflinching endurance and solid grip of the burden, energy, energy as faculty and as power, right endeavour—this is the energy that there then is.
+```
+
+## ^1-14
+
+```gloss
+\gla Katamaṃ tasmiṃ samaye satindriyaṃ hoti Yā tasmiṃ samaye sati anussati paṭissati sati saraṇatā dhāraṇatā apilāpanatā asammussanatā sati satindriyaṃ satibalaṃ sammāsati idaṃ tasmiṃ samaye satindriyaṃ hoti
+\glc What that occasion faculty-of-mindfulness is which that occasion mindfulness recollecting calling-back-to-mind mindfulness remembering bearing-in-mind opposite-of-superficiality opposite-of-obliviousness mindfulness faculty power right-mindfulness this that occasion faculty-of-mindfulness is
+\ex What on that occasion is the faculty of mindfulness ( satindriyaṃ )? The mindfulness which on that occasion is recollecting, calling back to mind; the mindfulness which is remembering, bearing in mind, the opposite of superficiality and of obliviousness; mindfulness as faculty, mindfulness as power, right mindfulness—this is the faculty of mindfulness that there then is.
+```
+
+## ^1-15
+
+```gloss
+\gla Katamaṃ tasmiṃ samaye samādhindriyaṃ hoti Yā tasmiṃ samaye cittassa ṭhiti saṇṭhiti avaṭṭhiti avisāhāro avikkhepo avisāhaṭamānasatā samatho samādhindriyaṃ samādhibalaṃ sammāsamādhi idaṃ tasmiṃ samaye samādhindriyaṃ hoti
+\glc What that occasion faculty-of-concentration is which that occasion thought stability solidity absorbed-steadfastness absence-of-distraction balance unperturbed-mental-procedure quiet faculty-of-concentration power-of-concentration right-concentration this that occasion faculty-of-concentration is
+\ex What on that occasion is the faculty of concentration ( samādhindriyaṃ )? Answer as for “self-collectedness”, § 11 .
+```
+
+## ^1-16
+
+```gloss
+\gla Katamaṃ tasmiṃ samaye paññindriyaṃ hoti Yā tasmiṃ samaye paññā pajānanā vicayo pavicayo dhammavicayo sallakkhaṇā upalakkhaṇā paccupalakkhaṇā paṇḍiccaṃ kosallaṃ nepuññaṃ vebhabyā cintā upaparikkhā bhūrī medhā pariṇāyikā vipassanā sampajaññaṃ patodo paññā paññindriyaṃ paññābalaṃ paññāsatthaṃ paññāpāsādo paññāāloko paññāobhāso paññāpajjoto paññāratanaṃ amoho dhammavicayo sammādiṭṭhi idaṃ tasmiṃ samaye paññindriyaṃ hoti
+\glc What that occasion faculty-of-insight is which that occasion insight understanding search research searching-the-Doctrine discernment discrimination differentiation erudition proficiency subtlety criticism reflection analysis breadth sagacity guide intuition intelligence goad wisdom-as-faculty wisdom-as-power wisdom-as-a-sword wisdom-as-a-height wisdom-as-light wisdom-as-glory wisdom-as-splendour wisdom-as-a-precious-stone absence-of-dullness searching-the-Truth right-views this that occasion wisdom is
+\ex What on that occasion is the faculty of insight ( paññindriyaṃ )? The insight which there is on that occasion is understanding, search, research, searching the Doctrine, discernment, discrimination, differentiation, erudition, proficiency, subtlety, criticism, reflection, analysis, breadth, sagacity, a “guide”, intuition, intelligence, a “goad”; wisdom as faculty, wisdom as power, wisdom as a sword, wisdom as a height, wisdom as light, wisdom as glory, wisdom as splendour, wisdom as a precious stone; the absence of dullness, searching the Truth, right views—this is the wisdom that there then is.
+```
+
+## ^1-17
+
+```gloss
+\gla Katamaṃ tasmiṃ samaye manindriyaṃ hoti Yaṃ tasmiṃ samaye cittaṃ mano mānasaṃ hadayaṃ paṇḍaraṃ mano manāyatanaṃ manindriyaṃ viññāṇaṃ viññāṇakkhandho tajjāmanoviññāṇadhātu idaṃ tasmiṃ samaye manindriyaṃ hoti
+\glc What that occasion faculty-of-mind is which that occasion thought ideation mind heart that-which-is-clear ideation-as-the-sphere-of-mind faculty-of-mind intellection skandha-of-intellection appropriate-element-of-representative-intellection this that occasion thought is
+\ex What on that occasion is the faculty of mind (representative imagination, manindriyaṃ )? Answer as for “thought” ( cittaṃ ), § 6 .
+```
+
+## ^1-18
+
+```gloss
+\gla Katamaṃ tasmiṃ samaye somanassindriyaṃ hoti Yaṃ tasmiṃ samaye cetasikaṃ sātaṃ cetasikaṃ sukhaṃ cetosamphassajaṃ sātaṃ sukhaṃ vedayitaṃ cetosamphassajā sātā sukhā vedanā idaṃ tasmiṃ samaye somanassindriyaṃ hoti
+\glc What that occasion faculty-of-pleasure is which that occasion mental pleasure mental ease pleasant easeful experience born-of-contact-with-thought this that occasion ease is
+\ex What on that occasion is the faculty of pleasure ( somanassin-driyaṃ )? Answer as for “ease” ( sukhaṃ ), § 10 .
+```
+
+## ^1-19
+
+```gloss
+\gla Katamaṃ tasmiṃ samaye jīvitindriyaṃ hoti Yo tesaṃ arūpīnaṃ dhammānaṃ āyu ṭhiti yapanā yāpanā iriyanā vattanā pālanā jīvitaṃ jīvitindriyaṃ idaṃ tasmiṃ samaye jīvitindriyaṃ hoti
+\glc What that occasion faculty-of-life is which these incorporeal states persistence subsistence going-on being-kept-going-on progress continuance preservation life faculty this that occasion faculty-of-life is
+\ex What on that occasion is the faculty of life ( jīvitindriyaṃ )? The persistence of these incorporeal states, their subsistence, going on, their being kept going on, their progress, continuance, preservation, life, life as faculty—this is the faculty of life that there then is.
+```
+
+## ^1-20
+
+```gloss
+\gla Katamā tasmiṃ samaye sammādiṭṭhi hoti Yā tasmiṃ samaye paññā pajānanā vicayo pavicayo dhammavicayo sallakkhaṇā upalakkhaṇā paccupalakkhaṇā paṇḍiccaṃ kosallaṃ nepuññaṃ vebhabyā cintā upaparikkhā bhūrī medhā pariṇāyikā vipassanā sampajaññaṃ patodo paññā paññindriyaṃ paññābalaṃ paññāsatthaṃ paññāpāsādo paññāāloko paññāobhāso paññāpajjoto paññāratanaṃ amoho dhammavicayo sammādiṭṭhi ayaṃ tasmiṃ samaye sammādiṭṭhi hoti
+\glc What that occasion right-views is which that occasion insight understanding search research searching-the-Doctrine discernment discrimination differentiation erudition proficiency subtlety criticism reflection analysis breadth sagacity guide intuition intelligence goad wisdom-as-faculty wisdom-as-power wisdom-as-a-sword wisdom-as-a-height wisdom-as-light wisdom-as-glory wisdom-as-splendour wisdom-as-a-precious-stone absence-of-dullness searching-the-Truth right-views this that occasion wisdom is
+\ex What on that occasion are right views ( sammā-diṭṭhi )? Answer as for the “faculty of insight”, § 16 .
+```
+
+## ^1-21
+
+```gloss
+\gla Katamo tasmiṃ samaye sammāsaṅkappo hoti Yo tasmiṃ samaye takko vitakko saṅkappo appanā byappanā cetaso abhiniropanā sammāsaṅkappo ayaṃ tasmiṃ samaye sammāsaṅkappo hoti
+\glc What that occasion right-intention is which that occasion discrimination application disposing fixing focussing superposing-of-the-mind right-disposing this that occasion application is
+\ex What on that occasion is right intention ( sammā-sankappo )? Answer as for “application of mind”, § 7 .
+```
+
+## ^1-22
+
+```gloss
+\gla Katamo tasmiṃ samaye sammāvāyāmo hoti Yo tasmiṃ samaye cetasiko vīriyārambho nikkamo parakkamo uyyāmo vāyāmo ussāho ussoḷhī thāmo dhiti asithilaparakkamatā anikkhittachandatā anikkhittadhuratā dhurasampaggāho vīriyaṃ vīriyindriyaṃ vīriyabalaṃ sammāvāyāmo ayaṃ tasmiṃ samaye sammāvāyāmo hoti
+\glc What that occasion right-endeavour is which that occasion mental inception-of-energy striving onward-effort exertion endeavour zeal ardour vigour fortitude state-of-unfaltering-effort state-of-sustained-desire state-of-unflinching-endurance solid-grip-of-the-burden energy faculty power right-endeavour this that occasion energy is
+\ex What on that occasion is right endeavour ( sammā-vāyāmo )? Answer as for the “faculty of energy”, § 13 .
+```
+
+## ^1-23
+
+```gloss
+\gla Katamā tasmiṃ samaye sammāsati hoti Yā tasmiṃ samaye sati anussati paṭissati sati saraṇatā dhāraṇatā apilāpanatā asammussanatā sati satindriyaṃ satibalaṃ sammāsati ayaṃ tasmiṃ samaye sammāsati hoti
+\glc What that occasion right-mindfulness is which that occasion mindfulness recollecting calling-back-to-mind mindfulness remembering bearing-in-mind opposite-of-superficiality opposite-of-obliviousness mindfulness faculty power right-mindfulness this that occasion faculty-of-mindfulness is
+\ex What on that occasion is right mindfulness ( sammāsati )? Answer as for the “faculty of mindfulness”, § 14 .
+```
+
+## ^1-24
+
+```gloss
+\gla Katamo tasmiṃ samaye sammāsamādhi hoti Yā tasmiṃ samaye cittassa ṭhiti saṇṭhiti avaṭṭhiti avisāhāro avikkhepo avisāhaṭamānasatā samatho samādhindriyaṃ samādhibalaṃ sammāsamādhi ayaṃ tasmiṃ samaye sammāsamādhi hoti
+\glc What that occasion right-concentration is which that occasion thought stability solidity absorbed-steadfastness absence-of-distraction balance unperturbed-mental-procedure quiet faculty-of-concentration power-of-concentration right-concentration this that occasion self-collectedness is
+\ex What on that occasion is right concentration ( sammā-samādhi )? Answer as for “self-collectedness”, § 11 .
+```
+
+## ^1-25
+
+```gloss
+\gla Katamaṃ tasmiṃ samaye saddhābalaṃ hoti Yā tasmiṃ samaye saddhā saddahanā okappanā abhippasādo saddhā saddhindriyaṃ saddhābalaṃ idaṃ tasmiṃ samaye saddhābalaṃ hoti
+\glc What that occasion power-of-faith is which that occasion faith trusting-in professing-confidence-in sense-of-assurance faith faculty power this that occasion faith is
+\ex What on that occasion is the power of faith ( saddhābalaṃ )? Answer as for the “faculty of faith”, § 12 .
+```
+
+## ^1-26
+
+```gloss
+\gla Katamaṃ tasmiṃ samaye vīriyabalaṃ hoti Yo tasmiṃ samaye cetasiko vīriyārambho nikkamo parakkamo uyyāmo vāyāmo ussāho ussoḷhī thāmo dhiti asithilaparakkamatā anikkhittachandatā anikkhittadhuratā dhurasampaggāho vīriyaṃ vīriyindriyaṃ vīriyabalaṃ sammāvāyāmo idaṃ tasmiṃ samaye vīriyabalaṃ hoti
+\glc What that occasion power-of-energy is which that occasion mental inception-of-energy striving onward-effort exertion endeavour zeal ardour vigour fortitude state-of-unfaltering-effort state-of-sustained-desire state-of-unflinching-endurance solid-grip-of-the-burden energy faculty power right-endeavour this that occasion energy is
+\ex What on that occasion is the power of energy ( viriyabalaṃ )? Answer as for the “faculty of energy”, § 13 .
+```
+
+## ^1-27
+
+```gloss
+\gla Katamaṃ tasmiṃ samaye satibalaṃ hoti Yā tasmiṃ samaye sati anussati paṭissati sati saraṇatā dhāraṇatā apilāpanatā asammussanatā sati satindriyaṃ satibalaṃ sammāsati idaṃ tasmiṃ samaye satibalaṃ hoti
+\glc What that occasion power-of-mindfulness is which that occasion mindfulness recollecting calling-back-to-mind mindfulness remembering bearing-in-mind opposite-of-superficiality opposite-of-obliviousness mindfulness faculty power right-mindfulness this that occasion faculty-of-mindfulness is
+\ex What on that occasion is the power of mindfulness ( sati-balaṃ )? Answer as for the “faculty of mindfulness”, § 14 .
+```
+
+## ^1-28
+
+```gloss
+\gla Katamaṃ tasmiṃ samaye samādhibalaṃ hoti Yā tasmiṃ samaye cittassa ṭhiti saṇṭhiti avaṭṭhiti avisāhāro avikkhepo avisāhaṭamānasatā samatho samādhindriyaṃ samādhibalaṃ sammāsamādhi idaṃ tasmiṃ samaye samādhibalaṃ hoti
+\glc What that occasion power-of-concentration is which that occasion thought stability solidity absorbed-steadfastness absence-of-distraction balance unperturbed-mental-procedure quiet faculty-of-concentration power-of-concentration right-concentration this that occasion self-collectedness is
+\ex What on that occasion is the power of concentration ( samādhi-balaṃ )? Answer as for “self-collectedness”, § 11 .
+```
+
+## ^1-29
+
+```gloss
+\gla Katamaṃ tasmiṃ samaye paññābalaṃ hoti Yā tasmiṃ samaye paññā pajānanā vicayo pavicayo dhammavicayo sallakkhaṇā upalakkhaṇā paccupalakkhaṇā paṇḍiccaṃ kosallaṃ nepuññaṃ vebhabyā cintā upaparikkhā bhūrī medhā pariṇāyikā vipassanā sampajaññaṃ patodo paññā paññindriyaṃ paññābalaṃ paññāsatthaṃ paññāpāsādo paññāāloko paññāobhāso paññāpajjoto paññāratanaṃ amoho dhammavicayo sammādiṭṭhi idaṃ tasmiṃ samaye paññābalaṃ hoti
+\glc What that occasion power-of-insight is which that occasion insight understanding search research searching-the-Doctrine discernment discrimination differentiation erudition proficiency subtlety criticism reflection analysis breadth sagacity guide intuition intelligence goad wisdom-as-faculty wisdom-as-power wisdom-as-a-sword wisdom-as-a-height wisdom-as-light wisdom-as-glory wisdom-as-splendour wisdom-as-a-precious-stone absence-of-dullness searching-the-Truth right-views this that occasion wisdom is
+\ex What on that occasion is the power of insight ( paññābalaṃ )? Answer as for the “faculty of wisdom”, § 16 .
+```
+
+## ^1-30
+
+```gloss
+\gla Katamaṃ tasmiṃ samaye hiribalaṃ hoti Yaṃ tasmiṃ samaye hirīyati hiriyitabbena hirīyati pāpakānaṃ akusalānaṃ dhammānaṃ samāpattiyā idaṃ tasmiṃ samaye hiribalaṃ hoti
+\glc What that occasion power-of-conscientiousness is which that occasion conscientious scruple felt scruples ought-to-be-felt conscientious-scruple attaining-to-bad-and-evil-states this that occasion power-of-conscientiousness is
+\ex What on that occasion is the power of conscientiousness ( hiribalaṃ )? The feeling of conscientious scruple which there is on that occasion when scruples ought to be felt, conscientious scruple at attaining to bad and evil states—this is the power of conscientiousness that there then is.
+```
+
+## ^1-31
+
+```gloss
+\gla Katamaṃ tasmiṃ samaye ottappabalaṃ hoti Yaṃ tasmiṃ samaye ottappati ottappitabbena ottappati pāpakānaṃ akusalānaṃ dhammānaṃ samāpattiyā idaṃ tasmiṃ samaye ottappabalaṃ hoti
+\glc What that occasion power-of-the-fear-of-blame is which that occasion sense-of-guilt felt sense-of-guilt ought-to-be-felt sense-of-guilt attaining-to-bad-and-evil-states this that occasion fear-of-blame is
+\ex What on that occasion is the power of the fear of blame ( ottappabalaṃ )? The sense of guilt which there is on that occasion, where a sense of guilt ought to be felt, a sense of guilt at attaining to bad and evil states—this is the fear of blame that there then is.
+```
+
+## ^1-32
+
+```gloss
+\gla Katamo tasmiṃ samaye alobho hoti Yo tasmiṃ samaye alobho alubbhanā alubbhitattaṃ asārāgo asārajjanā asārajjitattaṃ anabhijjhā alobho kusalamūlaṃ ayaṃ tasmiṃ samaye alobho hoti
+\glc What that occasion absence-of-greed is which that occasion absence-of-greed being-greedy greediness absence-of-infatuation feeling being-infatuated absence-of-covetousness absence-of-greed root-of-good this that occasion absence-of-greed is
+\ex What on that occasion is disinterestedness ( alobho )? The absence of greed, of being greedy, of greediness, which there is on that occasion, the absence of infatuation, the feeling and being infatuated, the absence of covetousness, that absence of greed which is the root of good—this is the absence of greed that there then is.
+```
+
+## ^1-33
+
+```gloss
+\gla Katamo tasmiṃ samaye adoso hoti Yo tasmiṃ samaye adoso adussanā adussitattaṃ abyāpādo abyāpajjo adoso kusalamūlaṃ ayaṃ tasmiṃ samaye adoso hoti
+\glc What that occasion absence-of-hate is which that occasion absence-of-hate hating hatred absence-of-malice spleen absence-of-hate root-of-good this that occasion absence-of-hate is
+\ex What on that occasion is the absence of hate ( adoso )? The absence of hate, of hating, of hatred, which there is on that occasion, the absence of malice, of spleen, the absence of hate, which is the root of good—this is the absence of hate that there then is.
+```
+
+## ^1-34
+
+```gloss
+\gla Katamo tasmiṃ samaye amoho hoti Yā tasmiṃ samaye paññā pajānanā vicayo pavicayo dhammavicayo sallakkhaṇā upalakkhaṇā paccupalakkhaṇā paṇḍiccaṃ kosallaṃ nepuññaṃ vebhabyā cintā upaparikkhā bhūrī medhā pariṇāyikā vipassanā sampajaññaṃ patodo paññā paññindriyaṃ paññābalaṃ paññāsatthaṃ paññāpāsādo paññāāloko paññāobhāso paññāpajjoto paññāratanaṃ amoho dhammavicayo sammādiṭṭhi amoho kusalamūlaṃ ayaṃ tasmiṃ samaye amoho hoti
+\glc What that occasion absence-of-dullness is which that occasion insight understanding search research searching-the-Doctrine discernment discrimination differentiation erudition proficiency subtlety criticism reflection analysis breadth sagacity guide intuition intelligence goad wisdom-as-faculty wisdom-as-power wisdom-as-a-sword wisdom-as-a-height wisdom-as-light wisdom-as-glory wisdom-as-splendour wisdom-as-a-precious-stone absence-of-dullness searching-the-Truth right-views absence-of-dullness root-of-good this that occasion absence-of-dullness is
+\ex What on that occasion is the absence of dullness ( amoho )? Answer as for the “faculty of insight”, § 16 .
+```
+
+## ^1-35
+
+```gloss
+\gla Katamā tasmiṃ samaye anabhijjhā hoti Yo tasmiṃ samaye alobho alubbhanā alubbhitattaṃ asārāgo asārajjanā asārajjitattaṃ anabhijjhā alobho kusalamūlaṃ ayaṃ tasmiṃ samaye anabhijjhā hoti
+\glc What that occasion absence-of-covetousness is which that occasion absence-of-greed being-greedy greediness absence-of-infatuation feeling being-infatuated absence-of-covetousness absence-of-greed root-of-good this that occasion absence-of-greed is
+\ex What on that occasion is the absence of covetousness ( anabh-ijjhā )? Answer as for “disinterestedness”, § 32 .
+```
+
+## ^1-36
+
+```gloss
+\gla Katamo tasmiṃ samaye abyāpādo hoti Yo tasmiṃ samaye adoso adussanā adussitattaṃ abyāpādo abyāpajjo adoso kusalamūlaṃ ayaṃ tasmiṃ samaye abyāpādo hoti
+\glc What that occasion absence-of-malice is which that occasion absence-of-hate hating hatred absence-of-malice spleen absence-of-hate root-of-good this that occasion absence-of-hate is
+\ex What on that occasion is the absence of malice ( avyāpādo )? Answer as for the “absence of hate”, § 33 .
+```
+
+## ^1-37
+
+```gloss
+\gla Katamā tasmiṃ samaye sammādiṭṭhi hoti Yā tasmiṃ samaye paññā pajānanā vicayo pavicayo dhammavicayo sallakkhaṇā upalakkhaṇā paccupalakkhaṇā paṇḍiccaṃ kosallaṃ nepuññaṃ vebhabyā cintā upaparikkhā bhūrī medhā pariṇāyikā vipassanā sampajaññaṃ patodo paññā paññindriyaṃ paññābalaṃ paññāsatthaṃ paññāpāsādo paññāāloko paññāobhāso paññāpajjoto paññāratanaṃ amoho dhammavicayo sammādiṭṭhi ayaṃ tasmiṃ samaye sammādiṭṭhi hoti
+\glc What that occasion right-views is which that occasion insight understanding search research searching-the-Doctrine discernment discrimination differentiation erudition proficiency subtlety criticism reflection analysis breadth sagacity guide intuition intelligence goad wisdom-as-faculty wisdom-as-power wisdom-as-a-sword wisdom-as-a-height wisdom-as-light wisdom-as-glory wisdom-as-splendour wisdom-as-a-precious-stone absence-of-dullness searching-the-Truth right-views this that occasion wisdom is
+\ex What on that occasion are right views ( sammādiṭṭhi )? Answer as for the “faculty of insight”, § 16 .
+```
+
+## ^1-38
+
+```gloss
+\gla Katamā tasmiṃ samaye hirī hoti Yaṃ tasmiṃ samaye hirīyati hiriyitabbena hirīyati pāpakānaṃ akusalānaṃ dhammānaṃ samāpattiyā ayaṃ tasmiṃ samaye hirī hoti
+\glc What that occasion conscientiousness is which that occasion conscientious scruple felt scruples ought-to-be-felt conscientious-scruple attaining-to-bad-and-evil-states this that occasion power-of-conscientiousness is
+\ex What on that occasion is conscientiousness ( hiri )? Answer as for the “power of conscientiousness”, § 30 .
+```
+
+## ^1-39
+
+```gloss
+\gla Katamaṃ tasmiṃ samaye ottappaṃ hoti Yaṃ tasmiṃ samaye ottappati ottappitabbena ottappati pāpakānaṃ akusalānaṃ dhammānaṃ samāpattiyā idaṃ tasmiṃ samaye ottappaṃ hoti
+\glc What that occasion fear-of-blame is which that occasion sense-of-guilt felt sense-of-guilt ought-to-be-felt sense-of-guilt attaining-to-bad-and-evil-states this that occasion fear-of-blame is
+\ex What on that occasion is the fear of blame ( ottappaṃ )? Answer as for the “power of the fear of blame”, § 31 .
+```
+
+## ^1-40
+
+```gloss
+\gla Katamā tasmiṃ samaye kāyapassaddhi hoti Yā tasmiṃ samaye vedanākkhandhassa saññākkhandhassa saṅkhārakkhandhassa passaddhi paṭipassaddhi passambhanā paṭipassambhanā paṭipassambhitattaṃ ayaṃ tasmiṃ samaye kāyapassaddhi hoti
+\glc What that occasion serenity-of-mental-factors is which that occasion feeling perception synergies serenity composure calming tranquillizing tranquillity this that occasion serenity-of-mental-factors is
+\ex What on that occasion is repose of mental factors ( kāyappassaddhi )? The serenity, the composure which there is on that occasion, the calming, the tranquillizing, the tranquillity of the skandhas of feeling, perception and synergies—this is the serenity of mental factors that there then is.
+```
+
+## ^1-41
+
+```gloss
+\gla Katamā tasmiṃ samaye cittapassaddhi hoti Yā tasmiṃ samaye viññāṇakkhandhassa passaddhi paṭipassaddhi passambhanā paṭipassambhanā paṭipassambhitattaṃ ayaṃ tasmiṃ samaye cittapassaddhi hoti
+\glc What that occasion serenity-of-mind is which that occasion mind serenity composure calming tranquillizing tranquillity this that occasion serenity-of-mind is
+\ex What on that occasion is serenity of mind ( cittapassaddhi )? The serenity, the composure which there is on that occasion, the calming, the tranquillizing, the tranquillity of the skandha of mind—this is the serenity of mind that there then is.
+```
