@@ -204,15 +204,22 @@ transformation_note: "tradition must be specified for this verse"
 
 Three top-level categories, each a top-level subfolder:
 
-- **`Translations/`** — language-by-language translations. Each track has `requirements.md` + `termbase.md` + the generated translation file(s).
-- **`Adaptations/`** — audience-targeted retellings (children's versions, scholarly summaries, sermon cycles). Each track has `requirements.md` and optionally `termbase.md`.
-- **`Plans/`** — calendar-driven study/practice arcs (daily readings, retreat sessions, course schedules). Each plan has `requirements.md` plus calendar/days/communications/assets subfolders. The active plan is `Plans/Daily-Abhidhamma/`.
+- **`Translations/`** — language-by-language translations. Each track has `requirements.md` + `termbase.md` + `audience.md` + the generated translation file(s).
+- **`Adaptations/`** — audience-targeted retellings (children's versions, scholarly summaries, sermon cycles). Each track has `requirements.md`, `audience.md`, and optionally `termbase.md`.
+- **`Plans/`** — calendar-driven study/practice arcs (daily readings, retreat sessions, course schedules). Each plan is language-stratified: one subfolder per published language, each containing `requirements.md`, `termbase.md`, `schedule.md`, `days/`, `communications/`, and `assets/`. The plan root holds only `About <plan-name>.md`. The active plan is `Plans/Daily-Abhidhamma/`.
 
-Every track is governed by binding contract files:
+**Translation / Adaptation contracts:**
 
-- **`requirements.md`** — style contract (audience, register, source-rail dependencies). Written in the target language.
-- **`termbase.md`** — vocabulary contract (one chosen rendering per keyword). Required for Translation tracks, optional for Adaptation tracks.
-- **`requirements.md`** — narrative brief for Plan tracks (covers what `requirements.md` would, plus per-session shape, calendar policy, communications convention).
+- **`requirements.md`** — style contract, written in the target language.
+- **`termbase.md`** — vocabulary contract (one chosen rendering per keyword).
+- **`audience.md`** — audience profile (demographics, prior knowledge, use cases, motivations).
+
+**Plan contracts:**
+
+- **`About <plan-name>.md`** — cross-language overview: session shape, language list, source-rail dependencies.
+- **`<lang>/requirements.md`** — per-language style contract, written in that language.
+- **`<lang>/termbase.md`** — per-language vocabulary contract.
+- **`<lang>/schedule.md`** — day-by-day calendar for that language stream.
 
 Every output file's frontmatter records which `2-RAILS/` packages it was generated from. Generation only ever flows `2-RAILS/ → 3-TRANSFORMATIONS/`, never the other way (except as new descriptive attestations written back into the consolidated bilingual glossary).
 
