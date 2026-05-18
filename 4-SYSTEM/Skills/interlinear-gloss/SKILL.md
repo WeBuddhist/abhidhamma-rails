@@ -35,12 +35,12 @@ One file at:
 
 Examples:
 
-| Translation | Output file |
-|---|---|
+| Translation                                 | Output file                                          |
+| ------------------------------------------- | ---------------------------------------------------- |
 | `en-dhammasangani-rd.md` (lang_tag `en-rd`) | `2-RAILS/Bilingual-Glossaries/Raw/pi-en-rd-gloss.md` |
-| `en-dhammasangani.md` (lang_tag `en`) | `2-RAILS/Bilingual-Glossaries/Raw/pi-en-gloss.md` |
-| `bn-dhammasangani.md` (lang_tag `bn`) | `2-RAILS/Bilingual-Glossaries/Raw/pi-bn-gloss.md` |
-| `sin-dhammasangani.md` (lang_tag `sin`) | `2-RAILS/Bilingual-Glossaries/Raw/pi-sin-gloss.md` |
+| `en-dhammasangani.md` (lang_tag `en`)       | `2-RAILS/Bilingual-Glossaries/Raw/pi-en-gloss.md`    |
+| `bn-dhammasangani.md` (lang_tag `bn`)       | `2-RAILS/Bilingual-Glossaries/Raw/pi-bn-gloss.md`    |
+| `sin-dhammasangani.md` (lang_tag `sin`)     | `2-RAILS/Bilingual-Glossaries/Raw/pi-sin-gloss.md`   |
 
 If the file already exists, update in place: keep manually filled `\glb` lines, and only refresh `\gla` and `\ex` from the underlying source files (so re-running this skill after the root text or translation is re-formatted does not lose token-gloss work).
 
