@@ -1650,3 +1650,131 @@ status: draft
 \glb What at_that occasion serenity_of_mind is? Which at_that occasion skandha_of_mind serenity composure calming tranquillizing tranquillity -- this at_that occasion serenity_of_mind is.
 \ex What on that occasion is serenity of mind (cittapassaddhi)? The serenity, the composure which there is on that occasion, the calming, the tranquillizing, the tranquillity of the skandha of mind—this is the serenity of mind that there then is.
 ```
+
+## ^1-42
+
+```gloss
+\gla Katamā tasmiṃ samaye kāyalahutā hoti? Yā tasmiṃ samaye vedanākkhandhassa saññākkhandhassa saṅkhārakkhandhassa lahutā lahupariṇāmatā adandhanatā avitthanatā – ayaṃ tasmiṃ samaye kāyalahutā hoti.
+\glb What at_that occasion buoyancy_of_mental_factors is? Which at_that occasion skandhas_of_feeling perception and_synergies buoyancy alertness_in_varying absence_of_sluggishness and_inertia -- this at_that occasion buoyancy_of_mental_factors is.
+\ex What on that occasion is buoyancy of mental factors (kāyalahutā)? The buoyancy which there is on that occasion, the alertness in varying, the absence of sluggishness and inertia, in the skandhas of feeling, perception, and synergies—this is the buoyancy of mental factors that there then is.
+```
+
+## ^1-43
+
+```gloss
+\gla Katamā tasmiṃ samaye cittalahutā hoti? Yā tasmiṃ samaye viññāṇakkhandhassa lahutā lahupariṇāmatā adandhanatā avitthanatā – ayaṃ tasmiṃ samaye cittalahutā hoti.
+\glb What at_that occasion buoyancy_of_mind is? Which at_that occasion skandha_of_consciousness buoyancy alertness_in_varying absence_of_sluggishness and_inertia -- this at_that occasion buoyancy_of_mind is.
+\ex What on that occasion is buoyancy of mind (cittalahutā)? The buoyancy, etc. (as in § 42), in the skandha of consciousness—this is the buoyancy of mind that there then is.
+```
+
+## ^1-44
+
+```gloss
+\gla Katamā tasmiṃ samaye kāyamudutā hoti? Yā tasmiṃ samaye vedanākkhandhassa saññākkhandhassa saṅkhārakkhandhassa mudutā maddavatā akakkhaḷatā akathinatā – ayaṃ tasmiṃ samaye kāyamudutā hoti.
+\glb What at_that occasion pliancy_of_mental_factors is? Which at_that occasion skandhas_of_feeling perception and_synergies pliancy suavity smoothness absence_of_rigidity -- this at_that occasion pliancy_of_mental_factors is.
+\ex What on that occasion is pliancy of mental factors (kāyamudutā)? The pliancy which there is on that occasion, the suavity, smoothness, absence of rigidity, in the skandhas of feeling, perception, and synergies—this is the pliancy of mental factors that there then is.
+```
+
+## ^1-45
+
+```gloss
+\gla Katamā tasmiṃ samaye cittamudutā hoti? Yā tasmiṃ samaye viññāṇakkhandhassa mudutā maddavatā akakkhaḷatā akathinatā – ayaṃ tasmiṃ samaye cittamudutā hoti.
+\glb What at_that occasion pliancy_of_mind is? Which at_that occasion skandha_of_consciousness plasticity suavity smoothness absence_of_rigidity -- this at_that occasion pliancy_of_mind is.
+\ex What on that occasion is pliancy of mind (cittamudutā)? The plasticity which, etc. (as in § 44), in the skandha of consciousness—this is the pliancy of mind that there then is.
+```
+
+## ^1-46
+
+```gloss
+\gla Katamā tasmiṃ samaye kāyakammaññatā hoti? Yā tasmiṃ samaye vedanākkhandhassa saññākkhandhassa saṅkhārakkhandhassa kammaññatā kammaññattaṃ kammaññabhāvo – ayaṃ tasmiṃ samaye kāyakammaññatā hoti.
+\glb What at_that occasion wieldiness_of_mental_factors is? Which at_that occasion skandhas_of_feeling perception and_synergies wieldiness tractableness workableness -- this at_that occasion wieldiness_of_mental_factors is.
+\ex What on that occasion is wieldiness of mental factors (kāyakammaññatā)? The wieldiness which there is on that occasion, the tractableness, the workableness, of the skandhas of feeling, perception, and synergies—this is the wieldiness of mental factors that there then is.
+```
+
+## ^1-47
+
+```gloss
+\gla Katamā tasmiṃ samaye cittakammaññatā hoti? Yā tasmiṃ samaye viññāṇakkhandhassa kammaññatā kammaññattaṃ kammaññabhāvo – ayaṃ tasmiṃ samaye cittakammaññatā hoti.
+\glb What at_that occasion wieldiness_of_mind is? Which at_that occasion skandha_of_consciousness wieldiness tractableness workableness -- this at_that occasion wieldiness_of_mind is.
+\ex What on that occasion is wieldiness of mind (cittakammaññatā)? The wieldiness, etc. (as in § 46), of the skandha of consciousness—this is the wieldiness of mind that there then is.
+```
+
+## ^1-48
+
+```gloss
+\gla Katamā tasmiṃ samaye kāyapāguññatā hoti? Yā tasmiṃ samaye vedanākkhandhassa saññākkhandhassa saṅkhārakkhandhassa paguṇatā paguṇattaṃ paguṇabhāvo – ayaṃ tasmiṃ samaye kāyapāguññatā hoti.
+\glb What at_that occasion fitness_of_mental_factors is? Which at_that occasion skandhas_of_feeling perception and_synergies fitness competence efficient_state -- this at_that occasion fitness_of_mental_factors is.
+\ex What on that occasion is fitness of mental factors (kayapāguññatā)? The fitness which there is on that occasion, the competence, the efficient state of the skandhas of feeling, perception, and synergies—this is the fitness of mental factors that there then is.
+```
+
+## ^1-49
+
+```gloss
+\gla Katamā tasmiṃ samaye cittapāguññatā hoti? Yā tasmiṃ samaye viññāṇakkhandhassa paguṇatā paguṇattaṃ paguṇabhāvo – ayaṃ tasmiṃ samaye cittapāguññatā hoti.
+\glb What at_that occasion fitness_of_mind is? Which at_that occasion skandha_of_consciousness fitness competence efficient_state -- this at_that occasion fitness_of_mind is.
+\ex What on that occasion is fitness of mind (cittapāguññatā)? The fitness, etc. (as in § 48), of the skandha of consciousness—this is the fitness of mind that there then is.
+```
+
+## ^1-50
+
+```gloss
+\gla Katamā tasmiṃ samaye kāyujukatā hoti? Yā tasmiṃ samaye vedanākkhandhassa saññākkhandhassa saṅkhārakkhandhassa ujutā ujukatā ajimhatā avaṅkatā akuṭilatā – ayaṃ tasmiṃ samaye kāyujukatā hoti.
+\glb What at_that occasion rectitude_of_mental_factors is? Which at_that occasion skandhas_of_feeling perception and_synergies straightness rectitude without_deflection twist or_crookedness -- this at_that occasion rectitude_of_mental_factors is.
+\ex What on that occasion is rectitude of mental factors (kāyujjukatā)? The straightness which there is on that occasion, the rectitude, without deflection, twist or crookedness, of the skandhas of feeling, perception, and synergies—this is the rectitude of mental factors that there then is.
+```
+
+## ^1-51
+
+```gloss
+\gla Katamā tasmiṃ samaye cittujukatā hoti? Yā tasmiṃ samaye viññāṇakkhandhassa ujutā ujukatā ajimhatā avaṅkatā akuṭilatā – ayaṃ tasmiṃ samaye cittujukatā hoti.
+\glb What at_that occasion rectitude_of_mind is? Which at_that occasion skandha_of_consciousness straightness rectitude without_deflection twist or_crookedness -- this at_that occasion rectitude_of_mind is.
+\ex What on that occasion is rectitude of mind (cittujjukatā)? The straightness, etc. (as in § 50), of the skandha of consciousness—this is the rectitude of mind that there then is.
+```
+
+## ^1-52
+
+```gloss
+\gla Katamā tasmiṃ samaye sati hoti? Yā tasmiṃ samaye sati anussati paṭissati sati saraṇatā dhāraṇatā apilāpanatā asammussanatā sati satindriyaṃ satibalaṃ sammāsati – ayaṃ tasmiṃ samaye sati hoti.
+\glb What at_that occasion mindfulness is? Which at_that occasion mindfulness recollecting calling_back_to_mind mindfulness remembering bearing_in_mind opposite_of_superficiality and_of_obliviousness mindfulness mindfulness_as_faculty mindfulness_as_power right_mindfulness -- this at_that occasion mindfulness is.
+\ex What on that occasion is mindfulness (sati)? Answer as for the “faculty of mindfulness”, § 14.
+```
+
+## ^1-53
+
+```gloss
+\gla Katamaṃ tasmiṃ samaye sampajaññaṃ hoti? Yā tasmiṃ samaye paññā pajānanā vicayo pavicayo dhammavicayo sallakkhaṇā upalakkhaṇā paccupalakkhaṇā paṇḍiccaṃ kosallaṃ nepuññaṃ vebhabyā cintā upaparikkhā bhūrī medhā pariṇāyikā vipassanā sampajaññaṃ patodo paññā paññindriyaṃ paññābalaṃ paññāsatthaṃ paññāpāsādo paññāāloko paññāobhāso paññāpajjoto paññāratanaṃ amoho dhammavicayo sammādiṭṭhi – idaṃ tasmiṃ samaye sampajaññaṃ hoti.
+\glb What at_that occasion intelligence is? Which at_that occasion understanding search research searching_the_Doctrine discernment discrimination differentiation erudition proficiency subtlety criticism reflection analysis breadth sagacity a_guide intuition intelligence a_goad wisdom_as_faculty wisdom_as_power wisdom_as_a_sword wisdom_as_a_height wisdom_as_light wisdom_as_glory wisdom_as_splendour wisdom_as_a_precious_stone absence_of_dullness searching_the_Truth right_views -- this at_that occasion intelligence is.
+\ex What on that occasion is intelligence (sampajaññaṃ)? Answer as for “insight”, § 16.
+```
+
+## ^1-54
+
+```gloss
+\gla Katamo tasmiṃ samaye samatho hoti? Yā tasmiṃ samaye cittassa ṭhiti saṇṭhiti avaṭṭhiti avisāhāro avikkhepo avisāhaṭamānasatā samatho samādhindriyaṃ samādhibalaṃ sammāsamādhi – ayaṃ tasmiṃ samaye samatho hoti.
+\glb What at_that occasion quiet is? Which at_that occasion stability solidity absorbed_steadfastness_of_thought absence_of_distraction balance unperturbed_mental_procedure quiet faculty_and_power_of_concentration right_concentration -- this at_that occasion quiet is.
+\ex What on that occasion is quiet (samatho)? Answer as for “self-collectedness”, § 11.
+```
+
+## ^1-55
+
+```gloss
+\gla Katamā tasmiṃ samaye vipassanā hoti? Yā tasmiṃ samaye paññā pajānanā vicayo pavicayo dhammavicayo sallakkhaṇā upalakkhaṇā paccupalakkhaṇā paṇḍiccaṃ kosallaṃ nepuññaṃ vebhabyā cintā upaparikkhā bhūrī medhā pariṇāyikā vipassanā sampajaññaṃ patodo paññā paññindriyaṃ paññābalaṃ paññāsatthaṃ paññāpāsādo paññāāloko paññāobhāso paññāpajjoto paññāratanaṃ amoho dhammavicayo sammādiṭṭhi – ayaṃ tasmiṃ samaye vipassanā hoti.
+\glb What at_that occasion intuition is? Which at_that occasion understanding search research searching_the_Doctrine discernment discrimination differentiation erudition proficiency subtlety criticism reflection analysis breadth sagacity a_guide intuition intelligence a_goad wisdom_as_faculty wisdom_as_power wisdom_as_a_sword wisdom_as_a_height wisdom_as_light wisdom_as_glory wisdom_as_splendour wisdom_as_a_precious_stone absence_of_dullness searching_the_Truth right_views -- this at_that occasion intuition is.
+\ex What on that occasion is intuition (vipassanā)? Answer as for “insight”, § 16.
+```
+
+## ^1-56
+
+```gloss
+\gla Katamo tasmiṃ samaye paggāho hoti? Yo tasmiṃ samaye cetasiko vīriyārambho nikkamo parakkamo uyyāmo vāyāmo ussāho ussoḷhī thāmo dhiti asithilaparakkamatā anikkhittachandatā anikkhittadhuratā dhurasampaggāho vīriyaṃ vīriyindriyaṃ vīriyabalaṃ sammāvāyāmo – ayaṃ tasmiṃ samaye paggāho hoti.
+\glb What at_that occasion grasp is? Which at_that occasion mental inception_of_energy striving onward_effort exertion endeavour zeal ardour vigour fortitude state_of_unfaltering_effort state_of_sustained_desire state_of_unflinching_endurance solid_grip_of_the_burden energy energy_as_faculty_and_as_power right_endeavour -- this at_that occasion grasp is.
+\ex What on that occasion is grasp (paggāho)? Answer as for the “faculty of energy”, § 13.
+```
+
+## ^1-57
+
+```gloss
+\gla Katamo tasmiṃ samaye avikkhepo hoti? Yā tasmiṃ samaye cittassa ṭhiti saṇṭhiti avaṭṭhiti avisāhāro avikkhepo avisāhaṭamānasatā samatho samādhindriyaṃ samādhibalaṃ sammāsamādhi – ayaṃ tasmiṃ samaye avikkhepo hoti. ye vā pana tasmiṃ samaye aññepi atthi paṭiccasamuppannā arūpino dhammā – ime dhammā kusalā.
+\glb What at_that occasion balance is? Which at_that occasion stability solidity absorbed_steadfastness_of_thought absence_of_distraction balance unperturbed_mental_procedure quiet faculty_and_power_of_concentration right_concentration -- this at_that occasion balance is. those -- -- at_that occasion others_also are causally_induced incorporeal States -- these States good.
+\ex What on that occasion is balance (avikkhepo)? Answer as for “self-collectedness”, § 11. These, or whatever other incorporeal, causally induced states there are on that occasion—these are states that are good.
+```
