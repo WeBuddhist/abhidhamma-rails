@@ -8,7 +8,7 @@ description: For one root text + one translation, build an interlinear gloss fil
 This skill creates the **interlinear gloss file** that pairs one root text against one translation, verse by verse. Each verse is rendered as a three-line `gloss` block:
 
 - `\gla` — source-language tokens (Pali, in PTS Roman diacritics). Long compounds may be split into their component parts when that helps the alignment.
-- `\glb` — token-by-token gloss in the target language, one entry per `\gla` token, lined up by position. **Every word used in `\glb` must come verbatim from the translator's `\ex` line — or from a bracketed fallback if the term is untranslated.**
+- `\glb` — token-by-token gloss in the target language, one entry per `\gla` token, lined up by position. **Every word used in `\glb` must come verbatim from the translator's `\ex` line — or from a rounded-bracketed fallback if the term is untranslated.**
 - `\ex` — the translator's free translation of the verse, verbatim from the translation file.
 
 A gloss block is the **token-level alignment** that all downstream bilingual glossary work depends on. `glossary-extract-raw` reads these files to find keyword renderings; `local-wiki-article` cites them when documenting how a term is rendered across translations; `glossary-select` consults them when judging whether an attested rendering meets a track's requirements.
@@ -87,14 +87,14 @@ The plugin (`Interlinear Glossing` by the Obsidian community) renders ```` ```gl
 
 1. **One token per column.** Splitting is by whitespace on the `\gla` line. The number of whitespace-separated tokens on `\glb` must match `\gla` exactly.
 2. **Compounds may be split on `\gla`.** When a Pali compound is long enough that splitting it produces a cleaner alignment, write its parts as separate space-separated tokens on `\gla` (and add the corresponding gloss cells on `\glb`). For short or familiar compounds, keep them as a single token.
-3. **Multi-word concepts are joined with hyphens, not spaces.** If "having paid homage" glosses a single Pali token, write it as `having-paid-homage` on `\glb` so it occupies one column.
-4. **Missing glosses and particles use `--` or bracketed fallbacks, never the Pali original.** When no word in `\ex` corresponds to a `\gla` token, first check if the term is translated in the Rhys Davids translation (`en-rd`). If it is, translate the untranslated pali section into `[]` using the existing english translation of the pali term from rhys-davids translation (e.g., `[good]`). If even Rhys Davids does not translate it (common for particles like *kho*, *pana*, *ca*), write `--`. Never copy the Pali token itself into `\glb` as a fallback.
+3. **Multi-word concepts are joined with underscores, not spaces.** If "having paid homage" glosses a single Pali token, write it as `having_paid_homage` on `\glb` so it occupies one column.
+4. **Missing glosses and particles use `--` or rounded-bracketed fallbacks, never the Pali original.** When no word in `\ex` corresponds to a `\gla` token, first check if the term is translated in the Rhys Davids translation (`en-rd`). If it is, translate the untranslated pali section into `()` using the existing english translation of the pali term from rhys-davids translation (e.g., `(good)`). If even Rhys Davids does not translate it (common for particles like *kho*, *pana*, *ca*), write `--`. Never copy the Pali token itself into `\glb` as a fallback.
 5. **No trailing punctuation on `\gla`.** Period, comma, semicolon, question mark — strip from the token. They re-appear in the `\ex` line via the translation.
 6. **`\ex` is verbatim from the translator.** Do not paraphrase, do not normalise punctuation, do not strip footnote markers. This line is what `glossary-extract-raw` reads as the canonical rendering of the verse.
-7. **`\glb` draws primarily from `\ex` — with specific fallbacks.** Every `\glb` cell must be a word (or hyphen-joined phrase) whose component words all appear verbatim in the `\ex` line for that same block. The permitted departures are:
+7. **`\glb` draws primarily from `\ex` — with specific fallbacks.** Every `\glb` cell must be a word (or underscore-joined phrase) whose component words all appear verbatim in the `\ex` line for that same block. The permitted departures are:
    - `--` for untranslated particles or gaps.
-   - `[rendering]` for terms untranslated in `\ex` but found in the Rhys Davids (`en-rd`) translation.
-   - **Bracketed clarifications for simplified terms:** If a translator simplifies a compound or omits repetitions to avoid wordiness (e.g., using 'neutral' for 'neither-painful-nor-pleasant'), include the missing components in brackets `[]`. Use words from the `\ex` line where possible.
+   - `(rendering)` for terms untranslated in `\ex` but found in the Rhys Davids (`en-rd`) translation.
+   - **Rounded-bracketed clarifications for simplified terms:** If a translator simplifies a compound or omits repetitions to avoid wordiness (e.g., using 'neutral' for 'neither-painful-nor-pleasant'), include the missing components in rounded brackets `()`. Use words from the `\ex` line where possible.
    No synonyms, no paraphrases, and no Pali originals are allowed.
 
    **Example 1** — `\ex States that are good, bad, indeterminate.`
@@ -115,19 +115,19 @@ The plugin (`Interlinear Glossing` by the Obsidian community) renders ```` ```gl
    |---|---|
    | `sukhāya` | `pleasant` |
    | `vedanāya` | `feeling` |
-   | `adukkhamasukhāya` | `neutral [not painful not pleasant]` |
+   | `adukkhamasukhāya` | `neutral (not_painful_not_pleasant)` |
 
    **Example 3** — Handling particles and split concepts.
    `\ex States that are dissociated from ties; but may or may not be favourable to ties.`
 
    | `\gla` | correct `\glb` | wrong `\glb` |
    |---|---|---|
-   | `ganthavippayuttā` | `dissociated-from-ties` | `dissociated-from-ties` ✓ |
+   | `ganthavippayuttā` | `dissociated_from_ties` | `dissociated_from_ties` ✓ |
    | `kho` | `but` | `but` ✓ |
    | `pana` | `--` | `pana` ← never copy Pali |
    | `dhammā` | `states` | `states` ✓ |
-   | `ganthaniyāpi` | `may-be-favourable-to-ties` | `may-or-may-not-be-favourable-to-ties` ← column mismatch |
-   | `aganthaniyāpi` | `may-not-be-favourable-to-ties` | `--` ← less precise |
+   | `ganthaniyāpi` | `may_be_favourable_to_ties` | `may_or_may_not_be_favourable_to_ties` ← column mismatch |
+   | `aganthaniyāpi` | `may_not_be_favourable_to_ties` | `--` ← less precise |
 
 ---
 
@@ -150,10 +150,10 @@ The recommended path is the scaffold helper followed by an LLM pass for the `\gl
 
 3. **Fill `\glb`, verse by verse or in batches.** This is the LLM-driven half. The procedure for each cell is:
    a. Read the `\ex` line for the block.
-   b. Find the word or phrase in `\ex` that most directly corresponds to this `\gla` token. Use only words that appear verbatim in `\ex`; join multi-word phrases with hyphens.
+   b. Find the word or phrase in `\ex` that most directly corresponds to this `\gla` token. Use only words that appear verbatim in `\ex`; join multi-word phrases with underscores.
    c. If no word in `\ex` corresponds to this token, or if the translator simplified a term to avoid repetition:
-      - Use `[rendering]` for terms untranslated in `\ex` but found in the Rhys Davids (`en-rd`) translation.
-      - Use `word [missing components]` if the translator used a simplified term (e.g., `neutral [not painful not pleasant]`).
+      - Use `(rendering)` for terms untranslated in `\ex` but found in the Rhys Davids (`en-rd`) translation.
+      - Use `word (missing_components)` if the translator used a simplified term (e.g., `neutral (not_painful_not_pleasant)`).
       - If the term is also untranslated in Rhys Davids, write `--`.
       Do not substitute the Pali token, do not use a synonym, and do not use general background knowledge.
    - Where a scaffold token on `\gla` is a long compound that would be clearer split, replace the single compound token with its space-separated parts and extend `\glb` with one cell per part.
@@ -198,5 +198,5 @@ The scaffold script can be re-run safely:
 - [ ] Token count matches across `\gla` and `\glb` for every block (use `--validate`)
 - [ ] `\ex` is verbatim from the translation file
 - [ ] Frontmatter `total_verses` matches the heading count
-- [ ] No `\glb` cell contains a Pali word or a term absent from the corresponding `\ex` line (unless bracketed from Rhys Davids or clarification)
+- [ ] No `\glb` cell contains a Pali word or a term absent from the corresponding `\ex` line (unless rounded-bracketed from Rhys Davids or clarification)
 - [ ] `--` is used wherever the translation and Rhys Davids provide no corresponding word — not a Pali fallback
