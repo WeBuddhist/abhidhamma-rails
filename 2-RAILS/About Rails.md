@@ -210,7 +210,7 @@ cites the commentary block that grounds it.]
 (1-SOURCES/Commentaries/pi-dhammasangani-mulatiika.md#^1-1)
 
 ### Synthesis
-[What all sources agree on. Do not flatten genuine disagreement here.]
+[What all sources agree on. Do not flatten disagreement here.]
 
 ### Divergences
 [Where commentaries genuinely disagree, attributed and flagged ⚑.]
@@ -301,13 +301,13 @@ The bilingual glossary chain is the bridge between the descriptive corpus (every
 
 ### 7.1 Interlinear glosses (`Raw/<src>-<tgt>-gloss.md`)
 
-For each translation in `1-SOURCES/Translations/`, build a gloss file pairing the root text against that translation verse by verse. Each verse becomes a `gloss` block in the Obsidian Interlinear Glossing plugin format (`\gla` source tokens, `\glb` morphology/lemma, `\glc` token-by-token target glosses, `\ex` free translation). The gloss file is the single token-level alignment artefact every downstream bilingual glossary step reads.
+For each translation in `1-SOURCES/Translations/`, build a gloss file pairing the root text against that translation verse by verse. Each verse becomes a `gloss` block in the Obsidian Interlinear Glossing plugin format (`gla` source tokens, `glb` token-by-token target glosses, `\ex` free translation). The gloss file is the single token-level alignment artefact every downstream bilingual glossary step reads.
 
 Authoring skill: `interlinear-gloss`.
 
 ### 7.2 Raw bilingual glossaries (`Raw/<src>-<tgt>.md`)
 
-From each gloss file, extract every source-language keyword and the rendering(s) it receives. The token-level alignment is already done in the gloss file, so this step is mostly mechanical: walk every `\gla` ↔ `\glc` pair, group by lemma (using `\glb`), tally distinct renderings, and record sample pairings.
+From each gloss file, extract every source-language keyword and the rendering(s) it receives. The token-level alignment is already done in the gloss file, so this step is mostly mechanical: walk every `gla` ↔ `glb` pair, tally distinct renderings, and record sample pairings.
 
 Authoring skill: `glossary-extract-raw`.
 
