@@ -23,7 +23,7 @@ status: draft
 
 ```gloss
 \gla sukhāya vedanāya sampayuttā dhammā dukkhāya vedanāya sampayuttā dhammā adukkhamasukhāya vedanāya sampayuttā dhammā
-\glb pleasant feeling associated-with States painful feeling associated-with States neutral feeling associated-with States
+\glb pleasant feeling associated-with States painful feeling [associated-with] [States] neutral_(not_painful_not_pleasant) feeling [associated-with] [States]
 \ex States that are associated with pleasant feeling, painful feeling, neutral feeling.
 ```
 
@@ -166,7 +166,7 @@ status: draft
 ## ^1-0a-20
 
 ```gloss
-\gla ajjhattā dhammā bahiddhā dhammā ajjhattabahiddhā dhammā
+\gla ajjhattā dhammā bāhiddhā dhammā ajjhattabahiddhā dhammā
 \glb belong-to-one's-self States are-external-to-one's-self States are-belonging-or-external-to-one's-self States
 \ex States that belong to one's self; are external to one's self; are belonging or external to one's self.
 ```
