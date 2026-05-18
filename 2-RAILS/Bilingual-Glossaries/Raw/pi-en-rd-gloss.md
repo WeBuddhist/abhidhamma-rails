@@ -5,7 +5,7 @@ target_file: 1-SOURCES/Translations/en-1-rhys_davids.md
 target_language: en
 target_lang_tag: en-rd
 translator: C.A.F. Rhys Davids
-total_verses: 71
+total_verses: 90
 status: draft
 ---
 
@@ -577,4 +577,156 @@ status: draft
 \gla nīvaraṇavippayuttā kho pana dhammā nīvaraṇiyāpi anīvaraṇiyāpi
 \glb dissociated-from-hindrances -- -- States may-be-favourable-to-hindrances unfavourable
 \ex -
+```
+
+## ^1-0b-50
+
+```gloss
+\gla parāmāsā dhammā no parāmāsā dhammā
+\glb perversions States are-not perversions States
+\ex States that are perversions; are not perversions.
+```
+
+## ^1-0b-51
+
+```gloss
+\gla parāmaṭṭhā dhammā aparāmaṭṭhā dhammā
+\glb perverted States unperverted States
+\ex States that are perverted; unperverted.
+```
+
+## ^1-0b-52
+
+```gloss
+\gla parāmāsasampayuttā dhammā parāmāsavippayuttā dhammā
+\glb associated-with-perversion States dissociated-from-perversion States
+\ex States that are associated with perversion; dissociated from perversion.
+```
+
+## ^1-0b-53
+
+```gloss
+\gla parāmāsā ceva dhammā parāmaṭṭhā ca parāmaṭṭhā ceva dhammā no ca parāmāsā
+\glb perversions both States perverted and perverted both States are-not and perversions
+\ex States that are both perversions and perverted; are the latter but not the former.
+```
+
+## ^1-0b-54
+
+```gloss
+\gla parāmāsavippayuttā kho pana dhammā parāmaṭṭhāpi aparāmaṭṭhāpi
+\glb dissociated-from-perversion but -- States perverted or-unperverted
+\ex States that are dissociated from perversion, but are either perverted or unperverted.
+```
+
+## ^1-0b-55
+
+```gloss
+\gla sārammaṇā dhammā anārammaṇā dhammā
+\glb have-objects-of-thought States have-not-such States
+\ex States that have objects of thought; have not such.
+```
+
+## ^1-0b-56
+
+```gloss
+\gla cittā dhammā no cittā dhammā
+\glb have-thought States have-not-thought States
+\ex States that have thought; have not thought.
+```
+
+## ^1-0b-57
+
+```gloss
+\gla cetasikā dhammā acetasikā dhammā
+\glb mental-properties States not-such States
+\ex States that are mental properties; are not such.
+```
+
+## ^1-0b-58
+
+```gloss
+\gla cittasampayuttā dhammā cittavippayuttā dhammā
+\glb associated-with-thought States dissociated-from-thought States
+\ex States that are associated with thought; dissociated from thought.
+```
+
+## ^1-0b-59
+
+```gloss
+\gla cittasaṃsaṭṭhā dhammā cittavisaṃsaṭṭhā dhammā
+\glb conjoined-with-thought States detached-from-thought States
+\ex States that are conjoined with thought; detached from thought.
+```
+
+## ^1-0b-60
+
+```gloss
+\gla cittasamuṭṭhānā dhammā no cittasamuṭṭhānā dhammā
+\glb sprung-from-thought States are-not-so States
+\ex States that are sprung from thought; are not so.
+```
+
+## ^1-0b-61
+
+```gloss
+\gla cittasahabhuno dhammā no cittasahabhuno dhammā
+\glb come-into-being-together-with-thought States do-not-so-come-into-being States
+\ex States that come into being together with thought; do not so come into being.
+```
+
+## ^1-0b-62
+
+```gloss
+\gla cittānuparivattino dhammā no cittānuparivattino dhammā
+\glb consecutive-to-thought States are-not-so States
+\ex States that are consecutive to thought; are not so.
+```
+
+## ^1-0b-63
+
+```gloss
+\gla cittasaṃsaṭṭhasamuṭṭhānā dhammā no cittasaṃsaṭṭhasamuṭṭhānā dhammā
+\glb conjoined-with-and-sprung-from-thought States are-not-so States
+\ex States that are conjoined with and sprung from thought; are not so.
+```
+
+## ^1-0b-64
+
+```gloss
+\gla cittasaṃsaṭṭhasamuṭṭhānasahabhuno dhammā no cittasaṃsaṭṭhasamuṭṭhānasahabhuno dhammā
+\glb conjoined-with-sprung-from-come-into-being-together-with-thought States are-not-so States
+\ex States that are conjoined with, sprung from, come into being together with thought; are not so.
+```
+
+## ^1-0b-65
+
+```gloss
+\gla cittasaṃsaṭṭhasamuṭṭhānānuparivattino dhammā no cittasaṃsaṭṭhasamuṭṭhānānuparivattino dhammā
+\glb conjoined-with-sprung-from-consecutive-to-thought States are-not-so States
+\ex States that are conjoined with, sprung from, consecutive to thought; are not so.
+```
+
+## ^1-0b-66
+
+```gloss
+\gla ajjhattikā dhammā bāhirā dhammā
+\glb one's-own States external States
+\ex States that are one's own; are external.
+```
+
+## ^1-0b-67
+
+```gloss
+\gla upādā dhammā no upādā dhammā
+\glb derived States are-not derived States
+\ex States that are derived; are not derived.
+```
+
+## ^1-0b-68
+
+```gloss
+\gla upādiṇṇā dhammā anupādiṇṇā dhammā
+\glb grasped-at States are-not grasped-at States
+\ex States that are grasped at; are not grasped at.
 ```
