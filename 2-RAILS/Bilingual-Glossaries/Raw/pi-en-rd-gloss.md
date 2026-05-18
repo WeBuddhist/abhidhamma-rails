@@ -15,7 +15,7 @@ status: draft
 
 ```gloss
 \gla kusalā dhammā akusalā dhammā abyākatā dhammā
-\glb good States bad States indeterminate States
+\glb good States bad (States) indeterminate (States)
 \ex States that are good, bad, indeterminate.
 ```
 
@@ -23,47 +23,47 @@ status: draft
 
 ```gloss
 \gla sukhāya vedanāya sampayuttā dhammā dukkhāya vedanāya sampayuttā dhammā adukkhamasukhāya vedanāya sampayuttā dhammā
-\glb pleasant feeling associated_with States painful feeling (associated_with) (States) neutral_(not_painful_not_pleasant) feeling (associated_with) (States)
+\glb pleasant feeling associated_with States painful feeling (associated_with) (States) neutral (not_painful_not_pleasant) feeling (associated_with) (States)
 \ex States that are associated with pleasant feeling, painful feeling, neutral feeling.
 ```
 
 ## ^1-0a-3
 
 ```gloss
-\gla vipākā dhammā vipākadhammadhammā nevavipākanavipākadhammadhammā
-\glb results States resultant-quality neither-[results-resultant-quality]
+\gla vipākā dhammā vipākadhamma dhammā neva-vipāka-na-vipākadhamma dhammā
+\glb results States resultant_quality (States) neither (States)
 \ex States that are results; that have resultant quality; that are neither.
 ```
 
 ## ^1-0a-4
 
 ```gloss
-\gla upādiṇṇupādāniyā dhammā anupādiṇṇupādāniyā dhammā anupādiṇṇaanupādāniyā dhammā
-\glb grasped-at-and-favourable-to-grasping States not-grasped-at-but-are-favourable-to-grasping States neither-[grasped-at-and-favourable-to-grasping-not-grasped-at-but-are-favourable-to-grasping] States
+\gla upādiṇṇa upādāniyā dhammā anupādiṇṇa upādāniyā dhammā anupādiṇṇa-anupādāniyā dhammā
+\glb grasped_at and_favourable_to_grasping States not_grasped_at but_are_favourable_to_grasping (States) neither (States)
 \ex States that are grasped at and favourable to grasping; that are not grasped at but are favourable to grasping; that are neither.
 ```
 
 ## ^1-0a-5
 
 ```gloss
-\gla saṃkiliṭṭhasaṃkilesikā dhammā asaṃkiliṭṭhasaṃkilesikā dhammā asaṃkiliṭṭhaasaṃkilesikā dhammā
-\glb vitiated-and-vicious States not-vitiated-but-are-vicious States neither-[vitiated-and-vicious-not-vitiated-but-are-vicious] States
+\gla saṃkiliṭṭha saṃkilesikā dhammā asaṃkiliṭṭha saṃkilesikā dhammā asaṃkiliṭṭha-asaṃkilesikā dhammā
+\glb vitiated and_vicious States not_vitiated but_are_vicious (States) neither (States)
 \ex States that are vitiated and vicious; that are not vitiated but are vicious; that are neither.
 ```
 
 ## ^1-0a-6
 
 ```gloss
-\gla savitakkasavicārā dhammā avitakkavicāramattā dhammā avitakkaavicārā dhammā
-\glb applied-and-sustained-thinking States sustained-thinking-only States neither-[applied-and-sustained-thinking-sustained-thinking-only] States
+\gla sa-vitakka sa-vicārā dhammā a-vitakka vicāramattā dhammā a-vitakka a-vicārā dhammā
+\glb applied and_sustained_thinking States -- sustained_thinking_only (States) neither (States)
 \ex States that have applied and sustained thinking; sustained thinking only; neither.
 ```
 
 ## ^1-0a-7
 
 ```gloss
-\gla pītisahagatā dhammā sukhasahagatā dhammā upekkhāsahagatā dhammā
-\glb accompanied-by-zest States happiness States indifference States
+\gla pīti sahagatā dhammā sukha sahagatā dhammā upekkhā sahagatā dhammā
+\glb zest accompanied_by States happiness (accompanied_by) (States) indifference (accompanied_by) (States)
 \ex States that are accompanied by zest; by happiness; by indifference.
 ```
 
@@ -71,7 +71,7 @@ status: draft
 
 ```gloss
 \gla dassanena pahātabbā dhammā bhāvanāya pahātabbā dhammā neva dassanena na bhāvanāya pahātabbā dhammā
-\glb by-vision put-away States by-culture put-away States neither vision -- culture put-away States
+\glb by_vision put_away States by_culture put_away (States) neither vision -- culture put_away (States)
 \ex States that are to be put away by vision; by culture; by neither.
 ```
 
@@ -79,7 +79,7 @@ status: draft
 
 ```gloss
 \gla dassanena pahātabbahetukā dhammā bhāvanāya pahātabbahetukā dhammā neva dassanena na bhāvanāya pahātabbahetukā dhammā
-\glb by-vision moral-roots-to-be-put-away States by-culture moral-roots-to-be-put-away States neither vision -- culture moral-roots-to-be-put-away States
+\glb by_vision moral_roots_to_be_put_away States by_culture moral_roots_to_be_put_away (States) neither vision -- culture moral_roots_to_be_put_away (States)
 \ex States, the moral roots of which are to be put away by vision; by culture; by neither.
 ```
 
@@ -87,7 +87,7 @@ status: draft
 
 ```gloss
 \gla ācayagāmino dhammā apacayagāmino dhammā nevācayagāmināpacayagāmino dhammā
-\glb going-to-building-up States going-to-pulling-down States neither-[going-to-building-up-going-to-pulling-down] States
+\glb going_to_building_up States going_to_pulling_down (States) neither (States)
 \ex States going to building up; going to pulling down; going to neither.
 ```
 
@@ -95,7 +95,7 @@ status: draft
 
 ```gloss
 \gla sekkhā dhammā asekkhā dhammā nevasekkhanāsekkhā dhammā
-\glb of-one-in-training States the-adept States neither-[of-one-in-training-the-adept] States
+\glb of_one_in_training States the_adept (States) neither (States)
 \ex States of one in training; of the adept; of one who is neither.
 ```
 
@@ -103,15 +103,15 @@ status: draft
 
 ```gloss
 \gla parittā dhammā mahaggatā dhammā appamāṇā dhammā
-\glb limited States sublime States infinite States
+\glb limited States sublime (States) infinite (States)
 \ex States that are limited, sublime, infinite.
 ```
 
 ## ^1-0a-13
 
 ```gloss
-\gla parittārammaṇā dhammā mahaggatārammaṇā dhammā appamāṇārammaṇā dhammā
-\glb have-a-limited-object States sublime-object States neither-[have-a-limited-object-sublime-object] States
+\gla parittā rammaṇā dhammā mahaggatā rammaṇā dhammā appamāṇā rammaṇā dhammā
+\glb limited object States sublime object (States) neither (States) (States)
 \ex States that have a limited object; a sublime object; neither.
 ```
 
@@ -119,7 +119,7 @@ status: draft
 
 ```gloss
 \gla hīnā dhammā majjhimā dhammā paṇītā dhammā
-\glb base States of-medium-worth States excellent States
+\glb base States of_medium_worth (States) excellent (States)
 \ex States that are base; of medium worth; excellent.
 ```
 
@@ -127,7 +127,7 @@ status: draft
 
 ```gloss
 \gla micchattaniyatā dhammā sammattaniyatā dhammā aniyatā dhammā
-\glb wrongfulness-fixed-as-to-consequences States righteousness-fixed-as-to-consequences States do-not-entail-fixed-consequences States
+\glb wrongfulness_fixed_as_to_consequences States righteousness_fixed_as_to_consequences (States) do_not_entail_fixed_consequences (States)
 \ex States that are of a wrongfulness fixed as to consequences; that are of a righteousness fixed as to consequences; that do not entail fixed consequences.
 ```
 
@@ -135,7 +135,7 @@ status: draft
 
 ```gloss
 \gla maggārammaṇā dhammā maggahetukā dhammā maggādhipatino dhammā
-\glb have-the-Path-as-object States whose-moral-root-is-the-Path States whose-dominant-influence-is-the-Path States
+\glb have_the_Path_as_object States whose_moral_root_is_the_Path (States) whose_dominant_influence_is_the_Path (States)
 \ex States that have the Path as object; whose moral root is the Path; whose dominant influence is the Path.
 ```
 
@@ -143,7 +143,7 @@ status: draft
 
 ```gloss
 \gla uppannā dhammā anuppannā dhammā uppādino dhammā
-\glb arisen States have-not-arisen States bound-to-arise States
+\glb arisen States have_not_arisen (States) bound_to_arise (States)
 \ex States that have arisen; that have not arisen; that are bound to arise.
 ```
 
@@ -151,15 +151,15 @@ status: draft
 
 ```gloss
 \gla atītā dhammā anāgatā dhammā paccuppannā dhammā
-\glb past States future States present States
+\glb past States future (States) present (States)
 \ex States that are past; present; future.
 ```
 
 ## ^1-0a-19
 
 ```gloss
-\gla atītārammaṇā dhammā anāgatārammaṇā dhammā paccuppannārammaṇā dhammā
-\glb the-past-as-their-object States the-future-as-their-object States the-present-as-their-object States
+\gla atītā rammaṇā dhammā anāgatā rammaṇā dhammā paccuppannā rammaṇā dhammā
+\glb the_past as_their_object States the_future as_their_object (States) the_present as_their_object (States)
 \ex States that have the past as their object; the present as their object; the future as their object.
 ```
 
@@ -167,23 +167,23 @@ status: draft
 
 ```gloss
 \gla ajjhattā dhammā bāhiddhā dhammā ajjhattabahiddhā dhammā
-\glb belong-to-one's-self States are-external-to-one's-self States are-belonging-or-external-to-one's-self States
+\glb belong_to_one's_self States are_external_to_one's_self (States) are_belonging_or_external_to_one's_self (States)
 \ex States that belong to one's self; are external to one's self; are belonging or external to one's self.
 ```
 
 ## ^1-0a-21
 
 ```gloss
-\gla ajjhattārammaṇā dhammā bahiddhārammaṇā dhammā ajjhattabahiddhārammaṇā dhammā
-\glb for-an-object-one's-self States object-external-to-one's-self States object-that-is-both States
+\gla ajjhattā rammaṇā dhammā bahiddhā rammaṇā dhammā ajjhattabahiddhā rammaṇā dhammā
+\glb one's_self for_an_object States object external_to_one's_self (States) object_that_is_both (States) (States)
 \ex States that have for an object one's self; an object external to one's self; an object that is both.
 ```
 
 ## ^1-0a-22
 
 ```gloss
-\gla sanidassanasappaṭighā dhammā anidassanasappaṭighā dhammā anidassanaappaṭighā dhammā
-\glb visible-and-reacting States invisible-and-reacting States neither-[visible-and-reacting-invisible-and-reacting] States
+\gla sanidassana sappaṭighā dhammā anidassana sappaṭighā dhammā anidassana appaṭighā dhammā
+\glb visible and_reacting States invisible and_reacting (States) neither (States) (States)
 \ex States that are visible and reacting; invisible and reacting; neither.
 ```
 
@@ -511,7 +511,7 @@ status: draft
 
 ```gloss
 \gla yogā ceva dhammā yoganiyā ca yoganiyā ceva dhammā no ca yogā
-\glb [bonds] [both] States [favourable-to-bonds] [and] [favourable-to-bonds] [both] States [are-not] [and] [bonds]
+\glb [bonds] [both] States [favourable-to-floods] [and] [favourable-to-floods] [both] States [are-not] [and] [floods]
 \ex States that are both bonds and favourable to bonds; that are the latter but not the former.
 ```
 
