@@ -9,13 +9,8 @@ pitaka: abhidhamma
 root_text: 1-SOURCES/Text/pi-dhammasangani.md
 translator: C.A.F. Rhys Davids, A Buddhist Manual of Psychological Ethics (PTS, 1900)
 translation_basis: C.A.F. Rhys Davids 1900 PTS translation, segment-aligned to the Pāli Dhammasaṅgaṇī
-coverage: partial  # untranslated segments marked with -
-copyright: >
-  © Pali Text Society. Digital edition: For non-commercial use only.
-  Scanned by www.abhidhamma.ru; typeset by www.abhidhamma.de.
-  SuttaCentral edition prepared by Manfred Wierich, proofread by Ariya Baumann,
-  converted to HTML by Ven. Vimala.
-  Licence: https://palitextsociety.org/copyright-information/
+coverage: partial
+copyright: "© Pali Text Society. Digital edition: For non-commercial use only. Scanned by www.abhidhamma.ru; typeset by www.abhidhamma.de. SuttaCentral edition prepared by Manfred Wierich, proofread by Ariya Baumann, converted to HTML by Ven. Vimala. Licence: https://palitextsociety.org/copyright-information/"
 ---
 
 Homage to the Blessed One, the Arahant, the Perfectly Enlightened One.

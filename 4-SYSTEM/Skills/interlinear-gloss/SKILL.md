@@ -1,15 +1,14 @@
 ---
 name: interlinear-gloss
-description: For one root text + one translation, build an interlinear gloss file at 2-RAILS/Bilingual-Glossaries/Raw/<source>-<target>-gloss.md. Each verse becomes a ```gloss``` block in the Obsidian Interlinear Glossing plugin format (\gla / \glb / \glc / \ex), pairing source tokens against their morphological analysis, token-by-token target glosses, and the translator's free translation. Run once per translation. The output is what glossary-extract-raw reads to catalogue keyword renderings.
+description: For one root text + one translation, build an interlinear gloss file at 2-RAILS/Bilingual-Glossaries/Raw/<source>-<target>-gloss.md. Each verse becomes a ```gloss``` block in the Obsidian Interlinear Glossing plugin format (\gla / \glc / \ex), pairing source tokens against token-by-token target glosses and the translator's free translation. Run once per translation. The output is what glossary-extract-raw reads to catalogue keyword renderings.
 ---
 
 # interlinear-gloss
 
-This skill creates the **interlinear gloss file** that pairs one root text against one translation, verse by verse. Each verse is rendered as a four-line `gloss` block:
+This skill creates the **interlinear gloss file** that pairs one root text against one translation, verse by verse. Each verse is rendered as a three-line `gloss` block:
 
-- `\gla` — source-language tokens (Pali, in PTS Roman diacritics).
-- `\glb` — morphology / lemma analysis, one token per source token, hyphen-separated where the source has compounds.
-- `\glc` — token-by-token gloss in the target language, one entry per source token, lined up by position.
+- `\gla` — source-language tokens (Pali, in PTS Roman diacritics). Long compounds may be split into their component parts when that helps the alignment.
+- `\glc` — token-by-token gloss in the target language, one entry per `\gla` token, lined up by position. **Every word used in `\glc` must come verbatim from the translator's `\ex` line — do not introduce new terminology or paraphrase.**
 - `\ex` — the translator's free translation of the verse, verbatim from the translation file.
 
 A gloss block is the **token-level alignment** that all downstream bilingual glossary work depends on. `glossary-extract-raw` reads these files to find keyword renderings; `local-wiki-article` cites them when documenting how a term is rendered across translations; `glossary-select` consults them when judging whether an attested rendering meets a track's requirements.
@@ -43,7 +42,7 @@ Examples:
 | `bn-dhammasangani.md` (lang_tag `bn`) | `2-RAILS/Bilingual-Glossaries/Raw/pi-bn-gloss.md` |
 | `sin-dhammasangani.md` (lang_tag `sin`) | `2-RAILS/Bilingual-Glossaries/Raw/pi-sin-gloss.md` |
 
-If the file already exists, update in place: keep manually filled `\glb` and `\glc` lines, and only refresh `\gla` and `\ex` from the underlying source files (so re-running this skill after the root text or translation is re-formatted does not lose token-gloss work).
+If the file already exists, update in place: keep manually filled `\glc` lines, and only refresh `\gla` and `\ex` from the underlying source files (so re-running this skill after the root text or translation is re-formatted does not lose token-gloss work).
 
 ---
 
@@ -67,7 +66,6 @@ status: draft
 
 `​`​`​gloss
 \gla    <source token 1>   <source token 2>   <source token 3>   ...
-\glb    <lemma-1.morph>    <lemma-2.morph>    <lemma-3.morph>    ...
 \glc    <target gloss 1>   <target gloss 2>   <target gloss 3>   ...
 \ex     <free translation, verbatim from the translation file>
 `​`​`
@@ -85,20 +83,32 @@ One `##` heading per verse block, using the block ID with the caret. One `gloss`
 
 ## Format rules — Obsidian Interlinear Glossing plugin
 
-The plugin (`Interlinear Glossing` by the Obsidian community) renders ```` ```gloss ```` blocks as aligned columns where every token on the `\gla` line lines up with the token at the same position on `\glb` and `\glc`. For the rendering to be correct:
+The plugin (`Interlinear Glossing` by the Obsidian community) renders ```` ```gloss ```` blocks as aligned columns where every token on the `\gla` line lines up with the token at the same position on `\glc`. For the rendering to be correct:
 
-1. **One token per column.** Splitting is by whitespace on the `\gla` line. The number of whitespace-separated tokens on `\glb` and `\glc` must match `\gla` exactly.
-2. **Multi-word concepts are joined with hyphens, not spaces.** If "having paid homage" glosses a single Pali absolutive, write it as `having-paid-homage` on `\glc` so it occupies one column.
-3. **Empty cells use `--`.** If a `\glb` or `\glc` entry is genuinely blank, write `--` so the column count stays consistent.
-4. **Compound parts use `+` on `\glb`.** Sanskrit-style compound analysis: `sa+gaṇa` for *sagaṇa*. The `\glc` line glosses the whole compound, not its parts, unless the analysis on `\glb` splits it into separate columns.
+1. **One token per column.** Splitting is by whitespace on the `\gla` line. The number of whitespace-separated tokens on `\glc` must match `\gla` exactly.
+2. **Compounds may be split on `\gla`.** When a Pali compound is long enough that splitting it produces a cleaner alignment, write its parts as separate space-separated tokens on `\gla` (and add the corresponding gloss cells on `\glc`). For short or familiar compounds, keep them as a single token.
+3. **Multi-word concepts are joined with hyphens, not spaces.** If "having paid homage" glosses a single Pali token, write it as `having-paid-homage` on `\glc` so it occupies one column.
+4. **Missing glosses use `--`, never the Pali original.** When no word in `\ex` corresponds to a `\gla` token, write `--`. Never copy the Pali token itself into `\glc` as a fallback — a Pali word in `\glc` looks like a gloss but is not one, and it corrupts downstream glossary extraction.
 5. **No trailing punctuation on `\gla`.** Period, comma, semicolon, question mark — strip from the token. They re-appear in the `\ex` line via the translation.
 6. **`\ex` is verbatim from the translator.** Do not paraphrase, do not normalise punctuation, do not strip footnote markers. This line is what `glossary-extract-raw` reads as the canonical rendering of the verse.
+7. **`\glc` draws exclusively from `\ex` — no exceptions.** Every `\glc` cell must be a word (or hyphen-joined phrase) whose component words all appear verbatim in the `\ex` line for that same block. This means: no synonyms, no paraphrases, no knowledge-based translations, and no Pali originals. The only permitted departure is `--`. When the translator's wording does not map cleanly to a source token, `--` is the correct and complete answer — it honestly records the gap rather than filling it with an invented equivalent.
+
+   **Example** — `\ex States that are good, bad, indeterminate.`
+
+   | `\gla` | correct `\glc` | wrong `\glc` |
+   |---|---|---|
+   | `kusalā` | `good` | `wholesome` ← not in `\ex` |
+   | `dhammā` | `states` | `states` ✓ |
+   | `akusalā` | `bad` | `unwholesome` ← not in `\ex` |
+   | `dhammā` | `states` | `states` ✓ |
+   | `abyākatā` | `indeterminate` | `indeterminate` ✓ |
+   | `dhammā` | `states` | `states` ✓ |
 
 ---
 
 ## Procedure
 
-The recommended path is the scaffold helper followed by an LLM pass for the `\glb` and `\glc` lines.
+The recommended path is the scaffold helper followed by an LLM pass for the `\glc` line.
 
 1. **Run the scaffold script:**
 
@@ -109,16 +119,17 @@ The recommended path is the scaffold helper followed by an LLM pass for the `\gl
        2-RAILS/Bilingual-Glossaries/Raw/pi-en-rd-gloss.md
    ```
 
-   The script aligns blocks by `^block-id`, emits one `##` heading per paired block, and scaffolds each `gloss` block with `\gla` populated from the source tokens and `\ex` populated verbatim from the translation. The `\glb` and `\glc` lines are scaffolded with `--` placeholders at the right column count.
+   The script aligns blocks by `^block-id`, emits one `##` heading per paired block, and scaffolds each `gloss` block with `\gla` populated from the source tokens and `\ex` populated verbatim from the translation. The `\glc` line is scaffolded with `--` placeholders at the right column count.
 
 2. **Spot-check the scaffold.** Confirm: every block in the source has a matching `##` heading; `\gla` tokens look clean (no stray punctuation); the `\ex` line matches the translation file's body. The frontmatter `total_verses` matches the heading count.
 
-3. **Fill `\glb` and `\glc`, verse by verse or in batches.** This is the LLM-driven half. For each verse:
-   - On `\glb`, write the lemma + morphology for each token, using compound markers `+` where compounds are present, and Leipzig-style POS/inflection markers where they help.
-   - On `\glc`, write the token-by-token gloss in the target language. Each `\glc` cell aligns with the `\gla` token at the same position. Use hyphens to bind multi-word concepts.
-   - Keep `--` only when a token genuinely has no analysis or no gloss (rare; usually one of the two lines has something).
+3. **Fill `\glc`, verse by verse or in batches.** This is the LLM-driven half. The procedure for each cell is:
+   a. Read the `\ex` line for the block.
+   b. Find the word or phrase in `\ex` that most directly corresponds to this `\gla` token. Use only words that appear verbatim in `\ex`; join multi-word phrases with hyphens.
+   c. If no word in `\ex` corresponds to this token, write `--`. Do not substitute the Pali token, do not use a synonym, do not use background knowledge of what the Pali means.
+   - Where a scaffold token on `\gla` is a long compound that would be clearer split, replace the single compound token with its space-separated parts and extend `\glc` with one cell per part.
 
-4. **Verify column count.** Run the scaffold script with `--validate` to re-check that `\glb` and `\glc` have the same number of whitespace-separated tokens as `\gla` for every block:
+4. **Verify column count.** Run the scaffold script with `--validate` to re-check that `\glc` has the same number of whitespace-separated tokens as `\gla` for every block:
 
    ```bash
    python3 4-SYSTEM/Skills/interlinear-gloss/scripts/scaffold_gloss.py \
@@ -133,8 +144,8 @@ The recommended path is the scaffold helper followed by an LLM pass for the `\gl
 
 The scaffold script can be re-run safely:
 
-- Existing `\glb` and `\glc` lines are preserved if their token count still matches `\gla` after the source text is re-read.
-- If the source text was re-formatted (e.g. a verse was retokenised), the affected `\glb` and `\glc` lines are reset to `--` placeholders and the change is flagged in stderr so you can review.
+- Existing `\glc` lines are preserved if their token count still matches `\gla` after the source text is re-read.
+- If the source text was re-formatted (e.g. a verse was retokenised), the affected `\glc` lines are reset to `--` placeholders and the change is flagged in stderr so you can review.
 - `\gla` and `\ex` are always refreshed from the underlying source files.
 
 ---
@@ -152,8 +163,9 @@ The scaffold script can be re-run safely:
 
 - [ ] One `##` heading per source-text block, in source order
 - [ ] One `gloss` code block per `##` heading
-- [ ] `\gla`, `\glb`, `\glc`, `\ex` all present in every block
-- [ ] Token count matches across `\gla`, `\glb`, `\glc` for every block (use `--validate`)
+- [ ] `\gla`, `\glc`, `\ex` all present in every block
+- [ ] Token count matches across `\gla` and `\glc` for every block (use `--validate`)
 - [ ] `\ex` is verbatim from the translation file
 - [ ] Frontmatter `total_verses` matches the heading count
-- [ ] `--` placeholders remain only where a true gap exists, not as un-filled work
+- [ ] No `\glc` cell contains a Pali word or a term absent from the corresponding `\ex` line
+- [ ] `--` is used wherever the translation provides no corresponding word — not a Pali fallback
