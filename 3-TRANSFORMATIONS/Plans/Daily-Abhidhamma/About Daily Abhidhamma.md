@@ -2,35 +2,61 @@
 
 A 200-day reading-and-chanting journey through the Abhidhamma, prepared in collaboration with the **International Tipiṭaka Chanting Council (ITCC)** in the run-up to the chanting gathering at Bodhgayā, December 2026.
 
-This is a **Plan track** in the sense of [`../About Plans.md`](../About Plans.md): a calendar-driven engagement with the text generated from completed rails. The category-wide rules for plans live there; this README is the per-plan brief pointer plus the folder map.
+This is a **Plan track** in the sense of [`../About Plans.md`](../About%20Plans.md): a calendar-driven engagement with the text generated from completed rails. The category-wide rules for plans live there; this file is the cross-language brief and folder map for the Daily-Abhidhamma plan specifically.
 
-## Where to start
+## Per-session shape (all languages)
 
-1. [`requirements.md`](requirements.md) — the full brief: purpose, audience, the seven-step daily structure, languages, status rules.
-2. [`plans/About Plan Arcs.md`](plans/About Plan Arcs.md) — how the 200 days are organised into short plans (arcs).
-3. [`days/_template/day-template.md`](days/_template/day-template.md) — the per-day file template.
-4. [`schedule/calendar.md`](schedule/calendar.md) — the master day-to-date table.
+Every day-file follows this seven-step structure, regardless of language. Individual language `requirements.md` files fill in the language-specific rendering of each step.
+
+1. **Opening liturgy** — vandanā / aspiration in the source language
+2. **Text of the day** — transcluded from the relevant Translation track output
+3. **Pāli Word of the Day** — one term from the Local-Wiki, with the target-language rendering from the termbase
+4. **Reading for meaning** — a short commentary passage from the Section or Verse rail
+5. **Reflection prompt** — one or two questions for personal practice
+6. **Closing liturgy** — aspiration in the target language
+7. **Notifications** — push notification, social media copy, email subject line (ready to send)
+
+## Languages published
+
+| Language | Folder | Status |
+| -------- | ------ | ------ |
+| Pāli (source) | `pi/` | scaffolded days 1–10 |
+| English | `en/` | scaffolded days 1–10 |
+| Tibetan | `bo/` | scaffolded days 1–10 |
+| Chinese | `zh/` | scaffolded days 1–10 |
+| Hindi | `hi/` | scaffolded days 1–10 |
+
+Bengali (`bn/`) is a planned addition; not yet started.
+
+## Where to start (per language)
+
+Each language stream is self-contained. For any stream, read in this order:
+
+1. `<lang>/requirements.md` — style contract for that stream (in the target language).
+2. `<lang>/termbase.md` — vocabulary contract.
+3. `<lang>/schedule.md` — day-by-day calendar.
+4. `<lang>/days/day-1.md` — the first day file, as the canonical working example.
 
 ## Folder map
 
 ```
 Daily-Abhidhamma/
-├── requirements.md # the brief governing the whole journey
-├── termbase.md # standard term renderings used across all days/languages
-├── schedule/ # calendar + milestones
-├── plans/ # the 200 days organised into short plans (internal arcs)
-├── days/ # the per-day content
-│ ├── _template/ # the template each day-file follows
-│ ├── pi/ day-001.md … day-010.md (scaffolded)
-│ ├── en/ day-001.md … day-010.md (scaffolded)
-│ ├── bo/ day-001.md … day-010.md (scaffolded)
-│ ├── zh/ day-001.md … day-010.md (scaffolded)
-│ └── hi/ day-001.md … day-010.md (scaffolded)
-├── communications/ # announcements, daily notifications, social media
-└── assets/ # fixed liturgy, chanting audio, images
+├── About Daily Abhidhamma.md   # this file — cross-language brief
+└── <lang>/                     # one per published language
+    ├── requirements.md         # style contract (in target language)
+    ├── termbase.md             # vocabulary contract
+    ├── schedule.md             # day-by-day calendar
+    ├── days/
+    │   ├── day-1.md            # intro day (plan overview + text + notifications)
+    │   ├── day-2.md
+    │   └── ...                 # days 11–200 created plan-arc by plan-arc
+    ├── communications/
+    │   └── announcements.md
+    └── assets/
+        └── images/
 ```
 
-Days 11–200 are not yet scaffolded; create them plan-arc by plan-arc as content is written, using `days/_template/day-template.md`.
+Days 11–200 are not yet scaffolded. Create them plan-arc by plan-arc as content is written, using `en/days/day-1.md` as the canonical template.
 
 ## Rails ↔ days
 

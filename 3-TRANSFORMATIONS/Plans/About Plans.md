@@ -1,65 +1,147 @@
-# Plans
+# Plans — per-plan convention
 
-Calendar-driven study and practice arcs — daily readings, weekly retreat sessions, a year-long course, a chanting preparation arc. A plan organises engagement with the text along a calendar: each day or session is generated from rails (and often from completed Translation or Adaptation outputs), then arranged into a publishable schedule with surrounding communications and assets.
+This folder holds calendar-driven study and practice arcs: daily readings, weekly retreat sessions, year-long courses, chanting schedules. Each plan organises engagement with the text along a calendar, generating per-session content from rails (and often from completed Translation or Adaptation outputs).
 
-Each subfolder is one **plan track** — one coherent calendar-organised output stream:
+See [`../About Transformations.md`](../About%20Transformations.md) for the top-level rules that govern all transformation categories.
+
+The currently active plan is [`Daily-Abhidhamma/`](Daily-Abhidhamma/) — the 200-day reading-and-chanting journey prepared in collaboration with the International Tipiṭaka Chanting Council for Bodhgayā, December 2026.
+
+---
+
+## Plan structure
+
+Each plan is one subfolder. Inside that folder, language streams are completely separate — one subfolder per language code. The plan root holds only the cross-language overview document.
 
 ```
 Plans/
-└── <plan-id>/
- ├── requirements.md # narrative brief governing the plan
- ├── termbase.md # (optional) standard term renderings across all sessions
- ├── schedule/ # calendar + milestones
- ├── plans/ # internal arc structure (if the plan has multiple sub-arcs)
- ├── days/ # per-session content, typically one subfolder per language
- │ ├── _template/ # the template each session file follows
- │ ├── <lang>/ # e.g. pi/, en/, bo/, zh/, hi/
- │ └──...
- ├── communications/ # announcements, notifications, social media
- └── assets/ # fixed liturgy, audio, images
+└── <plan-name>/                # e.g. Daily-Abhidhamma
+    ├── About <plan-name>.md    # plan overview, cross-language structure, session shape
+    └── <lang>/                 # one folder per published language (e.g. en/, bn/, pi/, bo/, zh/, hi/)
+        ├── requirements.md     # style contract for this language stream (in target language)
+        ├── schedule.md         # day-by-day calendar for this language
+        ├── termbase.md         # vocabulary contract for this language
+        ├── days/               # per-session output files
+        │   ├── day-1.md        # intro day: plan overview + text of day + notifications
+        │   ├── day-2.md
+        │   └── ...
+        ├── communications/     # outreach content for this language
+        │   ├── announcements.md
+        │   └── ...
+        └── assets/
+            ├── images/
+            └── ...
 ```
 
-For the category-wide convention (what `requirements.md` must contain, the citation chain, the status lifecycle), see [`../About Transformations.md`](../About Transformations.md).
+### Why per-language subfolders
+
+Keeping each language stream self-contained lets teams work independently — the English drafters don't touch the Bengali folder, and vice versa. It also means each language stream can be at a different completion stage: `en/` may be `complete` while `bo/` is still `draft`, with no risk of mixing content.
 
 ---
 
-## Why plans use `requirements.md` instead of `requirements.md + termbase.md`
+## The plan root: `About <plan-name>.md`
 
-Plans cover so much surface area — multiple languages, multiple session formats, communications cadence, supporting assets, calendar mapping — that a single narrative brief is easier to keep coherent than a split style-plus-vocabulary pair. The brief still functions as the binding contract, but it reads like a project brief rather than a translator's specification.
+The single file at the plan root is the cross-language overview. It covers:
 
-Plans that lock specific renderings across all sessions/languages add a `termbase.md` alongside; plans that work from per-language Translation track outputs (e.g. Daily-Abhidhamma) inherit those translations' termbases instead.
-
----
-
-## Per-track convention
-
-### `requirements.md`
-
-Required. Written in English (or the primary working language of the plan team). Covers:
-
-- **Purpose** — what does completing this plan give a practitioner?
-- **Audience** — who is it for? what prior practice do they have?
-- **Per-session shape** — the fixed structure every session follows (e.g. Daily-Abhidhamma's seven-step daily structure).
-- **Calendar policy** — how many sessions, how organised into arcs, where the major milestones fall.
-- **Languages** — which language streams are published.
-- **Source-rail dependencies** — which rails each session draws from, and which prior-track outputs (Translations, Adaptations) are embedded.
-- **Communications convention** — what surrounding outreach the plan ships (announcements, daily notifications, social media), what the voice is.
-- **Sample session** — at least one fully-built session, used as the gold standard for drafting subsequent ones.
-
-### `termbase.md`
-
-Use only when the plan locks specific term renderings across all sessions and all languages. For plans that inherit renderings from per-language Translation tracks, point to those termbases instead.
+- **What the plan is** — purpose, duration, intended audience (across all languages).
+- **Per-session shape** — the structure every day-file follows regardless of language (e.g. liturgy → text of the day → commentary → reflection → notifications). This is the binding template; individual language `requirements.md` files fill in the language-specific rendering of each step.
+- **Languages published** — list of `<lang>/` subfolders and their status.
+- **Source-rail dependencies** — which `2-RAILS/` packages each session draws from.
+- **Status rules** — what `draft / partial / complete` mean for plan sessions specifically.
+- **Reading path** — links to each language stream's `requirements.md` and `schedule.md`.
 
 ---
 
-## Working order
+## Per-language files
 
-Build plan-by-plan, not session-by-session across all sessions: finish all language tracks for one arc, review, lock, and only then begin the next arc. This keeps the rhythm steady and surfaces structural problems early.
+### `requirements.md` — language-stream style contract
+
+Written **in the target language**. Covers:
+
+- Target audience and register for this language stream.
+- Rendering conventions for the session steps defined in `About <plan-name>.md`.
+- Communications style (tone, length, platform conventions for announcements and notifications).
+- Cultural-adaptation rules (what to translate, gloss, leave untranslated, or omit).
+- Source-rail dependencies (which rails and which completed outputs from other tracks feed this stream).
+
+### `termbase.md` — vocabulary contract
+
+One chosen rendering per keyword, scoped to the terms that actually appear in the plan's day files. Built by the `glossary-select` skill from the consolidated `2-RAILS/Bilingual-Glossaries/pi-<tgt>.md`, guided by `requirements.md`.
+
+### `schedule.md` — day-by-day calendar
+
+The complete ordered list of days for this language stream: date, day number, verse or section reference, and any language-specific notes (public holidays, local events that affect delivery). One row per session.
 
 ---
 
-## Current plans
+## Day files (`days/day-N.md`)
 
-- **[`Daily-Abhidhamma/`](Daily-Abhidhamma/)** — a 200-day reading-and-chanting journey through the Abhidhamma prepared with the International Tipiṭaka Chanting Council (ITCC) for the chanting gathering at Bodhgayā, December 2026. Five language streams (`pi`, `en`, `bo`, `zh`, `hi`). The plan that the per-track convention above was first written against.
+Each day file is a self-contained publishing unit. Minimum structure:
 
-Add new plans alongside as they are commissioned.
+```yaml
+---
+day: 1
+ref: [verse-id]
+transformation_type: plan-session
+context_packages:
+  - 2-RAILS/Verses/[verse-id].md
+  - 2-RAILS/Sections/[node-id].md
+generation_date: [ISO date]
+status: draft | partial | complete
+---
+```
+
+```markdown
+## [Day title / theme]
+
+[Plan introduction — only on day-1; omitted from subsequent days.]
+
+## Text of the Day
+
+![[3-TRANSFORMATIONS/Translations/[track]/[output].md#^[verse-ref]]]
+
+## [Commentary step, reflection, or practice instruction]
+
+[Content drawn from the verse-context rail, rendered for this audience.]
+
+## Notifications
+
+**Push notification (short):** [~100 characters]
+**Social media:** [~280 characters]
+**Email subject:** [~60 characters]
+```
+
+- Transclude the text of the day from the relevant Translation track output — never copy-paste.
+- All content traces to `2-RAILS/` packages listed in `context_packages:`.
+- The notifications block gives communicators ready-to-send copy for each channel.
+
+---
+
+## Communications folder
+
+`communications/` holds cross-day outreach content for this language stream — material that spans multiple sessions or the plan as a whole:
+
+- `announcements.md` — launch announcement, milestone announcements, closing announcement.
+- Additional files as needed (e.g. `social-media-kit.md`, `email-series.md`).
+
+Per-day notifications live in each `days/day-N.md` file, not here.
+
+---
+
+## Starting a new plan
+
+1. Create `Plans/<plan-name>/`.
+2. Author `About <plan-name>.md` — define the session shape and languages before any language stream begins.
+3. For each language stream: create `Plans/<plan-name>/<lang>/` and author `requirements.md` (in the target language), then run `glossary-select` to produce `termbase.md`.
+4. Build `schedule.md` for each language stream.
+5. Create the `days/` folder; generate day-1 as `draft` using the verse/section rails; iterate through review until `complete` before moving to day-2.
+6. Add communications content as the plan rolls out.
+
+---
+
+## Citation rules for plan sessions
+
+Plan sessions may cite:
+- `2-RAILS/` packages — always.
+- Completed outputs from Translation or Adaptation tracks — when transcluding the text of the day or embedding a commentary rendering. Record these in `context_packages:` the same way as rail packages.
+
+Plan sessions may **not** cite `1-SOURCES/` directly. All source-text content reaches the day file through a Translation track output, never raw.
