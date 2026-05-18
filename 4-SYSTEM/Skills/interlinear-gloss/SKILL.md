@@ -88,13 +88,15 @@ The plugin (`Interlinear Glossing` by the Obsidian community) renders ```` ```gl
 1. **One token per column.** Splitting is by whitespace on the `\gla` line. The number of whitespace-separated tokens on `\glb` must match `\gla` exactly.
 2. **Compounds may be split on `\gla`.** When a Pali compound is long enough that splitting it produces a cleaner alignment, write its parts as separate space-separated tokens on `\gla` (and add the corresponding gloss cells on `\glb`). For short or familiar compounds, keep them as a single token.
 3. **Multi-word concepts are joined with underscores, not spaces.** If "having paid homage" glosses a single Pali token, write it as `having_paid_homage` on `\glb` so it occupies one column.
-4. **Missing glosses and particles use `--` or rounded-bracketed fallbacks, never the Pali original.** When no word in `\ex` corresponds to a `\gla` token, first check if the term is translated in the Rhys Davids translation (`en-rd`). If it is, translate the untranslated pali section into `()` using the existing english translation of the pali term from rhys-davids translation (e.g., `(good)`). If even Rhys Davids does not translate it (common for particles like *kho*, *pana*, *ca*), write `--`. Never copy the Pali token itself into `\glb` as a fallback.
+4. **Missing glosses and particles use `--` or rounded-bracketed fallbacks, never the Pali original.** When no word in `\ex` corresponds to a `\gla` token, first check if the term is translated in the Rhys Davids (`en-rd`) translation. If it is, translate the untranslated pali section into `()` using the existing english translation of the pali term from rhys-davids translation (e.g., `(good)`). If even Rhys Davids does not translate it (common for particles like *kho*, *pana*, *ca*), write `--`. Never copy the Pali token itself into `\glb` as a fallback.
 5. **No trailing punctuation on `\gla`.** Period, comma, semicolon, question mark — strip from the token. They re-appear in the `\ex` line via the translation.
 6. **`\ex` is verbatim from the translator.** Do not paraphrase, do not normalise punctuation, do not strip footnote markers. This line is what `glossary-extract-raw` reads as the canonical rendering of the verse.
 7. **`\glb` draws primarily from `\ex` — with specific fallbacks.** Every `\glb` cell must be a word (or underscore-joined phrase) whose component words all appear verbatim in the `\ex` line for that same block. The permitted departures are:
    - `--` for untranslated particles or gaps.
    - `(rendering)` for terms untranslated in `\ex` but found in the Rhys Davids (`en-rd`) translation.
    - **Rounded-bracketed clarifications for simplified terms:** If a translator simplifies a compound or omits repetitions to avoid wordiness (e.g., using 'neutral' for 'neither-painful-nor-pleasant'), include the missing components in rounded brackets `()`. Use words from the `\ex` line where possible.
+   - **Handling missing repetitions:** When a translator uses a single word to cover multiple Pali tokens (e.g., "neither" for `a-vitakka a-vicāra`), assign the word to the first token and use parenthetical repetitions for the subsequent tokens (e.g., `neither_(applied) (nor_sustained)`) to maintain 1-to-1 alignment and semantic clarity.
+
    No synonyms, no paraphrases, and no Pali originals are allowed.
 
    **Example 1** — `\ex States that are good, bad, indeterminate.`
@@ -129,6 +131,21 @@ The plugin (`Interlinear Glossing` by the Obsidian community) renders ```` ```gl
    | `ganthaniyāpi` | `may_be_favourable_to_ties` | `may_or_may_not_be_favourable_to_ties` ← column mismatch |
    | `aganthaniyāpi` | `may_not_be_favourable_to_ties` | `--` ← less precise |
 
+   **Example 4** — Handling missing repetitions.
+   `\ex States that have applied and sustained thinking; sustained thinking only; neither.`
+
+   | `\gla` | `\glb` |
+   |---|---|
+   | `sa-vitakka` | `applied` |
+   | `sa-vicārā` | `and_sustained_thinking` |
+   | `dhammā` | `States` |
+   | `a-vitakka` | `--` |
+   | `vicāramattā` | `sustained_thinking_only` |
+   | `dhammā` | `(States)` |
+   | `a-vitakka` | `neither_(applied)` |
+   | `a-vicārā` | `(nor_sustained)` |
+   | `dhammā` | `(States)` |
+
 ---
 
 ## Procedure
@@ -154,6 +171,7 @@ The recommended path is the scaffold helper followed by an LLM pass for the `\gl
    c. If no word in `\ex` corresponds to this token, or if the translator simplified a term to avoid repetition:
       - Use `(rendering)` for terms untranslated in `\ex` but found in the Rhys Davids (`en-rd`) translation.
       - Use `word (missing_components)` if the translator used a simplified term (e.g., `neutral (not_painful_not_pleasant)`).
+      - **Check for omitted repetitions:** If a translator uses a single word (like "neither") to cover multiple tokens, use `word_(repetition)` and `(repetition)` to maintain alignment and semantic completeness.
       - If the term is also untranslated in Rhys Davids, write `--`.
       Do not substitute the Pali token, do not use a synonym, and do not use general background knowledge.
    - Where a scaffold token on `\gla` is a long compound that would be clearer split, replace the single compound token with its space-separated parts and extend `\glb` with one cell per part.
