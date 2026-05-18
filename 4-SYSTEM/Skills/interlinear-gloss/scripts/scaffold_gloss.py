@@ -3,12 +3,11 @@
 
 Reads two markdown files that share an Obsidian block-ID scheme and writes a
 gloss file under ``2-RAILS/Bilingual-Glossaries/Raw/`` with one ``gloss`` code
-block per paired block. ``\\gla`` is populated from the source tokens and
-``\\ex`` verbatim from the translation; ``\\glb`` is scaffolded with ``--``
-placeholders at the right column count for the LLM pass to fill in.
+block per paired block. The format is vertical: the translation appears above
+the block, and the block contains ``token gloss`` pairs.
 
-If the output file already exists, existing ``\\glb`` lines are preserved when
-their token count still matches the refreshed ``\\gla``.
+If the output file already exists, existing gloss lines are preserved when
+their Pāli token matches.
 
 Usage:
 
@@ -73,17 +72,9 @@ def parse_blocks(path):
 
 
 def tokenise_source(text):
-    """Split source text into gloss tokens, stripping editorial markup.
-
-    Strips square-bracketed variant readings (``[...]``), parenthesised
-    editorial content including alphabet labels like ``(Ka)`` / ``(Kha)``,
-    leading verse numbers like ``4.``, and outer punctuation from each
-    token. Internal hyphens (Pali compounds) are preserved.
-    """
-    # 1. Drop ``[...]`` variant readings and ``(...)`` editorial inserts.
+    """Split source text into gloss tokens, stripping editorial markup."""
     cleaned = re.sub(r"\[[^\]]*\]", "", text)
     cleaned = re.sub(r"\([^)]*\)", "", cleaned)
-    # 2. Drop leading verse number like ``4.`` or ``1.``.
     cleaned = re.sub(r"^\s*\d+\.\s*", "", cleaned)
     tokens = []
     for raw in cleaned.split():
@@ -102,71 +93,63 @@ def normalise_free_translation(text):
 
 
 def parse_existing_gloss(text):
-    """Return {block_id: {'gla': str, 'glb': str, 'ex': str}}.
+    """Return {block_id: {token: gloss}}.
 
-    Used when refreshing an existing gloss file to preserve filled glb lines.
+    Used when refreshing an existing gloss file to preserve filled lines.
+    Supports both legacy horizontal and new vertical formats.
     """
     out = {}
-    # Split on '## ^<id>' headings.
     parts = re.split(r"^##\s+\^([0-9A-Za-z][0-9A-Za-z\-]*)\s*$", text, flags=re.MULTILINE)
-    # parts[0] is preamble; then alternating block_id / section.
     for i in range(1, len(parts), 2):
         block_id = parts[i]
         section = parts[i + 1] if i + 1 < len(parts) else ""
-        gla = _find_gloss_line(section, "gla")
-        glb = _find_gloss_line(section, "glb")
-        ex = _find_gloss_line(section, "ex")
-        out[block_id] = {"gla": gla, "glb": glb, "ex": ex}
+        
+        # Check for vertical format inside ```gloss block
+        gloss_match = re.search(r"```gloss\s*\n(.*?)\n```", section, re.DOTALL)
+        if gloss_match:
+            lines = gloss_match.group(1).strip().splitlines()
+            block_data = {}
+            for line in lines:
+                if line.startswith("\\gla") or line.startswith("\\glb") or line.startswith("\\ex"):
+                    # Legacy horizontal format - we'll handle this separately if needed
+                    continue
+                parts_line = line.split(maxsplit=1)
+                if len(parts_line) == 2:
+                    block_data[parts_line[0]] = parts_line[1]
+                elif len(parts_line) == 1:
+                    block_data[parts_line[0]] = "--"
+            if block_data:
+                out[block_id] = block_data
+                continue
+
+        # Legacy horizontal format fallback
+        gla = _find_horizontal_line(section, "gla").split()
+        glb = _find_horizontal_line(section, "glb").split()
+        if gla and glb and len(gla) == len(glb):
+            out[block_id] = dict(zip(gla, glb))
+            
     return out
 
 
-def _find_gloss_line(section, marker):
+def _find_horizontal_line(section, marker):
     match = re.search(rf"^\\{marker}\s+(.*)$", section, flags=re.MULTILINE)
     if not match:
-        # Fallback for old format without backslash
         match = re.search(rf"^{marker}\s+(.*)$", section, flags=re.MULTILINE)
-    if not match:
-        return ""
-    return match.group(1).rstrip()
+    return match.group(1).rstrip() if match else ""
 
 
-def column_align(tokens, widths):
-    """Format ``tokens`` with at-least the column widths in ``widths``."""
-    out = []
-    for token, width in zip(tokens, widths):
-        out.append(token.ljust(width))
-    return " ".join(out).rstrip()
-
-
-def compute_column_widths(rows):
-    """Take a list of token-list rows; return max width per column."""
-    widths = []
-    for row in rows:
-        for i, token in enumerate(row):
-            if i >= len(widths):
-                widths.append(len(token))
-            else:
-                widths[i] = max(widths[i], len(token))
-    return widths
-
-
-def build_gloss_block(gla_tokens, free_translation, existing):
-    """Render one ```gloss``` block with column-aligned gla/glb."""
-    n = len(gla_tokens)
-    glb_tokens = ["--"] * n
-    if existing:
-        prior_gla = existing.get("gla", "").split()
-        if len(prior_gla) == n:
-            prior_glb = existing.get("glb", "").split()
-            if len(prior_glb) == n:
-                glb_tokens = prior_glb
-    widths = compute_column_widths([gla_tokens, glb_tokens])
-    gla_line = column_align(gla_tokens, widths)
-    glb_line = column_align(glb_tokens, widths)
-    lines = ["```gloss"]
-    lines.append(f"\\gla    {gla_line}")
-    lines.append(f"\\glb    {glb_line}")
-    lines.append(f"\\ex     {free_translation}")
+def build_gloss_block(block_id, gla_tokens, free_translation, existing_blocks):
+    """Render the translation and a vertical ```gloss``` block."""
+    existing = existing_blocks.get(block_id, {})
+    lines = [free_translation, "", "```gloss"]
+    
+    # Calculate padding for alignment
+    max_len = max(len(t) for t in gla_tokens) if gla_tokens else 0
+    
+    for token in gla_tokens:
+        gloss = existing.get(token, "--")
+        lines.append(f"{token.ljust(max_len + 2)}{gloss}")
+    
     lines.append("```")
     return "\n".join(lines)
 
@@ -186,7 +169,7 @@ def scaffold(source_path, target_path, output_path):
     if output_path.exists():
         try:
             existing = parse_existing_gloss(output_path.read_text(encoding="utf-8"))
-        except Exception as exc:  # noqa: BLE001
+        except Exception as exc:
             print(f"warning: could not re-parse existing {output_path}: {exc}", file=sys.stderr)
 
     blocks_rendered = 0
@@ -224,21 +207,15 @@ def scaffold(source_path, target_path, output_path):
         gla_tokens = tokenise_source(source_text)
         if not gla_tokens:
             continue
-        # Check whether we are resetting glb due to a token-count change.
-        prior = existing.get(block_id)
-        if prior:
-            prior_gla = prior.get("gla", "").split()
-            if prior_gla and len(prior_gla) != len(gla_tokens):
-                reset_lines.append(block_id)
+            
         free_t = normalise_free_translation(target_text)
-        block = build_gloss_block(gla_tokens, free_t, prior)
+        block = build_gloss_block(block_id, gla_tokens, free_t, existing)
         out_lines.append(f"## ^{block_id}")
         out_lines.append("")
         out_lines.append(block)
         out_lines.append("")
         blocks_rendered += 1
 
-    # Patch the total_verses placeholder.
     rendered = "\n".join(out_lines).replace("__PLACEHOLDER__", str(blocks_rendered))
     output_path.parent.mkdir(parents=True, exist_ok=True)
     output_path.write_text(rendered, encoding="utf-8")
@@ -259,14 +236,17 @@ def validate(gloss_path):
     for i in range(1, len(parts), 2):
         block_id = parts[i]
         section = parts[i + 1] if i + 1 < len(parts) else ""
-        gla = _find_gloss_line(section, "gla").split()
-        glb = _find_gloss_line(section, "glb").split()
-        if not gla:
-            errors.append(f"{block_id}: missing or empty gla")
+        gloss_match = re.search(r"```gloss\s*\n(.*?)\n```", section, re.DOTALL)
+        if not gloss_match:
+            errors.append(f"{block_id}: missing gloss block")
             continue
         checked += 1
-        if len(glb) != len(gla):
-            errors.append(f"{block_id}: glb has {len(glb)} tokens, gla has {len(gla)}")
+        lines = gloss_match.group(1).strip().splitlines()
+        for line_no, line in enumerate(lines, 1):
+            if not line.strip(): continue
+            parts_line = line.split()
+            if len(parts_line) < 2:
+                errors.append(f"{block_id} line {line_no}: missing gloss for token '{parts_line[0] if parts_line else '?'}'")
     return checked, errors
 
 
@@ -283,9 +263,9 @@ def main(argv):
         if errors:
             for err in errors:
                 print(f"  {err}", file=sys.stderr)
-            print(f"FAIL — {len(errors)} mismatches across {checked} blocks", file=sys.stderr)
+            print(f"FAIL — {len(errors)} errors across {checked} blocks", file=sys.stderr)
             return 1
-        print(f"OK — {checked} blocks all have matching token counts")
+        print(f"OK — {checked} blocks all valid")
         return 0
 
     if not (args.source and args.target and args.output):
@@ -296,16 +276,8 @@ def main(argv):
     print(
         f"Wrote {args.output}: blocks={stats['blocks_rendered']} "
         f"skipped_target_missing={stats['skipped_target_missing']} "
-        f"skipped_source_missing={stats['skipped_source_missing']} "
-        f"reset_glb={len(stats['reset_lines'])}"
+        f"skipped_source_missing={stats['skipped_source_missing']}"
     )
-    if stats["reset_lines"]:
-        print(
-            "  reset blocks (token count changed; re-fill glb):",
-            ", ".join(stats["reset_lines"][:10]),
-            "..." if len(stats["reset_lines"]) > 10 else "",
-            file=sys.stderr,
-        )
     return 0
 
 

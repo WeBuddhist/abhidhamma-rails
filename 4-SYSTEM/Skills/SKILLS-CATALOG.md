@@ -69,17 +69,17 @@ These skills populate `2-RAILS/` with the structured context that translation an
 → [`local-wiki-article/SKILL.md`](local-wiki-article/SKILL.md)
 
 ### `interlinear-gloss` **[exists]**
-**Purpose:** For one root text + one translation, build an interlinear gloss file at `2-RAILS/Bilingual-Glossaries/Raw/<source>-<target>-gloss.md` pairing them verse by verse. Each verse becomes a ```gloss``` block in the Obsidian Interlinear Glossing plugin format (`\gla` source tokens, `\glb` token-by-token target glosses, `\ex` free translation). Token-level alignment lives here so every downstream bilingual glossary step reads from one place. Untranslated sections are handled via a bracketed fallback from the Rhys Davids (`en-rd`) translation.
+**Purpose:** For one root text + one translation, build a word-by-word gloss file at `2-RAILS/Bilingual-Glossaries/Raw/<source>-<target>-gloss.md` pairing them verse by verse. Each verse is rendered as the translation followed by a ```gloss``` block containing a vertical list of Pāli-to-target pairs. This format supports long compounds and bracketed semantic expansions (the "neither" rule). Token-level alignment lives here so every downstream bilingual glossary step reads from one place. Untranslated sections are handled via a bracketed fallback from the Rhys Davids (`en-rd`) translation.
 **Inputs:** `1-SOURCES/Text/<root-text>.md`, one translation under `1-SOURCES/Translations/`.
 **Outputs:** One gloss file per translation under `2-RAILS/Bilingual-Glossaries/Raw/<source-lang>-<target-lang-tag>-gloss.md`.
-**Helper:** `scripts/scaffold_gloss.py` aligns blocks by `^block-id`, populates `\gla` from source tokens (stripping editorial brackets and enumeration labels) and `\ex` from the translation, scaffolds `\glb` with `--` placeholders at the right column count, and re-runs idempotently (preserves filled lines when token counts still match). `--validate` checks column-count consistency across the file.
+**Helper:** `scripts/scaffold_gloss.py` aligns blocks by `^block-id`, populates the translation and a vertical `gloss` block with Pāli tokens and `--` placeholders, and re-runs idempotently (preserves filled lines by matching Pāli tokens). `--validate` checks for missing glosses.
 → [`interlinear-gloss/SKILL.md`](interlinear-gloss/SKILL.md)
 
 ### `glossary-extract-raw` **[exists]**
 **Purpose:** Extract every source-language keyword and the rendering(s) it receives, from one interlinear gloss file, into a raw per-source bilingual glossary.
 **Inputs:** One gloss file at `2-RAILS/Bilingual-Glossaries/Raw/<source>-<target>-gloss.md`.
 **Outputs:** One bilingual glossary file at `2-RAILS/Bilingual-Glossaries/Raw/<source>-<target>.md` with a table mapping source lemma → rendering used in that translation.
-**Helper:** `scripts/extract_pairs.py` walks every ``gloss`` block, pairs `\gla[i]` with `\glb[i]` per column, and emits a CSV of `(source_token, source_lemma, target_rendering, block_id)` rows ready for tallying. Legacy fallback `scripts/align_blocks.py` pairs by block ID only, for sources where no gloss file exists yet.
+**Helper:** `scripts/extract_pairs.py` walks every ``gloss`` block, supports both legacy horizontal and new vertical formats, and emits a CSV of `(source_token, source_lemma, target_rendering, block_id)` rows ready for tallying.
 → [`glossary-extract-raw/SKILL.md`](glossary-extract-raw/SKILL.md)
 
 ### `glossary-combine` **[exists]**
