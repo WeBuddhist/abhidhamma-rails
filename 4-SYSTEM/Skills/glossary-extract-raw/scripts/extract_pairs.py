@@ -1,10 +1,9 @@
 #!/usr/bin/env python3
 """Extract token-pair rows from an interlinear gloss file.
 
-Walks every ``gloss`` code block in the input file, pairs each ``\\gla``
-token with the ``\\glb`` cell at the same column, and emits a CSV row per
-token pair. The CSV is the working table that ``glossary-extract-raw``
-reads to tally keyword renderings.
+Walks every ``gloss`` code block in the input file, pairs each source
+token with its target gloss, and emits a CSV row per pair.
+Supports both legacy horizontal (\gla/\glb) and new vertical formats.
 
 Usage:
 
@@ -26,26 +25,42 @@ GLOSS_BLOCK_RE = re.compile(r"```gloss\s*\n(.*?)```", re.DOTALL)
 
 
 def parse_gloss_file(path: Path):
-    """Yield (block_id, gla_tokens, glb_tokens) per heading."""
+    """Yield (block_id, pairs) per heading. pairs is list of (src, gloss)."""
     text = path.read_text(encoding="utf-8")
     parts = re.split(BLOCK_HEADING_RE, text)
-    # parts: [preamble, id1, section1, id2, section2, ...]
     for i in range(1, len(parts), 2):
         block_id = parts[i]
         section = parts[i + 1] if i + 1 < len(parts) else ""
         m = GLOSS_BLOCK_RE.search(section)
         if not m:
             continue
-        body = m.group(1)
-        gla = _line(body, "gla")
-        glb = _line(body, "glb")
-        yield block_id, gla, glb
+        body = m.group(1).strip()
+        
+        # Check for legacy horizontal format
+        if "\\gla" in body or "\\glb" in body:
+            gla = _line(body, "gla")
+            glb = _line(body, "glb")
+            pairs = []
+            for j, src in enumerate(gla):
+                rendering = glb[j] if j < len(glb) else "--"
+                pairs.append((src, rendering))
+            yield block_id, pairs
+        else:
+            # New vertical format: each line is "token gloss"
+            pairs = []
+            for line in body.splitlines():
+                if not line.strip(): continue
+                parts_line = line.split(maxsplit=1)
+                if len(parts_line) == 2:
+                    pairs.append((parts_line[0], parts_line[1]))
+                elif len(parts_line) == 1:
+                    pairs.append((parts_line[0], "--"))
+            yield block_id, pairs
 
 
 def _line(body: str, marker: str) -> list[str]:
     match = re.search(rf"^\\{marker}\s+(.*)$", body, flags=re.MULTILINE)
     if not match:
-        # Fallback for old format without backslash
         match = re.search(rf"^{marker}\s+(.*)$", body, flags=re.MULTILINE)
     if not match:
         return []
@@ -60,12 +75,9 @@ def extract(gloss_path: Path, output_path: Path) -> tuple[int, int, int]:
     with output_path.open("w", encoding="utf-8", newline="") as fh:
         writer = csv.writer(fh)
         writer.writerow(["source_token", "source_lemma", "target_rendering", "block_id"])
-        for block_id, gla, glb in parse_gloss_file(gloss_path):
+        for block_id, pairs in parse_gloss_file(gloss_path):
             blocks_seen += 1
-            if not gla:
-                continue
-            for i, src in enumerate(gla):
-                rendering = glb[i] if i < len(glb) else "--"
+            for src, rendering in pairs:
                 if rendering == "--" or not rendering:
                     rows_skipped += 1
                     continue
