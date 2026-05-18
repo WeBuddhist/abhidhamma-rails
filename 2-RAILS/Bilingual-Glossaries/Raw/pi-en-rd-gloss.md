@@ -23,7 +23,7 @@ status: draft
 
 ```gloss
 \gla sukhāya vedanāya sampayuttā dhammā dukkhāya vedanāya sampayuttā dhammā adukkhamasukhāya vedanāya sampayuttā dhammā
-\glb pleasant feeling associated-with States painful feeling [associated-with] [States] neutral_(not_painful_not_pleasant) feeling [associated-with] [States]
+\glb pleasant feeling associated_with States painful feeling (associated_with) (States) neutral_(not_painful_not_pleasant) feeling (associated_with) (States)
 \ex States that are associated with pleasant feeling, painful feeling, neutral feeling.
 ```
 
@@ -416,7 +416,7 @@ status: draft
 ```gloss
 \gla ganthā ceva dhammā ganthaniyā ca ganthaniyā ceva dhammā no ca ganthā
 \glb ties both States favourable-to-ties and favourable-to-ties both States are-not and ties
-\ex States that are both ties and favourable to ties; that are the latter but not the former.
+\ex States that are both <ties> and favourable to ties; that are the latter but not the former.
 ```
 
 ## ^1-0b-30
