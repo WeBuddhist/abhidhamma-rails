@@ -4,8 +4,8 @@ source_language: pi
 target_file: 1-SOURCES/Translations/en-1-rhys_davids.md
 target_language: en
 target_lang_tag: en-rd
-translator: C.A.F. Rhys Davids, A Buddhist Manual of Psychological Ethics (PTS, 1900)
-total_verses: 1616
+translator: C.A.F. Rhys Davids
+total_verses: 71
 status: draft
 ---
 
@@ -14,1639 +14,423 @@ status: draft
 ## ^1-0a-1
 
 ```gloss
-\gla kusalā dhammā akusalā dhammā abyākatā dhammā
-\glc good states bad states indeterminate states
-\ex States that are good, bad, indeterminate.
+\gla    kusalā   dhammā   akusalā   dhammā   abyākatā        dhammā
+\glc    good     States   bad       States   indeterminate   States
+\ex     States that are good, bad, indeterminate.
 ```
 
 ## ^1-0a-2
 
 ```gloss
-\gla sukhāya vedanāya sampayuttā dhammā dukkhāya vedanāya sampayuttā dhammā adukkhamasukhāya vedanāya sampayuttā dhammā
-\glc pleasant feeling associated states painful feeling associated states neutral feeling associated states
-\ex States that are associated with pleasant feeling, painful feeling, neutral feeling.
+\gla    sukhāya    vedanāya   sampayuttā        dhammā   dukkhāya   vedanāya   sampayuttā        dhammā   adukkhamasukhāya   vedanāya   sampayuttā        dhammā
+\glc    pleasant   feeling    associated-with   States   painful    feeling    associated-with   States   neutral            feeling    associated-with   States
+\ex     States that are associated with pleasant feeling, painful feeling, neutral feeling.
 ```
 
 ## ^1-0a-3
 
 ```gloss
-\gla vipākā dhammā vipākadhammadhammā nevavipākanavipākadhammadhammā
-\glc results states resultant-quality states neither states
-\ex States that are results; that have resultant quality; that are neither.
+\gla    vipākā    dhammā   vipākadhamma         dhammā   neva      vipāka    na   vipākadhamma        dhammā
+\glc    results   States   resultant-quality    States   neither   results   --   resultant-quality   States
+\ex     States that are results; that have resultant quality; that are neither.
 ```
 
 ## ^1-0a-4
 
 ```gloss
-\gla upādiṇṇupādāniyā dhammā anupādiṇṇupādāniyā dhammā anupādiṇṇaanupādāniyā dhammā
-\glc grasped-at-and-favourable-to-grasping states not-grasped-at-but-are-favourable-to-grasping states neither states
-\ex States that are grasped at and favourable to grasping; that are not grasped at but are favourable to grasping; that are neither.
+\gla    upādiṇṇupādāniyā           dhammā   anupādiṇṇupādāniyā                dhammā   anupādiṇṇaanupādāniyā   dhammā
+\glc    grasped-at-favourable-to-grasping   States   not-grasped-at-favourable-to-grasping   States   neither                 States
+\ex     States that are grasped at and favourable to grasping; that are not grasped at but are favourable to grasping; that are neither.
 ```
 
 ## ^1-0a-5
 
 ```gloss
-\gla saṃkiliṭṭhasaṃkilesikā dhammā asaṃkiliṭṭhasaṃkilesikā dhammā asaṃkiliṭṭhaasaṃkilesikā dhammā
-\glc vitiated-and-vicious states not-vitiated-but-are-vicious states neither states
-\ex States that are vitiated and vicious; that are not vitiated but are vicious; that are neither.
+\gla    saṃkiliṭṭhasaṃkilesikā   dhammā   asaṃkiliṭṭhasaṃkilesikā       dhammā   asaṃkiliṭṭhaasaṃkilesikā   dhammā
+\glc    vitiated-and-vicious     States   not-vitiated-but-are-vicious   States   neither                    States
+\ex     States that are vitiated and vicious; that are not vitiated but are vicious; that are neither.
 ```
 
 ## ^1-0a-6
 
 ```gloss
-\gla savitakkasavicārā dhammā avitakkavicāramattā dhammā avitakkaavicārā dhammā
-\glc applied-and-sustained-thinking states sustained-thinking-only states neither states
-\ex States that have applied and sustained thinking; sustained thinking only; neither.
+\gla    savitakkasavicārā             dhammā   avitakkavicāramattā        dhammā   avitakkaavicārā   dhammā
+\glc    applied-and-sustained-thinking   States   sustained-thinking-only   States   neither           States
+\ex     States that have applied and sustained thinking; sustained thinking only; neither.
 ```
 
 ## ^1-0a-7
 
 ```gloss
-\gla pītisahagatā dhammā sukhasahagatā dhammā upekkhāsahagatā dhammā
-\glc accompanied-by-zest states by-happiness states by-indifference states
-\ex States that are accompanied by zest; by happiness; by indifference.
+\gla    pītisahagatā        dhammā   sukhasahagatā   dhammā   upekkhāsahagatā   dhammā
+\glc    accompanied-by-zest   States   happiness       States   indifference      States
+\ex     States that are accompanied by zest; by happiness; by indifference.
 ```
 
 ## ^1-0a-8
 
 ```gloss
-\gla dassanena pahātabbā dhammā bhāvanāya pahātabbā dhammā neva dassanena na bhāvanāya pahātabbā dhammā
-\glc by-vision put-away states by-culture put-away states by-neither states
-\ex States that are to be put away by vision; by culture; by neither.
+\gla    dassanena      pahātabbā   dhammā   bhāvanāya   pahātabbā   dhammā   neva      dassanena   na   bhāvanāya   pahātabbā   dhammā
+\glc    by-vision      put-away    States   by-culture   put-away    States   neither   vision      --   culture     put-away    States
+\ex     States that are to be put away by vision; by culture; by neither.
 ```
 
 ## ^1-0a-9
 
 ```gloss
-\gla dassanena pahātabbahetukā dhammā bhāvanāya pahātabbahetukā dhammā neva dassanena na bhāvanāya pahātabbahetukā dhammā
-\glc by-vision roots-of-which-are-to-be-put-away states by-culture states by-neither states
-\ex States, the moral roots of which are to be put away by vision; by culture; by neither.
+\gla    dassanena   pahātabbahetukā   dhammā   bhāvanāya   pahātabbahetukā   dhammā   neva      dassanena   na   bhāvanāya   pahātabbahetukā   dhammā
+\glc    vision      moral-roots       States   culture     moral-roots       States   neither   vision      --   culture     moral-roots       States
+\ex     States, the moral roots of which are to be put away by vision; by culture; by neither.
 ```
 
 ## ^1-0a-10
 
 ```gloss
-\gla ācayagāmino dhammā apacayagāmino dhammā nevācayagāmināpacayagāmino dhammā
-\glc building-up states pulling-down states neither states
-\ex States going to building up; going to pulling down; going to neither.
+\gla    ācayagāmino        dhammā   apacayagāmino      dhammā   nevācayagāmināpacayagāmino   dhammā
+\glc    going-to-building-up   States   going-to-pulling-down   States   neither                      States
+\ex     States going to building up; going to pulling down; going to neither.
 ```
 
 ## ^1-0a-11
 
 ```gloss
-\gla sekkhā dhammā asekkhā dhammā nevasekkhanāsekkhā dhammā
-\glc training states adept states neither states
-\ex States of one in training; of the adept; of one who is neither.
+\gla    sekkhā             dhammā   asekkhā      dhammā   nevasekkhanāsekkhā   dhammā
+\glc    of-one-in-training   States   the-adept    States   neither              States
+\ex     States of one in training; of the adept; of one who is neither.
 ```
 
 ## ^1-0a-12
 
 ```gloss
-\gla parittā dhammā mahaggatā dhammā appamāṇā dhammā
-\glc limited states sublime states infinite states
-\ex States that are limited, sublime, infinite.
+\gla    parittā   dhammā   mahaggatā   dhammā   appamāṇā   dhammā
+\glc    limited   States   sublime     States   infinite   States
+\ex     States that are limited, sublime, infinite.
 ```
 
 ## ^1-0a-13
 
 ```gloss
-\gla parittārammaṇā dhammā mahaggatārammaṇā dhammā appamāṇārammaṇā dhammā
-\glc limited-object states sublime-object states neither states
-\ex States that have a limited object; a sublime object; neither.
+\gla    parittārammaṇā             dhammā   mahaggatārammaṇā   dhammā   appamāṇārammaṇā   dhammā
+\glc    have-a-limited-object      States   sublime-object     States   neither           States
+\ex     States that have a limited object; a sublime object; neither.
 ```
 
 ## ^1-0a-14
 
 ```gloss
-\gla hīnā dhammā majjhimā dhammā paṇītā dhammā
-\glc base states medium-worth states excellent states
-\ex States that are base; of medium worth; excellent.
+\gla    hīnā   dhammā   majjhimā          dhammā   paṇītā      dhammā
+\glc    base   States   of-medium-worth   States   excellent   States
+\ex     States that are base; of medium worth; excellent.
 ```
 
 ## ^1-0a-15
 
 ```gloss
-\gla micchattaniyatā dhammā sammattaniyatā dhammā aniyatā dhammā
-\glc wrongfulness-fixed-as-to-consequences states righteousness-fixed-as-to-consequences states not-entail-fixed-consequences states
-\ex States that are of a wrongfulness fixed as to consequences; that are of a righteousness fixed as to consequences; that do not entail fixed consequences.
+\gla    micchattaniyatā           dhammā   sammattaniyatā           dhammā   aniyatā                 dhammā
+\glc    wrongfulness-fixed-as-to-consequences   States   righteousness-fixed-as-to-consequences   States   do-not-entail-fixed-consequences   States
+\ex     States that are of a wrongfulness fixed as to consequences; that are of a righteousness fixed as to consequences; that do not entail fixed consequences.
 ```
 
 ## ^1-0a-16
 
 ```gloss
-\gla maggārammaṇā dhammā maggahetukā dhammā maggādhipatino dhammā
-\glc Path-as-object states roots-is-the-Path states dominant-influence-is-the-Path states
-\ex States that have the Path as object; whose moral root is the Path; whose dominant influence is the Path.
+\gla    maggārammaṇā           dhammā   maggahetukā                dhammā   maggādhipatino                dhammā
+\glc    have-the-Path-as-object   States   whose-moral-root-is-the-Path   States   whose-dominant-influence-is-the-Path   States
+\ex     States that have the Path as object; whose moral root is the Path; whose dominant influence is the Path.
 ```
 
 ## ^1-0a-17
 
 ```gloss
-\gla uppannā dhammā anuppannā dhammā uppādino dhammā
-\glc arisen states not-arisen states bound-to-arise states
-\ex States that have arisen; that have not arisen; that are bound to arise.
+\gla    uppannā   dhammā   anuppannā       dhammā   uppādino         dhammā
+\glc    arisen    States   have-not-arisen   States   bound-to-arise   States
+\ex     States that have arisen; that have not arisen; that are bound to arise.
 ```
 
 ## ^1-0a-18
 
 ```gloss
-\gla atitā dhammā anāgatā dhammā paccuppannā dhammā
-\glc past states future states present states
-\ex States that are past; present; future.
+\gla    atītā   dhammā   anāgatā   dhammā   paccuppannā   dhammā
+\glc    past    States   present   States   future        States
+\ex     States that are past; present; future.
 ```
 
 ## ^1-0a-19
 
 ```gloss
-\gla atītārammaṇā dhammā anāgatārammaṇā dhammā paccuppannārammaṇā dhammā
-\glc past-as-their-object states future-as-their-object states present-as-their-object states
-\ex States that have the past as their object; the present as their object; the future as their object.
+\gla    atītārammaṇā               dhammā   anāgatārammaṇā             dhammā   paccuppannārammaṇā         dhammā
+\glc    the-past-as-their-object   States   the-present-as-their-object   States   the-future-as-their-object   States
+\ex     States that have the past as their object; the present as their object; the future as their object.
 ```
 
 ## ^1-0a-20
 
 ```gloss
-\gla ajjhattā dhammā bahiddhā dhammā ajjhattabahiddhā dhammā
-\glc one's-self states external-to-one's-self states belonging-or-external-to-one's-self states
-\ex States that belong to one's self; are external to one's self; are belonging or external to one's self.
+\gla    ajjhattā             dhammā   bahiddhā                dhammā   ajjhattabahiddhā                dhammā
+\glc    belong-to-one's-self   States   are-external-to-one's-self   States   are-belonging-or-external-to-one's-self   States
+\ex     States that belong to one's self; are external to one's self; are belonging or external to one's self.
 ```
 
 ## ^1-0a-21
 
 ```gloss
-\gla ajjhattārammaṇā dhammā bahiddhārammaṇā dhammā ajjhattabahiddhārammaṇā dhammā
-\glc one's-self states external-to-one's-self states object-that-is-both states
-\ex States that have for an object one's self; an object external to one's self; an object that is both.
+\gla    ajjhattārammaṇā         dhammā   bahiddhārammaṇā          dhammā   ajjhattabahiddhārammaṇā   dhammā
+\glc    for-an-object-one's-self   States   object-external-to-one's-self   States   object-that-is-both      States
+\ex     States that have for an object one's self; an object external to one's self; an object that is both.
 ```
 
 ## ^1-0a-22
 
 ```gloss
-\gla sanidassanasappaṭighā dhammā anidassanasappaṭighā dhammā anidassanaappaṭighā dhammā
-\glc visible-and-reacting states invisible-and-reacting states neither states
-\ex States that are visible and reacting; invisible and reacting; neither.
+\gla    sanidassanasappaṭighā   dhammā   anidassanasappaṭighā   dhammā   anidassanaappaṭighā   dhammā
+\glc    visible-and-reacting   States   invisible-and-reacting   States   neither               States
+\ex     States that are visible and reacting; invisible and reacting; neither.
 ```
 
 ## ^1-0b-1
 
 ```gloss
-\gla hetū dhammā na hetū dhammā
-\glc moral-roots states not moral-roots states
-\ex States that are moral roots; not moral roots.
+\gla    hetū          dhammā   na    hetū          dhammā
+\glc    moral-roots   States   not   moral-roots   States
+\ex     States that are moral roots; not moral roots.
 ```
 
 ## ^1-0b-2
 
 ```gloss
-\gla sahetukā dhammā ahetukā dhammā
-\glc concomitant-with-a-moral-root states not-so-concomitant states
-\ex States concomitant with a moral root; not so concomitant.
+\gla    sahetukā                       dhammā   ahetukā                dhammā
+\glc    concomitant-with-a-moral-root   States   not-so-concomitant   States
+\ex     States concomitant with a moral root; not so concomitant.
 ```
 
 ## ^1-0b-3
 
 ```gloss
-\gla hetusampayuttā dhammā hetuvippayuttā dhammā
-\glc associated-with-a-moral-root states dissociated-from-a-moral-root states
-\ex States associated with a moral root; dissociated from a moral root.
+\gla    hetusampayuttā                dhammā   hetuvippayuttā                    dhammā
+\glc    associated-with-a-moral-root   States   dissociated-from-a-moral-root   States
+\ex     States associated with a moral root; dissociated from a moral root.
 ```
 
 ## ^1-0b-4
 
 ```gloss
-\gla hetū ceva dhammā sahetukā ca sahetukā ceva dhammā na ca hetū
-\glc moral-roots and states concomitant-with-a-moral-root and concomitant-with-a-moral-root and states not and moral-roots
-\ex States that are both moral roots and concomitant with a moral root; states of mind that are the latter but not the former.
+\gla    hetū          ceva   dhammā   sahetukā                       ca    sahetukā                       ceva   dhammā   na    ca    hetū
+\glc    moral-roots   both   States   concomitant-with-a-moral-root   and   concomitant-with-a-moral-root   both   States   not   and   moral-roots
+\ex     States that are both moral roots and concomitant with a moral root; states of mind that are the latter but not the former.
 ```
 
 ## ^1-0b-5
 
 ```gloss
-\gla hetū ceva dhammā hetusampayuttā ca hetusampayuttā ceva dhammā na ca hetū
-\glc moral-roots and states associated-with-moral-roots and associated-with-moral-roots and states not and moral-roots
-\ex States that are both moral roots and associated with moral roots; states of mind that are the latter but not the former.
+\gla    hetū          ceva   dhammā   hetusampayuttā                ca    hetusampayuttā                ceva   dhammā   na    ca    hetū
+\glc    moral-roots   both   States   associated-with-moral-roots   and   associated-with-moral-roots   both   States   not   and   moral-roots
+\ex     States that are both moral roots and associated with moral roots; states of mind that are the latter but not the former.
 ```
 
 ## ^1-0b-6
 
 ```gloss
-\gla na hetū kho pana dhammā sahetukāpi ahetukāpi
-\glc not moral-roots but states concomitant-with-moral-roots-or not
-\ex States that are not moral roots, but are either concomitant with moral roots or not.
+\gla    na    hetū          kho   pana   dhammā   sahetukāpi                       ahetukāpi
+\glc    not   moral-roots   --    --     States   concomitant-with-moral-roots-or   not
+\ex     States that are not moral roots, but are either concomitant with moral roots or not.
 ```
 
 ## ^1-0b-7
 
 ```gloss
-\gla sappaccayā dhammā appaccayā dhammā
-\glc causally-related states not-causally-related states
-\ex States that are causally related; not causally related.
+\gla    sappaccayā         dhammā   appaccayā             dhammā
+\glc    causally-related   States   not-causally-related   States
+\ex     States that are causally related; not causally related.
 ```
 
 ## ^1-0b-8
 
 ```gloss
-\gla saṅkhatā dhammā asaṅkhatā dhammā
-\glc conditioned states unconditioned states
-\ex States that are conditioned; unconditioned.
+\gla    saṅkhatā      dhammā   asaṅkhatā      dhammā
+\glc    conditioned   States   unconditioned   States
+\ex     States that are conditioned; unconditioned.
 ```
 
 ## ^1-0b-9
 
 ```gloss
-\gla sanidassanā dhammā anidassanā dhammā
-\glc visible states invisible states
-\ex States that are visible; invisible.
+\gla    sanidassanā   dhammā   anidassanā   dhammā
+\glc    visible       States   invisible    States
+\ex     States that are visible; invisible.
 ```
 
 ## ^1-0b-10
 
 ```gloss
-\gla sappaṭighā dhammā appaṭighā dhammā
-\glc reactions states not-reactions states
-\ex States that are reactions; not reactions.
+\gla    sappaṭighā   dhammā   appaṭighā       dhammā
+\glc    reactions    States   not-reactions   States
+\ex     States that are reactions; not reactions.
 ```
 
 ## ^1-0b-11
 
 ```gloss
-\gla rūpino dhammā arūpino dhammā
-\glc material-form states immaterial states
-\ex States that have material form; that are immaterial.
+\gla    rūpino               dhammā   arūpino      dhammā
+\glc    have-material-form   States   immaterial   States
+\ex     States that have material form; that are immaterial.
 ```
 
 ## ^1-0b-12
 
 ```gloss
-\gla lokiyā dhammā lokuttarā dhammā
-\glc mundane states supramundane states
-\ex States that are mundane; supramundane.
+\gla    lokiyā    dhammā   lokuttarā      dhammā
+\glc    mundane   States   supramundane   States
+\ex     States that are mundane; supramundane.
 ```
 
 ## ^1-0b-13
 
 ```gloss
-\gla kenaci viññeyyā dhammā kenaci na viññeyyā dhammā
-\glc cognized-in-a-given-way states not-cognized-in-that-given-way states
-\ex States that may be cognized in a given way; that may not be cognized in that given way.
+\gla    kenaci      viññeyyā          dhammā   kenaci      na    viññeyyā          dhammā
+\glc    given-way   may-be-cognized   States   given-way   not   may-be-cognized   States
+\ex     States that may be cognized in a given way; that may not be cognized in that given way.
 ```
 
 ## ^1-0b-14
 
 ```gloss
-\gla āsavā dhammā no āsavā dhammā
-\glc āsavas states are-not āsavas states
-\ex States that are āsavas; are not āsavas.
+\gla    āsavā    dhammā   no        āsavā    dhammā
+\glc    āsavas   States   are-not   āsavas   States
+\ex     States that are āsavas; are not āsavas.
 ```
 
 ## ^1-0b-15
 
 ```gloss
-\gla sāsavā dhammā anāsavā dhammā
-\glc have-āsavas states have-not-āsavas states
-\ex States that have āsavas, have not āsavas.
+\gla    sāsavā        dhammā   anāsavā           dhammā
+\glc    have-āsavas   States   have-not-āsavas   States
+\ex     States that have āsavas, have not āsavas.
 ```
 
 ## ^1-0b-16
 
 ```gloss
-\gla āsavasampayuttā dhammā āsavavippayuttā dhammā
-\glc associated-with-āsavas states dissociated-from-āsavas states
-\ex States that are associated with āsavas; dissociated from āsavas.
+\gla    āsavasampayuttā           dhammā   āsavavippayuttā           dhammā
+\glc    associated-with-āsavas   States   dissociated-from-āsavas   States
+\ex     States that are associated with āsavas; dissociated from āsavas.
 ```
 
 ## ^1-0b-17
 
 ```gloss
-\gla āsavā ceva dhammā sāsavā ca sāsavā ceva dhammā no ca āsavā
-\glc āsavas and states have-āsavas and have-āsavas and states are-not and āsavas
-\ex States that both are and have āsavas; that have āsavas but are not āsavas.
+\gla    āsavā    ceva   dhammā   sāsavā        ca    sāsavā        ceva   dhammā   no        ca    āsavā
+\glc    āsavas   both   States   have-āsavas   and   have-āsavas   both   States   are-not   and   āsavas
+\ex     States that both are and have āsavas; that have āsavas but are not āsavas.
 ```
 
 ## ^1-0b-18
 
 ```gloss
-\gla āsavā ceva dhammā āsavasampayuttā ca āsavasampayuttā ceva dhammā no ca āsavā
-\glc āsavas and states associated-with-āsavas and associated-with-āsavas and states are-not and āsavas
-\ex States that are both āsavas and associated with āsavas; that are associated with āsavas but are not āsavas.
+\gla    āsavā    ceva   dhammā   āsavasampayuttā           ca    āsavasampayuttā           ceva   dhammā   no        ca    āsavā
+\glc    āsavas   both   States   associated-with-āsavas   and   associated-with-āsavas   both   States   are-not   and   āsavas
+\ex     States that are both āsavas and associated with āsavas; that are associated with āsavas but are not āsavas.
 ```
 
 ## ^1-0b-19
 
 ```gloss
-\gla āsavavippayuttā kho pana dhammā sāsavāpi anāsavāpi
-\glc dissociated-from-āsavas but states have-or-may-not-have-āsavas
-\ex States that are dissociated from āsavas, but may have or may not have āsavas.
+\gla    āsavavippayuttā           kho   pana   dhammā   sāsavāpi    anāsavāpi
+\glc    dissociated-from-āsavas   --    --     States   may-have   or-may-not-have
+\ex     States that are dissociated from āsavas, but may have or may not have āsavas.
 ```
 
 ## ^1-0b-20
 
 ```gloss
-\gla saṃyojanā dhammā no saṃyojanā dhammā
-\glc fetters states are-not-fetters states
-\ex States that are fetters; are not fetters.
+\gla    saṃyojanā   dhammā   no        saṃyojanā   dhammā
+\glc    fetters     States   are-not   fetters     States
+\ex     States that are fetters; are not fetters.
 ```
 
 ## ^1-0b-21
 
 ```gloss
-\gla saṃyojaniyā dhammā asaṃyojaniyā dhammā
-\glc favourable-to-fetters states are-not-so states
-\ex States that are favourable to fetters; are not so.
+\gla    saṃyojaniyā             dhammā   asaṃyojaniyā   dhammā
+\glc    favourable-to-fetters   States   are-not-so     States
+\ex     States that are favourable to fetters; are not so.
 ```
 
 ## ^1-0b-22
 
 ```gloss
-\gla saṃyojanasampayuttā dhammā saṃyojanavippayuttā dhammā
-\glc associated-with-fetters states dissociated-from-fetters states
-\ex States that are associated with fetters; are dissociated from fetters.
+\gla    saṃyojanasampayuttā       dhammā   saṃyojanavippayuttā       dhammā
+\glc    associated-with-fetters   States   dissociated-from-fetters   States
+\ex     States that are associated with fetters; are dissociated from fetters.
 ```
 
 ## ^1-0b-23
 
 ```gloss
-\gla saṃyojanā ceva dhammā saṃyojaniyā ca saṃyojaniyā ceva dhammā no ca saṃyojanā
-\glc fetters and states favourable-to-fetters and favourable-to-fetters and states not and fetters
-\ex States that are both fetters and favourable to fetters; that are the latter but not the former.
+\gla    saṃyojanā   ceva   dhammā   saṃyojaniyā             ca    saṃyojaniyā             ceva   dhammā   no        ca    saṃyojanā
+\glc    fetters     both   States   favourable-to-fetters   and   favourable-to-fetters   both   States   are-not   and   fetters
+\ex     States that are both fetters and favourable to fetters; that are the latter but not the former.
 ```
 
 ## ^1-0b-24
 
 ```gloss
-\gla saṃyojanā ceva dhammā saṃyojanasampayuttā ca saṃyojanasampayuttā ceva dhammā no ca saṃyojanā
-\glc fetters and states associated-with-fetters and associated-with-fetters and states not and fetters
-\ex States that are both fetters and associated with fetters; that are the latter but not the former.
+\gla    saṃyojanā   ceva   dhammā   saṃyojanasampayuttā       ca    saṃyojanasampayuttā       ceva   dhammā   no        ca    saṃyojanā
+\glc    fetters     both   States   associated-with-fetters   and   associated-with-fetters   both   States   are-not   and   fetters
+\ex     States that are both fetters and associated with fetters; that are the latter but not the former.
 ```
 
 ## ^1-0b-25
 
 ```gloss
-\gla saṃyojanavippayuttā kho pana dhammā saṃyojaniyāpi asaṃyojaniyāpi
-\glc dissociated-from-fetters but states favourable-to-fetters-or-unfavourable
-\ex States that are dissociated from fetters, but may be favourable to fetters or unfavourable.
+\gla    saṃyojanavippayuttā        kho   pana   dhammā   saṃyojaniyāpi                asaṃyojaniyāpi
+\glc    dissociated-from-fetters   --    --     States   may-be-favourable-to-fetters   unfavourable
+\ex     States that are dissociated from fetters, but may be favourable to fetters or unfavourable.
 ```
 
 ## ^1-0b-26
 
 ```gloss
-\gla ganthā dhammā no ganthā dhammā
-\glc ties states are-not ties states
-\ex States that are ties; are not ties.
+\gla    ganthā   dhammā   no        ganthā   dhammā
+\glc    ties     States   are-not   ties     States
+\ex     States that are ties; are not ties.
 ```
 
 ## ^1-0b-27
 
 ```gloss
-\gla ganthaniyā dhammā aganthaniyā dhammā
-\glc favourable-to-ties states are-not-so states
-\ex States that are favourable to ties; are not so.
+\gla    ganthaniyā            dhammā   aganthaniyā   dhammā
+\glc    favourable-to-ties   States   are-not-so    States
+\ex     States that are favourable to ties; are not so.
 ```
 
 ## ^1-0b-28
 
 ```gloss
-\gla ganthasampayuttā dhammā ganthavippayuttā dhammā
-\glc associated-with-ties states dissociated-from-ties states
-\ex States that are associated with ties; dissociated from ties.
+\gla    ganthasampayuttā         dhammā   ganthavippayuttā         dhammā
+\glc    associated-with-ties   States   dissociated-from-ties   States
+\ex     States that are associated with ties; dissociated from ties.
 ```
 
 ## ^1-0b-29
 
 ```gloss
-\gla ganthā ceva dhammā ganthaniyā ca ganthaniyā ceva dhammā no ca ganthā
-\glc ties and states favourable-to-ties and favourable-to-ties and states not and ties
-\ex States that are both ties and favourable to ties; that are the latter but not the former.
+\gla    ganthā   ceva   dhammā   ganthaniyā            ca    ganthaniyā            ceva   dhammā   no        ca    ganthā
+\glc    ties     both   States   favourable-to-ties   and   favourable-to-ties   both   States   are-not   and   ties
+\ex     States that are both ties and favourable to ties; that are the latter but not the former.
 ```
 
 ## ^1-0b-30
 
 ```gloss
-\gla ganthā ceva dhammā ganthasampayuttā ca ganthasampayuttā ceva dhammā no ca ganthā
-\glc ties and states associated-with-ties and associated-with-ties and states not and ties
-\ex States that are both ties and associated with ties; are the latter but not the former.
+\gla    ganthā   ceva   dhammā   ganthasampayuttā         ca    ganthasampayuttā         ceva   dhammā   no        ca    ganthā
+\glc    ties     both   States   associated-with-ties   and   associated-with-ties   both   States   are-not   and   ties
+\ex     States that are both ties and associated with ties; are the latter but not the former.
 ```
 
 ## ^1-0b-31
 
 ```gloss
-\gla ganthavippayuttā kho pana dhammā ganthaniyāpi aganthaniyāpi
-\glc dissociated-from-ties but states may-or-may-not-be-favourable-to-ties
-\ex States that are dissociated from ties; but may or may not be favourable to ties.
-```
-
-## ^1-0b-32
-
-```gloss
-\gla oghā dhammā no oghā dhammā
-\glc -- -- -- -- --
-\ex -
-```
-
-## ^1-0b-33
-
-```gloss
-\gla oghaniyā dhammā anoghaniyā dhammā
-\glc -- -- -- --
-\ex -
-```
-
-## ^1-0b-34
-
-```gloss
-\gla oghasampayuttā dhammā oghavippayuttā dhammā
-\glc -- -- -- --
-\ex -
-```
-
-## ^1-0b-35
-
-```gloss
-\gla oghā ceva dhammā oghaniyā ca oghaniyā ceva dhammā no ca oghā
-\glc -- -- -- -- -- -- -- -- -- --
-\ex -
-```
-
-## ^1-0b-36
-
-```gloss
-\gla oghā ceva dhammā oghasampayuttā ca oghasampayuttā ceva dhammā no ca oghā
-\glc -- -- -- -- -- -- -- -- -- --
-\ex -
-```
-
-## ^1-0b-37
-
-```gloss
-\gla oghavippayuttā kho pana dhammā oghaniyāpi anoghaniyāpi
-\glc -- -- -- -- -- -- --
-\ex -
-```
-
-## ^1-0b-38
-
-```gloss
-\gla yogā dhammā no yogā dhammā
-\glc -- -- -- -- --
-\ex -
-```
-
-## ^1-0b-39
-
-```gloss
-\gla yoganiyā dhammā ayoganiyā dhammā
-\glc -- -- -- --
-\ex -
-```
-
-## ^1-0b-40
-
-```gloss
-\gla yogasampayuttā dhammā yogavippayuttā dhammā
-\glc -- -- -- --
-\ex -
-```
-
-## ^1-0b-41
-
-```gloss
-\gla yogā ceva dhammā yoganiyā ca yoganiyā ceva dhammā no ca yogā
-\glc -- -- -- -- -- -- -- -- -- --
-\ex -
-```
-
-## ^1-0b-42
-
-```gloss
-\gla yogā ceva dhammā yogasampayuttā ca yogasampayuttā ceva dhammā no ca yogā
-\glc -- -- -- -- -- -- -- -- -- --
-\ex -
-```
-
-## ^1-0b-43
-
-```gloss
-\gla yogavippayuttā kho pana dhammā yoganiyāpi ayoganiyāpi
-\glc -- -- -- -- -- -- --
-\ex -
-```
-
-## ^1-0b-44
-
-```gloss
-\gla nīvaraṇā dhammā no nīvaraṇā dhammā
-\glc -- -- -- -- --
-\ex -
-```
-
-## ^1-0b-45
-
-```gloss
-\gla nīvaraṇiyā dhammā anīvaraṇiyā dhammā
-\glc -- -- -- --
-\ex -
-```
-
-## ^1-0b-46
-
-```gloss
-\gla nīvaraṇasampayuttā dhammā nīvaraṇavippayuttā dhammā
-\glc -- -- -- --
-\ex -
-```
-
-## ^1-0b-47
-
-```gloss
-\gla nīvaraṇā ceva dhammā nīvaraṇiyā ca nīvaraṇiyā ceva dhammā no ca nīvaraṇā
-\glc -- -- -- -- -- -- -- -- -- --
-\ex -
-```
-
-## ^1-0b-48
-
-```gloss
-\gla nīvaraṇā ceva dhammā nīvaraṇasampayuttā ca nīvaraṇasampayuttā ceva dhammā no ca nīvaraṇā
-\glc -- -- -- -- -- -- -- -- -- --
-\ex -
-```
-
-## ^1-0b-49
-
-```gloss
-\gla nīvaraṇavippayuttā kho pana dhammā nīvaraṇiyāpi anīvaraṇiyāpi
-\glc -- -- -- -- -- -- --
-\ex -
-```
-
-## ^1-0b-50
-
-```gloss
-\gla parāmāsā dhammā no parāmāsā dhammā
-\glc perversions states are-not perversions states
-\ex States that are perversions; are not perversions.
-```
-
-## ^1-0b-51
-
-```gloss
-\gla parāmaṭṭhā dhammā aparāmaṭṭhā dhammā
-\glc perverted states unperverted states
-\ex States that are perverted; unperverted.
-```
-
-## ^1-0b-52
-
-```gloss
-\gla parāmāsasampayuttā dhammā parāmāsavippayuttā dhammā
-\glc associated-with-perversion states dissociated-from-perversion states
-\ex States that are associated with perversion; dissociated from perversion.
-```
-
-## ^1-0b-53
-
-```gloss
-\gla parāmāsā ceva dhammā parāmaṭṭhā ca parāmaṭṭhā ceva dhammā no ca parāmāsā
-\glc perversions and states perverted and perverted and states not and perversions
-\ex States that are both perversions and perverted; are the latter but not the former.
-```
-
-## ^1-0b-54
-
-```gloss
-\gla parāmāsavippayuttā kho pana dhammā parāmaṭṭhāpi aparāmaṭṭhāpi
-\glc dissociated-from-perversion but states perverted-or-unperverted
-\ex States that are dissociated from perversion, but are either perverted or unperverted.
-```
-
-## ^1-0b-55
-
-```gloss
-\gla sārammaṇā dhammā anārammaṇā dhammā
-\glc objects-of-thought states have-not-such states
-\ex States that have objects of thought; have not such.
-```
-
-## ^1-0b-56
-
-```gloss
-\gla cittā dhammā no cittā dhammā
-\glc thought states have-not-thought states
-\ex States that have thought; have not thought.
-```
-
-## ^1-0b-57
-
-```gloss
-\gla cetasikā dhammā acetasikā dhammā
-\glc mental-properties states are-not-such states
-\ex States that are mental properties; are not such.
-```
-
-## ^1-0b-58
-
-```gloss
-\gla cittasampayuttā dhammā cittavippayuttā dhammā
-\glc associated-with-thought states dissociated-from-thought states
-\ex States that are associated with thought; dissociated from thought.
-```
-
-## ^1-0b-59
-
-```gloss
-\gla cittasaṃsaṭṭhā dhammā cittavisaṃsaṭṭhā dhammā
-\glc conjoined-with-thought states detached-from-thought states
-\ex States that are conjoined with thought; detached from thought.
-```
-
-## ^1-0b-60
-
-```gloss
-\gla cittasamuṭṭhānā dhammā no cittasamuṭṭhānā dhammā
-\glc sprung-from-thought states are-not-so states
-\ex States that are sprung from thought; are not so.
-```
-
-## ^1-0b-61
-
-```gloss
-\gla cittasahabhuno dhammā no cittasahabhuno dhammā
-\glc come-into-being-together-with-thought states do-not-so-come-into-being states
-\ex States that come into being together with thought; do not so come into being.
-```
-
-## ^1-0b-62
-
-```gloss
-\gla cittānuparivattino dhammā no cittānuparivattino dhammā
-\glc consecutive-to-thought states are-not-so states
-\ex States that are consecutive to thought; are not so.
-```
-
-## ^1-0b-63
-
-```gloss
-\gla cittasaṃsaṭṭhasamuṭṭhānā dhammā no cittasaṃsaṭṭhasamuṭṭhānā dhammā
-\glc conjoined-with-and-sprung-from-thought states are-not-so states
-\ex States that are conjoined with and sprung from thought; are not so.
-```
-
-## ^1-0b-64
-
-```gloss
-\gla cittasaṃsaṭṭhasamuṭṭhānasahabhuno dhammā no cittasaṃsaṭṭhasamuṭṭhānasahabhuno dhammā
-\glc conjoined-with-sprung-from-come-into-being-together-with-thought states are-not-so states
-\ex States that are conjoined with, sprung from, come into being together with thought; are not so.
-```
-
-## ^1-0b-65
-
-```gloss
-\gla cittasaṃsaṭṭhasamuṭṭhānānuparivattino dhammā no cittasaṃsaṭṭhasamuṭṭhānānuparivattino dhammā
-\glc conjoined-with-sprung-from-consecutive-to-thought states are-not-so states
-\ex States that are conjoined with, sprung from, consecutive to thought; are not so.
-```
-
-## ^1-0b-66
-
-```gloss
-\gla ajjhattikā dhammā bāhirā dhammā
-\glc one's-own states external states
-\ex States that are one's own; are external.
-```
-
-## ^1-0b-67
-
-```gloss
-\gla upādā dhammā no upādā dhammā
-\glc derived states are-not-derived states
-\ex States that are derived; are not derived.
-```
-
-## ^1-0b-68
-
-```gloss
-\gla upādiṇṇā dhammā anupādiṇṇā dhammā
-\glc grasped-at states are-not-grasped-at states
-\ex States that are grasped at; are not grasped at.
-```
-
-## ^1-0b-69
-
-```gloss
-\gla upādānā dhammā no upādānā dhammā
-\glc graspings states are-not-graspings states
-\ex States that are graspings; are not graspings.
-```
-
-## ^1-0b-70
-
-```gloss
-\gla upādāniyā dhammā anupādāniyā dhammā
-\glc favourable-to-grasping states not-favourable states
-\ex States that are favourable to grasping; not favourable.
-```
-
-## ^1-0b-71
-
-```gloss
-\gla upādānasampayuttā dhammā upādānavippayuttā dhammā
-\glc associated-with-grasping states dissociated-from-grasping states
-\ex States that are associated with grasping; dissociated from grasping.
-```
-
-## ^1-0b-72
-
-```gloss
-\gla upādānā ceva dhammā upādāniyā ca upādāniyā ceva dhammā no ca upādānā
-\glc graspings and states favourable-to-grasping and favourable-to-grasping and states not and graspings
-\ex States that are both graspings and favourable to grasping; are the latter but not the former.
-```
-
-## ^1-0b-73
-
-```gloss
-\gla upādānā ceva dhammā upādānasampayuttā ca upādānasampayuttā ceva dhammā no ca upādānā
-\glc graspings and states associated-with-grasping and associated-with-grasping and states not and graspings
-\ex States that are both graspings and associated with grasping; are the latter but not the former.
-```
-
-## ^1-0b-74
-
-```gloss
-\gla upādānavippayuttā kho pana dhammā upādāniyāpi anupādāniyāpi
-\glc dissociated-from-grasping but states favourable-or-unfavourable-to-grasping
-\ex States that are dissociated from grasping, but may be either favourable or unfavourable to grasping.
-```
-
-## ^1-0b-75
-
-```gloss
-\gla kilesā dhammā no kilesā dhammā
-\glc vices states are-not vices states
-\ex States that are vices; are not vices.
-```
-
-## ^1-0b-76
-
-```gloss
-\gla saṃkilesikā dhammā asaṃkilesikā dhammā
-\glc vicious states are-not vicious states
-\ex States that are vicious; are not vicious.
-```
-
-## ^1-0b-77
-
-```gloss
-\gla saṃkiliṭṭhā dhammā asaṃkiliṭṭhā dhammā
-\glc vitiated states are-not vitiated states
-\ex States that are vitiated; are not vitiated.
-```
-
-## ^1-0b-78
-
-```gloss
-\gla kilesasampayuttā dhammā kilesavippayuttā dhammā
-\glc associated-with-vice states are-dissociated-from-vice states
-\ex States that are associated with vice; are dissociated from vice.
-```
-
-## ^1-0b-79
-
-```gloss
-\gla kilesā ceva dhammā saṃkilesikā ca saṃkilesikā ceva dhammā no ca kilesā
-\glc vices and states vicious and vicious but states not and vices
-\ex States that are both vices and vicious; are vicious but not vices.
-```
-
-## ^1-0b-80
-
-```gloss
-\gla kilesā ceva dhammā saṃkiliṭṭhā ca saṃkiliṭṭhā ceva dhammā no ca kilesā
-\glc vices and states vitiated and vitiated but states not and vices
-\ex States that are both vices and vitiated; are vitiated but not vices.
-```
-
-## ^1-0b-81
-
-```gloss
-\gla kilesā ceva dhammā kilesasampayuttā ca kilesasampayuttā ceva dhammā no ca kilesā
-\glc vices and states associated-with-vice and associated-with-vice and states the-latter but not the-former
-\ex States that are both vices and associated with vice; are the latter but not the former.
-```
-
-## ^1-0b-82
-
-```gloss
-\gla kilesavippayuttā kho pana dhammā saṃkilesikāpi asaṃkilesikāpi
-\glc dissociated-from-vice but states vicious-or not
-\ex States that are dissociated from vice, but may be either vicious or not.
-```
-
-## ^1-0b-83
-
-```gloss
-\gla dassanena pahātabbā dhammā na dassanena pahātabbā dhammā
-\glc by-vision put-away states not so put-away states
-\ex States that may be put away by vision; not so put away.
-```
-
-## ^1-0b-84
-
-```gloss
-\gla bhāvanāya pahātabbā dhammā na bhāvanāya pahātabbā dhammā
-\glc by-culture put-away states not so put-away states
-\ex States that may be put away by culture; not so put away.
-```
-
-## ^1-0b-85
-
-```gloss
-\gla dassanena pahātabbahetukā dhammā na dassanena pahātabbahetukā dhammā
-\glc moral-root-of-which-may-be-put-away-by-vision states may-not-be-so-put-away states
-\ex States, the moral root of which may be put away by vision; may not be so put away.
-```
-
-## ^1-0b-86
-
-```gloss
-\gla bhāvanāya pahātabbahetukā dhammā na bhāvanāya pahātabbahetukā dhammā
-\glc moral-root-of-which-may-be-put-away-by-culture states may-not-be-so-put-away states
-\ex States, the moral root of which may be put away by culture; may not be so put away.
-```
-
-## ^1-0b-87
-
-```gloss
-\gla savitakkā dhammā avitakkā dhammā
-\glc applied-thinking states not-having-applied-thinking states
-\ex States having applied thinking; not having applied thinking.
-```
-
-## ^1-0b-88
-
-```gloss
-\gla savicārā dhammā avicārā dhammā
-\glc sustained-thinking states not-having-sustained-thinking states
-\ex States having sustained thinking; not having sustained thinking.
-```
-
-## ^1-0b-89
-
-```gloss
-\gla sappītikā dhammā appītikā dhammā
-\glc concomitant-with-zest states not-concomitant-with-zest states
-\ex States concomitant with zest; not concomitant with zest.
-```
-
-## ^1-0b-90
-
-```gloss
-\gla pītisahagatā dhammā na pītisahagatā dhammā
-\glc accompanied-by-zest states unaccompanied-by-zest states
-\ex States accompanied by zest; unaccompanied by zest.
-```
-
-## ^1-0b-91
-
-```gloss
-\gla sukhasahagatā dhammā na sukhasahagatā dhammā
-\glc accompanied-by-ease states unaccompanied-by-ease states
-\ex States accompanied by ease; unaccompanied by ease.
-```
-
-## ^1-0b-92
-
-```gloss
-\gla upekkhāsahagatā dhammā na upekkhāsahagatā dhammā
-\glc accompanied-by-indifference states unaccompanied-by-indifference states
-\ex States accompanied by indifference; unaccompanied by indifference.
-```
-
-## ^1-0b-93
-
-```gloss
-\gla kāmāvacarā dhammā na kāmāvacarā dhammā
-\glc universe-of-sense states not-of-that-universe states
-\ex States of the universe of sense; not of that universe.
-```
-
-## ^1-0b-94
-
-```gloss
-\gla rūpāvacarā dhammā na rūpāvacarā dhammā
-\glc universe-of-form states not-of-that-universe states
-\ex States of the universe of form; not of that universe.
-```
-
-## ^1-0b-95
-
-```gloss
-\gla arūpāvacarā dhammā na arūpāvacarā dhammā
-\glc formless-universe states not-of-that-universe states
-\ex States of the formless universe; not of that universe.
-```
-
-## ^1-0b-96
-
-```gloss
-\gla pariyāpannā dhammā apariyāpannā dhammā
-\glc included states unincluded states
-\ex States that are included; unincluded.
-```
-
-## ^1-0b-97
-
-```gloss
-\gla niyyānikā dhammā aniyyānikā dhammā
-\glc lead-onward states do-not-lead-onward states
-\ex States that lead onward; do not lead onward.
-```
-
-## ^1-0b-98
-
-```gloss
-\gla niyatā dhammā aniyatā dhammā
-\glc fixed states are-not-fixed states
-\ex States that are fixed; are not fixed.
-```
-
-## ^1-0b-99
-
-```gloss
-\gla sauttarā dhammā anuttarā dhammā
-\glc have-a-beyond states have-no-beyond states
-\ex States that have a beyond; have no beyond.
-```
-
-## ^1-0b-100
-
-```gloss
-\gla saraṇā dhammā araṇā dhammā
-\glc harmful states harmless states
-\ex States that are harmful; are harmless.
-```
-
-## ^1-0b-101
-
-```gloss
-\gla vijjābhāgino dhammā avijjābhāgino dhammā
-\glc partake-of-wisdom states do-not-partake-of-wisdom states
-\ex States that partake of wisdom; do not partake of wisdom.
-```
-
-## ^1-0b-102
-
-```gloss
-\gla vijjūpamā dhammā vajirūpamā dhammā
-\glc resemble-lightning states comparable-to-the-thunderbolt states
-\ex States that resemble lightning; are comparable to the thunderbolt.
-```
-
-## ^1-0b-103
-
-```gloss
-\gla bālā dhammā paṇḍitā dhammā
-\glc foolish states discreet states
-\ex States that are foolish; discreet.
-```
-
-## ^1-0b-104
-
-```gloss
-\gla kaṇhā dhammā sukkā dhammā
-\glc dark states bright states
-\ex States that are dark; bright.
-```
-
-## ^1-0b-105
-
-```gloss
-\gla tapanīyā dhammā atapanīyā dhammā
-\glc conduce-to-remorse states do-not states
-\ex States that conduce to remorse; that do not.
-```
-
-## ^1-0b-106
-
-```gloss
-\gla adhivacanā dhammā adhivacanapathā dhammā
-\glc equivalent-terms states processes-of-such states
-\ex States that are equivalent terms; processes of such.
-```
-
-## ^1-0b-107
-
-```gloss
-\gla nirutti dhammā niruttipathā dhammā
-\glc explanations states processes-of-explanation states
-\ex States that are explanations; processes of explanation.
-```
-
-## ^1-0b-108
-
-```gloss
-\gla paññatti dhammā paññattipathā dhammā
-\glc expressions states processes-of-expression states
-\ex States that are expressions; processes of expression.
-```
-
-## ^1-0b-109
-
-```gloss
-\gla nāmañca rūpañca
-\glc Name shape
-\ex Name and shape.
-```
-
-## ^1-0b-110
-
-```gloss
-\gla avijjā ca bhavataṇhā ca
-\glc Ignorance craving-for-rebirth
-\ex Ignorance and craving for rebirth.
-```
-
-## ^1-0b-111
-
-```gloss
-\gla bhavadiṭṭhi ca vibhavadiṭṭhi ca
-\glc Theory-of-rebirth theory-of-dissolution
-\ex Theory of rebirth and theory of dissolution.
-```
-
-## ^1-0b-112
-
-```gloss
-\gla sassatadiṭṭhi ca ucchedadiṭṭhi ca
-\glc Theory-of-eternalism theory-of-annihilation
-\ex Theory of eternalism and theory of annihilation.
-```
-
-## ^1-0b-113
-
-```gloss
-\gla antavā diṭṭhi ca anantavā diṭṭhi ca
-\glc Theory-of-finiteness theory-of-infiniteness
-\ex Theory of infiniteness and theory of finiteness.
-```
-
-## ^1-0b-114
-
-```gloss
-\gla pubbantānudiṭṭhi ca aparantānudiṭṭhi ca
-\glc Theory-of-first-things theory-of-last-things
-\ex Theory of first and last things.
-```
-
-## ^1-0b-115
-
-```gloss
-\gla ahirikañca anottappañca
-\glc Unconscientiousness indiscretion
-\ex Unconscientiousness and indiscretion.
-```
-
-## ^1-0b-116
-
-```gloss
-\gla hirī ca ottappañca
-\glc Conscientiousness discretion
-\ex Conscientiousness and discretion.
-```
-
-## ^1-0b-117
-
-```gloss
-\gla dovacassatā ca pāpamittatā ca
-\glc Contumacy friendship-with-evil
-\ex Contumacy and friendship with evil.
-```
-
-## ^1-0b-118
-
-```gloss
-\gla sovacassatā ca kalyāṇamittatā ca
-\glc Suavity friendship-with-good
-\ex Suavity and friendship with good.
-```
-
-## ^1-0b-119
-
-```gloss
-\gla āpattikusalatā ca āpattivuṭṭhānakusalatā ca
-\glc Skill-in-offences restoration-from-the-offences
-\ex Skill in offences and in restoration from the offences.
-```
-
-## ^1-0b-120
-
-```gloss
-\gla samāpattikusalatā ca samāpattivuṭṭhānakusalatā ca
-\glc Skill-in-the-attainments recovery-from-the-attainments
-\ex Skill in the attainments and in recovery from the attainments.
-```
-
-## ^1-0b-121
-
-```gloss
-\gla dhātukusalatā ca manasikārakusalatā ca
-\glc Skill-in-the-elements attention
-\ex Skill in the elements and in attention.
-```
-
-## ^1-0b-122
-
-```gloss
-\gla āyatanakusalatā ca paṭiccasamuppādakusalatā ca
-\glc Skill-in-the-spheres-of-sense causal-law
-\ex Skill in the spheres of sense and in the causal law.
-```
-
-## ^1-0b-123
-
-```gloss
-\gla ṭhānakusalatā ca aṭṭhānakusalatā ca
-\glc Skill-in-affirming negating-causal-relation
-\ex Skill in affirming and in negating causal relation.
-```
-
-## ^1-0b-124
-
-```gloss
-\gla ajjavo ca maddavo ca
-\glc Upright soft
-\ex Upright and soft.
-```
-
-## ^1-0b-125
-
-```gloss
-\gla khanti ca soraccañca
-\glc Patience loveableness
-\ex Patience and loveableness.
-```
-
-## ^1-0b-126
-
-```gloss
-\gla sākhalyañca paṭisanthāro ca
-\glc Amity courtesy
-\ex Amity and courtesy.
-```
-
-## ^1-0b-127
-
-```gloss
-\gla indriyesu aguttadvāratā ca bhojane amattaññutā ca
-\glc gateways-of-sense unguardedness immoderation-in-diet
-\ex Unguardedness in the gateways of sense and immoderation in diet.
-```
-
-## ^1-0b-128
-
-```gloss
-\gla indriyesu guttadvāratā ca bhojane mattaññutā ca
-\glc gateways-of-sense guardedness moderation-in-diet
-\ex Guardedness in the gateways of sense and moderation in diet.
-```
-
-## ^1-0b-129
-
-```gloss
-\gla muṭṭhasaccañca asampajaññañca
-\glc Forgetfulness unintelligence
-\ex Forgetfulness and unintelligence.
-```
-
-## ^1-0b-130
-
-```gloss
-\gla sati ca sampajaññañca
-\glc Mindfulness intelligence
-\ex Mindfulness and intelligence.
-```
-
-## ^1-0b-131
-
-```gloss
-\gla paṭisaṅkhānabalañca bhāvanābalañca
-\glc Computing-power developing-power
-\ex Computing power and developing power.
-```
-
-## ^1-0b-132
-
-```gloss
-\gla samatho ca vipassanā ca
-\glc Calm intuition
-\ex Calm and intuition.
-```
-
-## ^1-0b-133
-
-```gloss
-\gla samathanimittañca paggāhanimittañca
-\glc sign-of-calm sign-of-grasp
-\ex The sign of calm and the sign of grasp.
-```
-
-## ^1-0b-134
-
-```gloss
-\gla paggāho ca avikkhepo ca
-\glc Grasp balance
-\ex Grasp and balance.
-```
-
-## ^1-0b-135
-
-```gloss
-\gla sīlavipatti ca diṭṭhivipatti ca
-\glc Moral-failure theoretic-fallacy
-\ex Moral failure and theoretic fallacy.
-```
-
-## ^1-0b-136
-
-```gloss
-\gla sīlasampadā ca diṭṭhisampadā ca
-\glc Moral-achievement theoretic-achievement
-\ex Moral achievement and theoretic achievement.
-```
-
-## ^1-0b-137
-
-```gloss
-\gla sīlavisuddhi ca diṭṭhivisuddhi ca
-\glc Purity-of-morals theory
-\ex Purity of morals and of theory.
-```
-
-## ^1-0b-138
-
-```gloss
-\gla diṭṭhivisuddhi kho pana yathādiṭṭhissa ca padhānaṃ
-\glc Purity-in-views and struggle-of-him-who-holds-the-views
-\ex Purity in views and the struggle of him who holds the views.
-```
-
-## ^1-0b-139
-
-```gloss
-\gla saṃvego ca saṃvejaniyesu ṭhānesu saṃviggassa ca yoniso padhānaṃ
-\glc Agitation-on-occasions-calling-for-agitation and struggle-of-the-agitated
-\ex Agitation on occasions calling for agitation and the struggle of the agitated.
-```
-
-## ^1-0b-140
-
-```gloss
-\gla asantuṭṭhitā ca kusalesu dhammesu appaṭivānitā ca padhānasmiṃ
-\glc Discontent-as-to-good-states and unfalteringness-in-the-struggle
-\ex Discontent as to good states and unfalteringness in the struggle.
-```
-
-## ^1-0b-141
-
-```gloss
-\gla vijjā ca vimutti ca
-\glc Wisdom freedom
-\ex Wisdom and freedom.
-```
-
-## ^1-0b-142
-
-```gloss
-\gla khaye ñāṇaṃ anuppāde ñāṇaṃ
-\glc Knowledge-in-making-an-end knowledge-in-not-coming-to-pass
-\ex Knowledge in making an end; knowledge in not coming to pass.
-```
-
-## ^1-1
-
-```gloss
-\gla Katame dhammā kusalā Yasmiṃ samaye kāmāvacaraṃ kusalaṃ cittaṃ uppannaṃ hoti somanassasahagataṃ ñāṇasampayuttaṃ rūpārammaṇaṃ vā saddārammaṇaṃ vā gandhārammaṇaṃ vā rasārammaṇaṃ vā phoṭṭhabbārammaṇaṃ vā dhammārammaṇaṃ vā yaṃ yaṃ vā panārabbha tasmiṃ samaye phasso hoti vedanā hoti saññā hoti cetanā hoti cittaṃ hoti vitakko hoti vicāro hoti pīti hoti sukhaṃ hoti cittassekaggatā hoti saddhindriyaṃ hoti vīriyindriyaṃ hoti satindriyaṃ hoti samādhindriyaṃ hoti paññindriyaṃ hoti manindriyaṃ hoti somanassindriyaṃ hoti jīvitindriyaṃ hoti sammādiṭṭhi hoti sammāsaṅkappo hoti sammāvāyāmo hoti sammāsati hoti sammāsamādhi hoti saddhābalaṃ hoti vīriyabalaṃ hoti satibalaṃ hoti samādhibalaṃ hoti paññābalaṃ hoti hiribalaṃ hoti ottappabalaṃ hoti alobho hoti adoso hoti amoho hoti anabhijjhā hoti abyāpādo hoti sammādiṭṭhi hoti hirī hoti ottappaṃ hoti kāyapassaddhi hoti cittapassaddhi hoti kāyalahutā hoti cittalahutā hoti kāyamudutā hoti cittamudutā hoti kāyakammaññatā hoti cittakammaññatā hoti kāyapāguññatā hoti cittapāguññatā hoti kāyujukatā hoti cittujukatā hoti sati hoti sampajaññaṃ hoti samatho hoti vipassanā hoti paggāho hoti avikkhepo hoti ye vā pana tasmiṃ samaye aññepi atthi paṭiccasamuppannā arūpino dhammā ime dhammā kusalā
-\glc Which states good When occasion sensuous-universe good thought risen has accompanied-by-gladness associated-with-knowledge sight object or sound object or smell object or taste object or touch object or mental-state object or what not or but-whatsoever then occasion contact there-is feeling there-is perception there-is volition there-is thought there-is application there-is sustained-thinking there-is zest there-is ease there-is self-collectedness there-is faculty-of-faith there-is faculty-of-energy there-is faculty-of-mindfulness there-is faculty-of-concentration there-is faculty-of-insight there-is faculty-of-ideation there-is faculty-of-gladness there-is faculty-of-life there-is right-views there-is right-intention there-is right-endeavour there-is right-mindfulness there-is right-concentration there-is power-of-faith there-is power-of-energy there-is power-of-mindfulness there-is power-of-concentration there-is power-of-insight there-is power-of-conscientiousness there-is power-of-the-fear-of-blame there-is absence-of-greed there-is absence-of-hate there-is absence-of-dullness there-is absence-of-covetousness there-is absence-of-malice there-is right-views there-is conscientiousness there-is fear-of-blame there-is serenity there-is serenity there-is lightness there-is lightness there-is plasticity there-is plasticity there-is facility there-is facility there-is fitness there-is fitness there-is directness there-is directness there-is mindfulness there-is intelligence there-is quiet there-is intuition there-is grasp there-is balance there-is or whatever other then occasion other there-are causally-induced incorporeal states these states good
-\ex Which are the states that are good? When a good thought concerning the sensuous universe has risen, which is accompanied by gladness and associated with knowledge, and has as its object a sight, a sound, a smell, a taste, a touch, a [mental] state, or what not, then there is: contact ( § 2 ) feeling ( § 3 ) perception ( § 4 ) volition ( § 5 ) thought ( § 6 ) application ( § 7 ) sustained thinking ( § 8 ) zest ( § 9 ) ease ( § 10 ) self-collectedness ( § 11 ) the faculty of faith ( § 12 ) the faculty of energy ( § 13 ) the faculty of mindfulness ( § 14 ) the faculty of concentration ( § 15 ) the faculty of insight ( § 16 ) the faculty of ideation ( § 17 ) the faculty of gladness ( § 18 ) the faculty of life ( § 19 ) right views ( § 20 ) right intention ( § 21 ) right endeavour ( § 22 ) right mindfulness ( § 23 ) right concentration ( § 24 ) the power of faith ( § 25 ) the power of energy ( § 26 ) the power of mindfulness ( § 27 ) the power of concentration ( § 28 ) the power of insight ( § 29 ) the power of conscientiousness ( § 30 ) the power of the fear of blame ( § 31 ) absence of greed ( § 32 ) absence of hate ( § 33 ) absence of dullness ( § 34 ) absence of covetousness ( § 35 ) absence of malice ( § 36 ) right views ( § 37 ) conscientiousness ( § 38 ) fear of blame ( § 39 ) serenity in mind and mental factors ( §§ 40 , 41 ) lightness in mind and mental factors ( §§ 42 , 43 ) plasticity in mind and mental factors ( §§ 44 , 45 ) facility in mind and mental factors ( §§ 46 , 47 ) fitness in mind and mental factors ( §§ 48 , 49 ) directness in mind and mental factors ( §§ 50 , 51 ) mindfulness ( § 52 ) intelligence ( § 53 ) quiet ( § 54 ) intuition ( § 55 ) grasp ( § 56 ) balance ( § 57 ). Now these—or whatever other incorporeal, causally induced states there are on that occasion—these are states that are good.
-```
-
-## ^1-2
-
-```gloss
-\gla Katamo tasmiṃ samaye phasso hoti Yo tasmiṃ samaye phasso phusanā saṃphusanā saṃphusitattaṃ ayaṃ tasmiṃ samaye phasso hoti
-\glc What that occasion contact is The that occasion contact touching being-brought-into-contact state-of-having-been-brought-into-touch-with this that occasion contact is
-\ex What on that occasion is contact ( phasso )? The contact which on that occasion is touching, the being brought into contact, the state of having been brought into touch with—this is the contact that there then is.
-```
-
-## ^1-3
-
-```gloss
-\gla Katamā tasmiṃ samaye vedanā hoti Yaṃ tasmiṃ samaye tajjāmanoviññāṇadhātusamphassajaṃ cetasikaṃ sātaṃ cetasikaṃ sukhaṃ cetosamphassajaṃ sātaṃ sukhaṃ vedayitaṃ cetosamphassajā sātā sukhā vedanā ayaṃ tasmiṃ samaye vedanā hoti
-\glc What that occasion feeling is which that occasion born-of-contact-with-the-appropriate-element-of-representative-intellection mental pleasure mental ease born-of-contact-with-thought pleasurable easeful sensation born-of-contact-with-thought pleasurable easeful feeling this that occasion feeling is
-\ex What on that occasion is feeling ( vedana )? The mental pleasure, the mental ease, which, on that occasion, is born of contact with the appropriate element of representative intellection; the pleasurable, easeful sensation which is born of contact with thought; the pleasurable, easeful feeling which is born of contact with thought—this is the feeling that there then is.
-```
-
-## ^1-4
-
-```gloss
-\gla Katamā tasmiṃ samaye saññā hoti Yā tasmiṃ samaye tajjāmanoviññāṇadhātusamphassajā saññā sañjānanā sañjānitattaṃ ayaṃ tasmiṃ samaye saññā hoti
-\glc What that occasion perception is which that occasion born-of-contact-with-the-appropriate-element-of-representative-intellection perception perceiving state-of-having-perceived this that occasion perception is
-\ex What on that occasion is perception ( saññā )? The perception, the perceiving, the state of having perceived which on that occasion is born of contact with the appropriate element of representative intellection—this is the perception that there then is.
-```
-
-## ^1-5
-
-```gloss
-\gla Katamā tasmiṃ samaye cetanā hoti Yā tasmiṃ samaye tajjāmanoviññāṇadhātusamphassajā cetanā sañcetanā cetayitattaṃ ayaṃ tasmiṃ samaye cetanā hoti
-\glc What that occasion volition is which that occasion born-of-contact-with-the-appropriate-element-of-representative-intellection volition purpose purposefulness this that occasion volition is
-\ex What on that occasion is volition ( cetanā )? The volition, purpose, purposefulness, which is born of contact with the appropriate element of representative intellection—this is the volition that there then is.
-```
-
-## ^1-6
-
-```gloss
-\gla Katamaṃ tasmiṃ samaye cittaṃ hoti Yaṃ tasmiṃ samaye cittaṃ mano mānasaṃ hadayaṃ paṇḍaraṃ mano manāyatanaṃ manindriyaṃ viññāṇaṃ viññāṇakkhandho tajjāmanoviññāṇadhātu idaṃ tasmiṃ samaye cittaṃ hoti
-\glc What that occasion thought is which that occasion thought ideation mind heart that-which-is-clear ideation-as-the-sphere-of-mind faculty-of-mind intellection skandha-of-intellection appropriate-element-of-representative-intellection this that occasion thought is
-\ex What on that occasion is thought ( cittaṃ )? The thought which on that occasion is ideation, mind, heart, that which is clear, ideation as the sphere of mind, the faculty of mind, intellection, the skandha of intellection, the appropriate element of representative intellection—this is the thought that there then is.
-```
-
-## ^1-7
-
-```gloss
-\gla Katamo tasmiṃ samaye vitakko hoti Yo tasmiṃ samaye takko vitakko saṅkappo appanā byappanā cetaso abhiniropanā sammāsaṅkappo ayaṃ tasmiṃ samaye vitakko hoti
-\glc What that occasion application-of-mind is which that occasion discrimination application disposing fixing focussing superposing-of-the-mind right-disposing this that occasion application is
-\ex What on that occasion is application of mind ( vitakko )? The discrimination, the application, which on that occasion is the disposing, the fixing, the focussing, the superposing of the mind, right disposing—this is the application that there then is.
-```
-
-## ^1-8
-
-```gloss
-\gla Katamo tasmiṃ samaye vicāro hoti Yo tasmiṃ samaye cāro vicāro anuvicāro upavicāro cittassa anusandhānatā anupekkhanatā ayaṃ tasmiṃ samaye vicāro hoti
-\glc What that occasion sustained-thought is which that occasion process sustained-procedure vicāro progress access-of-the-mind continuous-adjusting focussing-of-thought this that occasion sustained-thought is
-\ex What on that occasion is sustained thought ( vicāro )? The process, the sustained procedure ( vicāro ), the progress and access [of the mind] which on that occasion is the [continuous] adjusting and focussing of thought—this is the sustained thought that there then is.
-```
-
-## ^1-9
-
-```gloss
-\gla Katamā tasmiṃ samaye pīti hoti Yā tasmiṃ samaye pīti pāmojjaṃ āmodanā pamodanā hāso pahāso vitti odagyaṃ attamanatā cittassa ayaṃ tasmiṃ samaye pīti hoti
-\glc What that occasion zest is which that occasion zest joy rejoicing-at rejoicing-over mirth merriment felicity exultation transport-of-mind this that occasion zest is
-\ex What on that occasion is zest ( pīti )? The zest which on that occasion is joy, rejoicing at, rejoicing over, mirth and merriment, felicity, exultation, transport of mind—this is the zest that there then is.
-```
-
-## ^1-10
-
-```gloss
-\gla Katamaṃ tasmiṃ samaye sukhaṃ hoti Yaṃ tasmiṃ samaye cetasikaṃ sātaṃ cetasikaṃ sukhaṃ cetosamphassajaṃ sātaṃ sukhaṃ vedayitaṃ cetosamphassajā sātā sukhā vedanā idaṃ tasmiṃ samaye sukhaṃ hoti
-\glc What that occasion ease is which that occasion mental pleasure mental ease pleasant easeful experience born-of-contact-with-thought this that occasion ease is
-\ex What on that occasion is ease ( sukhaṃ )? The mental pleasure, the mental ease, which on that occasion is the pleasant, easeful experience born of contact with thought—this is the ease that there then is.
-```
-
-## ^1-11
-
-```gloss
-\gla Katamā tasmiṃ samaye cittassekaggatā hoti Yā tasmiṃ samaye cittassa ṭhiti saṇṭhiti avaṭṭhiti avisāhāro avikkhepo avisāhaṭamānasatā samatho samādhindriyaṃ samādhibalaṃ sammāsamādhi ayaṃ tasmiṃ samaye cittassekaggatā hoti
-\glc What that occasion self-collectedness is which that occasion thought stability solidity absorbed-steadfastness absence-of-distraction balance unperturbed-mental-procedure quiet faculty-of-concentration power-of-concentration right-concentration this that occasion self-collectedness is
-\ex What on that occasion is self-collectedness ( cittass’ ekaggatā )? The stability, solidity, absorbed steadfastness of thought which on that occasion is the absence of distraction, balance, unperturbed mental procedure, quiet, the faculty and the power of concentration, right concentration—this is the self-collectedness that there then is.
-```
-
-## ^1-12
-
-```gloss
-\gla Katamaṃ tasmiṃ samaye saddhindriyaṃ hoti Yā tasmiṃ samaye saddhā saddahanā okappanā abhippasādo saddhā saddhindriyaṃ saddhābalaṃ idaṃ tasmiṃ samaye saddhindriyaṃ hoti
-\glc What that occasion faculty-of-faith is which that occasion faith trusting-in professing-confidence-in sense-of-assurance faith faculty power this that occasion faith is
-\ex What on that occasion is the faculty of faith ( saddhindriyaṃ )? The faith which on that occasion is a trusting in, the professing confidence in, the sense of assurance, faith, faith as a faculty and as a power—this is the faith that there then is.
-```
-
-## ^1-13
-
-```gloss
-\gla Katamaṃ tasmiṃ samaye vīriyindriyaṃ hoti Yo tasmiṃ samaye cetasiko vīriyārambho nikkamo parakkamo uyyāmo vāyāmo ussāho ussoḷhī thāmo dhiti asithilaparakkamatā anikkhittachandatā anikkhittadhuratā dhurasampaggāho vīriyaṃ vīriyindriyaṃ vīriyabalaṃ sammāvāyāmo idaṃ tasmiṃ samaye vīriyindriyaṃ hoti
-\glc What that occasion faculty-of-energy is which that occasion mental inception-of-energy striving onward-effort exertion endeavour zeal ardour vigour fortitude state-of-unfaltering-effort state-of-sustained-desire state-of-unflinching-endurance solid-grip-of-the-burden energy faculty power right-endeavour this that occasion energy is
-\ex What on that occasion is the faculty of energy ( viriyindriyaṃ )? The mental inception of energy which there is on that occasion, the striving and the onward effort, the exertion and endeavour, the zeal and ardour, the vigour and fortitude, the state of unfaltering effort, the state of sustained desire, the state of unflinching endurance and solid grip of the burden, energy, energy as faculty and as power, right endeavour—this is the energy that there then is.
-```
-
-## ^1-14
-
-```gloss
-\gla Katamaṃ tasmiṃ samaye satindriyaṃ hoti Yā tasmiṃ samaye sati anussati paṭissati sati saraṇatā dhāraṇatā apilāpanatā asammussanatā sati satindriyaṃ satibalaṃ sammāsati idaṃ tasmiṃ samaye satindriyaṃ hoti
-\glc What that occasion faculty-of-mindfulness is which that occasion mindfulness recollecting calling-back-to-mind mindfulness remembering bearing-in-mind opposite-of-superficiality opposite-of-obliviousness mindfulness faculty power right-mindfulness this that occasion faculty-of-mindfulness is
-\ex What on that occasion is the faculty of mindfulness ( satindriyaṃ )? The mindfulness which on that occasion is recollecting, calling back to mind; the mindfulness which is remembering, bearing in mind, the opposite of superficiality and of obliviousness; mindfulness as faculty, mindfulness as power, right mindfulness—this is the faculty of mindfulness that there then is.
-```
-
-## ^1-15
-
-```gloss
-\gla Katamaṃ tasmiṃ samaye samādhindriyaṃ hoti Yā tasmiṃ samaye cittassa ṭhiti saṇṭhiti avaṭṭhiti avisāhāro avikkhepo avisāhaṭamānasatā samatho samādhindriyaṃ samādhibalaṃ sammāsamādhi idaṃ tasmiṃ samaye samādhindriyaṃ hoti
-\glc What that occasion faculty-of-concentration is which that occasion thought stability solidity absorbed-steadfastness absence-of-distraction balance unperturbed-mental-procedure quiet faculty-of-concentration power-of-concentration right-concentration this that occasion faculty-of-concentration is
-\ex What on that occasion is the faculty of concentration ( samādhindriyaṃ )? Answer as for “self-collectedness”, § 11 .
-```
-
-## ^1-16
-
-```gloss
-\gla Katamaṃ tasmiṃ samaye paññindriyaṃ hoti Yā tasmiṃ samaye paññā pajānanā vicayo pavicayo dhammavicayo sallakkhaṇā upalakkhaṇā paccupalakkhaṇā paṇḍiccaṃ kosallaṃ nepuññaṃ vebhabyā cintā upaparikkhā bhūrī medhā pariṇāyikā vipassanā sampajaññaṃ patodo paññā paññindriyaṃ paññābalaṃ paññāsatthaṃ paññāpāsādo paññāāloko paññāobhāso paññāpajjoto paññāratanaṃ amoho dhammavicayo sammādiṭṭhi idaṃ tasmiṃ samaye paññindriyaṃ hoti
-\glc What that occasion faculty-of-insight is which that occasion insight understanding search research searching-the-Doctrine discernment discrimination differentiation erudition proficiency subtlety criticism reflection analysis breadth sagacity guide intuition intelligence goad wisdom-as-faculty wisdom-as-power wisdom-as-a-sword wisdom-as-a-height wisdom-as-light wisdom-as-glory wisdom-as-splendour wisdom-as-a-precious-stone absence-of-dullness searching-the-Truth right-views this that occasion wisdom is
-\ex What on that occasion is the faculty of insight ( paññindriyaṃ )? The insight which there is on that occasion is understanding, search, research, searching the Doctrine, discernment, discrimination, differentiation, erudition, proficiency, subtlety, criticism, reflection, analysis, breadth, sagacity, a “guide”, intuition, intelligence, a “goad”; wisdom as faculty, wisdom as power, wisdom as a sword, wisdom as a height, wisdom as light, wisdom as glory, wisdom as splendour, wisdom as a precious stone; the absence of dullness, searching the Truth, right views—this is the wisdom that there then is.
-```
-
-## ^1-17
-
-```gloss
-\gla Katamaṃ tasmiṃ samaye manindriyaṃ hoti Yaṃ tasmiṃ samaye cittaṃ mano mānasaṃ hadayaṃ paṇḍaraṃ mano manāyatanaṃ manindriyaṃ viññāṇaṃ viññāṇakkhandho tajjāmanoviññāṇadhātu idaṃ tasmiṃ samaye manindriyaṃ hoti
-\glc What that occasion faculty-of-mind is which that occasion thought ideation mind heart that-which-is-clear ideation-as-the-sphere-of-mind faculty-of-mind intellection skandha-of-intellection appropriate-element-of-representative-intellection this that occasion thought is
-\ex What on that occasion is the faculty of mind (representative imagination, manindriyaṃ )? Answer as for “thought” ( cittaṃ ), § 6 .
-```
-
-## ^1-18
-
-```gloss
-\gla Katamaṃ tasmiṃ samaye somanassindriyaṃ hoti Yaṃ tasmiṃ samaye cetasikaṃ sātaṃ cetasikaṃ sukhaṃ cetosamphassajaṃ sātaṃ sukhaṃ vedayitaṃ cetosamphassajā sātā sukhā vedanā idaṃ tasmiṃ samaye somanassindriyaṃ hoti
-\glc What that occasion faculty-of-pleasure is which that occasion mental pleasure mental ease pleasant easeful experience born-of-contact-with-thought this that occasion ease is
-\ex What on that occasion is the faculty of pleasure ( somanassin-driyaṃ )? Answer as for “ease” ( sukhaṃ ), § 10 .
-```
-
-## ^1-19
-
-```gloss
-\gla Katamaṃ tasmiṃ samaye jīvitindriyaṃ hoti Yo tesaṃ arūpīnaṃ dhammānaṃ āyu ṭhiti yapanā yāpanā iriyanā vattanā pālanā jīvitaṃ jīvitindriyaṃ idaṃ tasmiṃ samaye jīvitindriyaṃ hoti
-\glc What that occasion faculty-of-life is which these incorporeal states persistence subsistence going-on being-kept-going-on progress continuance preservation life faculty this that occasion faculty-of-life is
-\ex What on that occasion is the faculty of life ( jīvitindriyaṃ )? The persistence of these incorporeal states, their subsistence, going on, their being kept going on, their progress, continuance, preservation, life, life as faculty—this is the faculty of life that there then is.
-```
-
-## ^1-20
-
-```gloss
-\gla Katamā tasmiṃ samaye sammādiṭṭhi hoti Yā tasmiṃ samaye paññā pajānanā vicayo pavicayo dhammavicayo sallakkhaṇā upalakkhaṇā paccupalakkhaṇā paṇḍiccaṃ kosallaṃ nepuññaṃ vebhabyā cintā upaparikkhā bhūrī medhā pariṇāyikā vipassanā sampajaññaṃ patodo paññā paññindriyaṃ paññābalaṃ paññāsatthaṃ paññāpāsādo paññāāloko paññāobhāso paññāpajjoto paññāratanaṃ amoho dhammavicayo sammādiṭṭhi ayaṃ tasmiṃ samaye sammādiṭṭhi hoti
-\glc What that occasion right-views is which that occasion insight understanding search research searching-the-Doctrine discernment discrimination differentiation erudition proficiency subtlety criticism reflection analysis breadth sagacity guide intuition intelligence goad wisdom-as-faculty wisdom-as-power wisdom-as-a-sword wisdom-as-a-height wisdom-as-light wisdom-as-glory wisdom-as-splendour wisdom-as-a-precious-stone absence-of-dullness searching-the-Truth right-views this that occasion wisdom is
-\ex What on that occasion are right views ( sammā-diṭṭhi )? Answer as for the “faculty of insight”, § 16 .
-```
-
-## ^1-21
-
-```gloss
-\gla Katamo tasmiṃ samaye sammāsaṅkappo hoti Yo tasmiṃ samaye takko vitakko saṅkappo appanā byappanā cetaso abhiniropanā sammāsaṅkappo ayaṃ tasmiṃ samaye sammāsaṅkappo hoti
-\glc What that occasion right-intention is which that occasion discrimination application disposing fixing focussing superposing-of-the-mind right-disposing this that occasion application is
-\ex What on that occasion is right intention ( sammā-sankappo )? Answer as for “application of mind”, § 7 .
-```
-
-## ^1-22
-
-```gloss
-\gla Katamo tasmiṃ samaye sammāvāyāmo hoti Yo tasmiṃ samaye cetasiko vīriyārambho nikkamo parakkamo uyyāmo vāyāmo ussāho ussoḷhī thāmo dhiti asithilaparakkamatā anikkhittachandatā anikkhittadhuratā dhurasampaggāho vīriyaṃ vīriyindriyaṃ vīriyabalaṃ sammāvāyāmo ayaṃ tasmiṃ samaye sammāvāyāmo hoti
-\glc What that occasion right-endeavour is which that occasion mental inception-of-energy striving onward-effort exertion endeavour zeal ardour vigour fortitude state-of-unfaltering-effort state-of-sustained-desire state-of-unflinching-endurance solid-grip-of-the-burden energy faculty power right-endeavour this that occasion energy is
-\ex What on that occasion is right endeavour ( sammā-vāyāmo )? Answer as for the “faculty of energy”, § 13 .
-```
-
-## ^1-23
-
-```gloss
-\gla Katamā tasmiṃ samaye sammāsati hoti Yā tasmiṃ samaye sati anussati paṭissati sati saraṇatā dhāraṇatā apilāpanatā asammussanatā sati satindriyaṃ satibalaṃ sammāsati ayaṃ tasmiṃ samaye sammāsati hoti
-\glc What that occasion right-mindfulness is which that occasion mindfulness recollecting calling-back-to-mind mindfulness remembering bearing-in-mind opposite-of-superficiality opposite-of-obliviousness mindfulness faculty power right-mindfulness this that occasion faculty-of-mindfulness is
-\ex What on that occasion is right mindfulness ( sammāsati )? Answer as for the “faculty of mindfulness”, § 14 .
-```
-
-## ^1-24
-
-```gloss
-\gla Katamo tasmiṃ samaye sammāsamādhi hoti Yā tasmiṃ samaye cittassa ṭhiti saṇṭhiti avaṭṭhiti avisāhāro avikkhepo avisāhaṭamānasatā samatho samādhindriyaṃ samādhibalaṃ sammāsamādhi ayaṃ tasmiṃ samaye sammāsamādhi hoti
-\glc What that occasion right-concentration is which that occasion thought stability solidity absorbed-steadfastness absence-of-distraction balance unperturbed-mental-procedure quiet faculty-of-concentration power-of-concentration right-concentration this that occasion self-collectedness is
-\ex What on that occasion is right concentration ( sammā-samādhi )? Answer as for “self-collectedness”, § 11 .
-```
-
-## ^1-25
-
-```gloss
-\gla Katamaṃ tasmiṃ samaye saddhābalaṃ hoti Yā tasmiṃ samaye saddhā saddahanā okappanā abhippasādo saddhā saddhindriyaṃ saddhābalaṃ idaṃ tasmiṃ samaye saddhābalaṃ hoti
-\glc What that occasion power-of-faith is which that occasion faith trusting-in professing-confidence-in sense-of-assurance faith faculty power this that occasion faith is
-\ex What on that occasion is the power of faith ( saddhābalaṃ )? Answer as for the “faculty of faith”, § 12 .
-```
-
-## ^1-26
-
-```gloss
-\gla Katamaṃ tasmiṃ samaye vīriyabalaṃ hoti Yo tasmiṃ samaye cetasiko vīriyārambho nikkamo parakkamo uyyāmo vāyāmo ussāho ussoḷhī thāmo dhiti asithilaparakkamatā anikkhittachandatā anikkhittadhuratā dhurasampaggāho vīriyaṃ vīriyindriyaṃ vīriyabalaṃ sammāvāyāmo idaṃ tasmiṃ samaye vīriyabalaṃ hoti
-\glc What that occasion power-of-energy is which that occasion mental inception-of-energy striving onward-effort exertion endeavour zeal ardour vigour fortitude state-of-unfaltering-effort state-of-sustained-desire state-of-unflinching-endurance solid-grip-of-the-burden energy faculty power right-endeavour this that occasion energy is
-\ex What on that occasion is the power of energy ( viriyabalaṃ )? Answer as for the “faculty of energy”, § 13 .
-```
-
-## ^1-27
-
-```gloss
-\gla Katamaṃ tasmiṃ samaye satibalaṃ hoti Yā tasmiṃ samaye sati anussati paṭissati sati saraṇatā dhāraṇatā apilāpanatā asammussanatā sati satindriyaṃ satibalaṃ sammāsati idaṃ tasmiṃ samaye satibalaṃ hoti
-\glc What that occasion power-of-mindfulness is which that occasion mindfulness recollecting calling-back-to-mind mindfulness remembering bearing-in-mind opposite-of-superficiality opposite-of-obliviousness mindfulness faculty power right-mindfulness this that occasion faculty-of-mindfulness is
-\ex What on that occasion is the power of mindfulness ( sati-balaṃ )? Answer as for the “faculty of mindfulness”, § 14 .
-```
-
-## ^1-28
-
-```gloss
-\gla Katamaṃ tasmiṃ samaye samādhibalaṃ hoti Yā tasmiṃ samaye cittassa ṭhiti saṇṭhiti avaṭṭhiti avisāhāro avikkhepo avisāhaṭamānasatā samatho samādhindriyaṃ samādhibalaṃ sammāsamādhi idaṃ tasmiṃ samaye samādhibalaṃ hoti
-\glc What that occasion power-of-concentration is which that occasion thought stability solidity absorbed-steadfastness absence-of-distraction balance unperturbed-mental-procedure quiet faculty-of-concentration power-of-concentration right-concentration this that occasion self-collectedness is
-\ex What on that occasion is the power of concentration ( samādhi-balaṃ )? Answer as for “self-collectedness”, § 11 .
-```
-
-## ^1-29
-
-```gloss
-\gla Katamaṃ tasmiṃ samaye paññābalaṃ hoti Yā tasmiṃ samaye paññā pajānanā vicayo pavicayo dhammavicayo sallakkhaṇā upalakkhaṇā paccupalakkhaṇā paṇḍiccaṃ kosallaṃ nepuññaṃ vebhabyā cintā upaparikkhā bhūrī medhā pariṇāyikā vipassanā sampajaññaṃ patodo paññā paññindriyaṃ paññābalaṃ paññāsatthaṃ paññāpāsādo paññāāloko paññāobhāso paññāpajjoto paññāratanaṃ amoho dhammavicayo sammādiṭṭhi idaṃ tasmiṃ samaye paññābalaṃ hoti
-\glc What that occasion power-of-insight is which that occasion insight understanding search research searching-the-Doctrine discernment discrimination differentiation erudition proficiency subtlety criticism reflection analysis breadth sagacity guide intuition intelligence goad wisdom-as-faculty wisdom-as-power wisdom-as-a-sword wisdom-as-a-height wisdom-as-light wisdom-as-glory wisdom-as-splendour wisdom-as-a-precious-stone absence-of-dullness searching-the-Truth right-views this that occasion wisdom is
-\ex What on that occasion is the power of insight ( paññābalaṃ )? Answer as for the “faculty of wisdom”, § 16 .
-```
-
-## ^1-30
-
-```gloss
-\gla Katamaṃ tasmiṃ samaye hiribalaṃ hoti Yaṃ tasmiṃ samaye hirīyati hiriyitabbena hirīyati pāpakānaṃ akusalānaṃ dhammānaṃ samāpattiyā idaṃ tasmiṃ samaye hiribalaṃ hoti
-\glc What that occasion power-of-conscientiousness is which that occasion conscientious scruple felt scruples ought-to-be-felt conscientious-scruple attaining-to-bad-and-evil-states this that occasion power-of-conscientiousness is
-\ex What on that occasion is the power of conscientiousness ( hiribalaṃ )? The feeling of conscientious scruple which there is on that occasion when scruples ought to be felt, conscientious scruple at attaining to bad and evil states—this is the power of conscientiousness that there then is.
-```
-
-## ^1-31
-
-```gloss
-\gla Katamaṃ tasmiṃ samaye ottappabalaṃ hoti Yaṃ tasmiṃ samaye ottappati ottappitabbena ottappati pāpakānaṃ akusalānaṃ dhammānaṃ samāpattiyā idaṃ tasmiṃ samaye ottappabalaṃ hoti
-\glc What that occasion power-of-the-fear-of-blame is which that occasion sense-of-guilt felt sense-of-guilt ought-to-be-felt sense-of-guilt attaining-to-bad-and-evil-states this that occasion fear-of-blame is
-\ex What on that occasion is the power of the fear of blame ( ottappabalaṃ )? The sense of guilt which there is on that occasion, where a sense of guilt ought to be felt, a sense of guilt at attaining to bad and evil states—this is the fear of blame that there then is.
-```
-
-## ^1-32
-
-```gloss
-\gla Katamo tasmiṃ samaye alobho hoti Yo tasmiṃ samaye alobho alubbhanā alubbhitattaṃ asārāgo asārajjanā asārajjitattaṃ anabhijjhā alobho kusalamūlaṃ ayaṃ tasmiṃ samaye alobho hoti
-\glc What that occasion absence-of-greed is which that occasion absence-of-greed being-greedy greediness absence-of-infatuation feeling being-infatuated absence-of-covetousness absence-of-greed root-of-good this that occasion absence-of-greed is
-\ex What on that occasion is disinterestedness ( alobho )? The absence of greed, of being greedy, of greediness, which there is on that occasion, the absence of infatuation, the feeling and being infatuated, the absence of covetousness, that absence of greed which is the root of good—this is the absence of greed that there then is.
-```
-
-## ^1-33
-
-```gloss
-\gla Katamo tasmiṃ samaye adoso hoti Yo tasmiṃ samaye adoso adussanā adussitattaṃ abyāpādo abyāpajjo adoso kusalamūlaṃ ayaṃ tasmiṃ samaye adoso hoti
-\glc What that occasion absence-of-hate is which that occasion absence-of-hate hating hatred absence-of-malice spleen absence-of-hate root-of-good this that occasion absence-of-hate is
-\ex What on that occasion is the absence of hate ( adoso )? The absence of hate, of hating, of hatred, which there is on that occasion, the absence of malice, of spleen, the absence of hate, which is the root of good—this is the absence of hate that there then is.
-```
-
-## ^1-34
-
-```gloss
-\gla Katamo tasmiṃ samaye amoho hoti Yā tasmiṃ samaye paññā pajānanā vicayo pavicayo dhammavicayo sallakkhaṇā upalakkhaṇā paccupalakkhaṇā paṇḍiccaṃ kosallaṃ nepuññaṃ vebhabyā cintā upaparikkhā bhūrī medhā pariṇāyikā vipassanā sampajaññaṃ patodo paññā paññindriyaṃ paññābalaṃ paññāsatthaṃ paññāpāsādo paññāāloko paññāobhāso paññāpajjoto paññāratanaṃ amoho dhammavicayo sammādiṭṭhi amoho kusalamūlaṃ ayaṃ tasmiṃ samaye amoho hoti
-\glc What that occasion absence-of-dullness is which that occasion insight understanding search research searching-the-Doctrine discernment discrimination differentiation erudition proficiency subtlety criticism reflection analysis breadth sagacity guide intuition intelligence goad wisdom-as-faculty wisdom-as-power wisdom-as-a-sword wisdom-as-a-height wisdom-as-light wisdom-as-glory wisdom-as-splendour wisdom-as-a-precious-stone absence-of-dullness searching-the-Truth right-views absence-of-dullness root-of-good this that occasion absence-of-dullness is
-\ex What on that occasion is the absence of dullness ( amoho )? Answer as for the “faculty of insight”, § 16 .
-```
-
-## ^1-35
-
-```gloss
-\gla Katamā tasmiṃ samaye anabhijjhā hoti Yo tasmiṃ samaye alobho alubbhanā alubbhitattaṃ asārāgo asārajjanā asārajjitattaṃ anabhijjhā alobho kusalamūlaṃ ayaṃ tasmiṃ samaye anabhijjhā hoti
-\glc What that occasion absence-of-covetousness is which that occasion absence-of-greed being-greedy greediness absence-of-infatuation feeling being-infatuated absence-of-covetousness absence-of-greed root-of-good this that occasion absence-of-greed is
-\ex What on that occasion is the absence of covetousness ( anabh-ijjhā )? Answer as for “disinterestedness”, § 32 .
-```
-
-## ^1-36
-
-```gloss
-\gla Katamo tasmiṃ samaye abyāpādo hoti Yo tasmiṃ samaye adoso adussanā adussitattaṃ abyāpādo abyāpajjo adoso kusalamūlaṃ ayaṃ tasmiṃ samaye abyāpādo hoti
-\glc What that occasion absence-of-malice is which that occasion absence-of-hate hating hatred absence-of-malice spleen absence-of-hate root-of-good this that occasion absence-of-hate is
-\ex What on that occasion is the absence of malice ( avyāpādo )? Answer as for the “absence of hate”, § 33 .
-```
-
-## ^1-37
-
-```gloss
-\gla Katamā tasmiṃ samaye sammādiṭṭhi hoti Yā tasmiṃ samaye paññā pajānanā vicayo pavicayo dhammavicayo sallakkhaṇā upalakkhaṇā paccupalakkhaṇā paṇḍiccaṃ kosallaṃ nepuññaṃ vebhabyā cintā upaparikkhā bhūrī medhā pariṇāyikā vipassanā sampajaññaṃ patodo paññā paññindriyaṃ paññābalaṃ paññāsatthaṃ paññāpāsādo paññāāloko paññāobhāso paññāpajjoto paññāratanaṃ amoho dhammavicayo sammādiṭṭhi ayaṃ tasmiṃ samaye sammādiṭṭhi hoti
-\glc What that occasion right-views is which that occasion insight understanding search research searching-the-Doctrine discernment discrimination differentiation erudition proficiency subtlety criticism reflection analysis breadth sagacity guide intuition intelligence goad wisdom-as-faculty wisdom-as-power wisdom-as-a-sword wisdom-as-a-height wisdom-as-light wisdom-as-glory wisdom-as-splendour wisdom-as-a-precious-stone absence-of-dullness searching-the-Truth right-views this that occasion wisdom is
-\ex What on that occasion are right views ( sammādiṭṭhi )? Answer as for the “faculty of insight”, § 16 .
-```
-
-## ^1-38
-
-```gloss
-\gla Katamā tasmiṃ samaye hirī hoti Yaṃ tasmiṃ samaye hirīyati hiriyitabbena hirīyati pāpakānaṃ akusalānaṃ dhammānaṃ samāpattiyā ayaṃ tasmiṃ samaye hirī hoti
-\glc What that occasion conscientiousness is which that occasion conscientious scruple felt scruples ought-to-be-felt conscientious-scruple attaining-to-bad-and-evil-states this that occasion power-of-conscientiousness is
-\ex What on that occasion is conscientiousness ( hiri )? Answer as for the “power of conscientiousness”, § 30 .
-```
-
-## ^1-39
-
-```gloss
-\gla Katamaṃ tasmiṃ samaye ottappaṃ hoti Yaṃ tasmiṃ samaye ottappati ottappitabbena ottappati pāpakānaṃ akusalānaṃ dhammānaṃ samāpattiyā idaṃ tasmiṃ samaye ottappaṃ hoti
-\glc What that occasion fear-of-blame is which that occasion sense-of-guilt felt sense-of-guilt ought-to-be-felt sense-of-guilt attaining-to-bad-and-evil-states this that occasion fear-of-blame is
-\ex What on that occasion is the fear of blame ( ottappaṃ )? Answer as for the “power of the fear of blame”, § 31 .
-```
-
-## ^1-40
-
-```gloss
-\gla Katamā tasmiṃ samaye kāyapassaddhi hoti Yā tasmiṃ samaye vedanākkhandhassa saññākkhandhassa saṅkhārakkhandhassa passaddhi paṭipassaddhi passambhanā paṭipassambhanā paṭipassambhitattaṃ ayaṃ tasmiṃ samaye kāyapassaddhi hoti
-\glc What that occasion serenity-of-mental-factors is which that occasion feeling perception synergies serenity composure calming tranquillizing tranquillity this that occasion serenity-of-mental-factors is
-\ex What on that occasion is repose of mental factors ( kāyappassaddhi )? The serenity, the composure which there is on that occasion, the calming, the tranquillizing, the tranquillity of the skandhas of feeling, perception and synergies—this is the serenity of mental factors that there then is.
-```
-
-## ^1-41
-
-```gloss
-\gla Katamā tasmiṃ samaye cittapassaddhi hoti Yā tasmiṃ samaye viññāṇakkhandhassa passaddhi paṭipassaddhi passambhanā paṭipassambhanā paṭipassambhitattaṃ ayaṃ tasmiṃ samaye cittapassaddhi hoti
-\glc What that occasion serenity-of-mind is which that occasion mind serenity composure calming tranquillizing tranquillity this that occasion serenity-of-mind is
-\ex What on that occasion is serenity of mind ( cittapassaddhi )? The serenity, the composure which there is on that occasion, the calming, the tranquillizing, the tranquillity of the skandha of mind—this is the serenity of mind that there then is.
+\gla    ganthavippayuttā        kho   pana   dhammā   ganthaniyāpi                 aganthaniyāpi
+\glc    dissociated-from-ties   --    --     States   may-be-favourable-to-ties   may-not-be-favourable-to-ties
+\ex     States that are dissociated from ties; but may or may not be favourable to ties.
 ```
