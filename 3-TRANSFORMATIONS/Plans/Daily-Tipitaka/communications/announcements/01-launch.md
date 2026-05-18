@@ -4,7 +4,7 @@ when: kickoff
 status: draft
 ---
 
-# Launch Announcement — Daily Abhidhamma
+# Launch Announcement — Daily Tipitaka
 
 _(Draft placeholder — to be written close to the kickoff date in collaboration with ITCC.)_
 

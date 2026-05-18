@@ -19,7 +19,7 @@ Reference site: <https://lbdfi.org/daily-abhidhamma/>.
 
 ## 2. Audience
 
-> Detailed audience profile lives in [`audience.md`](./audience.md). The bullets below are the headline summary; the profiling detail (demographics, prior knowledge, use cases, motivations) lives there.
+> Detailed audience profile lives in [`audience.md`](3-TRANSFORMATIONS/Plans/Daily-Tipitaka/audience.md). The bullets below are the headline summary; the profiling detail (demographics, prior knowledge, use cases, motivations) lives there.
 
 - Lay practitioners across the Theravāda world, including newcomers to the Abhidhamma.
 - Monastic participants of the ITCC chanting cohort.

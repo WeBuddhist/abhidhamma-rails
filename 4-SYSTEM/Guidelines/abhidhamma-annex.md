@@ -135,7 +135,7 @@ The Contemporary-* translation series is modelled on the NIV's optimal-equivalen
 
 ---
 
-## 5. Daily Abhidhamma — vault-specific transformation track
+## 5. Daily Tipitaka — vault-specific transformation track
 
 The `3-TRANSFORMATIONS/Plans/Daily-Abhidhamma/` folder is a vault-specific transformation track prepared in collaboration with the **International Tipiṭaka Chanting Council (ITCC)** for the chanting gathering at Bodhgayā, December 2026. The track's brief, daily structure, plan organisation, and communications conventions live in that folder's own README and brief; this annex only notes that the track exists and that it relies on the rails like any other transformation.
 

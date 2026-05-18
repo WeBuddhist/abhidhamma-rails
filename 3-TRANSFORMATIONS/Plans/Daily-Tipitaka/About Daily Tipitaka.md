@@ -1,8 +1,8 @@
-# Daily Abhidhamma
+# Daily Tipitaka
 
-A 200-day reading-and-chanting journey through the Abhidhamma, prepared in collaboration with the **International Tipiṭaka Chanting Council (ITCC)** in the run-up to the chanting gathering at Bodhgayā, December 2026.
+A 200-day reading-and-chanting journey through this year's Tipitaka section, the first part of the Abhidhamma, prepared in collaboration with the **International Tipiṭaka Chanting Council (ITCC)** in the run-up to the chanting gathering at Bodhgayā, December 2026.
 
-This is a **Plan track** in the sense of [`../About Plans.md`](../About%20Plans.md): a calendar-driven engagement with the text generated from completed rails. The category-wide rules for plans live there; this file is the cross-language brief and folder map for the Daily-Abhidhamma plan specifically.
+This is a **Plan track** in the sense of [`../About Plans.md`](../About%20Plans.md): a calendar-driven engagement with the text generated from completed rails. The category-wide rules for plans live there; this file is the cross-language brief and folder map for the Daily-Tipitaka plan specifically.
 
 ## Per-session shape (all languages)
 
@@ -40,8 +40,8 @@ Each language stream is self-contained. For any stream, read in this order:
 ## Folder map
 
 ```
-Daily-Abhidhamma/
-├── About Daily Abhidhamma.md   # this file — cross-language brief
+Daily-Tipitaka/
+├── About Daily Tipitaka.md   # this file — cross-language brief
 └── <lang>/                     # one per published language
     ├── requirements.md         # style contract (in target language)
     ├── termbase.md             # vocabulary contract

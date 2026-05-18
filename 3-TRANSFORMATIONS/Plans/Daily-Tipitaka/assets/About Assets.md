@@ -1,6 +1,6 @@
 # Assets
 
-Supporting media for the Daily Abhidhamma.
+Supporting media for the Daily Tipitaka.
 
 ## Subfolders
 
