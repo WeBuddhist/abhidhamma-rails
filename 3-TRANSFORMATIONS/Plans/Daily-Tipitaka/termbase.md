@@ -1,10 +1,10 @@
 ---
-brief_id: daily-abhidhamma
+brief_id: daily-tipitaka
 purpose: standard term renderings used across all 200 days, all languages
 status: draft
 ---
 
-# Daily Abhidhamma — Terminology
+# Daily Tipitaka — Terminology
 
 This file pins the **standard rendering** of every recurring Abhidhamma term across the 200-day journey, in every language we publish. It is the single source of truth for the daily content; the per-language translation requirements (`../Translation/<lang>/requirements.md`) are where the deeper rationale lives.
 
