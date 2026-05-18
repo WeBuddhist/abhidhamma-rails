@@ -46,7 +46,7 @@ A small number of Pāli terms are kept untranslated and italicised on first use 
 - `dhamma` is rendered _phenomenon_ in Abhidhamma analytical contexts, _teaching_ in dispensation contexts, _quality_ in mind-state contexts. The first occurrence in any new text carries a footnote that names the three senses and points at `2-RAILS/Local-Wiki/dhamma (phenomenon).md`, `dhamma (teaching).md`, etc.
 - `Nibbāna` is kept in Pāli, italicised on first use, then in roman thereafter.
 - `Buddha`, `Dhamma` (capital-D, when it means the teaching), and `Saṅgha` are kept in their Pāli forms, capitalised, no italics.
-- Every other Pāli technical term uses its locked English rendering, drawn from `2-RAILS/Bilingual-Glossaries/glossary-pi-en.md` and recorded in the Daily Abhidhamma cross-output table at `../../Plans/Daily-Tipitaka/termbase.md`. A term is locked _across_ outputs, not per file — once a rendering ships, every later output uses the same one.
+- Every other Pāli technical term uses its locked English rendering, drawn from `2-RAILS/Bilingual-Glossaries/glossary-pi-en.md` and recorded in the Daily Tipitaka cross-output table at `../../Plans/Daily-Tipitaka/termbase.md`. A term is locked _across_ outputs, not per file — once a rendering ships, every later output uses the same one.
 
 ### 1.4 What we never do
 
