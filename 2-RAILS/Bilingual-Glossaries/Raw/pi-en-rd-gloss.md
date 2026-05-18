@@ -38,7 +38,7 @@ status: draft
 ## ^1-0a-4
 
 ```gloss
-\gla upādiṇṇupādāniyā dhammā anupādiṇṇupādāniyā dhammā anupādiṇṇaanupādiṇṇā dhammā
+\gla upādiṇṇupādāniyā dhammā anupādiṇṇupādāniyā dhammā anupādiṇṇaanupādāniyā dhammā
 \glb grasped-at-and-favourable-to-grasping States not-grasped-at-but-are-favourable-to-grasping States neither-[grasped-at-and-favourable-to-grasping-not-grasped-at-but-are-favourable-to-grasping] States
 \ex States that are grasped at and favourable to grasping; that are not grasped at but are favourable to grasping; that are neither.
 ```
@@ -79,7 +79,7 @@ status: draft
 
 ```gloss
 \gla dassanena pahātabbahetukā dhammā bhāvanāya pahātabbahetukā dhammā neva dassanena na bhāvanāya pahātabbahetukā dhammā
-\glb vision moral-roots States culture moral-roots States neither vision -- culture moral-roots States
+\glb by-vision moral-roots-to-be-put-away States by-culture moral-roots-to-be-put-away States neither vision -- culture moral-roots-to-be-put-away States
 \ex States, the moral roots of which are to be put away by vision; by culture; by neither.
 ```
 
@@ -440,7 +440,7 @@ status: draft
 ```gloss
 \gla oghā dhammā no oghā dhammā
 \glb [floods] States [are-not] [floods] States
-\ex -
+\ex States that are floods; are not floods.
 ```
 
 ## ^1-0b-33
@@ -448,7 +448,7 @@ status: draft
 ```gloss
 \gla oghaniyā dhammā anoghaniyā dhammā
 \glb [favourable-to-floods] States [are-not-so] States
-\ex -
+\ex States that are favourable to floods; are not so.
 ```
 
 ## ^1-0b-34
@@ -456,7 +456,7 @@ status: draft
 ```gloss
 \gla oghasampayuttā dhammā oghavippayuttā dhammā
 \glb [associated-with-floods] States [dissociated-from-floods] States
-\ex -
+\ex States that are associated with floods; are dissociated from floods.
 ```
 
 ## ^1-0b-35
@@ -464,7 +464,7 @@ status: draft
 ```gloss
 \gla oghā ceva dhammā oghaniyā ca oghaniyā ceva dhammā no ca oghā
 \glb [floods] [both] States [favourable-to-floods] [and] [favourable-to-floods] [both] States [are-not] [and] [floods]
-\ex -
+\ex States that are both floods and favourable to floods; that are the latter but not the former.
 ```
 
 ## ^1-0b-36
@@ -472,7 +472,7 @@ status: draft
 ```gloss
 \gla oghā ceva dhammā oghasampayuttā ca oghasampayuttā ceva dhammā no ca oghā
 \glb [floods] [both] States [associated-with-floods] [and] [associated-with-floods] [both] States [are-not] [and] [floods]
-\ex -
+\ex States that are both floods and associated with floods; that are the latter but not the former.
 ```
 
 ## ^1-0b-37
@@ -480,7 +480,7 @@ status: draft
 ```gloss
 \gla oghavippayuttā kho pana dhammā oghaniyāpi anoghaniyāpi
 \glb [dissociated-from-floods] -- -- States [may-be-favourable-to-floods] [unfavourable]
-\ex -
+\ex States that are dissociated from floods, but may be favourable to floods or unfavourable.
 ```
 
 ## ^1-0b-38
@@ -488,7 +488,7 @@ status: draft
 ```gloss
 \gla yogā dhammā no yogā dhammā
 \glb [bonds] States [are-not] [bonds] States
-\ex -
+\ex States that are bonds; are not bonds.
 ```
 
 ## ^1-0b-39
@@ -496,7 +496,7 @@ status: draft
 ```gloss
 \gla yoganiyā dhammā ayoganiyā dhammā
 \glb [favourable-to-bonds] States [are-not-so] States
-\ex -
+\ex States that are favourable to bonds; are not so.
 ```
 
 ## ^1-0b-40
@@ -504,7 +504,7 @@ status: draft
 ```gloss
 \gla yogasampayuttā dhammā yogavippayuttā dhammā
 \glb [associated-with-bonds] States [dissociated-from-bonds] States
-\ex -
+\ex States that are associated with bonds; are dissociated from bonds.
 ```
 
 ## ^1-0b-41
@@ -512,7 +512,7 @@ status: draft
 ```gloss
 \gla yogā ceva dhammā yoganiyā ca yoganiyā ceva dhammā no ca yogā
 \glb [bonds] [both] States [favourable-to-bonds] [and] [favourable-to-bonds] [both] States [are-not] [and] [bonds]
-\ex -
+\ex States that are both bonds and favourable to bonds; that are the latter but not the former.
 ```
 
 ## ^1-0b-42
@@ -520,7 +520,7 @@ status: draft
 ```gloss
 \gla yogā ceva dhammā yogasampayuttā ca yogasampayuttā ceva dhammā no ca yogā
 \glb [bonds] [both] States [associated-with-bonds] [and] [associated-with-bonds] [both] States [are-not] [and] [bonds]
-\ex -
+\ex States that are both bonds and associated with bonds; that are the latter but not the former.
 ```
 
 ## ^1-0b-43
@@ -528,7 +528,7 @@ status: draft
 ```gloss
 \gla yogavippayuttā kho pana dhammā yoganiyāpi ayoganiyāpi
 \glb [dissociated-from-bonds] -- -- States [may-be-favourable-to-bonds] [unfavourable]
-\ex -
+\ex States that are dissociated from bonds, but may be favourable to bonds or unfavourable.
 ```
 
 ## ^1-0b-44
@@ -536,7 +536,7 @@ status: draft
 ```gloss
 \gla nīvaraṇā dhammā no nīvaraṇā dhammā
 \glb hindrances States are-not hindrances States
-\ex -
+\ex States that are hindrances; are not hindrances.
 ```
 
 ## ^1-0b-45
@@ -544,7 +544,7 @@ status: draft
 ```gloss
 \gla nīvaraṇiyā dhammā anīvaraṇiyā dhammā
 \glb favourable-to-hindrances States are-not-so States
-\ex -
+\ex States that are favourable to hindrances; are not so.
 ```
 
 ## ^1-0b-46
@@ -552,7 +552,7 @@ status: draft
 ```gloss
 \gla nīvaraṇasampayuttā dhammā nīvaraṇavippayuttā dhammā
 \glb associated-with-hindrances States dissociated-from-hindrances States
-\ex -
+\ex States that are associated with hindrances; are dissociated from hindrances.
 ```
 
 ## ^1-0b-47
@@ -560,7 +560,7 @@ status: draft
 ```gloss
 \gla nīvaraṇā ceva dhammā nīvaraṇiyā ca nīvaraṇiyā ceva dhammā no ca nīvaraṇā
 \glb hindrances both States favourable-to-hindrances and favourable-to-hindrances both States are-not and hindrances
-\ex -
+\ex States that are both hindrances and favourable to hindrances; that are the latter but not the former.
 ```
 
 ## ^1-0b-48
@@ -568,7 +568,7 @@ status: draft
 ```gloss
 \gla nīvaraṇā ceva dhammā nīvaraṇasampayuttā ca nīvaraṇasampayuttā ceva dhammā no ca nīvaraṇā
 \glb hindrances both States associated-with-hindrances and associated-with-hindrances both States are-not and hindrances
-\ex -
+\ex States that are both hindrances and associated with hindrances; that are the latter but not the former.
 ```
 
 ## ^1-0b-49
@@ -576,7 +576,7 @@ status: draft
 ```gloss
 \gla nīvaraṇavippayuttā kho pana dhammā nīvaraṇiyāpi anīvaraṇiyāpi
 \glb dissociated-from-hindrances -- -- States may-be-favourable-to-hindrances unfavourable
-\ex -
+\ex States that are dissociated from hindrances, but may be favourable to hindrances or unfavourable.
 ```
 
 ## ^1-0b-50
