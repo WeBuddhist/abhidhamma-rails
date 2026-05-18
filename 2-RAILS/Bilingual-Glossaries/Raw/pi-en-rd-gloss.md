@@ -17,16 +17,16 @@ status: draft
 ```gloss
 \gla    kusalā          dhammā          akusalā          dhammā          abyākatā          dhammā
 \glb    kusala-NOM.PL.M dhamma-NOM.PL.M akusala-NOM.PL.M dhamma-NOM.PL.M abyākata-NOM.PL.M dhamma-NOM.PL.M
-\glc    wholesome       states          unwholesome      states          indeterminate     states
+\glc    good            states          bad              states          indeterminate     states
 \ex     States that are good, bad, indeterminate.
 ```
 
 ## ^1-0a-2
 
 ```gloss
-\gla    sukhāya          vedanāya          sampayuttā          dhammā          dukkhāya          vedanāya          sampayuttā          dhammā          adukkhamasukhāya             vedanāya          sampayuttā          dhammā
-\glb    sukha-INSTR.SG.F vedanā-INSTR.SG.F sampayutta-NOM.PL.M dhamma-NOM.PL.M dukkha-INSTR.SG.F vedanā-INSTR.SG.F sampayutta-NOM.PL.M dhamma-NOM.PL.M adukkhamasukha-INSTR.SG.F    vedanā-INSTR.SG.F sampayutta-NOM.PL.M dhamma-NOM.PL.M
-\glc    pleasant         feeling           associated-with     states          painful           feeling           associated-with     states          neither-painful-nor-pleasant feeling           associated-with     states
+\gla    sukhāya          vedanāya          sampayuttā          dhammā          dukkhāya          vedanāya          sampayuttā          dhammā          adukkhamasukhāya          vedanāya          sampayuttā          dhammā
+\glb    sukha-INSTR.SG.F vedanā-INSTR.SG.F sampayutta-NOM.PL.M dhamma-NOM.PL.M dukkha-INSTR.SG.F vedanā-INSTR.SG.F sampayutta-NOM.PL.M dhamma-NOM.PL.M adukkhamasukha-INSTR.SG.F vedanā-INSTR.SG.F sampayutta-NOM.PL.M dhamma-NOM.PL.M
+\glc    pleasant         feeling           associated-with     states          painful           feeling           associated-with     states          neutral                   feeling           associated-with     states
 \ex     States that are associated with pleasant feeling, painful feeling, neutral feeling.
 ```
 
@@ -35,16 +35,16 @@ status: draft
 ```gloss
 \gla    vipākā          dhammā          vipākadhammadhammā            nevavipākanavipākadhammadhammā
 \glb    vipāka-NOM.PL.M dhamma-NOM.PL.M vipāka+dhamma+dhamma-NOM.PL.M neva+vipāka+na+vipāka+dhamma+dhamma-NOM.PL.M
-\glc    resultant       states          states-with-resultant-quality states-neither-resultant-nor-having-resultant-quality
+\glc    results         states          have-resultant-quality        neither
 \ex     States that are results; that have resultant quality; that are neither.
 ```
 
 ## ^1-0a-4
 
 ```gloss
-\gla    upādiṇṇupādāniyā                    dhammā          anupādiṇṇupādāniyā                      dhammā          anupādiṇṇaanupādāniyā                       dhammā
-\glb    upādiṇṇa+upādāniya-NOM.PL.M         dhamma-NOM.PL.M an+upādiṇṇa+upādāniya-NOM.PL.M          dhamma-NOM.PL.M an+upādiṇṇa+an+upādāniya-NOM.PL.M           dhamma-NOM.PL.M
-\glc    clung-to-and-favourable-to-clinging states          not-clung-to-but-favourable-to-clinging states          neither-clung-to-nor-favourable-to-clinging states
+\gla    upādiṇṇupādāniyā                      dhammā          anupādiṇṇupādāniyā                        dhammā          anupādiṇṇaanupādāniyā             dhammā
+\glb    upādiṇṇa+upādāniya-NOM.PL.M           dhamma-NOM.PL.M an+upādiṇṇa+upādāniya-NOM.PL.M            dhamma-NOM.PL.M an+upādiṇṇa+an+upādāniya-NOM.PL.M dhamma-NOM.PL.M
+\glc    grasped-at-and-favourable-to-grasping states          not-grasped-at-but-favourable-to-grasping states          neither                           states
 \ex     States that are grasped at and favourable to grasping; that are not grasped at but are favourable to grasping; that are neither.
 ```
 
@@ -53,25 +53,25 @@ status: draft
 ```gloss
 \gla    saṃkiliṭṭhasaṃkilesikā           dhammā          asaṃkiliṭṭhasaṃkilesikā            dhammā          asaṃkiliṭṭhaasaṃkilesikā             dhammā
 \glb    saṃkiliṭṭha+saṃkilesika-NOM.PL.M dhamma-NOM.PL.M a+saṃkiliṭṭha+saṃkilesika-NOM.PL.M dhamma-NOM.PL.M a+saṃkiliṭṭha+a+saṃkilesika-NOM.PL.M dhamma-NOM.PL.M
-\glc    defiled-and-defiling             states          not-defiled-but-defiling           states          neither-defiled-nor-defiling         states
+\glc    vitiated-and-vicious             states          not-vitiated-but-vicious           states          neither                              states
 \ex     States that are vitiated and vicious; that are not vitiated but are vicious; that are neither.
 ```
 
 ## ^1-0a-6
 
 ```gloss
-\gla    savitakkasavicārā                  dhammā          avitakkavicāramattā                                 dhammā          avitakkaavicārā                       dhammā
-\glb    sa+vitakka+sa+vicāra-NOM.PL.M      dhamma-NOM.PL.M a+vitakka+vicāra+matta-NOM.PL.M                     dhamma-NOM.PL.M a+vitakka+a+vicāra-NOM.PL.M           dhamma-NOM.PL.M
-\glc    with-applied-and-sustained-thought states          without-applied-thought-with-sustained-thought-only states          without-applied-and-sustained-thought states
+\gla    savitakkasavicārā                   dhammā          avitakkavicāramattā             dhammā          avitakkaavicārā             dhammā
+\glb    sa+vitakka+sa+vicāra-NOM.PL.M       dhamma-NOM.PL.M a+vitakka+vicāra+matta-NOM.PL.M dhamma-NOM.PL.M a+vitakka+a+vicāra-NOM.PL.M dhamma-NOM.PL.M
+\glc    have-applied-and-sustained-thinking states          sustained-thinking-only         states          neither                     states
 \ex     States that have applied and sustained thinking; sustained thinking only; neither.
 ```
 
 ## ^1-0a-7
 
 ```gloss
-\gla    pītisahagatā           dhammā          sukhasahagatā            dhammā          upekkhāsahagatā           dhammā
-\glb    pīti+sahagata-NOM.PL.M dhamma-NOM.PL.M sukha+sahagata-NOM.PL.M  dhamma-NOM.PL.M upekkhā+sahagata-NOM.PL.M dhamma-NOM.PL.M
-\glc    accompanied-by-zest    states          accompanied-by-happiness states          accompanied-by-equanimity states
+\gla    pītisahagatā           dhammā          sukhasahagatā            dhammā          upekkhāsahagatā             dhammā
+\glb    pīti+sahagata-NOM.PL.M dhamma-NOM.PL.M sukha+sahagata-NOM.PL.M  dhamma-NOM.PL.M upekkhā+sahagata-NOM.PL.M   dhamma-NOM.PL.M
+\glc    accompanied-by-zest    states          accompanied-by-happiness states          accompanied-by-indifference states
 \ex     States that are accompanied by zest; by happiness; by indifference.
 ```
 
@@ -80,34 +80,34 @@ status: draft
 ```gloss
 \gla    dassanena          pahātabbā          dhammā          bhāvanāya          pahātabbā          dhammā          neva     dassanena          na     bhāvanāya          pahātabbā          dhammā
 \glb    dassana-INSTR.SG.N pahātabba-NOM.PL.M dhamma-NOM.PL.M bhāvanā-INSTR.SG.F pahātabba-NOM.PL.M dhamma-NOM.PL.M neva-NEG dassana-INSTR.SG.N na-NEG bhāvanā-INSTR.SG.F pahātabba-NOM.PL.M dhamma-NOM.PL.M
-\glc    by-vision          to-be-abandoned    states          by-culture         to-be-abandoned    states          neither  by-vision          nor    by-culture         to-be-abandoned    states
+\glc    by-vision          to-be-put-away     states          by-culture         to-be-put-away     states          neither  vision             --     culture            to-be-put-away     states
 \ex     States that are to be put away by vision; by culture; by neither.
 ```
 
 ## ^1-0a-9
 
 ```gloss
-\gla    dassanena          pahātabbahetukā              dhammā          bhāvanāya          pahātabbahetukā              dhammā          neva     dassanena          na     bhāvanāya          pahātabbahetukā              dhammā
-\glb    dassana-INSTR.SG.N pahātabba+hetuka-NOM.PL.M    dhamma-NOM.PL.M bhāvanā-INSTR.SG.F pahātabba+hetuka-NOM.PL.M    dhamma-NOM.PL.M neva-NEG dassana-INSTR.SG.N na-NEG bhāvanā-INSTR.SG.F pahātabba+hetuka-NOM.PL.M    dhamma-NOM.PL.M
-\glc    by-vision          having-roots-to-be-abandoned states          by-culture         having-roots-to-be-abandoned states          neither  by-vision          nor    by-culture         having-roots-to-be-abandoned states
+\gla    dassanena          pahātabbahetukā            dhammā          bhāvanāya          pahātabbahetukā            dhammā          neva     dassanena          na     bhāvanāya          pahātabbahetukā            dhammā
+\glb    dassana-INSTR.SG.N pahātabba+hetuka-NOM.PL.M  dhamma-NOM.PL.M bhāvanā-INSTR.SG.F pahātabba+hetuka-NOM.PL.M  dhamma-NOM.PL.M neva-NEG dassana-INSTR.SG.N na-NEG bhāvanā-INSTR.SG.F pahātabba+hetuka-NOM.PL.M  dhamma-NOM.PL.M
+\glc    by-vision          moral-roots-to-be-put-away states          by-culture         moral-roots-to-be-put-away states          neither  vision             --     culture            moral-roots-to-be-put-away states
 \ex     States, the moral roots of which are to be put away by vision; by culture; by neither.
 ```
 
 ## ^1-0a-10
 
 ```gloss
-\gla    ācayagāmino             dhammā          apacayagāmino         dhammā          nevācayagāmināpacayagāmino                     dhammā
-\glb    ācayagāmin-NOM.PL.M     dhamma-NOM.PL.M apacayagāmin-NOM.PL.M dhamma-NOM.PL.M neva+ācayagāmin+apācayagāmin-NOM.PL.M          dhamma-NOM.PL.M
-\glc    leading-to-accumulation states          leading-to-diminution states          neither-leading-to-accumulation-nor-diminution states
+\gla    ācayagāmino          dhammā          apacayagāmino         dhammā          nevācayagāmināpacayagāmino            dhammā
+\glb    ācayagāmin-NOM.PL.M  dhamma-NOM.PL.M apacayagāmin-NOM.PL.M dhamma-NOM.PL.M neva+ācayagāmin+apācayagāmin-NOM.PL.M dhamma-NOM.PL.M
+\glc    going-to-building-up states          going-to-pulling-down states          going-to-neither                      states
 \ex     States going to building up; going to pulling down; going to neither.
 ```
 
 ## ^1-0a-11
 
 ```gloss
-\gla    sekkhā          dhammā          asekkhā          dhammā          nevasekkhanāsekkhā            dhammā
-\glb    sekkha-NOM.PL.M dhamma-NOM.PL.M asekkha-NOM.PL.M dhamma-NOM.PL.M neva+sekkha+nāsekkha-NOM.PL.M dhamma-NOM.PL.M
-\glc    of-the-trainee  states          of-the-adept     states          of-neither-trainee-nor-adept  states
+\gla    sekkhā             dhammā          asekkhā          dhammā          nevasekkhanāsekkhā            dhammā
+\glb    sekkha-NOM.PL.M    dhamma-NOM.PL.M asekkha-NOM.PL.M dhamma-NOM.PL.M neva+sekkha+nāsekkha-NOM.PL.M dhamma-NOM.PL.M
+\glc    of-one-in-training states          of-the-adept     states          of-one-who-is-neither         states
 \ex     States of one in training; of the adept; of one who is neither.
 ```
 
@@ -116,7 +116,7 @@ status: draft
 ```gloss
 \gla    parittā          dhammā          mahaggatā          dhammā          appamāṇā          dhammā
 \glb    paritta-NOM.PL.M dhamma-NOM.PL.M mahaggata-NOM.PL.M dhamma-NOM.PL.M appamāṇa-NOM.PL.M dhamma-NOM.PL.M
-\glc    limited          states          sublime            states          immeasurable      states
+\glc    limited          states          sublime            states          infinite          states
 \ex     States that are limited, sublime, infinite.
 ```
 
@@ -125,7 +125,7 @@ status: draft
 ```gloss
 \gla    parittārammaṇā            dhammā          mahaggatārammaṇā            dhammā          appamāṇārammaṇā            dhammā
 \glb    paritta+ārammaṇa-NOM.PL.M dhamma-NOM.PL.M mahaggata+ārammaṇa-NOM.PL.M dhamma-NOM.PL.M appamāṇa+ārammaṇa-NOM.PL.M dhamma-NOM.PL.M
-\glc    with-limited-object       states          with-sublime-object         states          with-immeasurable-object   states
+\glc    limited-object            states          sublime-object              states          neither                    states
 \ex     States that have a limited object; a sublime object; neither.
 ```
 
@@ -141,18 +141,18 @@ status: draft
 ## ^1-0a-15
 
 ```gloss
-\gla    micchattaniyatā           dhammā          sammattaniyatā           dhammā          aniyatā          dhammā
-\glb    micchatta+niyata-NOM.PL.M dhamma-NOM.PL.M sammatta+niyata-NOM.PL.M dhamma-NOM.PL.M aniyata-NOM.PL.M dhamma-NOM.PL.M
-\glc    wrongly-fixed             states          rightly-fixed            states          unfixed          states
+\gla    micchattaniyatā           dhammā          sammattaniyatā           dhammā          aniyatā                          dhammā
+\glb    micchatta+niyata-NOM.PL.M dhamma-NOM.PL.M sammatta+niyata-NOM.PL.M dhamma-NOM.PL.M aniyata-NOM.PL.M                 dhamma-NOM.PL.M
+\glc    wrongfulness-fixed        states          righteousness-fixed      states          do-not-entail-fixed-consequences states
 \ex     States that are of a wrongfulness fixed as to consequences; that are of a righteousness fixed as to consequences; that do not entail fixed consequences.
 ```
 
 ## ^1-0a-16
 
 ```gloss
-\gla    maggārammaṇā            dhammā          maggahetukā           dhammā          maggādhipatino          dhammā
-\glb    magga+ārammaṇa-NOM.PL.M dhamma-NOM.PL.M magga+hetuka-NOM.PL.M dhamma-NOM.PL.M magga+adhipati-NOM.PL.M dhamma-NOM.PL.M
-\glc    with-Path-as-object     states          with-Path-as-root     states          with-Path-as-dominant   states
+\gla    maggārammaṇā            dhammā          maggahetukā           dhammā          maggādhipatino             dhammā
+\glb    magga+ārammaṇa-NOM.PL.M dhamma-NOM.PL.M magga+hetuka-NOM.PL.M dhamma-NOM.PL.M magga+adhipati-NOM.PL.M    dhamma-NOM.PL.M
+\glc    Path-as-object          states          moral-root-is-Path    states          dominant-influence-is-Path states
 \ex     States that have the Path as object; whose moral root is the Path; whose dominant influence is the Path.
 ```
 
@@ -179,25 +179,25 @@ status: draft
 ```gloss
 \gla    atītārammaṇā            dhammā          anāgatārammaṇā            dhammā          paccuppannārammaṇā            dhammā
 \glb    atīta+ārammaṇa-NOM.PL.M dhamma-NOM.PL.M anāgata+ārammaṇa-NOM.PL.M dhamma-NOM.PL.M paccuppanna+ārammaṇa-NOM.PL.M dhamma-NOM.PL.M
-\glc    with-past-object        states          with-future-object        states          with-present-object           states
+\glc    past-as-their-object    states          future-as-their-object    states          present-as-their-object       states
 \ex     States that have the past as their object; the present as their object; the future as their object.
 ```
 
 ## ^1-0a-20
 
 ```gloss
-\gla    ajjhattā          dhammā          bahiddhā          dhammā          ajjhattabahiddhā           dhammā
-\glb    ajjhatta-NOM.PL.M dhamma-NOM.PL.M bahiddhā-NOM.PL.M dhamma-NOM.PL.M ajjhatta+bahiddhā-NOM.PL.M dhamma-NOM.PL.M
-\glc    internal          states          external          states          internal-and-external      states
+\gla    ajjhattā                dhammā          bahiddhā          dhammā          ajjhattabahiddhā                    dhammā
+\glb    ajjhatta-NOM.PL.M       dhamma-NOM.PL.M bahiddhā-NOM.PL.M dhamma-NOM.PL.M ajjhatta+bahiddhā-NOM.PL.M          dhamma-NOM.PL.M
+\glc    belonging-to-one's-self states          external          states          belonging-or-external-to-one's-self states
 \ex     States that belong to one's self; are external to one's self; are belonging or external to one's self.
 ```
 
 ## ^1-0a-21
 
 ```gloss
-\gla    ajjhattārammaṇā            dhammā          bahiddhārammaṇā            dhammā          ajjhattabahiddhārammaṇā             dhammā
-\glb    ajjhatta+ārammaṇa-NOM.PL.M dhamma-NOM.PL.M bahiddhā+ārammaṇa-NOM.PL.M dhamma-NOM.PL.M ajjhatta+bahiddhā+ārammaṇa-NOM.PL.M dhamma-NOM.PL.M
-\glc    with-internal-object       states          with-external-object       states          with-internal-external-object       states
+\gla    ajjhattārammaṇā            dhammā          bahiddhārammaṇā               dhammā          ajjhattabahiddhārammaṇā             dhammā
+\glb    ajjhatta+ārammaṇa-NOM.PL.M dhamma-NOM.PL.M bahiddhā+ārammaṇa-NOM.PL.M    dhamma-NOM.PL.M ajjhatta+bahiddhā+ārammaṇa-NOM.PL.M dhamma-NOM.PL.M
+\glc    object-one's-self          states          object-external-to-one's-self states          object-that-is-both                 states
 \ex     States that have for an object one's self; an object external to one's self; an object that is both.
 ```
 
@@ -206,7 +206,7 @@ status: draft
 ```gloss
 \gla    sanidassanasappaṭighā            dhammā          anidassanasappaṭighā            dhammā          anidassanaappaṭighā            dhammā          Tikamātikā
 \glb    sa+nidassana+sa+paṭigha-NOM.PL.M dhamma-NOM.PL.M a+nidassana+sa+paṭigha-NOM.PL.M dhamma-NOM.PL.M a+nidassana+a+paṭigha-NOM.PL.M dhamma-NOM.PL.M tika+mātikā-LABEL
-\glc    visible-and-reacting             states          invisible-and-reacting          states          invisible-and-non-reacting     states          Triad-Matrix
+\glc    visible-and-reacting             states          invisible-and-reacting          states          neither                        states          --
 \ex     States that are visible and reacting; invisible and reacting; neither.
 ```
 

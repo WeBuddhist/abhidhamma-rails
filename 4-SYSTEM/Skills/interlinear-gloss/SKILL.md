@@ -9,7 +9,7 @@ This skill creates the **interlinear gloss file** that pairs one root text again
 
 - `\gla` — source-language tokens (Pali, in PTS Roman diacritics).
 - `\glb` — morphology / lemma analysis, one token per source token, hyphen-separated where the source has compounds.
-- `\glc` — token-by-token gloss in the target language, one entry per source token, lined up by position.
+- `\glc` — token-by-token gloss in the target language, one entry per source token, lined up by position. **Every word used in `\glc` must come verbatim from the translator's `\ex` line — do not introduce new terminology or paraphrase.**
 - `\ex` — the translator's free translation of the verse, verbatim from the translation file.
 
 A gloss block is the **token-level alignment** that all downstream bilingual glossary work depends on. `glossary-extract-raw` reads these files to find keyword renderings; `local-wiki-article` cites them when documenting how a term is rendered across translations; `glossary-select` consults them when judging whether an attested rendering meets a track's requirements.
@@ -93,6 +93,7 @@ The plugin (`Interlinear Glossing` by the Obsidian community) renders ```` ```gl
 4. **Compound parts use `+` on `\glb`.** Sanskrit-style compound analysis: `sa+gaṇa` for *sagaṇa*. The `\glc` line glosses the whole compound, not its parts, unless the analysis on `\glb` splits it into separate columns.
 5. **No trailing punctuation on `\gla`.** Period, comma, semicolon, question mark — strip from the token. They re-appear in the `\ex` line via the translation.
 6. **`\ex` is verbatim from the translator.** Do not paraphrase, do not normalise punctuation, do not strip footnote markers. This line is what `glossary-extract-raw` reads as the canonical rendering of the verse.
+7. **`\glc` draws exclusively from `\ex`.** The token-level glosses on `\glc` must use only words that appear in the `\ex` line for the same block. Never introduce a synonym, paraphrase, or independently-coined translation on `\glc` — the point of the interlinear is to show how the translator's own words map to the source tokens, not to add a second layer of interpretation.
 
 ---
 
@@ -115,7 +116,7 @@ The recommended path is the scaffold helper followed by an LLM pass for the `\gl
 
 3. **Fill `\glb` and `\glc`, verse by verse or in batches.** This is the LLM-driven half. For each verse:
    - On `\glb`, write the lemma + morphology for each token, using compound markers `+` where compounds are present, and Leipzig-style POS/inflection markers where they help.
-   - On `\glc`, write the token-by-token gloss in the target language. Each `\glc` cell aligns with the `\gla` token at the same position. Use hyphens to bind multi-word concepts.
+   - On `\glc`, write the token-by-token gloss in the target language. Each `\glc` cell aligns with the `\gla` token at the same position. Use hyphens to bind multi-word concepts. **Critically: every word used in `\glc` must be taken verbatim from the `\ex` line for that block — do not invent new translations, synonyms, or paraphrases. If a source token's meaning is not expressible using words already present in `\ex`, use `--`.**
    - Keep `--` only when a token genuinely has no analysis or no gloss (rare; usually one of the two lines has something).
 
 4. **Verify column count.** Run the scaffold script with `--validate` to re-check that `\glb` and `\glc` have the same number of whitespace-separated tokens as `\gla` for every block:
