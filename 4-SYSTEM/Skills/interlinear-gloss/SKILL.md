@@ -91,9 +91,10 @@ The plugin (`Interlinear Glossing` by the Obsidian community) renders ```` ```gl
 4. **Missing glosses and particles use `--` or bracketed fallbacks, never the Pali original.** When no word in `\ex` corresponds to a `\gla` token, first check if the term is translated in the Rhys Davids translation (`en-rd`). If it is, translate the untranslated pali section into `[]` using the existing english translation of the pali term from rhys-davids translation (e.g., `[good]`). If even Rhys Davids does not translate it (common for particles like *kho*, *pana*, *ca*), write `--`. Never copy the Pali token itself into `\glb` as a fallback.
 5. **No trailing punctuation on `\gla`.** Period, comma, semicolon, question mark — strip from the token. They re-appear in the `\ex` line via the translation.
 6. **`\ex` is verbatim from the translator.** Do not paraphrase, do not normalise punctuation, do not strip footnote markers. This line is what `glossary-extract-raw` reads as the canonical rendering of the verse.
-7. **`\glb` draws primarily from `\ex` — with one specific fallback.** Every `\glb` cell must be a word (or hyphen-joined phrase) whose component words all appear verbatim in the `\ex` line for that same block. The only permitted departures are:
+7. **`\glb` draws primarily from `\ex` — with specific fallbacks.** Every `\glb` cell must be a word (or hyphen-joined phrase) whose component words all appear verbatim in the `\ex` line for that same block. The permitted departures are:
    - `--` for untranslated particles or gaps.
    - `[rendering]` for terms untranslated in `\ex` but found in the Rhys Davids (`en-rd`) translation.
+   - **Bracketed clarifications for simplified terms:** If a translator simplifies a compound or omits repetitions to avoid wordiness (e.g., using 'neutral' for 'neither-painful-nor-pleasant'), include the missing components in brackets `[]`. Use words from the `\ex` line where possible.
    No synonyms, no paraphrases, and no Pali originals are allowed.
 
    **Example 1** — `\ex States that are good, bad, indeterminate.`
@@ -107,7 +108,16 @@ The plugin (`Interlinear Glossing` by the Obsidian community) renders ```` ```gl
    | `abyākatā` | `indeterminate` | `indeterminate` ✓ |
    | `dhammā` | `states` | `states` ✓ |
 
-   **Example 2** — Handling particles and split concepts.
+   **Example 2** — Handling simplified compounds.
+   `\ex States that are associated with pleasant feeling, painful feeling, neutral feeling.`
+
+   | `\gla` | `\glb` |
+   |---|---|
+   | `sukhāya` | `pleasant` |
+   | `vedanāya` | `feeling` |
+   | `adukkhamasukhāya` | `neutral [not painful not pleasant]` |
+
+   **Example 3** — Handling particles and split concepts.
    `\ex States that are dissociated from ties; but may or may not be favourable to ties.`
 
    | `\gla` | correct `\glb` | wrong `\glb` |
@@ -141,7 +151,11 @@ The recommended path is the scaffold helper followed by an LLM pass for the `\gl
 3. **Fill `\glb`, verse by verse or in batches.** This is the LLM-driven half. The procedure for each cell is:
    a. Read the `\ex` line for the block.
    b. Find the word or phrase in `\ex` that most directly corresponds to this `\gla` token. Use only words that appear verbatim in `\ex`; join multi-word phrases with hyphens.
-   c. If no word in `\ex` corresponds to this token, try to **translate the untranslated pali section into [] using the existing english translation of the pali term from rhys-davids translation**. If the term is also untranslated in Rhys Davids, write `--`. Do not substitute the Pali token, do not use a synonym, and do not use general background knowledge.
+   c. If no word in `\ex` corresponds to this token, or if the translator simplified a term to avoid repetition:
+      - Use `[rendering]` for terms untranslated in `\ex` but found in the Rhys Davids (`en-rd`) translation.
+      - Use `word [missing components]` if the translator used a simplified term (e.g., `neutral [not painful not pleasant]`).
+      - If the term is also untranslated in Rhys Davids, write `--`.
+      Do not substitute the Pali token, do not use a synonym, and do not use general background knowledge.
    - Where a scaffold token on `\gla` is a long compound that would be clearer split, replace the single compound token with its space-separated parts and extend `\glb` with one cell per part.
    - For particles like *kho pana*, if only one word in `\ex` (like "but") covers the pair, assign it to the first and use `--` for the second.
    - If a phrase in `\ex` maps to multiple Pali words (like "may or may not be..." mapping to `ganthaniyāpi aganthaniyāpi`), split the phrase across the tokens to maintain one-to-one alignment.
@@ -184,5 +198,5 @@ The scaffold script can be re-run safely:
 - [ ] Token count matches across `\gla` and `\glb` for every block (use `--validate`)
 - [ ] `\ex` is verbatim from the translation file
 - [ ] Frontmatter `total_verses` matches the heading count
-- [ ] No `\glb` cell contains a Pali word or a term absent from the corresponding `\ex` line (unless bracketed from Rhys Davids)
+- [ ] No `\glb` cell contains a Pali word or a term absent from the corresponding `\ex` line (unless bracketed from Rhys Davids or clarification)
 - [ ] `--` is used wherever the translation and Rhys Davids provide no corresponding word — not a Pali fallback
