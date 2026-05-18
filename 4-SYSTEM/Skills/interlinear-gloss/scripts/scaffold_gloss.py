@@ -3,12 +3,12 @@
 
 Reads two markdown files that share an Obsidian block-ID scheme and writes a
 gloss file under ``2-RAILS/Bilingual-Glossaries/Raw/`` with one ``gloss`` code
-block per paired block. ``\\gla`` is populated from the source tokens and
-``\\ex`` verbatim from the translation; ``\\glc`` is scaffolded with ``--``
+block per paired block. ``gla`` is populated from the source tokens and
+``\\ex`` verbatim from the translation; ``glb`` is scaffolded with ``--``
 placeholders at the right column count for the LLM pass to fill in.
 
-If the output file already exists, existing ``\\glc`` lines are preserved when
-their token count still matches the refreshed ``\\gla``.
+If the output file already exists, existing ``glb`` lines are preserved when
+their token count still matches the refreshed ``gla``.
 
 Usage:
 
@@ -29,7 +29,7 @@ BLOCK_ID_RE = re.compile(r"\^([0-9A-Za-z][0-9A-Za-z\-]*)\s*$")
 HEADING_RE = re.compile(r"^#{1,6}\s")
 FM_FIELD_RE = lambda name: re.compile(rf"^{name}:\s*(.+?)\s*$", re.MULTILINE)
 
-# Tokens we strip from the end of a source token before placing it on \gla.
+# Tokens we strip from the end of a source token before placing it on gla.
 TRAILING_PUNCT = ".,;:!?"
 # Tokens we strip from the beginning.
 LEADING_PUNCT = "([{"
@@ -102,9 +102,9 @@ def normalise_free_translation(text):
 
 
 def parse_existing_gloss(text):
-    """Return {block_id: {'gla': str, 'glc': str, 'ex': str}}.
+    """Return {block_id: {'gla': str, 'glb': str, 'ex': str}}.
 
-    Used when refreshing an existing gloss file to preserve filled \\glc lines.
+    Used when refreshing an existing gloss file to preserve filled glb lines.
     """
     out = {}
     # Split on '## ^<id>' headings.
@@ -114,14 +114,15 @@ def parse_existing_gloss(text):
         block_id = parts[i]
         section = parts[i + 1] if i + 1 < len(parts) else ""
         gla = _find_gloss_line(section, "gla")
-        glc = _find_gloss_line(section, "glc")
+        glb = _find_gloss_line(section, "glb")
         ex = _find_gloss_line(section, "ex")
-        out[block_id] = {"gla": gla, "glc": glc, "ex": ex}
+        out[block_id] = {"gla": gla, "glb": glb, "ex": ex}
     return out
 
 
 def _find_gloss_line(section, marker):
-    match = re.search(rf"^\\{marker}\s+(.*)$", section, flags=re.MULTILINE)
+    prefix = "" if marker in ("gla", "glb") else "\\"
+    match = re.search(rf"^{prefix}{marker}\s+(.*)$", section, flags=re.MULTILINE)
     if not match:
         return ""
     return match.group(1).rstrip()
@@ -148,21 +149,21 @@ def compute_column_widths(rows):
 
 
 def build_gloss_block(gla_tokens, free_translation, existing):
-    """Render one ```gloss``` block with column-aligned \\gla/\\glc."""
+    """Render one ```gloss``` block with column-aligned gla/glb."""
     n = len(gla_tokens)
-    glc_tokens = ["--"] * n
+    glb_tokens = ["--"] * n
     if existing:
         prior_gla = existing.get("gla", "").split()
         if len(prior_gla) == n:
-            prior_glc = existing.get("glc", "").split()
-            if len(prior_glc) == n:
-                glc_tokens = prior_glc
-    widths = compute_column_widths([gla_tokens, glc_tokens])
+            prior_glb = existing.get("glb", "").split()
+            if len(prior_glb) == n:
+                glb_tokens = prior_glb
+    widths = compute_column_widths([gla_tokens, glb_tokens])
     gla_line = column_align(gla_tokens, widths)
-    glc_line = column_align(glc_tokens, widths)
+    glb_line = column_align(glb_tokens, widths)
     lines = ["```gloss"]
-    lines.append(f"\\gla    {gla_line}")
-    lines.append(f"\\glc    {glc_line}")
+    lines.append(f"gla     {gla_line}")
+    lines.append(f"glb     {glb_line}")
     lines.append(f"\\ex     {free_translation}")
     lines.append("```")
     return "\n".join(lines)
@@ -221,7 +222,7 @@ def scaffold(source_path, target_path, output_path):
         gla_tokens = tokenise_source(source_text)
         if not gla_tokens:
             continue
-        # Check whether we are resetting glc due to a token-count change.
+        # Check whether we are resetting glb due to a token-count change.
         prior = existing.get(block_id)
         if prior:
             prior_gla = prior.get("gla", "").split()
@@ -257,13 +258,13 @@ def validate(gloss_path):
         block_id = parts[i]
         section = parts[i + 1] if i + 1 < len(parts) else ""
         gla = _find_gloss_line(section, "gla").split()
-        glc = _find_gloss_line(section, "glc").split()
+        glb = _find_gloss_line(section, "glb").split()
         if not gla:
-            errors.append(f"{block_id}: missing or empty \\gla")
+            errors.append(f"{block_id}: missing or empty gla")
             continue
         checked += 1
-        if len(glc) != len(gla):
-            errors.append(f"{block_id}: \\glc has {len(glc)} tokens, \\gla has {len(gla)}")
+        if len(glb) != len(gla):
+            errors.append(f"{block_id}: glb has {len(glb)} tokens, gla has {len(gla)}")
     return checked, errors
 
 
@@ -294,11 +295,11 @@ def main(argv):
         f"Wrote {args.output}: blocks={stats['blocks_rendered']} "
         f"skipped_target_missing={stats['skipped_target_missing']} "
         f"skipped_source_missing={stats['skipped_source_missing']} "
-        f"reset_glc={len(stats['reset_lines'])}"
+        f"reset_glb={len(stats['reset_lines'])}"
     )
     if stats["reset_lines"]:
         print(
-            "  reset blocks (token count changed; re-fill \\glc):",
+            "  reset blocks (token count changed; re-fill glb):",
             ", ".join(stats["reset_lines"][:10]),
             "..." if len(stats["reset_lines"]) > 10 else "",
             file=sys.stderr,
