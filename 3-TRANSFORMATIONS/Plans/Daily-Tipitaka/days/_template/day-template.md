@@ -9,7 +9,7 @@ sources: []
 
 # Day N — [lang]
 
-> Per-day content for the Daily Abhidhamma 200-day series. Follow the seven-step structure declared in `../../requirements.md`. Every claim must trace back to a source via a rail in `2-RAILS/`.
+> Per-day content for the Daily Tipitaka 200-day series. Follow the seven-step structure declared in `../../requirements.md`. Every claim must trace back to a source via a rail in `2-RAILS/`.
 
 ## 1. 🧭 Today's Chanting Guide
 

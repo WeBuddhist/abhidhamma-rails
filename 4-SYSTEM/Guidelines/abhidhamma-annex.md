@@ -117,7 +117,7 @@ When a new commentary is ingested, add a row here, declare the same ID in the so
 
 ## 4. Language tracks
 
-The vault publishes outputs across multiple target languages. Each track has both a translation in `3-TRANSFORMATIONS/Translations/` and (where applicable) a Daily-Tipitaka language stream in `3-TRANSFORMATIONS/Plans/Daily-Abhidhamma/days/`.
+The vault publishes outputs across multiple target languages. Each track has both a translation in `3-TRANSFORMATIONS/Translations/` and (where applicable) a Daily-Tipitaka language stream in `3-TRANSFORMATIONS/Plans/Daily-Tipitaka/days/`.
 
 | Tag | Language | Translation track | Daily-Tipitaka stream |
 | ---- | ----------------- | -------------------------------------------------- | --------------------- |
@@ -137,7 +137,7 @@ The Contemporary-* translation series is modelled on the NIV's optimal-equivalen
 
 ## 5. Daily Tipitaka — vault-specific transformation track
 
-The `3-TRANSFORMATIONS/Plans/Daily-Abhidhamma/` folder is a vault-specific transformation track prepared in collaboration with the **International Tipiṭaka Chanting Council (ITCC)** for the chanting gathering at Bodhgayā, December 2026. The track's brief, daily structure, plan organisation, and communications conventions live in that folder's own README and brief; this annex only notes that the track exists and that it relies on the rails like any other transformation.
+The `3-TRANSFORMATIONS/Plans/Daily-Tipitaka/` folder is a vault-specific transformation track prepared in collaboration with the **International Tipiṭaka Chanting Council (ITCC)** for the chanting gathering at Bodhgayā, December 2026. The track's brief, daily structure, plan organisation, and communications conventions live in that folder's own README and brief; this annex only notes that the track exists and that it relies on the rails like any other transformation.
 
 ---
 
