@@ -88,10 +88,21 @@ The plugin (`Interlinear Glossing` by the Obsidian community) renders ```` ```gl
 1. **One token per column.** Splitting is by whitespace on the `\gla` line. The number of whitespace-separated tokens on `\glc` must match `\gla` exactly.
 2. **Compounds may be split on `\gla`.** When a Pali compound is long enough that splitting it produces a cleaner alignment, write its parts as separate space-separated tokens on `\gla` (and add the corresponding gloss cells on `\glc`). For short or familiar compounds, keep them as a single token.
 3. **Multi-word concepts are joined with hyphens, not spaces.** If "having paid homage" glosses a single Pali token, write it as `having-paid-homage` on `\glc` so it occupies one column.
-4. **Empty cells use `--`.** If a `\glc` entry is genuinely blank (no corresponding word in `\ex`), write `--` so the column count stays consistent.
+4. **Missing glosses use `--`, never the Pali original.** When no word in `\ex` corresponds to a `\gla` token, write `--`. Never copy the Pali token itself into `\glc` as a fallback — a Pali word in `\glc` looks like a gloss but is not one, and it corrupts downstream glossary extraction.
 5. **No trailing punctuation on `\gla`.** Period, comma, semicolon, question mark — strip from the token. They re-appear in the `\ex` line via the translation.
 6. **`\ex` is verbatim from the translator.** Do not paraphrase, do not normalise punctuation, do not strip footnote markers. This line is what `glossary-extract-raw` reads as the canonical rendering of the verse.
-7. **`\glc` draws exclusively from `\ex`.** The token-level glosses on `\glc` must use only words that appear in the `\ex` line for the same block. Never introduce a synonym, paraphrase, or independently-coined translation on `\glc` — the point of the interlinear is to show how the translator's own words map to the source tokens, not to add a second layer of interpretation. If a source token's meaning is not expressible using words already present in `\ex`, use `--`.
+7. **`\glc` draws exclusively from `\ex` — no exceptions.** Every `\glc` cell must be a word (or hyphen-joined phrase) whose component words all appear verbatim in the `\ex` line for that same block. This means: no synonyms, no paraphrases, no knowledge-based translations, and no Pali originals. The only permitted departure is `--`. When the translator's wording does not map cleanly to a source token, `--` is the correct and complete answer — it honestly records the gap rather than filling it with an invented equivalent.
+
+   **Example** — `\ex States that are good, bad, indeterminate.`
+
+   | `\gla` | correct `\glc` | wrong `\glc` |
+   |---|---|---|
+   | `kusalā` | `good` | `wholesome` ← not in `\ex` |
+   | `dhammā` | `states` | `states` ✓ |
+   | `akusalā` | `bad` | `unwholesome` ← not in `\ex` |
+   | `dhammā` | `states` | `states` ✓ |
+   | `abyākatā` | `indeterminate` | `indeterminate` ✓ |
+   | `dhammā` | `states` | `states` ✓ |
 
 ---
 
@@ -112,10 +123,11 @@ The recommended path is the scaffold helper followed by an LLM pass for the `\gl
 
 2. **Spot-check the scaffold.** Confirm: every block in the source has a matching `##` heading; `\gla` tokens look clean (no stray punctuation); the `\ex` line matches the translation file's body. The frontmatter `total_verses` matches the heading count.
 
-3. **Fill `\glc`, verse by verse or in batches.** This is the LLM-driven half. For each verse:
-   - On `\glc`, write the token-by-token gloss in the target language. Each cell aligns with the `\gla` token at the same position. Use hyphens to bind multi-word concepts. **Every word used in `\glc` must be taken verbatim from the `\ex` line for that block — do not invent new translations, synonyms, or paraphrases. If a source token's meaning is not expressible using words already present in `\ex`, use `--`.**
+3. **Fill `\glc`, verse by verse or in batches.** This is the LLM-driven half. The procedure for each cell is:
+   a. Read the `\ex` line for the block.
+   b. Find the word or phrase in `\ex` that most directly corresponds to this `\gla` token. Use only words that appear verbatim in `\ex`; join multi-word phrases with hyphens.
+   c. If no word in `\ex` corresponds to this token, write `--`. Do not substitute the Pali token, do not use a synonym, do not use background knowledge of what the Pali means.
    - Where a scaffold token on `\gla` is a long compound that would be clearer split, replace the single compound token with its space-separated parts and extend `\glc` with one cell per part.
-   - Keep `--` only when a token genuinely has no gloss expressible from `\ex`.
 
 4. **Verify column count.** Run the scaffold script with `--validate` to re-check that `\glc` has the same number of whitespace-separated tokens as `\gla` for every block:
 
@@ -155,4 +167,5 @@ The scaffold script can be re-run safely:
 - [ ] Token count matches across `\gla` and `\glc` for every block (use `--validate`)
 - [ ] `\ex` is verbatim from the translation file
 - [ ] Frontmatter `total_verses` matches the heading count
-- [ ] `--` placeholders remain only where a true gap exists, not as un-filled work
+- [ ] No `\glc` cell contains a Pali word or a term absent from the corresponding `\ex` line
+- [ ] `--` is used wherever the translation provides no corresponding word — not a Pali fallback
