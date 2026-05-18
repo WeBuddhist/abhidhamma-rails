@@ -3,7 +3,7 @@ status: draft
 note: kickoff date to be set by ITCC; this table is the structure, not the dates
 ---
 
-# Master Calendar — Daily Abhidhamma 200-Day Journey
+# Master Calendar — Daily Tipitaka 200-Day Journey
 
 | Day | Plan | Calendar date | Notes |
 |---|---|---|---|
