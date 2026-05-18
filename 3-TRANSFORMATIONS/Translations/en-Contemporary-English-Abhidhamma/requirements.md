@@ -8,7 +8,7 @@ status: draft
 
 # Contemporary English Abhidhamma — Translation Requirements
 
-This document specifies the requirements governing every English rendering of Abhidhamma material in this vault — the Reading-for-Meaning sections of the Daily Abhidhamma, future standalone English Abhidhamma editions, study guides, and any other English-language transformation. It is modelled on the requirements that produced the **New International Version (NIV)** of the Bible — the most widely read modern English translation of a classical sacred text — and adapted to the very different demands of the Abhidhamma.
+This document specifies the requirements governing every English rendering of Abhidhamma material in this vault — the Reading-for-Meaning sections of the Daily Tipitaka, future standalone English Abhidhamma editions, study guides, and any other English-language transformation. It is modelled on the requirements that produced the **New International Version (NIV)** of the Bible — the most widely read modern English translation of a classical sacred text — and adapted to the very different demands of the Abhidhamma.
 
 The NIV was chosen as the model for two reasons. First, its **translation philosophy**: it sits deliberately between strict word-for-word translation and free paraphrase, aiming to deliver _the meaning the original conveyed to its first hearers, in the most natural English available to its current reader_. Second, its **audience and readability**: the NIV is calibrated to be readable by the average English speaker without sacrificing dignity, which is exactly the contour we need for an Abhidhamma intended for both newcomers and serious practitioners. Both dimensions are mapped to Abhidhamma terms below.
 
@@ -34,7 +34,7 @@ The Abhidhamma is unlike most classical literature in one decisive way: its **fo
 So our optimal-equivalence stance has a sharper edge in this vault than the NIV's does in its:
 
 - **Preserve parallel structure.** When the Pāli iterates the same clause across five clusters, the English iterates the same clause across five clusters. Do not vary the wording for elegance; the variation _is_ the lesson.
-- **Preserve the analytical formulas.** The "Ka / Kha" pairs, the `sampayutta / vippayutta` (associated with / dissociated from) dyads, the `gocchaka` (cluster) headings — all of these have a fixed English form, locked in `../../Plans/Daily-Abhidhamma/termbase.md`, and used everywhere.
+- **Preserve the analytical formulas.** The "Ka / Kha" pairs, the `sampayutta / vippayutta` (associated with / dissociated from) dyads, the `gocchaka` (cluster) headings — all of these have a fixed English form, locked in `../../Plans/Daily-Tipitaka/termbase.md`, and used everywhere.
 - **Naturalise the connective tissue.** Outside the analytical formulas, the prose is rendered in clean contemporary English. Connector words, framing phrases, and intro/outro sentences read like English, not like a calque of Pāli word order.
 
 The test for any sentence: _would a thoughtful contemporary practitioner who does not read Pāli understand what is being claimed?_ If yes, leave it. If no, free the wording — but not the structure.
@@ -46,7 +46,7 @@ A small number of Pāli terms are kept untranslated and italicised on first use 
 - `dhamma` is rendered _phenomenon_ in Abhidhamma analytical contexts, _teaching_ in dispensation contexts, _quality_ in mind-state contexts. The first occurrence in any new text carries a footnote that names the three senses and points at `2-RAILS/Local-Wiki/dhamma (phenomenon).md`, `dhamma (teaching).md`, etc.
 - `Nibbāna` is kept in Pāli, italicised on first use, then in roman thereafter.
 - `Buddha`, `Dhamma` (capital-D, when it means the teaching), and `Saṅgha` are kept in their Pāli forms, capitalised, no italics.
-- Every other Pāli technical term uses its locked English rendering, drawn from `2-RAILS/Bilingual-Glossaries/glossary-pi-en.md` and recorded in the Daily Abhidhamma cross-output table at `../../Plans/Daily-Abhidhamma/termbase.md`. A term is locked _across_ outputs, not per file — once a rendering ships, every later output uses the same one.
+- Every other Pāli technical term uses its locked English rendering, drawn from `2-RAILS/Bilingual-Glossaries/glossary-pi-en.md` and recorded in the Daily Abhidhamma cross-output table at `../../Plans/Daily-Tipitaka/termbase.md`. A term is locked _across_ outputs, not per file — once a rendering ships, every later output uses the same one.
 
 ### 1.4 What we never do
 
@@ -86,7 +86,7 @@ The target reader is a practitioner who can read a thoughtful newspaper essay co
 
 Every paragraph passes a **read-aloud test**: a fluent English speaker should be able to read it aloud at speaking pace without stumbling and without needing to back up. This catches over-long subordinate clauses, awkward case-relics from the Pāli, and technical-term pileups.
 
-This matters specifically because the Daily Abhidhamma's Reading-for-Meaning step is often read aloud in group sessions — and because passages that fail the read-aloud test in private also fail comprehension in private; the eye does the same stumbling the tongue would.
+This matters specifically because the Daily Tipitaka's Reading-for-Meaning step is often read aloud in group sessions — and because passages that fail the read-aloud test in private also fail comprehension in private; the eye does the same stumbling the tongue would.
 
 ---
 
@@ -100,7 +100,7 @@ For this vault, every English rendering passes three review gates:
 2. **Pāli reviewer** — confirms the English does not lose, add, or distort what the Pāli says. May ask the drafter to revise. On approval, marks `status: partial`.
 3. **Readability reviewer** — reads the English fresh, without the Pāli alongside. Confirms it works on its own terms for the target reader. May ask the drafter to revise. On approval, marks `status: complete`.
 
-Only `status: complete` files are used downstream (e.g. published to the Daily Abhidhamma app, included in a printed edition). This is the same gate that governs the rails themselves (`4-SYSTEM/Guidelines/0-VAULT-Structure.md` §8).
+Only `status: complete` files are used downstream (e.g. published to the Daily Tipitaka app, included in a printed edition). This is the same gate that governs the rails themselves (`4-SYSTEM/Guidelines/0-VAULT-Structure.md` §8).
 
 The set of locked term renderings is updated only after a fourth conversation among drafter, Pāli reviewer, and a senior Abhidhamma teacher. Once a term is locked, it cannot be changed without re-reading every published output that uses it.
 

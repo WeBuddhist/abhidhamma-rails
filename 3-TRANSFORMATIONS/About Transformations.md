@@ -45,7 +45,7 @@ The plan's governing files are:
 - **`<lang>/termbase.md`** — vocabulary contract for one language stream.
 - **`<lang>/schedule.md`** — day-by-day calendar for one language stream.
 
-See [`Plans/About Plans.md`](Plans/About Plans.md) for the full convention and per-file schemas. The currently active plan is [`Plans/Daily-Abhidhamma/`](Plans/Daily-Abhidhamma/).
+See [`Plans/About Plans.md`](Plans/About Plans.md) for the full convention and per-file schemas. The currently active plan is [`Plans/Daily-Tipitaka/`](Plans/Daily-Tipitaka/).
 
 ---
 
@@ -67,7 +67,7 @@ See [`Plans/About Plans.md`](Plans/About Plans.md) for the full convention and p
 │ ├── audience.md # audience profile
 │ └── <output>.md # the generated files
 └── Plans/
- └── <plan-name>/ # e.g. Daily-Abhidhamma
+ └── <plan-name>/ # e.g. Daily-Tipitaka
  ├── About <plan-name>.md # cross-language overview and session shape
  └── <lang>/ # one folder per language (e.g. en/, bn/, pi/)
  ├── requirements.md # style contract (in target language)
@@ -146,7 +146,7 @@ Hard rules:
 - An output may only cite `2-RAILS/`. It must never reach past the rails to cite `1-SOURCES/` directly.
 - An output may only consume rails whose `status` is `complete`. Drafts and partials are not used.
 - An output may not introduce a keyword rendering not in the per-track termbase. If a new term must be introduced, the termbase is updated first, *and* the new rendering is written back to the consolidated bilingual glossary in `2-RAILS/Bilingual-Glossaries/` as a new attestation row.
-- Plan tracks may also cite completed outputs of other tracks (e.g. Daily-Abhidhamma embeds the English Translation track's output for the Reading-for-Meaning step). Citation is recorded the same way in `context_packages:`.
+- Plan tracks may also cite completed outputs of other tracks (e.g. Daily-Tipitaka embeds the English Translation track's output for the Reading-for-Meaning step). Citation is recorded the same way in `context_packages:`.
 
 ---
 
@@ -215,6 +215,6 @@ Adaptation and Plan skills are not yet catalogued; they will be added as those t
 - [Top-level `README.md`](../README.md) — the pipeline overview and reading paths.
 - [`Translations/About Translations.md`](Translations/About Translations.md) — the translation-track convention plus the Phase 1/2/3 workflow used to produce each track's output.
 - [`Adaptations/About Adaptations.md`](Adaptations/About Adaptations.md) — the adaptation-track convention.
-- [`Plans/About Plans.md`](Plans/About Plans.md) — the plan-track convention; currently houses [`Plans/Daily-Abhidhamma/`](Plans/Daily-Abhidhamma/).
+- [`Plans/About Plans.md`](Plans/About Plans.md) — the plan-track convention; currently houses [`Plans/Daily-Tipitaka/`](Plans/Daily-Tipitaka/).
 - [`../2-RAILS/About Rails.md`](../2-RAILS/About Rails.md) — the descriptive context this folder consumes.
 - [`../4-SYSTEM/CLAUDE.md`](../4-SYSTEM/CLAUDE.md) — the operational quick-reference.

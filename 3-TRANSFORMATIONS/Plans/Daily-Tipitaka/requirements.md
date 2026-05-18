@@ -1,17 +1,17 @@
 ---
-brief_id: daily-abhidhamma
+brief_id: daily-tipitaka
 audience: ITCC participants and prospective participants — practitioners preparing to chant the Abhidhamma Piṭaka together in Bodhgayā, December 2026
 output: 200 daily reading-and-chanting sessions, one per day, each delivered in multiple languages
 collaborator: International Tipiṭaka Chanting Council (ITCC)
-upstream_brief:../../0-INBOX/Daily Abhidhamma Brief.md
+upstream_brief:../../0-INBOX/Daily Tipitaka Brief.md
 status: draft
 ---
 
-# Daily Abhidhamma — Brief
+# Daily Tipitaka — Brief
 
 ## 1. Purpose
 
-The Daily Abhidhamma is a 200-day journey of daily Abhidhamma reading and chanting that prepares practitioners for the International Tipiṭaka Chanting Council (ITCC) gathering at Bodhgayā in December 2026, where thousands will chant the Abhidhamma Piṭaka together at the site of the Buddha's enlightenment.
+The Daily Tipitaka is a 200-day journey of daily Abhidhamma reading and chanting that prepares practitioners for the International Tipiṭaka Chanting Council (ITCC) gathering at Bodhgayā in December 2026, where thousands will chant the Abhidhamma Piṭaka together at the site of the Buddha's enlightenment.
 
 The journey does two things at once. **Meaning** — it lets the Abhidhamma gradually unfold in the practitioner's mind, day by day, page by page. **Voice** — it trains practitioners to carry the Pāli words with confidence and devotion when the chanting in Bodhgayā begins. Every session is both a step toward understanding and an act of offering.
 
@@ -45,7 +45,7 @@ Steps 2, 3, 6, and 7 use **fixed liturgical Pāli** that does not change day to 
 
 ## 4. Rails the Content Draws From
 
-Per the vault citation chain (`1-SOURCES/ → 2-RAILS/ → 3-TRANSFORMATIONS/`), every claim in a Daily Abhidhamma file traces back to:
+Per the vault citation chain (`1-SOURCES/ → 2-RAILS/ → 3-TRANSFORMATIONS/`), every claim in a Daily Tipitaka file traces back to:
 
 - A **verse rail** under `2-RAILS/Verses/` for each passage chanted that day (the source of the morphology, the senses each commentator attests, and the translation decisions).
 - A **section rail** under `2-RAILS/Sections/` for the day's chanting guide (where this passage sits in the larger map of the Abhidhamma).
@@ -56,7 +56,7 @@ Each day's frontmatter `sources:` field lists the specific rails it draws from.
 
 ## 5. Languages
 
-The Daily Abhidhamma is published in multiple languages so practitioners can read the meaning in their own tongue while still chanting in Pāli. The folder `days/` holds one subfolder per language tag:
+The Daily Tipitaka is published in multiple languages so practitioners can read the meaning in their own tongue while still chanting in Pāli. The folder `days/` holds one subfolder per language tag:
 
 - `pi/` — Pāli (source language; meaning gloss kept minimal, Pāli analysis foregrounded)
 - `en/` — English
@@ -95,7 +95,7 @@ The journey is not just the daily content. It needs an outreach and care layer a
 
 ## 8. Sample Day
 
-A complete sample day, exactly as it will be delivered, lives in the upstream brief (`0-INBOX/Daily Abhidhamma Brief.md`, "Sample Day"). It covers Dukamātikā day with five clusters — Knots, Floods, Yokes, Hindrances, Misapprehensions — and shows the seven steps populated. Use it as the gold standard when drafting any day.
+A complete sample day, exactly as it will be delivered, lives in the upstream brief (`0-INBOX/Daily Tipitaka Brief.md`, "Sample Day"). It covers Dukamātikā day with five clusters — Knots, Floods, Yokes, Hindrances, Misapprehensions — and shows the seven steps populated. Use it as the gold standard when drafting any day.
 
 ## 9. Status, Review, and Cite-Back
 

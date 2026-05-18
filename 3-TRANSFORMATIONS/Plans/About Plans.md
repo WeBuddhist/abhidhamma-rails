@@ -4,7 +4,7 @@ This folder holds calendar-driven study and practice arcs: daily readings, weekl
 
 See [`../About Transformations.md`](../About%20Transformations.md) for the top-level rules that govern all transformation categories.
 
-The currently active plan is [`Daily-Abhidhamma/`](Daily-Abhidhamma/) — the 200-day reading-and-chanting journey prepared in collaboration with the International Tipiṭaka Chanting Council for Bodhgayā, December 2026.
+The currently active plan is [`Daily-Tipitaka/`](Daily-Tipitaka/) — the 200-day reading-and-chanting journey prepared in collaboration with the International Tipiṭaka Chanting Council for Bodhgayā, December 2026.
 
 ---
 
@@ -14,7 +14,7 @@ Each plan is one subfolder. Inside that folder, language streams are completely 
 
 ```
 Plans/
-└── <plan-name>/                # e.g. Daily-Abhidhamma
+└── <plan-name>/                # e.g. Daily-Tipitaka
     ├── About <plan-name>.md    # plan overview, cross-language structure, session shape
     └── <lang>/                 # one folder per published language (e.g. en/, bn/, pi/, bo/, zh/, hi/)
         ├── requirements.md     # style contract for this language stream (in target language)
