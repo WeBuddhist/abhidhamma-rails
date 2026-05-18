@@ -51,7 +51,7 @@ Authority comes from the human commentary tradition, never from the LLM's parame
 ```
 
 - `2-RAILS/` cites `1-SOURCES/` only — never another rail file, never parametric knowledge, never `3-TRANSFORMATIONS/`.
-- `3-TRANSFORMATIONS/` cites `2-RAILS/` only — never reaching past the rails directly into the sources. (Plan tracks may also embed other completed `3-TRANSFORMATIONS/` outputs — e.g. a Daily-Abhidhamma day-file embedding the English Translation output — recorded the same way in `context_packages:`.)
+- `3-TRANSFORMATIONS/` cites `2-RAILS/` only — never reaching past the rails directly into the sources. (Plan tracks may also embed other completed `3-TRANSFORMATIONS/` outputs — e.g. a Daily-Tipitaka day-file embedding the English Translation output — recorded the same way in `context_packages:`.)
 
 If a claim cannot be cited, do not make it. Leave the field blank and mark `status: draft`.
 
@@ -206,7 +206,7 @@ Three top-level categories, each a top-level subfolder:
 
 - **`Translations/`** — language-by-language translations. Each track has `requirements.md` + `termbase.md` + `audience.md` + the generated translation file(s).
 - **`Adaptations/`** — audience-targeted retellings (children's versions, scholarly summaries, sermon cycles). Each track has `requirements.md`, `audience.md`, and optionally `termbase.md`.
-- **`Plans/`** — calendar-driven study/practice arcs (daily readings, retreat sessions, course schedules). Each plan is language-stratified: one subfolder per published language, each containing `requirements.md`, `termbase.md`, `schedule.md`, `days/`, `communications/`, and `assets/`. The plan root holds only `About <plan-name>.md`. The active plan is `Plans/Daily-Abhidhamma/`.
+- **`Plans/`** — calendar-driven study/practice arcs (daily readings, retreat sessions, course schedules). Each plan is language-stratified: one subfolder per published language, each containing `requirements.md`, `termbase.md`, `schedule.md`, `days/`, `communications/`, and `assets/`. The plan root holds only `About <plan-name>.md`. The active plan is `Plans/Daily-Tipitaka/`.
 
 **Translation / Adaptation contracts:**
 

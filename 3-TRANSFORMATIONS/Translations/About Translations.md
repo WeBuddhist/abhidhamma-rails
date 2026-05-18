@@ -78,4 +78,4 @@ In addition to per-section QA, the `style-consistency-check` skill *(planned)* s
 
 - Translation files name their language with the tag (`en`, `bo`, `zh`, `pi`, `hi`, …) per the vault's convention (see [`../../1-SOURCES/About Sources.md`](../../1-SOURCES/About Sources.md) §13).
 - Each translation file's frontmatter cites the rails it was generated from. The citation chain (`1-SOURCES/` → `2-RAILS/` → `3-TRANSFORMATIONS/`) never skips.
-- Only `status: complete` translation files are referenced by other transformations (e.g. published into a Daily-Abhidhamma day-file).
+- Only `status: complete` translation files are referenced by other transformations (e.g. published into a Daily-Tipitaka day-file).
