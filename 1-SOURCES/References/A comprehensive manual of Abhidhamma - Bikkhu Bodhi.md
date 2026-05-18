@@ -1,19 +1,3 @@
-The scanning, uploading, and distribution of this book via the Internet or by any other means without the permission of the publisher violates the copyright.
-
-You support Pariyatti in its mission by honoring the copyright and by not sharing this e-book broadly with others who might otherwise purchase it. By encouraging others to purchase e-books, you will be helping Pariyatti to continue to bring future books such as this one to a broader audience.
-
-Please purchase only authorized electronic editions and do not participate in or encourage electronic piracy of copyrighted materials. Thank you for your support.
-
-
-
-
-
-### A Comprehensive Manual of Abhidhamma
-
-
-
-
-
 # **A Comprehensive Manual of Abhidhamma**
 
 The Abhidhammattha Sangaha 
