@@ -1,6 +1,6 @@
 ---
 name: glossary-extract-raw
-description: Extract every source-language keyword and the rendering(s) it receives from one (root-text, translation) pair into a raw per-source bilingual glossary at 2-RAILS/Bilingual-Glossaries/Raw/<source-lang>-<target-lang-tag>.md. Reads the interlinear gloss file produced by interlinear-gloss (token-level \gla ↔ \glc alignment already done) and catalogues attested renderings keyword by keyword.
+description: Extract every source-language keyword and the rendering(s) it receives from one (root-text, translation) pair into a raw per-source bilingual glossary at 2-RAILS/Bilingual-Glossaries/Raw/<source-lang>-<target-lang-tag>.md. Reads the interlinear gloss file produced by interlinear-gloss (token-level \gla ↔ \glb alignment already done) and catalogues attested renderings keyword by keyword.
 ---
 
 # glossary-extract-raw
@@ -11,7 +11,7 @@ The gloss file is the primary input. It must exist before this skill runs. Run `
 
 The skill has two passes:
 
-1. **Token-pair extraction** (helper script) — walk every ```` ```gloss ```` block in the gloss file, pair each `\gla` token with the `\glc` token at the same column position, and tally distinct (source-token, target-rendering) pairs across verses.
+1. **Token-pair extraction** (helper script) — walk every ```` ```gloss ```` block in the gloss file, pair each `\gla` token with the `\glb` token at the same column position, and tally distinct (source-token, target-rendering) pairs across verses.
 2. **Sense disambiguation and curation** (LLM) — group the raw tallies by source lemma, merge inflectional variants, separate clearly distinct senses, pick sample pairings, and write the final raw bilingual glossary.
 
 ---
@@ -74,15 +74,15 @@ status: draft
 
 One `##` heading per keyword. Keywords are sorted alphabetically (by source-language form). Diacritics are preserved.
 
-The output schema is **unchanged** from earlier versions of this skill — what changed is the input: the source/target alignment is no longer extracted from the block level (whole-paragraph pairs) but from the token level (one `\gla` token paired with one `\glc` cell), giving cleaner and finer-grained rendering data.
+The output schema is **unchanged** from earlier versions of this skill — what changed is the input: the source/target alignment is no longer extracted from the block level (whole-paragraph pairs) but from the token level (one `\gla` token paired with one `\glb` cell), giving cleaner and finer-grained rendering data.
 
 ---
 
 ## Rules
 
 1. **One raw bilingual glossary per gloss file.** A `pi-en-rd-gloss.md` becomes `pi-en-rd.md`. Never merge two translations into one raw file — that's what `glossary-combine` is for.
-2. **Tokens come from `\gla`; renderings come from `\glc`.** The free translation on `\ex` is not used for rendering extraction (it's full-sentence English; `\glc` is the per-token gloss).
-3. **Inflectional variants are merged.** *dhammā*, *dhammānaṃ*, *dhammehi* all map to lemma *dhamma*. Where the gloss file's `\glb` line records the lemma, use it; where it doesn't, normalise manually.
+2. **Tokens come from `\gla`; renderings come from `\glb`.** The free translation on `\ex` is not used for rendering extraction (it's full-sentence English; `\glb` is the per-token gloss).
+3. **Inflectional variants are merged.** *dhammā*, *dhammānaṃ*, *dhammehi* all map to lemma *dhamma*. Normalise manually during the curation pass.
 4. **Distinct renderings stay distinct.** `states` and `mental-states` are two renderings of the same keyword, not one. They each get a row with their own frequency.
 5. **Sample pairings show context.** Two to four pairings per keyword, chosen to cover the range of renderings and inflectional contexts. Quote the source token in context (a few words on each side) and the rendering verbatim.
 6. **No interpretive judgments.** This file is descriptive: what the translation actually does. Whether a rendering is good belongs in `glossary-select`, not here.
@@ -98,7 +98,7 @@ The output schema is **unchanged** from earlier versions of this skill — what 
        --validate 2-RAILS/Bilingual-Glossaries/Raw/pi-en-rd-gloss.md
    ```
 
-   The gloss file must validate clean — every `\glb` and `\glc` line has the same token count as its `\gla` line.
+   The gloss file must validate clean — every `\glb` line has the same token count as its `\gla` line.
 
 2. **Run the token-pair extractor:**
 
@@ -108,9 +108,7 @@ The output schema is **unchanged** from earlier versions of this skill — what 
        0-INBOX/temp/pi-en-rd-pairs.csv
    ```
 
-   The script reads every `gloss` block, pairs `\gla[i]` with `\glc[i]` for each column `i`, and emits a CSV with columns: `source_token, source_lemma, target_rendering, block_id, frequency_within_block`.
-
-   The `source_lemma` column is populated from `\glb` when the `\glb` cell looks like a lemma (a single alphabetic token, optionally with `+` for compounds). Otherwise it falls back to the source token itself.
+   The script reads every `gloss` block, pairs `\gla[i]` with `\glb[i]` for each column `i`, and emits a CSV with columns: `source_token, source_lemma, target_rendering, block_id, frequency_within_block`.
 
 3. **Tally by lemma.** Open the CSV and group rows by `source_lemma`. For each lemma, count how many distinct blocks contain each `target_rendering`. Discard rows where the rendering is `--` (unfilled placeholder).
 

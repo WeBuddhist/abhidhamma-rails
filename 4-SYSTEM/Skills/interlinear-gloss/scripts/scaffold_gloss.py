@@ -3,12 +3,12 @@
 
 Reads two markdown files that share an Obsidian block-ID scheme and writes a
 gloss file under ``2-RAILS/Bilingual-Glossaries/Raw/`` with one ``gloss`` code
-block per paired block. ``gla`` is populated from the source tokens and
-``\\ex`` verbatim from the translation; ``glb`` is scaffolded with ``--``
+block per paired block. ``\\gla`` is populated from the source tokens and
+``\\ex`` verbatim from the translation; ``\\glb`` is scaffolded with ``--``
 placeholders at the right column count for the LLM pass to fill in.
 
-If the output file already exists, existing ``glb`` lines are preserved when
-their token count still matches the refreshed ``gla``.
+If the output file already exists, existing ``\\glb`` lines are preserved when
+their token count still matches the refreshed ``\\gla``.
 
 Usage:
 
@@ -121,8 +121,10 @@ def parse_existing_gloss(text):
 
 
 def _find_gloss_line(section, marker):
-    prefix = "" if marker in ("gla", "glb") else "\\"
-    match = re.search(rf"^{prefix}{marker}\s+(.*)$", section, flags=re.MULTILINE)
+    match = re.search(rf"^\\{marker}\s+(.*)$", section, flags=re.MULTILINE)
+    if not match:
+        # Fallback for old format without backslash
+        match = re.search(rf"^{marker}\s+(.*)$", section, flags=re.MULTILINE)
     if not match:
         return ""
     return match.group(1).rstrip()
@@ -162,8 +164,8 @@ def build_gloss_block(gla_tokens, free_translation, existing):
     gla_line = column_align(gla_tokens, widths)
     glb_line = column_align(glb_tokens, widths)
     lines = ["```gloss"]
-    lines.append(f"gla     {gla_line}")
-    lines.append(f"glb     {glb_line}")
+    lines.append(f"\\gla    {gla_line}")
+    lines.append(f"\\glb    {glb_line}")
     lines.append(f"\\ex     {free_translation}")
     lines.append("```")
     return "\n".join(lines)

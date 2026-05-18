@@ -53,6 +53,7 @@ These skills populate `2-RAILS/` with the structured context that translation an
 **Purpose:** Combine the per-commentary raw summaries for one TOC node and add an English translation of the combined summary.
 **Inputs:** All raw summary files for the target node under `2-RAILS/Sections/Raw/`.
 **Outputs:** One combined file at `2-RAILS/Sections/<node-id>.md` containing the original-language synthesis and an English translation.
+**Rules:** Use only the terminology the commentary itself uses. No translation. No paraphrase beyond compression. Every claim cites a block ID from the source file.
 → [`section-summary-combined/SKILL.md`](section-summary-combined/SKILL.md)
 
 ### `verse-context` **[exists]**
@@ -68,17 +69,17 @@ These skills populate `2-RAILS/` with the structured context that translation an
 → [`local-wiki-article/SKILL.md`](local-wiki-article/SKILL.md)
 
 ### `interlinear-gloss` **[exists]**
-**Purpose:** For one root text + one translation, build an interlinear gloss file at `2-RAILS/Bilingual-Glossaries/Raw/<source>-<target>-gloss.md` pairing them verse by verse. Each verse becomes a ```gloss``` block in the Obsidian Interlinear Glossing plugin format (`\gla` source tokens, `\glb` morphology/lemma, `\glc` token-by-token target glosses, `\ex` free translation). Token-level alignment lives here so every downstream bilingual glossary step reads from one place.
+**Purpose:** For one root text + one translation, build an interlinear gloss file at `2-RAILS/Bilingual-Glossaries/Raw/<source>-<target>-gloss.md` pairing them verse by verse. Each verse becomes a ```gloss``` block in the Obsidian Interlinear Glossing plugin format (`\gla` source tokens, `\glb` token-by-token target glosses, `\ex` free translation). Token-level alignment lives here so every downstream bilingual glossary step reads from one place.
 **Inputs:** `1-SOURCES/Text/<root-text>.md`, one translation under `1-SOURCES/Translations/`.
 **Outputs:** One gloss file per translation under `2-RAILS/Bilingual-Glossaries/Raw/<source-lang>-<target-lang-tag>-gloss.md`.
-**Helper:** `scripts/scaffold_gloss.py` aligns blocks by `^block-id`, populates `\gla` from source tokens (stripping editorial brackets and enumeration labels) and `\ex` from the translation, scaffolds `\glb` and `\glc` with `--` placeholders at the right column count, and re-runs idempotently (preserves filled lines when token counts still match). `--validate` checks column-count consistency across the file.
+**Helper:** `scripts/scaffold_gloss.py` aligns blocks by `^block-id`, populates `\gla` from source tokens (stripping editorial brackets and enumeration labels) and `\ex` from the translation, scaffolds `\glb` with `--` placeholders at the right column count, and re-runs idempotently (preserves filled lines when token counts still match). `--validate` checks column-count consistency across the file.
 → [`interlinear-gloss/SKILL.md`](interlinear-gloss/SKILL.md)
 
 ### `glossary-extract-raw` **[exists]**
 **Purpose:** Extract every source-language keyword and the rendering(s) it receives, from one interlinear gloss file, into a raw per-source bilingual glossary.
 **Inputs:** One gloss file at `2-RAILS/Bilingual-Glossaries/Raw/<source>-<target>-gloss.md`.
 **Outputs:** One bilingual glossary file at `2-RAILS/Bilingual-Glossaries/Raw/<source>-<target>.md` with a table mapping source lemma → rendering used in that translation.
-**Helper:** `scripts/extract_pairs.py` walks every ``gloss`` block, pairs `\gla[i]` with `\glc[i]` per column, normalises lemmas using `\glb`, and emits a CSV of `(source_token, source_lemma, target_rendering, block_id)` rows ready for tallying. Legacy fallback `scripts/align_blocks.py` pairs by block ID only, for sources where no gloss file exists yet.
+**Helper:** `scripts/extract_pairs.py` walks every ``gloss`` block, pairs `\gla[i]` with `\glb[i]` per column, and emits a CSV of `(source_token, source_lemma, target_rendering, block_id)` rows ready for tallying. Legacy fallback `scripts/align_blocks.py` pairs by block ID only, for sources where no gloss file exists yet.
 → [`glossary-extract-raw/SKILL.md`](glossary-extract-raw/SKILL.md)
 
 ### `glossary-combine` **[exists]**
