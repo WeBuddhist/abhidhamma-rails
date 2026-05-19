@@ -11,27 +11,41 @@ description: Extract practical information from commentaries to provide guidance
 
 ### 1. Extract TOC and Initialize Rails
 - Read the target root text in `1-SOURCES/`.
-- Extract the complete Table of Contents (TOC) tree.
+- Extract the complete Table of Contents (TOC) tree, including **all levels** regardless of depth.
 - Create a new file at `2-RAILS/Sections/<text name>-practice.md`.
 - At the very top of the file, before any section headings, insert a **TOC block** (see format below).
-- Then outline the rest of the file using Markdown headings that match the extracted TOC tree.
+- Then outline the rest of the file using Markdown headings that match the extracted TOC tree for **all levels**.
 
 #### TOC Block Format
-The TOC block is a nested bullet list using Obsidian within-file heading links (`[[#Heading Name]]`). It must reflect the full heading hierarchy of the document. Example:
+The TOC block is a nested bullet list using Obsidian within-file heading links (`[[#Heading Name]]`). It must reflect the **full heading hierarchy** of the document, capturing every level present in the source text. **Each line in the TOC must end with a unique, hierarchical Obsidian block ID** (e.g., `^toc-1-1`) for granular referencing. Example:
 
-```
+```markdown
 ## Contents
 
-- [[#Section A]]
-  - [[#Subsection A1]]
-- [[#Section B]]
+- [[#Level 1 Section]] ^toc-1
+  - [[#Level 2 Subsection]] ^toc-1-1
+    - [[#Level 3 Sub-subsection]] ^toc-1-1-1
+      - [[#Level 4 Sub-sub-subsection]] ^toc-1-1-1-1
+        - [[#Level 5 Sub-sub-sub-subsection]] ^toc-1-1-1-1-1
 ```
 
 #### Heading Backlink Format
-Immediately after every Markdown heading (on its own line, before the summary content), insert a link back to the TOC:
+Immediately after every Markdown heading (on its own line, before the summary content), insert a link back to the specific line in the TOC using its block ID:
 
 ```
-[[#Contents|↑]]
+[[#^toc-1-1|↑↑]]
+```
+
+Full example of a section block:
+
+```markdown
+## Section A
+
+[[#^toc-1|↑↑↑]]
+
+Summary content...
+
+[[Source-File#^anchor]]
 ```
 
 ### 2. Match with Commentaries
@@ -55,5 +69,5 @@ Immediately after every Markdown heading (on its own line, before the summary co
 
 ### 5. Update Existing Documents
 When adding new sections to an already-existing practice file:
-- Add the new entries to the TOC block at the top (maintaining hierarchy).
-- Add `[[#Contents|↑]]` backlinks to each new heading.
+- Add the new entries to the TOC block at the top (maintaining hierarchy for **all levels** and adding unique, hierarchical block IDs to each new line).
+- Add backlinks to each new heading pointing to its specific TOC line (e.g., `[[#^toc-1-1|↑↑]]`).
