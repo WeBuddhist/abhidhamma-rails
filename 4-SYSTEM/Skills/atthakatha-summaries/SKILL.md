@@ -30,10 +30,10 @@ The TOC block is a nested bullet list using Obsidian within-file heading links (
 ```
 
 #### Heading Backlink Format
-Immediately after every Markdown heading (on its own line, before the summary paragraph), insert a link back to the TOC:
+Immediately after every Markdown heading (on its own line, before the summary paragraph), insert a link back to the specific line in the TOC using its block ID:
 
 ```
-[[#Contents|↑]]
+[[#^toc-1-1|↑↑]]
 ```
 
 Full example of a section block:
@@ -41,7 +41,7 @@ Full example of a section block:
 ```markdown
 ## Section A
 
-[[#Contents|↑]]
+[[#^toc-1|↑↑↑]]
 
 Ayaṃ summary paragraph...
 
@@ -65,4 +65,4 @@ Ayaṃ summary paragraph...
 ### 5. Update Existing Documents
 When adding new sections to an already-existing summaries file:
 - Add the new entries to the TOC block at the top (maintaining hierarchy for **all levels** and adding unique, hierarchical block IDs to each new line).
-- Add `[[#Contents|↑]]` backlinks to each new heading.
+- Add backlinks to each new heading pointing to its specific TOC line (e.g., `[[#^toc-1-1|↑]]`).
