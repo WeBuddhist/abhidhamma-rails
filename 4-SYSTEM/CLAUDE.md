@@ -252,4 +252,41 @@ Full rules in [`../3-TRANSFORMATIONS/About Transformations.md`](../3-TRANSFORMAT
 **Lint a rails file**
 - Any field in `2-RAILS/` without a `1-SOURCES/` citation → mark `status: draft`.
 - Any ⚑ flag without a Divergences entry → add one.
-- Any sens
+- Any sense ID in `2-RAILS/` that has no corresponding local-wiki page → create one.
+
+---
+
+## 12. Skills — always check before starting work
+
+**Before beginning any vault task, check whether a skill already exists for it.**
+
+Skills are reusable, step-by-step procedures stored in `4-SYSTEM/Skills/`. Each skill has its own subfolder containing a `SKILL.md` that specifies exactly how to execute that operation. Following the skill ensures consistency and correct citation format across all vault files.
+
+### Where to look
+
+1. **Catalog first:** `4-SYSTEM/Skills/SKILLS-CATALOG.md` — lists every skill, its purpose, inputs, outputs, and a link to its `SKILL.md`.
+2. **Skill folder:** `4-SYSTEM/Skills/<skill-name>/SKILL.md` — the full execution instructions for a specific skill.
+
+### How to use a skill
+
+1. Read `4-SYSTEM/Skills/SKILLS-CATALOG.md` to find the skill that matches the task.
+2. Open and read the relevant `SKILL.md` in full before touching any vault file.
+3. Follow the execution steps in the `SKILL.md` exactly — do not improvise the format.
+4. If no skill exists for the task, proceed using the general rules in this file, and flag to the human contributor that a new skill may be worth writing.
+
+### Key skills and when to use them
+
+| Task | Skill |
+|------|-------|
+| Add aṭṭhakathā summaries to `2-RAILS/Sections/` | `atthakatha-summaries` |
+| Generate per-commentary raw section summary | `section-summary-raw` |
+| Combine raw summaries into one section file | `section-summary-combined` |
+| Build a verse context package | `verse-context` |
+| Create a local-wiki article | `local-wiki-article` |
+| Add or regenerate a TOC | `add-toc` |
+| Build an interlinear gloss | `interlinear-gloss` |
+| Extract a raw bilingual glossary | `glossary-extract-raw` |
+| Combine glossary files | `glossary-combine` |
+| Ingest EPUB as markdown | `epub-to-markdown` |
+| Ingest tipitaka.org JSON (root text) | `json-to-source-text` |
+| Ingest tipitaka.org JSON (commentary) | `json-to-commentary` |
