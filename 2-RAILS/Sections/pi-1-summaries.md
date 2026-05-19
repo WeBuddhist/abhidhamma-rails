@@ -431,25 +431,56 @@ Idāni ārammaṇapaṭipadāmissakaṃ aṭṭhakkhattukanayaṃ dassetuṃ pun
 
 [[#^toc-2-2-11|↑↑↑]]
 
+Idampi aṭṭhakkhattukaṃ heṭṭhā vuttasādiseneva parittābhibhāyatanavasena pavattaṃ, kevalañhi ārammaṇe suvaṇṇadubbaṇṇabhedo viseso. Suvaṇṇadubbaṇṇānīti parisuddhāparisuddhavaṇṇāni; catūsu imesu ārammaṇesu parittaṃ vitakkacaritavasena āgataṃ, appamāṇaṃ mohacaritavasena, suvaṇṇaṃ dosacaritavasena, dubbaṇṇaṃ rāgacaritavasena – etesañhi etāni sappāyāni honti. Ārammaṇapaṭipadāmissakanayena paṭipadācatukkañca ārammaṇadukaṃ missantā aṭṭhakkhattukanayo veditabbo.
+
+[[1-SOURCES/Commentaries/pi-dhammasangani-atthakatha#^1-1116]]
+[[1-SOURCES/Commentaries/pi-dhammasangani-atthakatha#^1-1117]]
+
 #### Appamāṇāni
 
 [[#^toc-2-2-12|↑↑↑]]
+
+Appamāṇānīti vaḍḍhitappamāṇāni; avaḍḍhitānaṃ parittānaṃ viseso. Tattha yathā mahagghaso puriso ekaṃ bhattavaḍḍhitakaṃ labhitvā taṃ na mahantato passati, evameva ñāṇuttaro puggalo visadaññāṇo 'kimettha samāpajjitabbaṃ, na idaṃ appamāṇaṃ, na mayhaṃ cittekaggatākaraṇe bhāro'ti tāni appamāṇāni ārammaṇāni abhibhavitvā samāpajjati – saha nimittuppādenevettha appanaṃ nibbattetīti attho. Heṭṭhā vuttanayeneva suddhikanayapaṭipadābhedo panettha abhibhāyatane veditabbo.
+
+[[1-SOURCES/Commentaries/pi-dhammasangani-atthakatha#^1-1114]]
+[[1-SOURCES/Commentaries/pi-dhammasangani-atthakatha#^1-1117]]
 
 #### Catasso paṭipadā (Rūpāvacara 3)
 
 [[#^toc-2-2-13|↑↑↑]]
 
+Appamāṇāni ārammaṇāni katvā paṭipadābhedena jhānadesanā dassetuṃ imasmiṃ naye catasso paṭipadā ārabhiyantiādi āraddhaṃ. Catasso paṭipadā dukkhā dandhābhiññā, dukkhā khippābhiññā, sukhā dandhābhiññā, sukhā khippābhiññāti; tā ādikilesavikkhambhanakasiratavasena dukkhā, vipākamaggappātubhāvamandatāya dandhābhiññāti evaṃ yathārahaṃ veditabbā. Pañcakanayena paṭhamamhā catutthajjhānakamena tato pañcamajjhānantogadhāni sabbāni jhānāni catūsu paṭipadāsu niyyojitāni honti.
+
+[[1-SOURCES/Commentaries/pi-dhammasangani-atthakatha#^1-1092]]
+[[1-SOURCES/Commentaries/pi-dhammasangani-atthakatha#^1-1117]]
+
 #### Dve ārammaṇāni (Rūpāvacara 2)
 
 [[#^toc-2-2-14|↑↑↑]]
+
+Appamāṇāni abhibhāyatanārammaṇāni katvā dve ārammaṇāni dassetuṃ imasmiṃ nayo āraddho. Tattha 'appamāṇāni'ti āgatattā parittārammaṇatā na gahitā, parato āgatā appamāṇārammaṇatāyeva dve dveva gahitā – parittaṃ appamāṇārammaṇaṃ appamāṇaṃ appamāṇārammaṇanti. Heṭṭhā vuttānaṃ parittārammaṇānaṃ dve ārammaṇāni nāmato samānāni atthato pana parittappamāṇabhinnattā visabhāgāni – imasmiṃ ṭhāne niyyamitāni ārammaṇāni aṭṭhakkhattukadesanāya kāraṇaṃ honti.
+
+[[1-SOURCES/Commentaries/pi-dhammasangani-atthakatha#^1-1115]]
+[[1-SOURCES/Commentaries/pi-dhammasangani-atthakatha#^1-1117]]
 
 #### Aparampi aṭṭhakkhattukaṃ
 
 [[#^toc-2-2-15|↑↑↑]]
 
+Aparampi aṭṭhakkhattukaṃ nāma appamāṇāni ārammaṇāni katvā ārammaṇapaṭipadāmissakanayena nibbattetuṃ desitaṃ. Paṭipadācatukkañca ārammaṇadukaṃ ca aññamaññaṃ yojetvā aṭṭha jhānanayā nibbattanti; imasmiṃ ṭhāne parittaṃ na gahitaṃ, appamāṇārammaṇadvayantveva gahitaṃ – paṭipadābhede hi parittaappamāṇārammaṇāni cattāri yojetvā soḷasakkhattukaṃ hoteyya, satthārā pana imasmiṃ ṭhāne aṭṭhakkhattukāyeva desanaṃ kātuṃ ajjhāsayoti heṭṭhā vuttanayeneva veditabbaṃ.
+
+[[1-SOURCES/Commentaries/pi-dhammasangani-atthakatha#^1-1115]]
+[[1-SOURCES/Commentaries/pi-dhammasangani-atthakatha#^1-1117]]
+
 #### Idampi aṭṭhakkhattukaṃ (Rūpāvacara 2)
 
 [[#^toc-2-2-16|↑↑↑]]
+
+Idampi aṭṭhakkhattukaṃ appamāṇāni ārammaṇāni suvaṇṇadubbaṇṇānīti visesīkatāni katvā desitaṃ. Yathāpi hi purimā suvaṇṇadubbaṇṇavasena parittāni ārammaṇāni aṭṭhakkhattukan'ti vuttaṃ, evameva idampi appamāṇāni suvaṇṇadubbaṇṇāni ārammaṇāni aṭṭhakkhattukaṃ veditabbaṃ. Pañcamaābhibhāyatanādīsu pana nīlānīti sabbasaṅgāhikavasena, nīlavaṇṇāni nidassanāni nibhāsānīti suvisuddhatthadassanatthaṃ vuttaṃ; suvisuddhavaṇṇavasena hi imāni cattāri abhibhāyatanāni pavattanti.
+
+[[1-SOURCES/Commentaries/pi-dhammasangani-atthakatha#^1-1116]]
+[[1-SOURCES/Commentaries/pi-dhammasangani-atthakatha#^1-1117]]
+[[1-SOURCES/Commentaries/pi-dhammasangani-atthakatha#^1-1118]]
 
 #### Tīṇi vimokkhāni soḷasakkhattukāni
 
