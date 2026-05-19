@@ -56,6 +56,13 @@ These skills populate `2-RAILS/` with the structured context that translation an
 **Rules:** Use only the terminology the commentary itself uses. No translation. No paraphrase beyond compression. Every claim cites a block ID from the source file.
 → [`section-summary-combined/SKILL.md`](section-summary-combined/SKILL.md)
 
+### `practice-summaries` **[exists]**
+**Purpose:** Extract practical information from commentaries to provide guidance on doing less harm, doing more good, and cultivating the mind based on the root text.
+**Inputs:** Commentary file(s) in `1-SOURCES/`, Root text TOC.
+**Outputs:** One practice-oriented summary file at `2-RAILS/Sections/<text name>-practice.md`.
+**Rules:** Grounded strictly in traditional commentary. Structured around three pillars: (1) Doing Less Harm, (2) Doing More Good, (3) Cultivating the Mind. Use technical Pāli terms with diacritics.
+→ [`practice-summaries/SKILL.md`](practice-summaries/SKILL.md)
+
 ### `verse-context` **[exists]**
 **Purpose:** Build the verse-level context file for one verse.
 **Inputs:** Root-text verse (from `1-SOURCES/`), all commentary passages that discuss it (via block transclusions from `1-SOURCES/`).
