@@ -1,6 +1,6 @@
 ---
 name: practice-summaries
-description: Extract practical information from commentaries to provide guidance on doing less harm, doing more good, and cultivating the mind based on the root text.
+description: Extract practical information from commentaries to provide guidance on sabbapāpassa akaraṇa, kusalassa upasampadā, and sacittapariyodapana based on the root text.
 ---
 
 # Skill: Practice Summaries
@@ -55,17 +55,19 @@ Summary content...
     - Methods for developing specific mental qualities or meditation subjects.
 
 ### 3. Draft Practice Summaries
-- Under the corresponding heading in `<text name>-practice.md`, write a summary structured around three pillars:
-    - **Doing Less Harm**: Practical advice on avoiding the unwholesome states described in the section.
-    - **Doing More Good**: Practical advice on cultivating the wholesome states described in the section.
-    - **Cultivating the Mind**: Meditative or mindfulness-based applications derived from the commentary's analysis.
+- Under the corresponding heading in `<text name>-practice.md`, write a **single paragraph** in **Pāli** containing the practice summary. The paragraph weaves together whichever of the three pillars are supported by the commentary material found:
+    - **sabbapāpassa akaraṇavidhi** — the method of not doing any evil: practical guidance on avoiding the akusala states described in the section.
+    - **kusalassa upasampadāvidhi** — the method of achieving the good: practical guidance on cultivating the kusala states described in the section.
+    - **sacittapariyodapanavidhi** — the method of purifying one's own mind: meditative or mindfulness-based applications derived from the commentary's analysis.
 - **Constraints:**
-    - The summary must be grounded in the traditional commentary's interpretation.
-    - Use technical Pāli terms with correct diacritics (e.g., ā, ī, ū, ṭ, ñ).
-    - Maintain a clear, instructional tone.
+    - The summary **must be written entirely in Pāli** with correct diacritics (e.g., ā, ī, ū, ṭ, ñ).
+    - Include only the pillars for which the commentary provides concrete material — a section may yield one, two, or all three pillars depending on what is found.
+    - The three pillars are **not written as separate labelled sub-sections or bullet points** — they are woven into a single flowing paragraph of Pāli prose.
+    - The summary must be grounded in the traditional commentary's interpretation and may quote or closely paraphrase the commentary's own Pāli wording.
+    - Maintain a clear, instructional tone in the Pāli prose.
 
 ### 4. Append Citations
-- Immediately following the summary content, insert a direct wikilink to the exact source section used (e.g., `[[pi-1-at#Section-Name]]`).
+- Immediately following the summary paragraph, insert a direct wikilink to the exact source section used (e.g., `[[pi-1-at#Section-Name]]`).
 
 ### 5. Update Existing Documents
 When adding new sections to an already-existing practice file:
