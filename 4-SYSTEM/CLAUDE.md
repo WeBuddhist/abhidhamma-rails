@@ -304,3 +304,4 @@ Skills are reusable, step-by-step procedures stored in `4-SYSTEM/Skills/`. Each 
 | Ingest EPUB as markdown | `epub-to-markdown` |
 | Ingest tipitaka.org JSON (root text) | `json-to-source-text` |
 | Ingest tipitaka.org JSON (commentary) | `json-to-commentary` |
+| Audit vault integrity (weekly maintenance) | `vault-audit` |
