@@ -13,7 +13,40 @@ description: Create structured, introductory summaries for each Table of Content
 - Read the target root text in `1-SOURCES/Texts/`.
 - Extract the complete Table of Contents (TOC) tree.
 - Create a new file at `2-RAILS/Sections/<text name>-summaries.md`.
-- Outline the file using Markdown headings that match the extracted TOC tree.
+- At the very top of the file, before any section headings, insert a **TOC block** (see format below).
+- Then outline the rest of the file using Markdown headings that match the extracted TOC tree.
+
+#### TOC Block Format
+The TOC block is a nested bullet list using Obsidian within-file heading links (`[[#Heading Name]]`). It must reflect the full heading hierarchy of the document. Example:
+
+```
+## Contents
+
+- [[#Section A]]
+  - [[#Subsection A1]]
+    - [[#Sub-subsection A1a]]
+  - [[#Subsection A2]]
+- [[#Section B]]
+```
+
+#### Heading Backlink Format
+Immediately after every Markdown heading (on its own line, before the summary paragraph), insert a link back to the TOC:
+
+```
+[[#Contents|↑]]
+```
+
+Full example of a section block:
+
+```markdown
+## Section A
+
+[[#Contents|↑]]
+
+Ayaṃ summary paragraph...
+
+[[Source-File#^anchor]]
+```
 
 ### 2. Match with Aṭṭhakathā
 - For each TOC level, search `1-SOURCES/Commentaries/` (or the specific Aṭṭhakathā file) to find the corresponding commentary section.
@@ -28,3 +61,8 @@ description: Create structured, introductory summaries for each Table of Content
 
 ### 4. Append Citations
 - Immediately following the summary paragraph, insert a direct wikilink to the exact commentary section used (e.g., `[[Aṭṭhakathā-File#Section-Name]]`).
+
+### 5. Update Existing Documents
+When adding new sections to an already-existing summaries file:
+- Add the new entries to the TOC block at the top (maintaining hierarchy).
+- Add `[[#Contents|↑]]` backlinks to each new heading.
