@@ -11,22 +11,22 @@ description: Create structured, introductory summaries for each Table of Content
 
 ### 1. Extract TOC and Initialize Rails
 - Read the target root text in `1-SOURCES/Texts/`.
-- Extract the complete Table of Contents (TOC) tree.
+- Extract the complete Table of Contents (TOC) tree, including **all levels** regardless of depth.
 - Create a new file at `2-RAILS/Sections/<text name>-summaries.md`.
 - At the very top of the file, before any section headings, insert a **TOC block** (see format below).
-- Then outline the rest of the file using Markdown headings that match the extracted TOC tree.
+- Then outline the rest of the file using Markdown headings that match the extracted TOC tree for **all levels**.
 
 #### TOC Block Format
-The TOC block is a nested bullet list using Obsidian within-file heading links (`[[#Heading Name]]`). It must reflect the full heading hierarchy of the document. Example:
+The TOC block is a nested bullet list using Obsidian within-file heading links (`[[#Heading Name]]`). It must reflect the **full heading hierarchy** of the document, capturing every level present in the source text. **Each line in the TOC must end with a unique, hierarchical Obsidian block ID** (e.g., `^toc-1-1`) for granular referencing. Example:
 
-```
+```markdown
 ## Contents
 
-- [[#Section A]]
-  - [[#Subsection A1]]
-    - [[#Sub-subsection A1a]]
-  - [[#Subsection A2]]
-- [[#Section B]]
+- [[#Level 1 Section]] ^toc-1
+  - [[#Level 2 Subsection]] ^toc-1-1
+    - [[#Level 3 Sub-subsection]] ^toc-1-1-1
+      - [[#Level 4 Sub-sub-subsection]] ^toc-1-1-1-1
+        - [[#Level 5 Sub-sub-sub-subsection]] ^toc-1-1-1-1-1
 ```
 
 #### Heading Backlink Format
@@ -64,5 +64,5 @@ Ayaṃ summary paragraph...
 
 ### 5. Update Existing Documents
 When adding new sections to an already-existing summaries file:
-- Add the new entries to the TOC block at the top (maintaining hierarchy).
+- Add the new entries to the TOC block at the top (maintaining hierarchy for **all levels** and adding unique, hierarchical block IDs to each new line).
 - Add `[[#Contents|↑]]` backlinks to each new heading.
