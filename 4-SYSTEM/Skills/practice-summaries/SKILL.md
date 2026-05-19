@@ -33,7 +33,7 @@ The TOC block is a nested bullet list using Obsidian within-file heading links (
 Immediately after every Markdown heading (on its own line, before the summary content), insert a link back to the specific line in the TOC using its block ID:
 
 ```
-[[#^toc-1-1|↑↑]]
+[[#^toc-1-1|↑↑↑]]
 ```
 
 Full example of a section block:
@@ -70,4 +70,4 @@ Summary content...
 ### 5. Update Existing Documents
 When adding new sections to an already-existing practice file:
 - Add the new entries to the TOC block at the top (maintaining hierarchy for **all levels** and adding unique, hierarchical block IDs to each new line).
-- Add backlinks to each new heading pointing to its specific TOC line (e.g., `[[#^toc-1-1|↑↑]]`).
+- Add backlinks to each new heading pointing to its specific TOC line (e.g., `[[#^toc-1-1|↑↑↑]]`).
