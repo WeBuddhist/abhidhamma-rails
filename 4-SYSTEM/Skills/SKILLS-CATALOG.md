@@ -56,6 +56,13 @@ These skills populate `2-RAILS/` with the structured context that translation an
 **Rules:** Use only the terminology the commentary itself uses. No translation. No paraphrase beyond compression. Every claim cites a block ID from the source file.
 → [`section-summary-combined/SKILL.md`](section-summary-combined/SKILL.md)
 
+### `atthakatha-summaries` **[exists]**
+**Purpose:** Create structured Pāli-language introductory summaries for each TOC node in a root text, drawn strictly from the Aṭṭhakathā. Produces or extends the consolidated summaries file at `2-RAILS/Sections/<text-name>-summaries.md`, with a full TOC block, hierarchical block IDs, back-links, summary paragraphs, and block-level citations.
+**Inputs:** Root text in `1-SOURCES/Text/`; corresponding Aṭṭhakathā in `1-SOURCES/Commentaries/`; existing summaries file (if any) at `2-RAILS/Sections/<text-name>-summaries.md`.
+**Outputs:** Updated `2-RAILS/Sections/<text-name>-summaries.md` with new or extended TOC entries and Pāli summary paragraphs, each citing at least one block ID from the source commentary.
+**Rules:** Summaries written in Pāli using the commentary's own vocabulary. No English. No parametric knowledge. Every paragraph cites a specific block ID.
+→ [`atthakatha-summaries/SKILL.md`](atthakatha-summaries/SKILL.md)
+
 ### `practice-summaries` **[exists]**
 **Purpose:** Extract practical information from commentaries to provide guidance on doing less harm, doing more good, and cultivating the mind based on the root text.
 **Inputs:** Commentary file(s) in `1-SOURCES/`, Root text TOC.
