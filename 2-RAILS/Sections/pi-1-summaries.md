@@ -486,13 +486,33 @@ Idampi aṭṭhakkhattukaṃ appamāṇāni ārammaṇāni suvaṇṇadubbaṇ�
 
 [[#^toc-2-2-17|↑↑↑]]
 
+Tīṇi vimokkhāni soḷasakkhattukāni nāma rūpāvacarakusalaṃ vimokkhavaseneva pavattamānaṃ dassetuṃ desitaṃ. Kenaṭṭhena vimokkho? Adhimuccanaṭṭhena – paccanīkadhammehi suṭṭhu vimuccanaṭṭhena, ārammaṇe ca abhirativasena suṭṭhu vimuccanaṭṭhena; pituaṅke vissaṭṭhaaṅgapaccaṅgassa dārakassa sayanaṃ viya aniggahitabhāvena nirāsaṅkatāya ārammaṇe pavattīti attho. Tattha rūpī rūpāni passatīti ajjhattabahiddhāvatthukesu kasiṇesu jhānapaṭilābho; ajjhattaṃ arūpasaññīti bahiddhāva paṭiladdhajjhānatā; subhanti vimuttaṃ suvisuddhesu nīlādīsu vaṇṇakasiṇesu jhānāni. Iti kasiṇanti vā abhibhāyatananti vā vimokkhoti vā rūpāvacarajjhānameva – ārammaṇassa sakalaṭṭhena kasiṇaṃ, abhibhavanaṭṭhena abhibhāyatanaṃ, adhimuccanaṭṭhena paccanīkadhammehi ca vimuccanaṭṭhena vimokkho nāmāti. Ekekasmiṃ pana vimokkhe pañcavīsati navakāti katvā tīsu soḷasakkhattukāni honti.
+
+[[1-SOURCES/Commentaries/pi-dhammasangani-atthakatha#^1-1120]]
+[[1-SOURCES/Commentaries/pi-dhammasangani-atthakatha#^1-1121]]
+[[1-SOURCES/Commentaries/pi-dhammasangani-atthakatha#^1-1122]]
+[[1-SOURCES/Commentaries/pi-dhammasangani-atthakatha#^1-1124]]
+
 #### Cattāri brahmavihārajhānāni soḷasakkhattukāni
 
 [[#^toc-2-2-18|↑↑↑]]
 
+Cattāri brahmavihārajhānāni soḷasakkhattukāni nāma mettāsahagatamādīni cattāri jhānāni dassetuṃ desitāni. Mettā hitākārappavattilakkhaṇā byāpādūpasamo sampatti; karuṇā dukkhāpanayanākārappavattilakkhaṇā vihiṃsūpasamo sampatti; muditā pamodanalakkhaṇā arativūpasamo sampatti; upekkhā sattesu majjhattākārappavattilakkhaṇā paṭighānunayavūpasamo sampatti – iti seṭṭhaṭṭhena niddosabhāvena brahmavihārāti vuccanti. Appamāṇā hi sattā etāsaṃ gocarabhūtā pamāṇaṃ aggahetvā sakalapharaṇavaseneva pavattāti appamaññātipi vuccanti. Pathavīkasiṇe pañcavīsati navakā santi, idha pana purimāsu tīsu mettākaruṇāmuditāsu tikacatukkajjhānikavasena somanassāvippayogābhāvato sattakā honti, upekkhāya catutthajjhānavasena upekkhāvedanāsampayogato ekakāva; parittārammaṇatā ca nabahusattārammaṇavasena, appamāṇārammaṇatā bahusattārammaṇavasena hotīti ayaṃ viseso.
+
+[[1-SOURCES/Commentaries/pi-dhammasangani-atthakatha#^1-1126]]
+[[1-SOURCES/Commentaries/pi-dhammasangani-atthakatha#^1-1127]]
+[[1-SOURCES/Commentaries/pi-dhammasangani-atthakatha#^1-1131]]
+
 #### Asubhajhānaṃ soḷasakkhattukaṃ
 
 [[#^toc-2-2-19|↑↑↑]]
+
+Asubhajhānaṃ soḷasakkhattukaṃ nāma rāgacaritasattānaṃ ekantahitaṃ nānārammaṇesu ekekajjhānavaseneva pavattamānaṃ rūpāvacarakusalaṃ dassetuṃ desitaṃ. Tāni dasa asubhāni – uddhumātakaṃ vinīlakaṃ vipubbakaṃ vicchiddakaṃ vikkhāyitakaṃ vikkhittakaṃ hatavikkhittakaṃ lohitakaṃ puḷavakaṃ aṭṭhikanti; imāni sarīrasabhāvappattivasena dasadhā honti, rāgacaritabhedavasena ca dasadhā – uddhumātakaṃ sarīrasaṇṭhānarāgino sappāyaṃ, vinīlakaṃ sarīravaṇṇarāgino, aṭṭhikaṃ dantasampattirāgino sappāyanti evaṃ. Catutthajjhānavasena upekkhābrahmavihāre viya, asubhesu paṭhamajjhānavasena ekekasmiṃ pañcavīsati ekakā honti – asubhārammaṇassa avaḍḍhanīyattā hi jhānūpacārova paṭilabbhati, na uttariṃ. Paritte uddhumātakaṭṭhāne uppannanimittaṃ parittārammaṇaṃ, mahante appamāṇārammaṇanti veditabbaṃ.
+
+[[1-SOURCES/Commentaries/pi-dhammasangani-atthakatha#^1-1150]]
+[[1-SOURCES/Commentaries/pi-dhammasangani-atthakatha#^1-1151]]
+[[1-SOURCES/Commentaries/pi-dhammasangani-atthakatha#^1-1152]]
+[[1-SOURCES/Commentaries/pi-dhammasangani-atthakatha#^1-1157]]
 
 ### Arūpāvacarakusalaṃ
 
