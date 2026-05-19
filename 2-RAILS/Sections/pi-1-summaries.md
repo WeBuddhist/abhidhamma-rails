@@ -528,6 +528,15 @@ Idāni arūpāvacarakusalaṃ dassetuṃ puna katame dhammā kusalātiādi ārad
 
 [[#^toc-2-3-1|↑↑↑]]
 
+Cattāri arūpajhānāni soḷasakkhattukāni arūpāyatanajhānānaṃ ārammaṇapaṭipadāmissakanayena desitāni. Paṭhame ākāsānañcāyatane tīhi padehi ussāhajananatthaṃ palobhanatthañca vaṇṇo kathito – 'rūpasaññānaṃ samatikkamā'ti pañcadasannaṃ jhānasaṅkhātānaṃ aṭṭhannaṃ ca ārammaṇasaṅkhātānaṃ rūpasaññānaṃ sabbākārena virāgā nirodhā; 'paṭighasaññānaṃ atthaṅgamā'ti dasannaṃ cakkhādivatthu-rūpādārammaṇapaṭighātasamuṭṭhitānaṃ saññānaṃ pahānaṃ; 'nānattasaññānaṃ amanasikārā'ti catucattālīsāya kāmāvacaramanodhātumanoviññāṇadhātusaṅgahitānaṃ saññānaṃ anāvajjanaṃ. Evaṃ tīhi padehi ākāsānañcāyatanaṃ vaṇṇayitvā taṃ ārammaṇaṃ samatikkamitvā ākāse pavattaviññāṇārammaṇaṃ viññāṇañcāyatanaṃ, tadapagamārammaṇaṃ ākiñcaññāyatanaṃ, saṅkhārāvasesasukhumabhāvappattaṃ nevasaññānāsaññāyatananti evaṃ ārammaṇātikkamato catasso arūpasamāpattiyo anupubbena paṇītatarā honti. Ekekasmiṃ āyatane catutthajhānavasena pañcavīsati ekakā; ārammaṇacatukkena ca catasso paṭipadāhi ca yojetvā soḷasakkhattukā honti.
+
+[[1-SOURCES/Commentaries/pi-dhammasangani-atthakatha#^1-1163]]
+[[1-SOURCES/Commentaries/pi-dhammasangani-atthakatha#^1-1164]]
+[[1-SOURCES/Commentaries/pi-dhammasangani-atthakatha#^1-1166]]
+[[1-SOURCES/Commentaries/pi-dhammasangani-atthakatha#^1-1169]]
+[[1-SOURCES/Commentaries/pi-dhammasangani-atthakatha#^1-1174]]
+[[1-SOURCES/Commentaries/pi-dhammasangani-atthakatha#^1-1191]]
+
 ### Tebhūmakakusalaṃ
 
 [[#^toc-2-4|↑↑↑]]
@@ -541,13 +550,29 @@ Sabbānipetāni tebhūmakakusalāni hīnādinā pabhedena vattanti, tasmā tesa�
 
 [[#^toc-2-4-1|↑↑↑]]
 
+Tebhūmake kāmāvacarakusale hīnaṃ āyūhanakkhaṇe chandādike hīne lāmakanti, majjhimaṃ majjhime, paṇītaṃ paṇīte veditabbaṃ; yaṃ kattukāmatāsaṅkhātaṃ chandaṃ dhuraṃ katvā āyūhitaṃ taṃ chandādhipateyyaṃ nāma – evaṃ vīsati mahānayā yojitabbā. Kāmāvacarakusalaṃ tihetukampi duhetukampi hoti ñāṇasampayuttavippayuttavasena; adhipatinā sahāpi uppajjati vināpi. Ārammaṇādhipati sahajātādhipatīti dvepi adhipatayo labbhanti – ārammaṇādhipati pana imesu ñāṇasampayuttesu atthi, na ñāṇavippayuttesu. Tasmā ñāṇasampayuttesu vuttaparimāṇato vīsatiguṇo cittanavakavārabhedo veditabbo, ñāṇavippayuttesu pana soḷasaguṇoti.
+
+[[1-SOURCES/Commentaries/pi-dhammasangani-atthakatha#^1-1204]]
+[[1-SOURCES/Commentaries/pi-dhammasangani-atthakatha#^1-1205]]
+[[1-SOURCES/Commentaries/pi-dhammasangani-atthakatha#^1-1207]]
+
 #### Rūpāvacarakusalaṃ (Tebhūmaka)
 
 [[#^toc-2-4-2|↑↑↑]]
 
+Tebhūmake rūpāvacarakusale āyūhanavasena hīnamajjhimapaṇītabhedo chandādhipateyyādayo ca vīsati mahānayā yathāsambhavaṃ yojitabbā. Rūpāvacaraṃ pana tihetukameva ñāṇasampayuttameva – ñāṇavippayuttassa rūpāvacarajhānanibbattanasamatthatāyeva abhāvā. Adhipatisampannameva hoti, adhipatinā vinā anuppajjamānattā. Idha pana kāmāvacaravisesena ārammaṇādhipati na labbhati, sahajātādhipatiyeva labbhati – jhānārammaṇesu tadaṃsapaccayakaraṇāsamatthatāya. Tasmā vuttaparimāṇato vīsatiguṇoyeva cittanavakavārabhedo, na soḷasaguṇo.
+
+[[1-SOURCES/Commentaries/pi-dhammasangani-atthakatha#^1-1204]]
+[[1-SOURCES/Commentaries/pi-dhammasangani-atthakatha#^1-1207]]
+
 #### Arūpāvacarakusalaṃ (Tebhūmaka)
 
 [[#^toc-2-4-3|↑↑↑]]
+
+Tebhūmake arūpāvacarakusale rūpāvacaravuttanayeneva āyūhanavasena hīnamajjhimapaṇītabhedo chandādhipateyyādayo ca vīsati mahānayā yojitabbā. Arūpāvacarampetaṃ tihetukameva ñāṇasampayuttameva; sahajātādhipatiyeva labbhati, na ārammaṇādhipati. Rūpāvacarato viseso pana etthāpatthibhūmārammaṇaviseso – arūpāvacarajhānāni ārammaṇātikkamakamena paṭilabbhantīti, yathā heṭṭhā vuttaṃ. Iti tebhūmakesu tīsu kusalabhūmīsu kāmāvacara ñāṇasampayuttavippayuttubhayasaṅgahitaṃ, rūpāvacararūpāvacara pana ñāṇasampayuttameva – ayaṃ mukhyavisesoti veditabbo.
+
+[[1-SOURCES/Commentaries/pi-dhammasangani-atthakatha#^1-1204]]
+[[1-SOURCES/Commentaries/pi-dhammasangani-atthakatha#^1-1207]]
 
 ### Lokuttarakusalaṃ
 
