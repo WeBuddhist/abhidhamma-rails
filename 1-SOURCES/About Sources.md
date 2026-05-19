@@ -6,7 +6,7 @@ This README is the **authoritative document** for everything in `1-SOURCES/`: wh
 
 The folder is **read-only for the LLM** except via the controlled source-ingestion skills. Everything in `2-RAILS/` cites a file in this folder; everything in `3-TRANSFORMATIONS/` ultimately traces back here through the rails. The integrity of the whole vault depends on `1-SOURCES/` being verifiable against its underlying editions.
 
-This README is **text-agnostic** for the methodology. Vault-specific conventions (in this case, the Pāli Bible-style addressing scheme used for the Tipiṭaka, plus the registered commentary roster) live in [`../4-SYSTEM/Guidelines/abhidhamma-annex.md`](../4-SYSTEM/Guidelines/abhidhamma-annex.md).
+This README is **text-agnostic** for the methodology. Vault-specific conventions (in this case, the Pāli Bible-style addressing scheme used for the Tipiṭaka, plus the registered commentary roster) live in [`../4-SYSTEM/Guidelines/abhidhamma-annex.md`](abhidhamma-annex.md).
 
 ---
 
@@ -136,7 +136,7 @@ related_translations:
 | `book-chapter-verse` | `^book-chapter-verse` | `^1-1-1` |
 | `book-verse` | `^book-verse` | `^1-1` |
 
-The `book-verse` value is the Bible-style addressing for canonical Pāli books — see [`../4-SYSTEM/Guidelines/abhidhamma-annex.md`](../4-SYSTEM/Guidelines/abhidhamma-annex.md) for the full rules.
+The `book-verse` value is the Bible-style addressing for canonical Pāli books — see [`../4-SYSTEM/Guidelines/abhidhamma-annex.md`](abhidhamma-annex.md) for the full rules.
 
 ### Edition
 
@@ -197,7 +197,7 @@ gretil_url:
 ---
 ```
 
-The `registered_id` is the short identifier used in `2-RAILS/` to attribute claims to this commentary. Once assigned, it never changes. New commentaries must be registered in the vault's annex (e.g. [`../4-SYSTEM/Guidelines/abhidhamma-annex.md`](../4-SYSTEM/Guidelines/abhidhamma-annex.md) §3) before their `registered_id` is used in any rail file.
+The `registered_id` is the short identifier used in `2-RAILS/` to attribute claims to this commentary. Once assigned, it never changes. New commentaries must be registered in the vault's annex (e.g. [`../4-SYSTEM/Guidelines/abhidhamma-annex.md`](abhidhamma-annex.md) §3) before their `registered_id` is used in any rail file.
 
 ### Reference / secondary literature
 
@@ -272,7 +272,7 @@ This applies even when the source edition uses continuous verse numbering across
 [Ed: continuous verse number 1 in <edition>]
 ```
 
-**Exception: Bible-style addressing.** For Pāli canonical texts (Tipiṭaka books) in this vault, verse numbers run continuously through the book without restarting at chapter boundaries. The full rules are in [`../4-SYSTEM/Guidelines/abhidhamma-annex.md`](../4-SYSTEM/Guidelines/abhidhamma-annex.md).
+**Exception: Bible-style addressing.** For Pāli canonical texts (Tipiṭaka books) in this vault, verse numbers run continuously through the book without restarting at chapter boundaries. The full rules are in [`../4-SYSTEM/Guidelines/abhidhamma-annex.md`](abhidhamma-annex.md).
 
 ### Pre-chapter content — Chapter 0
 
@@ -320,7 +320,7 @@ Devanāgarī is the standard script for all Sanskrit root texts. IAST goes in a 
 
 ### Pāli
 
-Pāli root texts use PTS romanisation. For the Tipiṭaka books in this vault, see the Bible-style addressing rules in [`../4-SYSTEM/Guidelines/abhidhamma-annex.md`](../4-SYSTEM/Guidelines/abhidhamma-annex.md).
+Pāli root texts use PTS romanisation. For the Tipiṭaka books in this vault, see the Bible-style addressing rules in [`../4-SYSTEM/Guidelines/abhidhamma-annex.md`](abhidhamma-annex.md).
 
 ### Tibetan (Unicode)
 
@@ -652,8 +652,8 @@ For languages not listed, use the appropriate ISO 639-1 code. When a resource is
 ## 15. Where to look next
 
 - [Top-level `README.md`](../README.md) — the pipeline overview and reading paths.
-- [`../4-SYSTEM/Guidelines/0-VAULT-Structure.md`](../4-SYSTEM/Guidelines/0-VAULT-Structure.md) — the architecture and the citation chain.
+- [`../4-SYSTEM/Guidelines/0-VAULT-Structure.md`](0-VAULT-Structure.md) — the architecture and the citation chain.
 - [`../2-RAILS/About Rails.md`](../2-RAILS/About Rails.md) — what rails do with the material in this folder.
-- [`../4-SYSTEM/Guidelines/abhidhamma-annex.md`](../4-SYSTEM/Guidelines/abhidhamma-annex.md) — vault-specific Pāli/Tipiṭaka addressing, commentary roster, language tracks.
+- [`../4-SYSTEM/Guidelines/abhidhamma-annex.md`](abhidhamma-annex.md) — vault-specific Pāli/Tipiṭaka addressing, commentary roster, language tracks.
 - [`../4-SYSTEM/CLAUDE.md`](../4-SYSTEM/CLAUDE.md) §4–6 — the operational quick-reference for source-file rules.
 - [`../4-SYSTEM/Skills/SKILLS-CATALOG.md`](../4-SYSTEM/Skills/SKILLS-CATALOG.md) §"Source ingestion skills" — the skills that bring material into this folder.

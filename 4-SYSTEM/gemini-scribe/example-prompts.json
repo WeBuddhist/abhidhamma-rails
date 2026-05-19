@@ -1,18 +1,18 @@
 [
   {
-    "icon": "search",
-    "text": "Compare the definitions of kusala and akusala within the Local-Wiki folder to identify key philosophical distinctions found in the commentaries"
-  },
-  {
-    "icon": "file-plus",
-    "text": "Draft a contemporary English translation for verse 1-0a-1 using the interpretive context and glossary entries found in the Rails folder"
-  },
-  {
-    "icon": "folder-tree",
-    "text": "Review the Daily-Tipitaka study plans in the Transformations folder to verify they strictly follow the citation chain back to the root Pāli sources"
+    "icon": "sparkles",
+    "text": "Apply the interlinear gloss skill from the System folder to process the raw Dhammasangani text currently sitting in the Inbox temp directory"
   },
   {
     "icon": "book-open",
-    "text": "Synthesize the commentary notes from the Atthakatha and Mulatiika for the first section of the Dhammasangani to create a summary in the Inbox"
+    "text": "Extract Pali to Sinhala terms from the raw glossary files and update the pi-sin bilingual glossary in the Rails folder"
+  },
+  {
+    "icon": "calendar",
+    "text": "Draft a new Daily Tipitaka study plan using the combined section summary for 1-0b-0 found in the Rails folder"
+  },
+  {
+    "icon": "tag",
+    "text": "Verify that the drafts in the Contemporary Bengali Abhidhamma folder follow the strict tagging conventions outlined in the abhidhamma annex guidelines"
   }
 ]

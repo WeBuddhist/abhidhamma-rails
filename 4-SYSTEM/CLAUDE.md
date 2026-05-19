@@ -18,7 +18,7 @@ When this file and a folder README disagree, the folder README wins.
 
 Authority comes from the human commentary tradition, never from the LLM's parametric knowledge.
 
-**One vault per text.** This vault is for the **Pāli Abhidhamma Piṭaka**. For vault-specific conventions (Pāli Bible-style addressing, registered commentary IDs, language tracks), see [`Guidelines/abhidhamma-annex.md`](Guidelines/abhidhamma-annex.md).
+**One vault per text.** This vault is for the **Pāli Abhidhamma Piṭaka**. For vault-specific conventions (Pāli Bible-style addressing, registered commentary IDs, language tracks), see [`Guidelines/abhidhamma-annex.md`](abhidhamma-annex.md).
 
 ---
 
@@ -100,7 +100,7 @@ katame dhammā kusalā?... ^1-1
 - Format: `^chapter-verse` (most common), `^verse`, or `^book-chapter-verse` — declared per file in the `verse_id_format` frontmatter field.
 - Numbers are not zero-padded. Use natural numbers (`^1-583`, not `^01-0583`).
 - The full heading-ID hierarchy (`^N-0` for chapters, `^N-N-0` for sub-sections; the trailing `-0` distinguishes editorial headings from content blocks) is in [`../1-SOURCES/About Sources.md`](../1-SOURCES/About Sources.md) §5.
-- Pāli canonical texts in this vault use a Bible-style addressing scheme (`^<book>-<verse>` with continuous numbering, plus letter-suffixed sub-namespaces for the Mātikā). See [`Guidelines/abhidhamma-annex.md`](Guidelines/abhidhamma-annex.md).
+- Pāli canonical texts in this vault use a Bible-style addressing scheme (`^<book>-<verse>` with continuous numbering, plus letter-suffixed sub-namespaces for the Mātikā). See [`Guidelines/abhidhamma-annex.md`](abhidhamma-annex.md).
 
 Link form: `[[1-SOURCES/Text/pi-dhammasangani.md#^1-1]]`
 Transclude: `![[1-SOURCES/Text/pi-dhammasangani.md#^1-1]]`
@@ -236,7 +236,7 @@ Full rules in [`../3-TRANSFORMATIONS/About Transformations.md`](../3-TRANSFORMAT
 - **No parametric knowledge.** If you cannot cite a claim to a file in `1-SOURCES/`, do not include it.
 - **No consensus flattening.** When commentaries disagree, say so.
 - Present tense for analytical claims ("Buddhaghosa reads this as…"); past tense for historical statements.
-- Use registered short IDs for commentaries throughout (e.g. `dhammasangani-atthakatha`). The roster lives in [`Guidelines/abhidhamma-annex.md`](Guidelines/abhidhamma-annex.md).
+- Use registered short IDs for commentaries throughout (e.g. `dhammasangani-atthakatha`). The roster lives in [`Guidelines/abhidhamma-annex.md`](abhidhamma-annex.md).
 
 ---
 
