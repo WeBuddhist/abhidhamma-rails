@@ -31,7 +31,7 @@ status: draft
 
 ```gloss
 \gla vipākā dhammā vipāka dhamma dhammā neva vipāka na vipākadhamma dhammā
-\glb results States resultant quality (States) neither -- -- -- (States)
+\glb results States resultant quality (States) neither (results) nor (resultant_quality) (States)
 \ex States that are results; that have resultant quality; that are neither.
 ```
 
@@ -71,7 +71,7 @@ status: draft
 
 ```gloss
 \gla dassanena pahātabbā dhammā bhāvanāya pahātabbā dhammā neva dassanena na bhāvanāya pahātabbā dhammā
-\glb by_vision to_be_put_away States by_culture (to_be_put_away) (States) neither (vision) (culture) (to_be_put_away) (States)
+\glb by_vision to_be_put_away States by_culture (to_be_put_away) (States) neither (vision) nor (culture) (to_be_put_away) (States)
 \ex States that are to be put away by vision; by culture; by neither.
 ```
 
@@ -79,7 +79,7 @@ status: draft
 
 ```gloss
 \gla dassanena pahātabbahetukā dhammā bhāvanāya pahātabbahetukā dhammā neva dassanena na bhāvanāya pahātabbahetukā dhammā
-\glb by_vision moral_roots_of_which_are_to_be_put_away States by_culture (moral_roots_put_away) (States) neither (vision) (culture) (moral_roots_put_away) (States)
+\glb by_vision moral_roots_of_which_are_to_be_put_away States by_culture (moral_roots_put_away) (States) neither (vision) nor (culture) (moral_roots_put_away) (States)
 \ex States, the moral roots of which are to be put away by vision; by culture; by neither.
 ```
 
@@ -191,7 +191,7 @@ status: draft
 
 ```gloss
 \gla hetū dhammā na hetū dhammā
-\glb moral_roots States not moral_roots
+\glb moral_roots States not (moral_roots) (States)
 \ex States that are moral roots; not moral roots.
 ```
 
@@ -215,7 +215,7 @@ status: draft
 
 ```gloss
 \gla hetū ceva dhammā sahetukā ca sahetukā ceva dhammā na ca hetū
-\glb are_both_moral_roots (States) concomitant_with_a_moral_root and states_of_mind_that_are_the_latter (States) but_not_the_former -- --
+\glb moral_roots both States concomitant_with_a_moral_root and (concomitant_with_a_moral_root) both (States) not and (moral_roots)
 \ex States that are both moral roots and concomitant with a moral root; states of mind that are the latter but not the former.
 ```
 
@@ -223,7 +223,7 @@ status: draft
 
 ```gloss
 \gla hetū ceva dhammā hetusampayuttā ca hetusampayuttā ceva dhammā na ca hetū
-\glb are_both_moral_roots (States) associated_with_moral_roots and states_of_mind_that_are_the_latter (States) but_not_the_former -- --
+\glb moral_roots both States associated_with_moral_roots and (associated_with_moral_roots) both (States) not and (moral_roots)
 \ex States that are both moral roots and associated with moral roots; states of mind that are the latter but not the former.
 ```
 
@@ -231,7 +231,7 @@ status: draft
 
 ```gloss
 \gla na hetū kho pana dhammā sahetukāpi ahetukāpi
-\glb not_moral_roots -- -- States concomitant_with_moral_roots_or not
+\glb not (moral_roots) indeed moreover States concomitant_with_moral_roots not_so_concomitant
 \ex States that are not moral roots, but are either concomitant with moral roots or not.
 ```
 
@@ -287,7 +287,7 @@ status: draft
 
 ```gloss
 \gla kenaci viññeyyā dhammā kenaci na viññeyyā dhammā
-\glb may_be_cognized_in_a_given_way States -- -- not -- (States)
+\glb in_a_given_way may_be_cognized States (in_a_given_way) not (may_be_cognized) (States)
 \ex States that may be cognized in a given way; that may not be cognized in that given way.
 ```
 
@@ -319,7 +319,7 @@ status: draft
 
 ```gloss
 \gla āsavā ceva dhammā sāsavā ca sāsavā ceva dhammā no ca āsavā
-\glb both_are (States) and_have_āsavas -- (States) have_āsavas but are_not_āsavas
+\glb āsavas both States having_āsavas and (having_āsavas) both (States) not and (āsavas)
 \ex States that both are and have āsavas; that have āsavas but are not āsavas.
 ```
 
@@ -327,7 +327,7 @@ status: draft
 
 ```gloss
 \gla āsavā ceva dhammā āsavasampayuttā ca āsavasampayuttā ceva dhammā no ca āsavā
-\glb both_are_āsavas (States) and_associated_with_āsavas -- (States) associated_with_āsavas but are_not_āsavas
+\glb āsavas both States associated_with_āsavas and (associated_with_āsavas) both (States) not and (āsavas)
 \ex States that are both āsavas and associated with āsavas; that are associated with āsavas but are not āsavas.
 ```
 
@@ -335,7 +335,7 @@ status: draft
 
 ```gloss
 \gla āsavavippayuttā kho pana dhammā sāsavāpi anāsavāpi
-\glb dissociated_from_āsavas -- -- States may_have_or may_not_have_āsavas
+\glb dissociated_from_āsavas indeed moreover States having_āsavas not_having_āsavas
 \ex States that are dissociated from āsavas, but may have or may not have āsavas.
 ```
 
