@@ -6,7 +6,7 @@ This README is the **authoritative document** for everything in `2-RAILS/`: the 
 
 Rails *describe* what the sources say. They do not *prescribe* how a new transformation should be done — that's what `3-TRANSFORMATIONS/` is for. When a transformation track introduces a new keyword rendering, it is recorded back here as one more attested choice in the corpus, alongside the renderings every other translator made.
 
-This README is **text-agnostic** for the methodology. Vault-specific conventions live in [`../4-SYSTEM/Guidelines/abhidhamma-annex.md`](../4-SYSTEM/Guidelines/abhidhamma-annex.md).
+This README is **text-agnostic** for the methodology. Vault-specific conventions live in [`../4-SYSTEM/Guidelines/abhidhamma-annex.md`](abhidhamma-annex.md).
 
 ---
 
@@ -57,7 +57,7 @@ The LLM is the compiler. Human domain specialists are the reviewers. Nothing in 
 
 ### Which bilingual glossary pairs to create
 
-Create a consolidated bilingual glossary file for every source→target combination attested in the vault's `1-SOURCES/Translations/` and `1-SOURCES/Commentaries/`. The set is text-specific and is enumerated in [`../4-SYSTEM/Guidelines/abhidhamma-annex.md`](../4-SYSTEM/Guidelines/abhidhamma-annex.md) §4 for this vault.
+Create a consolidated bilingual glossary file for every source→target combination attested in the vault's `1-SOURCES/Translations/` and `1-SOURCES/Commentaries/`. The set is text-specific and is enumerated in [`../4-SYSTEM/Guidelines/abhidhamma-annex.md`](abhidhamma-annex.md) §4 for this vault.
 
 ---
 
@@ -511,7 +511,7 @@ Transformations in `3-TRANSFORMATIONS/` consume `complete` rails to derive their
 - [Top-level `README.md`](../README.md) — the pipeline overview and reading paths.
 - [`../1-SOURCES/About Sources.md`](../1-SOURCES/About Sources.md) — the rules for the source material that rails cite.
 - [`../3-TRANSFORMATIONS/About Transformations.md`](../3-TRANSFORMATIONS/About Transformations.md) — the rules for the outputs that consume rails.
-- [`../4-SYSTEM/Guidelines/0-VAULT-Structure.md`](../4-SYSTEM/Guidelines/0-VAULT-Structure.md) — the architecture and citation chain.
-- [`../4-SYSTEM/Guidelines/abhidhamma-annex.md`](../4-SYSTEM/Guidelines/abhidhamma-annex.md) — vault-specific commentary roster, language tracks, and Pāli addressing conventions.
+- [`../4-SYSTEM/Guidelines/0-VAULT-Structure.md`](0-VAULT-Structure.md) — the architecture and citation chain.
+- [`../4-SYSTEM/Guidelines/abhidhamma-annex.md`](abhidhamma-annex.md) — vault-specific commentary roster, language tracks, and Pāli addressing conventions.
 - [`../4-SYSTEM/Skills/SKILLS-CATALOG.md`](../4-SYSTEM/Skills/SKILLS-CATALOG.md) — every workflow skill that reads from or writes to this folder.
 - [`../4-SYSTEM/CLAUDE.md`](../4-SYSTEM/CLAUDE.md) — the operational quick-reference.

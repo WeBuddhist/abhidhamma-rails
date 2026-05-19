@@ -33,7 +33,7 @@ Two principles hold the collaboration together:
 - **Descriptive rails, prescriptive transformations.** The source specialist *describes* what the tradition attests: every commentator, every translator, every attested rendering. Each target specialist *prescribes* what *their* output does for *their* audience: this register, this rendering for each keyword.
 - **One-way citation chain.** `1-SOURCES/ → 2-RAILS/ → 3-TRANSFORMATIONS/`. Target specialists cite the source specialist; they never reach past the rails into raw commentary. If a claim can't be cited, it isn't made.
 
-For the information-architecture side of this — why structuring knowledge once for repeated AI consumption beats fresh inference each time — see [`4-SYSTEM/Guidelines/why-rails.md`](4-SYSTEM/Guidelines/why-rails.md), which maps the parallel to Wikipedia.
+For the information-architecture side of this — why structuring knowledge once for repeated AI consumption beats fresh inference each time — see [`4-SYSTEM/Guidelines/why-rails.md`](why-rails.md), which maps the parallel to Wikipedia.
 
 ## What
 
@@ -57,7 +57,7 @@ material         descriptive     AI-generated output
 - **[`3-TRANSFORMATIONS/`](3-TRANSFORMATIONS/)** — three categories of output (**Translations**, **Adaptations**, **Plans**). Each track is governed by `requirements.md` (style contract) + `termbase.md` (vocabulary contract); the AI-generated output files sit alongside, citing the rails.
 - **[`4-SYSTEM/`](4-SYSTEM/)** — skills and workflows for every stage of the pipeline, plus cross-cutting methodology docs and templates.
 
-This particular vault serves the **Pāli Abhidhamma Piṭaka** — the seven canonical books beginning with the Dhammasaṅgaṇī. Vault-specific conventions (Pāli Bible-style addressing, registered commentary IDs, language tracks) live in [`4-SYSTEM/Guidelines/abhidhamma-annex.md`](4-SYSTEM/Guidelines/abhidhamma-annex.md).
+This particular vault serves the **Pāli Abhidhamma Piṭaka** — the seven canonical books beginning with the Dhammasaṅgaṇī. Vault-specific conventions (Pāli Bible-style addressing, registered commentary IDs, language tracks) live in [`4-SYSTEM/Guidelines/abhidhamma-annex.md`](abhidhamma-annex.md).
 
 ## Getting started — pick your path
 
@@ -66,12 +66,12 @@ This particular vault serves the **Pāli Abhidhamma Piṭaka** — the seven can
 1. **This README** — Why · How · What (you are here).
 2. [Set up the vault on your computer](4-SYSTEM/How-to%20guides/Set%20up%20the%20vault.md) — install Obsidian, install Git, clone the repo, open it as a vault.
 3. [Sync and troubleshoot](4-SYSTEM/How-to%20guides/Sync%20and%20troubleshoot.md) — how everyone's edits stay in sync; what to do when something goes wrong.
-4. [`4-SYSTEM/Guidelines/why-rails.md`](4-SYSTEM/Guidelines/why-rails.md) — the specialist-pair and Wikipedia analogies in full.
-5. [`4-SYSTEM/Guidelines/0-VAULT-Structure.md`](4-SYSTEM/Guidelines/0-VAULT-Structure.md) — the architecture and the citation chain.
+4. [`4-SYSTEM/Guidelines/why-rails.md`](why-rails.md) — the specialist-pair and Wikipedia analogies in full.
+5. [`4-SYSTEM/Guidelines/0-VAULT-Structure.md`](0-VAULT-Structure.md) — the architecture and the citation chain.
 6. [`1-SOURCES/About Sources.md`](1-SOURCES/About Sources.md) — rules for collecting, formatting, and linking source material.
 7. [`2-RAILS/About Rails.md`](2-RAILS/About Rails.md) — the schema for the descriptive rails.
 8. [`3-TRANSFORMATIONS/About Transformations.md`](3-TRANSFORMATIONS/About Transformations.md) — how transformation tracks are set up and how outputs are produced.
-9. [`4-SYSTEM/Guidelines/abhidhamma-annex.md`](4-SYSTEM/Guidelines/abhidhamma-annex.md) — the conventions specific to *this* vault.
+9. [`4-SYSTEM/Guidelines/abhidhamma-annex.md`](abhidhamma-annex.md) — the conventions specific to *this* vault.
 10. [`4-SYSTEM/Skills/SKILLS-CATALOG.md`](4-SYSTEM/Skills/SKILLS-CATALOG.md) — every workflow skill, grouped by pipeline stage; pick the one that matches the work you want to do.
 
 For day-to-day workflows not in the Skills catalog (oTranscribe, Obsidian Git troubleshooting), see the rest of [`4-SYSTEM/How-to guides/`](4-SYSTEM/How-to%20guides/).
@@ -80,7 +80,7 @@ For day-to-day workflows not in the Skills catalog (oTranscribe, Obsidian Git tr
 
 1. [`4-SYSTEM/CLAUDE.md`](4-SYSTEM/CLAUDE.md) — operational instructions: citation chain, write permissions, do-nots, standard operations. Read in full before touching any file.
 2. The `About <Folder>.md` for the folder you're working in — [`1-SOURCES/About Sources.md`](1-SOURCES/About Sources.md), [`2-RAILS/About Rails.md`](2-RAILS/About Rails.md), or [`3-TRANSFORMATIONS/About Transformations.md`](3-TRANSFORMATIONS/About Transformations.md). Each is the canonical authority for that folder's rules.
-3. [`4-SYSTEM/Guidelines/abhidhamma-annex.md`](4-SYSTEM/Guidelines/abhidhamma-annex.md) — vault-specific conventions.
+3. [`4-SYSTEM/Guidelines/abhidhamma-annex.md`](abhidhamma-annex.md) — vault-specific conventions.
 4. The relevant `4-SYSTEM/Skills/<skill>/SKILL.md` for the specific task.
 
 `AGENTS.md` files exist for tooling that expects them ([`4-SYSTEM/gemini-scribe/AGENTS.md`](4-SYSTEM/gemini-scribe/AGENTS.md)) — they're thin pointers to `CLAUDE.md` and the folder docs.

@@ -163,4 +163,4 @@ The default for every Pāli source is `-pi`. Other tags appear only in `1-SOURCE
 - [`../../1-SOURCES/About Sources.md`](../../1-SOURCES/About Sources.md) — source-file rules (frontmatter, block IDs, language tags, per-type file format).
 - [`../../2-RAILS/About Rails.md`](../../2-RAILS/About Rails.md) — rails schema and disambiguation stack.
 - [`../../3-TRANSFORMATIONS/About Transformations.md`](../../3-TRANSFORMATIONS/About Transformations.md) — track and output rules.
-- [Top-level `README.md`](../../README.md) — what rails are, why we build them, the translation workflow.
+- [Top-level `README.md`](README.md) — what rails are, why we build them, the translation workflow.
