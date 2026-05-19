@@ -637,29 +637,64 @@ Idāni abyākatapadaṃ bhājetvā dassetuṃ katame dhammā abyākatātiādi ā
 
 [[#^toc-2-7-1|↑↑↑]]
 
+Kusalavipākapañcaviññāṇānaṃ vatthudvārārammaṇāni nibaddhāneva honti, vatthādisaṅkamanaṃ natthi. Cakkhuviññāṇaṃ cakkhusannissitarūpavijānanalakkhaṇaṃ, rūpamattārammaṇarasaṃ, rūpābhimukhabhāvapaccupaṭṭhānaṃ; eseva nayo sotaviññāṇādīsupi. Cakkhuviññāṇaṃ cakkhupasādaṃ vatthuṃ katvā iṭṭhe iṭṭhamajjhatte ca catusamuṭṭhānikarūpārammaṇe dassanakiccaṃ sādhayati; sotaviññāṇādīni sotapasādādīni vatthuṃ katvā savanaghāyanasāyanaphusanakiccāni. Cakkhudvārādīsu catūsu upekkhāvedanā bhājitā, kāyaviññāṇe pana ghaṭṭanādhikyena iṭṭhe sukhasahagataṃ aniṭṭhe dukkhasahagataṃ uppajjati.
+
+[[1-SOURCES/Commentaries/pi-dhammasangani-atthakatha#^1-1381]]
+[[1-SOURCES/Commentaries/pi-dhammasangani-atthakatha#^1-1385]]
+[[1-SOURCES/Commentaries/pi-dhammasangani-atthakatha#^1-1386]]
+
 #### Kusalavipākamanodhātu
 
 [[#^toc-2-7-2|↑↑↑]]
+
+Manodhātu sabhāvasuññatanissattaṭṭhena manoyeva dhātu; cakkhuviññāṇādīnaṃ anantaraṃ rūpādivijānanalakkhaṇā, rūpādīnaṃ sampaṭicchanarasā, tathābhāvapaccupaṭṭhānā, cakkhuviññāṇādiapagamapadaṭṭhānā. Vatthu nibaddhaṃ hadayavatthumeva; dvārārammaṇāni pana anibaddhāni – pañcadvāre ārammaṇānaṃ saṅkamantesu sampaṭicchanaṃ hutvā vipaccati, kusalavipākesu cakkhuviññāṇādīsu niruddhesu taṃsamanantarā tāneva ṭhānappattāni rūpārammaṇādīni sampaṭicchati. Jhānaṅgampi pañcaviññāṇasote patitvā gatattāyeva na uddhaṭaṃ; maggaṅgāni ca alābhatoyeva.
+
+[[1-SOURCES/Commentaries/pi-dhammasangani-atthakatha#^1-1387]]
 
 #### Kusalavipākamanoviññāṇadhātusomanassasahagatā
 
 [[#^toc-2-7-3|↑↑↑]]
 
+Paṭhamā kusalavipākamanoviññāṇadhātu iṭṭhārammaṇasmiṃyeva pavattati, tasmā somanassavedanā hoti. Dvīsu ṭhānesu vipaccati – pañcadvāre kusalavipākacakkhuviññāṇādianantaraṃ vipākamanodhātuyā taṃ ārammaṇaṃ sampaṭicchitvā niruddhāya santīraṇakiccaṃ sādhayamānā, chasu dvāresu ca balavārammaṇe javanena gahitārammaṇaṃ gahetvā tadārammaṇabhāvena. Tadārammaṇaṃ patiṭṭhamānaṃ bhavaṅgassa vāraṃ adatvā ekaṃ dve cittavāre pavattitvā bhavaṅgameva otarati. Ubhayatthāpi pañcaviññāṇasote patitvā gatattāyeva jhānaṅgamaggaṅgāni na uddhaṭāni.
+
+[[1-SOURCES/Commentaries/pi-dhammasangani-atthakatha#^1-1388]]
+[[1-SOURCES/Commentaries/pi-dhammasangani-atthakatha#^1-1389]]
+
 #### Kusalavipākamanoviññāṇadhātuupekkhāsahagatā
 
 [[#^toc-2-7-4|↑↑↑]]
+
+Dutiyā kusalavipākamanoviññāṇadhātu iṭṭhamajjhattārammaṇe pavattati, tasmā upekkhāvedanā hoti; padāni ca manodhātuniddesasadisāneva. Pañcasu ṭhānesu vipaccati – jaccandhajaccabadhirajaccaeḷajaccummattakaubhatobyañjanakanapuṃsakānaṃ paṭisandhiggahaṇakāle paṭisandhi hutvā, paṭisandhiyā vītivattāya yāvatāyukaṃ bhavaṅgaṃ hutvā, iṭṭhamajjhatte pañcārammaṇavīthiyā santīraṇaṃ hutvā, balavārammaṇe chasu dvāresu tadārammaṇaṃ hutvā, maraṇakāle cuti hutvāti. Lakkhaṇādito duvidhāpi manoviññāṇadhātu ahetukavipākā, chaḷārammaṇavijānanalakkhaṇā, santīraṇādirasā, hadayavatthupadaṭṭhānāti veditabbā.
+
+[[1-SOURCES/Commentaries/pi-dhammasangani-atthakatha#^1-1388]]
+[[1-SOURCES/Commentaries/pi-dhammasangani-atthakatha#^1-1390]]
 
 #### Aṭṭhamahāvipākā
 
 [[#^toc-2-7-5|↑↑↑]]
 
+Aṭṭhamahāvipākacittesu kammadvārakammapathapuññakiriyavatthubhedo natthi – aviññattijanakato avipākadhammato tathā appavattito ca. Karuṇāmuditā sattārammaṇattā na santi – ekantaparittārammaṇāni hi kāmāvacaravipākāni; viratiyo ca 'pañca sikkhāpadāni kusalānevā'ti vacanato na santi. Asaṅkhārasasaṅkhāravidhānaṃ kusalato ceva paccayabhedato ca veditabbaṃ; hīnassa kusalassa vipākaṃ hīnaṃ, majjhimassa majjhimaṃ, paṇītassa paṇītaṃ. Catūsu ṭhānesu vipaccanti – paṭisandhiyaṃ bhavaṅge cutiyaṃ tadārammaṇeti. Sabbaññubodhisattā pacchimapaṭisandhiggahaṇe paṭhamena somanassasahagatatihetukaasaṅkhārikamahāvipākacittena paṭisandhiṃ gaṇhantīti vuttaṃ.
+
+[[1-SOURCES/Commentaries/pi-dhammasangani-atthakatha#^1-1392]]
+[[1-SOURCES/Commentaries/pi-dhammasangani-atthakatha#^1-1393]]
+[[1-SOURCES/Commentaries/pi-dhammasangani-atthakatha#^1-1394]]
+[[1-SOURCES/Commentaries/pi-dhammasangani-atthakatha#^1-1395]]
+
 #### Rūpāvacaravipākā
 
 [[#^toc-2-7-6|↑↑↑]]
 
+Rūpāvacaravipākacittāni kusalānugatikaṃ katvā bhājitāni – yathā hatthiassapabbatādīnaṃ chāyā attano mūlasadisāva honti, tathā rūpāvacaravipākaṃ attano kusalasadisameva hoti, na sadisampi asadisampi. Kāmāvacarakammañca yadā kadāci vipākaṃ deti, rūpāvacaraṃ pana anantarāyena dutiyasmiṃyeva attabhāve vipākaṃ detītipi kusalānugatikaṃ katvā bhājitaṃ. Paṭipadādibhedo hīnapaṇītamajjhimabhāvo ca etesaṃ jhānāgamanato veditabbo. Chandādīnaṃ aññataraṃ dhuraṃ katvā anuppādanīyattā niradhipatikāneva etāni; sesaṃ kusale vuttanayeneva.
+
+[[1-SOURCES/Commentaries/pi-dhammasangani-atthakatha#^1-1473]]
+
 #### Arūpāvacaravipākā
 
 [[#^toc-2-7-7|↑↑↑]]
+
+Arūpāvacaravipākacittānipi rūpāvacarasadisanayeneva kusalānugatikāni katvā bhājitāni – attano kusalasadisamevāti. Kāmāvacaravipākaṃ viya attano kusalena sadisampi asadisampi na honti; anantarāyena dutiyasmiṃyeva attabhāve vipākaṃ denti. Paṭipadādibhedo ca hīnapaṇītamajjhimabhāvo ca arūpajhānāgamanato veditabbo. Chandādīnaṃ dhuraṃ katvā anuppādanīyattā niradhipatikāneva etāni; sesaṃ sabbaṃ kusale vuttanayeneva veditabbaṃ.
+
+[[1-SOURCES/Commentaries/pi-dhammasangani-atthakatha#^1-1473]]
 
 ### Lokuttaravipāka-paṭhamamaggavipākā
 
