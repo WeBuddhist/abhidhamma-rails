@@ -2,6 +2,18 @@
 
 This file provides context about this Obsidian vault for AI agents.
 
+## ⚑ Before doing anything — check for a skill first
+
+**This is the single most important rule in this file.**
+
+1. Read `4-SYSTEM/Skills/SKILLS-CATALOG.md` and scan for a skill that matches the task.
+2. If a match exists, read its `SKILL.md` in full and follow the execution steps exactly — do not improvise.
+3. Only if no skill exists should you proceed using the general rules below.
+
+Skipping this step is the most common agent error in this vault. Skills exist to ensure consistency and correct citation format. A task done without its skill must be redone.
+
+---
+
 ## Vault Overview
 
 This vault is a specialized research and translation environment dedicated to the **Pāli Abhidhamma Piṭaka**, with a current focus on the *Dhammasaṅgaṇī*. It functions as a production pipeline for building **interpretive rails**—structured, citation-grounded notes that bridge the gap between ancient commentaries and modern AI-assisted translations.
@@ -44,4 +56,4 @@ The vault is actively managed with Git, so the user appreciates technical exactn
 - **Formatting**: Preserve all diacritics (e.g., ā, ī, ū, ṭ, ñ) and block IDs (e.g., `^1-0a-1`). Do not normalize or simplify Pāli terms.
 - **Writing Constraints**: Never write to `1-SOURCES/` or `4-SYSTEM/`. Draft new content in `0-INBOX/` or the appropriate subfolder of `2-RAILS/` or `3-TRANSFORMATIONS/`.
 - **Structural Awareness**: When drafting verses or summaries, consult `4-SYSTEM/Guidelines/abhidhamma-annex` for specific indexing and tagging conventions.
-- **Skill Utilization**: When performing text processing, formatting, or extraction tasks, consult the relevant automated workflows in `4-SYSTEM/Skills/` (e.g., `interlinear-gloss`, `format-commentary`).
+- **Skill Utilization**: Always check `4-SYSTEM/Skills/SKILLS-CATALOG.md` before any task (see the rule at the top of this file). Every skill has a `SKILL.md` with exact execution steps — follow it, do not improvise.
