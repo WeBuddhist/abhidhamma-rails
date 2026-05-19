@@ -172,3 +172,16 @@ Creates or updates Obsidian frontmatter properties on a file.
 ### `structural-outline-ingest` **[exists]**
 Ingests a structural outline (TOC) into a source or rails file.
 → [`structural-outline-ingest/SKILL.md`](structural-outline-ingest/SKILL.md)
+
+---
+
+## Maintenance skills
+
+These skills check and report on vault integrity. They are read-only and safe to run on a schedule. They never modify vault content — they produce reports for human action.
+
+### `vault-audit` **[exists]**
+**Purpose:** Read-only weekly audit of the vault. Checks that every skill folder is registered in the catalog and has a command file; that 2-RAILS and 3-TRANSFORMATIONS files have required frontmatter; that no 3-TRANSFORMATIONS file references 1-SOURCES directly; that no complete output depends on a draft rail; that 0-INBOX/temp/ has no stale files; and that no internal wiki links are dead.
+**Inputs:** None — operates on the vault as a whole.
+**Outputs:** One dated report at `0-INBOX/vault-audit-<YYYY-MM-DD>.md` with checkboxed issues per category.
+**Rules:** Never writes to any file other than the report. Reports every issue with exact file paths. A clean run is a valid and expected output.
+→ [`vault-audit/SKILL.md`](vault-audit/SKILL.md)
