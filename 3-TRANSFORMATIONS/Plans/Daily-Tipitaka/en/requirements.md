@@ -86,9 +86,9 @@ The plans-of-a-few-days structure is what makes the journey survivable. It is al
 
 The journey is not just the daily content. It needs an outreach and care layer around it:
 
-- `en/communications/announcements/` — launch announcements, mid-journey rallies, run-up to Bodhgayā messaging. One file per announcement, dated.
-- `en/communications/notifications/` — the daily push notification copy. Short, warm, anchored to the day's passage.
-- `en/communications/social-media/` — posts for each plan milestone, sample-day teasers, practitioner testimonials.
+- `en/communication/announcements/` — launch announcements, mid-journey rallies, run-up to Bodhgayā messaging. One file per announcement, dated.
+- `en/communication/notifications/` — the daily push notification copy. Short, warm, anchored to the day's passage.
+- `en/communication/social-media/` — posts for each plan milestone, sample-day teasers, practitioner testimonials.
 - `en/assets/liturgy/` — fixed Pāli liturgy (Vandanā, Buddha-vacana intention, aspiration). Steps 2, 3, 7 transclude from here. Canonical for all language tracks.
 - `en/assets/audio/` — chanting audio per plan and per language announcer voice.
 - `en/assets/images/` — banner art, plan-milestone graphics.
@@ -109,4 +109,4 @@ Only `complete` day-files are published to practitioners. The transformation may
 
 ## 10. Working with this Folder
 
-The day to start with is **day-001**. The plan to start with is **plan-001**. As you build, work plan by plan (not day by day across all 200): finish all five language tracks for one plan, review, lock, and only then begin the next plan. This keeps the rhythm steady and surfaces structural problems early.
+The day to start with is **day-001**. The plan to start with is **plan-001**. As you build, work plan by plan (not day by day across all 200): finish all five language tracks for on

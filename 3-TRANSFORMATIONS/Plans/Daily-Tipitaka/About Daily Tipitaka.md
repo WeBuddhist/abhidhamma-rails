@@ -50,7 +50,7 @@ Daily-Tipitaka/
     │   ├── day-1.md            # intro day (plan overview + text + notifications)
     │   ├── day-2.md
     │   └── ...                 # days 11–200 created plan-arc by plan-arc
-    ├── communications/
+    ├── communication/
     │   └── announcements.md
     └── assets/
         └── images/
