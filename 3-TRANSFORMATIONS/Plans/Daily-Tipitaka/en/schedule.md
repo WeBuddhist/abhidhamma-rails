@@ -24,7 +24,7 @@ note: kickoff date to be set by ITCC; this table is the structure, not the dates
 
 ## Milestones
 
-Key moments across the 200-day journey. These are the dates around which communications, push notifications, and social-media beats are organised (see `communications/`).
+Key moments across the 200-day journey. These are the dates around which communications, push notifications, and social-media beats are organised (see `communication/`).
 
 | Milestone | Day | Date (TBD) | What happens |
 |---|---|---|---|

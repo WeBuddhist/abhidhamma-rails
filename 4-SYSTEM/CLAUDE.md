@@ -220,7 +220,7 @@ Three top-level categories, each a top-level subfolder:
 
 - **`Translations/`** — language-by-language translations. Each track has `requirements.md` + `termbase.md` + `audience.md` + the generated translation file(s).
 - **`Adaptations/`** — audience-targeted retellings (children's versions, scholarly summaries, sermon cycles). Each track has `requirements.md`, `audience.md`, and optionally `termbase.md`.
-- **`Plans/`** — calendar-driven study/practice arcs (daily readings, retreat sessions, course schedules). Each plan is language-stratified: one subfolder per published language, each containing `requirements.md`, `termbase.md`, `schedule.md`, `days/`, `communications/`, and `assets/`. The plan root holds only `About <plan-name>.md`. The active plan is `Plans/Daily-Tipitaka/`.
+- **`Plans/`** — calendar-driven study/practice arcs (daily readings, retreat sessions, course schedules). Each plan is language-stratified: one subfolder per published language, each containing `requirements.md`, `termbase.md`, `schedule.md`, `days/`, `communication/`, and `assets/`. The plan root holds only `About <plan-name>.md`. The active plan is `Plans/Daily-Tipitaka/`.
 
 **Translation / Adaptation contracts:**
 

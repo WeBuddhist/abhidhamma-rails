@@ -23,8 +23,8 @@ The opening plan introduces the practitioner to the seven-step structure of ever
 
 ## Communications brief
 
-- **Opening announcement** — `../communications/announcements/01-launch.md`.
-- **Daily notifications** — short, warm, anchored to the day's passage; copy lives under `../communications/notifications/`.
+- **Opening announcement** — `../communication/announcements/01-launch.md`.
+- **Daily notifications** — short, warm, anchored to the day's passage; copy lives under `../communication/notifications/`.
 - **Plan-close notification** — gently mark the close of plan-001 and invite the practitioner into plan-002.
 
 ## Rails this plan draws from
