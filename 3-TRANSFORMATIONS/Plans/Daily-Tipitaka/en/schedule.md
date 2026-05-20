@@ -13,36 +13,36 @@ note: kickoff 14 May 2026; arrival at Bodhgayā 29 November 2026
 
 ### Book I — *Dhammasaṅgaṇīpāḷi* · Compendium of Phenomena (Days 1–77)
 
-| Plan | Days | Dates | Pāli section | English |
-|---|---|---|---|---|
-| 1 | 1–6 | 14–19 May | Tikamātikā + Dukamātikā | The Matrix |
-| 2 | 7–37 | 20 May–19 Jun | 1. Cittuppādakaṇḍaṃ | Consciousness |
-| 3 | 38–54 | 20 Jun–6 Jul | 2. Rūpakaṇḍaṃ | Material Form |
-| 4 | 55–69 | 7–21 Jul | 3. Nikkhepakaṇḍaṃ | Summary |
-| 5 | 70–77 | 22–29 Jul | 4. Aṭṭhakathākaṇḍaṃ | Commentary |
+| Plan | Days  | Dates         | Pāli section            | English       |
+| ---- | ----- | ------------- | ----------------------- | ------------- |
+| 1    | 1–6   | 14–19 May     | Tikamātikā + Dukamātikā | The Matrix    |
+| 2    | 7–37  | 20 May–19 Jun | 1. Cittuppādakaṇḍaṃ     | Consciousness |
+| 3    | 38–54 | 20 Jun–6 Jul  | 2. Rūpakaṇḍaṃ           | Material Form |
+| 4    | 55–69 | 7–21 Jul      | 3. Nikkhepakaṇḍaṃ       | Summary       |
+| 5    | 70–77 | 22–29 Jul     | 4. Aṭṭhakathākaṇḍaṃ     | Commentary    |
 
 ### Book II — *Vibhaṅgapāḷi* · The Analysis (Days 78–178)
 
-| Plan | Days | Dates | Pāli section | English |
-|---|---|---|---|---|
-| 6 | 78–94 | 30 Jul–15 Aug | 1. Khandhavibhaṅgo | Analysis of the Aggregates |
-| 7 | 95–97 | 16–18 Aug | 2. Āyatanavibhaṅgo | Analysis of the Sense Bases |
-| 8 | 98–102 | 19–23 Aug | 3. Dhātuvibhaṅgo | Analysis of the Elements |
-| 9 | 103–107 | 24–28 Aug | 4. Saccavibhaṅgo | Analysis of the Truths |
-| 10 | 108–110 | 29–31 Aug | 5. Indriyavibhaṅgo | Analysis of the Faculties |
-| 11 | 111–123 | 1–13 Sep | 6. Paṭiccasamuppādavibhaṅgo | Analysis of Dependent Origination |
-| 12 | 124–126 | 14–16 Sep | 7. Satipaṭṭhānavibhaṅgo | Analysis of the Foundations of Mindfulness |
-| 13 | 127–128 | 17–18 Sep | 8. Sammappadhānavibhaṅgo | Analysis of the Right Strivings |
-| 14 | 129–130 | 19–20 Sep | 9. Iddhipādavibhaṅgo | Analysis of the Bases of Power |
-| 15 | 131–132 | 21–22 Sep | 10. Bojjhaṅgavibhaṅgo | Analysis of the Factors of Enlightenment |
-| 16 | 133–134 | 23–24 Sep | 11. Maggaṅgavibhaṅgo | Analysis of the Path Factors |
-| 17 | 135–140 | 25–30 Sep | 12. Jhānavibhaṅgo | Analysis of the Jhānas |
-| 18 | 141–143 | 1–3 Oct | 13. Appamaññāvibhaṅgo | Analysis of the Illimitables |
-| 19 | 144–145 | 4–5 Oct | 14. Sikkhāpadavibhaṅgo | Analysis of the Training Precepts |
-| 20 | 146–148 | 6–8 Oct | 15. Paṭisambhidāvibhaṅgo | Analysis of the Discriminations |
-| 21 | 149–157 | 9–17 Oct | 16. Ñāṇavibhaṅgo | Analysis of Knowledge |
-| 22 | 158–170 | 18–30 Oct | 17. Khuddakavatthuvibhaṅgo | Analysis of Minor Subjects |
-| 23 | 171–178 | 31 Oct–7 Nov | 18. Dhammahadayavibhaṅgo | Analysis of the Heart of the Doctrine |
+| Plan | Days    | Dates         | Pāli section                | English                                    |
+| ---- | ------- | ------------- | --------------------------- | ------------------------------------------ |
+| 6    | 78–94   | 30 Jul–15 Aug | 1. Khandhavibhaṅgo          | Analysis of the Aggregates                 |
+| 7    | 95–97   | 16–18 Aug     | 2. Āyatanavibhaṅgo          | Analysis of the Sense Bases                |
+| 8    | 98–102  | 19–23 Aug     | 3. Dhātuvibhaṅgo            | Analysis of the Elements                   |
+| 9    | 103–107 | 24–28 Aug     | 4. Saccavibhaṅgo            | Analysis of the Truths                     |
+| 10   | 108–110 | 29–31 Aug     | 5. Indriyavibhaṅgo          | Analysis of the Faculties                  |
+| 11   | 111–123 | 1–13 Sep      | 6. Paṭiccasamuppādavibhaṅgo | Analysis of Dependent Origination          |
+| 12   | 124–126 | 14–16 Sep     | 7. Satipaṭṭhānavibhaṅgo     | Analysis of the Foundations of Mindfulness |
+| 13   | 127–128 | 17–18 Sep     | 8. Sammappadhānavibhaṅgo    | Analysis of the Right Strivings            |
+| 14   | 129–130 | 19–20 Sep     | 9. Iddhipādavibhaṅgo        | Analysis of the Bases of Power             |
+| 15   | 131–132 | 21–22 Sep     | 10. Bojjhaṅgavibhaṅgo       | Analysis of the Factors of Enlightenment   |
+| 16   | 133–134 | 23–24 Sep     | 11. Maggaṅgavibhaṅgo        | Analysis of the Path Factors               |
+| 17   | 135–140 | 25–30 Sep     | 12. Jhānavibhaṅgo           | Analysis of the Jhānas                     |
+| 18   | 141–143 | 1–3 Oct       | 13. Appamaññāvibhaṅgo       | Analysis of the Illimitables               |
+| 19   | 144–145 | 4–5 Oct       | 14. Sikkhāpadavibhaṅgo      | Analysis of the Training Precepts          |
+| 20   | 146–148 | 6–8 Oct       | 15. Paṭisambhidāvibhaṅgo    | Analysis of the Discriminations            |
+| 21   | 149–157 | 9–17 Oct      | 16. Ñāṇavibhaṅgo            | Analysis of Knowledge                      |
+| 22   | 158–170 | 18–30 Oct     | 17. Khuddakavatthuvibhaṅgo  | Analysis of Minor Subjects                 |
+| 23   | 171–178 | 31 Oct–7 Nov  | 18. Dhammahadayavibhaṅgo    | Analysis of the Heart of the Doctrine      |
 
 ### Book III — *Dhātukathāpāḷi* · Exposition of Elements (Days 179–200)
 
