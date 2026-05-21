@@ -1,432 +1,294 @@
-1
+---
+title: Dhammasaṅgaṇī — U Kyaw Khine
+language: English
+script: Roman
+file_type: translation
+lang_tag: en-uk
+verse_id_format: book-verse
+pitaka: abhidhamma
+root_text: 1-SOURCES/Text/pi-dhammasangani.md
+translator: U Kyaw Khine
+translation_basis: U Kyaw Khine, Dhammasangani (Dept. of Religious Affairs, Rangoon)
+covers_verses: 1-0a-1–1-1616
+source_description: "[Ed: OCR from print edition — publisher and date to be confirmed]"
+---
 
-li
-DHAMMASANGANI
-CONTENTS
-PAGE
-MĀTIKĀ
-A. TikaMātikā(ListofTriads) 1
-B. DukaMātikā(ListofDyads) 7
-I. HetuGocchaka 7
-II. CūļantaraDuka 8
-III. AsavaGocchaka 9
-IV. SaññojanaGocchaka 11
-V. GanthaGocchaka 12
-VI. OghaGocchaka 13
-VII. YogaGocchaka 14
-VIII. NivaranaGocchaka 15
-IX. ParāmāsaGocchaka 16
-X. MahantaraDuka 18
-20XI. UpādānaGocchaka
-XII. KilesaGocchaka 21
-XIII. PitthiDuka 23
-C. SuttantikaDukaMātikā 25
-(ListofSuttantikaDyads)
-I. DIVISIONONMINDANDMENTAL 33
-CONCOMITANTS
-(CittuppādaKanda)
-33PARTI.CategoriesofMeritoriousThoughts....
-MeritoriousThoughtsPertainingtothe 33
-SensuousSphere
+## 0. Prefatory Matter
 
-lii Dhammasangani
-PAGE
-MeritoriousThoughtsPertainingtothe 86
-FineMaterialSphere
-142MeritoriousThoughts Pertainingtothe
-Non-materialSphere
-144KindsofMeritoriousThoughtswhichlead
-totheThreeGradesofExistenceinthe
-Respective Sphere
-156SupramundaneMeritoriousThoughts
-194PARTII. TwelveCategoriesof
-DemeritoriousThoughts
-223PARTIII. CategoriesofThoughtNot
-ClassifiedasMeritoriousor
-Demeritorious
-II. DIVISION CONCERNING 357
-CORPOREALITY
-(RūpaKanda)
-MĀTIKĀ: ListofDifferentMethodsof 318
-ExpositionofCorporeality
-FirstMethod(Ekaka): 318
-CorporealityViewedas a
-SingleCategories
-321SecondMethod(Duka):
-CountingofCoporealityin
-TwoCategoriesin 104Sets
-333ThirdMethod(Tika):
-CountingofCorporealityin
-ThreeCategoriesin 103Sets
+### Contents
 
-liiiContents
-PAGE
-FourthMethod(Catuka): 350
-CountingofCorporealityin
-FourCategoriesin22Sets
-FifthMethod(Pañcaka): 357
-CountingofCorporealityin
-FiveCategories
-358SixthMethod(Chakka):
-CountingofCorporealityin
-SixCategories
-SeventhMethod(Sattaka): 359
-CountingofCorporealityin
-SevenCategories
-359EighthMethod(Atthaka):
-CountingofCorporealityin
-EightCategories
-360NinthMethod(Navaka):
-CountingofCorporealityin
-NineCategories
-TenthMethod(Dasaka): 361
-CountingofCorporealityin
-TenCategories
-362EleventhMethod(Ekadasaka):
-CountingofCorporealityin
-ElevenCategories
-RŪPAVIBHATTI :
-363AnalysisofCorporeality
-363FirstMethod(Ekaka):
-CorporealityViewedasa
-SingleCategoriy
+**MĀTIKĀ**
 
-liv Dhammasangani
-PAGE
-367SecondMethod(Duka):
-CountingofCoporealityin
-TwoCategoriesin 104Sets
-438ThirdMethod(Tika):
-CountingofCorporealityin
-ThreeCategoriesin103Sets
-FourthMethod(Catuka): 486
-CountingofCorporealityin
-FourCategoriesin22Sets
-522FifthMethod(Pañcaka):
-CountingofCorporealityin
-FiveCategories
-523SixthMethod(Chakka):
-CountingofCorporealityin
-SixCategories
-SeventhMethod(Sattaka): 524
-CountingofCorporealityin
-SevenCategories
-525EighthMethod(Atthaka):
-CountingofCorporealityin
-EightCategories
-526NinthMethod(Navaka): ....
-CountingofCorporealityin
-NineCategories
-527TenthMethod(Dasaka):
-CountingofCorporealityin
-TenCategories
+A. Tika Mātikā (List of Triads) — 1 ^0-1
 
-Contents
-lv
-PAGE
-EleventhMethod(Ekadasaka): 528
-CountingofCorporealityin
-ElevenCategories
-III. DIVISIONOFSUMMARIZED 531
-ANALYTICAL STATEMENTS
-(NikkhepaKanda)
-AnalyticalExpositionoftheTriads 531
-AnalyticalExpositionoftheDyads 559
-HetuGocchaka 559
-CuļantaraDuka 571
-ĀsavaGocchaka 578
-SaññojanaGocchaka 584
-GanthaGocchaka 594
-OghaGocchaka 603
-YogaGocchaka 603
-NivaranaGocchaka 603
-ParāmāsaGocchaka 613
-MahantaraDuka 617
-UpādānaGocchaka 626
-KilesaGocchaka 633
-PitthiDuka 649
-668AnalyticalExpositionofDyadsPertaining
-totheSuttanta
-IV. DIVISIONOFADDITIONAL 695
-ELUCIDATION
-(AtthakathaKanda)
-695ElucidationoftheMeaningsofthe
-CategoriesintheTriads
+B. Duka Mātikā (List of Dyads) — 7
+- I. Hetu Gocchaka — 7
+- II. Cūlantara Duka — 8
+- III. Āsava Gocchaka — 9
+- IV. Saññojana Gocchaka — 11
+- V. Gantha Gocchaka — 12
+- VI. Ogha Gocchaka — 13
+- VII. Yoga Gocchaka — 14
+- VIII. Nīvaraṇa Gocchaka — 15
+- IX. Parāmāsa Gocchaka — 16
+- X. Mahantara Duka — 18
+- XI. Upādāna Gocchaka — 20
+- XII. Kilesa Gocchaka — 21
+- XIII. Pitthi Duka — 23 ^0-2
 
-DhammasanganiIvi
-PAGE
-ElucidationoftheMeaningsofthe 719
-CategoriesintheDyads
-HetuGocchaka 719
-CūlantaraDuka 725
-AsavaGocchaka 728
-733SaññojanaGocchaka
-GanthaGocchaka 738
-743OghaGocchaka
-743YogaGocchaka
-NivaranaGocchaka 743
-ParāmāsaGocchaka 748
-MahantaraDuka 751
-761UpādānaGocchaka
-KilesaGocchaka 763
-769PitthiDuka
-INDEX 785
+C. Suttantika Duka Mātikā (List of Suttantika Dyads) — 25 ^0-3
 
-Mātika 1
-MĀTIKĀ
-AListofSubjects forAnalyticalTreatmentintheText
-[Thenumbers after each category referto the relevant
-paragraphs in the text.]
-A. Tika Mātikā : List ofTriads
+**I. DIVISION ON MIND AND MENTAL CONCOMITANTS (Cittuppāda Kaṇḍa) — 33** ^0-4
+
+PART I. Categories of Meritorious Thoughts — 33
+- Meritorious Thoughts Pertaining to the Sensuous Sphere — 33
+- Meritorious Thoughts Pertaining to the Fine Material Sphere — 86
+- Meritorious Thoughts Pertaining to the Non-material Sphere — 142
+- Kinds of Meritorious Thoughts which lead to the Three Grades of Existence in the Respective Sphere — 144
+- Supramundane Meritorious Thoughts — 156 ^0-5
+
+PART II. Twelve Categories of Demeritorious Thoughts — 194 ^0-6
+
+PART III. Categories of Thought Not Classified as Meritorious or Demeritorious — 223 ^0-7
+
+**II. DIVISION CONCERNING CORPOREALITY (Rūpa Kaṇḍa) — 357** ^0-8
+
+MĀTIKĀ: List of Different Methods of Exposition of Corporeality
+- First Method (Ekaka): Corporeality Viewed as a Single Category — 318
+- Second Method (Duka): Counting of Corporeality in Two Categories in 104 Sets — 321
+- Third Method (Tika): Counting of Corporeality in Three Categories in 103 Sets — 333
+- Fourth Method (Catuka): Counting of Corporeality in Four Categories in 22 Sets — 350
+- Fifth Method (Pañcaka): Counting of Corporeality in Five Categories — 357
+- Sixth Method (Chakka): Counting of Corporeality in Six Categories — 358
+- Seventh Method (Sattaka): Counting of Corporeality in Seven Categories — 359
+- Eighth Method (Aṭṭhaka): Counting of Corporeality in Eight Categories — 359
+- Ninth Method (Navaka): Counting of Corporeality in Nine Categories — 360
+- Tenth Method (Dasaka): Counting of Corporeality in Ten Categories — 361
+- Eleventh Method (Ekadasaka): Counting of Corporeality in Eleven Categories — 362 ^0-9
+
+RŪPAVIBHATTI: Analysis of Corporeality
+- First Method (Ekaka): Corporeality Viewed as a Single Category — 363
+- Second Method (Duka): Counting of Corporeality in Two Categories in 104 Sets — 367
+- Third Method (Tika): Counting of Corporeality in Three Categories in 103 Sets — 438
+- Fourth Method (Catuka): Counting of Corporeality in Four Categories in 22 Sets — 486
+- Fifth Method (Pañcaka): Counting of Corporeality in Five Categories — 522
+- Sixth Method (Chakka): Counting of Corporeality in Six Categories — 523
+- Seventh Method (Sattaka): Counting of Corporeality in Seven Categories — 524
+- Eighth Method (Aṭṭhaka): Counting of Corporeality in Eight Categories — 525
+- Ninth Method (Navaka): Counting of Corporeality in Nine Categories — 526
+- Tenth Method (Dasaka): Counting of Corporeality in Ten Categories — 527
+- Eleventh Method (Ekadasaka): Counting of Corporeality in Eleven Categories — 528 ^0-10
+
+**III. DIVISION OF SUMMARIZED ANALYTICAL STATEMENTS (Nikkhepa Kaṇḍa) — 531** ^0-11
+
+Analytical Exposition of the Triads — 531 ^0-12
+
+Analytical Exposition of the Dyads — 559
+- Hetu Gocchaka — 559
+- Cūlantara Duka — 571
+- Āsava Gocchaka — 578
+- Saññojana Gocchaka — 584
+- Gantha Gocchaka — 594
+- Ogha Gocchaka — 603
+- Yoga Gocchaka — 603
+- Nīvaraṇa Gocchaka — 603
+- Parāmāsa Gocchaka — 613
+- Mahantara Duka — 617
+- Upādāna Gocchaka — 626
+- Kilesa Gocchaka — 633
+- Pitthi Duka — 649 ^0-13
+
+Analytical Exposition of Dyads Pertaining to the Suttanta — 668 ^0-14
+
+**IV. DIVISION OF ADDITIONAL ELUCIDATION (Atthakatha Kaṇḍa) — 695** ^0-15
+
+Elucidation of the Meanings of the Categories in the Triads — 695 ^0-16
+
+Elucidation of the Meanings of the Categories in the Dyads — 719
+- Hetu Gocchaka — 719
+- Cūlantara Duka — 725
+- Āsava Gocchaka — 728
+- Saññojana Gocchaka — 733
+- Gantha Gocchaka — 738
+- Ogha Gocchaka — 743
+- Yoga Gocchaka — 743
+- Nīvaraṇa Gocchaka — 743
+- Parāmāsa Gocchaka — 748
+- Mahantara Duka — 751
+- Upādāna Gocchaka — 761
+- Kilesa Gocchaka — 763
+- Pitthi Duka — 769 ^0-17
+
+INDEX — 785 ^0-18
+
+# Abhidhammapiṭake ^abhidhamma-0
+
+## Dhammasaṅgaṇīpāḷi ^1-0
+
+### Mātikā ^1-0-0
+
+A List of Subjects for Analytical Treatment in the Text
+
+[The numbers after each category refer to the relevant paragraphs in the text.]
+
+#### Tikamātikā ^1-0a-0
+
 1. Kusala Tika:
-(i) MeritoriousDhammā(1-364,985, 1384)
-(ii) Demeritorious Dhammā
-(365-430, 986, 1385)
-(iii) Neither meritorious nor demeritorious
-Dhammā (431-984 , 987, 1386)
+(i) Meritorious Dhammā (1–364, 985, 1384)
+(ii) Demeritorious Dhammā (365–430, 986, 1385)
+(iii) Neither meritorious nor demeritorious Dhammā (431–984, 987, 1386) ^1-0a-1
+
 2. Vedanā Tika:
-(i) Dhammāassociatedwithpleasantsensation
-(988, 1387)
-(ii) Dhammā associated with unpleasant
-sensation (989, 1388)
-(iii) Dhammāassociatedwithneitherpleasant
-nor unpleasant sensation (990, 1389)
+(i) Dhammā associated with pleasant sensation (988, 1387)
+(ii) Dhammā associated with unpleasant sensation (989, 1388)
+(iii) Dhammā associated with neither pleasant nor unpleasant sensation (990, 1389) ^1-0a-2
+
 3. Vipāka Tika:
-(i) Dhamma which are resultants
-(991, 1390)
-(ii) Dhamma which cause resultants
-(992, 1391)
-(iii) Dhammawhichareneitherresultantsnor
-which cause resultants (993, 1392)
+(i) Dhamma which are resultants (991, 1390)
+(ii) Dhamma which cause resultants (992, 1391)
+(iii) Dhamma which are neither resultants nor which cause resultants (993, 1392) ^1-0a-3
 
-2 Dhammasangani
-4 Upādinna Tika:
-(i) Dhammawhicharekamma-bornaswell
-as objects ofClinging (994, 1393)
-(ii) Dhammawhicharenotkamma-bornbut
-are objects of Clinging (995, 1394)
-(iii) Dhammāwhichareneitherkamma-born
-nor are objects ofClinging (996, 1395)
-5. Samkilittha Tika:
-(i) Dhammāwhich aredefiledandarealso
-objects ofdefilements (997, 1396)
-(ii) Dhammāwhich are notdefiledbut are
-objects ofdefilements (998, 1397)
-(iii) Dhammawhich are neither defiled nor
-are objects ofdefilements (999, 1398)
+4. Upādinna Tika:
+(i) Dhamma which are kamma-born as well as objects of Clinging (994, 1393)
+(ii) Dhamma which are not kamma-born but are objects of Clinging (995, 1394)
+(iii) Dhammā which are neither kamma-born nor are objects of Clinging (996, 1395) ^1-0a-4
+
+5. Saṃkiliṭṭha Tika:
+(i) Dhammā which are defiled and are also objects of defilements (997, 1396)
+(ii) Dhammā which are not defiled but are objects of defilements (998, 1397)
+(iii) Dhamma which are neither defiled nor are objects of defilements (999, 1398) ^1-0a-5
+
 6. Vitakka Tika:
-(i) Dhammāassociatedwithinitialapplication
-ofthemindandsustainedapplicationof
-the mind (1000, 1399)
-Dhammā not associated with initial(ii)
-applicationofthemindbutmerelywith
-sustainedapplicationofthemind(1001,
-1400)
-Dhammānotassociatedwithbothinitial(iii)
-application of the mind and sustained
-application ofthe mind (1002, 1401)
+(i) Dhammā associated with initial application of the mind and sustained application of the mind (1000, 1399)
+(ii) Dhammā not associated with initial application of the mind but merely with sustained application of the mind (1001, 1400)
+(iii) Dhammā not associated with both initial application of the mind and sustained application of the mind (1002, 1401) ^1-0a-6
+
 7. Pīti Tika:
-(i) Dhamma which arise togetherwith
-Delightful Satisfaction (1003, 1402)
-(ii) Dhamma which arise togetherwith
-happiness (1004, 1403)
+(i) Dhamma which arise together with Delightful Satisfaction (1003, 1402)
+(ii) Dhamma which arise together with happiness (1004, 1403)
+(iii) Dhamma which arise together with Equanimity (1005, 1404) ^1-0a-7
 
-Mātika 3
-(iii) Dhamma which arise togetherwith
-Equanimity (1005, 1404)
 8. Dassana Tika:
-(i) DhammāeliminatedbySotāpattiMagga
-(1006, 1405)
-(ii) Dhammā eliminatedbythethreehigher
-Maggas (1011, 1406)
-(iii) Dhammā noteliminatedby Sotāpatti
-Magganorby the threehigherMaggas
-(1012, 1407)
-9. DassanaHetuka Tika:
-(i) Dhammāwithrootcauseseliminatedby
-Sotāpatti Magga (1013, 1408)
-(ii) Dhammāwithrootcauseseliminatedby
-the three higher Maggas (1018, 1409)
-(iii) Dhammawhich have no other root
-causes to associate with andwhich are
-eliminated neither by SotāpattiMagga
-nor by the three higher Maggas
-(1019,1410)
+(i) Dhammā eliminated by Sotāpatti Magga (1006, 1405)
+(ii) Dhammā eliminated by the three higher Maggas (1011, 1406)
+(iii) Dhammā not eliminated by Sotāpatti Magga nor by the three higher Maggas (1012, 1407) ^1-0a-8
+
+9. Dassana Hetuka Tika:
+(i) Dhammā with root causes eliminated by Sotāpatti Magga (1013, 1408)
+(ii) Dhammā with root causes eliminated by the three higher Maggas (1018, 1409)
+(iii) Dhamma which have no other root causes to associate with and which are eliminated neither by Sotāpatti Magga nor by the three higher Maggas (1019, 1410) ^1-0a-9
+
 10. Acayagāmi Tika:
-(i) Dhammā leadingto(thepilingup of
-rebirth and death (1020, 1411)
-(ii) Dhan.māleadingtorealizationofNibbana
-(1021, 1412)
-(iii) Dhammawhichneitherleadto(pilingup
-of)rebirthanddeathnortorealizationof
-Nibbana (1022,1413)
+(i) Dhammā leading to the piling up of rebirth and death (1020, 1411)
+(ii) Dhammā leading to realization of Nibbāna (1021, 1412)
+(iii) Dhamma which neither lead to the piling up of rebirth and death nor to realization of Nibbāna (1022, 1413) ^1-0a-10
 
-4 Dhammasangani
 11. Sekkha Tika:
-(i) Dhammawhicharethementalproperties
-ofariyaswhoarestilltrainingthemselves
-for arahatship (1023, 1414)
-(ii) Dhammāwhicharethementalproperties
-of ariyas who have completed training
-themselves (arahats) (1024, 1415)
-(iii) Dhamma which are neither the mental
-propertiesofariyasstilltrainingthemselves
-for arahatship nor ofariyaswho have
-completed training themselves (arahats)
-(1025, 1416)
+(i) Dhamma which are the mental properties of ariyas who are still training themselves for arahatship (1023, 1414)
+(ii) Dhammā which are the mental properties of ariyas who have completed training themselves (arahats) (1024, 1415)
+(iii) Dhamma which are neither the mental properties of ariyas still training themselves for arahatship nor of ariyas who have completed training themselves (arahats) (1025, 1416) ^1-0a-11
+
 12. Paritta Tika:
-(i) Dhamma of limited efficacy (Kāma
-dhamma) (1026, 1417)
-(ii) Dhammaofloftyattainments(1027,1418)
-(iii) Dhammawhichareincomparable(1031,
-1419)
-13. ParittarāmmanaTika:
-(i) Dhammawhich have object oflimitted
-efficacy (1029,1420)
-(ii) Dhammawhichhaveloftyattainmentsas
-object (1027, 1418)
-(iii) Dhamma which have incomparable
-dhamma as object (1031, 1422)
-14. Hina Tika:
-(i) Inferiordhammā (1032, 1423)
+(i) Dhamma of limited efficacy (Kāma dhamma) (1026, 1417)
+(ii) Dhamma of lofty attainments (1027, 1418)
+(iii) Dhamma which are incomparable (1031, 1419) ^1-0a-12
+
+13. Parittarāmmana Tika:
+(i) Dhamma which have object of limited efficacy (1029, 1420)
+(ii) Dhamma which have lofty attainments as object (1027, 1418)
+(iii) Dhamma which have incomparable dhamma as object (1031, 1422) ^1-0a-13
+
+14. Hīna Tika:
+(i) Inferior dhammā (1032, 1423)
 (ii) Medium dhammā (1033, 1424)
-(iii) Superiordhamma (1034, 1425)
+(iii) Superior dhamma (1034, 1425) ^1-0a-14
 
-Mātika 5
 15. Micchatta Tika:
-(i) Wrongdhammawhichunfailinglyproduce
-results (immediately afterdeath) (1035,
-1426)
-(ii) Rightdhammāwhichunfailinglyproduce
-results (immediatelyafterthe arising of
-thosedhamma) (1036, 1427)
-(iii) Dhammawhichdonotunfailinglyproduce
-results (immediately after death or
-immediately after the arising ofthose
-dhamma) (1037, 1428)
+(i) Wrong dhamma which unfailingly produce results (immediately after death) (1035, 1426)
+(ii) Right dhammā which unfailingly produce results (immediately after the arising of those dhamma) (1036, 1427)
+(iii) Dhamma which do not unfailingly produce results (immediately after death or immediately after the arising of those dhamma) (1037, 1428) ^1-0a-15
+
 16. Maggārammana Tika:
-(i) Dhamma which have Magga as the
-object (1038, 1429)
-(ii) Dhamma which have Magga as root
-cause (1039, 1429)
-(iii) Dhamma which have Magga as
-predominant factor (1040, 1429)
+(i) Dhamma which have Magga as the object (1038, 1429)
+(ii) Dhamma which have Magga as root cause (1039, 1429)
+(iii) Dhamma which have Magga as predominant factor (1040, 1429)
 17. Uppannā Tika:
-(i) Dhamma which are in the process of
-arising (1041, 1430)
-(ii) Dhamma which have not yet arisen
-(1042, 1430)
-(iii) Dhamma which will definitely arise
-(1043, 1430)
-18. AfitaTika:
+(i) Dhamma which are in the process of arising (1041, 1430)
+(ii) Dhamma which have not yet arisen (1042, 1430)
+(iii) Dhamma which will definitely arise (1043, 1430)
+18. Atīta Tika:
 (i) Dhamma which are past (1044, 1431)
-(ii) Dhamma ofthe future (1045, 1431)
-(iii) Dhammaofthe present (1046, 1431)
+(ii) Dhamma of the future (1045, 1431)
+(iii) Dhamma of the present (1046, 1431)
 
-6 Dhammasangani
-19. AſitārammanaTika
-(i) Dhammawhichhavethepastasobject
-(1047, 1432)
-(ii) Dhammawhichhavethefutureasobject
-(1048, 1433)
-(iii) Dhamma which have the present as
-object (1049, 1434)
-20. AjjhattaTika:
-(i) Dhammawhichareinternal(1050,1435)
-(ii) Dhamma which are external (1051,
-1435)
-Dhammawhichareinternalandexternal(iii)
-(1052, 1435)
-21. Ajjhatārammana Tika
-(i) Dhammawhichhaveinternal things as
-objects (1053, 1436)
-(ii) Dhammawhichhave externalthingsas
-objects (1054, 1437)
-(iii) Dhammawhichhaveinternalandexternal
-things as objects (1055, 1437)
-22. SanidassanaTika:
-(i) Dhammawhich are visible andwhich
-arisewith impingement (1056,1438)
-(ii) Dhammawhicharenotvisiblebutwhich
-arisewith impingement (1057, 1439)
-Dhammawhicharenotvisibleandwhich(iii)
-arisewithoutimpingement(1058, 1440)
-Endofthe Tika Mātikā
+19. Atītārammana Tika:
+(i) Dhamma which have the past as object (1047, 1432)
+(ii) Dhamma which have the future as object (1048, 1433)
+(iii) Dhamma which have the present as object (1049, 1434)
+20. Ajjhatta Tika:
+(i) Dhamma which are internal (1050, 1435)
+(ii) Dhamma which are external (1051, 1435)
+(iii) Dhamma which are internal and external (1052, 1435)
+21. Ajjhatārammana Tika:
+(i) Dhamma which have internal things as objects (1053, 1436)
+(ii) Dhamma which have external things as objects (1054, 1437)
+(iii) Dhamma which have internal and external things as objects (1055, 1437)
+22. Sanidassana Tika:
+(i) Dhamma which are visible and which arise with impingement (1056, 1438)
+(ii) Dhamma which are not visible but which arise with impingement (1057, 1439)
+(iii) Dhamma which are not visible and which arise without impingement (1058, 1440)
+End of the Tika Mātikā
 
-Mātika 7
-B. Duka Mātikā: List ofDyads
+B. Duka Mātikā: List of Dyads
 I. Hetu Gocchaka:
-Cluster ofDukas Relatingto RootCauses
+Cluster of Dukas Relating to Root Causes
 1. (1) Hetu Duka:
-(i) Dhammawhich are Root Causes
-(1059, 1077, 1441)
-(ii) Dhammawhich are not Root Causes
-(1078, 1442)
-2. (2) Sa-hetukaDuka:
-(i) Dhamma which have Root Causes (1079,
-1443)
-(ii) Dhamma which have no Root Causes
-(1080,1444)
+(i) Dhamma which are Root Causes (1059, 1077, 1441)
+(ii) Dhamma which are not Root Causes (1078, 1442)
+2. (2) Sa-hetuka Duka:
+(i) Dhamma which have Root Causes (1079, 1443)
+(ii) Dhamma which have no Root Causes (1080, 1444)
 3. (3) Hetusampayutta Duka:
-(i) Dhamma which are associated with Root
-Causes (1081, 1445)
-(ii) DhammawhicharenotassociatedwithRoot
-Causes (1082, 1446)
-4 (4) Hetu Sa-hetuka Duka:
-(i) Dhamma which areRootCauses andwhich
-also have Root Causes (1083, 1448)
-(ii) DhammawhichhaveRootCausesbutarenot
-Root Causes (1084, 1448)
-4. (5) Hetu Hetusampayutta Duka:
-(i) DhammawhichareRootCausesandwhichare
-alsoassociatedwithRootCauses(1085, 1449)
-(ii) Dhamma which are associated with Root
-CausesbutarenotRootCauses (1086, 1450)
+(i) Dhamma which are associated with Root Causes (1081, 1445)
+(ii) Dhamma which are not associated with Root Causes (1082, 1446)
+4. (4) Hetu Sa-hetuka Duka:
+(i) Dhamma which are Root Causes and which also have Root Causes (1083, 1448)
+(ii) Dhamma which have Root Causes but are not Root Causes (1084, 1448)
+5. (5) Hetu Hetusampayutta Duka:
+(i) Dhamma which are Root Causes and which are also associated with Root Causes (1085, 1449)
+(ii) Dhamma which are associated with Root Causes but are not Root Causes (1086, 1450)
 
-8 Dhammasangani
 6. (6) Na-hetu Sa-hetuka Duka:
-(i) Dhamma which are not Root Causes but
-whichhave Root Causes(1087, 1451)
-(ii) Dhamma which are not Root Causes and
-which have no Root Causes (1088,1452)
-End ofthe Hetu Gocchaka
-II. Culantara Duka:
-Shorter Compilation ofUnrelatedDukas
-7. (1) Sappaccaya Duka
-(i) Dhamma which are due to causes (1089,
-1453)
-(ii) Dhammawhich are notduetocauses
-(1090, 1454)
-8. (2) SankhataDuka:
-(i) Dhammawhich areconditioned(1091,1455)
-(ii) Dhamma which are unconditioned (1092,
-1456)
-9. (3) SanidassanaDuka:
-(i) Dhammawhich are visible (1093, 1457)
-(ii) Dhammawhich arenotvisible(1094, 1458)
-10. (4) SappatighaDuka
-(i) Dhammawhicharisewithimpingement (1095,
-1459)
-(ii) Dhamma which arise without impingement
-(1096, 1460)
+(i) Dhamma which are not Root Causes but which have Root Causes (1087, 1451)
+(ii) Dhamma which are not Root Causes and which have no Root Causes (1088, 1452)
+End of the Hetu Gocchaka
+II. Cūlantara Duka:
+Shorter Compilation of Unrelated Dukas
+7. (1) Sappaccaya Duka:
+(i) Dhamma which are due to causes (1089, 1453)
+(ii) Dhamma which are not due to causes (1090, 1454)
+8. (2) Sankhata Duka:
+(i) Dhamma which are conditioned (1091, 1455)
+(ii) Dhamma which are unconditioned (1092, 1456)
+9. (3) Sanidassana Duka:
+(i) Dhamma which are visible (1093, 1457)
+(ii) Dhamma which are not visible (1094, 1458)
+10. (4) Sappatigha Duka:
+(i) Dhamma which arise with impingement (1095, 1459)
+(ii) Dhamma which arise without impingement (1096, 1460)
 
-Mātika 9
 11. (5) Rūpi Duka:
-(i) Dhammawhich are corporeal (1097, 1461)
-(ii) Dhammawhicharenotcorporeal(1098, 1462)
+(i) Dhamma which are corporeal (1097, 1461)
+(ii) Dhamma which are not corporeal (1098, 1462)
 12. (6) Lokiya Duka:
-(i) Dhammawhich are mund...e (1099,1463)
-(ii) Dhamma which are supramundane (1100,
-1464)
+(i) Dhamma which are mundane (1099, 1463)
+(ii) Dhamma which are supramundane (1100, 1464)
 13. (7) Kenaci Viññeyya Duka:
-(i) Dhammawhich arecognizablebysomekind
-ofconsciousness (1101, 1464)
-(ii) Dhammawhich are notcognizableby some
-kindofconsciousness (1101, 1464)
-[i.e.,whatiscognizablebysightisnotcognizablebyhearing,
-and so on]
-End ofthe CūļantaraDuka
-III. ĀsavaGocchaka
+(i) Dhamma which are cognizable by some kind of consciousness (1101, 1464)
+(ii) Dhamma which are not cognizable by some kind of consciousness (1101, 1464)
+[i.e., what is cognizable by sight is not cognizable by hearing, and so on]
+End of the Cūlantara Duka
+III. Āsava Gocchaka
 Cluster of Dukas Relating to Asavas (Defilements that
 Befuddle the Mind)
 14. (1 AsavaDuka
