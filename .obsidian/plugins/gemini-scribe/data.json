@@ -1,7 +1,7 @@
 {
   "provider": "gemini",
   "ollamaBaseUrl": "http://localhost:11434",
-  "apiKeySecretName": "gihan-malla",
+  "apiKeySecretName": "drong",
   "chatModelName": "gemini-flash-latest",
   "summaryModelName": "gemini-flash-latest",
   "completionsModelName": "gemini-flash-latest",
