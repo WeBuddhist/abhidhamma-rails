@@ -1,0 +1,24 @@
+{
+  "skill_name": "daily-tipitaka-day",
+  "scope": "Phase 1 only — gather assets and stop at the Phase 1 completion gate. Phase 2 (compose the day file) is not exercised in this iteration.",
+  "evals": [
+    {
+      "id": 0,
+      "name": "day-12-within-section",
+      "prompt": "Run the daily-tipitaka-day skill on day 12, language en. Stop after Phase 1's completion check — do not compose the day file. Day 12 is verses 151–163 of Cittuppādakaṇḍaṃ in Book I, which falls inside an existing subsection that already has a summary and practice block. This case tests the within-section happy path.",
+      "expected_behavior": "Phase 1 succeeds; assets file written to 0-INBOX/daily-tipitaka/day-012-assets.md with 13 verse blocks (^1-151 through ^1-163), the matching subsection summary from pi-1-summaries.md, and the matching practice block from pi-1-practice.md. Phase 1 completion gate passes."
+    },
+    {
+      "id": 1,
+      "name": "day-38-cross-section",
+      "prompt": "Run the daily-tipitaka-day skill on day 38, language en. Stop after Phase 1's completion check. Day 38 is verses 583–585 of Rūpakaṇḍaṃ in Book I — a different chapter from Cittuppādakaṇḍaṃ but still inside pi-1.md. This case tests that the skill navigates to the correct subsection of the rails when the section changes within a book.",
+      "expected_behavior": "Phase 1 succeeds; assets file written to 0-INBOX/daily-tipitaka/day-038-assets.md with 3 verse blocks (^1-583 through ^1-585) and the matching summary + practice for the Rūpakaṇḍaṃ subsection containing those verses."
+    },
+    {
+      "id": 2,
+      "name": "day-78-missing-book",
+      "prompt": "Run the daily-tipitaka-day skill on day 78, language en. Stop after Phase 1's completion check. Day 78 is verses 1–15 of Khandhavibhaṅgo in Book II (Vibhaṅga) — but the Book II source text (1-SOURCES/Text/pi-2.md) and rails (2-RAILS/Sections/pi-2-summaries.md, pi-2-practice.md) do not exist in this vault yet. This case tests that the skill halts cleanly and reports what is missing rather than fabricating content or silently skipping.",
+      "expected_behavior": "Skill halts during Phase 1 with a clear report naming day 78 and the missing files (pi-2.md, pi-2-summaries.md, pi-2-practice.md). No assets file is written. No day file is written. The Phase 1 completion gate prevents the run from proceeding."
+    }
+  ]
+}
