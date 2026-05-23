@@ -73,7 +73,7 @@ status: assets-gathered
 
 ## Pāli source verses
 
-<Verbatim copy of the Pāli verses from <book_source>, including their block IDs (^1-N). Preserve all heading levels (#### / ##### etc.) that fall inside the verse range. Do NOT paraphrase, translate, or reformat.>
+<Verbatim copy of the Pāli verses from <book_source>, including their block IDs (^1-N). Preserve every heading at any level (`###`, `####`, `#####`, `######`) that falls inside the verse range or sits immediately above the first verse — chapter and section headings carry orientation context, do not strip them. Do NOT paraphrase, translate, or reformat.>
 
 ## Section summary (from `<summary_rail>`)
 
@@ -217,9 +217,11 @@ The goal of Phase 1 is to copy the actual verse text (and the matching summary +
 For each day `N` in the range:
 
 1. Create the directory `0-INBOX/daily-tipitaka/` if it does not exist.
-2. **Copy the Pāli verses for the day's range.** Open the source text file resolved in Phase 0 step 4. Find every block whose ID is in the day's range — i.e. for a range of `A–B` with block-ID prefix `^P-`, every block from `^P-A` to `^P-B` inclusive. Copy each block verbatim, in source order, preserving any `##### …` (or deeper) headings that fall inside the range. Do not paraphrase, translate, or reformat.
+2. **Copy the Pāli verses for the day's range.** Open the source text file resolved in Phase 0 step 4. Find every block whose ID is in the day's range — i.e. for a range of `A–B` with block-ID prefix `^P-`, every block from `^P-A` to `^P-B` inclusive. Copy each block verbatim, in source order, preserving **every heading at any level** (`###`, `####`, `#####`, `######` — any that appear inside the range or immediately above the first verse). Chapter (`###`) and section (`####`) headings carry orientation the chanter needs, even though they may seem "too high level"; do not strip them. Do not paraphrase, translate, or reformat.
 
-   *Example: for day-007 the skill scans `1-SOURCES/Text/pi-1.md` and copies the blocks ending in `^1-1`, `^1-2`, … `^1-26` — 26 blocks in total, including the `##### Padabhājanī ^1-1-1-1-0` heading that sits just before `^1-1`.*
+   *Examples:*
+   - *Day-007: scans `1-SOURCES/Text/pi-1.md` and copies the blocks ending in `^1-1`, `^1-2`, … `^1-26` — 26 blocks in total, including the `##### Padabhājanī ^1-1-1-1-0` heading just before `^1-1`.*
+   - *Day-012 (verses 151–163): the range straddles the end of `##### Suññatavāro` and the start of the new `#### Rūpāvacarakusalaṃ` section with its `##### Catukkanayo` subsection — both the closing `Paṭhamabhāṇavāro` marker and the new `####` and `#####` headings inside the range must be preserved.*
 3. **Identify the subsection(s) the day's verse range falls inside.** The schedule.md row only names the top-level section (e.g. `1. Cittuppādakaṇḍaṃ`); the summary and practice rails are organized by *subsection* (Padabhājanī, Koṭṭhāsavāro, Suññatavāro). So the skill has to derive the subsection from the source text:
 
    1. While scanning the source text in step 2, track the most recent `##### …` heading above each verse. That heading is the subsection.
