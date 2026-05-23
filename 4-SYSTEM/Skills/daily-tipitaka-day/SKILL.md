@@ -55,9 +55,11 @@ section: <section-name-from-schedule, e.g. "1. Cittuppādakaṇḍaṃ">
 verses: <verse-range-from-schedule, e.g. "1–26">
 book_source: <full path, e.g. 1-SOURCES/Text/pi-1.md>
 summary_rail: <full path, e.g. 2-RAILS/Sections/pi-1-summaries.md>
-summary_anchor: <e.g. ^toc-2-1-1>
 practice_rail: <full path, e.g. 2-RAILS/Sections/pi-1-practice.md>
-practice_anchor: <e.g. ^toc-1-1-1>
+subsections:
+  - <subsection heading text, e.g. "Padabhājanī">
+  # If the day's verse range straddles two or more subsections, list each one in source order.
+  # If part of the range falls outside any deeper subsection (e.g. between two ##### blocks), record the parent #### heading text instead and add a note in the relevant content section.
 status: assets-gathered
 ---
 
@@ -154,7 +156,10 @@ sources:
 ## Rules
 
 1. **Phase order is fixed: assets first, day file second.** Never write the day file before its assets scratchpad exists and is complete. The assets scratchpad is the single source of truth for what goes into the day file.
-2. **Stop on missing assets — do not invent content.** If the Pāli source for any verse in the day's range cannot be located by block ID, or if no summary block matches the day's section, or if no practice block matches it, halt the entire batch and report the gap to the human contributor. Do not write a partial assets file and do not move on to the next day in the batch.
+2. **Stop on missing assets — do not invent content.** Halt the entire batch and report the gap to the human contributor if any of the following is true for any day in the range. "Missing" covers both shapes:
+   - **Shape A — not found at all.** The Pāli source for a verse in the range cannot be located by block ID; or the source text file itself doesn't exist; or the summary/practice rail file doesn't exist; or no heading matching the day's subsection text appears in the rail.
+   - **Shape B — found but empty.** The heading exists in the rail but the content beneath it is empty, is only a TOC back-link, or contains scaffold-only markers (e.g. `[[#^toc-…|↑↑↑]]` with no narrative paragraphs underneath).
+   In both shapes, do not write a partial assets file and do not move on to the next day in the batch. Report which day, which asset, and which shape so the human contributor can fix the rail or the schedule.
 3. **Do not overwrite a filled day file.** If `<lang>/days/day-NNN.md` already exists and contains anything beyond the unfilled template, stop and ask. "Unfilled template" means the file matches `day-template.md` line-for-line except for the frontmatter `day:` and `language:` values.
 4. **Citation chain stays in 2-RAILS/.** The day file's `sources:` frontmatter and §4 source line cite only `2-RAILS/` paths. Never cite `1-SOURCES/` from the day file. The assets scratchpad may quote `1-SOURCES/` verbatim because it lives in `0-INBOX/` and is not cited from anywhere downstream.
 5. **Pāli source is verbatim, with block IDs preserved.** §6 of the day file copies the Pāli from the assets file unchanged except for clause-level line-breaking for chant flow. Every `^1-N` block ID stays at the end of its verse.

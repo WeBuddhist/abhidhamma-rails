@@ -1,0 +1,37 @@
+{
+  "expectations": [
+    {
+      "text": "Skill halted during Phase 1 (did not silently proceed)",
+      "passed": true,
+      "evidence": "Report describes halt"
+    },
+    {
+      "text": "Halt report names the missing Book II source/rail files",
+      "passed": true,
+      "evidence": "Report mentions pi-2 or Book II: True"
+    },
+    {
+      "text": "No assets file written at 0-INBOX/daily-tipitaka/day-078-assets.md",
+      "passed": true,
+      "evidence": "Assets file exists: False"
+    },
+    {
+      "text": "No day file written at 3-TRANSFORMATIONS/Plans/Daily-Tipitaka/en/days/day-078.md",
+      "passed": true,
+      "evidence": "day-078.md exists: False"
+    },
+    {
+      "text": "No files in 1-SOURCES/ or 2-RAILS/ were modified (subagent reported)",
+      "passed": true,
+      "evidence": "Subagent report explicitly states no source/rails files modified"
+    }
+  ],
+  "pass_count": 5,
+  "total": 5,
+  "summary": {
+    "passed": 5,
+    "failed": 0,
+    "total": 5,
+    "pass_rate": 1.0
+  }
+}

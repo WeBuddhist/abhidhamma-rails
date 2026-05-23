@@ -1,6 +1,0 @@
-{
-  "eval_id": 0,
-  "eval_name": "day-12-within-section",
-  "prompt": "Run the daily-tipitaka-day skill on day 12, language en. Stop after Phase 1's completion check.",
-  "assertions": []
-}
