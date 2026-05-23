@@ -2,17 +2,19 @@
 day: 12
 language: en
 plan: 2
-section: "1. Cittuppādakaṇḍaṃ"
-verses: "151–163"
+section: 1. Cittuppādakaṇḍaṃ
+verses: 151–163
 book_source: 1-SOURCES/Text/pi-1.md
 summary_rail: 2-RAILS/Sections/pi-1-summaries.md
-summary_anchors:
-  - ^toc-2-1-3   # Suññatavāro
-  - ^toc-2-2-1   # Catukkanayo
 practice_rail: 2-RAILS/Sections/pi-1-practice.md
-practice_anchors:
-  - ^toc-1-1-3   # Suññatavāro
-  - ^toc-1-2-1   # Catukkanayo
+subsections:
+  - Kāmāvacarakusalaṃ
+  # Verses 151–158 fall under the parent #### Kāmāvacarakusalaṃ but outside any deeper ##### subsection
+  # (after ##### Suññatavāro closes at v145 — these are closing definition-blocks for Citta 4 (vv. 151–154)
+  # and then Cittas 5–8 (vv. 155–159 ending with the marker Dutiyabhāṇavāro.)
+  - Rūpāvacarakusalaṃ
+  - Catukkanayo
+  # Verses 160–163 open the new #### Rūpāvacarakusalaṃ section under its first ##### subsection Catukkanayo.
 status: assets-gathered
 ---
 
@@ -24,14 +26,13 @@ status: assets-gathered
 |---|---|---|---|
 | day-012 | 25 May (Tue) | 1. Cittuppādakaṇḍaṃ | 151–163 |
 
-**Note on subsection scope:** The day-012 range straddles a subsection boundary in `1-SOURCES/Text/pi-1.md`:
-
-- Verses **151–159** sit under `##### Suññatavāro ^1-1-1-3-0` (the last block, `Dutiyabhāṇavāro. ^1-159`, closes the eight kāmāvacara cittas — Suññatavāro of `#### Kāmāvacarakusalaṃ`).
-- Verses **160–163** sit under the new `#### Rūpāvacarakusalaṃ ^1-1-2-0` → `##### Catukkanayo ^1-1-2-1-0`.
-
-Both subsections (`Suññatavāro` and `Catukkanayo`) are looked up in the summary and practice rails below.
-
 ## Pāli source verses
+
+> Note: verses 151–158 fall under the parent `#### Kāmāvacarakusalaṃ` but outside any deeper `#####` subsection (the `##### Suññatavāro` block ended at v145). They include the close of Citta 4 (vv. 151–154), Cittas 5–7 (vv. 155–158), and v159 which closes the eight Kāmāvacaramahākusalacittāni with the marker `Dutiyabhāṇavāro.` The orienting parent headings `### Cittuppādakaṇḍaṃ` and `#### Kāmāvacerakusalaṃ` are recorded here for context. Then the new `#### Rūpāvacarakusalaṃ` section and its first subsection `##### Catukkanayo` open inside the range, beginning at v160.
+
+### Cittuppādakaṇḍaṃ ^1-1-0
+
+#### Kāmāvacarakusalaṃ ^1-1-1-0
 
 151. Katamo tasmiṃ samaye phasso hoti? Yo tasmiṃ samaye phasso phusanā saṃphusanā saṃphusitattaṃ – ayaṃ tasmiṃ samaye phasso hoti. ^1-151
 
@@ -77,13 +78,27 @@ Tasmiṃ kho pana samaye cattāro khandhā honti, dvāyatanāni honti, dve dhāt
 
 ## Section summary (from `2-RAILS/Sections/pi-1-summaries.md`)
 
-#### Suññatavāro
+> Verses 151–158 fall under the parent `### Kāmāvacarakusalaṃ` block (they sit after the deeper `#### Suññatavāro` subsection at v145 and before the new `### Rūpāvacarakusalaṃ` block at v160 — outside any deeper `####` heading). Verses 160–163 sit inside `#### Catukkanayo` under `### Rūpāvacarakusalaṃ`. All three relevant summary blocks are copied below.
 
-[[#^toc-2-1-3|↑↑↑]]
+### Kāmāvacarakusalaṃ
 
-Idāni tasmiṃ kho pana samaye dhammā hontīti suññatavāro āraddhaṃ. So uddesaniddesavasena dvidhā vavatthito. Tattha uddesavāre ‘dhammā hontī’ti iminā saddhiṃ catuvīsati koṭṭhāsā honti. Sabbakoṭṭhāsesu ca ‘cattāro dve tayo’ti gaṇanaparicchedo na vutto. Kasmā? Saṅgahavāre paricchinnattā. Tattha paricchinnadhammāyeva hi idhāpi vuttā. Na hettha satto vā bhāvo vā attā vā upalabbhati. Dhammāva ete dhammamattā asārā apariṇāyakāti imissā suññatāya dīpanatthaṃ vuttā.
+[[#^toc-2-1|↑↑↑]]
 
-[[1-SOURCES/Commentaries/pi-dhammasangani-atthakatha#^1-972]]
+Mātikāya saṅgahite dhamme pabhedato dassetuṃ 'katame dhammā kusalā'ti padabhājanīyaṃ āraddhaṃ; tattha paṭhamaṃ kāmāvacarakusalaṃ dassitaṃ. Tassa niddese dhammavavatthānavāro saṅgahavāro suññatavāroti tayo mahāvārā honti; dhammavavatthānavāre uddesaniddesavasena dvidhā. Uddesavāre pucchā samayaniddeso dhammuddeso appanāti cattāro paricchedā – 'katame dhammā kusalā'ti pucchā kathetukamyatāpucchāsaṅkhātā, pabhedato dhammānaṃ desanaṃ dīpetuṃ vuttā. 'Yasmiṃ samaye kāmāvacaraṃ kusalaṃ cittaṃ uppanna'ntiādinā samayaniyamitena cittena phassavedanādayo dhamme santatisamūhakiccārammaṇaghanavasena bodheti. Saṅkhepato ñāṇavibhattidesanāvasena catubbidhaṃ, asaṅkhārasasaṅkhāravibhattito aṭṭheva kāmāvacarakusalacittāni honti.
+
+[[1-SOURCES/Commentaries/pi-dhammasangani-atthakatha#^1-565]]
+[[1-SOURCES/Commentaries/pi-dhammasangani-atthakatha#^1-577]]
+[[1-SOURCES/Commentaries/pi-dhammasangani-atthakatha#^1-1008]]
+
+### Rūpāvacarakusalaṃ
+
+[[#^toc-2-2|↑↑↑]]
+
+Idāni rūpāvacarakusalaṃ dassetuṃ puna katame dhammā kusalātiādi āraddhaṃ. Tattha rūpūpapattiyā maggaṃ bhāvento 'vivicceva kāmehi vivicca akusalehi dhammehī'ti kāyavivekacittavivekavikkhambhanavivekavasena nīvaraṇāni vikkhambhitvā, savitakkaṃ savicāraṃ vivekajaṃ pītisukhaṃ paṭhamajjhānanti evaṃ catukkapañcakajjhānāni pathavikasiṇādīni ārammaṇāni kasiṇaparikammaṃ katvā nibbatteti. Ettha 'jhāna'ntipadena ārammaṇūpanijjhānaṃ adhippetaṃ. Paṭipadāya sādhetabbato puggalapubbaṅgamā desanā katā. 'Tasmiṃ samaye phasso hotī'tiādīsu chapaṇṇāsa dhammā bhūmantaravasena mahaggatā rūpāvacarāti ayamettha viseso.
+
+[[1-SOURCES/Commentaries/pi-dhammasangani-atthakatha#^1-1011]]
+[[1-SOURCES/Commentaries/pi-dhammasangani-atthakatha#^1-1024]]
+[[1-SOURCES/Commentaries/pi-dhammasangani-atthakatha#^1-1028]]
 
 #### Catukkanayo
 
@@ -95,13 +110,33 @@ Rūpāvacarakusale catukkanayo nāma savitakkasavicārādibhedo catubbidho jhān
 
 ## Practice notes (from `2-RAILS/Sections/pi-1-practice.md`)
 
-### Suññatavāro
+> Verses 151–158 fall under the parent `## Kāmāvacarakusalaṃ` block (they sit after the deeper `### Suññatavāro` subsection at v145 and before the new `## Rūpāvacarakusalaṃ` block at v160 — outside any deeper `###` heading). Verses 160–163 sit inside `### Catukkanayo` under `## Rūpāvacarakusalaṃ`. All three relevant practice blocks are copied below.
 
-[[#^toc-1-1-3|↑↑↑]]
+## Kāmāvacarakusalaṃ
 
-Suññatavāre kusalacittaṃ suññato vibhajiyati. Attato vā attaniyato vā suññaṃ ti imehi dīpanā kusalacittassa suññatā pākaṭā hoti. Evaṃ suññatānupassanā āraddhā hoti: rūpakkhandho attā natthi, attaniyampi natthi; vedanā … saññā … saṅkhārā … viññāṇaṃ attā natthi, attaniyampi natthi ti suññatāya adhimutti bhāvetabbā, yena micchādiṭṭhiyā samugghāto hoti, sammādiṭṭhi ca patiṭṭhāpeti.
+[[#^toc-1-1|↑↑↑]]
 
-[[1-SOURCES/Commentaries/pi-dhammasangani-atthakatha.md#^1-4-4-2-0]]
+Kāmāvacarakusalacittuppāde pāṇātipātādīni dasa akusalakammapathāni vajjetvā kāyavacīmanokammānaṃ duccaritāni pahāya, pāṇātipātāveramaṇiādīni viratiyo sampādentena kusalakammapathānaṃ anupasampadā kātabbā. Tattha sampattavirātiyā āgataṃ akusalaṃ vāretvā, samādānavirātiyā sikkhāpadaṃ rakkhitvā, samucchedavirātiyā maggabhāvanāya sabbaso akusalakammapathānaṃ samugghātaṃ katvā sīlasampatti paripūretabbā. Yañca lokādhipatiṃ ottappaṃ attādhipatiñca hirīṃ nissāya pāpakānaṃ dhammānaṃ lajjāpaccayena akaraṇaṃ hoti, taṃ dve sukkā dhammā lokaṃ pāletvā rakkhanti; tasmā hirottappaṃ bhāvetabbaṃ. Alobhena maccheramalassa paṭipakkhabhāvena dānasampatti, adosena dussīlyamalassa paṭipakkhabhāvena sīlasampatti, amohenābhāvanāmalassa paṭipakkhabhāvena bhāvanāsampatti cāti tayo kusalamūlā bhāvetabbā, yena ciттaṃ pariyodātaṃ hoti.
+
+[[1-SOURCES/Commentaries/pi-dhammasangani-atthakatha.md#^1-4-1-5-0]]
+[[1-SOURCES/Commentaries/pi-dhammasangani-atthakatha.md#^1-4-1-6-0]]
+[[1-SOURCES/Commentaries/pi-dhammasangani-atthakatha.md#^1-4-3-4-0]]
+[[1-SOURCES/Commentaries/pi-dhammasangani-atthakatha.md#^1-4-3-5-0]]
+[[1-SOURCES/Commentaries/pi-dhammasangani-atthakatha.md#^1-4-3-7-0]]
+
+---
+
+## Rūpāvacarakusalaṃ
+
+[[#^toc-1-2|↑↑↑]]
+
+Rūpāvacarakusalacittuppāde pañcakkhandhesu ca dvāresu ca kāmaguṇesu āsattaṃ cittaṃ kāmacchande viviccamānaṃ, byāpāde, thīnamiddhe, uddhaccakukkucce, vicikicchāya ca vippamuttaṃ, paṭhamajjhānādīni rūpajjhānāni paṭilabhati. Nīvaraṇānaṃ pahānāya vitakko ārammaṇe cittaṃ āropeti, vicāro ārammaṇe cittaṃ anumajjati; pīti cetaso sampīṇanaṃ karoti, sukhaṃ cetasikānaṃ ābhogaṃ paññāpeti, ekaggatā ca samādhiṃ paṭṭhapeti. Vivicceva kāmehi vivekajaṃ pītiñca sukhaṃ paṭilabhitvā passaddhibhāvanāya ca lahutāmudutākammaññatāpāguññatāujukatāsampadāhi upakkilesānaṃ paṭipakkhabhāvena cetasikānaṃ suddhi hoti.
+
+[[1-SOURCES/Commentaries/pi-dhammasangani-atthakatha.md#^1-4-5-0]]
+[[1-SOURCES/Commentaries/pi-dhammasangani-atthakatha.md#^1-4-5-1-0]]
+[[1-SOURCES/Commentaries/pi-dhammasangani-atthakatha.md#^1-4-3-8-0]]
+
+---
 
 ### Catukkanayo
 
@@ -112,6 +147,8 @@ Catukkanaye cattāri rūpajjhānāni catukkapaṭipadāya vibhajiyanti. Paṭham
 [[1-SOURCES/Commentaries/pi-dhammasangani-atthakatha.md#^1-4-5-1-0]]
 [[1-SOURCES/Commentaries/pi-dhammasangani-atthakatha.md#^1-4-5-4-0]]
 
+---
+
 ## English translation (if a translation file exists)
 
-No translation file found under `3-TRANSFORMATIONS/Translations/en-*/` — Reading for Meaning will be drafted from the section summary + practice + commentary back-citations.
+No translation file found — Reading for Meaning will be drafted from the section summary + practice + commentary back-citations.
