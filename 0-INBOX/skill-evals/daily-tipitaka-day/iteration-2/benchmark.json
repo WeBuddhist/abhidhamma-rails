@@ -1,0 +1,199 @@
+{
+  "metadata": {
+    "skill_name": "daily-tipitaka-day",
+    "skill_path": "<path/to/skill>",
+    "executor_model": "<model-name>",
+    "analyzer_model": "<model-name>",
+    "timestamp": "2026-05-23T08:12:17Z",
+    "evals_run": [
+      0,
+      1,
+      2
+    ],
+    "runs_per_configuration": 3
+  },
+  "runs": [
+    {
+      "eval_id": 0,
+      "configuration": "with_skill",
+      "run_number": 1,
+      "result": {
+        "pass_rate": 0.9,
+        "passed": 9,
+        "failed": 1,
+        "total": 10,
+        "time_seconds": 838.7,
+        "tokens": 132280,
+        "tool_calls": 0,
+        "errors": 0
+      },
+      "expectations": [
+        {
+          "text": "Assets file exists",
+          "passed": true,
+          "evidence": "size 17569 bytes"
+        },
+        {
+          "text": "Contains exactly 13 distinct block IDs in range ^1-151 to ^1-163",
+          "passed": true,
+          "evidence": "Found 13 distinct IDs"
+        },
+        {
+          "text": "Frontmatter uses new `subsections:` list (not old anchor fields)",
+          "passed": true,
+          "evidence": "subsections: in fm: True; old anchor: False"
+        },
+        {
+          "text": "Frontmatter lists 2+ subsections (straddle case)",
+          "passed": true,
+          "evidence": "Subsections listed: ['K\u0101m\u0101vacarakusala\u1e43', 'R\u016bp\u0101vacarakusala\u1e43', 'Catukkanayo']"
+        },
+        {
+          "text": "P\u0101li source preserves #### headings inside the range (Fix 3)",
+          "passed": true,
+          "evidence": "#### found: True; ##### found: True"
+        },
+        {
+          "text": "P\u0101li source section non-empty",
+          "passed": true,
+          "evidence": "len 8680"
+        },
+        {
+          "text": "Section summary non-empty",
+          "passed": true,
+          "evidence": "len 2567"
+        },
+        {
+          "text": "Practice notes non-empty",
+          "passed": true,
+          "evidence": "len 352"
+        },
+        {
+          "text": "Phase 1 completion gate passed and was reported",
+          "passed": false,
+          "evidence": "Report cites gate pass"
+        },
+        {
+          "text": "No day file at .../days/day-012.md (Phase 2 skipped)",
+          "passed": true,
+          "evidence": "day file exists: False"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "eval_id": 1,
+      "configuration": "with_skill",
+      "run_number": 1,
+      "result": {
+        "pass_rate": 1.0,
+        "passed": 5,
+        "failed": 0,
+        "total": 5,
+        "time_seconds": 114.0,
+        "tokens": 71588,
+        "tool_calls": 0,
+        "errors": 0
+      },
+      "expectations": [
+        {
+          "text": "Skill halted during Phase 1",
+          "passed": true,
+          "evidence": "halt language in report"
+        },
+        {
+          "text": "Halt report cites Rule \u00a72 Shape A or Shape B",
+          "passed": true,
+          "evidence": "shape A: True; shape B: True"
+        },
+        {
+          "text": "Halt report names the specific asset that's missing/empty",
+          "passed": true,
+          "evidence": "Both summary and practice referenced"
+        },
+        {
+          "text": "No assets file written",
+          "passed": true,
+          "evidence": "exists: False"
+        },
+        {
+          "text": "No day file written",
+          "passed": true,
+          "evidence": "exists: False"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "eval_id": 2,
+      "configuration": "with_skill",
+      "run_number": 1,
+      "result": {
+        "pass_rate": 1.0,
+        "passed": 5,
+        "failed": 0,
+        "total": 5,
+        "time_seconds": 46.4,
+        "tokens": 49261,
+        "tool_calls": 0,
+        "errors": 0
+      },
+      "expectations": [
+        {
+          "text": "Skill halted during Phase 1",
+          "passed": true,
+          "evidence": "halt language in report"
+        },
+        {
+          "text": "Halt report cites Rule \u00a72 Shape A (file not found)",
+          "passed": true,
+          "evidence": "shape A: True"
+        },
+        {
+          "text": "Halt report names missing Book II files",
+          "passed": true,
+          "evidence": "Book II / pi-2 named"
+        },
+        {
+          "text": "No assets file written",
+          "passed": true,
+          "evidence": "exists: False"
+        },
+        {
+          "text": "No day file written",
+          "passed": true,
+          "evidence": "exists: False"
+        }
+      ],
+      "notes": []
+    }
+  ],
+  "run_summary": {
+    "with_skill": {
+      "pass_rate": {
+        "mean": 0.9667,
+        "stddev": 0.0577,
+        "min": 0.9,
+        "max": 1.0
+      },
+      "time_seconds": {
+        "mean": 333.0333,
+        "stddev": 439.2226,
+        "min": 46.4,
+        "max": 838.7
+      },
+      "tokens": {
+        "mean": 84376.3333,
+        "stddev": 42961.549,
+        "min": 49261,
+        "max": 132280
+      }
+    },
+    "delta": {
+      "pass_rate": "+0.97",
+      "time_seconds": "+333.0",
+      "tokens": "+84376"
+    }
+  },
+  "notes": []
+}
