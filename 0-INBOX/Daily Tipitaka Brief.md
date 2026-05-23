@@ -6,7 +6,7 @@ https://lbdfi.org/daily-tipitaka/
     
     In December 2026, thousands of practitioners will gather in Bodhgayā — the very place where the Buddha attained enlightenment — to chant the Abhidhamma Piṭaka together at the International Tipiṭaka Chanting Council. This 200-day journey is our preparation. Day by day, page by page, we will do two things at once: we will let the profound meaning of the Abhidhamma gradually unfold in our minds, and we will train our voices and hearts to carry these sacred Pāli words with confidence and devotion. Every session is both a step toward understanding and an act of offering — a source of blessing for ourselves and all beings. We don't need to master the Abhidhamma before we begin. We just need to begin. 🌱
     
-- ### How Each Session Work
+- ### How Each Session Works
     
     Each day follows the same simple structure. Every morning you will receive a notification reminding you to sit down, open the app, and take the next step on the journey. 
     1. 🧭 TODAY'S CHANTING GUIDE — a short note orienting us to the day's passage and how it connects to our path. 

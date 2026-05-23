@@ -1,0 +1,6 @@
+{
+  "eval_id": 1,
+  "eval_name": "day-38-cross-section",
+  "prompt": "Run the daily-tipitaka-day skill on day 38, language en. Stop after Phase 1's completion check.",
+  "assertions": []
+}
