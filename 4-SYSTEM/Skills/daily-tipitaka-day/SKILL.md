@@ -253,10 +253,11 @@ If every check passes, report the list of assets files written and proceed to Ph
 
 ### Phase 2 — Compose the day file (one per day)
 
-Read these two files once at the start of Phase 2 (before the per-day loop). They are the same for every day in the batch:
+Read these files once at the start of Phase 2 (before the per-day loop). They are the same for every day in the batch:
 
 - `<lang>/days/_template/day-template.md` — the seven-step day file shape and the liturgy transclude lines.
-- `<lang>/requirements.md` — the per-language style contract (register, format conventions, tone) that governs how §1, §4, §5, and §8 are written.
+- `<lang>/requirements.md` — the per-language plan style contract (register, format conventions, tone) that governs how §1, §4, §5, and §8 are written. **Important:** at the bottom of this file there is a pointer to a *translation track requirements file* — for English the pointer reads `../Translations/en-Contemporary-English-Abhidhamma/requirements.md`. Follow that pointer and read the translation track requirements too. It is the file that actually governs how Pāli renders into the target language (handling of repeated formulas, treatment of compound terms, sentence length, transliteration policy) — without it, §4 (Reading for Meaning) will drift in style from the rest of the translation track.
+- `3-TRANSFORMATIONS/Translations/<lang>-<TrackName>/requirements.md` — the per-language translation track style contract, located via the pointer above. The track-name suffix varies (e.g. `en-Contemporary-English-Abhidhamma`); use the path the plan requirements names, do not guess. If the plan requirements does not point to a translation track requirements file for this language (e.g. for a newly-scaffolded language with no translation track yet), record that gap in the run report and proceed using the plan requirements alone — do not invent translation conventions.
 
 Then for each day `N` in the range (only after every assets file in the batch is written):
 
@@ -264,7 +265,7 @@ Then for each day `N` in the range (only after every assets file in the batch is
 2. Check whether `<lang>/days/day-NNN.md` exists and whether it is in unfilled-template state. If it is filled, stop for that day and report — do not overwrite.
 3. Compose §1 (Today's Chanting Guide): 3–5 paragraphs locating the day's passage in the larger map. Draw the orientation from the section-summary block in the assets file; match the register declared in `requirements.md`. End with one question of the form: "Today's question to carry into the chant: *…*"
 4. §2, §3, §7: copy the liturgy-transclude lines from the template unchanged.
-5. Compose §4 (Reading for Meaning): per-verse renderings for every verse in the day's range, each ending with `*(v. N)*`. Source content per Rule §7. Apply the rendering conventions in `requirements.md` (e.g. handling of repeated formulas, treatment of Pāli loanwords).
+5. Compose §4 (Reading for Meaning): per-verse renderings for every verse in the day's range, each ending with `*(v. N)*`. Source content per Rule §7. Apply the rendering conventions in the **translation track requirements** (loaded in the Phase 2 preamble) — that is the file that governs how Pāli renders into the target language. The plan requirements supplies the surrounding register and tone; the translation track requirements supplies the per-keyword and per-construction rendering decisions.
 6. Compose §5 (Pāli Word of the Day): pick a term that is named in the practice rail block as central to today's passage. Provide a pronunciation guide, literal sense, role in today's passage, and why it matters — each one paragraph. Sources: the practice rail and section summary in the assets file.
 7. Compose §6 (Chanting in Pāli): copy the Pāli source section from the assets file. Break long verses at clause boundaries for chant flow. Bold the closing formula of each verse (e.g. `**ime dhammā kusalā.**`). Keep every block ID at the end of its verse.
 8. Compose §8 (App Notification): thematic Title (≤ 40 chars), one-sentence Body hook (≤ 120 chars), optional Button (≤ 15 chars, default `Begin`). Re-count characters after writing — if any cap is exceeded, tighten before moving on.
