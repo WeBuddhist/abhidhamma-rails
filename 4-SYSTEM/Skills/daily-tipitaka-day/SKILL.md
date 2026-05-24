@@ -110,7 +110,7 @@ sources:
 
 ## 1. Today's Chanting Guide
 
-<3–5 paragraphs in the per-language register declared in requirements.md. Where the passage sits in the larger map (drawn from the section summary). One concrete question to carry into the chant. Closes with: "Today's question to carry into the chant: *…*">
+<**Hard cap: ~2 short paragraphs (max ~180 words total) plus the closing question.** Plain language. One sentence that locates the passage in the larger map (drawn from the section summary), then one short paragraph naming what the day's verses actually walk through and why it matters for a casual practitioner. Skip exhaustive structural commentary — that belongs in the rails, not here. Closes with: "Today's question to carry into the chant: *…*">
 
 ## 2. Homage
 
@@ -122,9 +122,13 @@ sources:
 
 ## 4. Reading for Meaning
 
-### <Heading drawn from the section + verse range>
+**Verses <A>–<B>.** *(Full text rendered in the WeBuddhist app from the verse library; the first and last verses of the range are printed below so the plan-importer can find the right entries.)*
 
-<Per-verse English (or target-language) rendering for every verse in the day's range. Each verse ends with the verse number in italics, e.g. *(v. 1)*. Drawn from the assets file's "English translation" section if present; otherwise from the section-summary synthesis. Do not invent content not present in the assets file.>
+**v. <A>.** <First verse of the range in the target language, taken verbatim from the assets file's "English translation" section.>
+
+…
+
+**v. <B>.** <Last verse of the range in the target language, taken verbatim from the assets file's "English translation" section.>
 
 *Source: [[2-RAILS/Sections/<book>-summaries.md]], [[2-RAILS/Sections/<book>-practice.md]]*
 
@@ -132,17 +136,25 @@ sources:
 
 ### <TERM> — <Gloss>
 
-**Pronunciation:** <syllabified guide>
+**Pronunciation:** <syllabified guide, one line>
 
-**Literal sense:** <one paragraph drawn from the practice rail or the section summary>
+**In today's passage:** <2–4 sentences: what the word does in this specific day's verses, drawn from the practice rail and section summary.>
 
-**In today's passage:** <one paragraph relating the term to the specific verses in this day's range>
+**Why it matters:** <2–4 sentences: how the word changes how the practitioner sees their own mind, drawn from the practice rail. End on something a casual reader can carry into the day — less harm, more good, knowing their mind a little better.>
 
-**Why it matters:** <one paragraph drawn from the practice rail>
+**Hard cap on §5: ~140 words total across pronunciation + the two paragraphs.** Do not add a separate "Literal sense" or "Etymology" paragraph — fold any literal-sense note into "In today's passage" if it earns its place.
 
 ## 6. Chanting in Pāli
 
-<Verbatim copy of the Pāli source verses, formatted for chanting — line breaks at clause boundaries, the closing formula in bold, every block ID preserved at the end of its verse. Heading levels preserved from the source (e.g. `##### Padabhājanī`).>
+**Verses <A>–<B>.** *(Full Pāli text rendered in the WeBuddhist app from the verse library; the first and last verses of the range are printed below — with their block IDs — so the plan-importer can find the right entries.)*
+
+<If the verse range opens inside a named subsection of the source text, name it on one line before the first verse — e.g. `Section: Suññatavāro → Rūpāvacarakusalaṃ → Catukkanayo`. If the range straddles one or more new headings, name those too. Do **not** print full heading blocks; the plan-importer needs orientation, not the full TOC.>
+
+**<A>.** <First Pāli verse of the range, verbatim from the assets file, formatted for chanting (clause-level line breaks, closing formula in bold). Block ID preserved at the end: `^<book>-<A>`.>
+
+…
+
+**<B>.** <Last Pāli verse of the range, verbatim from the assets file, same formatting. Block ID preserved at the end: `^<book>-<B>`.>
 
 ## 7. Aspiration
 
@@ -166,12 +178,15 @@ sources:
    In both shapes, do not write a partial assets file and do not move on to the next day in the batch. Report which day, which asset, and which shape so the human contributor can fix the rail or the schedule.
 3. **Do not overwrite a filled day file.** If `<lang>/days/day-NNN.md` already exists and contains anything beyond the unfilled template, stop and ask. "Unfilled template" means the file matches `day-template.md` line-for-line except for the frontmatter `day:` and `language:` values.
 4. **Citation chain stays in 2-RAILS/.** The day file's `sources:` frontmatter and §4 source line cite only `2-RAILS/` paths. Never cite `1-SOURCES/` from the day file. The assets scratchpad may quote `1-SOURCES/` verbatim because it lives in `0-INBOX/` and is not cited from anywhere downstream.
-5. **Pāli source is verbatim, with block IDs preserved.** §6 of the day file copies the Pāli from the assets file unchanged except for clause-level line-breaking for chant flow. Every `^1-N` block ID stays at the end of its verse.
-6. **App notification character caps are hard limits.** Title ≤ 40 characters. Body ≤ 120 characters. Button (if present) ≤ 15 characters. Re-count after writing; if any cap is exceeded, tighten the wording before reporting completion.
-7. **English Reading for Meaning content sources only from the assets file.** If the assets file has an "English translation" section drawn from a translation track file, §4 uses that. Otherwise §4 paraphrases the section-summary synthesis and practice notes. The skill never translates from raw Pāli on its own.
-8. **Frontmatter `sources:` lists every rail the day file draws from.** At minimum: the summaries rail and the practice rail. Add the verse-rails path if `2-RAILS/Verses/<ref>.md` files exist for any verse in the day's range.
-9. **One assets file per day, never one per batch.** Even if days share a section, each day gets its own `0-INBOX/daily-tipitaka/day-NNN-assets.md`.
-10. **Do not modify any file in `1-SOURCES/` or `2-RAILS/`.** This skill writes only to `0-INBOX/daily-tipitaka/` and `3-TRANSFORMATIONS/Plans/Daily-Tipitaka/<lang>/days/`.
+5. **Day file's §4 and §6 print first verse + last verse only.** Not the whole range. The WeBuddhist app pulls the full verses from its own library at render time; the day file's job is to give the plan-importer enough to find the right range. The two verses are taken verbatim from the assets file (§6 from the Pāli source section, §4 from the English translation section). Both block IDs (`^<book>-<first>` and `^<book>-<last>`) are preserved at the end of their verses in §6.
+6. **Assets scratchpad always carries the full verse range.** This is the source of truth §1 and §5 are written from. The "first verse + last verse only" rule applies to the *day file*, never to the assets file.
+7. **§1 length cap: ~180 words.** Two short paragraphs maximum, plus the closing question. If the draft exceeds the cap, cut — do not add a third paragraph and trim the first two.
+8. **§5 length cap: ~140 words.** Pronunciation line + "In today's passage" (2–4 sentences) + "Why it matters" (2–4 sentences). No separate "Literal sense" paragraph; fold any literal-sense note into "In today's passage" if it pays its way.
+9. **App notification character caps are hard limits.** Title ≤ 40 characters. Body ≤ 120 characters. Button (if present) ≤ 15 characters. Re-count after writing; if any cap is exceeded, tighten the wording before reporting completion.
+10. **English Reading for Meaning content sources only from the assets file.** If the assets file has an "English translation" section drawn from a translation track file, §4 uses the first and last verses from it verbatim. If no translation file exists, §4 falls back to a *one-line* gloss of the first and last verses drawn from the section summary — never a fresh translation from Pāli.
+11. **Frontmatter `sources:` lists every rail the day file draws from.** At minimum: the summaries rail and the practice rail. Add the verse-rails path if `2-RAILS/Verses/<ref>.md` files exist for any verse in the day's range.
+12. **One assets file per day, never one per batch.** Even if days share a section, each day gets its own `0-INBOX/daily-tipitaka/day-NNN-assets.md`.
+13. **Do not modify any file in `1-SOURCES/` or `2-RAILS/`.** This skill writes only to `0-INBOX/daily-tipitaka/` and `3-TRANSFORMATIONS/Plans/Daily-Tipitaka/<lang>/days/`.
 
 ---
 
@@ -225,7 +240,7 @@ For each day `N` in the range:
 
    *Examples:*
    - *Day-007: scans `1-SOURCES/Text/pi-1.md` and copies the blocks ending in `^1-1`, `^1-2`, … `^1-26` — 26 blocks in total, including the `##### Padabhājanī ^1-1-1-1-0` heading just before `^1-1`.*
-   - *Day-012 (verses 151–163): the range straddles the end of `##### Suññatavāro` and the start of the new `#### Rūpāvacarakusalaṃ` section with its `##### Catukkanayo` subsection — both the closing `Paṭhamabhāṇavāro` marker and the new `####` and `#####` headings inside the range must be preserved.*
+   - *Day-012 (verses 151–163): the range straddles the closing definition-blocks of the 5th–8th kāmāvacaramahākusalacittāni (following the `##### Suññatavāro` pattern established at v145) and opens the new `#### Rūpāvacarakusalaṃ` section with its `##### Catukkanayo` subsection — both the closing `Dutiyabhāṇavāro` marker at the end of v159 and the new `####` and `#####` headings between v159 and v160 must be preserved in the assets file.*
 3. **Identify the subsection(s) the day's verse range falls inside.** The schedule.md row only names the top-level section (e.g. `1. Cittuppādakaṇḍaṃ`); the summary and practice rails are organized by *subsection* (Padabhājanī, Koṭṭhāsavāro, Suññatavāro). So the skill has to derive the subsection from the source text:
 
    1. While scanning the source text in step 2, track the most recent `##### …` heading above each verse. That heading is the subsection.
@@ -267,11 +282,27 @@ Then for each day `N` in the range (only after every assets file in the batch is
 
 1. Read `0-INBOX/daily-tipitaka/day-NNN-assets.md`.
 2. Check whether `<lang>/days/day-NNN.md` exists and whether it is in unfilled-template state. If it is filled, stop for that day and report — do not overwrite.
-3. Compose §1 (Today's Chanting Guide): 3–5 paragraphs locating the day's passage in the larger map. Draw the orientation from the section-summary block in the assets file; match the register declared in `requirements.md`. End with one question of the form: "Today's question to carry into the chant: *…*"
+3. Compose §1 (Today's Chanting Guide). **Hard cap ~180 words** (two short paragraphs + closing question). One short paragraph that says where the passage sits in the larger map (drawn from the section summary). One short paragraph that says what the day's verses walk through, in plain language. End with the closing line: "Today's question to carry into the chant: *…*" Write for a casual practitioner with five minutes — the test is whether they could read it before reaching the verses and still feel oriented, not whether it covers every structural feature of the passage. Cut, don't expand.
 4. §2, §3, §7: copy the liturgy-transclude lines from the template unchanged.
-5. Compose §4 (Reading for Meaning): per-verse renderings for every verse in the day's range, each ending with `*(v. N)*`. Source content per Rule §7. Apply the rendering conventions in the **translation track requirements** (loaded in the Phase 2 preamble) — that is the file that governs how Pāli renders into the target language. The plan requirements supplies the surrounding register and tone; the translation track requirements supplies the per-keyword and per-construction rendering decisions.
-6. Compose §5 (Pāli Word of the Day): pick a term that is named in the practice rail block as central to today's passage. Provide a pronunciation guide, literal sense, role in today's passage, and why it matters — each one paragraph. Sources: the practice rail and section summary in the assets file.
-7. Compose §6 (Chanting in Pāli): copy the Pāli source section from the assets file. Break long verses at clause boundaries for chant flow. Bold the closing formula of each verse (e.g. `**ime dhammā kusalā.**`). Keep every block ID at the end of its verse.
+5. Compose §4 (Reading for Meaning) using **only the first and last verses** of the day's range, in this shape:
+   - One header line: `**Verses A–B.** *(Full text rendered in the WeBuddhist app from the verse library; the first and last verses of the range are printed below so the plan-importer can find the right entries.)*`
+   - Then `**v. A.** <first verse, verbatim from the assets file's "English translation" section>`
+   - Then a separator line containing only `…`
+   - Then `**v. B.** <last verse, verbatim from the assets file's "English translation" section>`
+   - Then `*Source: [[2-RAILS/Sections/<book>-summaries.md]], [[2-RAILS/Sections/<book>-practice.md]]*`
+   Do not paraphrase the verses; take them verbatim from the assets file (Rule §10). The translation track requirements file is what governs the wording of the assets-file translation, not this skill — by the time §4 is being composed, those decisions are already baked into the assets text.
+6. Compose §5 (Pāli Word of the Day). **Hard cap ~140 words.** Pick a term named in the practice rail block as central to today's passage. Three parts in this order:
+   - `### <TERM> — <short English gloss>`
+   - `**Pronunciation:** <syllabified guide, one line>`
+   - `**In today's passage:** <2–4 sentences on what the word does in the day's verses, drawn from the practice rail and section summary. Fold any literal-sense note in here if it earns its place.>`
+   - `**Why it matters:** <2–4 sentences on how the word changes how the practitioner sees their own mind, drawn from the practice rail. End on something a casual reader can carry — less harm, more good, knowing their mind a little better.>`
+   No separate "Literal sense" or "Etymology" paragraph. Re-count words after writing; cut if over cap.
+7. Compose §6 (Chanting in Pāli) using **only the first and last Pāli verses** of the day's range, in this shape:
+   - One header line: `**Verses A–B.** *(Full Pāli text rendered in the WeBuddhist app from the verse library; the first and last verses of the range are printed below — with their block IDs — so the plan-importer can find the right entries.)*`
+   - If the verse range opens inside a named subsection of the source text, name it on one orientation line before the first verse — e.g. `**Section:** Suññatavāro → Rūpāvacarakusalaṃ → Catukkanayo`. If the range straddles new headings, name them too. Do **not** print full heading blocks; the plan-importer needs orientation, not the full TOC.
+   - Then `**A.** <first Pāli verse, verbatim from the assets file, formatted for chanting (clause-level line breaks, closing formula in bold). Block ID `^<book>-<A>` at the end.>`
+   - Then a separator line containing only `…`
+   - Then `**B.** <last Pāli verse, same shape, ending with block ID `^<book>-<B>`.>`
 8. Compose §8 (App Notification): thematic Title (≤ 40 chars), one-sentence Body hook (≤ 120 chars), optional Button (≤ 15 chars, default `Begin`). Re-count characters after writing — if any cap is exceeded, tighten before moving on.
 9. Write the day file at `<lang>/days/day-NNN.md`. Frontmatter populated per the format above. `status: draft` always — the human contributor flips it to `partial` or `complete` after review.
 
@@ -282,7 +313,10 @@ After Phase 2 has run for every day in the batch:
 - [ ] One day file exists at `3-TRANSFORMATIONS/Plans/Daily-Tipitaka/<lang>/days/day-NNN.md` for every day whose Phase 1 assets file was complete.
 - [ ] No pre-existing filled day file was overwritten — any conflict was reported instead.
 - [ ] Every day file's `sources:` frontmatter lists at least the summaries rail and the practice rail.
-- [ ] Every day file's §6 (Chanting in Pāli) contains the same number of distinct block IDs as the day's verse range. (For range `1–26`, §6 should contain 26 distinct `^1-N` block IDs.)
+- [ ] Every day file's §4 (Reading for Meaning) contains **exactly two** verse-numbered entries: the first verse of the range (`**v. A.**`) and the last (`**v. B.**`), separated by a `…` divider line. No other verses.
+- [ ] Every day file's §6 (Chanting in Pāli) contains **exactly two** distinct block IDs: `^<book>-A` (on the first verse) and `^<book>-B` (on the last verse), separated by a `…` divider line. No other block IDs.
+- [ ] §1 word count ≤ ~180 words (re-count after writing). Cut if over.
+- [ ] §5 word count ≤ ~140 words (re-count after writing). Cut if over.
 - [ ] Every day file's §8 app notification has: Title ≤ 40 chars, Body ≤ 120 chars, Button (if present) ≤ 15 chars. Re-count after writing.
 
 Report the day numbers written, the assets file paths, the day file paths, and any verification warnings.
