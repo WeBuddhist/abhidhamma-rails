@@ -11,6 +11,8 @@ This skill produces a **complete Daily Tipitaka day file** — frontmatter, the 
 
 **Length discipline on §1 and §5.** The casual-Buddhist audience this plan serves is calibrated for ~5-minute sessions on a phone. §1 (Today's Chanting Guide) and §5 (Pāli Word of the Day) are the two prose sections that compete with the verses for that budget, so both are kept short. See Phase 2 step 3 and step 6 for the per-section caps. The plan's outcome statement — *"come away each day ready to do a little less harm, a little more good, and know your mind a little better than before"* — is the yardstick: every paragraph in §1 and §5 should be earning its place against that, not against academic completeness.
 
+**Plain-English discipline on §1 and §5.** The audience is international, with English as a second or third language for a large share of readers. The audience profile sets the target at 8th-grade reading level — concretely, **Flesch-Kincaid grade ≤ 9** for both §1 and §5, with average sentence length ~12–15 words. This is not a stylistic preference; it is the floor below which the readership the plan was built for can actually use it. **Pāli technical terms are welcome and expected — but every Pāli term gets a short plain-English gloss on first use in the section.** What is *not* welcome: academic register ("canonical formula", "the text foregrounds"), figurative English idioms that don't translate ("step off the map", "lets the rubber meet the road"), internal-architecture references ("the practice rail describes…" — the reader doesn't know what a rail is and shouldn't have to), or chains of multisyllable English where a short word would do (*"meditative absorption" → "deep focus", "sensual pleasures" → "sense desires", "dissociated from knowledge" → "without wisdom"*). The Phase 2 completion check measures this; if §1 or §5 lands above grade 9, rewrite — don't just trim, simplify.
+
 A correct output is a day file that (1) cites only `2-RAILS/` (never `1-SOURCES/` directly), (2) matches the section/verse range declared for that day in `<lang>/schedule.md`, (3) carries the *first* and *last* Pāli verses of the range with their block IDs preserved in §6 (not the whole range), (4) respects the §1 and §5 length caps, and (5) respects the template's character caps for the app notification (Title ≤ 40, Body ≤ 120, Button ≤ 15).
 
 ---
@@ -283,6 +285,8 @@ Then for each day `N` in the range (only after every assets file in the batch is
 1. Read `0-INBOX/daily-tipitaka/day-NNN-assets.md`.
 2. Check whether `<lang>/days/day-NNN.md` exists and whether it is in unfilled-template state. If it is filled, stop for that day and report — do not overwrite.
 3. Compose §1 (Today's Chanting Guide). **Hard cap ~180 words** (two short paragraphs + closing question). One short paragraph that says where the passage sits in the larger map (drawn from the section summary). One short paragraph that says what the day's verses walk through, in plain language. End with the closing line: "Today's question to carry into the chant: *…*" Write for a casual practitioner with five minutes — the test is whether they could read it before reaching the verses and still feel oriented, not whether it covers every structural feature of the passage. Cut, don't expand.
+
+   **Plain-English checklist for §1.** Aim for Flesch-Kincaid grade ≤ 9 (8th-grade reading level — see the audience profile). Concretely: average sentence length 12–15 words; common words over multi-syllable Latinate ones; Pāli terms are welcome but each gets a short plain-English gloss the first time it appears; no figurative English idioms ("step off the map", "the rubber meets the road"); no internal-architecture references ("the summary rail says…" — the reader doesn't know what a rail is). After drafting, re-read §1 imagining a non-native English reader in Kolkata, Nagpur, or Sankisa (see persona vignettes in `<lang>/audience.md`). If a sentence would stop them, shorten it or swap a simpler word.
 4. §2, §3, §7: copy the liturgy-transclude lines from the template unchanged.
 5. Compose §4 (Reading for Meaning) using **only the first and last verses** of the day's range, in this shape:
    - One header line: `**Verses A–B.** *(Full text rendered in the WeBuddhist app from the verse library; the first and last verses of the range are printed below so the plan-importer can find the right entries.)*`
@@ -292,11 +296,13 @@ Then for each day `N` in the range (only after every assets file in the batch is
    - Then `*Source: [[2-RAILS/Sections/<book>-summaries.md]], [[2-RAILS/Sections/<book>-practice.md]]*`
    Do not paraphrase the verses; take them verbatim from the assets file (Rule §10). The translation track requirements file is what governs the wording of the assets-file translation, not this skill — by the time §4 is being composed, those decisions are already baked into the assets text.
 6. Compose §5 (Pāli Word of the Day). **Hard cap ~140 words.** Pick a term named in the practice rail block as central to today's passage. Three parts in this order:
-   - `### <TERM> — <short English gloss>`
-   - `**Pronunciation:** <syllabified guide, one line>`
-   - `**In today's passage:** <2–4 sentences on what the word does in the day's verses, drawn from the practice rail and section summary. Fold any literal-sense note in here if it earns its place.>`
-   - `**Why it matters:** <2–4 sentences on how the word changes how the practitioner sees their own mind, drawn from the practice rail. End on something a casual reader can carry — less harm, more good, knowing their mind a little better.>`
+   - `### <TERM> — <short plain-English gloss, e.g. "Deep Meditation Focus" not "Meditative Absorption">`
+   - `**Pronunciation:** <syllabified guide, one line, plain-language phonetics — e.g. "The 'jh' is like a soft 'j'." Avoid IPA-style notation.>`
+   - `**In today's passage:** <2–4 sentences on what the word does in the day's verses, drawn from the practice rail and section summary. Fold any literal-sense note in here if it earns its place. If a second Pāli term is needed, gloss it in parentheses the first time.>`
+   - `**Why it matters:** <2–4 sentences on how the word changes how the practitioner sees their own mind, drawn from the practice rail — translated out of rail vocabulary into plain English. End on something a casual reader can carry — less harm, more good, knowing their mind a little better.>`
    No separate "Literal sense" or "Etymology" paragraph. Re-count words after writing; cut if over cap.
+
+   **Plain-English checklist for §5.** Same target as §1: Flesch-Kincaid grade ≤ 9, average sentence length 12–15 words, common words over multi-syllable Latinate ones. **No internal-architecture references** ("the practice rail describes…", "the section summary foregrounds…") — readers don't know what the rails are and shouldn't have to. Translate rail concepts into reader-facing language instead ("the teaching says…", "in practice this is…"). Pāli technical terms are welcome; gloss each one plainly on first use.
 7. Compose §6 (Chanting in Pāli) using **only the first and last Pāli verses** of the day's range, in this shape:
    - One header line: `**Verses A–B.** *(Full Pāli text rendered in the WeBuddhist app from the verse library; the first and last verses of the range are printed below — with their block IDs — so the plan-importer can find the right entries.)*`
    - If the verse range opens inside a named subsection of the source text, name it on one orientation line before the first verse — e.g. `**Section:** Suññatavāro → Rūpāvacarakusalaṃ → Catukkanayo`. If the range straddles new headings, name them too. Do **not** print full heading blocks; the plan-importer needs orientation, not the full TOC.
@@ -317,6 +323,32 @@ After Phase 2 has run for every day in the batch:
 - [ ] Every day file's §6 (Chanting in Pāli) contains **exactly two** distinct block IDs: `^<book>-A` (on the first verse) and `^<book>-B` (on the last verse), separated by a `…` divider line. No other block IDs.
 - [ ] §1 word count ≤ ~180 words (re-count after writing). Cut if over.
 - [ ] §5 word count ≤ ~140 words (re-count after writing). Cut if over.
+- [ ] §1 and §5 each measure at **Flesch-Kincaid grade ≤ 9** (8th-grade reading level — the audience profile's target). If above, rewrite — don't just trim, simplify. Pāli terms are fine when glossed plainly; what pushes the grade up is academic register, long Latinate words where a short Anglo-Saxon one would do, and 25+-word sentences. A quick measurement check in bash:
+  ```bash
+  # Run from any folder; substitute the day file path:
+  python3 -c "
+  import re, sys
+  txt = open('PATH/TO/day-NNN.md').read()
+  for n, label in [(1, '§1'), (5, '§5')]:
+      m = re.search(rf'## {n}\.[^\n]+\n(.*?)(?=\n## |\Z)', txt, re.S)
+      if not m: continue
+      s = re.sub(r'\*+([^*]+)\*+', r'\1', m.group(1))
+      s = re.sub(r'###?\s+[^\n]+', '', s)
+      sents = [x for x in re.split(r'[.!?]+', s) if x.strip()]
+      words = re.findall(r'[A-Za-zĀāĪīŪūṅñṭḍṇṃḷ-]+', s)
+      def syl(w):
+          w = re.sub(r'[āīūṅñṭḍṇṃḷṛṣśḥ]', 'a', w.lower())
+          c = 0; pv = False
+          for ch in w:
+              v = ch in 'aeiouy'
+              if v and not pv: c += 1
+              pv = v
+          if w.endswith('e') and c > 1: c -= 1
+          return max(1, c)
+      asl = len(words)/len(sents); asw = sum(syl(w) for w in words)/len(words)
+      print(f'{label}: FK grade {0.39*asl + 11.8*asw - 15.59:.1f}  ease {206.835 - 1.015*asl - 84.6*asw:.1f}  ({len(words)} words, {len(sents)} sentences)')
+  "
+  ```
 - [ ] Every day file's §8 app notification has: Title ≤ 40 chars, Body ≤ 120 chars, Button (if present) ≤ 15 chars. Re-count after writing.
 
 Report the day numbers written, the assets file paths, the day file paths, and any verification warnings.
