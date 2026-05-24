@@ -15,6 +15,8 @@ The Daily Tipitaka is a 200-day journey of daily Abhidhamma reading and chanting
 
 The journey does two things at once. **Meaning** — it lets the Abhidhamma gradually unfold in the practitioner's mind, day by day, page by page. **Voice** — it trains practitioners to carry the Pāli words with confidence and devotion when the chanting in Bodhgayā begins. Every session is both a step toward understanding and an act of offering.
 
+**Daily outcome statement.** This is a five-minute-a-day practice for casual Buddhists, not an academic study program. The intent of every day is that the reader comes away **ready to do a little less harm, a little more good, and know their mind a little better than before.** This is the yardstick every prose section in every day file (§1 and §5) is measured against. If a paragraph does not pay its way toward that outcome, it does not belong in the day file — even if it is interesting, even if it is true, even if it is canonically attested.
+
 Reference site: <https://lbdfi.org/daily-abhidhamma/>.
 
 ## 2. Audience
@@ -31,17 +33,27 @@ No prior mastery of the Abhidhamma is assumed. The brief is _"we don't need to m
 
 Every day follows the same seven-step shape. The order is fixed; the content is what changes day to day. This shape is the contract between this brief and every per-day file under `<lang>/days/day-NNN.md`.
 
-1. 🧭 **Today's Chanting Guide** — a short note orienting us to the day's passage and how it connects to the path.
+1. 🧭 **Today's Chanting Guide** — a short note orienting us to the day's passage and how it connects to the path. **Length cap: ~180 words** (two short paragraphs + one closing question). The casual reader has five minutes; the orientation has to be tight.
 2. 🪔 **Homage** — Vandanā to the Buddha (Pāli always; gloss in target language).
 3. 🌱 **Intention** — the Buddha's own four-line summary of the path (Pāli always; gloss).
-4. 💡 **Reading for Meaning** — the day's passage in the reader's language, so the text is alive in mind before chanting.
-5. 🔑 **Pāli Word of the Day** — one key word to carry as an anchor.
-6. ☸️ **Chanting in Pāli** — the passage chanted unhurried and attentive.
+4. 💡 **Reading for Meaning** — the day's passage in the reader's language, so the text is alive in mind before chanting. **The day file prints only the first and last verses of the day's range; the WeBuddhist app supplies the full text from its verse library at render time.** The day file's job here is to let the plan-importer confirm the range and find the right entries.
+5. 🔑 **Pāli Word of the Day** — one key word to carry as an anchor. **Length cap: ~140 words** (pronunciation + "In today's passage" + "Why it matters"). Casual practitioner, not Buddhist Studies seminar.
+6. ☸️ **Chanting in Pāli** — the passage chanted unhurried and attentive. **The day file prints only the first and last Pāli verses (with their block IDs); the WeBuddhist app supplies the full chant from its verse library.** Same logic as §4 — the day file is for the plan-importer, not the reader.
 7. ✨ **Aspiration** — a closing dedication: avoid evil, cultivate good, purify the mind.
 
 Seven steps. Every day. For 200 days.
 
 Steps 2, 3, 6, and 7 use **fixed liturgical Pāli** that does not change day to day — see `assets/liturgy/` (canonical location for all language tracks). Steps 1, 4, 5 are the **variable content** generated from the rails.
+
+### Where the full verse text actually lives
+
+Steps 4 and 6 of the *day file* print only first verse + last verse. This is deliberate, and the architecture is:
+
+- **Full verse text → WeBuddhist app's verse library.** The app fetches every verse in the day's range from its own library when the reader opens the day.
+- **Full verse text → the per-day assets scratchpad** in `0-INBOX/daily-tipitaka/day-NNN-assets.md`. This is the working file from which §1 and §5 are written; it stays full so the next contributor (or skill run) can re-compose the prose without re-fetching from source.
+- **Day file → first verse + last verse only.** The plan-importer reads the day file, sees the range, finds the matching first-verse and last-verse entries in the app library, selects the range, and the app renders the rest.
+
+A day file that prints all the verses is *over*-produced — it duplicates what the app already does and crowds out the orientation prose the reader is actually here for.
 
 ## 4. Rails the Content Draws From
 
