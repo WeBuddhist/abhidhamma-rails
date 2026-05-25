@@ -7,17 +7,17 @@ How to generate the next batch of Daily Tipitaka day files and upload them into 
 1. Open a Cowork session in Claude with the `abhidhamma-rails` vault selected as the working folder.
 2. Ask Claude to install the `daily-tipitaka-day` skill — for example:
 	> Please install the daily-tipitaka-day skill.
-3. After Claude sets up the skill,  click **Save Skill** to install it.
+3. After Claude sets up the skill, click **Save Skill** to install it.
 
 ## 1. Find the next days to generate
 
-Open `3-TRANSFORMATIONS/Plans/Daily-Tipitaka/<lang>/days/` and note the highest-numbered day file
+Open `3-TRANSFORMATIONS/Plans/Daily-Tipitaka/<lang>/days/` and note the highest-numbered day file.
 
 ## 2. Run the skill
 
 1. In Claude, ask:
 
-	> Use `/daily-tipitaka-day` to create days the next five days in `<lang>`.
+	> Use `/daily-tipitaka-day` to create the next five days in `<lang>`.
 
 	For example: `days 19–23 in en`. (Note: If you quickly use up your tokens for a time period, pick fewer.)
 
@@ -128,7 +128,7 @@ Open the new day file in `3-TRANSFORMATIONS/Plans/Daily-Tipitaka/<lang>/days/day
 
 - §1 → 🧭 Today's Chanting Guide
 - §5 → 🔑 Pāli Word of the Day
-- §8 → app notification (title, body, button). 
+- §8 → app notification (title, body, button).
 
 **Note**: The app notification is coming soon to Studio. If you don't see it in the Studio, update and copy into the notifications tab of [this sheet](https://docs.google.com/spreadsheets/d/1YU2X3KkjPdmPZ7fPYIBIUHSoxo9z15ObLcwhaigs7pg/edit?gid=951664328#gid=951664328).
 
