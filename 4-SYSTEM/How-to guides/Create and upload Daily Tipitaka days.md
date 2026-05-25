@@ -2,19 +2,18 @@
 
 How to generate the next batch of Daily Tipitaka day files and upload them into WeBuddhist Studio.
 
-## Set up the skill (one-time)
+## Prerequisite: Set up the skill
 
-Open a Cowork session in Claude with the `abhidhamma-rails` vault selected as the working folder. Ask Claude to install the `daily-tipitaka-day` skill — for example:
-
-> Please install the daily-tipitaka-day skill.
-
-Claude will fetch it and confirm. You only do this once per computer.
+1. Open a Cowork session in Claude with the `abhidhamma-rails` vault selected as the working folder.
+2. Ask Claude to install the `daily-tipitaka-day` skill — for example:
+	> Please install the daily-tipitaka-day skill.
+3. After Claude sets up the skill,  click **Save Skill** to install it.
 
 ## 1. Find the next days to generate
 
 Open `3-TRANSFORMATIONS/Plans/Daily-Tipitaka/<lang>/days/` and note the highest-numbered day file. Then open `<lang>/schedule.md` to see the next dates and verse ranges.
 
-Pick the next 5 days.
+Pick the next 5 days. If you quickly use up your tokens for a time period, reduce the number of days.
 
 ## 2. Run the skill
 
@@ -33,23 +32,15 @@ It also appends new term renderings to `<lang>/termbase.md` as `candidate` rows.
 
 ## 3. Review and edit
 
-Open each new day file and read it. Edit anything that needs tightening — register, tone, word choice. Promote or correct termbase rows as needed.
+Open each new day file and read it. Edit anything that needs tightening — tone, style, word choice. Check the new `candidate` rows the skill added to `3-TRANSFORMATIONS/Plans/Daily-Tipitaka/<lang>/termbase.md` and confirm, correct, or promote them. Cross-check against the upstream translation-track lock at `3-TRANSFORMATIONS/Translations/<lang>-<TrackName>/termbase.md` (for English: `en-Contemporary-English-Abhidhamma`) when needed.
 
 ## 4. Upload to WeBuddhist Studio
 
-Create the day in Studio. Use the day file for the variable content and the block below for the fixed content.
+Create the day in Studio. The content has three parts to paste in: fixed content (same every day), the prose from the day file, and the passage spans from Studio's verse library.
 
-**From the day file, copy:**
+### 4a. Paste the fixed content
 
-- §1 → 🧭 Today's Chanting Guide
-- §5 → 🔑 Pāli Word of the Day
-- §8 → app notification (title, body, button)
-
-**For the passage sections (💡 Reading for Meaning and ☸️ Chanting in Pali):** the day file prints the first and last verses only. Use those to find the span in Studio's verse library. If a phrase has many matches, open the day's assets file in `0-INBOX/daily-tipitaka/` — it holds the full range with surrounding context (subsection headings, citta numbers, closing seals) to disambiguate.
-
-**Fixed content — paste into every day:**
-
-Section titles:
+These blocks go into every day. Section titles:
 
 ```
 🧭 Today's Chanting Guide
@@ -124,10 +115,24 @@ May it be a condition for spiritual Liberation!
 SĀDHU! SĀDHU! SĀDHU! 🙏
 ```
 
+### 4b. Paste the prose from the day file
+
+Open the new day file in `3-TRANSFORMATIONS/Plans/Daily-Tipitaka/<lang>/days/day-NNN.md` and copy:
+
+- §1 → 🧭 Today's Chanting Guide
+- §5 → 🔑 Pāli Word of the Day
+- §8 → app notification (title, body, button). The app notification is coming soon to Studio. For now, update and copy into the notifications tab of [this sheet](https://docs.google.com/spreadsheets/d/1YU2X3KkjPdmPZ7fPYIBIUHSoxo9z15ObLcwhaigs7pg/edit?gid=951664328#gid=951664328).
+
+### 4c. Pick the verse spans from Studio's verse library
+
+The day file prints only the first and last verses for 💡 Reading for Meaning and ☸️ Chanting in Pali. Use those two verses to pick the span in Studio.
+
+The Abhidhamma is very repetitive — the same opening phrase shows up in many verses. If your search returns more than one match, open the day's assets file in `0-INBOX/daily-tipitaka/`. The assets file holds the whole range with the headings, citta numbers, and closing seals around it, so you can see which match is the right one.
+
 ## 5. Clean up
 
 Once a day is uploaded and confirmed in Studio, delete that day's assets file from `0-INBOX/daily-tipitaka/`.
 
 ## Feedback
 
-If the skill output needs adjusting — register, structure, anything — tell Evan so the skill can be updated.
+If the skill output needs adjusting — tone, structure, anything — tell Evan so the skill can be updated.
