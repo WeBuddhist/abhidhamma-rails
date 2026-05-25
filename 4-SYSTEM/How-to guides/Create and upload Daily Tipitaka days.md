@@ -11,33 +11,36 @@ How to generate the next batch of Daily Tipitaka day files and upload them into 
 
 ## 1. Find the next days to generate
 
-Open `3-TRANSFORMATIONS/Plans/Daily-Tipitaka/<lang>/days/` and note the highest-numbered day file. Then open `<lang>/schedule.md` to see the next dates and verse ranges.
-
-Pick the next 5 days. If you quickly use up your tokens for a time period, reduce the number of days.
+Open `3-TRANSFORMATIONS/Plans/Daily-Tipitaka/<lang>/days/` and note the highest-numbered day file
 
 ## 2. Run the skill
 
-In Claude, ask:
+1. In Claude, ask:
 
-> Use `/daily-tipitaka-day` to create days N–M in `<lang>`.
+	> Use `/daily-tipitaka-day` to create days the next five days in `<lang>`.
 
-For example: `days 19–23 in en`.
+	For example: `days 19–23 in en`. (Note: If you quickly use up your tokens for a time period, pick fewer.)
 
-Claude writes two files per day:
+2. Wait for Claude to finish. It writes two files per day:
 
-- `0-INBOX/daily-tipitaka/day-NNN-assets.md` — working file with the full verse range, summary, practice notes, and English translation.
-- `3-TRANSFORMATIONS/Plans/Daily-Tipitaka/<lang>/days/day-NNN.md` — the draft day file.
+	- `0-INBOX/daily-tipitaka/day-NNN-assets.md` — working file with the full verse range, summary, practice notes, and English translation.
+	- `3-TRANSFORMATIONS/Plans/Daily-Tipitaka/<lang>/days/day-NNN.md` — the draft day file.
 
-It also appends new term renderings to `<lang>/termbase.md` as `candidate` rows.
+	It also appends new term renderings to `<lang>/termbase.md` as `candidate` rows.
 
 ## 3. Review and edit
 
-Open each new day file and read it. Edit anything that needs tightening — tone, style, word choice. Check the new `candidate` rows the skill added to `3-TRANSFORMATIONS/Plans/Daily-Tipitaka/<lang>/termbase.md` and confirm, correct, or promote them. Cross-check against the upstream translation-track lock at `3-TRANSFORMATIONS/Translations/<lang>-<TrackName>/termbase.md` (for English: `en-Contemporary-English-Abhidhamma`) when needed.
+1. Open each new day file and read it.
+2. Edit anything that needs tightening — tone, style, word choice.
+3. Check the new `candidate` rows the skill added to `3-TRANSFORMATIONS/Plans/Daily-Tipitaka/<lang>/termbase.md` and confirm, correct, or promote them.
+4. Cross-check against the upstream translation-track lock at `3-TRANSFORMATIONS/Translations/<lang>-<TrackName>/termbase.md` (for English: `en-Contemporary-English-Abhidhamma`) when needed.
 
 ## 4. Upload to WeBuddhist Studio
 
-Create the day in Studio. The content has three parts to paste in: fixed content (same every day), the prose from the day file, and the passage spans from Studio's verse library.
-
+Create the day in Studio. The content has three parts to add:
+- Fixed content (same every day)
+- Today's Chanting Guide and Pāli Word of the Day from the abhidhamma-rails day file
+-  Reading for Meaning and Chanting in Pali from Studio's verse library.
 ### 4a. Paste the fixed content
 
 These blocks go into every day. Section titles:
@@ -127,7 +130,9 @@ Open the new day file in `3-TRANSFORMATIONS/Plans/Daily-Tipitaka/<lang>/days/day
 
 The day file prints only the first and last verses for 💡 Reading for Meaning and ☸️ Chanting in Pali. Use those two verses to pick the span in Studio.
 
-The Abhidhamma is very repetitive — the same opening phrase shows up in many verses. If your search returns more than one match, open the day's assets file in `0-INBOX/daily-tipitaka/`. The assets file holds the whole range with the headings, citta numbers, and closing seals around it, so you can see which match is the right one.
+1. Find the first verse in Studio's verse library and mark the start of the span.
+2. Find the last verse and mark the end of the span.
+3. If a search returns more than one match — the Abhidhamma is very repetitive — open the day's assets file in `0-INBOX/daily-tipitaka/`. The assets file holds the whole range with the headings, citta numbers, and closing seals around it, so you can see which match is the right one.
 
 ## 5. Clean up
 
