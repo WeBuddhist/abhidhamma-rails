@@ -38,12 +38,12 @@ Open `3-TRANSFORMATIONS/Plans/Daily-Tipitaka/<lang>/days/` and note the highest-
 ## 4. Upload to WeBuddhist Studio
 
 Create the day in Studio. The content has three parts to add:
+
 - Fixed content (same every day)
 - Today's Chanting Guide and Pāli Word of the Day from the abhidhamma-rails day file
--  Reading for Meaning and Chanting in Pali from Studio's verse library.
-### 4a. Paste the fixed content
+- Reading for Meaning and Chanting in Pali from Studio's verse library
 
-These blocks go into every day. Section titles:
+Section titles and order:
 
 ```
 🧭 Today's Chanting Guide
@@ -54,6 +54,10 @@ These blocks go into every day. Section titles:
 ☸️ Chanting in Pali
 ✨ Aspiration
 ```
+
+### 4a. Paste the fixed content
+
+For each block below, click **+** in the subtask menu, choose the **text icon**, and paste the block.
 
 🪔 Homage:
 
@@ -120,19 +124,30 @@ SĀDHU! SĀDHU! SĀDHU! 🙏
 
 ### 4b. Paste the prose from the day file
 
-Open the new day file in `3-TRANSFORMATIONS/Plans/Daily-Tipitaka/<lang>/days/day-NNN.md` and copy:
+Open the new day file in `3-TRANSFORMATIONS/Plans/Daily-Tipitaka/<lang>/days/day-NNN.md`. For each section below, click **+** in the subtask menu, choose the **text icon**, and paste the matching content from the day file:
 
 - §1 → 🧭 Today's Chanting Guide
 - §5 → 🔑 Pāli Word of the Day
-- §8 → app notification (title, body, button). The app notification is coming soon to Studio. For now, update and copy into the notifications tab of [this sheet](https://docs.google.com/spreadsheets/d/1YU2X3KkjPdmPZ7fPYIBIUHSoxo9z15ObLcwhaigs7pg/edit?gid=951664328#gid=951664328).
+- §8 → app notification (title, body, button). 
+
+**Note**: The app notification is coming soon to Studio. If you don't see it in the Studio, update and copy into the notifications tab of [this sheet](https://docs.google.com/spreadsheets/d/1YU2X3KkjPdmPZ7fPYIBIUHSoxo9z15ObLcwhaigs7pg/edit?gid=951664328#gid=951664328).
 
 ### 4c. Pick the verse spans from Studio's verse library
 
 The day file prints only the first and last verses for 💡 Reading for Meaning and ☸️ Chanting in Pali. Use those two verses to pick the span in Studio.
 
-1. Find the first verse in Studio's verse library and mark the start of the span.
-2. Find the last verse and mark the end of the span.
-3. If a search returns more than one match — the Abhidhamma is very repetitive — open the day's assets file in `0-INBOX/daily-tipitaka/`. The assets file holds the whole range with the headings, citta numbers, and closing seals around it, so you can see which match is the right one.
+Pick the right text for each section:
+
+- 💡 Reading for Meaning → **Dhammasaṅgaṇīpāḷi-AI** (the English text). More languages coming soon.
+- ☸️ Chanting in Pali → **Dhammasaṅgaṇīpāḷi** (the Pāli text).
+
+Then, for each of the two passage sections:
+
+1. In the subtask menu, click the **WeBuddhist icon** to open the verse library.
+2. Search for the title and click on the text. Scroll to open the verses.
+3. Find the first and last verses for the day by content. Studio's segment numbers do not match the Tipitaka verse numbers, so check the content.
+4. The Abhidhamma is very repetitive by design, so if you're having trouble locating the first or last verse, open the day's assets file in `0-INBOX/daily-tipitaka/` in the abhidhamma-rails vault. The assets file shows the whole range with the surrounding headings, citta numbers, and closing seals, so you can see which match is the right one.
+5. Enter the segment span (for example, `100–124`) and click **Add to Plan**.
 
 ## 5. Clean up
 
