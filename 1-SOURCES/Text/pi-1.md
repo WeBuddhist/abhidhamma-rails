@@ -5,11 +5,11 @@ script: Roman (PTS diacritics)
 file_type: root-text
 lang_tag: pi
 verse_id_format: book-verse
-pitaka: abhidhamma
+pitaka: abhidhammaa
 layer: mula
 source_description: Tipitaka.org Mūla edition export. Mūla > Abhidhammapiṭaka > Dhammasaṅgaṇīpāḷi; 2436 segments in source.
 source_filename: book/abh01m.mul.html
-source_url: "https://tipitaka.org/romn/cscd/abh01m.mul.xml"
+source_url: https://tipitaka.org/romn/cscd/abh01m.mul.xml
 other_ids:
   - tipitaka.org: abh01m
 ---
