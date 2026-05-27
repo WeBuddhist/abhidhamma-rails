@@ -46,7 +46,7 @@ Template: `4-SYSTEM/Templates/audience.md`.
 
 ## 3. Use Cases and Reading Settings
 
-- **Private silent reading:** The primary daily mode. ~5–15 minutes, usually morning, often on a phone before the day begins.
+- **Private silent reading:** The primary daily mode. **Calibrated to ~5 minutes** on a typical day, with room to expand to ~10–15 minutes on a weekend or when the day's passage genuinely warrants it. Usually morning, often on a phone before the day begins. The five-minute floor is the design constraint that drives the §1 and §5 length caps in `requirements.md` §3 — most of the five minutes is the verses themselves; the prose around them has to be tight.
 - **Read-aloud or group reading:** Common in temple settings in Kolkata, in Ambedkarite study circles in Nagpur, in Sankisa-area pilgrimage groups, and in monastic communities internationally. The seven-step structure is designed to work read-aloud — sentences must pass the read-aloud test (no clauses that stall the tongue).
 - **Chanting / liturgical use:** Central. Step 6 (Chanting in Pāli) is the practice the entire plan trains toward — the ability to chant alongside the Bodhgayā gathering in December.
 - **Mobile app vs. print vs. desktop vs. PDF:** **Phone-first.** Print is secondary (some local sanghas may print weekly digests). Desktop is rare; PDF is occasional. Every layout decision assumes a phone screen and intermittent connectivity.
@@ -61,6 +61,7 @@ Template: `4-SYSTEM/Templates/audience.md`.
 - **What frustrates them about existing translations or study materials:** Existing Abhidhamma material is dense, academic, often Victorian English (Rhys Davids) or technical Pāli–Sanskrit hybrid prose. It assumes the reader has studied the seven books, can hold Pāli compounds in their head, and is comfortable with footnote-dense pages. Most existing material is also pitched at Buddhist Studies academics or at Theravāda monastics with prior commentarial training — neither of which matches this audience. Materials that come from a Western academic register can also feel culturally unfamiliar to a Maharashtra or Sankisa reader whose Buddhist context is devotional and community-based.
 - **What would make them stop reading:** Pāli-term pileups (three new technical terms in one sentence); footnote density on a phone screen; assumption of prior Abhidhamma knowledge on day one; sessions that consistently run past 15 minutes; an academic tone that feels like a textbook rather than a daily practice; sectarian or polemical framing that excludes Ambedkarite, Mahāyāna-adjacent, or non-Theravāda readers.
 - **Stretch goal — what would delight them:** Walking into the chanting hall at Bodhgayā in December and recognising the passage being chanted, knowing what it means, and being able to join the recitation without losing their place. A felt sense, by day 100, that the Abhidhamma is no longer a foreign mountain but a landscape they have been crossing day by day. Quiet, accumulating confidence rather than dramatic transformation.
+- **Daily takeaway (the yardstick):** Each day the reader should come away ready to do **a little less harm, a little more good, and know their own mind a little better than before.** This is the single sentence every prose paragraph in §1 and §5 is measured against — if a paragraph does not pay its way toward that, it does not belong, no matter how interesting it is. See `requirements.md` §1.
 
 ## 5. Non-audience
 
@@ -100,3 +101,4 @@ Sunita is 22, a third-year college student in a small town near Sankisa. Her fam
 ## Change log
 
 - `2026-05-17` — drafted from initial scaffold using the four-dimension template plus §5 Non-audience and three persona vignettes; status moved from `scaffold` to `draft`. Reflects rename of the plan from "Daily-Abhidhamma" to "Daily-Tipitaka" — frontmatter `track:` set to the post-rename identifier although the file currently lives in the pre-rename folder.
+- `2026-05-24` — tightened the §3 session-length wording to make the five-minute floor explicit (was "5–15 minutes"); added the daily-takeaway statement to §4 ("less harm, more good, knowing the mind a little better"). Both changes flow from a working-session refinement on day-012; mirrored in `requirements.md` §1 (outcome statement), §3 (§1/§5 length caps and the §4/§6 abbreviation rule).
