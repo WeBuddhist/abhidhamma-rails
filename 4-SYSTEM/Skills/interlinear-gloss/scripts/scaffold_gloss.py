@@ -245,8 +245,24 @@ def main(argv):
     parser.add_argument("output", nargs="?", type=Path, help="Output gloss file")
     args = parser.parse_args(argv[1:])
 
+    # Determine vault root relative to this script's directory
+    script_dir = Path(__file__).resolve().parent
+    if len(script_dir.parents) >= 4:
+        vault_root = script_dir.parents[3]
+    else:
+        vault_root = Path(".")
+
+    def resolve_path(p: Path) -> Path:
+        if p.exists():
+            return p
+        vp = vault_root / p
+        if vp.exists():
+            return vp
+        return p
+
     if args.validate:
-        checked, errors = validate(Path(args.validate))
+        validate_path = resolve_path(Path(args.validate))
+        checked, errors = validate(validate_path)
         if errors:
             for err in errors:
                 print(f"  {err}", file=sys.stderr)
@@ -259,9 +275,24 @@ def main(argv):
         parser.print_help(sys.stderr)
         return 2
 
-    stats = scaffold(args.source, args.target, args.output)
+    source_path = resolve_path(args.source)
+    target_path = resolve_path(args.target)
+    
+    # For output path, resolve relative to vault root if parent doesn't exist locally but exists in vault
+    output_path = args.output
+    if not output_path.parent.exists():
+        vp = vault_root / output_path
+        if vp.parent.exists():
+            output_path = vp
+
+    print(f"Vault root detected at: {vault_root.resolve()}")
+    print(f"Using source: {source_path}")
+    print(f"Using target: {target_path}")
+    print(f"Using output: {output_path}")
+
+    stats = scaffold(source_path, target_path, output_path)
     print(
-        f"Wrote {args.output}: blocks={stats['blocks_rendered']} "
+        f"Wrote {output_path}: blocks={stats['blocks_rendered']} "
         f"skipped_target_missing={stats['skipped_target_missing']} "
         f"skipped_source_missing={stats['skipped_source_missing']}"
     )

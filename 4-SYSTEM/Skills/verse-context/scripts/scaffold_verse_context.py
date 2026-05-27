@@ -348,10 +348,18 @@ def validate_scaffold(path: Path) -> tuple[bool, list[str]]:
 def main(argv: list[str] | None = None) -> int:
     p = argparse.ArgumentParser(description=__doc__.split("\n\n")[0])
     p.add_argument("verse_id", help="block ID without caret, e.g. 1-0a-2")
+    
+    # Determine default root relative to this script's directory
+    script_dir = Path(__file__).resolve().parent
+    if len(script_dir.parents) >= 4:
+        default_root = script_dir.parents[3]
+    else:
+        default_root = Path.cwd()
+
     p.add_argument(
         "--root",
-        default=os.environ.get("VAULT_ROOT", str(Path.cwd())),
-        help="vault root (defaults to $VAULT_ROOT or cwd)",
+        default=os.environ.get("VAULT_ROOT", str(default_root)),
+        help="vault root (defaults to $VAULT_ROOT or detected vault root)",
     )
     p.add_argument(
         "--language", default=DEFAULT_LANGUAGE, help="root-text language tag",
