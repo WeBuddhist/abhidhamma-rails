@@ -18,7 +18,7 @@ A term lands here once it has appeared (or will appear) in at least one publishe
 
 ## Term table
 
-<<<<<<< HEAD
+
 | Pāli       | English (Contemporary)                                                          | Tibetan | Chinese | Hindi | Bilingual Glossary / Sense                   | Status |
 | ---------- | ------------------------------------------------------------------------------- | ------- | ------- | ----- | -------------------------------------------- | ------ |
 | dhamma     | _phenomenon_ (in technical Abhidhamma contexts)                                 |         |         |       | `2-RAILS/Local-Wiki/dhamma (phenomenon).md`  | draft  |
