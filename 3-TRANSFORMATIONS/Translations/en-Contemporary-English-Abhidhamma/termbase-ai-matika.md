@@ -17,22 +17,22 @@ This termbase captures the per-track keyword renderings for the **AI Matika** tr
 
 The keyword selections are governed by the track's [[3-TRANSFORMATIONS/Translations/en-Contemporary-English-Abhidhamma/requirements|requirements.md]] and the broader Abhidhamma [[3-TRANSFORMATIONS/Translations/en-Contemporary-English-Abhidhamma/termbase|termbase.md]].
 
-| Pāli keyword | Chosen rendering | Origin | Rationale |
-| :--- | :--- | :--- | :--- |
-| bhāvanāya | by development | attested | Standard rendering of `bhāvanā` as *development* (BB curated); attested as `by_development` in the source. |
-| ceva | and are / both | attested | Connective particle; attested as `both`, `and_are`, and `and` in the source. |
-| dassanena | by seeing | attested | Standard rendering of `dassana` as *seeing* (BB curated); attested as `by_seeing` in the source. |
-| dhammā | phenomena | attested | Mandated by `requirements.md` §1.3 for analytical contexts; highly attested as `Phenomena` / `phenomena` in the source. |
-| ganthā | knots | attested | Standard rendering of `gantha` as *knot* (BB curated); attested as `knots` in the source. |
-| hetū | roots | attested | Standard rendering of `hetu` as *root* (BB curated); attested as `roots` in the source. |
-| kilesā | defilements | attested | Standard rendering of `kilesa` as *defilement* (BB curated); attested as `defilements` in the source. |
-| no | not | attested | Standard negative particle; highly attested as `not` in the source. |
-| nīvaraṇā | hindrances | attested | Standard rendering of `nīvaraṇa` as *hindrance* (BB curated); attested as `hindrances` in the source. |
-| oghā | floods | attested | Standard rendering of `ogha` as *flood* (BB curated); attested as `floods` in the source. |
-| saṃyojanā | fetters | attested | Standard rendering of `saṃyojana` as *fetter* (BB curated); attested as `fetters` in the source. |
-| upādānā | clinging | attested | Standard rendering of `upādāna` as *clinging* (BB curated); attested as `clinging_itself` in the source. |
-| yogā | yokes | attested | Mandated by `requirements.md` §1.2 and locked as *yoke* (Daily Tipitaka); attested as `yokes` in the source. |
-| āsavā | taints | attested | Standard rendering of `āsava` as *taint* (BB curated); attested as `taints` in the source. |
+| Pāli keyword | Chosen rendering | Origin   | Rationale                                                                                                               |
+| :----------- | :--------------- | :------- | :---------------------------------------------------------------------------------------------------------------------- |
+| bhāvanāya    | by development   | attested | Standard rendering of `bhāvanā` as *development* (BB curated); attested as `by_development` in the source.              |
+| ceva         | and are / both   | attested | Connective particle; attested as `both`, `and_are`, and `and` in the source.                                            |
+| dassanena    | by seeing        | attested | Standard rendering of `dassana` as *seeing* (BB curated); attested as `by_seeing` in the source.                        |
+| dhammā       | phenomena        | attested | Mandated by `requirements.md` §1.3 for analytical contexts; highly attested as `Phenomena` / `phenomena` in the source. |
+| ganthā       | knots            | attested | Standard rendering of `gantha` as *knot* (BB curated); attested as `knots` in the source.                               |
+| hetū         | roots            | attested | Standard rendering of `hetu` as *root* (BB curated); attested as `roots` in the source.                                 |
+| kilesā       | defilements      | attested | Standard rendering of `kilesa` as *defilement* (BB curated); attested as `defilements` in the source.                   |
+| no           | not              | attested | Standard negative particle; highly attested as `not` in the source.                                                     |
+| nīvaraṇā     | hindrances       | attested | Standard rendering of `nīvaraṇa` as *hindrance* (BB curated); attested as `hindrances` in the source.                   |
+| oghā         | floods           | attested | Standard rendering of `ogha` as *flood* (BB curated); attested as `floods` in the source.                               |
+| saṃyojanā    | fetters          | attested | Standard rendering of `saṃyojana` as *fetter* (BB curated); attested as `fetters` in the source.                        |
+| upādānā      | clinging         | attested | Standard rendering of `upādāna` as *clinging* (BB curated); attested as `clinging_itself` in the source.                |
+| yogā         | yokes            | attested | Mandated by `requirements.md` §1.2 and locked as *yoke* (Daily Tipitaka); attested as `yokes` in the source.            |
+| āsavā        | taints           | attested | Standard rendering of `āsava` as *taint* (BB curated); attested as `taints` in the source.                              |
 
 ---
 
