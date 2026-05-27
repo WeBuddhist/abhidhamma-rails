@@ -124,7 +124,7 @@ Generated outputs — translations, adaptations, lesson plans, study guides, dai
     └── [plan-id]/
         ├── requirements.md
         ├── termbase.md
-        ├── schedule/, plans/, days/, communications/, assets/
+        ├── schedule/, plans/, days/, communication/, assets/
         └── …
 ```
 

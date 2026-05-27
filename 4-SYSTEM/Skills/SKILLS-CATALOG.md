@@ -54,7 +54,14 @@ These skills populate `2-RAILS/` with the structured context that translation an
 **Inputs:** All raw summary files for the target node under `2-RAILS/Sections/Raw/`.
 **Outputs:** One combined file at `2-RAILS/Sections/<node-id>.md` containing the original-language synthesis and an English translation.
 **Rules:** Use only the terminology the commentary itself uses. No translation. No paraphrase beyond compression. Every claim cites a block ID from the source file.
-→ [`section-summary-combined/SKILL.md`](section-summary-combined/SKILL.md)
+→ [`section-summary-combined/SKILL.md`](4-SYSTEM/Skills/section-summary-raw/section-summary-combined/SKILL.md)
+
+### `atthakatha-summaries` **[exists]**
+**Purpose:** Create structured Pāli-language introductory summaries for each TOC node in a root text, drawn strictly from the Aṭṭhakathā. Produces or extends the consolidated summaries file at `2-RAILS/Sections/<text-name>-summaries.md`, with a full TOC block, hierarchical block IDs, back-links, summary paragraphs, and block-level citations.
+**Inputs:** Root text in `1-SOURCES/Text/`; corresponding Aṭṭhakathā in `1-SOURCES/Commentaries/`; existing summaries file (if any) at `2-RAILS/Sections/<text-name>-summaries.md`.
+**Outputs:** Updated `2-RAILS/Sections/<text-name>-summaries.md` with new or extended TOC entries and Pāli summary paragraphs, each citing at least one block ID from the source commentary.
+**Rules:** Summaries written in Pāli using the commentary's own vocabulary. No English. No parametric knowledge. Every paragraph cites a specific block ID.
+→ [`atthakatha-summaries/SKILL.md`](atthakatha-summaries/SKILL.md)
 
 ### `practice-summaries` **[exists]**
 **Purpose:** Extract practical information from commentaries to provide guidance on doing less harm, doing more good, and cultivating the mind based on the root text.
@@ -165,3 +172,28 @@ Creates or updates Obsidian frontmatter properties on a file.
 ### `structural-outline-ingest` **[exists]**
 Ingests a structural outline (TOC) into a source or rails file.
 → [`structural-outline-ingest/SKILL.md`](structural-outline-ingest/SKILL.md)
+
+---
+
+## System skills
+
+These skills operate on the vault's own structure — creating new skills, maintaining registrations, and auditing integrity. They are meta-level tools for contributors, not pipeline steps.
+
+### `create-skill` **[exists]**
+**Purpose:** Scaffold a new skill completely and correctly in a single pass — creates the SKILL.md, registers it in SKILLS-CATALOG.md, creates the slash command file, and optionally adds it to the CLAUDE.md quick-reference table.
+**Inputs:** Skill name, purpose sentence, catalog section, inputs/outputs description, and whether it belongs in the CLAUDE.md §12 table.
+**Outputs:** `4-SYSTEM/Skills/<skill-name>/SKILL.md`, a new catalog entry, `.claude/commands/<skill-name>.md`, and optionally a new §12 table row in `4-SYSTEM/CLAUDE.md`.
+→ [`create-skill/SKILL.md`](create-skill/SKILL.md)
+
+---
+
+## Maintenance skills
+
+These skills check and report on vault integrity. They are read-only and safe to run on a schedule. They never modify vault content — they produce reports for human action.
+
+### `vault-audit` **[exists]**
+**Purpose:** Read-only weekly audit of the vault. Checks that every skill folder is registered in the catalog and has a command file; that 2-RAILS and 3-TRANSFORMATIONS files have required frontmatter; that no 3-TRANSFORMATIONS file references 1-SOURCES directly; that no complete output depends on a draft rail; that 0-INBOX/temp/ has no stale files; and that no internal wiki links are dead.
+**Inputs:** None — operates on the vault as a whole.
+**Outputs:** One dated report at `0-INBOX/vault-audit-<YYYY-MM-DD>.md` with checkboxed issues per category.
+**Rules:** Never writes to any file other than the report. Reports every issue with exact file paths. A clean run is a valid and expected output.
+→ [`vault-audit/SKILL.md`](vault-audit/SKILL.md)
