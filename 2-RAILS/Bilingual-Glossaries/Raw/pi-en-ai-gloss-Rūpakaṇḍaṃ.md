@@ -32,7 +32,7 @@ status: draft
 
 ```gloss
 \gla    Tividhena   rūpasaṅgaho   Yaṃ   taṃ   rūpaṃ   ajjhattikaṃ   taṃ   upādā   Yaṃ   taṃ   rūpaṃ   bāhiraṃ   taṃ   atthi   upādā   atthi   no   upādā   Yaṃ   taṃ   rūpaṃ   ajjhattikaṃ   taṃ   upādiṇṇaṃ   Yaṃ   taṃ   rūpaṃ   bāhiraṃ   taṃ   atthi   upādiṇṇaṃ   atthi   anupādiṇṇaṃ   Yaṃ   taṃ   rūpaṃ   ajjhattikaṃ   taṃ   upādiṇṇupādāniyaṃ   Yaṃ   taṃ   rūpaṃ   bāhiraṃ   taṃ   atthi   upādiṇṇupādāniyaṃ   atthi   anupādiṇṇupādāniyaṃ   Yaṃ   taṃ   rūpaṃ   ajjhattikaṃ   taṃ   anidassanaṃ   Yaṃ   taṃ   rūpaṃ   bāhiraṃ   taṃ   atthi   sanidassanaṃ   atthi   anidassanaṃ   Yaṃ   taṃ   rūpaṃ   ajjhattikaṃ   taṃ   sappaṭighaṃ   Yaṃ   taṃ   rūpaṃ   bāhiraṃ   taṃ   atthi   sappaṭighaṃ   atthi   appaṭighaṃ   Yaṃ   taṃ   rūpaṃ   ajjhattikaṃ   taṃ   indriyaṃ   Yaṃ   taṃ   rūpaṃ   bāhiraṃ   taṃ   atthi   indriyaṃ   atthi   na   indriyaṃ   Yaṃ   taṃ   rūpaṃ   ajjhattikaṃ   taṃ   na   mahābhūtaṃ   Yaṃ   taṃ   rūpaṃ   bāhiraṃ   taṃ   atthi   mahābhūtaṃ   atthi   na   mahābhūtaṃ   Yaṃ   taṃ   rūpaṃ   ajjhattikaṃ   taṃ   na   viññatti   Yaṃ   taṃ   rūpaṃ   bāhiraṃ   taṃ   atthi   viññatti   atthi   na   viññatti   Yaṃ   taṃ   rūpaṃ   ajjhattikaṃ   taṃ   na   cittasamuṭṭhānaṃ   Yaṃ   taṃ   rūpaṃ   bāhiraṃ   taṃ   atthi   cittasamuṭṭhānaṃ   atthi   na   cittasamuṭṭhānaṃ   Yaṃ   taṃ   rūpaṃ   ajjhattikaṃ   taṃ   na   cittasahabhu   Yaṃ   taṃ   rūpaṃ   bāhiraṃ   taṃ   atthi   cittasahabhu   atthi   na   cittasahabhu   Yaṃ   taṃ   rūpaṃ   ajjhattikaṃ   taṃ   na   cittānuparivatti   Yaṃ   taṃ   rūpaṃ   bāhiraṃ   taṃ   atthi   cittānuparivatti   atthi   na   cittānuparivatti   Yaṃ   taṃ   rūpaṃ   ajjhattikaṃ   taṃ   oḷārikaṃ   Yaṃ   taṃ   rūpaṃ   bāhiraṃ   taṃ   atthi   oḷārikaṃ   atthi   sukhumaṃ   Yaṃ   taṃ   rūpaṃ   ajjhattikaṃ   taṃ   santike   Yaṃ   taṃ   rūpaṃ   bāhiraṃ   taṃ   atthi   dūre   atthi   santike   Yaṃ   taṃ   rūpaṃ   bāhiraṃ   taṃ   cakkhusamphassassa   na   vatthu   Yaṃ   taṃ   rūpaṃ   ajjhattikaṃ   taṃ   atthi   cakkhusamphassassa   vatthu   atthi   cakkhusamphassassa   na   vatthu   Yaṃ   taṃ   rūpaṃ   bāhiraṃ   taṃ   cakkhusamphassajāya   vedanāya…pe…   saññāya…pe…   cetanāya…pe…   cakkhuviññāṇassa   na   vatthu   Yaṃ   taṃ   rūpaṃ   ajjhattikaṃ   taṃ   atthi   cakkhuviññāṇassa   vatthu   atthi   cakkhuviññāṇassa   na   vatthu   Yaṃ   taṃ   rūpaṃ   bāhiraṃ   taṃ   sotasamphassassa…pe…   ghānasamphassassa…pe…   jivhāsamphassassa…pe…   kāyasamphassassa   na   vatthu   Yaṃ   taṃ   rūpaṃ   ajjhattikaṃ   taṃ   atthi   kāyasamphassassa   vatthu   atthi   kāyasamphassassa   na   vatthu   Yaṃ   taṃ   rūpaṃ   bāhiraṃ   taṃ   kāyasamphassajāya   vedanāya…pe…   saññāya…pe…   cetanāya…pe…   kāyaviññāṇassa   na   vatthu   Yaṃ   taṃ   rūpaṃ   ajjhattikaṃ   taṃ   atthi   kāyaviññāṇassa   vatthu   atthi   kāyaviññāṇassa   na   vatthu   Yaṃ   taṃ   rūpaṃ   ajjhattikaṃ   taṃ   cakkhusamphassassa   nārammaṇaṃ   Yaṃ   taṃ   rūpaṃ   bāhiraṃ   taṃ   atthi   cakkhusamphassassa   ārammaṇaṃ   atthi   cakkhusamphassassa   nārammaṇaṃ   Yaṃ   taṃ   rūpaṃ   ajjhattikaṃ   taṃ   cakkhusamphassajāya   vedanāya…pe…   saññāya…pe…   cetanāya…pe…   cakkhuviññāṇassa   nārammaṇaṃ   Yaṃ   taṃ   rūpaṃ   bāhiraṃ   taṃ   atthi   cakkhuviññāṇassa   ārammaṇaṃ   atthi   cakkhuviññāṇassa   nārammaṇaṃ   Yaṃ   taṃ   rūpaṃ   ajjhattikaṃ   taṃ   sotasamphassassa…pe…   ghānasamphassassa…pe…   jivhāsamphassassa…pe…   kāyasamphassassa   nārammaṇaṃ   Yaṃ   taṃ   rūpaṃ   bāhiraṃ   taṃ   atthi   kāyasamphassassa   ārammaṇaṃ   atthi   kāyasamphassassa   nārammaṇaṃ   Yaṃ   taṃ   rūpaṃ   ajjhattikaṃ   taṃ   kāyasamphassajāya   vedanāya…pe…   saññāya…pe…   cetanāya…pe…   kāyaviññāṇassa   nārammaṇaṃ   Yaṃ   taṃ   rūpaṃ   bāhiraṃ   taṃ   atthi   kāyaviññāṇassa   ārammaṇaṃ   atthi   kāyaviññāṇassa   nārammaṇaṃ   Yaṃ   taṃ   rūpaṃ   bāhiraṃ   taṃ   na   cakkhāyatanaṃ   Yaṃ   taṃ   rūpaṃ   ajjhattikaṃ   taṃ   atthi   cakkhāyatanaṃ   atthi   na   cakkhāyatanaṃ   Yaṃ   taṃ   rūpaṃ   bāhiraṃ   taṃ   na   sotāyatanaṃ…pe…   na   ghānāyatanaṃ…pe…   na   jivhāyatanaṃ…pe…   na   kāyāyatanaṃ   Yaṃ   taṃ   rūpaṃ   ajjhattikaṃ   taṃ   atthi   kāyāyatanaṃ   atthi   na   kāyāyatanaṃ   Yaṃ   taṃ   rūpaṃ   ajjhattikaṃ   taṃ   na   rūpāyatanaṃ   Yaṃ   taṃ   rūpaṃ   bāhiraṃ   taṃ   atthi   rūpāyatanaṃ   atthi   na   rūpāyatanaṃ   Yaṃ   taṃ   rūpaṃ   ajjhattikaṃ   taṃ   na   saddāyatanaṃ…pe…   na   gandhāyatanaṃ…pe…   na   rasāyatanaṃ…pe…   na   phoṭṭhabbāyatanaṃ   Yaṃ   taṃ   rūpaṃ   bāhiraṃ   taṃ   atthi   phoṭṭhabbāyatanaṃ   atthi   na   phoṭṭhabbāyatanaṃ   Yaṃ   taṃ   rūpaṃ   bāhiraṃ   taṃ   na   cakkhudhātu   Yaṃ   taṃ   rūpaṃ   ajjhattikaṃ   taṃ   atthi   cakkhudhātu   atthi   na   cakkhudhātu   Yaṃ   taṃ   rūpaṃ   bāhiraṃ   taṃ   na   sotadhātu…pe…   na   ghānadhātu…pe…   na   jivhādhātu…pe…   na   kāyadhātu   Yaṃ   taṃ   rūpaṃ   ajjhattikaṃ   taṃ   atthi   kāyadhātu   atthi   na   kāyadhātu   Yaṃ   taṃ   rūpaṃ   ajjhattikaṃ   taṃ   na   rūpadhātu   Yaṃ   taṃ   rūpaṃ   bāhiraṃ   taṃ   atthi   rūpadhātu   atthi   na   rūpadhātu   Yaṃ   taṃ   rūpaṃ   ajjhattikaṃ   taṃ   na   saddadhātu…pe…   na   gandhadhātu…pe…   na   rasadhātu…pe…   na   phoṭṭhabbadhātu   Yaṃ   taṃ   rūpaṃ   bāhiraṃ   taṃ   atthi   phoṭṭhabbadhātu   atthi   na   phoṭṭhabbadhātu   Yaṃ   taṃ   rūpaṃ   bāhiraṃ   taṃ   na   cakkhundriyaṃ   Yaṃ   taṃ   rūpaṃ   ajjhattikaṃ   taṃ   atthi   cakkhundriyaṃ   atthi   na   cakkhundriyaṃ   Yaṃ   taṃ   rūpaṃ   bāhiraṃ   taṃ   na   sotindriyaṃ…pe…   na   ghānindriyaṃ…pe…   na   jivhindriyaṃ…pe…   na   kāyindriyaṃ   Yaṃ   taṃ   rūpaṃ   ajjhattikaṃ   taṃ   atthi   kāyindriyaṃ   atthi   na   kāyindriyaṃ   Yaṃ   taṃ   rūpaṃ   ajjhattikaṃ   taṃ   na   itthindriyaṃ   Yaṃ   taṃ   rūpaṃ   bāhiraṃ   taṃ   atthi   itthindriyaṃ   atthi   na   itthindriyaṃ   Yaṃ   taṃ   rūpaṃ   ajjhattikaṃ   taṃ   na   purisindriyaṃ   Yaṃ   taṃ   rūpaṃ   bāhiraṃ   taṃ   atthi   purisindriyaṃ   atthi   na   purisindriyaṃ   Yaṃ   taṃ   rūpaṃ   ajjhattikaṃ   taṃ   na   jīvitindriyaṃ   Yaṃ   taṃ   rūpaṃ   bāhiraṃ   taṃ   atthi   jīvitindriyaṃ   atthi   na   jīvitindriyaṃ   Yaṃ   taṃ   rūpaṃ   ajjhattikaṃ   taṃ   na   kāyaviññatti   Yaṃ   taṃ   rūpaṃ   bāhiraṃ   taṃ   atthi   kāyaviññatti   atthi   na   kāyaviññatti   Yaṃ   taṃ   rūpaṃ   ajjhattikaṃ   taṃ   na   vacīviññatti   Yaṃ   taṃ   rūpaṃ   bāhiraṃ   taṃ   atthi   vacīviññatti   atthi   na   vacīviññatti   Yaṃ   taṃ   rūpaṃ   ajjhattikaṃ   taṃ   na   ākāsadhātu   Yaṃ   taṃ   rūpaṃ   bāhiraṃ   taṃ   atthi   ākāsadhātu   atthi   na   ākāsadhātu   Yaṃ   taṃ   rūpaṃ   ajjhattikaṃ   taṃ   na   āpodhātu   Yaṃ   taṃ   rūpaṃ   bāhiraṃ   taṃ   atthi   āpodhātu   atthi   na   āpodhātu   Yaṃ   taṃ   rūpaṃ   ajjhattikaṃ   taṃ   rūpassa   na   lahutā   Yaṃ   taṃ   rūpaṃ   bāhiraṃ   taṃ   atthi   rūpassa   lahutā   atthi   rūpassa   na   lahutā   Yaṃ   taṃ   rūpaṃ   ajjhattikaṃ   taṃ   rūpassa   na   mudutā   Yaṃ   taṃ   rūpaṃ   bāhiraṃ   taṃ   atthi   rūpassa   mudutā   atthi   rūpassa   na   mudutā   Yaṃ   taṃ   rūpaṃ   ajjhattikaṃ   taṃ   rūpassa   na   kammaññatā   Yaṃ   taṃ   rūpaṃ   bāhiraṃ   taṃ   atthi   rūpassa   kammaññatā   atthi   rūpassa   na   kammaññatā   Yaṃ   taṃ   rūpaṃ   ajjhattikaṃ   taṃ   rūpassa   na   upacayo   Yaṃ   taṃ   rūpaṃ   bāhiraṃ   taṃ   atthi   rūpassa   upacayo   atthi   rūpassa   na   upacayo   Yaṃ   taṃ   rūpaṃ   ajjhattikaṃ   taṃ   rūpassa   na   santati   Yaṃ   taṃ   rūpaṃ   bāhiraṃ   taṃ   atthi   rūpassa   santati   atthi   rūpassa   na   santati   Yaṃ   taṃ   rūpaṃ   ajjhattikaṃ   taṃ   rūpassa   na   jaratā   Yaṃ   taṃ   rūpaṃ   bāhiraṃ   taṃ   atthi   rūpassa   jaratā   atthi   rūpassa   na   jaratā   Yaṃ   taṃ   rūpaṃ   ajjhattikaṃ   taṃ   rūpassa   na   aniccatā   Yaṃ   taṃ   rūpaṃ   bāhiraṃ   taṃ   atthi   rūpassa   aniccatā   atthi   rūpassa   na   aniccatā   Yaṃ   taṃ   rūpaṃ   ajjhattikaṃ   taṃ   na   kabaḷīkāro   āhāro   Yaṃ   taṃ   rūpaṃ   bāhiraṃ   taṃ   atthi   kabaḷīkāro   āhāro   atthi   na   kabaḷīkāro   āhāro   Evaṃ   tividhena   rūpasaṅgaho   Tikaṃ
-\glb    threefold   collection   That   that   matter   internal   that   clung_to   That   that   matter   external   that   is   clung_to   is   not   clung_to   That   that   matter   internal   that   clung_to   That   that   matter   external   that   is   clung_to   is   --   That   that   matter   internal   that   --   That   that   matter   external   that   is   --   is   --   That   that   matter   internal   that   --   That   that   matter   external   that   is   visible   is   --   That   that   matter   internal   that   impinging   That   that   matter   external   that   is   impinging   is   non-impinging   That   that   matter   internal   that   faculty   That   that   matter   external   that   is   faculty   is   not   faculty   That   that   matter   internal   that   not   great_element   That   that   matter   external   that   is   great_element   is   not   great_element   That   that   matter   internal   that   not   --   That   that   matter   external   that   is   --   is   not   --   That   that   matter   internal   that   not   --   That   that   matter   external   that   is   --   is   not   --   That   that   matter   internal   that   not   --   That   that   matter   external   that   is   --   is   not   --   That   that   matter   internal   that   not   --   That   that   matter   external   that   is   --   is   not   --   That   that   matter   internal   that   gross   That   that   matter   external   that   is   gross   is   subtle   That   that   matter   internal   that   near   That   that   matter   external   that   is   --   is   near   That   that   matter   external   that   --   not   --   That   that   matter   internal   that   is   --   --   is   --   not   --   That   that   matter   external   that   --   --   --   --   --   not   --   That   that   matter   internal   that   is   --   --   is   --   not   --   That   that   matter   external   that   --   --   --   --   not   --   That   that   matter   internal   that   is   --   --   is   --   not   --   That   that   matter   external   that   --   --   --   --   --   not   --   That   that   matter   internal   that   is   --   --   is   --   not   --   That   that   matter   internal   that   --   --   That   that   matter   external   that   is   --   --   is   --   --   That   that   matter   internal   that   --   --   --   --   --   --   That   that   matter   external   that   is   --   --   is   --   --   That   that   matter   internal   that   --   --   --   --   --   That   that   matter   external   that   is   --   --   is   --   --   That   that   matter   internal   that   --   --   --   --   --   --   That   that   matter   external   that   is   --   --   is   --   --   That   that   matter   external   that   not   eye-base   That   that   matter   internal   that   is   eye-base   is   not   eye-base   That   that   matter   external   that   not   --   not   --   not   --   not   body-base   That   that   matter   internal   that   is   body-base   is   not   body-base   That   that   matter   internal   that   not   visible-form-base   That   that   matter   external   that   is   visible-form-base   is   not   visible-form-base   That   that   matter   internal   that   not   --   not   --   not   --   not   tangible-base   That   that   matter   external   that   is   tangible-base   is   not   tangible-base   That   that   matter   external   that   not   eye-element   That   that   matter   internal   that   is   eye-element   is   not   eye-element   That   that   matter   external   that   not   --   not   --   not   --   not   body-element   That   that   matter   internal   that   is   body-element   is   not   body-element   That   that   matter   internal   that   not   visible-form-element   That   that   matter   external   that   is   visible-form-element   is   not   visible-form-element   That   that   matter   internal   that   not   --   not   --   not   --   not   --   That   that   matter   external   that   is   --   is   not   --   That   that   matter   external   that   not   eye-faculty   That   that   matter   internal   that   is   eye-faculty   is   not   eye-faculty   That   that   matter   external   that   not   --   not   --   not   --   not   body-faculty   That   that   matter   internal   that   is   body-faculty   is   not   body-faculty   That   that   matter   internal   that   not   female-faculty   That   that   matter   external   that   is   female-faculty   is   not   female-faculty   That   that   matter   internal   that   not   male-faculty   That   that   matter   external   that   is   male-faculty   is   not   male-faculty   That   that   matter   internal   that   not   life_faculty   That   that   matter   external   that   is   life_faculty   is   not   life_faculty   That   that   matter   internal   that   not   bodily_intimation   That   that   matter   external   that   is   bodily_intimation   is   not   bodily_intimation   That   that   matter   internal   that   not   --   That   that   matter   external   that   is   --   is   not   --   That   that   matter   internal   that   not   space_element   That   that   matter   external   that   is   space_element   is   not   space_element   That   that   matter   internal   that   not   water_element   That   that   matter   external   that   is   water_element   is   not   water_element   That   that   matter   internal   that   of   not   lightness   That   that   matter   external   that   is   of   lightness   is   of   not   lightness   That   that   matter   internal   that   of   not   malleability   That   that   matter   external   that   is   of   malleability   is   of   not   malleability   That   that   matter   internal   that   of   not   wieldiness   That   that   matter   external   that   is   of   wieldiness   is   of   not   wieldiness   That   that   matter   internal   that   of   not   production   That   that   matter   external   that   is   of   production   is   of   not   production   That   that   matter   internal   that   of   not   continuity   That   that   matter   external   that   is   of   continuity   is   of   not   continuity   That   that   matter   internal   that   of   not   decay   That   that   matter   external   that   is   of   decay   is   of   not   decay   That   that   matter   internal   that   of   not   impermanence   That   that   matter   external   that   is   of   impermanence   is   of   not   impermanence   That   that   matter   internal   that   not   edible   food   That   that   matter   external   that   is   edible   food   is   not   edible   food   Thus   --   collection   --
+\glb    threefold   collection   That   that   matter   internal   that   clung_to   That   that   matter   external   that   is   clung_to   is   not   clung_to   That   that   matter   internal   that   clung_to   That   that   matter   external   that   is   clung_to   is   --   That   that   matter   internal   that   clung_to   That   that   matter   external   that   is   clung_to   is   not_clung_to   That   that   matter   internal   that   non-visible   That   that   matter   external   that   is   visible   is   non-visible   That   that   matter   internal   that   impinging   That   that   matter   external   that   is   impinging   is   non-impinging   That   that   matter   internal   that   faculty   That   that   matter   external   that   is   faculty   is   not   faculty   That   that   matter   internal   that   not   great_element   That   that   matter   external   that   is   great_element   is   not   great_element   That   that   matter   internal   that   not   intimation   That   that   matter   external   that   is   intimation   is   not   intimation   That   that   matter   internal   that   not   mind-originated   That   that   matter   external   that   is   mind-originated   is   not   mind-originated   That   that   matter   internal   that   not   co-arises   That   that   matter   external   that   is   co-arises   is   not   co-arises   That   that   matter   internal   that   not   follows   That   that   matter   external   that   is   follows   is   not   follows   That   that   matter   internal   that   gross   That   that   matter   external   that   is   gross   is   subtle   That   that   matter   internal   that   near   That   that   matter   external   that   is   far   is   near   That   that   matter   external   that   eye-contact   not   base   That   that   matter   internal   that   is   eye-contact   base   is   eye-contact   not   base   That   that   matter   external   that   born_of_eye-contact   --   --   --   eye-consciousness   not   base   That   that   matter   internal   that   is   eye-consciousness   base   is   eye-consciousness   not   base   That   that   matter   external   that   --   --   --   body-contact   not   base   That   that   matter   internal   that   is   body-contact   base   is   body-contact   not   base   That   that   matter   external   that   born_of_body-contact   --   --   --   body-consciousness   not   base   That   that   matter   internal   that   is   body-consciousness   base   is   body-consciousness   not   base   That   that   matter   internal   that   eye-contact   object   That   that   matter   external   that   is   eye-contact   object   is   eye-contact   object   That   that   matter   internal   that   born_of_eye-contact   --   --   --   eye-consciousness   object   That   that   matter   external   that   is   eye-consciousness   object   is   eye-consciousness   object   That   that   matter   internal   that   --   --   --   body-contact   object   That   that   matter   external   that   is   body-contact   object   is   body-contact   object   That   that   matter   internal   that   born_of_body-contact   --   --   --   body-consciousness   object   That   that   matter   external   that   is   body-consciousness   object   is   body-consciousness   object   That   that   matter   external   that   not   eye-base   That   that   matter   internal   that   is   eye-base   is   not   eye-base   That   that   matter   external   that   not   --   not   --   not   --   not   body-base   That   that   matter   internal   that   is   body-base   is   not   body-base   That   that   matter   internal   that   not   visible-form-base   That   that   matter   external   that   is   visible-form-base   is   not   visible-form-base   That   that   matter   internal   that   not   --   not   --   not   --   not   tangible-base   That   that   matter   external   that   is   tangible-base   is   not   tangible-base   That   that   matter   external   that   not   eye-element   That   that   matter   internal   that   is   eye-element   is   not   eye-element   That   that   matter   external   that   not   --   not   --   not   --   not   body-element   That   that   matter   internal   that   is   body-element   is   not   body-element   That   that   matter   internal   that   not   visible-form-element   That   that   matter   external   that   is   visible-form-element   is   not   visible-form-element   That   that   matter   internal   that   not   --   not   --   not   --   not   --   That   that   matter   external   that   is   --   is   not   --   That   that   matter   external   that   not   eye-faculty   That   that   matter   internal   that   is   eye-faculty   is   not   eye-faculty   That   that   matter   external   that   not   --   not   --   not   --   not   body-faculty   That   that   matter   internal   that   is   body-faculty   is   not   body-faculty   That   that   matter   internal   that   not   female-faculty   That   that   matter   external   that   is   female-faculty   is   not   female-faculty   That   that   matter   internal   that   not   male-faculty   That   that   matter   external   that   is   male-faculty   is   not   male-faculty   That   that   matter   internal   that   not   life_faculty   That   that   matter   external   that   is   life_faculty   is   not   life_faculty   That   that   matter   internal   that   not   bodily_intimation   That   that   matter   external   that   is   bodily_intimation   is   not   bodily_intimation   That   that   matter   internal   that   not   --   That   that   matter   external   that   is   --   is   not   --   That   that   matter   internal   that   not   space_element   That   that   matter   external   that   is   space_element   is   not   space_element   That   that   matter   internal   that   not   water_element   That   that   matter   external   that   is   water_element   is   not   water_element   That   that   matter   internal   that   of   not   lightness   That   that   matter   external   that   is   of   lightness   is   of   not   lightness   That   that   matter   internal   that   of   not   malleability   That   that   matter   external   that   is   of   malleability   is   of   not   malleability   That   that   matter   internal   that   of   not   wieldiness   That   that   matter   external   that   is   of   wieldiness   is   of   not   wieldiness   That   that   matter   internal   that   of   not   production   That   that   matter   external   that   is   of   production   is   of   not   production   That   that   matter   internal   that   of   not   continuity   That   that   matter   external   that   is   of   continuity   is   of   not   continuity   That   that   matter   internal   that   of   not   decay   That   that   matter   external   that   is   of   decay   is   of   not   decay   That   that   matter   internal   that   of   not   impermanence   That   that   matter   external   that   is   of   impermanence   is   of   not   impermanence   That   that   matter   internal   that   not   edible   food   That   that   matter   external   that   is   edible   food   is   not   edible   food   Thus   threefold   collection   Triads
 \ex     That material phenomenon which is internal, that is clung to. That material phenomenon which is external, that is sometimes clung to, sometimes not clung to. That material phenomenon which is internal, that is kammically produced. That material phenomenon which is external, that is sometimes kammically produced, sometimes not kammically produced. That material phenomenon which is internal, that is kammically produced and clung to. That material phenomenon which is external, that is sometimes kammically produced and clung to, sometimes not kammically produced and not clung to. That material phenomenon which is internal, that is non-visible. That material phenomenon which is external, that is sometimes visible, sometimes non-visible. That material phenomenon which is internal, that is impinging. That material phenomenon which is external, that is sometimes impinging, sometimes non-impinging. That material phenomenon which is internal, that is a faculty. That material phenomenon which is external, that is sometimes a faculty, sometimes not a faculty. That material phenomenon which is internal, that is not a great element. That material phenomenon which is external, that is sometimes a great element, sometimes not a great element. That material phenomenon which is internal, that is not an intimation. That material phenomenon which is external, that is sometimes an intimation, sometimes not an intimation. That material phenomenon which is internal, that is not mind-originated. That material phenomenon which is external, that is sometimes mind-originated, sometimes not mind-originated. That material phenomenon which is internal, that does not co-arise with mind. That material phenomenon which is external, that sometimes co-arises with mind, sometimes does not co-arise with mind. That material phenomenon which is internal, that does not follow the mind. That material phenomenon which is external, that sometimes follows the mind, sometimes does not follow the mind. That material phenomenon which is internal, that is gross. That material phenomenon which is external, that is sometimes gross, sometimes subtle. That material phenomenon which is internal, that is near. That material phenomenon which is external, that is sometimes far, sometimes near. That material phenomenon which is external, that is not a base for eye-contact. That material phenomenon which is internal, that is sometimes a base for eye-contact, sometimes not a base for eye-contact. That material phenomenon which is external, that is not a base for feeling born of eye-contact…pe… perception…pe… volition…pe… eye-consciousness. That material phenomenon which is internal, that is sometimes a base for eye-consciousness, sometimes not a base for eye-consciousness. That material phenomenon which is external, that is not a base for ear-contact…pe… nose-contact…pe… tongue-contact…pe… body-contact. That material phenomenon which is internal, that is sometimes a base for body-contact, sometimes not a base for body-contact. That material phenomenon which is external, that is not a base for feeling born of body-contact…pe… perception…pe… volition…pe… body-consciousness. That material phenomenon which is internal, that is sometimes a base for body-consciousness, sometimes not a base for body-consciousness. That material phenomenon which is internal, that is not an object for eye-contact. That material phenomenon which is external, that is sometimes an object for eye-contact, sometimes not an object for eye-contact. That material phenomenon which is internal, that is not an object for feeling born of eye-contact…pe… perception…pe… volition…pe… eye-consciousness. That material phenomenon which is external, that is sometimes an object for eye-consciousness, sometimes not an object for eye-consciousness. That material phenomenon which is internal, that is not an object for ear-contact…pe… nose-contact…pe… tongue-contact…pe… body-contact. That material phenomenon which is external, that is sometimes an object for body-contact, sometimes not an object for body-contact. That material phenomenon which is internal, that is not an object for feeling born of body-contact…pe… perception…pe… volition…pe… body-consciousness. That material phenomenon which is external, that is sometimes an object for body-consciousness, sometimes not an object for body-consciousness. That material phenomenon which is external, that is not the eye-base. That material phenomenon which is internal, that is sometimes the eye-base, sometimes not the eye-base. That material phenomenon which is external, that is not the ear-base…pe… not the nose-base…pe… not the tongue-base…pe… not the body-base. That material phenomenon which is internal, that is sometimes the body-base, sometimes not the body-base. That material phenomenon which is internal, that is not the visible-form-base. That material phenomenon which is external, that is sometimes the visible-form-base, sometimes not the visible-form-base. That material phenomenon which is internal, that is not the sound-base…pe… not the smell-base…pe… not the taste-base…pe… not the tangible-base. That material phenomenon which is external, that is sometimes the tangible-base, sometimes not the tangible-base. That material phenomenon which is external, that is not the eye-element. That material phenomenon which is internal, that is sometimes the eye-element, sometimes not the eye-element. That material phenomenon which is external, that is not the ear-element…pe… not the nose-element…pe… not the tongue-element…pe… not the body-element. That material phenomenon which is internal, that is sometimes the body-element, sometimes not the body-element. That material phenomenon which is internal, that is not the visible-form-element. That material phenomenon which is external, that is sometimes the visible-form-element, sometimes not the visible-form-element. That material phenomenon which is internal, that is not the sound-element…pe… not the smell-element…pe… not the taste-element…pe… not the tangible-element. That material phenomenon which is external, that is sometimes the tangible-element, sometimes not the tangible-element. That material phenomenon which is external, that is not the eye-faculty. That material phenomenon which is internal, that is sometimes the eye-faculty, sometimes not the eye-faculty. That material phenomenon which is external, that is not the ear-faculty…pe… not the nose-faculty…pe… not the tongue-faculty…pe… not the body-faculty. That material phenomenon which is internal, that is sometimes the body-faculty, sometimes not the body-faculty. That material phenomenon which is internal, that is not the female faculty. That material phenomenon which is external, that is sometimes the female faculty, sometimes not the female faculty. That material phenomenon which is internal, that is not the male faculty. That material phenomenon which is external, that is sometimes the male faculty, sometimes not the male faculty. That material phenomenon which is internal, that is not the life faculty. That material phenomenon which is external, that is sometimes the life faculty, sometimes not the life faculty. That material phenomenon which is internal, that is not bodily intimation. That material phenomenon which is external, that is sometimes bodily intimation, sometimes not bodily intimation. That material phenomenon which is internal, that is not verbal intimation. That material phenomenon which is external, that is sometimes verbal intimation, sometimes not verbal intimation. That material phenomenon which is internal, that is not the space element. That material phenomenon which is external, that is sometimes the space element, sometimes not the space element. That material phenomenon which is internal, that is not the water element. That material phenomenon which is external, that is sometimes the water element, sometimes not the water element. That material phenomenon which is internal, that is not the lightness of matter. That material phenomenon which is external, that is sometimes the lightness of matter, sometimes not the lightness of matter. That material phenomenon which is internal, that is not the malleability of matter. That material phenomenon which is external, that is sometimes the malleability of matter, sometimes not the malleability of matter. That material phenomenon which is internal, that is not the wieldiness of matter. That material phenomenon which is external, that is sometimes the wieldiness of matter, sometimes not the wieldiness of matter. That material phenomenon which is internal, that is not the production of matter. That material phenomenon which is external, that is sometimes the production of matter, sometimes not the production of matter. That material phenomenon which is internal, that is not the continuity of matter. That material phenomenon which is external, that is sometimes the continuity of matter, sometimes not the continuity of matter. That material phenomenon which is internal, that is not the decay of matter. That material phenomenon which is external, that is sometimes the decay of matter, sometimes not the decay of matter. That material phenomenon which is internal, that is not the impermanence of matter. That material phenomenon which is external, that is sometimes the impermanence of matter, sometimes not the impermanence of matter. That material phenomenon which is internal, that is not edible food. That material phenomenon which is external, that is sometimes edible food, sometimes not edible food. Thus, the collection of material phenomena is threefold. Triads.
 ```
 
@@ -40,7 +40,7 @@ status: draft
 
 ```gloss
 \gla    Catubbidhena   rūpasaṅgaho   Yaṃ   taṃ   rūpaṃ   upādā   taṃ   atthi   upādiṇṇaṃ   atthi   anupādiṇṇaṃ   Yaṃ   taṃ   rūpaṃ   no   upādā   taṃ   atthi   upādiṇṇaṃ   atthi   anupādiṇṇaṃ   Yaṃ   taṃ   rūpaṃ   upādā   taṃ   atthi   upādiṇṇupādāniyaṃ   atthi   anupādiṇṇupādāniyaṃ   Yaṃ   taṃ   rūpaṃ   no   upādā   taṃ   atthi   upādiṇṇupādāniyaṃ   atthi   anupādiṇṇupādāniyaṃ   Yaṃ   taṃ   rūpaṃ   upādā   taṃ   atthi   sappaṭighaṃ   atthi   appaṭighaṃ   Yaṃ   taṃ   rūpaṃ   no   upādā   taṃ   atthi   sappaṭighaṃ   atthi   appaṭighaṃ   Yaṃ   taṃ   rūpaṃ   upādā   taṃ   atthi   oḷārikaṃ   atthi   sukhumaṃ   Yaṃ   taṃ   rūpaṃ   no   upādā   taṃ   atthi   oḷārikaṃ   atthi   sukhumaṃ   Yaṃ   taṃ   rūpaṃ   upādā   taṃ   atthi   dūre   atthi   santike   Yaṃ   taṃ   rūpaṃ   no   upādā   taṃ   atthi   dūre   atthi   santike   Yaṃ   taṃ   rūpaṃ   upādiṇṇaṃ   taṃ   atthi   sanidassanaṃ   atthi   anidassanaṃ   Yaṃ   taṃ   rūpaṃ   anupādiṇṇaṃ   taṃ   atthi   sanidassanaṃ   atthi   anidassanaṃ   Yaṃ   taṃ   rūpaṃ   upādiṇṇaṃ   taṃ   atthi   sappaṭighaṃ   atthi   appaṭighaṃ   Yaṃ   taṃ   rūpaṃ   anupādiṇṇaṃ   taṃ   atthi   sappaṭighaṃ   atthi   appaṭighaṃ   Yaṃ   taṃ   rūpaṃ   upādiṇṇaṃ   taṃ   atthi   mahābhūtaṃ   atthi   na   mahābhūtaṃ   Yaṃ   taṃ   rūpaṃ   anupādiṇṇaṃ   taṃ   atthi   mahābhūtaṃ   atthi   na   mahābhūtaṃ   Yaṃ   taṃ   rūpaṃ   upādiṇṇaṃ   taṃ   atthi   oḷārikaṃ   atthi   sukhumaṃ   Yaṃ   taṃ   rūpaṃ   anupādiṇṇaṃ   taṃ   atthi   oḷārikaṃ   atthi   sukhumaṃ   Yaṃ   taṃ   rūpaṃ   upādiṇṇaṃ   taṃ   atthi   dūre   atthi   santike   Yaṃ   taṃ   rūpaṃ   anupādiṇṇaṃ   taṃ   atthi   dūre   atthi   santike   Yaṃ   taṃ   rūpaṃ   upādiṇṇupādāniyaṃ   taṃ   atthi   sanidassanaṃ   atthi   anidassanaṃ   Yaṃ   taṃ   rūpaṃ   anupādiṇṇupādāniyaṃ   taṃ   atthi   sanidassanaṃ   atthi   anidassanaṃ   Yaṃ   taṃ   rūpaṃ   upādiṇṇupādāniyaṃ   taṃ   atthi   sappaṭighaṃ   atthi   appaṭighaṃ   Yaṃ   taṃ   rūpaṃ   anupādiṇṇupādāniyaṃ   taṃ   atthi   sappaṭighaṃ   atthi   appaṭighaṃ   Yaṃ   taṃ   rūpaṃ   upādiṇṇupādāniyaṃ   taṃ   atthi   mahābhūtaṃ   atthi   na   mahābhūtaṃ   Yaṃ   taṃ   rūpaṃ   anupādiṇṇupādāniyaṃ   taṃ   atthi   mahābhūtaṃ   atthi   na   mahābhūtaṃ   Yaṃ   taṃ   rūpaṃ   upādiṇṇupādāniyaṃ   taṃ   atthi   oḷārikaṃ   atthi   sukhumaṃ   Yaṃ   taṃ   rūpaṃ   anupādiṇṇupādāniyaṃ   taṃ   atthi   oḷārikaṃ   atthi   sukhumaṃ   Yaṃ   taṃ   rūpaṃ   upādiṇṇupādāniyaṃ   taṃ   atthi   dūre   atthi   santike   Yaṃ   taṃ   rūpaṃ   anupādiṇṇupādāniyaṃ   taṃ   atthi   dūre   atthi   santike   Yaṃ   taṃ   rūpaṃ   sappaṭighaṃ   taṃ   atthi   indriyaṃ   atthi   na   indriyaṃ   Yaṃ   taṃ   rūpaṃ   appaṭighaṃ   taṃ   atthi   indriyaṃ   atthi   na   indriyaṃ   Yaṃ   taṃ   rūpaṃ   sappaṭighaṃ   taṃ   atthi   mahābhūtaṃ   atthi   na   mahābhūtaṃ   Yaṃ   taṃ   rūpaṃ   appaṭighaṃ   taṃ   atthi   mahābhūtaṃ   atthi   na   mahābhūtaṃ   Yaṃ   taṃ   rūpaṃ   indriyaṃ   taṃ   atthi   oḷārikaṃ   atthi   sukhumaṃ   Yaṃ   taṃ   rūpaṃ   na   indriyaṃ   taṃ   atthi   oḷārikaṃ   atthi   sukhumaṃ   Yaṃ   taṃ   rūpaṃ   indriyaṃ   taṃ   atthi   dūre   atthi   santike   Yaṃ   taṃ   rūpaṃ   na   indriyaṃ   taṃ   atthi   dūre   atthi   santike   Yaṃ   taṃ   rūpaṃ   mahābhūtaṃ   taṃ   atthi   oḷārikaṃ   atthi   sukhumaṃ   Yaṃ   taṃ   rūpaṃ   na   mahābhūtaṃ   taṃ   atthi   oḷārikaṃ   atthi   sukhumaṃ   Yaṃ   taṃ   rūpaṃ   mahābhūtaṃ   taṃ   atthi   dūre   atthi   santike   Yaṃ   taṃ   rūpaṃ   na   mahābhūtaṃ   taṃ   atthi   dūre   atthi   santike   Diṭṭhaṃ   sutaṃ   mutaṃ   viññātaṃ   rūpaṃ   Evaṃ   catubbidhena   rūpasaṅgaho   Catukkaṃ
-\glb    fourfold   compendium   That   that   matter   derived   that   is   grasped   is   not_grasped   That   that   matter   not   derived   that   is   grasped   is   not_grasped   That   that   matter   derived   that   is   grasped   is   --   That   that   matter   not   derived   that   is   grasped   is   --   That   that   matter   derived   that   is   --   is   --   That   that   matter   not   derived   that   is   --   is   --   That   that   matter   derived   that   is   gross   is   subtle   That   that   matter   not   derived   that   is   gross   is   subtle   That   that   matter   derived   that   is   --   is   near   That   that   matter   not   derived   that   is   --   is   near   That   that   matter   grasped   that   is   visible   is   invisible   That   that   matter   not_grasped   that   is   visible   is   invisible   That   that   matter   grasped   that   is   --   is   --   That   that   matter   not_grasped   that   is   --   is   --   That   that   matter   grasped   that   is   great_element   is   not   great_element   That   that   matter   not_grasped   that   is   great_element   is   not   great_element   That   that   matter   grasped   that   is   gross   is   subtle   That   that   matter   not_grasped   that   is   gross   is   subtle   That   that   matter   grasped   that   is   --   is   near   That   that   matter   not_grasped   that   is   --   is   near   That   that   matter   grasped   that   is   visible   is   invisible   That   that   matter   --   that   is   visible   is   invisible   That   that   matter   grasped   that   is   --   is   --   That   that   matter   --   that   is   --   is   --   That   that   matter   grasped   that   is   great_element   is   not   great_element   That   that   matter   --   that   is   great_element   is   not   great_element   That   that   matter   grasped   that   is   gross   is   subtle   That   that   matter   --   that   is   gross   is   subtle   That   that   matter   grasped   that   is   --   is   near   That   that   matter   --   that   is   --   is   near   That   that   matter   --   that   is   faculty   is   not   faculty   That   that   matter   --   that   is   faculty   is   not   faculty   That   that   matter   --   that   is   great_element   is   not   great_element   That   that   matter   --   that   is   great_element   is   not   great_element   That   that   matter   faculty   that   is   gross   is   subtle   That   that   matter   not   faculty   that   is   gross   is   subtle   That   that   matter   faculty   that   is   --   is   near   That   that   matter   not   faculty   that   is   --   is   near   That   that   matter   great_element   that   is   gross   is   subtle   That   that   matter   not   great_element   that   is   gross   is   subtle   That   that   matter   great_element   that   is   --   is   near   That   that   matter   not   great_element   that   is   --   is   near   --   --   --   --   matter   Thus   fourfold   compendium   --
+\glb    fourfold   compendium   That   that   matter   derived   that   is   grasped   is   not_grasped   That   that   matter   not   derived   that   is   grasped   is   not_grasped   That   that   matter   derived   that   is   grasped   is   --   That   that   matter   not   derived   that   is   grasped   is   --   That   that   matter   derived   that   is   --   is   --   That   that   matter   not   derived   that   is   --   is   --   That   that   matter   derived   that   is   gross   is   subtle   That   that   matter   not   derived   that   is   gross   is   subtle   That   that   matter   derived   that   is   far   is   near   That   that   matter   not   derived   that   is   far   is   near   That   that   matter   grasped   that   is   visible   is   invisible   That   that   matter   not_grasped   that   is   visible   is   invisible   That   that   matter   grasped   that   is   --   is   --   That   that   matter   not_grasped   that   is   --   is   --   That   that   matter   grasped   that   is   great_element   is   not   great_element   That   that   matter   not_grasped   that   is   great_element   is   not   great_element   That   that   matter   grasped   that   is   gross   is   subtle   That   that   matter   not_grasped   that   is   gross   is   subtle   That   that   matter   grasped   that   is   far   is   near   That   that   matter   not_grasped   that   is   far   is   near   That   that   matter   grasped   that   is   visible   is   invisible   That   that   matter   --   that   is   visible   is   invisible   That   that   matter   grasped   that   is   --   is   --   That   that   matter   --   that   is   --   is   --   That   that   matter   grasped   that   is   great_element   is   not   great_element   That   that   matter   --   that   is   great_element   is   not   great_element   That   that   matter   grasped   that   is   gross   is   subtle   That   that   matter   --   that   is   gross   is   subtle   That   that   matter   grasped   that   is   far   is   near   That   that   matter   --   that   is   far   is   near   That   that   matter   --   that   is   faculty   is   not   faculty   That   that   matter   --   that   is   faculty   is   not   faculty   That   that   matter   --   that   is   great_element   is   not   great_element   That   that   matter   --   that   is   great_element   is   not   great_element   That   that   matter   faculty   that   is   gross   is   subtle   That   that   matter   not   faculty   that   is   gross   is   subtle   That   that   matter   faculty   that   is   far   is   near   That   that   matter   not   faculty   that   is   far   is   near   That   that   matter   great_element   that   is   gross   is   subtle   That   that   matter   not   great_element   that   is   gross   is   subtle   That   that   matter   great_element   that   is   far   is   near   That   that   matter   not   great_element   that   is   far   is   near   --   --   --   --   matter   Thus   fourfold   compendium   --
 \ex     Whatever matter is derived, that is grasped, that is not grasped. Whatever matter is not derived, that is grasped, that is not grasped. Whatever matter is derived, that is grasped and graspable, that is not grasped and not graspable. Whatever matter is not derived, that is grasped and graspable, that is not grasped and not graspable. Whatever matter is derived, that is with impact, that is without impact. Whatever matter is not derived, that is with impact, that is without impact. Whatever matter is derived, that is gross, that is subtle. Whatever matter is not derived, that is gross, that is subtle. Whatever matter is derived, that is far, that is near. Whatever matter is not derived, that is far, that is near. Whatever matter is grasped, that is visible, that is invisible. Whatever matter is not grasped, that is visible, that is invisible. Whatever matter is grasped, that is with impact, that is without impact. Whatever matter is not grasped, that is with impact, that is without impact. Whatever matter is grasped, that is a great element, that is not a great element. Whatever matter is not grasped, that is a great element, that is not a great element. Whatever matter is grasped, that is gross, that is subtle. Whatever matter is not grasped, that is gross, that is subtle. Whatever matter is grasped, that is far, that is near. Whatever matter is not grasped, that is far, that is near. Whatever matter is grasped and graspable, that is visible, that is invisible. Whatever matter is not grasped and not graspable, that is visible, that is invisible. Whatever matter is grasped and graspable, that is with impact, that is without impact. Whatever matter is not grasped and not graspable, that is with impact, that is without impact. Whatever matter is grasped and graspable, that is a great element, that is not a great element. Whatever matter is not grasped and not graspable, that is a great element, that is not a great element. Whatever matter is grasped and graspable, that is gross, that is subtle. Whatever matter is not grasped and not graspable, that is gross, that is subtle. Whatever matter is grasped and graspable, that is far, that is near. Whatever matter is not grasped and not graspable, that is far, that is near. Whatever matter is with impact, that is a faculty, that is not a faculty. Whatever matter is without impact, that is a faculty, that is not a faculty. Whatever matter is with impact, that is a great element, that is not a great element. Whatever matter is without impact, that is a great element, that is not a great element. Whatever matter is a faculty, that is gross, that is subtle. Whatever matter is not a faculty, that is gross, that is subtle. Whatever matter is a faculty, that is far, that is near. Whatever matter is not a faculty, that is far, that is near. Whatever matter is a great element, that is gross, that is subtle. Whatever matter is not a great element, that is gross, that is subtle. Whatever matter is a great element, that is far, that is near. Whatever matter is not a great element, that is far, that is near. Visible, audible, olfactory, gustatory, tactile, and cognizable matter. Thus is the fourfold compendium of matter. The Fourfold.
 ```
 
@@ -136,7 +136,7 @@ status: draft
 
 ```gloss
 \gla    Katamaṃ   taṃ   rūpaṃ   cakkhāyatanaṃ   Yaṃ   cakkhu   catunnaṃ   mahābhūtānaṃ   upādāya   pasādo   attabhāvapariyāpanno   anidassano   sappaṭigho   yaṃ   cakkhu   anidassanaṃ   sappaṭighaṃ   rūpamhi   sanidassanamhi   sappaṭighamhi   paṭihaññi   vā   paṭihaññati   vā   paṭihaññissati   vā   paṭihaññe   vā   cakkhuṃ   petaṃ   cakkhāyatanaṃ   petaṃ   cakkhudhātu   pesā   cakkhundriyaṃ   petaṃ   loko   peso   dvārā   pesā   samuddo   peso   paṇḍaraṃ   petaṃ   khettaṃ   petaṃ   vatthuṃ   petaṃ   nettaṃ   petaṃ   nayanaṃ   petaṃ   orimaṃ   tīraṃ   petaṃ   suñño   gāmo   peso   idaṃ   taṃ   rūpaṃ   cakkhāyatanaṃ
-\glb    What   that   matter   eye-base   That   eye   four   great_elements   derived   sensitive_matter   included   invisible   --   that   eye   invisible   with_impingement   matter   visible   --   impinged   or   impinges   or   will_impinge   or   --   or   eye   this   eye-base   this   eye-element   this   eye-faculty   this   world   this   door   this   ocean   this   --   this   field   this   base   this   --   this   --   this   --   shore   this   empty   village   this   this   that   matter   eye-base
+\glb    What   that   matter   eye-base   That   eye   four   great_elements   derived   sensitive_matter   included   invisible   with_impingement   that   eye   invisible   with_impingement   matter   visible   with_impingement   impinged   or   impinges   or   will_impinge   or   --   or   eye   this   eye-base   this   eye-element   this   eye-faculty   this   world   this   door   this   ocean   this   white   this   field   this   base   this   eye   this   eye   this   near_shore   shore   this   empty   village   this   this   that   matter   eye-base
 \ex     What is that material phenomenon, the eye-base? That eye, which is sensitive matter derived from the four great elements, included in one's own being, invisible, and with impingement, and that eye, invisible and with impingement, impinged upon, impinges upon, will impinge upon, or might impinge upon visible form, which is visible and with impingement—this is the eye, this is the eye-base, this is the eye-element, this is the eye-faculty, this is the world, this is a door, this is an ocean, this is white, this is a field, this is a base, this is the eye, this is the eye, this is the near shore, this is an empty village—this is that material phenomenon, the eye-base.
 ```
 
@@ -144,7 +144,7 @@ status: draft
 
 ```gloss
 \gla    Katamaṃ   taṃ   rūpaṃ   cakkhāyatanaṃ   Yaṃ   cakkhu   catunnaṃ   mahābhūtānaṃ   upādāya   pasādo   attabhāvapariyāpanno   anidassano   sappaṭigho   yaṃ   cakkhuṃ   nissāya   rūpaṃ   ārabbha   cakkhusamphasso   uppajji   vā   uppajjati   vā   uppajjissati   vā   uppajje   vā…pe…   yaṃ   cakkhuṃ   nissāya   rūpaṃ   ārabbha   cakkhusamphassajā   vedanā…pe…   saññā…pe…   cetanā…pe…   cakkhuviññāṇaṃ   uppajji   vā   uppajjati   vā   uppajjissati   vā   uppajje   vā…pe…   yaṃ   cakkhuṃ   nissāya   rūpārammaṇo   cakkhusamphasso   uppajji   vā   uppajjati   vā   uppajjissati   vā   uppajje   vā…pe…   yaṃ   cakkhuṃ   nissāya   rūpārammaṇā   cakkhusamphassajā   vedanā…pe…   saññā…pe…   cetanā…pe…   cakkhuviññāṇaṃ   uppajji   vā   uppajjati   vā   uppajjissati   vā   uppajje   vā   cakkhuṃ   petaṃ   cakkhāyatanaṃ   petaṃ   cakkhudhātu   pesā   cakkhundriyaṃ   petaṃ   loko   peso   dvārā   pesā   samuddo   peso   paṇḍaraṃ   petaṃ   khettaṃ   petaṃ   vatthuṃ   petaṃ   nettaṃ   petaṃ   nayanaṃ   petaṃ   orimaṃ   tīraṃ   petaṃ   suñño   gāmo   peso   idaṃ   taṃ   rūpaṃ   cakkhāyatanaṃ
-\glb    What   that   matter   eye-base   That   eye   four   great_elements   derived   sensitive_matter   included   invisible   --   that   eye   --   matter   --   eye-contact   --   or   --   or   --   or   --   --   that   eye   --   matter   --   --   --   --   --   eye-consciousness   --   or   --   or   --   or   --   --   that   eye   --   --   eye-contact   --   or   --   or   --   or   --   --   that   eye   --   --   --   --   --   --   eye-consciousness   --   or   --   or   --   or   --   or   eye   this   eye-base   this   eye-element   this   eye-faculty   this   world   this   door   this   ocean   this   --   this   field   this   base   this   --   this   --   this   --   shore   this   empty   village   this   this   that   matter   eye-base
+\glb    What   that   matter   eye-base   That   eye   four   great_elements   derived   sensitive_matter   included   invisible   with_impingement   that   eye   --   matter   object   eye-contact   arose   or   arises   or   will_arise   or   --   --   that   eye   --   matter   object   born_of_eye-contact   --   --   --   eye-consciousness   arose   or   arises   or   will_arise   or   --   --   that   eye   --   object   eye-contact   arose   or   arises   or   will_arise   or   --   --   that   eye   --   object   born_of_eye-contact   --   --   --   eye-consciousness   arose   or   arises   or   will_arise   or   --   or   eye   this   eye-base   this   eye-element   this   eye-faculty   this   world   this   door   this   ocean   this   white   this   field   this   base   this   eye   this   eye   this   near_shore   shore   this   empty   village   this   this   that   matter   eye-base
 \ex     What is that material phenomenon, the eye-base? That eye, which is sensitive matter derived from the four great elements, included in one's own being, invisible, and with impingement, and based on that eye, apprehending form, eye-contact arose, or arises, or will arise, or might arise...pe... based on that eye, apprehending form, feeling born of eye-contact...pe... perception...pe... volition...pe... eye-consciousness arose, or arises, or will arise, or might arise...pe... based on that eye, with form as object, eye-contact arose, or arises, or will arise, or might arise...pe... based on that eye, with form as object, feeling born of eye-contact...pe... perception...pe... volition...pe... eye-consciousness arose, or arises, or will arise, or might arise—this is the eye, this is the eye-base, this is the eye-element, this is the eye-faculty, this is the world, this is a door, this is an ocean, this is white, this is a field, this is a base, this is the eye, this is the eye, this is the near shore, this is an empty village—this is that material phenomenon, the eye-base.
 ```
 
@@ -152,7 +152,7 @@ status: draft
 
 ```gloss
 \gla    Katamaṃ   taṃ   rūpaṃ   sotāyatanaṃ   Yaṃ   sotaṃ   catunnaṃ   mahābhūtānaṃ   upādāya   pasādo   attabhāvapariyāpanno   anidassano   sappaṭigho   yena   sotena   anidassanena   sappaṭighena   saddaṃ   anidassanaṃ   sappaṭighaṃ   suṇi   vā   suṇāti   vā   suṇissati   vā   suṇe   vā   sotaṃ   petaṃ   sotāyatanaṃ   petaṃ   sotadhātu   pesā   sotindriyaṃ   petaṃ   loko   peso   dvārā   pesā   samuddo   peso   paṇḍaraṃ   petaṃ   khettaṃ   petaṃ   vatthuṃ   petaṃ   orimaṃ   tīraṃ   petaṃ   suñño   gāmo   peso   idaṃ   taṃ   rūpaṃ   sotāyatanaṃ
-\glb    What   that   matter   ear-base   That   ear   four   great_elements   derived   sensitive_matter   included   invisible   --   by_which   ear   invisible   --   --   invisible   with_impingement   --   or   --   or   --   or   --   or   ear   this   ear-base   this   ear-element   this   ear-faculty   this   world   this   door   this   ocean   this   --   this   field   this   base   this   --   shore   this   empty   village   this   this   that   matter   ear-base
+\glb    What   that   matter   ear-base   That   ear   four   great_elements   derived   sensitive_matter   included   invisible   with_impingement   by_which   ear   invisible   --   --   invisible   with_impingement   --   or   --   or   --   or   --   or   ear   this   ear-base   this   ear-element   this   ear-faculty   this   world   this   door   this   ocean   this   white   this   field   this   base   this   near_shore   shore   this   empty   village   this   this   that   matter   ear-base
 \ex     What is that material phenomenon, the ear-base? That ear, which is sensitive matter derived from the four great elements, included in one's own being, invisible, and with impingement, by which ear, invisible and with impingement, one heard, hears, will hear, or might hear sound, which is invisible and with impingement—this is the ear, this is the ear-base, this is the ear-element, this is the ear-faculty, this is the world, this is a door, this is an ocean, this is white, this is a field, this is a base, this is the near shore, this is an empty village—this is that material phenomenon, the ear-base.
 ```
 
@@ -160,7 +160,7 @@ status: draft
 
 ```gloss
 \gla    Katamaṃ   taṃ   rūpaṃ   sotāyatanaṃ   Yaṃ   sotaṃ   catunnaṃ   mahābhūtānaṃ   upādāya   pasādo   attabhāvapariyāpanno   anidassano   sappaṭigho   yamhi   sotamhi   anidassanamhi   sappaṭighamhi   saddo   anidassano   sappaṭigho   paṭihaññi   vā   paṭihaññati   vā   paṭihaññissati   vā   paṭihaññe   vā   sotaṃ   petaṃ   sotāyatanaṃ   petaṃ   sotadhātu   pesā   sotindriyaṃ   petaṃ   loko   peso   dvārā   pesā   samuddo   peso   paṇḍaraṃ   petaṃ   khettaṃ   petaṃ   vatthuṃ   petaṃ   orimaṃ   tīraṃ   petaṃ   suñño   gāmo   peso   idaṃ   taṃ   rūpaṃ   sotāyatanaṃ
-\glb    What   that   matter   ear-base   That   ear   four   great_elements   derived   sensitive_matter   included   invisible   --   which   --   invisible   --   --   invisible   --   impinged   or   impinges   or   will_impinge   or   --   or   ear   this   ear-base   this   ear-element   this   ear-faculty   this   world   this   door   this   ocean   this   --   this   field   this   base   this   --   shore   this   empty   village   this   this   that   matter   ear-base
+\glb    What   that   matter   ear-base   That   ear   four   great_elements   derived   sensitive_matter   included   invisible   with_impingement   which   --   invisible   with_impingement   sound   invisible   with_impingement   impinged   or   impinges   or   will_impinge   or   --   or   ear   this   ear-base   this   ear-element   this   ear-faculty   this   world   this   door   this   ocean   this   white   this   field   this   base   this   near_shore   shore   this   empty   village   this   this   that   matter   ear-base
 \ex     What is that material phenomenon, the ear-base? That ear, which is sensitive matter derived from the four great elements, included in one's own being, invisible, and with impingement, against which ear, invisible and with impingement, sound, invisible and with impingement, impinged, impinges, will impinge, or might impinge—this is the ear, this is the ear-base, this is the ear-element, this is the ear-faculty, this is the world, this is a door, this is an ocean, this is white, this is a field, this is a base, this is the near shore, this is an empty village—this is that material phenomenon, the ear-base.
 ```
 
@@ -168,7 +168,7 @@ status: draft
 
 ```gloss
 \gla    Katamaṃ   taṃ   rūpaṃ   sotāyatanaṃ   Yaṃ   sotaṃ   catunnaṃ   mahābhūtānaṃ   upādāya   pasādo   attabhāvapariyāpanno   anidassano   sappaṭigho   yaṃ   sotaṃ   anidassanaṃ   sappaṭighaṃ   saddamhi   anidassanamhi   sappaṭighamhi   paṭihaññi   vā   paṭihaññati   vā   paṭihaññissati   vā   paṭihaññe   vā   sotaṃ   petaṃ   sotāyatanaṃ   petaṃ   sotadhātu   pesā   sotindriyaṃ   petaṃ   loko   peso   dvārā   pesā   samuddo   peso   paṇḍaraṃ   petaṃ   khettaṃ   petaṃ   vatthuṃ   petaṃ   orimaṃ   tīraṃ   petaṃ   suñño   gāmo   peso   idaṃ   taṃ   rūpaṃ   sotāyatanaṃ
-\glb    What   that   matter   ear-base   That   ear   four   great_elements   derived   sensitive_matter   included   invisible   --   that   ear   invisible   with_impingement   --   invisible   --   impinged   or   impinges   or   will_impinge   or   --   or   ear   this   ear-base   this   ear-element   this   ear-faculty   this   world   this   door   this   ocean   this   --   this   field   this   base   this   --   shore   this   empty   village   this   this   that   matter   ear-base
+\glb    What   that   matter   ear-base   That   ear   four   great_elements   derived   sensitive_matter   included   invisible   with_impingement   that   ear   invisible   with_impingement   --   invisible   with_impingement   impinged   or   impinges   or   will_impinge   or   --   or   ear   this   ear-base   this   ear-element   this   ear-faculty   this   world   this   door   this   ocean   this   white   this   field   this   base   this   near_shore   shore   this   empty   village   this   this   that   matter   ear-base
 \ex     What is that material phenomenon, the ear-base? That ear, which is sensitive matter derived from the four great elements, included in one's own being, invisible, and with impingement, that ear, invisible and with impingement, impinged upon, impinges upon, will impinge upon, or might impinge upon sound, which is invisible and with impingement—this is the ear, this is the ear-base, this is the ear-element, this is the ear-faculty, this is the world, this is a door, this is an ocean, this is white, this is a field, this is a base, this is the near shore, this is an empty village—this is that material phenomenon, the ear-base.
 ```
 
@@ -176,7 +176,7 @@ status: draft
 
 ```gloss
 \gla    Katamaṃ   taṃ   rūpaṃ   sotāyatanaṃ   Yaṃ   sotaṃ   catunnaṃ   mahābhūtānaṃ   upādāya   pasādo   attabhāvapariyāpanno   anidassano   sappaṭigho   yaṃ   sotaṃ   nissāya   saddaṃ   ārabbha   sotasamphasso   uppajji   vā   uppajjati   vā   uppajjissati   vā   uppajje   vā…pe…   yaṃ   sotaṃ   nissāya   saddaṃ   ārabbha   sotasamphassajā   vedanā…pe…   saññā…pe…   cetanā…pe…   sotaviññāṇaṃ   uppajji   vā   uppajjati   vā   uppajjissati   vā   uppajje   vā…pe…   yaṃ   sotaṃ   nissāya   saddārammaṇo   sotasamphasso   uppajji   vā   uppajjati   vā   uppajjissati   vā   uppajje   vā…pe…   yaṃ   sotaṃ   nissāya   saddārammaṇā   sotasamphassajā   vedanā…pe…   saññā…pe…   cetanā…pe…   sotaviññāṇaṃ   uppajji   vā   uppajjati   vā   uppajjissati   vā   uppajje   vā   sotaṃ   petaṃ   sotāyatanaṃ   petaṃ   sotadhātu   pesā   sotindriyaṃ   petaṃ   loko   peso   dvārā   pesā   samuddo   peso   paṇḍaraṃ   petaṃ   khettaṃ   petaṃ   vatthuṃ   petaṃ   orimaṃ   tīraṃ   petaṃ   suñño   gāmo   peso   idaṃ   taṃ   rūpaṃ   sotāyatanaṃ
-\glb    What   that   matter   ear-base   That   ear   four   great_elements   derived   sensitive_matter   included   invisible   --   that   ear   --   --   --   ear-contact   --   or   --   or   --   or   --   --   that   ear   --   --   --   --   --   --   --   ear-consciousness   --   or   --   or   --   or   --   --   that   ear   --   --   ear-contact   --   or   --   or   --   or   --   --   that   ear   --   --   --   --   --   --   ear-consciousness   --   or   --   or   --   or   --   or   ear   this   ear-base   this   ear-element   this   ear-faculty   this   world   this   door   this   ocean   this   --   this   field   this   base   this   --   shore   this   empty   village   this   this   that   matter   ear-base
+\glb    What   that   matter   ear-base   That   ear   four   great_elements   derived   sensitive_matter   included   invisible   with_impingement   that   ear   --   --   object   ear-contact   arose   or   arises   or   will_arise   or   --   --   that   ear   --   --   object   --   --   --   --   ear-consciousness   arose   or   arises   or   will_arise   or   --   --   that   ear   --   --   ear-contact   arose   or   arises   or   will_arise   or   --   --   that   ear   --   --   --   --   --   --   ear-consciousness   arose   or   arises   or   will_arise   or   --   or   ear   this   ear-base   this   ear-element   this   ear-faculty   this   world   this   door   this   ocean   this   white   this   field   this   base   this   near_shore   shore   this   empty   village   this   this   that   matter   ear-base
 \ex     What is that material phenomenon, the ear-base? That ear, which is sensitive matter derived from the four great elements, included in one's own being, invisible, and with impingement, and based on that ear, apprehending sound, ear-contact arose, or arises, or will arise, or might arise...pe... based on that ear, apprehending sound, feeling born of ear-contact...pe... perception...pe... volition...pe... ear-consciousness arose, or arises, or will arise, or might arise...pe... based on that ear, with sound as object, ear-contact arose, or arises, or will arise, or might arise...pe... based on that ear, with sound as object, feeling born of ear-contact...pe... perception...pe... volition...pe... ear-consciousness arose, or arises, or will arise, or might arise—this is the ear, this is the ear-base, this is the ear-element, this is the ear-faculty, this is the world, this is a door, this is an ocean, this is white, this is a field, this is a base, this is the near shore, this is an empty village—this is that material phenomenon, the ear-base.
 ```
 
@@ -184,7 +184,7 @@ status: draft
 
 ```gloss
 \gla    Katamaṃ   taṃ   rūpaṃ   ghānāyatanaṃ   Yaṃ   ghānaṃ   catunnaṃ   mahābhūtānaṃ   upādāya   pasādo   attabhāvapariyāpanno   anidassano   sappaṭigho   yena   ghānena   anidassanena   sappaṭighena   gandhaṃ   anidassanaṃ   sappaṭighaṃ   ghāyi   vā   ghāyati   vā   ghāyissati   vā   ghāye   vā   ghānaṃ   petaṃ   ghānāyatanaṃ   petaṃ   ghānadhātu   pesā   ghānindriyaṃ   petaṃ   loko   peso   dvārā   pesā   samuddo   peso   paṇḍaraṃ   petaṃ   khettaṃ   petaṃ   vatthuṃ   petaṃ   orimaṃ   tīraṃ   petaṃ   suñño   gāmo   peso   idaṃ   taṃ   rūpaṃ   ghānāyatanaṃ
-\glb    What   that   matter   nose-base   That   nose   four   great_elements   derived   sensitive_matter   included   invisible   --   by_which   nose   invisible   --   --   invisible   with_impingement   --   or   --   or   --   or   --   or   nose   this   nose-base   this   nose-element   this   nose-faculty   this   world   this   door   this   ocean   this   --   this   field   this   base   this   --   shore   this   empty   village   this   this   that   matter   nose-base
+\glb    What   that   matter   nose-base   That   nose   four   great_elements   derived   sensitive_matter   included   invisible   with_impingement   by_which   nose   invisible   --   --   invisible   with_impingement   --   or   --   or   --   or   --   or   nose   this   nose-base   this   nose-element   this   nose-faculty   this   world   this   door   this   ocean   this   white   this   field   this   base   this   near_shore   shore   this   empty   village   this   this   that   matter   nose-base
 \ex     What is that material phenomenon, the nose-base? That nose, which is sensitive matter derived from the four great elements, included in one's own being, invisible, and with impingement, by which nose, invisible and with impingement, one smelt, smells, will smell, or might smell odour, which is invisible and with impingement—this is the nose, this is the nose-base, this is the nose-element, this is the nose-faculty, this is the world, this is a door, this is an ocean, this is white, this is a field, this is a base, this is the near shore, this is an empty village—this is that material phenomenon, the nose-base.
 ```
 
@@ -192,7 +192,7 @@ status: draft
 
 ```gloss
 \gla    Katamaṃ   taṃ   rūpaṃ   ghānāyatanaṃ   Yaṃ   ghānaṃ   catunnaṃ   mahābhūtānaṃ   upādāya   pasādo   attabhāvapariyāpanno   anidassano   sappaṭigho   yamhi   ghānamhi   anidassanamhi   sappaṭighamhi   gandho   anidassano   sappaṭigho   paṭihaññi   vā   paṭihaññati   vā   paṭihaññissati   vā   paṭihaññe   vā   ghānaṃ   petaṃ   ghānāyatanaṃ   petaṃ   ghānadhātu   pesā   ghānindriyaṃ   petaṃ   loko   peso   dvārā   pesā   samuddo   peso   paṇḍaraṃ   petaṃ   khettaṃ   petaṃ   vatthuṃ   petaṃ   orimaṃ   tīraṃ   petaṃ   suñño   gāmo   peso   idaṃ   taṃ   rūpaṃ   ghānāyatanaṃ
-\glb    What   that   matter   nose-base   That   nose   four   great_elements   derived   sensitive_matter   included   invisible   --   which   --   invisible   --   --   invisible   --   impinged   or   impinges   or   will_impinge   or   --   or   nose   this   nose-base   this   nose-element   this   nose-faculty   this   world   this   door   this   ocean   this   --   this   field   this   base   this   --   shore   this   empty   village   this   this   that   matter   nose-base
+\glb    What   that   matter   nose-base   That   nose   four   great_elements   derived   sensitive_matter   included   invisible   with_impingement   which   --   invisible   with_impingement   odour   invisible   with_impingement   impinged   or   impinges   or   will_impinge   or   --   or   nose   this   nose-base   this   nose-element   this   nose-faculty   this   world   this   door   this   ocean   this   white   this   field   this   base   this   near_shore   shore   this   empty   village   this   this   that   matter   nose-base
 \ex     What is that material phenomenon, the nose-base? That nose, which is sensitive matter derived from the four great elements, included in one's own being, invisible, and with impingement, against which nose, invisible and with impingement, odour, invisible and with impingement, impinged, impinges, will impinge, or might impinge—this is the nose, this is the nose-base, this is the nose-element, this is the nose-faculty, this is the world, this is a door, this is an ocean, this is white, this is a field, this is a base, this is the near shore, this is an empty village—this is that material phenomenon, the nose-base.
 ```
 
@@ -200,7 +200,7 @@ status: draft
 
 ```gloss
 \gla    Katamaṃ   taṃ   rūpaṃ   ghānāyatanaṃ   Yaṃ   ghānaṃ   catunnaṃ   mahābhūtānaṃ   upādāya   pasādo   attabhāvapariyāpanno   anidassano   sappaṭigho   yaṃ   ghānaṃ   anidassanaṃ   sappaṭighaṃ   gandhamhi   anidassanamhi   sappaṭighamhi   paṭihaññi   vā   paṭihaññati   vā   paṭihaññissati   vā   paṭihaññe   vā   ghānaṃ   petaṃ   ghānāyatanaṃ   petaṃ   ghānadhātu   pesā   ghānindriyaṃ   petaṃ   loko   peso   dvārā   pesā   samuddo   peso   paṇḍaraṃ   petaṃ   khettaṃ   petaṃ   vatthuṃ   petaṃ   orimaṃ   tīraṃ   petaṃ   suñño   gāmopeso   idaṃ   taṃ   rūpaṃ   ghānāyatanaṃ
-\glb    What   that   matter   nose-base   That   nose   four   great_elements   derived   sensitive_matter   included   invisible   --   that   nose   invisible   with_impingement   --   invisible   --   impinged   or   impinges   or   will_impinge   or   --   or   nose   this   nose-base   this   nose-element   this   nose-faculty   this   world   this   door   this   ocean   this   --   this   field   this   base   this   --   shore   this   empty   village   this   that   matter   nose-base
+\glb    What   that   matter   nose-base   That   nose   four   great_elements   derived   sensitive_matter   included   invisible   with_impingement   that   nose   invisible   with_impingement   --   invisible   with_impingement   impinged   or   impinges   or   will_impinge   or   --   or   nose   this   nose-base   this   nose-element   this   nose-faculty   this   world   this   door   this   ocean   this   white   this   field   this   base   this   near_shore   shore   this   empty   village   this   that   matter   nose-base
 \ex     What is that material phenomenon, the nose-base? That nose, which is sensitive matter derived from the four great elements, included in one's own being, invisible, and with impingement, that nose, invisible and with impingement, impinged upon, impinges upon, will impinge upon, or might impinge upon odour, which is invisible and with impingement—this is the nose, this is the nose-base, this is the nose-element, this is the nose-faculty, this is the world, this is a door, this is an ocean, this is white, this is a field, this is a base, this is the near shore, this is an empty village—this is that material phenomenon, the nose-base.
 ```
 
@@ -208,7 +208,7 @@ status: draft
 
 ```gloss
 \gla    Katamaṃ   taṃ   rūpaṃ   ghānāyatanaṃ   Yaṃ   ghānaṃ   catunnaṃ   mahābhūtānaṃ   upādāya   pasādo   attabhāvapariyāpanno   anidassano   sappaṭigho   yaṃ   ghānaṃ   nissāya   gandhaṃ   ārabbha   ghānasamphasso   uppajji   vā   uppajjati   vā   uppajjissati   vā   uppajje   vā…pe…   yaṃ   ghānaṃ   nissāya   gandhaṃ   ārabbha   ghānasamphassajā   vedanā…pe…   saññā…pe…   cetanā…pe…   ghānaviññāṇaṃ   uppajji   vā   uppajjati   vā   uppajjissati   vā   uppajje   vā…pe…   yaṃ   ghānaṃ   nissāya   gandhārammaṇo   ghānasamphasso   uppajji   vā   uppajjati   vā   uppajjissati   vā   uppajje   vā…pe…   yaṃ   ghānaṃ   nissāya   gandhārammaṇā   ghānasamphassajā   vedanā…pe…   saññā…pe…   cetanā…pe…   ghānaviññāṇaṃ   uppajji   vā   uppajjati   vā   uppajjissati   vā   uppajje   vā   ghānaṃ   petaṃ   ghānāyatanaṃ   petaṃ   ghānadhātu   pesā   ghānindriyaṃ   petaṃ   loko   peso   dvārā   pesā   samuddo   peso   paṇḍaraṃ   petaṃ   khettaṃ   petaṃ   vatthuṃ   petaṃ   orimaṃ   tīraṃ   petaṃ   suñño   gāmo   peso   idaṃ   taṃ   rūpaṃ   ghānāyatanaṃ
-\glb    What   that   matter   nose-base   That   nose   four   great_elements   derived   sensitive_matter   included   invisible   --   that   nose   --   --   --   nose-contact   --   or   --   or   --   or   --   --   that   nose   --   --   --   --   --   --   --   nose-consciousness   --   or   --   or   --   or   --   --   that   nose   --   --   nose-contact   --   or   --   or   --   or   --   --   that   nose   --   --   --   --   --   --   nose-consciousness   --   or   --   or   --   or   --   or   nose   this   nose-base   this   nose-element   this   nose-faculty   this   world   this   door   this   ocean   this   --   this   field   this   base   this   --   shore   this   empty   village   this   this   that   matter   nose-base
+\glb    What   that   matter   nose-base   That   nose   four   great_elements   derived   sensitive_matter   included   invisible   with_impingement   that   nose   --   --   object   nose-contact   arose   or   arises   or   will_arise   or   --   --   that   nose   --   --   object   --   --   --   --   nose-consciousness   arose   or   arises   or   will_arise   or   --   --   that   nose   --   --   nose-contact   arose   or   arises   or   will_arise   or   --   --   that   nose   --   --   --   --   --   --   nose-consciousness   arose   or   arises   or   will_arise   or   --   or   nose   this   nose-base   this   nose-element   this   nose-faculty   this   world   this   door   this   ocean   this   white   this   field   this   base   this   near_shore   shore   this   empty   village   this   this   that   matter   nose-base
 \ex     What is that material phenomenon, the nose-base? That nose, which is sensitive matter derived from the four great elements, included in one's own being, invisible, and with impingement, and based on that nose, apprehending odour, nose-contact arose, or arises, or will arise, or might arise...pe... based on that nose, apprehending odour, feeling born of nose-contact...pe... perception...pe... volition...pe... nose-consciousness arose, or arises, or will arise, or might arise...pe... based on that nose, with odour as object, nose-contact arose, or arises, or will arise, or might arise...pe... based on that nose, with odour as object, feeling born of nose-contact...pe... perception...pe... volition...pe... nose-consciousness arose, or arises, or will arise, or might arise—this is the nose, this is the nose-base, this is the nose-element, this is the nose-faculty, this is the world, this is a door, this is an ocean, this is white, this is a field, this is a base, this is the near shore, this is an empty village—this is that material phenomenon, the nose-base.
 ```
 
@@ -216,7 +216,7 @@ status: draft
 
 ```gloss
 \gla    Katamaṃ   taṃ   rūpaṃ   jivhāyatanaṃ   Yā   jivhā   catunnaṃ   mahābhūtānaṃ   upādāya   pasādo   attabhāvapariyāpanno   anidassano   sappaṭigho   yāya   jivhāya   anidassanāya   sappaṭighāya   rasaṃ   anidassanaṃ   sappaṭighaṃ   sāyi   vā   sāyati   vā   sāyissati   vā   sāye   vā   jivhā   pesā   jivhāyatanaṃ   petaṃ   jivhādhātu   pesā   jivhindriyaṃ   petaṃ   loko   peso   dvārā   pesā   samuddo   peso   paṇḍaraṃ   petaṃ   khettaṃ   petaṃ   vatthuṃ   petaṃ   orimaṃ   tīraṃ   petaṃ   suñño   gāmo   peso   idaṃ   taṃ   rūpaṃ   jivhāyatanaṃ
-\glb    What   that   matter   tongue-base   That   tongue   four   great_primaries   derived   sensitive_matter   included   invisible   --   --   tongue   --   --   --   invisible   with_impingement   --   or   --   or   --   or   --   or   tongue   this   tongue-base   this   tongue_element   this   tongue-faculty   this   world   this   door   this   ocean   this   --   this   field   this   base   this   hither   shore   this   empty   village   this   this   that   matter   tongue-base
+\glb    What   that   matter   tongue-base   That   tongue   four   great_primaries   derived   sensitive_matter   included   invisible   with_impingement   --   tongue   --   --   --   invisible   with_impingement   --   or   --   or   --   or   --   or   tongue   this   tongue-base   this   tongue_element   this   tongue-faculty   this   world   this   door   this   ocean   this   white   this   field   this   base   this   hither   shore   this   empty   village   this   this   that   matter   tongue-base
 \ex     What is that material form which is the tongue sense base? The tongue, that is to say the sensitive matter, derived from the four great primaries, included in one's own being, invisible and with impingement; by which tongue, invisible and with impingement, one has tasted, tastes, will taste, or may taste taste, invisible and with impingement; this is the tongue, this is the tongue sense base, this is the tongue element, this is the tongue faculty, this is the world, this is the door, this is the ocean, this is the white, this is the field, this is the ground, this is the hither shore, this is the empty village – this is that material form which is the tongue sense base.
 ```
 
@@ -224,7 +224,7 @@ status: draft
 
 ```gloss
 \gla    Katamaṃ   taṃ   rūpaṃ   jivhāyatanaṃ   Yā   jivhā   catunnaṃ   mahābhūtānaṃ   upādāya   pasādo   attabhāvapariyāpanno   anidassano   sappaṭigho   yāya   jivhāya   anidassanāya   sappaṭighāya   raso   anidassano   sappaṭigho   paṭihaññi   vā   paṭihaññati   vā   paṭihaññissati   vā   paṭihaññe   vā   jivhā   pesā   jivhāyatanaṃ   petaṃ   jivhādhātu   pesā   jivhindriyaṃ   petaṃ   loko   peso   dvārā   pesā   samuddo   peso   paṇḍaraṃ   petaṃ   khettaṃ   petaṃ   vatthuṃ   petaṃ   orimaṃ   tīraṃ   petaṃ   suñño   gāmo   peso   idaṃ   taṃ   rūpaṃ   jivhāyatanaṃ
-\glb    What   that   matter   tongue-base   That   tongue   four   great_primaries   derived   sensitive_matter   included   invisible   --   --   tongue   --   --   --   invisible   --   impinged   or   impinges   or   will_impinge   or   may_impinge   or   tongue   this   tongue-base   this   tongue_element   this   tongue-faculty   this   world   this   door   this   ocean   this   --   this   field   this   base   this   hither   shore   this   empty   village   this   this   that   matter   tongue-base
+\glb    What   that   matter   tongue-base   That   tongue   four   great_primaries   derived   sensitive_matter   included   invisible   with_impingement   --   tongue   --   --   taste   invisible   with_impingement   impinged   or   impinges   or   will_impinge   or   may_impinge   or   tongue   this   tongue-base   this   tongue_element   this   tongue-faculty   this   world   this   door   this   ocean   this   white   this   field   this   base   this   hither   shore   this   empty   village   this   this   that   matter   tongue-base
 \ex     What is that material form which is the tongue sense base? The tongue, that is to say the sensitive matter, derived from the four great primaries, included in one's own being, invisible and with impingement; against which tongue, invisible and with impingement, taste, invisible and with impingement, has impinged, impinges, will impinge, or may impinge; this is the tongue, this is the tongue sense base, this is the tongue element, this is the tongue faculty, this is the world, this is the door, this is the ocean, this is the white, this is the field, this is the ground, this is the hither shore, this is the empty village – this is that material form which is the tongue sense base.
 ```
 
@@ -232,7 +232,7 @@ status: draft
 
 ```gloss
 \gla    Katamaṃ   taṃ   rūpaṃ   jivhāyatanaṃ   Yā   jivhā   catunnaṃ   mahābhūtānaṃ   upādāya   pasādo   attabhāvapariyāpanno   anidassano   sappaṭigho   yā   jivhā   anidassanā   sappaṭighā   rasamhi   anidassanamhi   sappaṭighamhi   paṭihaññi   vā   paṭihaññati   vā   paṭihaññissati   vā   paṭihaññe   vā   jivhā   pesā   jivhāyatanaṃ   petaṃ   jivhādhātu   pesā   jivhindriyaṃ   petaṃ   loko   peso   dvārā   pesā   samuddo   peso   paṇḍaraṃ   petaṃ   khettaṃ   petaṃ   vatthuṃ   petaṃ   orimaṃ   tīraṃ   petaṃ   suñño   gāmo   peso   idaṃ   taṃ   rūpaṃ   jivhāyatanaṃ
-\glb    What   that   matter   tongue-base   That   tongue   four   great_primaries   derived   sensitive_matter   included   invisible   --   that   tongue   --   --   --   invisible   --   impinged   or   impinges   or   will_impinge   or   may_impinge   or   tongue   this   tongue-base   this   tongue_element   this   tongue-faculty   this   world   this   door   this   ocean   this   --   this   field   this   base   this   hither   shore   this   empty   village   this   this   that   matter   tongue-base
+\glb    What   that   matter   tongue-base   That   tongue   four   great_primaries   derived   sensitive_matter   included   invisible   with_impingement   that   tongue   --   --   --   invisible   with_impingement   impinged   or   impinges   or   will_impinge   or   may_impinge   or   tongue   this   tongue-base   this   tongue_element   this   tongue-faculty   this   world   this   door   this   ocean   this   white   this   field   this   base   this   hither   shore   this   empty   village   this   this   that   matter   tongue-base
 \ex     What is that material form which is the tongue sense base? The tongue, that is to say the sensitive matter, derived from the four great primaries, included in one's own being, invisible and with impingement; which tongue, invisible and with impingement, has impinged, impinges, will impinge, or may impinge on taste, invisible and with impingement; this is the tongue, this is the tongue sense base, this is the tongue element, this is the tongue faculty, this is the world, this is the door, this is the ocean, this is the white, this is the field, this is the ground, this is the hither shore, this is the empty village – this is that material form which is the tongue sense base.
 ```
 
@@ -240,7 +240,7 @@ status: draft
 
 ```gloss
 \gla    Katamaṃ   taṃ   rūpaṃ   jivhāyatanaṃ   Yā   jivhā   catunnaṃ   mahābhūtānaṃ   upādāya   pasādo   attabhāvapariyāpanno   anidassano   sappaṭigho   yaṃ   jivhaṃ   nissāya   rasaṃ   ārabbha   jivhāsamphasso   uppajji   vā   uppajjati   vā   uppajjissati   vā   uppajje   vā…pe…   yaṃ   jivhaṃ   nissāya   rasaṃ   ārabbha   jivhāsamphassajā   vedanā…pe…   saññā…pe…   cetanā…pe…   jivhāviññāṇaṃ   uppajji   vā   uppajjati   vā   uppajjissati   vā   uppajje   vā…pe…   yaṃ   jivhaṃ   nissāya   rasārammaṇo   jivhāsamphasso   uppajji   vā   uppajjati   vā   uppajjissati   vā   uppajje   vā…pe…   yaṃ   jivhaṃ   nissāya   rasārammaṇā   jivhāsamphassajā   vedanā…pe…   saññā…pe…   cetanā…pe…   jivhāviññāṇaṃ   uppajji   vā   uppajjati   vā   uppajjissati   vā   uppajje   vā   jivhā   pesā   jivhāyatanaṃ   petaṃ   jivhādhātu   pesā   jivhindriyaṃ   petaṃ   loko   peso   dvārā   pesā   samuddo   peso   paṇḍaraṃ   petaṃ   khettaṃ   petaṃ   vatthuṃ   petaṃ   orimaṃ   tīraṃ   petaṃ   suñño   gāmo   peso   idaṃ   taṃ   rūpaṃ   jivhāyatanaṃ
-\glb    What   that   matter   tongue-base   That   tongue   four   great_primaries   derived   sensitive_matter   included   invisible   --   that   tongue   --   --   --   tongue-contact   --   or   --   or   --   or   --   --   that   tongue   --   --   --   --   --   --   --   tongue-consciousness   --   or   --   or   --   or   --   --   that   tongue   --   --   tongue-contact   --   or   --   or   --   or   --   --   that   tongue   --   --   --   --   --   --   tongue-consciousness   --   or   --   or   --   or   --   or   tongue   this   tongue-base   this   tongue_element   this   tongue-faculty   this   world   this   door   this   ocean   this   --   this   field   this   base   this   hither   shore   this   empty   village   this   this   that   matter   tongue-base
+\glb    What   that   matter   tongue-base   That   tongue   four   great_primaries   derived   sensitive_matter   included   invisible   with_impingement   that   tongue   --   --   object   tongue-contact   --   or   arises   or   will_arise   or   may_arise   --   that   tongue   --   --   object   --   --   --   --   tongue-consciousness   --   or   arises   or   will_arise   or   may_arise   --   that   tongue   --   --   tongue-contact   --   or   arises   or   will_arise   or   may_arise   --   that   tongue   --   --   --   --   --   --   tongue-consciousness   --   or   arises   or   will_arise   or   may_arise   or   tongue   this   tongue-base   this   tongue_element   this   tongue-faculty   this   world   this   door   this   ocean   this   white   this   field   this   base   this   hither   shore   this   empty   village   this   this   that   matter   tongue-base
 \ex     What is that material form which is the tongue sense base? The tongue, that is to say the sensitive matter, derived from the four great primaries, included in one's own being, invisible and with impingement; depending on which tongue, in consequence of taste, gustatory contact has arisen, arises, will arise, or may arise…pe… depending on which tongue, in consequence of taste, feeling born of gustatory contact…pe… perception…pe… volition…pe… gustatory consciousness has arisen, arises, will arise, or may arise…pe… depending on which tongue, having taste as its object, gustatory contact has arisen, arises, will arise, or may arise…pe… depending on which tongue, having taste as its object, feeling born of gustatory contact…pe… perception…pe… volition…pe… gustatory consciousness has arisen, arises, will arise, or may arise; this is the tongue, this is the tongue sense base, this is the tongue element, this is the tongue faculty, this is the world, this is the door, this is the ocean, this is the white, this is the field, this is the ground, this is the hither shore, this is the empty village – this is that material form which is the tongue sense base.
 ```
 
@@ -248,7 +248,7 @@ status: draft
 
 ```gloss
 \gla    Katamaṃ   taṃ   rūpaṃ   kāyāyatanaṃ   Yo   kāyo   catunnaṃ   mahābhūtānaṃ   upādāya   pasādo   attabhāvapariyāpanno   anidassano   sappaṭigho   yena   kāyena   anidassanena   sappaṭighena   phoṭṭhabbaṃ   anidassanasappaṭighaṃ   phusi   vā   phusati   vā   phusissati   vā   phuse   vā   kāyo   peso   kāyāyatanaṃ   petaṃ   kāyadhātu   pesā   kāyindriyaṃ   petaṃ   loko   peso   dvārā   pesā   samuddo   peso   paṇḍaraṃ   petaṃ   khettaṃ   petaṃ   vatthuṃ   petaṃ   orimaṃ   tīraṃ   petaṃ   suñño   gāmo   peso   idaṃ   taṃ   rūpaṃ   kāyāyatanaṃ
-\glb    What   that   matter   body-base   That   --   four   great_primaries   derived   sensitive_matter   included   invisible   --   by_which   body   invisible   --   --   --   --   or   --   or   --   or   --   or   --   this   body-base   this   body_element   this   body-faculty   this   world   this   door   this   ocean   this   --   this   field   this   base   this   hither   shore   this   empty   village   this   this   that   matter   body-base
+\glb    What   that   matter   body-base   That   body   four   great_primaries   derived   sensitive_matter   included   invisible   with_impingement   by_which   body   invisible   --   --   --   --   or   --   or   --   or   --   or   body   this   body-base   this   body_element   this   body-faculty   this   world   this   door   this   ocean   this   white   this   field   this   base   this   hither   shore   this   empty   village   this   this   that   matter   body-base
 \ex     What is that material form which is the body sense base? The body, that is to say the sensitive matter, derived from the four great primaries, included in one's own being, invisible and with impingement; by which body, invisible and with impingement, one has touched, touches, will touch, or may touch the tangible, invisible and with impingement; this is the body, this is the body sense base, this is the body element, this is the body faculty, this is the world, this is the door, this is the ocean, this is the white, this is the field, this is the ground, this is the hither shore, this is the empty village – this is that material form which is the body sense base.
 ```
 
@@ -256,7 +256,7 @@ status: draft
 
 ```gloss
 \gla    Katamaṃ   taṃ   rūpaṃ   kāyāyatanaṃ   Yo   kāyo   catunnaṃ   mahābhūtānaṃ   upādāya   pasādo   attabhāvapariyāpanno   anidassano   sappaṭigho   yamhi   kāyamhi   anidassanamhi   sappaṭighamhi   phoṭṭhabbo   anidassano   sappaṭigho   paṭihaññi   vā   paṭihaññati   vā   paṭihaññissati   vā   paṭihaññe   vā   kāyo   peso   kāyāyatanaṃ   petaṃ   kāyadhātu   pesā   kāyindriyaṃ   petaṃ   loko   peso   dvārā   pesā   samuddo   peso   paṇḍaraṃ   petaṃ   khettaṃ   petaṃ   vatthuṃ   petaṃ   orimaṃ   tīraṃ   petaṃ   suñño   gāmo   peso   idaṃ   taṃ   rūpaṃ   kāyāyatanaṃ
-\glb    What   that   matter   body-base   That   --   four   great_primaries   derived   sensitive_matter   included   invisible   --   which   --   invisible   --   tangible   invisible   --   impinged   or   impinges   or   will_impinge   or   may_impinge   or   --   this   body-base   this   body_element   this   body-faculty   this   world   this   door   this   ocean   this   --   this   field   this   base   this   hither   shore   this   empty   village   this   this   that   matter   body-base
+\glb    What   that   matter   body-base   That   body   four   great_primaries   derived   sensitive_matter   included   invisible   with_impingement   which   --   invisible   with_impingement   tangible   invisible   with_impingement   impinged   or   impinges   or   will_impinge   or   may_impinge   or   body   this   body-base   this   body_element   this   body-faculty   this   world   this   door   this   ocean   this   white   this   field   this   base   this   hither   shore   this   empty   village   this   this   that   matter   body-base
 \ex     What is that material form which is the body sense base? The body, that is to say the sensitive matter, derived from the four great primaries, included in one's own being, invisible and with impingement; against which body, invisible and with impingement, the tangible, invisible and with impingement, has impinged, impinges, will impinge, or may impinge; this is the body, this is the body sense base, this is the body element, this is the body faculty, this is the world, this is the door, this is the ocean, this is the white, this is the field, this is the ground, this is the hither shore, this is the empty village – this is that material form which is the body sense base.
 ```
 
@@ -264,7 +264,7 @@ status: draft
 
 ```gloss
 \gla    Katamaṃ   taṃ   rūpaṃ   kāyāyatanaṃ   Yo   kāyo   catunnaṃ   mahābhūtānaṃ   upādāya   pasādo   attabhāvapariyāpanno   anidassano   sappaṭigho   yo   kāyo   anidassano   sappaṭigho   phoṭṭhabbamhi   anidassanamhi   sappaṭighamhi   paṭihaññi   vā   paṭihaññati   vā   paṭihaññissati   vā   paṭihaññe   vā   kāyo   peso   kāyāyatanaṃ   petaṃ   kāyadhātu   pesā   kāyindriyaṃ   petaṃ   loko   peso   dvārā   pesā   samuddo   peso   paṇḍaraṃ   petaṃ   khettaṃ   petaṃ   vatthuṃ   petaṃ   orimaṃ   tīraṃ   petaṃ   suñño   gāmo   peso   idaṃ   taṃ   rūpaṃ   kāyāyatanaṃ
-\glb    What   that   matter   body-base   That   --   four   great_primaries   derived   sensitive_matter   included   invisible   --   that   --   invisible   --   --   invisible   --   impinged   or   impinges   or   will_impinge   or   may_impinge   or   --   this   body-base   this   body_element   this   body-faculty   this   world   this   door   this   ocean   this   --   this   field   this   base   this   hither   shore   this   empty   village   this   this   that   matter   body-base
+\glb    What   that   matter   body-base   That   body   four   great_primaries   derived   sensitive_matter   included   invisible   with_impingement   that   body   invisible   with_impingement   --   invisible   with_impingement   impinged   or   impinges   or   will_impinge   or   may_impinge   or   body   this   body-base   this   body_element   this   body-faculty   this   world   this   door   this   ocean   this   white   this   field   this   base   this   hither   shore   this   empty   village   this   this   that   matter   body-base
 \ex     What is that material form which is the body sense base? The body, that is to say the sensitive matter, derived from the four great primaries, included in one's own being, invisible and with impingement; which body, invisible and with impingement, has impinged, impinges, will impinge, or may impinge on the tangible, invisible and with impingement; this is the body, this is the body sense base, this is the body element, this is the body faculty, this is the world, this is the door, this is the ocean, this is the white, this is the field, this is the ground, this is the hither shore, this is the empty village – this is that material form which is the body sense base.
 ```
 
@@ -272,7 +272,7 @@ status: draft
 
 ```gloss
 \gla    Katamaṃ   taṃ   rūpaṃ   kāyāyatanaṃ   Yo   kāyo   catunnaṃ   mahābhūtānaṃ   upādāya   pasādo   attabhāvapariyāpanno   anidassano   sappaṭigho   yaṃ   kāyaṃ   nissāya   phoṭṭhabbaṃ   ārabbha   kāyasamphasso   uppajji   vā   uppajjati   vā   uppajjissati   vā   uppajje   vā…pe…   yaṃ   kāyaṃ   nissāya   phoṭṭhabbaṃ   ārabbha   kāyasamphassajā   vedanā…pe…   saññā…pe…   cetanā…pe…   kāyaviññāṇaṃ   uppajji   vā   uppajjati   vā   uppajjissati   vā   uppajje   vā…pe…   yaṃ   kāyaṃ   nissāya   phoṭṭhabbārammaṇo   kāyasamphasso   uppajji   vā   uppajjati   vā   uppajjissati   vā   uppajje   vā…pe…   yaṃ   kāyaṃ   nissāya   phoṭṭhabbārammaṇā   kāyasamphassajā   vedanā…pe…   saññā…pe…   cetanā…pe…   kāyaviññāṇaṃ   uppajji   vā   uppajjati   vā   uppajjissati   vā   uppajje   vā   kāyo   peso   kāyāyatanaṃ   petaṃ   kāyadhātu   pesā   kāyindriyaṃ   petaṃ   loko   peso   dvārā   pesā   samuddo   peso   paṇḍaraṃ   petaṃ   khettaṃ   petaṃ   vatthuṃ   petaṃ   orimaṃ   tīraṃ   petaṃ   suñño   gāmo   peso   idaṃ   taṃ   rūpaṃ   kāyāyatanaṃ
-\glb    What   that   matter   body-base   That   --   four   great_primaries   derived   sensitive_matter   included   invisible   --   that   body   --   --   --   body-contact   --   or   --   or   --   or   --   --   that   body   --   --   --   --   --   --   --   body-consciousness   --   or   --   or   --   or   --   --   that   body   --   --   body-contact   --   or   --   or   --   or   --   --   that   body   --   --   --   --   --   --   body-consciousness   --   or   --   or   --   or   --   or   --   this   body-base   this   body_element   this   body-faculty   this   world   this   door   this   ocean   this   --   this   field   this   base   this   hither   shore   this   empty   village   this   this   that   matter   body-base
+\glb    What   that   matter   body-base   That   body   four   great_primaries   derived   sensitive_matter   included   invisible   with_impingement   that   body   --   --   object   body-contact   --   or   arises   or   will_arise   or   may_arise   --   that   body   --   --   object   born_of_body-contact   --   --   --   body-consciousness   --   or   arises   or   will_arise   or   may_arise   --   that   body   --   --   body-contact   --   or   arises   or   will_arise   or   may_arise   --   that   body   --   --   born_of_body-contact   --   --   --   body-consciousness   --   or   arises   or   will_arise   or   may_arise   or   body   this   body-base   this   body_element   this   body-faculty   this   world   this   door   this   ocean   this   white   this   field   this   base   this   hither   shore   this   empty   village   this   this   that   matter   body-base
 \ex     What is that material form which is the body sense base? The body, that is to say the sensitive matter, derived from the four great primaries, included in one's own being, invisible and with impingement; depending on which body, in consequence of the tangible, tactile contact has arisen, arises, will arise, or may arise…pe… depending on which body, in consequence of the tangible, feeling born of tactile contact…pe… perception…pe… volition…pe… tactile consciousness has arisen, arises, will arise, or may arise…pe… depending on which body, having the tangible as its object, tactile contact has arisen, arises, will arise, or may arise…pe… depending on which body, having the tangible as its object, feeling born of tactile contact…pe… perception…pe… volition…pe… tactile consciousness has arisen, arises, will arise, or may arise; this is the body, this is the body sense base, this is the body element, this is the body faculty, this is the world, this is the door, this is the ocean, this is the white, this is the field, this is the ground, this is the hither shore, this is the empty village – this is that material form which is the body sense base.
 ```
 
@@ -280,7 +280,7 @@ status: draft
 
 ```gloss
 \gla    Katamaṃ   taṃ   rūpaṃ   rūpāyatanaṃ   Yaṃ   rūpaṃ   catunnaṃ   mahābhūtānaṃ   upādāya   vaṇṇanibhā   sanidassanaṃ   sappaṭighaṃ   nīlaṃ   pītakaṃ   lohitakaṃ   odātaṃ   kāḷakaṃ   mañjiṭṭhakaṃ   hari   harivaṇṇaṃ   ambaṅkuravaṇṇaṃ   dīghaṃ   rassaṃ   aṇuṃ   thūlaṃ   vaṭṭaṃ   parimaṇḍalaṃ   caturaṃsaṃ   chaḷaṃsaṃ   aṭṭhaṃsaṃ   soḷasaṃsaṃ   ninnaṃ   thalaṃ   chāyā   ātapo   āloko   andhakāro   abbhā   mahikā   dhūmo   rajo   candamaṇḍalassa   vaṇṇanibhā   sūriyamaṇḍalassa   vaṇṇanibhā   tārakarūpānaṃ   vaṇṇanibhā   ādāsamaṇḍalassa   vaṇṇanibhā   maṇisaṅkhamuttāveḷuriyassa   vaṇṇanibhā   jātarūparajatassa   vaṇṇanibhā   yaṃ   vā   panaññampi   atthi   rūpaṃ   catunnaṃ   mahābhūtānaṃ   upādāya   vaṇṇanibhā   sanidassanaṃ   sappaṭighaṃ   yaṃ   rūpaṃ   sanidassanaṃ   sappaṭighaṃ   cakkhunā   anidassanena   sappaṭighena   passi   vā   passati   vā   passissati   vā   passe   vā   rūpaṃ   petaṃ   rūpāyatanaṃ   petaṃ   rūpadhātu   pesā   idaṃ   taṃ   rūpaṃ   rūpāyatanaṃ
-\glb    What   that   material   visible-form-base   That   material   four   great_primaries   derived   --   visible   with_impingement   --   --   --   --   --   --   --   --   --   --   --   --   --   --   --   --   --   --   --   --   --   --   --   --   --   --   --   --   --   --   --   --   --   --   --   --   --   --   --   --   --   that   or   --   is   material   four   great_primaries   derived   --   visible   with_impingement   that   material   visible   with_impingement   eye   invisible   --   seen   or   sees   or   will_see   or   may_see   or   material   this   visible-form-base   this   visible_form_element   this   this   that   material   visible-form-base
+\glb    What   that   material   visible-form-base   That   material   four   great_primaries   derived   color   visible   with_impingement   blue   yellow   red   white   black   crimson   green   green   mango-bud_color   long   short   --   --   round   circular   square   hexagonal   octagonal   sixteen-sided   --   --   shadow   sunlight   light   darkness   cloud   mist   smoke   dust   --   color   --   color   --   color   mirror   color   --   color   gold   color   that   or   other   is   material   four   great_primaries   derived   color   visible   with_impingement   that   material   visible   with_impingement   eye   invisible   --   seen   or   sees   or   will_see   or   may_see   or   material   this   visible-form-base   this   visible_form_element   this   this   that   material   visible-form-base
 \ex     What is that material form which is the visible form sense base? That material form which, derived from the four great primaries, is color and appearance, visible and with impingement—blue, yellow, red, white, black, crimson, green, mango-bud colored; long, short, small, large, round, circular, square, hexagonal, octagonal, sixteen-sided; low, high, shadow, sunlight, light, darkness, cloud, mist, smoke, dust; the color and appearance of the moon's disk, the sun's disk, stars; the color and appearance of a mirror, a gem, a conch, a pearl, lapis lazuli; the color and appearance of gold or silver; or whatever other material form there is which, derived from the four great primaries, is color and appearance, visible and with impingement; which visible form, visible and with impingement, one has seen, sees, will see, or may see with the eye, invisible and with impingement; this is visible form, this is the visible form sense base, this is the visible form element – this is that material form which is the visible form sense base.
 ```
 
@@ -288,7 +288,7 @@ status: draft
 
 ```gloss
 \gla    Katamaṃ   taṃ   rūpaṃ   rūpāyatanaṃ   Yaṃ   rūpaṃ   catunnaṃ   mahābhūtānaṃ   upādāya   vaṇṇanibhā   sanidassanaṃ   sappaṭighaṃ   nīlaṃ   pītakaṃ   lohitakaṃ   odātaṃ   kāḷakaṃ   mañjiṭṭhakaṃ   hari   harivaṇṇaṃ   ambaṅkuravaṇṇaṃ   dīghaṃ   rassaṃ   aṇuṃ   thūlaṃ   vaṭṭaṃ   parimaṇḍalaṃ   caturaṃsaṃ   chaḷaṃsaṃ   aṭṭhaṃsaṃ   soḷasaṃsaṃ   ninnaṃ   thalaṃ   chāyā   ātapo   āloko   andhakāro   abbhā   mahikā   dhūmo   rajo   candamaṇḍalassa   vaṇṇanibhā   sūriyamaṇḍalassa   vaṇṇanibhā   tārakarūpānaṃ   vaṇṇanibhā   ādāsamaṇḍalassa   vaṇṇanibhā   maṇisaṅkhamuttāveḷuriyassa   vaṇṇanibhā   jātarūparajatassa   vaṇṇanibhā   yaṃ   vā   panaññampi   atthi   rūpaṃ   catunnaṃ   mahābhūtānaṃ   upādāya   vaṇṇanibhā   sanidassanaṃ   sappaṭighaṃ   yamhi   rūpamhi   sanidassanamhi   sappaṭighamhi   cakkhuṃ   anidassanaṃ   sappaṭighaṃ   paṭihaññi   vā   paṭihaññati   vā   paṭihaññissati   vā   paṭihaññe   vā   rūpaṃ   petaṃ   rūpāyatanaṃ   petaṃ   rūpadhātu   pesā   idaṃ   taṃ   rūpaṃ   rūpāyatanaṃ
-\glb    What   that   material   visible-form-base   That   material   four   great_primaries   derived   --   visible   with_impingement   --   --   --   --   --   --   --   --   --   --   --   --   --   --   --   --   --   --   --   --   --   --   --   --   --   --   --   --   --   --   --   --   --   --   --   --   --   --   --   --   --   that   or   --   is   material   four   great_primaries   derived   --   visible   with_impingement   which   material   visible   --   eye   invisible   with_impingement   impinged   or   impinges   or   will_impinge   or   may_impinge   or   material   this   visible-form-base   this   visible_form_element   this   this   that   material   visible-form-base
+\glb    What   that   material   visible-form-base   That   material   four   great_primaries   derived   color   visible   with_impingement   blue   yellow   red   white   black   crimson   green   green   mango-bud_color   long   short   --   --   round   circular   square   hexagonal   octagonal   sixteen-sided   --   --   shadow   sunlight   light   darkness   cloud   mist   smoke   dust   --   color   --   color   --   color   mirror   color   --   color   gold   color   that   or   other   is   material   four   great_primaries   derived   color   visible   with_impingement   which   material   visible   with_impingement   eye   invisible   with_impingement   impinged   or   impinges   or   will_impinge   or   may_impinge   or   material   this   visible-form-base   this   visible_form_element   this   this   that   material   visible-form-base
 \ex     What is that material form which is the visible form sense base? That material form which, derived from the four great primaries, is color and appearance, visible and with impingement—blue, yellow, red, white, black, crimson, green, mango-bud colored; long, short, small, large, round, circular, square, hexagonal, octagonal, sixteen-sided; low, high, shadow, sunlight, light, darkness, cloud, mist, smoke, dust; the color and appearance of the moon's disk, the sun's disk, stars; the color and appearance of a mirror, a gem, a conch, a pearl, lapis lazuli; the color and appearance of gold or silver; or whatever other material form there is which, derived from the four great primaries, is color and appearance, visible and with impingement; against which visible form, visible and with impingement, the eye, invisible and with impingement, has impinged, impinges, will impinge, or may impinge; this is visible form, this is the visible form sense base, this is the visible form element – this is that material form which is the visible form sense base.
 ```
 
@@ -296,7 +296,7 @@ status: draft
 
 ```gloss
 \gla    Katamaṃ   taṃ   rūpaṃ   rūpāyatanaṃ   Yaṃ   rūpaṃ   catunnaṃ   mahābhūtānaṃ   upādāya   vaṇṇanibhā   sanidassanaṃ   sappaṭighaṃ   nīlaṃ   pītakaṃ   lohitakaṃ   odātaṃ   kāḷakaṃ   mañjiṭṭhakaṃ   hari   harivaṇṇaṃ   ambaṅkuravaṇṇaṃ   dīghaṃ   rassaṃ   aṇuṃ   thūlaṃ   vaṭṭaṃ   parimaṇḍalaṃ   caturaṃsaṃ   chaḷaṃsaṃ   aṭṭhaṃsaṃ   soḷasaṃsaṃ   ninnaṃ   thalaṃ   chāyā   ātapo   āloko   andhakāro   abbhā   mahikā   dhūmo   rajo   candamaṇḍalassa   vaṇṇanibhā   sūriyamaṇḍalassa   vaṇṇanibhā   tārakarūpānaṃ   vaṇṇanibhā   ādāsamaṇḍalassa   vaṇṇanibhā   maṇisaṅkhamuttāveḷuriyassa   vaṇṇanibhā   jātarūparajatassa   vaṇṇanibhā   yaṃ   vā   panaññampi   atthi   rūpaṃ   catunnaṃ   mahābhūtānaṃ   upādāya   vaṇṇanibhā   sanidassanaṃ   sappaṭighaṃ   yaṃ   rūpaṃ   sanidassanaṃ   sappaṭighaṃ   cakkhumhi   anidassanamhi   sappaṭighamhi   paṭihaññi   vā   paṭihaññati   vā   paṭihaññissati   vā   paṭihaññe   vā   rūpaṃ   petaṃ   rūpāyatanaṃ   petaṃ   rūpadhātu   pesā   idaṃ   taṃ   rūpaṃ   rūpāyatanaṃ
-\glb    What   that   matter   visible_object_base   That   matter   four   great_elements   derived   --   visible   impinging   --   --   --   --   --   --   --   --   --   --   --   --   --   --   --   --   --   --   --   --   --   --   --   --   --   --   --   --   --   --   --   --   --   --   --   --   --   --   --   --   --   that   or   --   is   matter   four   great_elements   derived   --   visible   impinging   that   matter   visible   impinging   --   invisible   impinging   impinged   or   impinges   or   will_impinge   or   may_impinge   or   matter   this   visible_object_base   this   visible   this   this   that   matter   visible_object_base
+\glb    What   that   matter   visible_object_base   That   matter   four   great_elements   derived   luster   visible   impinging   blue   yellow   red   white   black   crimson   green   green   mango-bud_color   long   short   minute   coarse   round   circular   square   hexagonal   octagonal   sixteen-sided   depression   elevation   shadow   sunlight   light   darkness   cloud   mist   smoke   dust   --   luster   --   luster   star_forms   luster   --   luster   gems   luster   gold   luster   that   or   other   is   matter   four   great_elements   derived   luster   visible   impinging   that   matter   visible   impinging   --   invisible   impinging   impinged   or   impinges   or   will_impinge   or   may_impinge   or   matter   this   visible_object_base   this   visible   this   this   that   matter   visible_object_base
 \ex     What is that matter which is the visible object base? That matter, derived from the four great essential elements, visible as color and luster, impinging: blue, yellow, red, white, black, crimson, green, mango-bud color; long, short, minute, coarse, round, circular, square, hexagonal, octagonal, sixteen-sided; depression, elevation, shadow, sunlight, light, darkness, cloud, mist, smoke, dust; the luster of the moon's orb, the sun's orb, star forms, a mirror's orb, gems, conches, pearls, lapis lazuli, gold, and silver. Or whatever other matter exists, derived from the four great essential elements, visible as color and luster, impinging. That matter, visible and impinging, which impinged, impinges, will impinge, or may impinge on the eye, which is invisible and impinging. This matter is the visible object base, this is the visible object element – this is that matter, the visible object base.
 ```
 
@@ -304,7 +304,7 @@ status: draft
 
 ```gloss
 \gla    Katamaṃ   taṃ   rūpaṃ   rūpāyatanaṃ   Yaṃ   rūpaṃ   catunnaṃ   mahābhūtānaṃ   upādāya   vaṇṇanibhā   sanidassanaṃ   sappaṭighaṃ   nīlaṃ   pītakaṃ   lohitakaṃ   odātaṃ   kāḷakaṃ   mañjiṭṭhakaṃ   hari   harivaṇṇaṃ   ambaṅkuravaṇṇaṃ   dīghaṃ   rassaṃ   aṇuṃ   thūlaṃ   vaṭṭaṃ   parimaṇḍalaṃ   caturaṃsaṃ   chaḷaṃsaṃ   aṭṭhaṃsaṃ   soḷasaṃsaṃ   ninnaṃ   thalaṃ   chāyā   ātapo   āloko   andhakāro   abbhā   mahikā   dhūmo   rajo   candamaṇḍalassa   vaṇṇanibhā   sūriyamaṇḍalassa   vaṇṇanibhā   tārakarūpānaṃ   vaṇṇanibhā   ādāsamaṇḍalassa   vaṇṇanibhā   maṇisaṅkhamuttāveḷuriyassa   vaṇṇanibhā   jātarūparajatassa   vaṇṇanibhā   yaṃ   vā   panaññampi   atthi   rūpaṃ   catunnaṃ   mahābhūtānaṃ   upādāya   vaṇṇanibhā   sanidassanaṃ   sappaṭighaṃ   yaṃ   rūpaṃ   ārabbha   cakkhuṃ   nissāya   cakkhusamphasso   uppajji   vā   uppajjati   vā   uppajjissati   vā   uppajje   vā…pe…   yaṃ   rūpaṃ   ārabbha   cakkhuṃ   nissāya   cakkhusamphassajā   vedanā…pe…   saññā…pe…   cetanā…pe…   cakkhuviññāṇaṃ   uppajji   vā   uppajjati   vā   uppajjissati   vā   uppajje   vā…pe…   yaṃ   rūpārammaṇo   cakkhuṃ   nissāya   cakkhusamphasso   uppajji   vā   uppajjati   vā   uppajjissati   vā   uppajje   vā…pe…   yaṃ   rūpārammaṇā   cakkhuṃ   nissāya   cakkhusamphassajā   vedanā…pe…   saññā…pe…   cetanā…pe…   cakkhuviññāṇaṃ   uppajji   vā   uppajjati   vā   uppajjissati   vā   uppajje   vā   rūpaṃ   petaṃ   rūpāyatanaṃ   petaṃ   rūpadhātu   pesā   idaṃ   taṃ   rūpaṃ   rūpāyatanaṃ
-\glb    What   that   matter   visible_object_base   That   matter   four   great_elements   derived   --   visible   impinging   --   --   --   --   --   --   --   --   --   --   --   --   --   --   --   --   --   --   --   --   --   --   --   --   --   --   --   --   --   --   --   --   --   --   --   --   --   --   --   --   --   that   or   --   is   matter   four   great_elements   derived   --   visible   impinging   that   matter   --   eye   --   eye-contact   --   or   --   or   --   or   --   --   that   matter   --   eye   --   --   --   --   --   eye-consciousness   --   or   --   or   --   or   --   --   that   --   eye   --   eye-contact   --   or   --   or   --   or   --   --   that   --   eye   --   --   --   --   --   eye-consciousness   --   or   --   or   --   or   --   or   matter   this   visible_object_base   this   visible   this   this   that   matter   visible_object_base
+\glb    What   that   matter   visible_object_base   That   matter   four   great_elements   derived   luster   visible   impinging   blue   yellow   red   white   black   crimson   green   green   mango-bud_color   long   short   minute   coarse   round   circular   square   hexagonal   octagonal   sixteen-sided   depression   elevation   shadow   sunlight   light   darkness   cloud   mist   smoke   dust   --   luster   --   luster   star_forms   luster   --   luster   gems   luster   gold   luster   that   or   other   is   matter   four   great_elements   derived   luster   visible   impinging   that   matter   object   eye   relying   eye-contact   arose   or   arises   or   will_arise   or   may_arise   --   that   matter   object   eye   relying   born_of_eye-contact   --   --   --   eye-consciousness   arose   or   arises   or   will_arise   or   may_arise   --   that   object   eye   relying   eye-contact   arose   or   arises   or   will_arise   or   may_arise   --   that   object   eye   relying   born_of_eye-contact   --   --   --   eye-consciousness   arose   or   arises   or   will_arise   or   may_arise   or   matter   this   visible_object_base   this   visible   this   this   that   matter   visible_object_base
 \ex     What is that matter which is the visible object base? That matter, derived from the four great essential elements, visible as color and luster, impinging: blue, yellow, red, white, black, crimson, green, mango-bud color; long, short, minute, coarse, round, circular, square, hexagonal, octagonal, sixteen-sided; depression, elevation, shadow, sunlight, light, darkness, cloud, mist, smoke, dust; the luster of the moon's orb, the sun's orb, star forms, a mirror's orb, gems, conches, pearls, lapis lazuli, gold, and silver. Or whatever other matter exists, derived from the four great essential elements, visible as color and luster, impinging. That matter, having taken it as an object and relying on the eye, eye-contact arose, arises, will arise, or may arise; feeling born of eye-contact, perception, volition, eye-consciousness arose, arises, will arise, or may arise. That matter as its object, relying on the eye, eye-contact arose, arises, will arise, or may arise; feeling born of eye-contact, perception, volition, eye-consciousness arose, arises, will arise, or may arise. This matter is the visible object base, this is the visible object element – this is that matter, the visible object base.
 ```
 
@@ -312,7 +312,7 @@ status: draft
 
 ```gloss
 \gla    Katamaṃ   taṃ   rūpaṃ   saddāyatanaṃ   Yo   saddo   catunnaṃ   mahābhūtānaṃ   upādāya   anidassano   sappaṭigho   bherisaddo   mudiṅgasaddo   saṅkhasaddo   paṇavasaddo   gītasaddo   vāditasaddo   sammasaddo   pāṇisaddo   sattānaṃ   nigghosasaddo   dhātūnaṃ   sannighātasaddo   vātasaddo   udakasaddo   manussasaddo   amanussasaddo   yo   vā   panaññopi   atthi   saddo   catunnaṃ   mahābhūtānaṃ   upādāya   anidassano   sappaṭigho   yaṃ   saddaṃ   anidassanaṃ   sappaṭighaṃ   sotena   anidassanena   sappaṭighena   suṇi   vā   suṇāti   vā   suṇissati   vā   suṇe   vā   saddo   peso   saddāyatanaṃ   petaṃ   saddadhātu   pesā   idaṃ   taṃ   rūpaṃ   saddāyatanaṃ
-\glb    What   that   matter   sound-base   That   --   four   great_elements   derived   invisible   impinging   --   --   --   --   --   --   --   --   --   --   --   --   --   --   --   --   that   or   --   is   --   four   great_elements   derived   invisible   impinging   that   --   invisible   impinging   ear   invisible   impinging   --   or   --   or   --   or   --   or   --   this   sound-base   this   sound_element   this   this   that   matter   sound-base
+\glb    What   that   matter   sound-base   That   sound   four   great_elements   derived   invisible   impinging   --   --   --   --   --   --   --   --   --   --   --   --   --   --   --   --   that   or   --   is   sound   four   great_elements   derived   invisible   impinging   that   --   invisible   impinging   ear   invisible   impinging   --   or   --   or   --   or   --   or   sound   this   sound-base   this   sound_element   this   this   that   matter   sound-base
 \ex     What is that matter which is the sound base? That sound, derived from the four great essential elements, invisible and impinging: drum sound, tabor sound, conch sound, instrumental music, singing, instrumental music, clapping, manual sounds, sounds of living beings, sounds of colliding elements, wind sound, water sound, human sound, non-human sound. Or whatever other sound exists, derived from the four great essential elements, invisible and impinging. That sound, invisible and impinging, which one heard, hears, will hear, or may hear with the ear, which is invisible and impinging. This sound is the sound base, this is the sound element – this is that matter, the sound base.
 ```
 
@@ -320,7 +320,7 @@ status: draft
 
 ```gloss
 \gla    Katamaṃ   taṃ   rūpaṃ   saddāyatanaṃ   Yo   saddo   catunnaṃ   mahābhūtānaṃ   upādāya   anidassano   sappaṭigho   bherisaddo   mudiṅgasaddo   saṅkhasaddo   paṇavasaddo   gītasaddo   vāditasaddo   sammasaddo   pāṇisaddo   sattānaṃ   nigghosasaddo   dhātūnaṃ   sannighātasaddo   vātasaddo   udakasaddo   manussasaddo   amanussasaddo   yo   vā   panaññopi   atthi   saddo   catunnaṃ   mahābhūtānaṃ   upādāya   anidassano   sappaṭigho   yamhi   saddamhi   anidassanamhi   sappaṭighamhi   sotaṃ   anidassanaṃ   sappaṭighaṃ   paṭihaññi   vā   paṭihaññati   vā   paṭihaññissati   vā   paṭihaññe   vā   saddo   peso   saddāyatanaṃ   petaṃ   saddadhātu   pesā   idaṃ   taṃ   rūpaṃ   saddāyatanaṃ
-\glb    What   that   matter   sound-base   That   --   four   great_elements   derived   invisible   impinging   --   --   --   --   --   --   --   --   --   --   --   --   --   --   --   --   that   or   --   is   --   four   great_elements   derived   invisible   impinging   which   --   invisible   impinging   ear   invisible   impinging   impinged   or   impinges   or   will_impinge   or   may_impinge   or   --   this   sound-base   this   sound_element   this   this   that   matter   sound-base
+\glb    What   that   matter   sound-base   That   sound   four   great_elements   derived   invisible   impinging   --   --   --   --   --   --   --   --   --   --   --   --   --   --   --   --   that   or   --   is   sound   four   great_elements   derived   invisible   impinging   which   --   invisible   impinging   ear   invisible   impinging   impinged   or   impinges   or   will_impinge   or   may_impinge   or   sound   this   sound-base   this   sound_element   this   this   that   matter   sound-base
 \ex     What is that matter which is the sound base? That sound, derived from the four great essential elements, invisible and impinging: drum sound, tabor sound, conch sound, instrumental music, singing, instrumental music, clapping, manual sounds, sounds of living beings, sounds of colliding elements, wind sound, water sound, human sound, non-human sound. Or whatever other sound exists, derived from the four great essential elements, invisible and impinging. That sound, invisible and impinging, on which the ear, invisible and impinging, impinged, impinges, will impinge, or may impinge. This sound is the sound base, this is the sound element – this is that matter, the sound base.
 ```
 
@@ -328,7 +328,7 @@ status: draft
 
 ```gloss
 \gla    Katamaṃ   taṃ   rūpaṃ   saddāyatanaṃ   Yo   saddo   catunnaṃ   mahābhūtānaṃ   upādāya   anidassano   sappaṭigho   bherisaddo   mudiṅgasaddo   saṅkhasaddo   paṇavasaddo   gītasaddo   vāditasaddo   sammasaddo   pāṇisaddo   sattānaṃ   nigghosasaddo   dhātūnaṃ   sannighātasaddo   vātasaddo   udakasaddo   manussasaddo   amanussasaddo   yo   vā   panaññopi   atthi   saddo   catunnaṃ   mahābhūtānaṃ   upādāya   anidassano   sappaṭigho   yo   saddo   anidassano   sappaṭigho   sotamhi   anidassanamhi   sappaṭighamhi   paṭihaññi   vā   paṭihaññati   vā   paṭihaññissati   vā   paṭihaññe   vā   saddo   peso   saddāyatanaṃ   petaṃ   saddadhātu   pesā   idaṃ   taṃ   rūpaṃ   saddāyatanaṃ
-\glb    What   that   matter   sound-base   That   --   four   great_elements   derived   invisible   impinging   --   --   --   --   --   --   --   --   --   --   --   --   --   --   --   --   that   or   --   is   --   four   great_elements   derived   invisible   impinging   that   --   invisible   impinging   --   invisible   impinging   impinged   or   impinges   or   will_impinge   or   may_impinge   or   --   this   sound-base   this   sound_element   this   this   that   matter   sound-base
+\glb    What   that   matter   sound-base   That   sound   four   great_elements   derived   invisible   impinging   --   --   --   --   --   --   --   --   --   --   --   --   --   --   --   --   that   or   --   is   sound   four   great_elements   derived   invisible   impinging   that   sound   invisible   impinging   --   invisible   impinging   impinged   or   impinges   or   will_impinge   or   may_impinge   or   sound   this   sound-base   this   sound_element   this   this   that   matter   sound-base
 \ex     What is that matter which is the sound base? That sound, derived from the four great essential elements, invisible and impinging: drum sound, tabor sound, conch sound, instrumental music, singing, instrumental music, clapping, manual sounds, sounds of living beings, sounds of colliding elements, wind sound, water sound, human sound, non-human sound. Or whatever other sound exists, derived from the four great essential elements, invisible and impinging. That sound, invisible and impinging, which impinged, impinges, will impinge, or may impinge on the ear, which is invisible and impinging. This sound is the sound base, this is the sound element – this is that matter, the sound base.
 ```
 
@@ -336,7 +336,7 @@ status: draft
 
 ```gloss
 \gla    Katamaṃ   taṃ   rūpaṃ   saddāyatanaṃ   Yo   saddo   catunnaṃ   mahābhūtānaṃ   upādāya   anidassano   sappaṭigho   bherisaddo   mudiṅgasaddo   saṅkhasaddo   paṇavasaddo   gītasaddo   vāditasaddo   sammasaddo   pāṇisaddo   sattānaṃ   nigghosasaddo   dhātūnaṃ   sannighātasaddo   vātasaddo   udakasaddo   manussasaddo   amanussasaddo   yo   vā   panaññopi   atthi   saddo   catunnaṃ   mahābhūtānaṃ   upādāya   anidassano   sappaṭigho   yaṃ   saddaṃ   ārabbha   sotaṃ   nissāya   sotasamphasso   uppajji   vā   uppajjati   vā   uppajjissati   vā   uppajje   vā…pe…   yaṃ   saddaṃ   ārabbha   sotaṃ   nissāya   sotasamphassajā   vedanā…pe…   saññā…pe…   cetanā…pe…   sotaviññāṇaṃ   uppajji   vā   uppajjati   vā   uppajjissati   vā   uppajje   vā…pe…   yaṃ   saddārammaṇo   sotaṃ   nissāya   sotasamphasso   uppajji   vā   uppajjati   vā   uppajjissati   vā   uppajje   vā…pe…   yaṃ   saddārammaṇā   sotaṃ   nissāya   sotasamphassajā   vedanā…pe…   saññā…pe…   cetanā…pe…   sotaviññāṇaṃ   uppajji   vā   uppajjati   vā   uppajjissati   vā   uppajje   vā   saddo   peso   saddāyatanaṃ   petaṃ   saddadhātu   pesā   idaṃ   taṃ   rūpaṃ   saddāyatanaṃ
-\glb    What   that   matter   sound-base   That   --   four   great_elements   derived   invisible   impinging   --   --   --   --   --   --   --   --   --   --   --   --   --   --   --   --   that   or   --   is   --   four   great_elements   derived   invisible   impinging   that   --   --   ear   --   ear-contact   --   or   --   or   --   or   --   --   that   --   --   ear   --   --   --   --   --   ear-consciousness   --   or   --   or   --   or   --   --   that   --   ear   --   ear-contact   --   or   --   or   --   or   --   --   that   --   ear   --   --   --   --   --   ear-consciousness   --   or   --   or   --   or   --   or   --   this   sound-base   this   sound_element   this   this   that   matter   sound-base
+\glb    What   that   matter   sound-base   That   sound   four   great_elements   derived   invisible   impinging   --   --   --   --   --   --   --   --   --   --   --   --   --   --   --   --   that   or   --   is   sound   four   great_elements   derived   invisible   impinging   that   --   object   ear   relying   ear-contact   arose   or   arises   or   will_arise   or   may_arise   --   that   --   object   ear   relying   --   --   --   --   ear-consciousness   arose   or   arises   or   will_arise   or   may_arise   --   that   --   ear   relying   ear-contact   arose   or   arises   or   will_arise   or   may_arise   --   that   --   ear   relying   --   --   --   --   ear-consciousness   arose   or   arises   or   will_arise   or   may_arise   or   sound   this   sound-base   this   sound_element   this   this   that   matter   sound-base
 \ex     What is that matter which is the sound base? That sound, derived from the four great essential elements, invisible and impinging: drum sound, tabor sound, conch sound, instrumental music, singing, instrumental music, clapping, manual sounds, sounds of living beings, sounds of colliding elements, wind sound, water sound, human sound, non-human sound. Or whatever other sound exists, derived from the four great essential elements, invisible and impinging. That sound, having taken it as an object and relying on the ear, ear-contact arose, arises, will arise, or may arise; feeling born of ear-contact, perception, volition, ear-consciousness arose, arises, will arise, or may arise. That sound as its object, relying on the ear, ear-contact arose, arises, will arise, or may arise; feeling born of ear-contact, perception, volition, ear-consciousness arose, arises, will arise, or may arise. This sound is the sound base, this is the sound element – this is that matter, the sound base.
 ```
 
@@ -344,7 +344,7 @@ status: draft
 
 ```gloss
 \gla    Katamaṃ   taṃ   rūpaṃ   gandhāyatanaṃ   Yo   gandho   catunnaṃ   mahābhūtānaṃ   upādāya   anidassano   sappaṭigho   mūlagandho   sāragandho   tacagandho   pattagandho   pupphagandho   phalagandho   āmakagandho   vissagandho   sugandho   duggandho   yo   vā   panaññopi   atthi   gandho   catunnaṃ   mahābhūtānaṃ   upādāya   anidassano   sappaṭigho   yaṃ   gandhaṃ   anidassanaṃ   sappaṭighaṃ   ghānena   anidassanena   sappaṭighena   ghāyi   vā   ghāyati   vā   ghāyissati   vā   ghāye   vā   gandho   peso   gandhāyatanaṃ   petaṃ   gandhadhātu   pesā   idaṃ   taṃ   rūpaṃ   gandhāyatanaṃ
-\glb    What   that   matter   smell-base   That   --   four   great_elements   derived   invisible   impinging   --   --   --   --   --   --   --   --   --   --   that   or   --   is   --   four   great_elements   derived   invisible   impinging   that   --   invisible   impinging   nose   invisible   impinging   --   or   --   or   --   or   --   or   --   this   smell-base   this   smell_element   this   this   that   matter   smell-base
+\glb    What   that   matter   smell-base   That   smell   four   great_elements   derived   invisible   impinging   --   --   --   --   --   --   --   --   --   --   that   or   --   is   smell   four   great_elements   derived   invisible   impinging   that   --   invisible   impinging   nose   invisible   impinging   --   or   --   or   --   or   --   or   smell   this   smell-base   this   smell_element   this   this   that   matter   smell-base
 \ex     What is that matter which is the odor base? That odor, derived from the four great essential elements, invisible and impinging: root odor, wood odor, bark odor, leaf odor, flower odor, fruit odor, raw odor, putrid odor, pleasant odor, unpleasant odor. Or whatever other odor exists, derived from the four great essential elements, invisible and impinging. That odor, invisible and impinging, which one smelled, smells, will smell, or may smell with the nose, which is invisible and impinging. This odor is the odor base, this is the odor element – this is that matter, the odor base.
 ```
 
@@ -352,7 +352,7 @@ status: draft
 
 ```gloss
 \gla    Katamaṃ   taṃ   rūpaṃ   gandhāyatanaṃ   Yo   gandho   catunnaṃ   mahābhūtānaṃ   upādāya   anidassano   sappaṭigho   mūlagandho   sāragandho   tacagandho   pattagandho   pupphagandho   phalagandho   āmakagandho   vissagandho   sugandho   duggandho   yo   vā   panaññopi   atthi   gandho   catunnaṃ   mahābhūtānaṃ   upādāya   anidassano   sappaṭigho   yamhi   gandhamhi   anidassanamhi   sappaṭighamhi   ghānaṃ   anidassanaṃ   sappaṭighaṃ   paṭihaññi   vā   paṭihaññati   vā   paṭihaññissati   vā   paṭihaññe   vā   gandho   peso   gandhāyatanaṃ   petaṃ   gandhadhātu   pesā   idaṃ   taṃ   rūpaṃ   gandhāyatanaṃ
-\glb    What   that   matter   --   That   --   four   great_elements   derived   invisible   impinging   --   --   --   --   --   --   --   --   --   --   that   or   --   is   --   four   great_elements   derived   invisible   impinging   which   --   invisible   impinging   nose   invisible   impinging   impinged   or   impinges   or   will_impinge   or   may_impinge   or   --   this   --   this   --   this   this   that   matter   --
+\glb    What   that   matter   --   That   odor   four   great_elements   derived   invisible   impinging   --   --   --   --   --   --   --   --   --   --   that   or   --   is   odor   four   great_elements   derived   invisible   impinging   which   --   invisible   impinging   nose   invisible   impinging   impinged   or   impinges   or   will_impinge   or   may_impinge   or   odor   this   --   this   --   this   this   that   matter   --
 \ex     What is that matter which is the odor base? That odor, derived from the four great essential elements, invisible and impinging: root odor, wood odor, bark odor, leaf odor, flower odor, fruit odor, raw odor, putrid odor, pleasant odor, unpleasant odor. Or whatever other odor exists, derived from the four great essential elements, invisible and impinging. That odor, invisible and impinging, on which the nose, invisible and impinging, impinged, impinges, will impinge, or may impinge. This odor is the odor base, this is the odor element – this is that matter, the odor base.
 ```
 
@@ -360,7 +360,7 @@ status: draft
 
 ```gloss
 \gla    Katamaṃ   taṃ   rūpaṃ   gandhāyatanaṃ   Yo   gandho   catunnaṃ   mahābhūtānaṃ   upādāya   anidassano   sappaṭigho   mūlagandho   sāragandho   tacagandho   pattagandho   pupphagandho   phalagandho   āmakagandho   vissagandho   sugandho   duggandho   yo   vā   panaññopi   atthi   gandho   catunnaṃ   mahābhūtānaṃ   upādāya   anidassano   sappaṭigho   yo   gandho   anidassano   sappaṭigho   ghānamhi   anidassanamhi   sappaṭighamhi   paṭihaññi   vā   paṭihaññati   vā   paṭihaññissati   vā   paṭihaññe   vā   gandho   peso   gandhāyatanaṃ   petaṃ   gandhadhātu   pesā   idaṃ   taṃ   rūpaṃ   gandhāyatanaṃ
-\glb    What   that   matter   --   That   --   four   great_elements   derived   invisible   impinging   --   --   --   --   --   --   --   --   --   --   that   or   --   is   --   four   great_elements   derived   invisible   impinging   that   --   invisible   impinging   --   invisible   impinging   impinged   or   impinges   or   will_impinge   or   may_impinge   or   --   this   --   this   --   this   this   that   matter   --
+\glb    What   that   matter   --   That   odor   four   great_elements   derived   invisible   impinging   --   --   --   --   --   --   --   --   --   --   that   or   --   is   odor   four   great_elements   derived   invisible   impinging   that   odor   invisible   impinging   --   invisible   impinging   impinged   or   impinges   or   will_impinge   or   may_impinge   or   odor   this   --   this   --   this   this   that   matter   --
 \ex     What is that matter which is the odor base? That odor, derived from the four great essential elements, invisible and impinging: root odor, wood odor, bark odor, leaf odor, flower odor, fruit odor, raw odor, putrid odor, pleasant odor, unpleasant odor. Or whatever other odor exists, derived from the four great essential elements, invisible and impinging. That odor, invisible and impinging, which impinged, impinges, will impinge, or may impinge on the nose, which is invisible and impinging. This odor is the odor base, this is the odor element – this is that matter, the odor base.
 ```
 
@@ -368,7 +368,7 @@ status: draft
 
 ```gloss
 \gla    Katamaṃ   taṃ   rūpaṃ   gandhāyatanaṃ   Yo   gandho   catunnaṃ   mahābhūtānaṃ   upādāya   anidassano   sappaṭigho   mūlagandho   sāragandho   tacagandho   pattagandho   pupphagandho   phalagandho   āmakagandho   vissagandho   sugandho   duggandho   yo   vā   panaññopi   atthi   gandho   catunnaṃ   mahābhūtānaṃ   upādāya   anidassano   sappaṭigho   yaṃ   gandhaṃ   ārabbha   ghānaṃ   nissāya   ghānasamphasso   uppajji   vā   uppajjati   vā   uppajjissati   vā   uppajje   vā…pe…   yaṃ   gandhaṃ   ārabbha   ghānaṃ   nissāya   ghānasamphassajā   vedanā…pe…   saññā…pe…   cetanā…pe…   ghānaviññāṇaṃ   uppajji   vā   uppajjati   vā   uppajjissati   vā   uppajje   vā…pe…   yaṃ   gandhārammaṇo   ghānaṃ   nissāya   ghānasamphasso   uppajji   vā   uppajjati   vā   uppajjissati   vā   uppajje   vā…pe…   yaṃ   gandhārammaṇā   ghānaṃ   nissāya   ghānasamphassajā   vedanā…pe…   saññā…pe…   cetanā…pe…   ghānaviññāṇaṃ   uppajji   vā   uppajjati   vā   uppajjissati   vā   uppajje   vā   gandho   peso   gandhāyatanaṃ   petaṃ   gandhadhātu   pesā   idaṃ   taṃ   rūpaṃ   gandhāyatanaṃ
-\glb    What   that   matter   --   That   --   four   great_elements   derived   invisible   impinging   --   --   --   --   --   --   --   --   --   --   that   or   --   is   --   four   great_elements   derived   invisible   impinging   that   --   --   nose   --   nose-contact   --   or   --   or   --   or   --   --   that   --   --   nose   --   --   --   --   --   nose-consciousness   --   or   --   or   --   or   --   --   that   --   nose   --   nose-contact   --   or   --   or   --   or   --   --   that   --   nose   --   --   --   --   --   nose-consciousness   --   or   --   or   --   or   --   or   --   this   --   this   --   this   this   that   matter   --
+\glb    What   that   matter   --   That   odor   four   great_elements   derived   invisible   impinging   --   --   --   --   --   --   --   --   --   --   that   or   --   is   odor   four   great_elements   derived   invisible   impinging   that   --   object   nose   relying   nose-contact   arose   or   arises   or   will_arise   or   may_arise   --   that   --   object   nose   relying   --   --   --   --   nose-consciousness   arose   or   arises   or   will_arise   or   may_arise   --   that   --   nose   relying   nose-contact   arose   or   arises   or   will_arise   or   may_arise   --   that   --   nose   relying   --   --   --   --   nose-consciousness   arose   or   arises   or   will_arise   or   may_arise   or   odor   this   --   this   --   this   this   that   matter   --
 \ex     What is that matter which is the odor base? That odor, derived from the four great essential elements, invisible and impinging: root odor, wood odor, bark odor, leaf odor, flower odor, fruit odor, raw odor, putrid odor, pleasant odor, unpleasant odor. Or whatever other odor exists, derived from the four great essential elements, invisible and impinging. That odor, having taken it as an object and relying on the nose, nose-contact arose, arises, will arise, or may arise; feeling born of nose-contact, perception, volition, nose-consciousness arose, arises, will arise, or may arise. That odor as its object, relying on the nose, nose-contact arose, arises, will arise, or may arise; feeling born of nose-contact, perception, volition, nose-consciousness arose, arises, will arise, or may arise. This odor is the odor base, this is the odor element – this is that matter, the odor base.
 ```
 
@@ -376,7 +376,7 @@ status: draft
 
 ```gloss
 \gla    Katamaṃ   taṃ   rūpaṃ   rasāyatanaṃ   Yo   raso   catunnaṃ   mahābhūtānaṃ   upādāya   anidassano   sappaṭigho   mūlaraso   khandharaso   tacaraso   pattaraso   puppharaso   phalaraso   ambilaṃ   madhuraṃ   tittakaṃ   kaṭukaṃ   loṇikaṃ   khārikaṃ   lambilaṃ   kasāvo   sādu   asādu   yo   vā   panaññopi   atthi   raso   catunnaṃ   mahābhūtānaṃ   upādāya   anidassano   sappaṭigho   yaṃ   rasaṃ   anidassanaṃ   sappaṭighaṃ   jivhāya   anidassanāya   sappaṭighāya   sāyi   vā   sāyati   vā   sāyissati   vā   sāye   vā   raso   peso   rasāyatanaṃ   petaṃ   rasadhātu   pesā   idaṃ   taṃ   rūpaṃ   rasāyatanaṃ
-\glb    What   that   material   taste-base   That   --   four   great_primaries   derived   invisible   impinging   --   --   --   --   --   --   --   --   --   --   --   --   --   --   --   --   that   or   --   is   --   four   great_primaries   derived   invisible   impinging   that   --   invisible   impinging   tongue   --   --   --   or   --   or   --   or   --   or   --   this   taste-base   this   --   this   this   that   material   taste-base
+\glb    What   that   material   taste-base   That   taste   four   great_primaries   derived   invisible   impinging   --   --   --   --   --   --   --   --   --   --   --   --   --   --   --   --   that   or   --   is   taste   four   great_primaries   derived   invisible   impinging   that   --   invisible   impinging   tongue   --   --   --   or   --   or   --   or   --   or   taste   this   taste-base   this   --   this   this   that   material   taste-base
 \ex     What is the material phenomenon that is the taste-base? That taste, derived from the four great primaries, invisible and impinging, such as root taste, trunk taste, bark taste, leaf taste, flower taste, fruit taste, sour, sweet, bitter, pungent, salty, alkaline, acrid, astringent, agreeable, disagreeable, or any other taste derived from the four great primaries, invisible and impinging, which taste, invisible and impinging, one has tasted, tastes, will taste, or may taste with the invisible and impinging tongue—this is taste, this is the taste-base, this is the taste-element. This is that material phenomenon which is the taste-base.
 ```
 
@@ -384,7 +384,7 @@ status: draft
 
 ```gloss
 \gla    Katamaṃ   taṃ   rūpaṃ   rasāyatanaṃ   Yo   raso   catunnaṃ   mahābhūtānaṃ   upādāya   anidassano   sappaṭigho   mūlaraso   khandharaso   tacaraso   pattaraso   puppharaso   phalaraso   ambilaṃ   madhuraṃ   tittakaṃ   kaṭukaṃ   loṇikaṃ   khārikaṃ   lambilaṃ   kasāvo   sādu   asādu   yo   vā   panaññopi   atthi   raso   catunnaṃ   mahābhūtānaṃ   upādāya   anidassano   sappaṭigho   yamhi   rasamhi   anidassanamhi   sappaṭighamhi   jivhā   anidassanā   sappaṭighā   paṭihaññi   vā   paṭihaññati   vā   paṭihaññissati   vā   paṭihaññe   vā   raso   peso   rasāyatanaṃ   petaṃ   rasadhātu   pesā   idaṃ   taṃ   rūpaṃ   rasāyatanaṃ
-\glb    What   that   material   taste-base   That   --   four   great_primaries   derived   invisible   impinging   --   --   --   --   --   --   --   --   --   --   --   --   --   --   --   --   that   or   --   is   --   four   great_primaries   derived   invisible   impinging   which   --   invisible   impinging   tongue   --   --   impinged   or   impinges   or   will_impinge   or   may_impinge   or   --   this   taste-base   this   --   this   this   that   material   taste-base
+\glb    What   that   material   taste-base   That   taste   four   great_primaries   derived   invisible   impinging   --   --   --   --   --   --   --   --   --   --   --   --   --   --   --   --   that   or   --   is   taste   four   great_primaries   derived   invisible   impinging   which   --   invisible   impinging   tongue   --   --   impinged   or   impinges   or   will_impinge   or   may_impinge   or   taste   this   taste-base   this   --   this   this   that   material   taste-base
 \ex     What is the material phenomenon that is the taste-base? That taste, derived from the four great primaries, invisible and impinging, such as root taste, trunk taste, bark taste, leaf taste, flower taste, fruit taste, sour, sweet, bitter, pungent, salty, alkaline, acrid, astringent, agreeable, disagreeable, or any other taste derived from the four great primaries, invisible and impinging, against which taste, invisible and impinging, the invisible and impinging tongue has impinged, impinges, will impinge, or may impinge—this is taste, this is the taste-base, this is the taste-element. This is that material phenomenon which is the taste-base.
 ```
 
@@ -392,7 +392,7 @@ status: draft
 
 ```gloss
 \gla    Katamaṃ   taṃ   rūpaṃ   rasāyatanaṃ   Yo   raso   catunnaṃ   mahābhūtānaṃ   upādāya   anidassano   sappaṭigho   mūlaraso   khandharaso   tacaraso   pattaraso   puppharaso   phalaraso   ambilaṃ   madhuraṃ   tittakaṃ   kaṭukaṃ   loṇikaṃ   khārikaṃ   lambilaṃ   kasāvo   sādu   asādu   yo   vā   panaññopi   atthi   raso   catunnaṃ   mahābhūtānaṃ   upādāya   anidassano   sappaṭigho   yo   raso   anidassano   sappaṭigho   jivhāya   anidassanāya   sappaṭighāya   paṭihaññi   vā   paṭihaññati   vā   paṭihaññissati   vā   paṭihaññe   vā   raso   peso   rasāyatanaṃ   petaṃ   rasadhātu   pesā   idaṃ   taṃ   rūpaṃ   rasāyatanaṃ
-\glb    What   that   material   taste-base   That   --   four   great_primaries   derived   invisible   impinging   --   --   --   --   --   --   --   --   --   --   --   --   --   --   --   --   that   or   --   is   --   four   great_primaries   derived   invisible   impinging   that   --   invisible   impinging   tongue   --   --   impinged   or   impinges   or   will_impinge   or   may_impinge   or   --   this   taste-base   this   --   this   this   that   material   taste-base
+\glb    What   that   material   taste-base   That   taste   four   great_primaries   derived   invisible   impinging   --   --   --   --   --   --   --   --   --   --   --   --   --   --   --   --   that   or   --   is   taste   four   great_primaries   derived   invisible   impinging   that   taste   invisible   impinging   tongue   --   --   impinged   or   impinges   or   will_impinge   or   may_impinge   or   taste   this   taste-base   this   --   this   this   that   material   taste-base
 \ex     What is the material phenomenon that is the taste-base? That taste, derived from the four great primaries, invisible and impinging, such as root taste, trunk taste, bark taste, leaf taste, flower taste, fruit taste, sour, sweet, bitter, pungent, salty, alkaline, acrid, astringent, agreeable, disagreeable, or any other taste derived from the four great primaries, invisible and impinging, which taste, invisible and impinging, has impinged, impinges, will impinge, or may impinge on the invisible and impinging tongue—this is taste, this is the taste-base, this is the taste-element. This is that material phenomenon which is the taste-base.
 ```
 
@@ -400,7 +400,7 @@ status: draft
 
 ```gloss
 \gla    Katamaṃ   taṃ   rūpaṃ   rasāyatanaṃ   Yo   raso   catunnaṃ   mahābhūtānaṃ   upādāya   anidassano   sappaṭigho   mūlaraso   khandharaso   tacaraso   pattaraso   puppharaso   phalaraso   ambilaṃ   madhuraṃ   tittakaṃ   kaṭukaṃ   loṇikaṃ   khārikaṃ   lambilaṃ   kasāvo   sādu   asādu   yo   vā   panaññopi   atthi   raso   catunnaṃ   mahābhūtānaṃ   upādāya   anidassano   sappaṭigho   yaṃ   rasaṃ   ārabbha   jivhaṃ   nissāya   jivhāsamphasso   uppajji   vā   uppajjati   vā   uppajjissati   vā   uppajje   vā…pe…   yaṃ   rasaṃ   ārabbha   jivhaṃ   nissāya   jivhāsamphassajā   vedanā…pe…   saññā…pe…   cetanā…pe…   jivhāviññāṇaṃ   uppajji   vā   uppajjati   vā   uppajjissati   vā   uppajje   vā…pe…   yaṃ   rasārammaṇo   jivhaṃ   nissāya   jivhāsamphasso   uppajji   vā   uppajjati   vā   uppajjissati   vā   uppajje   vā…pe…   yaṃ   rasārammaṇā   jivhaṃ   nissāya   jivhāsamphassajā   vedanā…pe…   saññā…pe…   cetanā…pe…   jivhāviññāṇaṃ   uppajji   vā   uppajjati   vā   uppajjissati   vā   uppajje   vā   raso   peso   rasāyatanaṃ   petaṃ   rasadhātu   pesā   idaṃ   taṃ   rūpaṃ   rasāyatanaṃ
-\glb    What   that   material   taste-base   That   --   four   great_primaries   derived   invisible   impinging   --   --   --   --   --   --   --   --   --   --   --   --   --   --   --   --   that   or   --   is   --   four   great_primaries   derived   invisible   impinging   that   --   --   tongue   --   tongue-contact   --   or   --   or   --   or   --   --   that   --   --   tongue   --   --   --   --   --   tongue-consciousness   --   or   --   or   --   or   --   --   that   --   tongue   --   tongue-contact   --   or   --   or   --   or   --   --   that   --   tongue   --   --   --   --   --   tongue-consciousness   --   or   --   or   --   or   --   or   --   this   taste-base   this   --   this   this   that   material   taste-base
+\glb    What   that   material   taste-base   That   taste   four   great_primaries   derived   invisible   impinging   --   --   --   --   --   --   --   --   --   --   --   --   --   --   --   --   that   or   --   is   taste   four   great_primaries   derived   invisible   impinging   that   --   object   tongue   --   tongue-contact   --   or   arises   or   will_arise   or   may_arise   --   that   --   object   tongue   --   --   --   --   --   tongue-consciousness   --   or   arises   or   will_arise   or   may_arise   --   that   --   tongue   --   tongue-contact   --   or   arises   or   will_arise   or   may_arise   --   that   --   tongue   --   --   --   --   --   tongue-consciousness   --   or   arises   or   will_arise   or   may_arise   or   taste   this   taste-base   this   --   this   this   that   material   taste-base
 \ex     What is the material phenomenon that is the taste-base? That taste, derived from the four great primaries, invisible and impinging, such as root taste, trunk taste, bark taste, leaf taste, flower taste, fruit taste, sour, sweet, bitter, pungent, salty, alkaline, acrid, astringent, agreeable, disagreeable, or any other taste derived from the four great primaries, invisible and impinging, in consequence of which taste and depending on the tongue, gustatory contact has arisen, arises, will arise, or may arise and, born of that gustatory contact, a feeling has arisen, arises, will arise, or may arise [or] a perception [or] volition [or] gustatory consciousness; further, having taste as its object and depending on the tongue, gustatory contact has arisen, arises, will arise, or may arise and, born of that gustatory contact, a feeling has arisen, arises, will arise, or may arise [or] a perception [or] volition [or] gustatory consciousness; this is taste, this is the taste-base, this is the taste-element. This is that material phenomenon which is the taste-base.
 ```
 
@@ -432,7 +432,7 @@ status: draft
 
 ```gloss
 \gla    Katamaṃ   taṃ   rūpaṃ   kāyaviññatti   Yā   kusalacittassa   vā   akusalacittassa   vā   abyākatacittassa   vā   abhikkamantassa   vā   paṭikkamantassa   vā   ālokentassa   vā   vilokentassa   vā   samiñjentassa   vā   pasārentassa   vā   kāyassa   thambhanā   santhambhanā   santhambhitattaṃ   viññatti   viññāpanā   viññāpitattaṃ   idaṃ   taṃ   rūpaṃ   kāyaviññatti
-\glb    What   that   material   bodily_intimation   That   wholesome_mind   or   unwholesome_mind   or   indeterminate_mind   or   advancing   or   retreating   or   --   or   --   or   --   or   --   or   --   --   --   --   --   --   --   this   that   material   bodily_intimation
+\glb    What   that   material   bodily_intimation   That   wholesome_mind   or   unwholesome_mind   or   indeterminate_mind   or   advancing   or   retreating   or   --   or   --   or   --   or   --   or   --   --   --   --   intimation   --   --   this   that   material   bodily_intimation
 \ex     What is the material phenomenon that is bodily intimation? That tension, intentness, stiffening of the body, in one who is advancing or retreating, looking or glancing around, bending or stretching, due to a wholesome mind or unwholesome mind or indeterminate mind; the intimation, the making known, the state of having made known—this is that material phenomenon which is bodily intimation.
 ```
 
@@ -440,7 +440,7 @@ status: draft
 
 ```gloss
 \gla    Katamaṃ   taṃ   rūpaṃ   vacīviññatti   Yā   kusalacittassa   vā   akusalacittassa   vā   abyākatacittassa   vā   vācā   girā   byappatho   udīraṇaṃ   ghoso   ghosakammaṃ   vācā   vacībhedo   ayaṃ   vuccati   vācā   Yā   tāya   vācāya   viññatti   viññāpanā   viññāpitattaṃ   idaṃ   taṃ   rūpaṃ   vacīviññatti
-\glb    What   that   material   vocal_intimation   That   wholesome_mind   or   unwholesome_mind   or   indeterminate_mind   or   speech   voice   enunciation   utterance   --   --   speech   --   this   called   speech   That   --   --   --   --   --   this   that   material   vocal_intimation
+\glb    What   that   material   vocal_intimation   That   wholesome_mind   or   unwholesome_mind   or   indeterminate_mind   or   speech   voice   enunciation   utterance   --   --   speech   --   this   called   speech   That   --   --   intimation   --   --   this   that   material   vocal_intimation
 \ex     What is the material phenomenon that is vocal intimation? That speech, voice, enunciation, utterance, noise, making noises, language as articulate speech, which is of a wholesome mind or unwholesome mind or indeterminate mind—this is called speech. And that intimation, making known, state of having made known by that speech—this is that material phenomenon which is vocal intimation.
 ```
 
@@ -512,7 +512,7 @@ status: draft
 
 ```gloss
 \gla    Katamaṃ   taṃ   rūpaṃ   kabaḷīkāro   āhāro   Odano   kummāso   sattu   maccho   maṃsaṃ   khīraṃ   dadhi   sappi   navanītaṃ   telaṃ   madhu   phāṇitaṃ   yaṃ   vā   panaññampi   atthi   rūpaṃ   yamhi   yamhi   janapade   tesaṃ   tesaṃ   sattānaṃ   mukhāsiyaṃ   dantavikhādanaṃ   galajjhoharaṇīyaṃ   kucchivitthambhanaṃ   yāya   ojāya   sattā   yāpenti   idaṃ   taṃ   rūpaṃ   kabaḷīkāro   āhāro   Idaṃ   taṃ   rūpaṃ   upādā   Upādābhājanīyaṃ   Rūpakaṇḍe   paṭhamabhāṇavāro
-\glb    What   that   matter   edible   food   Rice   gruel   flour   fish   meat   milk   curds   ghee   fresh_butter   oil   honey   molasses   that   or   --   is   matter   which   which   --   --   --   --   --   --   --   --   --   --   --   --   this   that   matter   edible   food   this   that   matter   derived   --   --   --
+\glb    What   that   matter   edible   food   Rice   gruel   flour   fish   meat   milk   curds   ghee   fresh_butter   oil   honey   molasses   that   or   other   is   matter   which   which   --   --   --   --   --   --   --   --   --   --   --   --   this   that   matter   edible   food   this   that   matter   derived   --   --   --
 \ex     What is that matter which is edible food? Rice, gruel, flour, fish, meat, milk, curds, ghee, fresh butter, oil, honey, molasses, or any other matter which in any country serves as food for beings, to be put into the mouth, chewed by the teeth, swallowed down the throat, filling the stomach, by the nutrient essence of which beings subsist—this is that matter which is edible food. This is that matter which is derived. The section on derived matter. First section for recitation in the Chapter on Materiality.
 ```
 
@@ -536,7 +536,7 @@ status: draft
 
 ```gloss
 \gla    Katamaṃ   taṃ   rūpaṃ   phoṭṭhabbāyatanaṃ   Pathavīdhātu   tejodhātu   vāyodhātu   kakkhaḷaṃ   mudukaṃ   saṇhaṃ   pharusaṃ   sukhasamphassaṃ   dukkhasamphassaṃ   garukaṃ   lahukaṃ   yamhi   phoṭṭhabbamhi   anidassanamhi   sappaṭighamhi   kāyo   anidassano   sappaṭigho   paṭihaññi   vā   paṭihaññati   vā   paṭihaññissati   vā   paṭihaññe   vā   phoṭṭhabbo   peso   phoṭṭhabbāyatanaṃ   petaṃ   phoṭṭhabbadhātu   pesā   idaṃ   taṃ   rūpaṃ   phoṭṭhabbāyatanaṃ
-\glb    What   that   materiality   tangible-base   earth_element   fire_element   air_element   hard   soft   smooth   rough   pleasant_to_touch   painful_to_touch   --   --   which   --   --   impinging   --   --   impinging   impinged   or   impinges   or   will_impinge   or   may_impinge   or   tangible   this   tangible-base   this   tangible_element   this   this   that   materiality   tangible-base
+\glb    What   that   materiality   tangible-base   earth_element   fire_element   air_element   hard   soft   smooth   rough   pleasant_to_touch   painful_to_touch   --   --   which   --   --   impinging   body   --   impinging   impinged   or   impinges   or   will_impinge   or   may_impinge   or   tangible   this   tangible-base   this   tangible_element   this   this   that   materiality   tangible-base
 \ex     What is that materiality, the tangible base? The earth element, fire element, air element; hard, soft, smooth, rough, pleasant to touch, painful to touch, heavy, light; that tangible, non-apparent, impinging, against which the non-apparent, impinging body has impinged, impinges, will impinge, or may impinge—this is that materiality, the tangible base.
 ```
 
@@ -552,7 +552,7 @@ status: draft
 
 ```gloss
 \gla    Katamaṃ   taṃ   rūpaṃ   phoṭṭhabbāyatanaṃ   Pathavīdhātu   tejodhātu   vāyodhātu   kakkhaḷaṃ   mudukaṃ   saṇhaṃ   pharusaṃ   sukhasamphassaṃ   dukkhasamphassaṃ   garukaṃ   lahukaṃ   yaṃ   phoṭṭhabbaṃ   ārabbha   kāyaṃ   nissāya   kāyasamphasso   uppajji   vā   uppajjati   vā   uppajjissati   vā   uppajje   vā…pe…   yaṃ   phoṭṭhabbaṃ   ārabbha   kāyaṃ   nissāya   kāyasamphassajā   vedanā…pe…   saññā…pe…   cetanā…pe…   kāyaviññāṇaṃ   uppajji   vā   uppajjati   vā   uppajjissati   vā   uppajje   vā…pe…   yaṃ   phoṭṭhabbārammaṇo   kāyaṃ   nissāya   kāyasamphasso   uppajji   vā   uppajjati   vā   uppajjissati   vā   uppajje   vā…pe…   yaṃ   phoṭṭhabbārammaṇā   kāyaṃ   nissāya   kāyasamphassajā   vedanā…pe…   saññā…pe…   cetanā…pe…   kāyaviññāṇaṃ   uppajji   vā   uppajjati   vā   uppajjissati   vā   uppajje   vā   phoṭṭhabbo   peso   phoṭṭhabbāyatanaṃ   petaṃ   phoṭṭhabbadhātu   pesā   idaṃ   taṃ   rūpaṃ   phoṭṭhabbāyatanaṃ
-\glb    What   that   materiality   tangible-base   earth_element   fire_element   air_element   hard   soft   smooth   rough   pleasant_to_touch   painful_to_touch   --   --   that   --   --   body   --   body-contact   --   or   --   or   --   or   --   --   that   --   --   body   --   --   --   --   --   body-consciousness   --   or   --   or   --   or   --   --   that   --   body   --   body-contact   --   or   --   or   --   or   --   --   that   --   body   --   --   --   --   --   body-consciousness   --   or   --   or   --   or   --   or   tangible   this   tangible-base   this   tangible_element   this   this   that   materiality   tangible-base
+\glb    What   that   materiality   tangible-base   earth_element   fire_element   air_element   hard   soft   smooth   rough   pleasant_to_touch   painful_to_touch   --   --   that   --   object   body   --   body-contact   --   or   arises   or   will_arise   or   may_arise   --   that   --   object   body   --   born_of_body-contact   --   --   --   body-consciousness   --   or   arises   or   will_arise   or   may_arise   --   that   --   body   --   body-contact   --   or   arises   or   will_arise   or   may_arise   --   that   --   body   --   born_of_body-contact   --   --   --   body-consciousness   --   or   arises   or   will_arise   or   may_arise   or   tangible   this   tangible-base   this   tangible_element   this   this   that   materiality   tangible-base
 \ex     What is that materiality, the tangible base? The earth element, fire element, air element; hard, soft, smooth, rough, pleasant to touch, painful to touch, heavy, light; that tangible, concerning which, depending on the body, bodily contact has arisen, arises, will arise, or may arise and, born of that bodily contact, feeling has arisen, arises, will arise, or may arise perception has arisen, arises, will arise, or may arise volition has arisen, arises, will arise, or may arise body-consciousness has arisen, arises, will arise, or may arise further, that which has the tangible as its object, depending on the body, bodily contact has arisen, arises, will arise, or may arise and, born of that bodily contact, feeling has arisen, arises, will arise, or may arise perception has arisen, arises, will arise, or may arise volition has arisen, arises, will arise, or may arise body-consciousness has arisen, arises, will arise, or may arise—this is that materiality, the tangible base.
 ```
 
@@ -568,7 +568,7 @@ status: draft
 
 ```gloss
 \gla    Katamaṃ   taṃ   rūpaṃ   upādiṇṇaṃ   Cakkhāyatanaṃ   sotāyatanaṃ   ghānāyatanaṃ   jivhāyatanaṃ   kāyāyatanaṃ   itthindriyaṃ   purisindriyaṃ   jīvitindriyaṃ   yaṃ   vā   panaññampi   atthi   rūpaṃ   kammassa   katattā   rūpāyatanaṃ   gandhāyatanaṃ   rasāyatanaṃ   phoṭṭhabbāyatanaṃ   ākāsadhātu   āpodhātu   rūpassa   upacayo   rūpassa   santati   kabaḷīkāro   āhāro   idaṃ   taṃ   rūpaṃ   upādiṇṇaṃ
-\glb    What   that   materiality   clung_to   eye-base   ear-base   nose-base   tongue-base   body-base   femininity_faculty   masculinity_faculty   life_faculty   that   or   --   is   materiality   --   --   visible_object_base   smell-base   taste-base   tangible-base   space_element   water_element   of   growth   of   continuity   --   nutriment   this   that   materiality   clung_to
+\glb    What   that   materiality   clung_to   eye-base   ear-base   nose-base   tongue-base   body-base   femininity_faculty   masculinity_faculty   life_faculty   that   or   other   is   materiality   kamma   produced   visible_object_base   smell-base   taste-base   tangible-base   space_element   water_element   of   growth   of   continuity   nutriment   nutriment   this   that   materiality   clung_to
 \ex     What is that materiality clung to? The eye base, ear base, nose base, tongue base, body base, femininity faculty, masculinity faculty, life faculty; or whatever other materiality there is produced by kamma, visible object base, smell base, taste base, tangible base, space element, water element, growth of materiality, continuity of materiality, bodily nutriment—this is that materiality clung to.
 ```
 
@@ -576,7 +576,7 @@ status: draft
 
 ```gloss
 \gla    Katamaṃ   taṃ   rūpaṃ   anupādiṇṇaṃ   Saddāyatanaṃ   kāyaviññatti   vacīviññatti   rūpassa   lahutā   rūpassa   mudutā   rūpassa   kammaññatā   rūpassa   jaratā   rūpassa   aniccatā   yaṃ   vā   panaññampi   atthi   rūpaṃ   na   kammassa   katattā   rūpāyatanaṃ   gandhāyatanaṃ   rasāyatanaṃ   phoṭṭhabbāyatanaṃ   ākāsadhātu   āpodhātu   rūpassa   upacayo   rūpassa   santati   kabaḷīkāro   āhāro   idaṃ   taṃ   rūpaṃ   anupādiṇṇaṃ
-\glb    What   that   materiality   --   sound-base   bodily_intimation   vocal_intimation   of   lightness   of   malleability   of   wieldiness   of   decay   of   impermanence   that   or   --   is   materiality   not   --   --   visible_object_base   smell-base   taste-base   tangible-base   space_element   water_element   of   growth   of   continuity   --   nutriment   this   that   materiality   --
+\glb    What   that   materiality   --   sound-base   bodily_intimation   vocal_intimation   of   lightness   of   malleability   of   wieldiness   of   decay   of   impermanence   that   or   other   is   materiality   not   kamma   produced   visible_object_base   smell-base   taste-base   tangible-base   space_element   water_element   of   growth   of   continuity   nutriment   nutriment   this   that   materiality   --
 \ex     What is that materiality not clung to? The sound base, bodily intimation, vocal intimation, lightness of materiality, malleability of materiality, wieldiness of materiality, decay of materiality, impermanence of materiality; or whatever other materiality there is not produced by kamma, visible object base, smell base, taste base, tangible base, space element, water element, growth of materiality, continuity of materiality, bodily nutriment—this is that materiality not clung to.
 ```
 
@@ -584,7 +584,7 @@ status: draft
 
 ```gloss
 \gla    Katamaṃ   taṃ   rūpaṃ   upādiṇṇupādāniyaṃ   Cakkhāyatanaṃ…pe…   kāyāyatanaṃ   itthindriyaṃ   purisindriyaṃ   jīvitindriyaṃ   yaṃ   vā   panaññampi   atthi   rūpaṃ   kammassa   katattā   rūpāyatanaṃ   gandhāyatanaṃ   rasāyatanaṃ   phoṭṭhabbāyatanaṃ   ākāsadhātu   āpodhātu   rūpassa   upacayo   rūpassa   santati   kabaḷīkāro   āhāro   idaṃ   taṃ   rūpaṃ   upādiṇṇupādāniyaṃ
-\glb    What   that   matter   grasped   --   body-base   femininity_faculty   masculinity_faculty   life_faculty   that   or   --   is   matter   --   --   visible-form-base   smell-base   taste-base   tangible-base   space_element   water_element   of   production   of   continuity   edible   food   this   that   matter   grasped
+\glb    What   that   matter   grasped   --   body-base   femininity_faculty   masculinity_faculty   life_faculty   that   or   other   is   matter   kamma   --   visible-form-base   smell-base   taste-base   tangible-base   space_element   water_element   of   production   of   continuity   edible   food   this   that   matter   grasped
 \ex     What is that matter which is grasped and graspable? The eye base...pe...body base, femininity faculty, masculinity faculty, life faculty; or whatever other matter exists due to kamma, including visible form base, smell base, taste base, tangible base, space element, water element, production of matter, continuity of matter, and edible food—this is that matter which is grasped and graspable.
 ```
 
@@ -592,7 +592,7 @@ status: draft
 
 ```gloss
 \gla    Katamaṃ   taṃ   rūpaṃ   anupādiṇṇupādāniyaṃ   Saddāyatanaṃ   kāyaviññatti   vacīviññatti   rūpassa   lahutā   rūpassa   mudutā   rūpassa   kammaññatā   rūpassa   jaratā   rūpassa   aniccatā   yaṃ   vā   panaññampi   atthi   rūpaṃ   na   kammassa   katattā   rūpāyatanaṃ   gandhāyatanaṃ   rasāyatanaṃ   phoṭṭhabbāyatanaṃ   ākāsadhātu   āpodhātu   rūpassa   upacayo   rūpassa   santati   kabaḷīkāro   āhāro   idaṃ   taṃ   rūpaṃ   anupādiṇṇupādāniyaṃ
-\glb    What   that   matter   ungrasped   sound-base   bodily_intimation   vocal_intimation   of   lightness   of   malleability   of   wieldiness   of   decay   of   impermanence   that   or   --   is   matter   not   --   --   visible-form-base   smell-base   taste-base   tangible-base   space_element   water_element   of   production   of   continuity   edible   food   this   that   matter   ungrasped
+\glb    What   that   matter   ungrasped   sound-base   bodily_intimation   vocal_intimation   of   lightness   of   malleability   of   wieldiness   of   decay   of   impermanence   that   or   other   is   matter   not   kamma   --   visible-form-base   smell-base   taste-base   tangible-base   space_element   water_element   of   production   of   continuity   edible   food   this   that   matter   ungrasped
 \ex     What is that matter which is ungrasped but graspable? Sound base, bodily intimation, vocal intimation, lightness of matter, malleability of matter, wieldiness of matter, decay of matter, impermanence of matter; or whatever other matter exists not due to kamma, including visible form base, smell base, taste base, tangible base, space element, water element, production of matter, continuity of matter, and edible food—this is that matter which is ungrasped but graspable.
 ```
 
@@ -664,7 +664,7 @@ status: draft
 
 ```gloss
 \gla    Katamaṃ   taṃ   rūpaṃ   viññatti   Kāyaviññatti   vacīviññatti   idaṃ   taṃ   rūpaṃ   viññatti
-\glb    What   that   material   --   bodily_intimation   vocal_intimation   this   that   material   --
+\glb    What   that   material   intimation   bodily_intimation   vocal_intimation   this   that   material   intimation
 \ex     What is that material form which is intimation? Bodily intimation, vocal intimation—this is that material form which is intimation.
 ```
 
@@ -672,7 +672,7 @@ status: draft
 
 ```gloss
 \gla    Katamaṃ   taṃ   rūpaṃ   na   viññatti   Cakkhāyatanaṃ…pe…   kabaḷīkāro   āhāro   idaṃ   taṃ   rūpaṃ   na   viññatti
-\glb    What   that   material   not   --   --   edible   food   this   that   material   not   --
+\glb    What   that   material   not   intimation   --   edible   food   this   that   material   not   intimation
 \ex     What is that material form which is not intimation? The eye-base...edible food—this is that material form which is not intimation.
 ```
 
@@ -680,7 +680,7 @@ status: draft
 
 ```gloss
 \gla    Katamaṃ   taṃ   rūpaṃ   cittasamuṭṭhānaṃ   Kāyaviññatti   vacīviññatti   yaṃ   vā   panaññampi   atthi   rūpaṃ   cittajaṃ   cittahetukaṃ   cittasamuṭṭhānaṃ   rūpāyatanaṃ   saddāyatanaṃ   gandhāyatanaṃ   rasāyatanaṃ   phoṭṭhabbāyatanaṃ   ākāsadhātu   āpodhātu   rūpassa   lahutā   rūpassa   mudutā   rūpassa   kammaññatā   rūpassa   upacayo   rūpassa   santati   kabaḷīkāro   āhāro   idaṃ   taṃ   rūpaṃ   cittasamuṭṭhānaṃ
-\glb    What   that   matter   --   bodily_intimation   vocal_intimation   that   or   --   is   matter   --   --   --   visible_form   --   --   --   --   space_element   water_element   of   lightness   of   malleability   of   wieldiness   of   production   of   continuity   edible   food   this   that   matter   --
+\glb    What   that   matter   mind-originated   bodily_intimation   vocal_intimation   that   or   other   is   matter   mind-originated   mind-originated   mind-originated   visible_form   sound   smell   taste   tangible_object   space_element   water_element   of   lightness   of   malleability   of   wieldiness   of   production   of   continuity   edible   food   this   that   matter   mind-originated
 \ex     What is that material form which is mind-originated? Bodily intimation, vocal intimation, or whatever other material form exists that is born of mind, caused by mind, has its source in mind: visible form, sound, smell, taste, tangible object, space element, water element, lightness of matter, malleability of matter, wieldiness of matter, production of matter, continuity of matter, edible food—this is that material form which is mind-originated.
 ```
 
@@ -688,7 +688,7 @@ status: draft
 
 ```gloss
 \gla    Katamaṃ   taṃ   rūpaṃ   na   cittasamuṭṭhānaṃ   Cakkhāyatanaṃ…pe…   kāyāyatanaṃ   itthindriyaṃ   purisindriyaṃ   jīvitindriyaṃ   rūpassa   jaratā   rūpassa   aniccatā   yaṃ   vā   panaññampi   atthi   rūpaṃ   na   cittajaṃ   na   cittahetukaṃ   na   cittasamuṭṭhānaṃ   rūpāyatanaṃ   saddāyatanaṃ   gandhāyatanaṃ   rasāyatanaṃ   phoṭṭhabbāyatanaṃ   ākāsadhātu   āpodhātu   rūpassa   lahutā   rūpassa   mudutā   rūpassa   kammaññatā   rūpassa   upacayo   rūpassa   santati   kabaḷīkāro   āhāro   idaṃ   taṃ   rūpaṃ   na   cittasamuṭṭhānaṃ
-\glb    What   that   matter   not   --   --   body-base   femininity_faculty   masculinity_faculty   life_faculty   of   decay   of   impermanence   that   or   --   is   matter   not   --   not   --   not   --   visible_form   --   --   --   --   space_element   water_element   of   lightness   of   malleability   of   wieldiness   of   production   of   continuity   edible   food   this   that   matter   not   --
+\glb    What   that   matter   not   mind-originated   --   body-base   femininity_faculty   masculinity_faculty   life_faculty   of   decay   of   impermanence   that   or   other   is   matter   not   mind-originated   not   mind-originated   not   mind-originated   visible_form   sound   smell   taste   tangible_object   space_element   water_element   of   lightness   of   malleability   of   wieldiness   of   production   of   continuity   edible   food   this   that   matter   not   mind-originated
 \ex     What is that material form which is not mind-originated? The eye-base...body-base, femininity faculty, masculinity faculty, life faculty, decay of matter, impermanence of matter, or whatever other material form exists that is not born of mind, not caused by mind, does not have its source in mind: visible form, sound, smell, taste, tangible object, space element, water element, lightness of matter, malleability of matter, wieldiness of matter, production of matter, continuity of matter, edible food—this is that material form which is not mind-originated.
 ```
 
@@ -696,7 +696,7 @@ status: draft
 
 ```gloss
 \gla    Katamaṃ   taṃ   rūpaṃ   cittasahabhu   Kāyaviññatti   vacīviññatti   idaṃ   taṃ   rūpaṃ   cittasahabhu
-\glb    What   that   material   --   bodily_intimation   vocal_intimation   this   that   material   --
+\glb    What   that   material   co-arising   bodily_intimation   vocal_intimation   this   that   material   co-arising
 \ex     What is that material form which is co-arising with mind? Bodily intimation, vocal intimation—this is that material form which is co-arising with mind.
 ```
 
@@ -704,7 +704,7 @@ status: draft
 
 ```gloss
 \gla    Katamaṃ   taṃ   rūpaṃ   na   cittasahabhu   Cakkhāyatanaṃ…pe…   kabaḷīkāro   āhāro   idaṃ   taṃ   rūpaṃ   na   cittasahabhu
-\glb    What   that   material   not   --   --   edible   food   this   that   material   not   --
+\glb    What   that   material   not   co-arising   --   edible   food   this   that   material   not   co-arising
 \ex     What is that material form which is not co-arising with mind? The eye-base...edible food—this is that material form which is not co-arising with mind.
 ```
 
@@ -752,7 +752,7 @@ status: draft
 
 ```gloss
 \gla    Katamaṃ   taṃ   rūpaṃ   sukhumaṃ   Itthindriyaṃ…pe…   kabaḷīkāro   āhāro   idaṃ   taṃ   rūpaṃ   sukhumaṃ
-\glb    What   that   material   subtle   --   --   nutriment   this   that   material   subtle
+\glb    What   that   material   subtle   --   nutriment   nutriment   this   that   material   subtle
 \ex     What is that subtle material form? The femininity faculty... and so on... nutriment—this is that subtle material form.
 ```
 
@@ -760,7 +760,7 @@ status: draft
 
 ```gloss
 \gla    Katamaṃ   taṃ   rūpaṃ   dūre   Itthindriyaṃ…pe…   kabaḷīkāro   āhāro   idaṃ   taṃ   rūpaṃ   dūre
-\glb    What   that   material   distant   --   --   nutriment   this   that   material   distant
+\glb    What   that   material   distant   --   nutriment   nutriment   this   that   material   distant
 \ex     What is that distant material form? The femininity faculty... and so on... nutriment—this is that distant material form.
 ```
 
@@ -776,7 +776,7 @@ status: draft
 
 ```gloss
 \gla    Katamaṃ   taṃ   rūpaṃ   cakkhusamphassassa   vatthu   Cakkhāyatanaṃ   idaṃ   taṃ   rūpaṃ   cakkhusamphassassa   vatthu
-\glb    What   that   material   --   --   eye-base   this   that   material   --   --
+\glb    What   that   material   eye-contact   basis   eye-base   this   that   material   eye-contact   basis
 \ex     What is that material form which is the basis of eye-contact? The eye-base—this is that material form which is the basis of eye-contact.
 ```
 
@@ -784,7 +784,7 @@ status: draft
 
 ```gloss
 \gla    Katamaṃ   taṃ   rūpaṃ   cakkhusamphassassa   na   vatthu   Sotāyatanaṃ…pe…   kabaḷīkāro   āhāro   idaṃ   taṃ   rūpaṃ   cakkhusamphassassa   na   vatthu
-\glb    What   that   material   --   not   --   --   --   nutriment   this   that   material   --   not   --
+\glb    What   that   material   eye-contact   not   basis   --   nutriment   nutriment   this   that   material   eye-contact   not   basis
 \ex     What is that material form which is not the basis of eye-contact? The ear-base... and so on... nutriment—this is that material form which is not the basis of eye-contact.
 ```
 
@@ -792,7 +792,7 @@ status: draft
 
 ```gloss
 \gla    Katamaṃ   taṃ   rūpaṃ   cakkhusamphassajāya   vedanāya…pe…   saññāya…pe…   cetanāya   …pe…   cakkhuviññāṇassa   vatthu   Cakkhāyatanaṃ   idaṃ   taṃ   rūpaṃ   cakkhuviññāṇassa   vatthu
-\glb    What   that   material   --   --   --   --   --   --   --   eye-base   this   that   material   --   --
+\glb    What   that   material   born_of_eye-contact   --   --   --   --   eye-consciousness   basis   eye-base   this   that   material   eye-consciousness   basis
 \ex     What is that material form which is the basis of the feeling... and so on... the perception... and so on... the volition... and so on... the eye-consciousness born of eye-contact? The eye-base—this is that material form which is the basis of eye-consciousness.
 ```
 
@@ -800,7 +800,7 @@ status: draft
 
 ```gloss
 \gla    Katamaṃ   taṃ   rūpaṃ   cakkhuviññāṇassa   na   vatthu   Sotāyatanaṃ…pe…   kabaḷīkāro   āhāro   idaṃ   taṃ   rūpaṃ   cakkhuviññāṇassa   na   vatthu
-\glb    What   that   material   --   not   --   --   --   nutriment   this   that   material   --   not   --
+\glb    What   that   material   eye-consciousness   not   basis   --   nutriment   nutriment   this   that   material   eye-consciousness   not   basis
 \ex     What is that material form which is not the basis of eye-consciousness? The ear-base... and so on... nutriment—this is that material form which is not the basis of eye-consciousness.
 ```
 
@@ -808,7 +808,7 @@ status: draft
 
 ```gloss
 \gla    Katamaṃ   taṃ   rūpaṃ   sotasamphassassa…pe…   ghānasamphassassa…pe…   jivhāsamphassassa…pe…   kāyasamphassassa   vatthu   Kāyāyatanaṃ   idaṃ   taṃ   rūpaṃ   kāyasamphassassa   vatthu
-\glb    What   that   material   --   --   --   --   --   body-base   this   that   material   --   --
+\glb    What   that   material   --   --   --   body-contact   basis   body-base   this   that   material   body-contact   basis
 \ex     What is that material form which is the basis of ear-contact... and so on... nose-contact... and so on... tongue-contact... and so on... body-contact? The body-base—this is that material form which is the basis of body-contact.
 ```
 
@@ -816,7 +816,7 @@ status: draft
 
 ```gloss
 \gla    Katamaṃ   taṃ   rūpaṃ   kāyasamphassassa   na   vatthu   Cakkhāyatanaṃ…pe…   kabaḷīkāro   āhāro   idaṃ   taṃ   rūpaṃ   kāyasamphassassa   na   vatthu
-\glb    What   that   material   --   not   --   --   --   nutriment   this   that   material   --   not   --
+\glb    What   that   material   body-contact   not   basis   --   nutriment   nutriment   this   that   material   body-contact   not   basis
 \ex     What is that material form which is not the basis of body-contact? The eye-base... and so on... nutriment—this is that material form which is not the basis of body-contact.
 ```
 
@@ -824,7 +824,7 @@ status: draft
 
 ```gloss
 \gla    Katamaṃ   taṃ   rūpaṃ   kāyasamphassajāya   vedanāya…pe…   saññāya…pe…   cetanāya…pe…   kāyaviññāṇassa   vatthu   Kāyāyatanaṃ   idaṃ   taṃ   rūpaṃ   kāyaviññāṇassa   vatthu
-\glb    What   that   material   --   --   --   --   --   --   body-base   this   that   material   --   --
+\glb    What   that   material   --   --   --   --   body-consciousness   basis   body-base   this   that   material   body-consciousness   basis
 \ex     What is that material form which is the basis of the feeling… the perception… the volition… the body-consciousness that is born of bodily contact? The body-base—this is that material form which is the basis for body-consciousness.
 ```
 
@@ -832,7 +832,7 @@ status: draft
 
 ```gloss
 \gla    Katamaṃ   taṃ   rūpaṃ   kāyaviññāṇassa   na   vatthu   Cakkhāyatanaṃ…pe…   kabaḷīkāro   āhāro   idaṃ   taṃ   rūpaṃ   kāyaviññāṇassa   na   vatthu
-\glb    What   that   material   --   not   --   --   edible   food   this   that   material   --   not   --
+\glb    What   that   material   body-consciousness   not   basis   --   edible   food   this   that   material   body-consciousness   not   basis
 \ex     What is that material form which is not the basis for body-consciousness? The eye-base… and edible food—this is that material form which is not the basis for body-consciousness.
 ```
 
@@ -840,7 +840,7 @@ status: draft
 
 ```gloss
 \gla    Katamaṃ   taṃ   rūpaṃ   cakkhusamphassassa   ārammaṇaṃ   Rūpāyatanaṃ   idaṃ   taṃ   rūpaṃ   cakkhusamphassassa   ārammaṇaṃ
-\glb    What   that   material   --   --   visible_form   this   that   material   --   --
+\glb    What   that   material   --   object   visible_form   this   that   material   --   object
 \ex     What is that material form which is the object in visual contact? The visible form-base—this is that material form which is the object in visual contact.
 ```
 
@@ -848,7 +848,7 @@ status: draft
 
 ```gloss
 \gla    Katamaṃ   taṃ   rūpaṃ   cakkhusamphassassa   na   ārammaṇaṃ   Cakkhāyatanaṃ…pe…   kabaḷīkāro   āhāro   idaṃ   taṃ   rūpaṃ   cakkhusamphassassa   na   ārammaṇaṃ
-\glb    What   that   material   --   not   --   --   edible   food   this   that   material   --   not   --
+\glb    What   that   material   --   not   object   --   edible   food   this   that   material   --   not   object
 \ex     What is that material form which is not the object in visual contact? The eye-base… and edible food—this is that material form which is not the object in visual contact.
 ```
 
@@ -856,7 +856,7 @@ status: draft
 
 ```gloss
 \gla    Katamaṃ   taṃ   rūpaṃ   cakkhusamphassajāya   vedanāya…pe…   saññāya…pe…   cetanāya…pe…   cakkhuviññāṇassa   ārammaṇaṃ   Rūpāyatanaṃ   idaṃ   taṃ   rūpaṃ   cakkhuviññāṇassa   ārammaṇaṃ
-\glb    What   that   material   --   --   --   --   --   --   visible_form   this   that   material   --   --
+\glb    What   that   material   --   --   --   --   eye-consciousness   object   visible_form   this   that   material   eye-consciousness   object
 \ex     What is that material form which is the object in the feeling… the perception… the volition… the eye-consciousness that is born of visual contact? The visible form-base—this is that material form which is the object for eye-consciousness.
 ```
 
@@ -864,7 +864,7 @@ status: draft
 
 ```gloss
 \gla    Katamaṃ   taṃ   rūpaṃ   cakkhuviññāṇassa   na   ārammaṇaṃ   Cakkhāyatanaṃ…pe…   kabaḷīkāro   āhāro   idaṃ   taṃ   rūpaṃ   cakkhuviññāṇassa   na   ārammaṇaṃ
-\glb    What   that   material   --   not   --   --   edible   food   this   that   material   --   not   --
+\glb    What   that   material   eye-consciousness   not   object   --   edible   food   this   that   material   eye-consciousness   not   object
 \ex     What is that material form which is not the object for eye-consciousness? The eye-base… and edible food—this is that material form which is not the object for eye-consciousness.
 ```
 
@@ -872,7 +872,7 @@ status: draft
 
 ```gloss
 \gla    Katamaṃ   taṃ   rūpaṃ   sotasamphassassa…pe…   ghānasamphassassa   …pe…   jivhāsamphassassa…pe…   kāyasamphassassa   ārammaṇaṃ   Phoṭṭhabbāyatanaṃ   idaṃ   taṃ   rūpaṃ   kāyasamphassassa   ārammaṇaṃ
-\glb    What   that   material   --   --   --   --   --   --   tangible-base   this   that   material   --   --
+\glb    What   that   material   --   --   --   --   --   object   tangible-base   this   that   material   --   object
 \ex     What is that material form which is the object in auditory… olfactory… gustatory… bodily contact? The tangible-base—this is that material form which is the object in bodily contact.
 ```
 
@@ -880,7 +880,7 @@ status: draft
 
 ```gloss
 \gla    Katamaṃ   taṃ   rūpaṃ   kāyasamphassassa   na   ārammaṇaṃ   Cakkhāyatanaṃ…pe…   kabaḷīkāro   āhāro   idaṃ   taṃ   rūpaṃ   kāyasamphassassa   na   ārammaṇaṃ
-\glb    What   that   material   --   not   --   --   edible   food   this   that   material   --   not   --
+\glb    What   that   material   --   not   object   --   edible   food   this   that   material   --   not   object
 \ex     What is that material form which is not the object in bodily contact? The eye-base… and edible food—this is that material form which is not the object in bodily contact.
 ```
 
@@ -888,7 +888,7 @@ status: draft
 
 ```gloss
 \gla    Katamaṃ   taṃ   rūpaṃ   kāyasamphassajāya   vedanāya…pe…   saññāya…pe…   cetanāya…pe…   kāyaviññāṇassa   ārammaṇaṃ   Phoṭṭhabbāyatanaṃ   idaṃ   taṃ   rūpaṃ   kāyaviññāṇassa   ārammaṇaṃ
-\glb    What   that   material   --   --   --   --   --   --   tangible-base   this   that   material   --   --
+\glb    What   that   material   --   --   --   --   body-consciousness   object   tangible-base   this   that   material   body-consciousness   object
 \ex     What is that material form which is the object in the feeling… the perception… the volition… the body-consciousness that is born of bodily contact? The tangible-base—this is that material form which is the object for body-consciousness.
 ```
 
@@ -896,7 +896,7 @@ status: draft
 
 ```gloss
 \gla    Katamaṃ   taṃ   rūpaṃ   kāyaviññāṇassa   na   ārammaṇaṃ   Cakkhāyatanaṃ…pe…   kabaḷīkāro   āhāro   idaṃ   taṃ   rūpaṃ   kāyaviññāṇassa   na   ārammaṇaṃ
-\glb    What   that   material   --   not   --   --   edible   food   this   that   material   --   not   --
+\glb    What   that   material   body-consciousness   not   object   --   edible   food   this   that   material   body-consciousness   not   object
 \ex     What is that material form which is not the object for body-consciousness? The eye-base… and edible food—this is that material form which is not the object for body-consciousness.
 ```
 
@@ -920,7 +920,7 @@ status: draft
 
 ```gloss
 \gla    Katamaṃ   taṃ   rūpaṃ   sotāyatanaṃ…pe…   ghānāyatanaṃ…pe…   jivhāyatanaṃ…pe…   kāyāyatanaṃ   Yo   kāyo   catunnaṃ   mahābhūtānaṃ   upādāya   pasādo…pe…   suñño   gāmo   peso   idaṃ   taṃ   rūpaṃ   kāyāyatanaṃ
-\glb    What   that   matter   --   --   --   body-base   That   --   four   great_primaries   derived   --   empty   village   this   this   that   matter   body-base
+\glb    What   that   matter   --   --   --   body-base   That   body   four   great_primaries   derived   --   empty   village   this   this   that   matter   body-base
 \ex     What is that material form which is the ear sense base… the nose sense base… the tongue sense base… the body sense base? That body, which is sensitive matter derived from the four great primaries… like an empty village—this is that material form which is the body sense base.
 ```
 
@@ -1048,7 +1048,7 @@ status: draft
 
 ```gloss
 \gla    Katamaṃ   taṃ   rūpaṃ   sotindriyaṃ…pe…   ghānindriyaṃ…pe…   jivhindriyaṃ…pe…   kāyindriyaṃ   Yo   kāyo   catunnaṃ   mahābhūtānaṃ   upādāya   pasādo…pe…   suñño   gāmo   peso   idaṃ   taṃ   rūpaṃ   kāyindriyaṃ
-\glb    What   that   matter   --   --   --   body-faculty   That   --   four   great_primaries   derived   --   empty   village   this   this   that   matter   body-faculty
+\glb    What   that   matter   --   --   --   body-faculty   That   body   four   great_primaries   derived   --   empty   village   this   this   that   matter   body-faculty
 \ex     What is that material form which is the ear-faculty the nose-faculty the tongue-faculty the body-faculty? That body, which is the sensitive matter derived from the four great primaries like an empty village—this material form is the body-faculty.
 ```
 
@@ -1112,7 +1112,7 @@ status: draft
 
 ```gloss
 \gla    Katamaṃ   taṃ   rūpaṃ   kāyaviññatti   Yā   kusalacittassa   vā   akusalacittassa   vā   abyākatacittassa   vā   abhikkamantassa   vā   paṭikkamantassa   vā   ālokentassa   vā   vilokentassa   vā   samiñjentassa   vā   pasārentassa   vā   kāyassa   thambhanā   santhambhanā   santhambhitattaṃ   viññatti   viññāpanā   viññāpitattaṃ   idaṃ   taṃ   rūpaṃ   kāyaviññatti
-\glb    What   that   material   bodily_intimation   That   wholesome_mind   or   unwholesome_mind   or   indeterminate_mind   or   advancing   or   retreating   or   --   or   --   or   --   or   --   or   --   --   --   --   --   --   --   this   that   material   bodily_intimation
+\glb    What   that   material   bodily_intimation   That   wholesome_mind   or   unwholesome_mind   or   indeterminate_mind   or   advancing   or   retreating   or   --   or   --   or   --   or   --   or   --   --   --   --   intimation   --   --   this   that   material   bodily_intimation
 \ex     What is that material phenomenon, bodily intimation? That which, when a wholesome mind, or an unwholesome mind, or an indeterminate mind is advancing or retreating, looking forward or around, bending or stretching, is the body's stiffening, making stiff, state of being stiffened, intimation, making known, state of being made known—this is that material phenomenon, bodily intimation.
 ```
 
@@ -1128,7 +1128,7 @@ status: draft
 
 ```gloss
 \gla    Katamaṃ   taṃ   rūpaṃ   vacīviññatti   Yā   kusalacittassa   vā   akusalacittassa   vā   abyākatacittassa   vā   vācā   girā   byappatho   udīraṇaṃ   ghoso   ghosakammaṃ   vācā   vacībhedo   ayaṃ   vuccati   vācā   Yā   tāya   vācāya   viññatti   viññāpanā   viññāpitattaṃ   idaṃ   taṃ   rūpaṃ   vacīviññatti
-\glb    What   that   material   vocal_intimation   That   wholesome_mind   or   unwholesome_mind   or   indeterminate_mind   or   speech   --   --   utterance   --   --   speech   --   this   called   speech   That   --   --   --   --   --   this   that   material   vocal_intimation
+\glb    What   that   material   vocal_intimation   That   wholesome_mind   or   unwholesome_mind   or   indeterminate_mind   or   speech   --   --   utterance   --   --   speech   --   this   called   speech   That   --   --   intimation   --   --   this   that   material   vocal_intimation
 \ex     What is that material phenomenon, vocal intimation? That which, when a wholesome mind, or an unwholesome mind, or an indeterminate mind, is speech, utterance, declaration, articulation, sound, act of sounding, speech, differentiation of speech—this is called speech. That which is the intimation, making known, state of being made known by that speech—this is that material phenomenon, vocal intimation.
 ```
 
@@ -1232,7 +1232,7 @@ status: draft
 
 ```gloss
 \gla    Katamaṃ   taṃ   rūpaṃ   rūpassa   na   upacayo   Cakkhāyatanaṃ…pe…   kabaḷīkāro   āhāro   idaṃ   taṃ   rūpaṃ   rūpassa   na   upacayo
-\glb    What   --   matter   of   not   growth   --   edible   food   this   --   matter   of   not   growth
+\glb    What   this   matter   of   not   growth   --   edible   food   this   this   matter   of   not   growth
 \ex     What is not the growth of matter? The eye-base…etc.…edible food—this is not the growth of matter.
 ```
 
@@ -1248,7 +1248,7 @@ status: draft
 
 ```gloss
 \gla    Katamaṃ   taṃ   rūpaṃ   rūpassa   na   santati   Cakkhāyatanaṃ…pe…   kabaḷīkāro   āhāro   idaṃ   taṃ   rūpaṃ   rūpassa   na   santati
-\glb    What   --   matter   of   not   continuity   --   edible   food   this   --   matter   of   not   continuity
+\glb    What   this   matter   of   not   continuity   --   edible   food   this   this   matter   of   not   continuity
 \ex     What is not the continuity of matter? The eye-base…etc.…edible food—this is not the continuity of matter.
 ```
 
@@ -1264,7 +1264,7 @@ status: draft
 
 ```gloss
 \gla    Katamaṃ   taṃ   rūpaṃ   rūpassa   na   jaratā   Cakkhāyatanaṃ…pe…   kabaḷīkāro   āhāro   idaṃ   taṃ   rūpaṃ   rūpassa   na   jaratā
-\glb    What   --   matter   of   not   aging   --   edible   food   this   --   matter   of   not   aging
+\glb    What   this   matter   of   not   aging   --   edible   food   this   this   matter   of   not   aging
 \ex     What is not the aging of matter? The eye-base…etc.…edible food—this is not the aging of matter.
 ```
 
@@ -1280,7 +1280,7 @@ status: draft
 
 ```gloss
 \gla    Katamaṃ   taṃ   rūpaṃ   rūpassa   na   aniccatā   Cakkhāyatanaṃ…pe…   kabaḷīkāro   āhāro   idaṃ   taṃ   rūpaṃ   rūpassa   na   aniccatā
-\glb    What   --   matter   of   not   impermanence   --   edible   food   this   --   matter   of   not   impermanence
+\glb    What   this   matter   of   not   impermanence   --   edible   food   this   this   matter   of   not   impermanence
 \ex     What is not the impermanence of matter? The eye-base…etc.…edible food—this is not the impermanence of matter.
 ```
 
@@ -1288,7 +1288,7 @@ status: draft
 
 ```gloss
 \gla    Katamaṃ   taṃ   rūpaṃ   kabaḷīkāro   āhāro   Odano   kummāso   sattu   maccho   maṃsaṃ   khīraṃ   dadhi   sappi   navanītaṃ   telaṃ   madhu   phāṇitaṃ   yaṃ   vā   panaññampi   atthi   rūpaṃ   yamhi   yamhi   janapade   tesaṃ   tesaṃ   sattānaṃ   mukhāsiyaṃ   dantavikhādanaṃ   galajjhoharaṇīyaṃ   kucchivitthambhanaṃ   yāya   ojāya   sattā   yāpenti   idaṃ   taṃ   rūpaṃ   kabaḷīkāro   āhāro
-\glb    What   --   matter   edible   food   Rice   gruel   flour   fish   meat   milk   curd   ghee   fresh_butter   oil   honey   molasses   which   or   --   is   matter   which   which   --   --   --   --   --   --   --   --   --   --   --   --   this   --   matter   edible   food
+\glb    What   this   matter   edible   food   Rice   gruel   flour   fish   meat   milk   curd   ghee   fresh_butter   oil   honey   molasses   which   or   other   is   matter   which   which   --   --   --   --   --   --   --   --   --   --   --   --   this   this   matter   edible   food
 \ex     What is edible food? Rice, gruel, flour, fish, meat, milk, curd, ghee, fresh butter, oil, honey, molasses, or whatever other matter exists in any country, which is put into the mouth, chewed by the teeth, swallowed down the throat, filling the stomach, by the nutrient essence of which beings subsist—this is edible food.
 ```
 
@@ -1296,7 +1296,7 @@ status: draft
 
 ```gloss
 \gla    Katamaṃ   taṃ   rūpaṃ   na   kabaḷīkāro   āhāro   Cakkhāyatanaṃ…pe…   rūpassa   aniccatā   idaṃ   taṃ   rūpaṃ   na   kabaḷīkāro   āhāro   Evaṃ   duvidhena   rūpasaṅgaho   Dukaniddeso
-\glb    What   --   matter   not   edible   food   --   of   impermanence   this   --   matter   not   edible   food   Thus   --   compendium   --
+\glb    What   this   matter   not   edible   food   --   of   impermanence   this   this   matter   not   edible   food   Thus   --   compendium   --
 \ex     What is not edible food? The eye-base…etc.…the impermanence of matter—this is not edible food. Thus, the compendium of matter by dyads. Explanation by Dyads.
 ```
 
@@ -1336,7 +1336,7 @@ status: draft
 
 ```gloss
 \gla    Katamaṃ   taṃ   rūpaṃ   bāhiraṃ   upādiṇṇaṃ   Itthindriyaṃ   purisindriyaṃ   jīvitindriyaṃ   yaṃ   vā   panaññampi   atthi   rūpaṃ   kammassa   katattā   rūpāyatanaṃ   gandhāyatanaṃ   rasāyatanaṃ   phoṭṭhabbāyatanaṃ   ākāsadhātu   āpodhātu   rūpassa   upacayo   rūpassa   santati   kabaḷīkāro   āhāro   idaṃ   taṃ   rūpaṃ   bāhiraṃ   upādiṇṇaṃ
-\glb    What   that   matter   external   grasped   femininity_faculty   masculinity_faculty   life_faculty   that   or   --   is   matter   --   --   visible-form-base   smell-base   taste-base   tangible-base   space_element   water_element   of   production   of   continuity   edible   food   this   that   matter   external   grasped
+\glb    What   that   matter   external   grasped   femininity_faculty   masculinity_faculty   life_faculty   that   or   other   is   matter   --   produced   visible-form-base   smell-base   taste-base   tangible-base   space_element   water_element   of   production   of   continuity   edible   food   this   that   matter   external   grasped
 \ex     What is that matter which is external and grasped? The femininity faculty, the masculinity faculty, the life faculty, or whatever other matter exists as karmically produced; the visible form base, the smell base, the taste base, the tangible object base, the space element, the water element, the production of matter, the continuity of matter, edible food. This is that matter which is external and grasped.
 ```
 
@@ -1344,7 +1344,7 @@ status: draft
 
 ```gloss
 \gla    Katamaṃ   taṃ   rūpaṃ   bāhiraṃ   anupādiṇṇaṃ   Saddāyatanaṃ   kāyaviññatti   vacīviññatti   rūpassa   lahutā   rūpassa   mudutā   rūpassa   kammaññatā   rūpassa   jaratā   rūpassa   aniccatā   yaṃ   vā   panaññampi   atthi   rūpaṃ   na   kammassa   katattā   rūpāyatanaṃ   gandhāyatanaṃ   rasāyatanaṃ   phoṭṭhabbāyatanaṃ   ākāsadhātu   āpodhātu   rūpassa   upacayo   rūpassa   santati   kabaḷīkāro   āhāro   idaṃ   taṃ   rūpaṃ   bāhiraṃ   anupādiṇṇaṃ
-\glb    What   that   matter   external   not_grasped   sound-base   bodily_intimation   vocal_intimation   of   lightness   of   malleability   of   wieldiness   of   decay   of   impermanence   that   or   --   is   matter   not   --   --   visible-form-base   smell-base   taste-base   tangible-base   space_element   water_element   of   production   of   continuity   edible   food   this   that   matter   external   not_grasped
+\glb    What   that   matter   external   not_grasped   sound-base   bodily_intimation   vocal_intimation   of   lightness   of   malleability   of   wieldiness   of   decay   of   impermanence   that   or   other   is   matter   not   --   produced   visible-form-base   smell-base   taste-base   tangible-base   space_element   water_element   of   production   of   continuity   edible   food   this   that   matter   external   not_grasped
 \ex     What is that matter which is external and not grasped? The sound base, bodily intimation, vocal intimation, the lightness of matter, the malleability of matter, the wieldiness of matter, the decay of matter, the impermanence of matter, or whatever other matter exists as not karmically produced; the visible form base, the smell base, the taste base, the tangible object base, the space element, the water element, the production of matter, the continuity of matter, edible food. This is that matter which is external and not grasped.
 ```
 
@@ -1360,7 +1360,7 @@ status: draft
 
 ```gloss
 \gla    Katamaṃ   taṃ   rūpaṃ   bāhiraṃ   upādiṇṇupādāniyaṃ   Itthindriyaṃ   purisindriyaṃ   jīvitindriyaṃ   yaṃ   vā   panaññampi   atthi   rūpaṃ   kammassa   katattā   rūpāyatanaṃ   gandhāyatanaṃ   rasāyatanaṃ   phoṭṭhabbāyatanaṃ   ākāsadhātu   āpodhātu   rūpassa   upacayo   rūpassa   santati   kabaḷīkāro   āhāro   idaṃ   taṃ   rūpaṃ   bāhiraṃ   upādiṇṇupādāniyaṃ
-\glb    What   that   matter   external   --   femininity_faculty   masculinity_faculty   life_faculty   that   --   --   is   matter   --   --   visible_form   --   --   --   space_element   water_element   of   growth   of   continuity   edible   food   this   that   matter   external   --
+\glb    What   that   matter   external   --   femininity_faculty   masculinity_faculty   life_faculty   that   --   other   is   matter   kamma   produced   visible_form   smell   taste   tangible   space_element   water_element   of   growth   of   continuity   edible   food   this   that   matter   external   --
 \ex     What is that matter which is external, clung-to, and graspable? The femininity faculty, the masculinity faculty, the life faculty; and any other matter produced by kamma: the visible form sphere, the smell sphere, the taste sphere, the tangible sphere, the space element, the water element, the growth of matter, the continuity of matter, edible food—this is that matter which is external, clung-to, and graspable.
 ```
 
@@ -1368,7 +1368,7 @@ status: draft
 
 ```gloss
 \gla    Katamaṃ   taṃ   rūpaṃ   bāhiraṃ   anupādiṇṇupādāniyaṃ   Saddāyatanaṃ   kāyaviññatti   vacīviññatti   rūpassa   lahutā   rūpassa   mudutā   rūpassa   kammaññatā   rūpassa   jaratā   rūpassa   aniccatā   yaṃ   vā   panaññampi   atthi   rūpaṃ   na   kammassa   katattā   rūpāyatanaṃ   gandhāyatanaṃ   rasāyatanaṃ   phoṭṭhabbāyatanaṃ   ākāsadhātu   āpodhātu   rūpassa   upacayo   rūpassa   santati   kabaḷīkāro   āhāro   idaṃ   taṃ   rūpaṃ   bāhiraṃ   anupādiṇṇupādāniyaṃ
-\glb    What   that   matter   external   --   --   bodily_intimation   vocal_intimation   of   lightness   of   malleability   of   wieldiness   of   decay   of   impermanence   that   --   --   is   matter   not   --   --   visible_form   --   --   --   space_element   water_element   of   growth   of   continuity   edible   food   this   that   matter   external   --
+\glb    What   that   matter   external   --   sound   bodily_intimation   vocal_intimation   of   lightness   of   malleability   of   wieldiness   of   decay   of   impermanence   that   --   other   is   matter   not   kamma   produced   visible_form   smell   taste   tangible   space_element   water_element   of   growth   of   continuity   edible   food   this   that   matter   external   --
 \ex     What is that matter which is external, not clung-to, but graspable? The sound sphere, bodily intimation, vocal intimation, lightness of matter, malleability of matter, wieldiness of matter, decay of matter, impermanence of matter; and any other matter not produced by kamma: the visible form sphere, the smell sphere, the taste sphere, the tangible sphere, the space element, the water element, the growth of matter, the continuity of matter, edible food—this is that matter which is external, not clung-to, but graspable.
 ```
 
@@ -1392,7 +1392,7 @@ status: draft
 
 ```gloss
 \gla    Katamaṃ   taṃ   rūpaṃ   bāhiraṃ   anidassanaṃ   Saddāyatanaṃ   …pe…   kabaḷīkāro   āhāro   idaṃ   taṃ   rūpaṃ   bāhiraṃ   anidassanaṃ
-\glb    What   that   matter   external   --   --   --   edible   food   this   that   matter   external   --
+\glb    What   that   matter   external   --   sound   --   edible   food   this   that   matter   external   --
 \ex     What is that matter which is external and not visible? The sound sphere... and edible food—this is that matter which is external and not visible.
 ```
 
@@ -1480,7 +1480,7 @@ status: draft
 
 ```gloss
 \gla    Katamaṃ   taṃ   rūpaṃ   bāhiraṃ   viññatti   Kāyaviññatti   vacīviññatti   idaṃ   taṃ   rūpaṃ   bāhiraṃ   viññatti
-\glb    What   that   --   external   --   bodily_intimation   vocal_intimation   this   that   --   external   --
+\glb    What   that   --   external   intimation   bodily_intimation   vocal_intimation   this   that   --   external   intimation
 \ex     What is that rūpa, external, communication? Bodily intimation, vocal intimation – This is that rūpa, external, communication.
 ```
 
@@ -1496,7 +1496,7 @@ status: draft
 
 ```gloss
 \gla    Katamaṃ   taṃ   rūpaṃ   ajjhattikaṃ   na   cittasamuṭṭhānaṃ   Cakkhāyatanaṃ…pe…   kāyāyatanaṃ   idaṃ   taṃ   rūpaṃ   ajjhattikaṃ   na   cittasamuṭṭhānaṃ
-\glb    What   that   --   internal   not   --   --   body-base   this   that   --   internal   not   --
+\glb    What   that   --   internal   not   mind-originated   --   body-base   this   that   --   internal   not   mind-originated
 \ex     What is that rūpa, internal, not mind-originated? Eye sense base…pe… body sense base – This is that rūpa, internal, not mind-originated.
 ```
 
@@ -1504,7 +1504,7 @@ status: draft
 
 ```gloss
 \gla    Katamaṃ   taṃ   rūpaṃ   bāhiraṃ   cittasamuṭṭhānaṃ   Kāyaviññatti   vacīviññatti   yaṃ   vā   panaññampi   atthi   rūpaṃ   cittajaṃ   cittahetukaṃ   cittasamuṭṭhānaṃ   rūpāyatanaṃ   saddāyatanaṃ   gandhāyatanaṃ   rasāyatanaṃ   phoṭṭhabbāyatanaṃ   ākāsadhātu   āpodhātu   rūpassa   lahutā   rūpassa   mudutā   rūpassa   kammaññatā   rūpassa   upacayo   rūpassa   santati   kabaḷīkāro   āhāro   idaṃ   taṃ   rūpaṃ   bāhiraṃ   cittasamuṭṭhānaṃ
-\glb    What   that   form   external   --   bodily_intimation   vocal_intimation   that   or   --   is   form   --   --   --   visible-form-base   sound-base   smell-base   taste-base   tangible-base   space_element   water_element   of   lightness   of   malleability   of   wieldiness   of   production   of   continuity   edible   food   this   that   form   external   --
+\glb    What   that   form   external   mind-originated   bodily_intimation   vocal_intimation   that   or   other   is   form   mind-originated   mind-originated   mind-originated   visible-form-base   sound-base   smell-base   taste-base   tangible-base   space_element   water_element   of   lightness   of   malleability   of   wieldiness   of   production   of   continuity   edible   food   this   that   form   external   mind-originated
 \ex     What is that rūpa, external, mind-originated? Bodily intimation, vocal intimation, or any other rūpa that is mind-born, mind-caused, mind-originated: visible form sense base, sound sense base, smell sense base, taste sense base, tangible sense base, space element, water element, lightness of rūpa, malleability of rūpa, wieldiness of rūpa, production of rūpa, continuity of rūpa, edible food – This is that rūpa, external, mind-originated.
 ```
 
@@ -1512,7 +1512,7 @@ status: draft
 
 ```gloss
 \gla    Katamaṃ   taṃ   rūpaṃ   bāhiraṃ   na   cittasamuṭṭhānaṃ   Itthindriyaṃ   purisindriyaṃ   jīvitindriyaṃ   rūpassa   jaratā   rūpassa   aniccatā   yaṃ   vā   panaññampi   atthi   rūpaṃ   na   cittajaṃ   na   cittahetukaṃ   na   cittasamuṭṭhānaṃ   rūpāyatanaṃ   saddāyatanaṃ   gandhāyatanaṃ   rasāyatanaṃ   phoṭṭhabbāyatanaṃ   ākāsadhātu   āpodhātu   rūpassa   lahutā   rūpassa   mudutā   rūpassa   kammaññatā   rūpassa   upacayo   rūpassa   santati   kabaḷīkāro   āhāro   idaṃ   taṃ   rūpaṃ   bāhiraṃ   na   cittasamuṭṭhānaṃ
-\glb    What   that   form   external   not   --   femininity_faculty   masculinity_faculty   life_faculty   of   decay   of   impermanence   that   or   --   is   form   not   --   not   --   not   --   visible-form-base   sound-base   smell-base   taste-base   tangible-base   space_element   water_element   of   lightness   of   malleability   of   wieldiness   of   production   of   continuity   edible   food   this   that   form   external   not   --
+\glb    What   that   form   external   not   mind-originated   femininity_faculty   masculinity_faculty   life_faculty   of   decay   of   impermanence   that   or   other   is   form   not   mind-originated   not   mind-originated   not   mind-originated   visible-form-base   sound-base   smell-base   taste-base   tangible-base   space_element   water_element   of   lightness   of   malleability   of   wieldiness   of   production   of   continuity   edible   food   this   that   form   external   not   mind-originated
 \ex     What is that rūpa, external, not mind-originated? Femininity faculty, masculinity faculty, life faculty, decay of rūpa, impermanence of rūpa, or any other rūpa that is not mind-born, not mind-caused, not mind-originated: visible form sense base, sound sense base, smell sense base, taste sense base, tangible sense base, space element, water element, lightness of rūpa, malleability of rūpa, wieldiness of rūpa, production of rūpa, continuity of rūpa, edible food – This is that rūpa, external, not mind-originated.
 ```
 
@@ -1520,7 +1520,7 @@ status: draft
 
 ```gloss
 \gla    Katamaṃ   taṃ   rūpaṃ   ajjhattikaṃ   na   cittasahabhu   Cakkhāyatanaṃ…pe…   kāyāyatanaṃ   idaṃ   taṃ   rūpaṃ   ajjhattikaṃ   na   cittasahabhu
-\glb    What   --   materiality   internal   not   --   --   body-base   this   --   materiality   internal   not   --
+\glb    What   this   materiality   internal   not   co-arising   --   body-base   this   this   materiality   internal   not   co-arising
 \ex     What materiality is internal, not co-arising with consciousness? The eye-base... up to the body-base. This materiality is internal, not co-arising with consciousness.
 ```
 
@@ -1528,7 +1528,7 @@ status: draft
 
 ```gloss
 \gla    Katamaṃ   taṃ   rūpaṃ   bāhiraṃ   cittasahabhu   Kāyaviññatti   vacīviññatti   idaṃ   taṃ   rūpaṃ   bāhiraṃ   cittasahabhu
-\glb    What   --   materiality   external   --   bodily_intimation   vocal_intimation   this   --   materiality   external   --
+\glb    What   this   materiality   external   co-arising   bodily_intimation   vocal_intimation   this   this   materiality   external   co-arising
 \ex     What materiality is external, co-arising with consciousness? Bodily intimation, vocal intimation. This materiality is external, co-arising with consciousness.
 ```
 
@@ -1536,7 +1536,7 @@ status: draft
 
 ```gloss
 \gla    Katamaṃ   taṃ   rūpaṃ   bāhiraṃ   na   cittasahabhu   Rūpāyatanaṃ…pe…   kabaḷīkāro   āhāro   idaṃ   taṃ   rūpaṃ   bāhiraṃ   na   cittasahabhu
-\glb    What   --   materiality   external   not   --   --   edible   food   this   --   materiality   external   not   --
+\glb    What   this   materiality   external   not   co-arising   --   edible   food   this   this   materiality   external   not   co-arising
 \ex     What materiality is external, not co-arising with consciousness? Visible form-base... up to edible food. This materiality is external, not co-arising with consciousness.
 ```
 
@@ -1544,7 +1544,7 @@ status: draft
 
 ```gloss
 \gla    Katamaṃ   taṃ   rūpaṃ   ajjhattikaṃ   na   cittānuparivatti   Cakkhāyatanaṃ…pe…   kāyāyatanaṃ   idaṃ   taṃ   rūpaṃ   ajjhattikaṃ   na   cittānuparivatti
-\glb    What   --   materiality   internal   not   --   --   body-base   this   --   materiality   internal   not   --
+\glb    What   this   materiality   internal   not   --   --   body-base   this   this   materiality   internal   not   --
 \ex     What materiality is internal, not following consciousness? The eye-base... up to the body-base. This materiality is internal, not following consciousness.
 ```
 
@@ -1552,7 +1552,7 @@ status: draft
 
 ```gloss
 \gla    Katamaṃ   taṃ   rūpaṃ   bāhiraṃ   cittānuparivatti   Kāyaviññatti   vacīviññatti   idaṃ   taṃ   rūpaṃ   bāhiraṃ   cittānuparivatti
-\glb    What   --   materiality   external   --   bodily_intimation   vocal_intimation   this   --   materiality   external   --
+\glb    What   this   materiality   external   --   bodily_intimation   vocal_intimation   this   this   materiality   external   --
 \ex     What materiality is external, following consciousness? Bodily intimation, vocal intimation. This materiality is external, following consciousness.
 ```
 
@@ -1560,7 +1560,7 @@ status: draft
 
 ```gloss
 \gla    Katamaṃ   taṃ   rūpaṃ   bāhiraṃ   na   cittānuparivatti   Rūpāyatanaṃ…pe…   kabaḷīkāro   āhāro   idaṃ   taṃ   rūpaṃ   bāhiraṃ   na   cittānuparivatti
-\glb    What   --   materiality   external   not   --   --   edible   food   this   --   materiality   external   not   --
+\glb    What   this   materiality   external   not   --   --   edible   food   this   this   materiality   external   not   --
 \ex     What materiality is external, not following consciousness? Visible form-base... up to edible food. This materiality is external, not following consciousness.
 ```
 
@@ -1568,7 +1568,7 @@ status: draft
 
 ```gloss
 \gla    Katamaṃ   taṃ   rūpaṃ   ajjhattikaṃ   oḷārikaṃ   Cakkhāyatanaṃ   …pe…   kāyāyatanaṃ   idaṃ   taṃ   rūpaṃ   ajjhattikaṃ   oḷārikaṃ
-\glb    What   --   materiality   internal   gross   eye-base   --   body-base   this   --   materiality   internal   gross
+\glb    What   this   materiality   internal   gross   eye-base   --   body-base   this   this   materiality   internal   gross
 \ex     What materiality is internal, gross? The eye-base... up to the body-base. This materiality is internal, gross.
 ```
 
@@ -1576,7 +1576,7 @@ status: draft
 
 ```gloss
 \gla    Katamaṃ   taṃ   rūpaṃ   bāhiraṃ   oḷārikaṃ   Rūpāyatanaṃ…pe…   phoṭṭhabbāyatanaṃ   idaṃ   taṃ   rūpaṃ   bāhiraṃ   oḷārikaṃ
-\glb    What   --   materiality   external   gross   --   tangible-base   this   --   materiality   external   gross
+\glb    What   this   materiality   external   gross   --   tangible-base   this   this   materiality   external   gross
 \ex     What materiality is external, gross? Visible form-base... up to tangible-base. This materiality is external, gross.
 ```
 
@@ -1584,7 +1584,7 @@ status: draft
 
 ```gloss
 \gla    Katamaṃ   taṃ   rūpaṃ   bāhiraṃ   sukhumaṃ   Itthindriyaṃ…pe…   kabaḷīkāro   āhāro   idaṃ   taṃ   rūpaṃ   bāhiraṃ   sukhumaṃ
-\glb    What   --   materiality   external   subtle   --   edible   food   this   --   materiality   external   subtle
+\glb    What   this   materiality   external   subtle   --   edible   food   this   this   materiality   external   subtle
 \ex     What materiality is external, subtle? Female faculty... up to edible food. This materiality is external, subtle.
 ```
 
@@ -1592,7 +1592,7 @@ status: draft
 
 ```gloss
 \gla    Katamaṃ   taṃ   rūpaṃ   ajjhattikaṃ   santike   Cakkhāyatanaṃ…pe…   kāyāyatanaṃ   idaṃ   taṃ   rūpaṃ   ajjhattikaṃ   santike
-\glb    What   --   materiality   internal   near   --   body-base   this   --   materiality   internal   near
+\glb    What   this   materiality   internal   near   --   body-base   this   this   materiality   internal   near
 \ex     What materiality is internal, near? The eye-base... up to the body-base. This materiality is internal, near.
 ```
 
@@ -1600,7 +1600,7 @@ status: draft
 
 ```gloss
 \gla    Katamaṃ   taṃ   rūpaṃ   bāhiraṃ   dūre   Itthindriyaṃ…pe…   kabaḷīkāro   āhāro   idaṃ   taṃ   rūpaṃ   bāhiraṃ   dūre
-\glb    What   that   material   external   --   --   edible   food   --   that   material   external   --
+\glb    What   that   material   external   far   --   edible   food   --   that   material   external   far
 \ex     What is that material form which is external and far? Femininity faculty…pe…edible food.
 ```
 
@@ -1616,7 +1616,7 @@ status: draft
 
 ```gloss
 \gla    Katamaṃ   taṃ   rūpaṃ   bāhiraṃ   cakkhusamphassassa   na   vatthu   Rūpāyatanaṃ…pe…   kabaḷīkāro   āhāro   idaṃ   taṃ   rūpaṃ   bāhiraṃ   cakkhusamphassassa   na   vatthu
-\glb    What   that   material   external   --   not   --   --   edible   food   --   that   material   external   --   not   --
+\glb    What   that   material   external   eye-contact   not   basis   --   edible   food   --   that   material   external   eye-contact   not   basis
 \ex     What is that material form which is external and not a basis for eye-contact? Visible form base…pe…edible food.
 ```
 
@@ -1624,7 +1624,7 @@ status: draft
 
 ```gloss
 \gla    Katamaṃ   taṃ   rūpaṃ   ajjhattikaṃ   cakkhusamphassassa   vatthu   Cakkhāyatanaṃ   idaṃ   taṃ   rūpaṃ   ajjhattikaṃ   cakkhusamphassassa   vatthu
-\glb    What   that   material   internal   --   --   eye-base   --   that   material   internal   --   --
+\glb    What   that   material   internal   eye-contact   basis   eye-base   --   that   material   internal   eye-contact   basis
 \ex     What is that material form which is internal and a basis for eye-contact? Eye base.
 ```
 
@@ -1632,7 +1632,7 @@ status: draft
 
 ```gloss
 \gla    Katamaṃ   taṃ   rūpaṃ   ajjhattikaṃ   cakkhusamphassassa   na   vatthu   Sotāyatanaṃ…pe…   kāyāyatanaṃ   idaṃ   taṃ   rūpaṃ   ajjhattikaṃ   cakkhusamphassassa   na   vatthu
-\glb    What   that   material   internal   --   not   --   --   body-base   --   that   material   internal   --   not   --
+\glb    What   that   material   internal   eye-contact   not   basis   --   body-base   --   that   material   internal   eye-contact   not   basis
 \ex     What is that material form which is internal and not a basis for eye-contact? Ear base…pe…body base.
 ```
 
@@ -1640,7 +1640,7 @@ status: draft
 
 ```gloss
 \gla    Katamaṃ   taṃ   rūpaṃ   bāhiraṃ   cakkhusamphassajāya   vedanāya…pe…   saññāya…pe…   cetanāya…pe…   cakkhuviññāṇassa   na   vatthu   Rūpāyatanaṃ…pe…   kabaḷīkāro   āhāro   idaṃ   taṃ   rūpaṃ   bāhiraṃ   cakkhuviññāṇassa   na   vatthu
-\glb    What   that   material   external   --   --   --   --   --   not   --   --   edible   food   --   that   material   external   --   not   --
+\glb    What   that   material   external   born_of_eye-contact   --   --   --   eye-consciousness   not   basis   --   edible   food   --   that   material   external   eye-consciousness   not   basis
 \ex     What is that material form which is external and not a basis of feeling born of eye-contact…pe…perception…pe…volition…pe…eye-consciousness? Visible form base…pe…edible food.
 ```
 
@@ -1648,7 +1648,7 @@ status: draft
 
 ```gloss
 \gla    Katamaṃ   taṃ   rūpaṃ   ajjhattikaṃ   cakkhuviññāṇassa   vatthu   Cakkhāyatanaṃ   idaṃ   taṃ   rūpaṃ   ajjhattikaṃ   cakkhuviññāṇassa   vatthu
-\glb    What   that   material   internal   --   --   eye-base   --   that   material   internal   --   --
+\glb    What   that   material   internal   eye-consciousness   basis   eye-base   --   that   material   internal   eye-consciousness   basis
 \ex     What is that material form which is internal and a basis for eye-consciousness? Eye base.
 ```
 
@@ -1656,7 +1656,7 @@ status: draft
 
 ```gloss
 \gla    Katamaṃ   taṃ   rūpaṃ   ajjhattikaṃ   cakkhuviññāṇassa   na   vatthu   Sotāyatanaṃ…pe…   kāyāyatanaṃ   idaṃ   taṃ   rūpaṃ   ajjhattikaṃ   cakkhuviññāṇassa   na   vatthu
-\glb    What   that   material   internal   --   not   --   --   body-base   --   that   material   internal   --   not   --
+\glb    What   that   material   internal   eye-consciousness   not   basis   --   body-base   --   that   material   internal   eye-consciousness   not   basis
 \ex     What is that material form which is internal and not a basis for eye-consciousness? Ear base…pe…body base.
 ```
 
@@ -1664,7 +1664,7 @@ status: draft
 
 ```gloss
 \gla    Katamaṃ   taṃ   rūpaṃ   bāhiraṃ   sotasamphassassa…pe…   ghānasamphassassa…pe…   jivhāsamphassassa…pe…   kāyasamphassassa   na   vatthu   Rūpāyatanaṃ…pe…   kabaḷīkāro   āhāro   idaṃ   taṃ   rūpaṃ   bāhiraṃ   kāyasamphassassa   na   vatthu
-\glb    What   that   material   external   --   --   --   --   not   --   --   edible   food   --   that   material   external   --   not   --
+\glb    What   that   material   external   --   --   --   body-contact   not   basis   --   edible   food   --   that   material   external   body-contact   not   basis
 \ex     What is that material form which is external and not a basis for ear-contact…pe…nose-contact…pe…tongue-contact…pe…body-contact? Visible form base…pe…edible food.
 ```
 
@@ -1672,7 +1672,7 @@ status: draft
 
 ```gloss
 \gla    Katamaṃ   taṃ   rūpaṃ   ajjhattikaṃ   kāyasamphassassa   vatthu   Kāyāyatanaṃ   idaṃ   taṃ   rūpaṃ   ajjhattikaṃ   kāyasamphassassa   vatthu
-\glb    What   that   material   internal   --   --   body-base   --   that   material   internal   --   --
+\glb    What   that   material   internal   body-contact   basis   body-base   --   that   material   internal   body-contact   basis
 \ex     What is that material form which is internal and a basis for body-contact? Body base.
 ```
 
@@ -1680,7 +1680,7 @@ status: draft
 
 ```gloss
 \gla    Katamaṃ   taṃ   rūpaṃ   ajjhattikaṃ   kāyasamphassassa   na   vatthu   Cakkhāyatanaṃ…pe…   jivhāyatanaṃ   idaṃ   taṃ   rūpaṃ   ajjhattikaṃ   kāyasamphassassa   na   vatthu
-\glb    What   that   matter   internal   --   not   --   --   tongue-base   this   that   matter   internal   --   not   --
+\glb    What   that   matter   internal   body-contact   not   basis   --   tongue-base   this   that   matter   internal   body-contact   not   basis
 \ex     What is that internal matter which is not a basis for body contact? The eye-base…pe… the tongue-base – this is that internal matter which is not a basis for body contact.
 ```
 
@@ -1688,7 +1688,7 @@ status: draft
 
 ```gloss
 \gla    Katamaṃ   taṃ   rūpaṃ   bāhiraṃ   kāyasamphassajāya   vedanāya…pe…   saññāya…pe…   cetanāya…pe…   kāyaviññāṇassa   na   vatthu   Rūpāyatanaṃ…pe…   kabaḷīkāro   āhāro   idaṃ   taṃ   rūpaṃ   bāhiraṃ   kāyaviññāṇassa   na   vatthu
-\glb    What   that   matter   external   --   --   --   --   --   not   --   --   edible   food   this   that   matter   external   --   not   --
+\glb    What   that   matter   external   born_of_body-contact   --   --   --   body-consciousness   not   basis   --   edible   food   this   that   matter   external   body-consciousness   not   basis
 \ex     What is that external matter which is not a basis for feeling born of body contact…pe… perception…pe… volition…pe… body consciousness? The visible-form-base…pe… edible food – this is that external matter which is not a basis for body consciousness.
 ```
 
@@ -1696,7 +1696,7 @@ status: draft
 
 ```gloss
 \gla    Katamaṃ   taṃ   rūpaṃ   ajjhattikaṃ   kāyaviññāṇassa   vatthu   Kāyāyatanaṃ   idaṃ   taṃ   rūpaṃ   ajjhattikaṃ   kāyaviññāṇassa   vatthu
-\glb    What   that   matter   internal   --   --   body-base   this   that   matter   internal   --   --
+\glb    What   that   matter   internal   body-consciousness   basis   body-base   this   that   matter   internal   body-consciousness   basis
 \ex     What is that internal matter which is a basis for body consciousness? The body-base – this is that internal matter which is a basis for body consciousness.
 ```
 
@@ -1704,7 +1704,7 @@ status: draft
 
 ```gloss
 \gla    Katamaṃ   taṃ   rūpaṃ   ajjhattikaṃ   kāyaviññāṇassa   na   vatthu   Cakkhāyatanaṃ…pe…   jivhāyatanaṃ   idaṃ   taṃ   rūpaṃ   ajjhattikaṃ   kāyaviññāṇassa   na   vatthu
-\glb    What   that   matter   internal   --   not   --   --   tongue-base   this   that   matter   internal   --   not   --
+\glb    What   that   matter   internal   body-consciousness   not   basis   --   tongue-base   this   that   matter   internal   body-consciousness   not   basis
 \ex     What is that internal matter which is not a basis for body consciousness? The eye-base…pe… the tongue-base – this is that internal matter which is not a basis for body consciousness.
 ```
 
@@ -1712,7 +1712,7 @@ status: draft
 
 ```gloss
 \gla    Katamaṃ   taṃ   rūpaṃ   ajjhattikaṃ   cakkhusamphassassa   na   ārammaṇaṃ   Cakkhāyatanaṃ…pe…   kāyāyatanaṃ   idaṃ   taṃ   rūpaṃ   ajjhattikaṃ   cakkhusamphassassa   na   ārammaṇaṃ
-\glb    What   that   matter   internal   --   not   --   --   body-base   this   that   matter   internal   --   not   --
+\glb    What   that   matter   internal   eye-contact   not   object   --   body-base   this   that   matter   internal   eye-contact   not   object
 \ex     What is that internal matter which is not an object for eye contact? The eye-base…pe… the body-base – this is that internal matter which is not an object for eye contact.
 ```
 
@@ -1720,7 +1720,7 @@ status: draft
 
 ```gloss
 \gla    Katamaṃ   taṃ   rūpaṃ   bāhiraṃ   cakkhusamphassassa   ārammaṇaṃ   Rūpāyatanaṃ   idaṃ   taṃ   rūpaṃ   bāhiraṃ   cakkhusamphassassa   ārammaṇaṃ
-\glb    What   that   matter   external   --   --   visible-form-base   this   that   matter   external   --   --
+\glb    What   that   matter   external   eye-contact   object   visible-form-base   this   that   matter   external   eye-contact   object
 \ex     What is that external matter which is an object for eye contact? The visible-form-base – this is that external matter which is an object for eye contact.
 ```
 
@@ -1728,7 +1728,7 @@ status: draft
 
 ```gloss
 \gla    Katamaṃ   taṃ   rūpaṃ   bāhiraṃ   cakkhusamphassassa   na   ārammaṇaṃ   Saddāyatanaṃ…pe…   kabaḷīkāro   āhāro   idaṃ   taṃ   rūpaṃ   bāhiraṃ   cakkhusamphassassa   na   ārammaṇaṃ
-\glb    What   that   matter   external   --   not   --   --   edible   food   this   that   matter   external   --   not   --
+\glb    What   that   matter   external   eye-contact   not   object   --   edible   food   this   that   matter   external   eye-contact   not   object
 \ex     What is that external matter which is not an object for eye contact? The sound-base…pe… edible food – this is that external matter which is not an object for eye contact.
 ```
 
@@ -1736,7 +1736,7 @@ status: draft
 
 ```gloss
 \gla    Katamaṃ   taṃ   rūpaṃ   ajjhattikaṃ   cakkhusamphassajāya   vedanāya…pe…   saññāya…pe…   cetanāya…pe…   cakkhuviññāṇassa   na   ārammaṇaṃ   Cakkhāyatanaṃ…pe…   kāyāyatanaṃ   idaṃ   taṃ   rūpaṃ   ajjhattikaṃ   cakkhuviññāṇassa   na   ārammaṇaṃ
-\glb    What   that   matter   internal   --   --   --   --   --   not   --   --   body-base   this   that   matter   internal   --   not   --
+\glb    What   that   matter   internal   born_of_eye-contact   --   --   --   eye-consciousness   not   object   --   body-base   this   that   matter   internal   eye-consciousness   not   object
 \ex     What is that internal matter which is not an object for feeling born of eye contact…pe… perception…pe… volition…pe… eye consciousness? The eye-base…pe… the body-base – this is that internal matter which is not an object for eye consciousness.
 ```
 
@@ -1744,7 +1744,7 @@ status: draft
 
 ```gloss
 \gla    Katamaṃ   taṃ   rūpaṃ   bāhiraṃ   cakkhuviññāṇassa   ārammaṇaṃ   Rūpāyatanaṃ   idaṃ   taṃ   rūpaṃ   bāhiraṃ   cakkhuviññāṇassa   ārammaṇaṃ
-\glb    What   that   matter   external   --   --   visible-form-base   this   that   matter   external   --   --
+\glb    What   that   matter   external   eye-consciousness   object   visible-form-base   this   that   matter   external   eye-consciousness   object
 \ex     What is that external matter which is an object for eye consciousness? The visible-form-base – this is that external matter which is an object for eye consciousness.
 ```
 
@@ -1752,7 +1752,7 @@ status: draft
 
 ```gloss
 \gla    Katamaṃ   taṃ   rūpaṃ   bāhiraṃ   cakkhuviññāṇassa   na   ārammaṇaṃ   Saddāyatanaṃ…pe…   kabaḷīkāro   āhāro   idaṃ   taṃ   rūpaṃ   bāhiraṃ   cakkhuviññāṇassa   na   ārammaṇaṃ
-\glb    What   that   matter   external   --   not   --   --   edible   food   this   that   matter   external   --   not   --
+\glb    What   that   matter   external   eye-consciousness   not   object   --   edible   food   this   that   matter   external   eye-consciousness   not   object
 \ex     What is that external matter which is not an object for eye consciousness? The sound-base…pe… edible food – this is that external matter which is not an object for eye consciousness.
 ```
 
@@ -1760,7 +1760,7 @@ status: draft
 
 ```gloss
 \gla    Katamaṃ   taṃ   rūpaṃ   ajjhattikaṃ   sotasamphassassa…pe…   ghānasamphassassa…pe…   jivhāsamphassassa…pe…   kāyasamphassassa   na   ārammaṇaṃ   Cakkhāyatanaṃ…pe…   kāyāyatanaṃ   idaṃ   taṃ   rūpaṃ   ajjhattikaṃ   kāyasamphassassa   na   ārammaṇaṃ
-\glb    What   that   matter   internal   --   --   --   --   not   --   --   body-base   this   that   matter   internal   --   not   --
+\glb    What   that   matter   internal   --   --   --   body-contact   not   object   --   body-base   this   that   matter   internal   body-contact   not   object
 \ex     What is that internal matter which is not an object for ear-contact nose-contact tongue-contact body-contact? The eye-base ear-base nose-base tongue-base body-base. This is that internal matter which is not an object for body-contact.
 ```
 
@@ -1768,7 +1768,7 @@ status: draft
 
 ```gloss
 \gla    Katamaṃ   taṃ   rūpaṃ   bāhiraṃ   kāyasamphassassa   ārammaṇaṃ   Phoṭṭhabbāyatanaṃ   idaṃ   taṃ   rūpaṃ   bāhiraṃ   kāyasamphassassa   ārammaṇaṃ
-\glb    What   that   matter   external   --   --   tangible-base   this   that   matter   external   --   --
+\glb    What   that   matter   external   body-contact   object   tangible-base   this   that   matter   external   body-contact   object
 \ex     What is that external matter which is an object for body-contact? The tangible-base. This is that external matter which is an object for body-contact.
 ```
 
@@ -1776,7 +1776,7 @@ status: draft
 
 ```gloss
 \gla    Katamaṃ   taṃ   rūpaṃ   bāhiraṃ   kāyasamphassassa   na   ārammaṇaṃ   Rūpāyatanaṃ…pe…   kabaḷīkāro   āhāro   idaṃ   taṃ   rūpaṃ   bāhiraṃ   kāyasamphassassa   na   ārammaṇaṃ
-\glb    What   that   matter   external   --   not   --   --   edible   food   this   that   matter   external   --   not   --
+\glb    What   that   matter   external   body-contact   not   object   --   edible   food   this   that   matter   external   body-contact   not   object
 \ex     What is that external matter which is not an object for body-contact? The visible-base sound-base smell-base taste-base edible food. This is that external matter which is not an object for body-contact.
 ```
 
@@ -1784,7 +1784,7 @@ status: draft
 
 ```gloss
 \gla    Katamaṃ   taṃ   rūpaṃ   ajjhattikaṃ   kāyasamphassajāya   vedanāya…pe…   saññāya…pe…   cetanāya…pe…   kāyaviññāṇassa   na   ārammaṇaṃ   Cakkhāyatanaṃ…pe…   kāyāyatanaṃ   idaṃ   taṃ   rūpaṃ   ajjhattikaṃ   kāyaviññāṇassa   na   ārammaṇaṃ
-\glb    What   that   matter   internal   --   --   --   --   --   not   --   --   body-base   this   that   matter   internal   --   not   --
+\glb    What   that   matter   internal   --   --   --   --   body-consciousness   not   object   --   body-base   this   that   matter   internal   body-consciousness   not   object
 \ex     What is that internal matter which is not an object for feeling arisen from body-contact perception volition body-consciousness? The eye-base ear-base nose-base tongue-base body-base. This is that internal matter which is not an object for body-consciousness.
 ```
 
@@ -1792,7 +1792,7 @@ status: draft
 
 ```gloss
 \gla    Katamaṃ   taṃ   rūpaṃ   bāhiraṃ   kāyaviññāṇassa   ārammaṇaṃ   Phoṭṭhabbāyatanaṃ   idaṃ   taṃ   rūpaṃ   bāhiraṃ   kāyaviññāṇassa   ārammaṇaṃ
-\glb    What   that   matter   external   --   --   tangible-base   this   that   matter   external   --   --
+\glb    What   that   matter   external   body-consciousness   object   tangible-base   this   that   matter   external   body-consciousness   object
 \ex     What is that external matter which is an object for body-consciousness? The tangible-base. This is that external matter which is an object for body-consciousness.
 ```
 
@@ -1800,7 +1800,7 @@ status: draft
 
 ```gloss
 \gla    Katamaṃ   taṃ   rūpaṃ   bāhiraṃ   kāyaviññāṇassa   na   ārammaṇaṃ   Rūpāyatanaṃ…pe…   kabaḷīkāro   āhāro   idaṃ   taṃ   rūpaṃ   bāhiraṃ   kāyaviññāṇassa   na   ārammaṇaṃ
-\glb    What   that   matter   external   --   not   --   --   edible   food   this   that   matter   external   --   not   --
+\glb    What   that   matter   external   body-consciousness   not   object   --   edible   food   this   that   matter   external   body-consciousness   not   object
 \ex     What is that external matter which is not an object for body-consciousness? The visible-base sound-base smell-base taste-base edible food. This is that external matter which is not an object for body-consciousness.
 ```
 
@@ -1840,7 +1840,7 @@ status: draft
 
 ```gloss
 \gla    Katamaṃ   taṃ   rūpaṃ   ajjhattikaṃ   kāyāyatanaṃ   Yo   kāyo   catunnaṃ   mahābhūtānaṃ   upādāya   pasādo…pe…   suñño   gāmo   peso   idaṃ   taṃ   rūpaṃ   ajjhattikaṃ   kāyāyatanaṃ
-\glb    What   that   matter   internal   --   That   --   four   great_elements   derived   --   empty   village   this   this   that   matter   internal   --
+\glb    What   that   matter   internal   --   That   body   four   great_elements   derived   --   empty   village   this   this   that   matter   internal   --
 \ex     What is that internal body sense-base matter? That body, derived from the four great elements, is sensitive matter...pe... an empty village simile - this is that internal body sense-base matter.
 ```
 
@@ -1880,7 +1880,7 @@ status: draft
 
 ```gloss
 \gla    Katamaṃ   taṃ   rūpaṃ   ajjhattikaṃ   na   saddāyatanaṃ…pe…   na   gandhāyatanaṃ…pe…   na   rasāyatanaṃ…pe…   na   phoṭṭhabbāyatanaṃ   Cakkhāyatanaṃ…pe…   kāyāyatanaṃ   idaṃ   taṃ   rūpaṃ   ajjhattikaṃ   na   phoṭṭhabbāyatanaṃ
-\glb    What   that   matter   internal   not   --   not   --   not   --   not   --   --   --   this   that   matter   internal   not   --
+\glb    What   that   matter   internal   not   --   not   --   not   --   not   tangible   --   --   this   that   matter   internal   not   tangible
 \ex     What is that internal matter that is not the sound sense-base...pe... not the smell sense-base...pe... not the taste sense-base...pe... not the tangible sense-base? The eye sense-base...pe... the body sense-base - this is that internal matter that is not the tangible sense-base.
 ```
 
@@ -1888,7 +1888,7 @@ status: draft
 
 ```gloss
 \gla    Katamaṃ   taṃ   rūpaṃ   bāhiraṃ   phoṭṭhabbāyatanaṃ   Pathavīdhātu…pe…   phoṭṭhabbadhātu   pesā   idaṃ   taṃ   rūpaṃ   bāhiraṃ   phoṭṭhabbāyatanaṃ
-\glb    What   that   matter   external   --   --   tangible_element   this   this   that   matter   external   --
+\glb    What   that   matter   external   tangible   --   tangible_element   this   this   that   matter   external   tangible
 \ex     What is that external tangible sense-base matter? The earth element...pe... the tangible element - this is that external tangible sense-base matter.
 ```
 
@@ -1896,7 +1896,7 @@ status: draft
 
 ```gloss
 \gla    Katamaṃ   taṃ   rūpaṃ   bāhiraṃ   na   phoṭṭhabbāyatanaṃ   Rūpāyatanaṃ…pe…   kabaḷīkāro   āhāro   idaṃ   taṃ   rūpaṃ   bāhiraṃ   na   phoṭṭhabbāyatanaṃ
-\glb    What   that   matter   external   not   --   --   edible   food   this   that   matter   external   not   --
+\glb    What   that   matter   external   not   tangible   --   edible   food   this   that   matter   external   not   tangible
 \ex     What is that external matter that is not the tangible sense-base? The visible form sense-base...pe... edible food - this is that external matter that is not the tangible sense-base.
 ```
 
@@ -2032,7 +2032,7 @@ status: draft
 
 ```gloss
 \gla    Katamaṃ   taṃ   rūpaṃ   ajjhattikaṃ   kāyindriyaṃ   Yo   kāyo   catunnaṃ   mahābhūtānaṃ   upādāya   pasādo…pe…   suñño   gāmo   peso   idaṃ   taṃ   rūpaṃ   ajjhattikaṃ   kāyindriyaṃ
-\glb    What   that   matter   internal   body-faculty   That   --   four   great_primary_elements   derived   --   --   --   this   this   that   matter   internal   body-faculty
+\glb    What   that   matter   internal   body-faculty   That   body   four   great_primary_elements   derived   --   --   --   this   this   that   matter   internal   body-faculty
 \ex     What is that material form which is internal and is the body-faculty? That body, which is the sensitive matter derived from the four great primary elements…pe… – this is that material form which is internal and is the body-faculty.
 ```
 
@@ -2128,7 +2128,7 @@ status: draft
 
 ```gloss
 \gla    Katamaṃ   taṃ   rūpaṃ   bāhiraṃ   kāyaviññatti   Yā   kusalacittassa   vā   akusalacittassa   vā   abyākatacittassa   vā   abhikkamantassa   vā   paṭikkamantassa   vā   ālokentassa   vā   vilokentassa   vā   samiñjentassa   vā   pasārentassa   vā   kāyassa   thambhanā   santhambhanā   santhambhitattaṃ   viññatti   viññāpanā   viññāpitattaṃ   idaṃ   taṃ   rūpaṃ   bāhiraṃ   kāyaviññatti
-\glb    What   that   material   external   bodily_intimation   That   --   or   --   or   --   or   advancing   or   retreating   or   --   or   --   or   --   or   --   or   --   --   --   --   --   --   --   this   that   material   external   bodily_intimation
+\glb    What   that   material   external   bodily_intimation   That   --   or   --   or   --   or   advancing   or   retreating   or   --   or   --   or   --   or   --   or   --   --   --   --   intimation   --   --   this   that   material   external   bodily_intimation
 \ex     What is that external material phenomenon which is bodily intimation? That which is the body's stiffening, firm stiffening, state of being firmly stiffened, intimation, making known, or state of being made known, arising from a wholesome, unwholesome, or indeterminate consciousness, when advancing, retreating, looking, observing, bending, or stretching – this is that external material phenomenon which is bodily intimation.
 ```
 
@@ -2152,7 +2152,7 @@ status: draft
 
 ```gloss
 \gla    Katamaṃ   taṃ   rūpaṃ   bāhiraṃ   vacīviññatti   Yā   kusalacittassa   vā   akusalacittassa   vā   abyākatacittassa   vā   vācā   girā   byappatho   udīraṇaṃ   dhoso   ghosakammaṃ   vācā   vacībhedo   ayaṃ   vuccati   vācā   Yā   tāya   vācāya   viññatti   viññāpanā   viññāpitattaṃ   idaṃ   taṃ   rūpaṃ   bāhiraṃ   vacīviññatti
-\glb    What   that   material   external   vocal_intimation   That   --   or   --   or   --   or   speech   --   --   utterance   --   --   speech   --   this   called   speech   That   --   --   --   --   --   this   that   material   external   vocal_intimation
+\glb    What   that   material   external   vocal_intimation   That   --   or   --   or   --   or   speech   --   --   utterance   --   --   speech   --   this   called   speech   That   --   --   intimation   --   --   this   that   material   external   vocal_intimation
 \ex     What is that external material phenomenon which is verbal intimation? That which is speech, utterance, declaration, sound, vocal action, speech, or verbal articulation, arising from a wholesome, unwholesome, or indeterminate consciousness – this is called speech. That which is the intimation, making known, or state of being made known by that speech – this is that external material phenomenon which is verbal intimation.
 ```
 
@@ -2392,7 +2392,7 @@ status: draft
 
 ```gloss
 \gla    Katamaṃ   taṃ   rūpaṃ   bāhiraṃ   kabaḷīkāro   āhāro   Odano   kummāso   sattu   maccho   maṃsaṃ   khīraṃ   dadhi   sappi   navanītaṃ   telaṃ   madhu   phāṇitaṃ   yaṃ   vā   panaññampi   atthi   rūpaṃ   yamhi   yamhi   janapade   tesaṃ   tesaṃ   sattānaṃ   mukhāsiyaṃ   dantavikhādanaṃ   galajjhoharaṇīyaṃ   kucchivitthambhanaṃ   yāya   ojāya   sattā   yāpenti   idaṃ   taṃ   rūpaṃ   bāhiraṃ   kabaḷīkāro   āhāro
-\glb    What   that   matter   external   edible   food   Rice   gruel   flour   fish   meat   milk   curd   ghee   fresh_butter   oil   honey   --   that   or   --   is   matter   which   which   --   --   --   --   --   --   --   --   --   --   --   --   this   that   matter   external   edible   food
+\glb    What   that   matter   external   edible   food   Rice   gruel   flour   fish   meat   milk   curd   ghee   fresh_butter   oil   honey   --   that   or   other   is   matter   which   which   --   --   --   --   --   --   --   --   --   --   --   --   this   that   matter   external   edible   food
 \ex     What is that external matter which is edible food? Cooked rice, gruel, flour, fish, meat, milk, curd, ghee, fresh butter, oil, honey, treacle, or whatever other matter exists which, in various countries, is taken into the mouth by various beings, chewed by the teeth, swallowed down the throat, filling the stomach, by the nutrient essence of which beings subsist – this is that external matter which is edible food.
 ```
 
@@ -2400,7 +2400,7 @@ status: draft
 
 ```gloss
 \gla    Katamaṃ   taṃ   rūpaṃ   bāhiraṃ   na   kabaḷīkāro   āhāro   Rūpāyatanaṃ…pe…   rūpassa   aniccatā   idaṃ   taṃ   rūpaṃ   bāhiraṃ   na   kabaḷīkāro   āhāro   Evaṃ   tividhena   rūpasaṅgaho   Tikaniddeso
-\glb    --   that   matter   external   not   --   nutriment   --   of   impermanence   this   that   matter   external   not   --   nutriment   Thus   --   compendium   --
+\glb    --   that   matter   external   not   nutriment   nutriment   --   of   impermanence   this   that   matter   external   not   nutriment   nutriment   Thus   --   compendium   --
 \ex     Which matter is external and not physical nutriment? Visible form... up to... the impermanence of matter – this is that matter which is external and not physical nutriment. Thus, the compendium of matter is in three ways. Explanation of the Triads.
 ```
 
@@ -2408,7 +2408,7 @@ status: draft
 
 ```gloss
 \gla    Katamaṃ   taṃ   rūpaṃ   upādā   upādiṇṇaṃ   Cakkhāyatanaṃ…pe…   kāyāyatanaṃ   itthindriyaṃ   purisindriyaṃ   jīvitindriyaṃ   yaṃ   vā   panaññampi   atthi   rūpaṃ   kammassa   katattā   rūpāyatanaṃ   gandhāyatanaṃ   rasāyatanaṃ   ākāsadhātu   rūpassa   upacayo   rūpassa   santati   kabaḷīkāro   āhāro   idaṃ   taṃ   rūpaṃ   upādā   upādiṇṇaṃ
-\glb    --   that   matter   --   grasped   --   body-base   femininity_faculty   masculinity_faculty   life_faculty   that   or   --   is   matter   --   --   visible-form-base   smell-base   taste-base   space_element   of   production   of   continuity   --   nutriment   this   that   matter   --   grasped
+\glb    --   that   matter   --   grasped   --   body-base   femininity_faculty   masculinity_faculty   life_faculty   that   or   other   is   matter   kamma   kamma-produced   visible-form-base   smell-base   taste-base   space_element   of   production   of   continuity   nutriment   nutriment   this   that   matter   --   grasped
 \ex     Which matter is sustained by clinging and grasped by kamma? Eye-base... up to... body-base, femininity faculty, masculinity faculty, life faculty, or whatever other matter there is that is kamma-produced: visible form base, smell base, taste base, space element, production of matter, continuity of matter, physical nutriment – this is that matter sustained by clinging and grasped by kamma.
 ```
 
@@ -2416,7 +2416,7 @@ status: draft
 
 ```gloss
 \gla    Katamaṃ   taṃ   rūpaṃ   upādā   anupādiṇṇaṃ   Saddāyatanaṃ   kāyaviññatti   vacīviññatti   rūpassa   lahutā   rūpassa   mudutā   rūpassa   kammaññatā   rūpassa   jaratā   rūpassa   aniccatā   yaṃ   vā   panaññampi   atthi   rūpaṃ   na   kammassa   katattā   rūpāyatanaṃ   gandhāyatanaṃ   rasāyatanaṃ   ākāsadhātu   rūpassa   upacayo   rūpassa   santati   kabaḷīkāro   āhāro   idaṃ   taṃ   rūpaṃ   upādā   anupādiṇṇaṃ
-\glb    --   that   matter   --   not_grasped   sound-base   bodily_intimation   vocal_intimation   of   lightness   of   malleability   of   wieldiness   of   decay   of   impermanence   that   or   --   is   matter   not   --   --   visible-form-base   smell-base   taste-base   space_element   of   production   of   continuity   --   nutriment   this   that   matter   --   not_grasped
+\glb    --   that   matter   --   not_grasped   sound-base   bodily_intimation   vocal_intimation   of   lightness   of   malleability   of   wieldiness   of   decay   of   impermanence   that   or   other   is   matter   not   kamma   kamma-produced   visible-form-base   smell-base   taste-base   space_element   of   production   of   continuity   nutriment   nutriment   this   that   matter   --   not_grasped
 \ex     Which matter is sustained by clinging but not grasped by kamma? Sound base, bodily intimation, vocal intimation, lightness of matter, malleability of matter, wieldiness of matter, decay of matter, impermanence of matter, or whatever other matter there is that is not kamma-produced: visible form base, smell base, taste base, space element, production of matter, continuity of matter, physical nutriment – this is that matter sustained by clinging but not grasped by kamma.
 ```
 
@@ -2424,7 +2424,7 @@ status: draft
 
 ```gloss
 \gla    Katamaṃ   taṃ   rūpaṃ   no   upādā   upādiṇṇaṃ   Kammassa   katattā   phoṭṭhabbāyatanaṃ   āpodhātu   idaṃ   taṃ   rūpaṃ   no   upādā   upādiṇṇaṃ
-\glb    --   that   matter   not   --   grasped   --   --   tangible-base   water_element   this   that   matter   not   --   grasped
+\glb    --   that   matter   not   --   grasped   kamma   kamma-produced   tangible-base   water_element   this   that   matter   not   --   grasped
 \ex     Which matter is not sustained by clinging but grasped by kamma? The tangible base and water element that are kamma-produced – this is that matter not sustained by clinging but grasped by kamma.
 ```
 
@@ -2432,7 +2432,7 @@ status: draft
 
 ```gloss
 \gla    Katamaṃ   taṃ   rūpaṃ   no   upādā   anupādiṇṇaṃ   Na   kammassa   katattā   phoṭṭhabbāyatanaṃ   āpodhātu   idaṃ   taṃ   rūpaṃ   no   upādā   anupādiṇṇaṃ
-\glb    --   that   matter   not   --   not_grasped   not   --   --   tangible-base   water_element   this   that   matter   not   --   not_grasped
+\glb    --   that   matter   not   --   not_grasped   not   kamma   kamma-produced   tangible-base   water_element   this   that   matter   not   --   not_grasped
 \ex     Which matter is neither sustained by clinging nor grasped by kamma? The tangible base and water element that are not kamma-produced – this is that matter neither sustained by clinging nor grasped by kamma.
 ```
 
@@ -2440,7 +2440,7 @@ status: draft
 
 ```gloss
 \gla    Katamaṃ   taṃ   rūpaṃ   upādā   upādiṇṇupādāniyaṃ   Cakkhāyatanaṃ…pe…   kāyāyatanaṃ   itthindriyaṃ   purisindriyaṃ   jīvitindriyaṃ   yaṃ   vā   panaññampi   atthi   rūpaṃ   kammassa   katattā   rūpāyatanaṃ   gandhāyatanaṃ   rasāyatanaṃ   ākāsadhātu   rūpassa   upacayo   rūpassa   santati   kabaḷīkāro   āhāro   idaṃ   taṃ   rūpaṃ   upādā   upādiṇṇupādāniyaṃ
-\glb    --   that   matter   --   grasped   --   body-base   femininity_faculty   masculinity_faculty   life_faculty   that   or   --   is   matter   --   --   visible-form-base   smell-base   taste-base   space_element   of   production   of   continuity   --   nutriment   this   that   matter   --   grasped
+\glb    --   that   matter   --   grasped   --   body-base   femininity_faculty   masculinity_faculty   life_faculty   that   or   other   is   matter   kamma   kamma-produced   visible-form-base   smell-base   taste-base   space_element   of   production   of   continuity   nutriment   nutriment   this   that   matter   --   grasped
 \ex     Which matter is sustained by clinging, grasped by kamma, and an object of clinging? Eye-base... up to... body-base, femininity faculty, masculinity faculty, life faculty, or whatever other matter there is that is kamma-produced: visible form base, smell base, taste base, space element, production of matter, continuity of matter, physical nutriment – this is that matter sustained by clinging, grasped by kamma, and an object of clinging.
 ```
 
@@ -2448,7 +2448,7 @@ status: draft
 
 ```gloss
 \gla    Katamaṃ   taṃ   rūpaṃ   upādā   anupādiṇṇupādāniyaṃ   Saddāyatanaṃ   kāyaviññatti   vacīviññatti   rūpassa   lahutā   rūpassa   mudutā   rūpassa   kammaññatā   rūpassa   jaratā   rūpassa   aniccatā   yaṃ   vā   panaññampi   atthi   rūpaṃ   na   kammassa   katattā   rūpāyatanaṃ   gandhāyatanaṃ   rasāyatanaṃ   ākāsadhātu   rūpassa   upacayo   rūpassa   santati   kabaḷīkāro   āhāro   idaṃ   taṃ   rūpaṃ   upādā   anupādiṇṇupādāniyaṃ
-\glb    --   that   matter   --   --   sound-base   bodily_intimation   vocal_intimation   of   lightness   of   malleability   of   wieldiness   of   decay   of   impermanence   that   or   --   is   matter   not   --   --   visible-form-base   smell-base   taste-base   space_element   of   production   of   continuity   --   nutriment   this   that   matter   --   --
+\glb    --   that   matter   --   --   sound-base   bodily_intimation   vocal_intimation   of   lightness   of   malleability   of   wieldiness   of   decay   of   impermanence   that   or   other   is   matter   not   kamma   kamma-produced   visible-form-base   smell-base   taste-base   space_element   of   production   of   continuity   nutriment   nutriment   this   that   matter   --   --
 \ex     Which matter is sustained by clinging, not grasped by kamma, and an object of clinging? Sound base, bodily intimation, vocal intimation, lightness of matter, malleability of matter, wieldiness of matter, decay of matter, impermanence of matter, or whatever other matter there is that is not kamma-produced: visible form base, smell base, taste base, space element, production of matter, continuity of matter, physical nutriment – this is that matter sustained by clinging, not grasped by kamma, and an object of clinging.
 ```
 
@@ -2456,7 +2456,7 @@ status: draft
 
 ```gloss
 \gla    Katamaṃ   taṃ   rūpaṃ   no   upādā   upādiṇṇupādāniyaṃ   Kammassa   katattā   phoṭṭhabbāyatanaṃ   āpodhātu   idaṃ   taṃ   rūpaṃ   no   upādā   upādiṇṇupādāniyaṃ
-\glb    What   that   matter   not   derived   grasped   --   --   --   water_element   this   that   matter   not   derived   grasped
+\glb    What   that   matter   not   derived   grasped   kamma   produced   tangible   water_element   this   that   matter   not   derived   grasped
 \ex     What is that matter which is not derived, grasped and graspable? The tangible sphere and the water element, due to being produced by kamma – this is that matter which is not derived, grasped and graspable.
 ```
 
@@ -2464,7 +2464,7 @@ status: draft
 
 ```gloss
 \gla    Katamaṃ   taṃ   rūpaṃ   no   upādā   anupādiṇṇupādāniyaṃ   Na   kammassa   katattā   phoṭṭhabbāyatanaṃ   āpodhātu   idaṃ   taṃ   rūpaṃ   no   upādā   anupādiṇṇupādāniyaṃ
-\glb    What   that   matter   not   derived   --   not   --   --   --   water_element   this   that   matter   not   derived   --
+\glb    What   that   matter   not   derived   --   not   kamma   produced   tangible   water_element   this   that   matter   not   derived   --
 \ex     What is that matter which is not derived, not grasped and graspable? The tangible sphere and the water element, not due to being produced by kamma – this is that matter which is not derived, not grasped and graspable.
 ```
 
@@ -2488,7 +2488,7 @@ status: draft
 
 ```gloss
 \gla    Katamaṃ   taṃ   rūpaṃ   no   upādā   sappaṭighaṃ   Phoṭṭhabbāyatanaṃ   idaṃ   taṃ   rūpaṃ   no   upādā   sappaṭighaṃ
-\glb    What   that   matter   not   derived   with_impingement   --   this   that   matter   not   derived   with_impingement
+\glb    What   that   matter   not   derived   with_impingement   tangible   this   that   matter   not   derived   with_impingement
 \ex     What is that matter which is not derived, with impingement? The tangible sphere – this is that matter which is not derived, with impingement.
 ```
 
@@ -2520,7 +2520,7 @@ status: draft
 
 ```gloss
 \gla    Katamaṃ   taṃ   rūpaṃ   no   upādā   oḷārikaṃ   Phoṭṭhabbāyatanaṃ   idaṃ   taṃ   rūpaṃ   no   upādā   oḷārikaṃ
-\glb    What   that   matter   not   derived   gross   --   this   that   matter   not   derived   gross
+\glb    What   that   matter   not   derived   gross   tangible   this   that   matter   not   derived   gross
 \ex     What is that matter which is not derived, gross? The tangible sphere – this is that matter which is not derived, gross.
 ```
 
@@ -2536,7 +2536,7 @@ status: draft
 
 ```gloss
 \gla    Katamaṃ   taṃ   rūpaṃ   upādā   dūre   Itthindriyaṃ…pe…   kabaḷīkāro   āhāro   idaṃ   taṃ   rūpaṃ   upādā   dūre
-\glb    What   that   material   derived   --   --   --   --   this   that   material   derived   --
+\glb    What   that   material   derived   far   --   --   --   this   that   material   derived   far
 \ex     What is that material form derived and far? Femininity faculty...pe... nutritive essence. This is that material form derived and far.
 ```
 
@@ -2552,7 +2552,7 @@ status: draft
 
 ```gloss
 \gla    Katamaṃ   taṃ   rūpaṃ   no   upādā   dūre   Āpodhātu   idaṃ   taṃ   rūpaṃ   no   upādā   dūre
-\glb    What   that   material   not   derived   --   water_element   this   that   material   not   derived   --
+\glb    What   that   material   not   derived   far   water_element   this   that   material   not   derived   far
 \ex     What is that material form not derived and far? Water element. This is that material form not derived and far.
 ```
 
@@ -2560,7 +2560,7 @@ status: draft
 
 ```gloss
 \gla    Katamaṃ   taṃ   rūpaṃ   no   upādā   santike   Phoṭṭhabbāyatanaṃ   idaṃ   taṃ   rūpaṃ   no   upādā   santike
-\glb    What   that   material   not   derived   near   --   this   that   material   not   derived   near
+\glb    What   that   material   not   derived   near   tangible_object   this   that   material   not   derived   near
 \ex     What is that material form not derived and near? Tangible object. This is that material form not derived and near.
 ```
 
@@ -2568,7 +2568,7 @@ status: draft
 
 ```gloss
 \gla    Katamaṃ   taṃ   rūpaṃ   upādiṇṇaṃ   sanidassanaṃ   Kammassa   katattā   rūpāyatanaṃ   idaṃ   taṃ   rūpaṃ   upādiṇṇaṃ   sanidassanaṃ
-\glb    What   that   material   grasped   visible   --   --   visible_form   this   that   material   grasped   visible
+\glb    What   that   material   grasped   visible   kamma   --   visible_form   this   that   material   grasped   visible
 \ex     What is that material form grasped and visible? Visible form due to kamma. This is that material form grasped and visible.
 ```
 
@@ -2576,7 +2576,7 @@ status: draft
 
 ```gloss
 \gla    Katamaṃ   taṃ   rūpaṃ   upādiṇṇaṃ   anidassanaṃ   Cakkhāyatanaṃ…pe…   kāyāyatanaṃ   itthindriyaṃ   purisindriyaṃ   jīvitindriyaṃ   yaṃ   vā   panaññampi   atthi   rūpaṃ   kammassa   katattā   gandhāyatanaṃ   rasāyatanaṃ   phoṭṭhabbāyatanaṃ   ākāsadhātu   āpodhātu   rūpassa   upacayo   rūpassa   santati   kabaḷīkāro   āhāro   idaṃ   taṃ   rūpaṃ   upādiṇṇaṃ   anidassanaṃ
-\glb    What   that   matter   grasped   invisible   --   body-base   femininity_faculty   masculinity_faculty   life_faculty   that   or   --   is   matter   --   --   smell-base   taste-base   --   space_element   water_element   of   growth   of   continuity   --   --   this   that   matter   grasped   invisible
+\glb    What   that   matter   grasped   invisible   --   body-base   femininity_faculty   masculinity_faculty   life_faculty   that   or   other   is   matter   kamma   --   smell-base   taste-base   tangible_object   space_element   water_element   of   growth   of   continuity   --   --   this   that   matter   grasped   invisible
 \ex     What is that material form grasped and invisible? Eye-base...pe... body-base, femininity faculty, masculinity faculty, life faculty, or whatever other material form exists due to kamma: smell-base, taste-base, tangible object, space element, water element, growth of matter, continuity of matter, nutritive essence. This is that material form grasped and invisible.
 ```
 
@@ -2584,7 +2584,7 @@ status: draft
 
 ```gloss
 \gla    Katamaṃ   taṃ   rūpaṃ   anupādiṇṇaṃ   sanidassanaṃ   Na   kammassa   katattā   rūpāyatanaṃ   idaṃ   taṃ   rūpaṃ   anupādiṇṇaṃ   sanidassanaṃ
-\glb    What   that   material   not_grasped   visible   not   --   --   visible_form   this   that   material   not_grasped   visible
+\glb    What   that   material   not_grasped   visible   not   kamma   --   visible_form   this   that   material   not_grasped   visible
 \ex     What is that material form not grasped and visible? Visible form not due to kamma. This is that material form not grasped and visible.
 ```
 
@@ -2592,7 +2592,7 @@ status: draft
 
 ```gloss
 \gla    Katamaṃ   taṃ   rūpaṃ   anupādiṇṇaṃ   anidassanaṃ   Saddāyatanaṃ   kāyaviññatti   vacīviññatti   rūpassa   lahutā   rūpassa   mudutā   rūpassa   kammaññatā   rūpassa   jaratā   rūpassa   aniccatā   yaṃ   vā   panaññampi   atthi   rūpaṃ   na   kammassa   katattā   gandhāyatanaṃ   rasāyatanaṃ   phoṭṭhabbāyatanaṃ   ākāsadhātu   āpodhātu   rūpassa   upacayo   rūpassa   santati   kabaḷīkāro   āhāro   idaṃ   taṃ   rūpaṃ   anupādiṇṇaṃ   anidassanaṃ
-\glb    What   that   matter   not_grasped   invisible   sound-base   bodily_intimation   vocal_intimation   of   lightness   of   pliancy   of   wieldiness   of   aging   of   impermanence   that   or   --   is   matter   not   --   --   smell-base   taste-base   --   space_element   water_element   of   growth   of   continuity   --   --   this   that   matter   not_grasped   invisible
+\glb    What   that   matter   not_grasped   invisible   sound-base   bodily_intimation   vocal_intimation   of   lightness   of   pliancy   of   wieldiness   of   aging   of   impermanence   that   or   other   is   matter   not   kamma   --   smell-base   taste-base   tangible_object   space_element   water_element   of   growth   of   continuity   --   --   this   that   matter   not_grasped   invisible
 \ex     What is that material form not grasped and invisible? Sound-base, bodily intimation, vocal intimation, lightness of matter, pliancy of matter, wieldiness of matter, aging of matter, impermanence of matter, or whatever other material form exists not due to kamma: smell-base, taste-base, tangible object, space element, water element, growth of matter, continuity of matter, nutritive essence. This is that material form not grasped and invisible.
 ```
 
@@ -2600,7 +2600,7 @@ status: draft
 
 ```gloss
 \gla    Katamaṃ   taṃ   rūpaṃ   upādiṇṇaṃ   sappaṭighaṃ   Cakkhāyatanaṃ…pe…   kāyāyatanaṃ   yaṃ   vā   panaññampi   atthi   rūpaṃ   kammassa   katattā   rūpāyatanaṃ   gandhāyatanaṃ   rasāyatanaṃ   phoṭṭhabbāyatanaṃ   idaṃ   taṃ   rūpaṃ   upādiṇṇaṃ   sappaṭighaṃ
-\glb    What   that   material   grasped   with_impingement   --   body-base   that   or   --   is   material   --   --   visible_form   smell-base   taste-base   --   this   that   material   grasped   with_impingement
+\glb    What   that   material   grasped   with_impingement   --   body-base   that   or   other   is   material   kamma   --   visible_form   smell-base   taste-base   tangible_object   this   that   material   grasped   with_impingement
 \ex     What is that material form grasped and with impingement? Eye-base...pe... body-base, or whatever other material form exists due to kamma: visible form, smell-base, taste-base, tangible object. This is that material form grasped and with impingement.
 ```
 
@@ -2608,7 +2608,7 @@ status: draft
 
 ```gloss
 \gla    Katamaṃ   taṃ   rūpaṃ   upādiṇṇaṃ   appaṭighaṃ   Itthindriyaṃ   purisindriyaṃ   jīvitindriyaṃ   yaṃ   vā   panaññampi   atthi   rūpaṃ   kammassa   katattā   ākāsadhātu   āpodhātu   rūpassa   upacayo   rūpassa   santati   kabaḷīkāro   āhāro   idaṃ   taṃ   rūpaṃ   upādiṇṇaṃ   appaṭighaṃ
-\glb    What   that   matter   grasped   without_impingement   femininity_faculty   masculinity_faculty   life_faculty   that   or   --   is   matter   --   --   space_element   water_element   of   growth   of   continuity   --   --   this   that   matter   grasped   without_impingement
+\glb    What   that   matter   grasped   without_impingement   femininity_faculty   masculinity_faculty   life_faculty   that   or   other   is   matter   kamma   --   space_element   water_element   of   growth   of   continuity   --   --   this   that   matter   grasped   without_impingement
 \ex     What is that material form grasped and without impingement? Femininity faculty, masculinity faculty, life faculty, or whatever other material form exists due to kamma: space element, water element, growth of matter, continuity of matter, nutritive essence. This is that material form grasped and without impingement.
 ```
 
@@ -2616,7 +2616,7 @@ status: draft
 
 ```gloss
 \gla    Katamaṃ   taṃ   rūpaṃ   anupādiṇṇaṃ   sappaṭighaṃ   Saddāyatanaṃ   yaṃ   vā   panaññampi   atthi   rūpaṃ   na   kammassa   katattā   rūpāyatanaṃ   gandhāyatanaṃ   rasāyatanaṃ   phoṭṭhabbāyatanaṃ   idaṃ   taṃ   rūpaṃ   anupādiṇṇaṃ   sappaṭighaṃ
-\glb    What   that   matter   not_grasped   with_impingement   sound-base   that   or   --   is   matter   not   --   --   visible-form-base   smell-base   taste-base   tangible-base   this   that   matter   not_grasped   with_impingement
+\glb    What   that   matter   not_grasped   with_impingement   sound-base   that   or   other   is   matter   not   kamma   produced   visible-form-base   smell-base   taste-base   tangible-base   this   that   matter   not_grasped   with_impingement
 \ex     What is that matter which is not grasped and with impingement? The sound base, or any other matter not produced by kamma, such as the visible form base, smell base, taste base, and tangible base. This is that matter which is not grasped and with impingement.
 ```
 
@@ -2624,7 +2624,7 @@ status: draft
 
 ```gloss
 \gla    Katamaṃ   taṃ   rūpaṃ   anupādiṇṇaṃ   appaṭighaṃ   Kāyaviññatti   vacīviññatti   rūpassa   lahutā   rūpassa   mudutā   rūpassa   kammaññatā   rūpassa   jaratā   rūpassa   aniccatā   yaṃ   vā   panaññampi   atthi   rūpaṃ   na   kammassa   katattā   ākāsadhātu   āpodhātu   rūpassa   upacayo   rūpassa   santati   kabaḷīkāro   āhāro   idaṃ   taṃ   rūpaṃ   anupādiṇṇaṃ   appaṭighaṃ
-\glb    What   that   matter   not_grasped   without_impingement   bodily_intimation   vocal_intimation   of   lightness   of   malleability   of   wieldiness   of   decay   of   impermanence   that   or   --   is   matter   not   --   --   space_element   water_element   of   production   of   continuity   edible   food   this   that   matter   not_grasped   without_impingement
+\glb    What   that   matter   not_grasped   without_impingement   bodily_intimation   vocal_intimation   of   lightness   of   malleability   of   wieldiness   of   decay   of   impermanence   that   or   other   is   matter   not   kamma   produced   space_element   water_element   of   production   of   continuity   edible   food   this   that   matter   not_grasped   without_impingement
 \ex     What is that matter which is not grasped and without impingement? Bodily intimation, vocal intimation, lightness of matter, malleability of matter, wieldiness of matter, decay of matter, impermanence of matter, or any other matter not produced by kamma, such as the space element, water element, production of matter, continuity of matter, and edible food. This is that matter which is not grasped and without impingement.
 ```
 
@@ -2632,7 +2632,7 @@ status: draft
 
 ```gloss
 \gla    Katamaṃ   taṃ   rūpaṃ   upādiṇṇaṃ   mahābhūtaṃ   Kammassa   katattā   phoṭṭhabbāyatanaṃ   āpodhātu   idaṃ   taṃ   rūpaṃ   upādiṇṇaṃ   mahābhūtaṃ
-\glb    What   that   matter   grasped   great_element   --   --   tangible-base   water_element   this   that   matter   grasped   great_element
+\glb    What   that   matter   grasped   great_element   kamma   produced   tangible-base   water_element   this   that   matter   grasped   great_element
 \ex     What is that matter which is grasped and a great element? The tangible base and water element produced by kamma. This is that matter which is grasped and a great element.
 ```
 
@@ -2640,7 +2640,7 @@ status: draft
 
 ```gloss
 \gla    Katamaṃ   taṃ   rūpaṃ   upādiṇṇaṃ   na   mahābhūtaṃ   Cakkhāyatanaṃ…pe…   kāyāyatanaṃ   itthindriyaṃ   purisindriyaṃ   jīvitindriyaṃ   yaṃ   vā   panaññampi   atthi   rūpaṃ   kammassa   katattā   rūpāyatanaṃ   gandhāyatanaṃ   rasāyatanaṃ   ākāsadhātu   rūpassa   upacayo   rūpassa   santati   kabaḷīkāro   āhāro   idaṃ   taṃ   rūpaṃ   upādiṇṇaṃ   na   mahābhūtaṃ
-\glb    What   that   matter   grasped   not   great_element   --   body-base   femininity_faculty   masculinity_faculty   life_faculty   that   or   --   is   matter   --   --   visible-form-base   smell-base   taste-base   space_element   of   production   of   continuity   edible   food   this   that   matter   grasped   not   great_element
+\glb    What   that   matter   grasped   not   great_element   --   body-base   femininity_faculty   masculinity_faculty   life_faculty   that   or   other   is   matter   kamma   produced   visible-form-base   smell-base   taste-base   space_element   of   production   of   continuity   edible   food   this   that   matter   grasped   not   great_element
 \ex     What is that matter which is grasped and not a great element? The eye base,... the body base, the femininity faculty, the masculinity faculty, the life faculty, or any other matter produced by kamma, such as the visible form base, smell base, taste base, space element, production of matter, continuity of matter, and edible food. This is that matter which is grasped and not a great element.
 ```
 
@@ -2648,7 +2648,7 @@ status: draft
 
 ```gloss
 \gla    Katamaṃ   taṃ   rūpaṃ   anupādiṇṇaṃ   mahābhūtaṃ   Na   kammassa   katattā   phoṭṭhabbāyatanaṃ   āpodhātu   idaṃ   taṃ   rūpaṃ   anupādiṇṇaṃ   mahābhūtaṃ
-\glb    What   that   matter   not_grasped   great_element   not   --   --   tangible-base   water_element   this   that   matter   not_grasped   great_element
+\glb    What   that   matter   not_grasped   great_element   not   kamma   produced   tangible-base   water_element   this   that   matter   not_grasped   great_element
 \ex     What is that matter which is not grasped and a great element? The tangible base and water element not produced by kamma. This is that matter which is not grasped and a great element.
 ```
 
@@ -2656,7 +2656,7 @@ status: draft
 
 ```gloss
 \gla    Katamaṃ   taṃ   rūpaṃ   anupādiṇṇaṃ   na   mahābhūtaṃ   Saddāyatanaṃ   kāyaviññatti   vacīviññatti   rūpassa   lahutā   rūpassa   mudutā   rūpassa   kammaññatā   rūpassa   jaratā   rūpassa   aniccatā   yaṃ   vā   panaññampi   atthi   rūpaṃ   na   kammassa   katattā   rūpāyatanaṃ   gandhāyatanaṃ   rasāyatanaṃ   ākāsadhātu   rūpassa   upacayo   rūpassa   santati   kabaḷīkāro   āhāro   idaṃ   taṃ   rūpaṃ   anupādiṇṇaṃ   na   mahābhūtaṃ
-\glb    What   that   matter   not_grasped   not   great_element   sound-base   bodily_intimation   vocal_intimation   of   lightness   of   malleability   of   wieldiness   of   decay   of   impermanence   that   or   --   is   matter   not   --   --   visible-form-base   smell-base   taste-base   space_element   of   production   of   continuity   edible   food   this   that   matter   not_grasped   not   great_element
+\glb    What   that   matter   not_grasped   not   great_element   sound-base   bodily_intimation   vocal_intimation   of   lightness   of   malleability   of   wieldiness   of   decay   of   impermanence   that   or   other   is   matter   not   kamma   produced   visible-form-base   smell-base   taste-base   space_element   of   production   of   continuity   edible   food   this   that   matter   not_grasped   not   great_element
 \ex     What is that matter which is not grasped and not a great element? The sound base, bodily intimation, vocal intimation, lightness of matter, malleability of matter, wieldiness of matter, decay of matter, impermanence of matter, or any other matter not produced by kamma, such as the visible form base, smell base, taste base, space element, production of matter, continuity of matter, and edible food. This is that matter which is not grasped and not a great element.
 ```
 
@@ -2664,7 +2664,7 @@ status: draft
 
 ```gloss
 \gla    Katamaṃ   taṃ   rūpaṃ   upādiṇṇaṃ   oḷārikaṃ   Cakkhāyatanaṃ…pe…   kāyāyatanaṃ   yaṃ   vā   panaññampi   atthi   rūpaṃ   kammassa   katattā   rūpāyatanaṃ   gandhāyatanaṃ   rasāyatanaṃ   phoṭṭhabbāyatanaṃ   idaṃ   taṃ   rūpaṃ   upādiṇṇaṃ   oḷārikaṃ
-\glb    What   that   matter   grasped   gross   --   body-base   that   or   --   is   matter   --   --   visible-form-base   smell-base   taste-base   tangible-base   this   that   matter   grasped   gross
+\glb    What   that   matter   grasped   gross   --   body-base   that   or   other   is   matter   kamma   produced   visible-form-base   smell-base   taste-base   tangible-base   this   that   matter   grasped   gross
 \ex     What is that matter which is grasped and gross? The eye base,... the body base, or any other matter produced by kamma, such as the visible form base, smell base, taste base, and tangible base. This is that matter which is grasped and gross.
 ```
 
@@ -2672,7 +2672,7 @@ status: draft
 
 ```gloss
 \gla    Katamaṃ   taṃ   rūpaṃ   upādiṇṇaṃ   sukhumaṃ   Itthindriyaṃ   purisindriyaṃ   jīvitindriyaṃ   yaṃ   vā   panaññampi   atthi   rūpaṃ   kammassa   katattā   ākāsadhātu   āpodhātu   rūpassa   upacayo   rūpassa   santati   kabaḷīkāro   āhāro   idaṃ   taṃ   rūpaṃ   upādiṇṇaṃ   sukhumaṃ
-\glb    What   that   matter   grasped   subtle   femininity_faculty   masculinity_faculty   life_faculty   that   or   --   is   matter   --   --   space_element   water_element   of   production   of   continuity   edible   food   this   that   matter   grasped   subtle
+\glb    What   that   matter   grasped   subtle   femininity_faculty   masculinity_faculty   life_faculty   that   or   other   is   matter   kamma   produced   space_element   water_element   of   production   of   continuity   edible   food   this   that   matter   grasped   subtle
 \ex     What is that matter which is grasped and subtle? The femininity faculty, masculinity faculty, life faculty, or any other matter produced by kamma, such as the space element, water element, production of matter, continuity of matter, and edible food. This is that matter which is grasped and subtle.
 ```
 
@@ -2680,7 +2680,7 @@ status: draft
 
 ```gloss
 \gla    Katamaṃ   taṃ   rūpaṃ   anupādiṇṇaṃ   oḷārikaṃ   Saddāyatanaṃ   yaṃ   vā   panaññampi   atthi   rūpaṃ   na   kammassa   katattā   rūpāyatanaṃ   gandhāyatanaṃ   rasāyatanaṃ   phoṭṭhabbāyatanaṃ   idaṃ   taṃ   rūpaṃ   anupādiṇṇaṃ   oḷārikaṃ
-\glb    What   that   matter   not_grasped   gross   sound-base   that   or   --   is   matter   not   --   --   visible-form-base   smell-base   taste-base   tangible-base   this   that   matter   not_grasped   gross
+\glb    What   that   matter   not_grasped   gross   sound-base   that   or   other   is   matter   not   kamma   produced   visible-form-base   smell-base   taste-base   tangible-base   this   that   matter   not_grasped   gross
 \ex     What is that matter which is not grasped and gross? The sound base, or any other matter not produced by kamma, such as the visible form base, smell base, taste base, and tangible base. This is that matter which is not grasped and gross.
 ```
 
@@ -2688,7 +2688,7 @@ status: draft
 
 ```gloss
 \gla    Katamaṃ   taṃ   rūpaṃ   anupādiṇṇaṃ   sukhumaṃ   Kāyaviññatti   vacīviññatti   rūpassa   lahutā   rūpassa   mudutā   rūpassa   kammaññatā   rūpassa   jaratā   rūpassa   aniccatā   yaṃ   vā   panaññampi   atthi   rūpaṃ   na   kammassa   katattā   ākāsadhātu   āpodhātu   rūpassa   upacayo   rūpassa   santati   kabaḷīkāro   āhāro   idaṃ   taṃ   rūpaṃ   anupādiṇṇaṃ   sukhumaṃ
-\glb    What   that   matter   not_grasped   subtle   bodily_intimation   vocal_intimation   of   lightness   of   malleability   of   wieldiness   of   decay   of   impermanence   that   or   --   is   matter   not   --   --   space_element   water_element   of   production   of   continuity   edible   food   this   that   matter   not_grasped   subtle
+\glb    What   that   matter   not_grasped   subtle   bodily_intimation   vocal_intimation   of   lightness   of   malleability   of   wieldiness   of   decay   of   impermanence   that   or   other   is   matter   not   kamma   produced   space_element   water_element   of   production   of   continuity   edible   food   this   that   matter   not_grasped   subtle
 \ex     What is that matter which is not grasped and subtle? Bodily intimation, vocal intimation, lightness of matter, malleability of matter, wieldiness of matter, decay of matter, impermanence of matter, or any other matter not produced by kamma, such as the space element, water element, production of matter, continuity of matter, and edible food. This is that matter which is not grasped and subtle.
 ```
 
@@ -2696,7 +2696,7 @@ status: draft
 
 ```gloss
 \gla    Katamaṃ   taṃ   rūpaṃ   upādiṇṇaṃ   dūre   Itthindriyaṃ   purisindriyaṃ   jīvitindriyaṃ   yaṃ   vā   panaññampi   atthi   rūpaṃ   kammassa   katattā   ākāsadhātu   āpodhātu   rūpassa   upacayo   rūpassa   santati   kabaḷīkāro   āhāro   idaṃ   taṃ   rūpaṃ   upādiṇṇaṃ   dūre
-\glb    What   that   matter   grasped   distant   female-faculty   male-faculty   life_faculty   that   or   --   is   matter   --   --   space_element   water_element   of   production   of   continuity   edible   food   this   that   matter   grasped   distant
+\glb    What   that   matter   grasped   distant   female-faculty   male-faculty   life_faculty   that   or   other   is   matter   kamma   produced   space_element   water_element   of   production   of   continuity   edible   food   this   that   matter   grasped   distant
 \ex     What is that matter that is grasped and distant? The female faculty, the male faculty, the life faculty, or any other matter produced by kamma: the space element, the water element, the production of matter, the continuity of matter, edible food. This is that matter that is grasped and distant.
 ```
 
@@ -2704,7 +2704,7 @@ status: draft
 
 ```gloss
 \gla    Katamaṃ   taṃ   rūpaṃ   upādiṇṇaṃ   santike   Cakkhāyatanaṃ…pe…   kāyāyatanaṃ   yaṃ   vā   panaññampi   atthi   rūpaṃ   kammassa   katattā   rūpāyatanaṃ   gandhāyatanaṃ   rasāyatanaṃ   phoṭṭhabbāyatanaṃ   idaṃ   taṃ   rūpaṃ   upādiṇṇaṃ   santike
-\glb    What   that   matter   grasped   near   --   body-base   that   or   --   is   matter   --   --   visible_form   --   --   --   this   that   matter   grasped   near
+\glb    What   that   matter   grasped   near   --   body-base   that   or   other   is   matter   kamma   produced   visible_form   smell   taste   tangible_object   this   that   matter   grasped   near
 \ex     What is that matter that is grasped and near? The eye-base, ear-base, nose-base, tongue-base, body-base, or any other matter produced by kamma: visible form, smell, taste, tangible object. This is that matter that is grasped and near.
 ```
 
@@ -2712,7 +2712,7 @@ status: draft
 
 ```gloss
 \gla    Katamaṃ   taṃ   rūpaṃ   anupādiṇṇaṃ   dūre   Kāyaviññatti   vacīviññatti   rūpassa   lahutā   rūpassa   mudutā   rūpassa   kammaññatā   rūpassa   jaratā   rūpassa   aniccatā   yaṃ   vā   panaññampi   atthi   rūpaṃ   na   kammassa   katattā   ākāsadhātu   āpodhātu   rūpassa   upacayo   rūpassa   santati   kabaḷīkāro   āhāro   idaṃ   taṃ   rūpaṃ   anupādiṇṇaṃ   dūre
-\glb    What   that   matter   ungrasped   distant   bodily_intimation   vocal_intimation   of   lightness   of   malleability   of   wieldiness   of   decay   of   impermanence   that   or   --   is   matter   not   --   --   space_element   water_element   of   production   of   continuity   edible   food   this   that   matter   ungrasped   distant
+\glb    What   that   matter   ungrasped   distant   bodily_intimation   vocal_intimation   of   lightness   of   malleability   of   wieldiness   of   decay   of   impermanence   that   or   other   is   matter   not   kamma   produced   space_element   water_element   of   production   of   continuity   edible   food   this   that   matter   ungrasped   distant
 \ex     What is that matter that is ungrasped and distant? Bodily intimation, vocal intimation, lightness of matter, malleability of matter, wieldiness of matter, decay of matter, impermanence of matter, or any other matter not produced by kamma: the space element, the water element, the production of matter, the continuity of matter, edible food. This is that matter that is ungrasped and distant.
 ```
 
@@ -2720,7 +2720,7 @@ status: draft
 
 ```gloss
 \gla    Katamaṃ   taṃ   rūpaṃ   anupādiṇṇaṃ   santike   Saddāyatanaṃ   yaṃ   vā   panaññampi   atthi   rūpaṃ   na   kammassa   katattā   rūpāyatanaṃ   gandhāyatanaṃ   rasāyatanaṃ   phoṭṭhabbāyatanaṃ   idaṃ   taṃ   rūpaṃ   anupādiṇṇaṃ   santike
-\glb    What   that   matter   ungrasped   near   sound-base   that   or   --   is   matter   not   --   --   visible_form   --   --   --   this   that   matter   ungrasped   near
+\glb    What   that   matter   ungrasped   near   sound-base   that   or   other   is   matter   not   kamma   produced   visible_form   smell   taste   tangible_object   this   that   matter   ungrasped   near
 \ex     What is that matter that is ungrasped and near? The sound-base, or any other matter not produced by kamma: visible form, smell, taste, tangible object. This is that matter that is ungrasped and near.
 ```
 
@@ -2728,7 +2728,7 @@ status: draft
 
 ```gloss
 \gla    Katamaṃ   taṃ   rūpaṃ   upādiṇṇupādāniyaṃ   sanidassanaṃ   Kammassa   katattā   rūpāyatanaṃ   idaṃ   taṃ   rūpaṃ   upādiṇṇupādāniyaṃ   sanidassanaṃ
-\glb    What   that   matter   grasped   visible   --   --   visible_form   this   that   matter   grasped   visible
+\glb    What   that   matter   grasped   visible   kamma   produced   visible_form   this   that   matter   grasped   visible
 \ex     What is that matter that is grasped, graspable, and visible? Visible form produced by kamma. This is that matter that is grasped, graspable, and visible.
 ```
 
@@ -2736,7 +2736,7 @@ status: draft
 
 ```gloss
 \gla    Katamaṃ   taṃ   rūpaṃ   upādiṇṇupādāniyaṃ   anidassanaṃ   Cakkhāyatanaṃ…pe…   kāyāyatanaṃ   itthindriyaṃ   purisindriyaṃ   jīvitindriyaṃ   yaṃ   vā   panaññampi   atthi   rūpaṃ   kammassa   katattā   gandhāyatanaṃ   rasāyatanaṃ   phoṭṭhabbāyatanaṃ   ākāsadhātu   āpodhātu   rūpassa   upacayo   rūpassa   santati   kabaḷīkāro   āhāro   idaṃ   taṃ   rūpaṃ   upādiṇṇupādāniyaṃ   anidassanaṃ
-\glb    What   that   matter   grasped   invisible   --   body-base   female-faculty   male-faculty   life_faculty   that   or   --   is   matter   --   --   --   --   --   space_element   water_element   of   production   of   continuity   edible   food   this   that   matter   grasped   invisible
+\glb    What   that   matter   grasped   invisible   --   body-base   female-faculty   male-faculty   life_faculty   that   or   other   is   matter   kamma   produced   smell   taste   tangible_object   space_element   water_element   of   production   of   continuity   edible   food   this   that   matter   grasped   invisible
 \ex     What is that matter that is grasped, graspable, and invisible? The eye-base, ear-base, nose-base, tongue-base, body-base, the female faculty, the male faculty, the life faculty, or any other matter produced by kamma: smell, taste, tangible object, the space element, the water element, the production of matter, the continuity of matter, edible food. This is that matter that is grasped, graspable, and invisible.
 ```
 
@@ -2744,7 +2744,7 @@ status: draft
 
 ```gloss
 \gla    Katamaṃ   taṃ   rūpaṃ   anupādiṇṇupādāniyaṃ   sanidassanaṃ   Na   kammassa   katattā   rūpāyatanaṃ   idaṃ   taṃ   rūpaṃ   anupādiṇṇupādāniyaṃ   sanidassanaṃ
-\glb    What   that   matter   ungrasped   visible   not   --   --   visible_form   this   that   matter   ungrasped   visible
+\glb    What   that   matter   ungrasped   visible   not   kamma   produced   visible_form   this   that   matter   ungrasped   visible
 \ex     What is that matter that is ungrasped, graspable, and visible? Visible form not produced by kamma. This is that matter that is ungrasped, graspable, and visible.
 ```
 
@@ -2752,7 +2752,7 @@ status: draft
 
 ```gloss
 \gla    Katamaṃ   taṃ   rūpaṃ   anupādiṇṇupādāniyaṃ   anidassanaṃ   Saddāyatanaṃ   kāyaviññatti   vacīviññatti   rūpassa   lahutā   rūpassa   mudutā   rūpassa   kammaññatā   rūpassa   jaratā   rūpassa   aniccatā   yaṃ   vā   panaññampi   atthi   rūpaṃ   na   kammassa   katattā   gandhāyatanaṃ   rasāyatanaṃ   phoṭṭhabbāyatanaṃ   ākāsadhātu   āpodhātu   rūpassa   upacayo   rūpassa   santati   kabaḷīkāro   āhāro   idaṃ   taṃ   rūpaṃ   anupādiṇṇupādāniyaṃ   anidassanaṃ
-\glb    What   that   matter   ungrasped   invisible   sound-base   bodily_intimation   vocal_intimation   of   lightness   of   malleability   of   wieldiness   of   decay   of   impermanence   that   or   --   is   matter   not   --   --   --   --   --   space_element   water_element   of   production   of   continuity   edible   food   this   that   matter   ungrasped   invisible
+\glb    What   that   matter   ungrasped   invisible   sound-base   bodily_intimation   vocal_intimation   of   lightness   of   malleability   of   wieldiness   of   decay   of   impermanence   that   or   other   is   matter   not   kamma   produced   smell   taste   tangible_object   space_element   water_element   of   production   of   continuity   edible   food   this   that   matter   ungrasped   invisible
 \ex     What is that matter that is ungrasped, graspable, and invisible? The sound-base, bodily intimation, vocal intimation, lightness of matter, malleability of matter, wieldiness of matter, decay of matter, impermanence of matter, or any other matter not produced by kamma: smell, taste, tangible object, the space element, the water element, the production of matter, the continuity of matter, edible food. This is that matter that is ungrasped, graspable, and invisible.
 ```
 
@@ -2760,7 +2760,7 @@ status: draft
 
 ```gloss
 \gla    Katamaṃ   taṃ   rūpaṃ   upādiṇṇupādāniyaṃ   sappaṭighaṃ   Cakkhāyatanaṃ…pe…   kāyāyatanaṃ   yaṃ   vā   panaññampi   atthi   rūpaṃ   kammassa   katattā   rūpāyatanaṃ   gandhāyatanaṃ   rasāyatanaṃ   phoṭṭhabbāyatanaṃ   idaṃ   taṃ   rūpaṃ   upādiṇṇupādāniyaṃ   sappaṭighaṃ
-\glb    What   that   matter   grasped   --   --   body-base   that   or   --   is   matter   --   --   visible_form   --   --   --   this   that   matter   grasped   --
+\glb    What   that   matter   grasped   --   --   body-base   that   or   other   is   matter   kamma   produced   visible_form   smell   taste   tangible_object   this   that   matter   grasped   --
 \ex     What is that matter that is grasped, graspable, and with impact? The eye-base, ear-base, nose-base, tongue-base, body-base, or any other matter produced by kamma: visible form, smell, taste, tangible object. This is that matter that is grasped, graspable, and with impact.
 ```
 
@@ -2768,7 +2768,7 @@ status: draft
 
 ```gloss
 \gla    Katamaṃ   taṃ   rūpaṃ   upādiṇṇupādāniyaṃ   appaṭighaṃ   Itthindriyaṃ   purisindriyaṃ   jīvitindriyaṃ   yaṃ   vā   panaññampi   atthi   rūpaṃ   kammassa   katattā   ākāsadhātu   āpodhātu   rūpassa   upacayo   rūpassa   santati   kabaḷīkāro   āhāro   idaṃ   taṃ   rūpaṃ   upādiṇṇupādāniyaṃ   appaṭighaṃ
-\glb    What   that   matter   grasped   --   female-faculty   male-faculty   life_faculty   that   or   --   is   matter   --   --   space_element   water_element   of   production   of   continuity   edible   food   this   that   matter   grasped   --
+\glb    What   that   matter   grasped   --   female-faculty   male-faculty   life_faculty   that   or   other   is   matter   kamma   produced   space_element   water_element   of   production   of   continuity   edible   food   this   that   matter   grasped   --
 \ex     What is that matter that is grasped, graspable, and without impact? The female faculty, the male faculty, the life faculty, or any other matter produced by kamma: the space element, the water element, the production of matter, the continuity of matter, edible food. This is that matter that is grasped, graspable, and without impact.
 ```
 
@@ -2776,7 +2776,7 @@ status: draft
 
 ```gloss
 \gla    Katamaṃ   taṃ   rūpaṃ   anupādiṇṇupādāniyaṃ   sappaṭighaṃ   Saddāyatanaṃ   yaṃ   vā   panaññampi   atthi   rūpaṃ   na   kammassa   katattā   rūpāyatanaṃ   gandhāyatanaṃ   rasāyatanaṃ   phoṭṭhabbāyatanaṃ   idaṃ   taṃ   rūpaṃ   anupādiṇṇupādāniyaṃ   sappaṭighaṃ
-\glb    What   that   matter   --   --   sound-base   that   or   --   is   matter   not   --   --   visible-form-base   smell-base   taste-base   tangible-base   this   that   matter   --   --
+\glb    What   that   matter   --   --   sound-base   that   or   other   is   matter   not   kamma   produced   visible-form-base   smell-base   taste-base   tangible-base   this   that   matter   --   --
 \ex     What is that matter which is not grasped/graspable and has impact? Sound base, or any other matter not produced by kamma: visible form base, smell base, taste base, tangible object base. This is that matter which is not grasped/graspable and has impact.
 ```
 
@@ -2784,7 +2784,7 @@ status: draft
 
 ```gloss
 \gla    Katamaṃ   taṃ   rūpaṃ   anupādiṇṇupādāniyaṃ   appaṭighaṃ   Kāyaviññatti   vacīviññatti   rūpassa   lahutā   rūpassa   mudutā   rūpassa   kammaññatā   rūpassa   jaratā   rūpassa   aniccatā   yaṃ   vā   panaññampi   atthi   rūpaṃ   na   kammassa   katattā   ākāsadhātu   āpodhātu   rūpassa   upacayo   rūpassa   santati   kabaḷīkāro   āhāro   idaṃ   taṃ   rūpaṃ   anupādiṇṇupādāniyaṃ   appaṭighaṃ
-\glb    What   that   matter   --   --   bodily_intimation   vocal_intimation   of   lightness   of   malleability   of   wieldiness   of   decay   of   impermanence   that   or   --   is   matter   not   --   --   space_element   water_element   of   --   of   continuity   edible   food   this   that   matter   --   --
+\glb    What   that   matter   --   --   bodily_intimation   vocal_intimation   of   lightness   of   malleability   of   wieldiness   of   decay   of   impermanence   that   or   other   is   matter   not   kamma   produced   space_element   water_element   of   --   of   continuity   edible   food   this   that   matter   --   --
 \ex     What is that matter which is not grasped/graspable and has no impact? Bodily intimation, vocal intimation, lightness of matter, malleability of matter, wieldiness of matter, decay of matter, impermanence of matter, or any other matter not produced by kamma: space element, water element, origination of matter, continuity of matter, edible food. This is that matter which is not grasped/graspable and has no impact.
 ```
 
@@ -2792,7 +2792,7 @@ status: draft
 
 ```gloss
 \gla    Katamaṃ   taṃ   rūpaṃ   upādiṇṇupādāniyaṃ   mahābhūtaṃ   Kammassa   katattā   phoṭṭhabbāyatanaṃ   āpodhātu   idaṃ   taṃ   rūpaṃ   upādiṇṇupādāniyaṃ   mahābhūtaṃ
-\glb    What   that   matter   --   primary_element   --   --   tangible-base   water_element   this   that   matter   --   primary_element
+\glb    What   that   matter   --   primary_element   kamma   produced   tangible-base   water_element   this   that   matter   --   primary_element
 \ex     What is that matter which is grasped/graspable and is a primary element? Tangible object base produced by kamma, water element. This is that matter which is grasped/graspable and is a primary element.
 ```
 
@@ -2800,7 +2800,7 @@ status: draft
 
 ```gloss
 \gla    Katamaṃ   taṃ   rūpaṃ   upādiṇṇupādāniyaṃ   na   mahābhūtaṃ   Cakkhāyatanaṃ…pe…   kāyāyatanaṃ   itthindriyaṃ   purisindriyaṃ   jīvitindriyaṃ   yaṃ   vā   panaññampi   atthi   rūpaṃ   kammassa   katattā   rūpāyatanaṃ   gandhāyatanaṃ   rasāyatanaṃ   ākāsadhātu   rūpassa   upacayo   rūpassa   santati   kabaḷīkāro   āhāro   idaṃ   taṃ   rūpaṃ   upādiṇṇupādāniyaṃ   na   mahābhūtaṃ
-\glb    What   that   matter   --   not   primary_element   --   body-base   femininity_faculty   masculinity_faculty   life_faculty   that   or   --   is   matter   --   --   visible-form-base   smell-base   taste-base   space_element   of   --   of   continuity   edible   food   this   that   matter   --   not   primary_element
+\glb    What   that   matter   --   not   primary_element   --   body-base   femininity_faculty   masculinity_faculty   life_faculty   that   or   other   is   matter   kamma   produced   visible-form-base   smell-base   taste-base   space_element   of   --   of   continuity   edible   food   this   that   matter   --   not   primary_element
 \ex     What is that matter which is grasped/graspable and is not a primary element? Eye base... body base, femininity faculty, masculinity faculty, life faculty, or any other matter produced by kamma: visible form base, smell base, taste base, space element, origination of matter, continuity of matter, edible food. This is that matter which is grasped/graspable and is not a primary element.
 ```
 
@@ -2808,7 +2808,7 @@ status: draft
 
 ```gloss
 \gla    Katamaṃ   taṃ   rūpaṃ   anupādiṇṇupādāniyaṃ   mahābhūtaṃ   Na   kammassa   katattā   phoṭṭhabbāyatanaṃ   āpodhātu   idaṃ   taṃ   rūpaṃ   anupādiṇṇupādāniyaṃ   mahābhūtaṃ
-\glb    What   that   matter   --   primary_element   not   --   --   tangible-base   water_element   this   that   matter   --   primary_element
+\glb    What   that   matter   --   primary_element   not   kamma   produced   tangible-base   water_element   this   that   matter   --   primary_element
 \ex     What is that matter which is not grasped/graspable and is a primary element? Tangible object base not produced by kamma, water element. This is that matter which is not grasped/graspable and is a primary element.
 ```
 
@@ -2816,7 +2816,7 @@ status: draft
 
 ```gloss
 \gla    Katamaṃ   taṃ   rūpaṃ   anupādiṇṇupādāniyaṃ   na   mahābhūtaṃ   Saddāyatanaṃ   kāyaviññatti   vacīviññatti   rūpassa   lahutā   rūpassa   mudutā   rūpassa   kammaññatā   rūpassa   jaratā   rūpassa   aniccatā   yaṃ   vā   panaññampi   atthi   rūpaṃ   na   kammassa   katattā   rūpāyatanaṃ   gandhāyatanaṃ   rasāyatanaṃ   ākāsadhātu   rūpassa   upacayo   rūpassa   santati   kabaḷīkāro   āhāro   idaṃ   taṃ   rūpaṃ   anupādiṇṇupādāniyaṃ   na   mahābhūtaṃ
-\glb    What   that   matter   --   not   primary_element   sound-base   bodily_intimation   vocal_intimation   of   lightness   of   malleability   of   wieldiness   of   decay   of   impermanence   that   or   --   is   matter   not   --   --   visible-form-base   smell-base   taste-base   space_element   of   --   of   continuity   edible   food   this   that   matter   --   not   primary_element
+\glb    What   that   matter   --   not   primary_element   sound-base   bodily_intimation   vocal_intimation   of   lightness   of   malleability   of   wieldiness   of   decay   of   impermanence   that   or   other   is   matter   not   kamma   produced   visible-form-base   smell-base   taste-base   space_element   of   --   of   continuity   edible   food   this   that   matter   --   not   primary_element
 \ex     What is that matter which is not grasped/graspable and is not a primary element? Sound base, bodily intimation, vocal intimation, lightness of matter, malleability of matter, wieldiness of matter, decay of matter, impermanence of matter, or any other matter not produced by kamma: visible form base, smell base, taste base, space element, origination of matter, continuity of matter, edible food. This is that matter which is not grasped/graspable and is not a primary element.
 ```
 
@@ -2824,7 +2824,7 @@ status: draft
 
 ```gloss
 \gla    Katamaṃ   taṃ   rūpaṃ   upādiṇṇupādāniyaṃ   oḷārikaṃ   Cakkhāyatanaṃ…pe…   kāyāyatanaṃ   yaṃ   vā   panaññampi   atthi   rūpaṃ   kammassa   katattā   rūpāyatanaṃ   gandhāyatanaṃ   rasāyatanaṃ   phoṭṭhabbāyatanaṃ   idaṃ   taṃ   rūpaṃ   upādiṇṇupādāniyaṃ   oḷārikaṃ
-\glb    What   that   matter   --   gross   --   body-base   that   or   --   is   matter   --   --   visible-form-base   smell-base   taste-base   tangible-base   this   that   matter   --   gross
+\glb    What   that   matter   --   gross   --   body-base   that   or   other   is   matter   kamma   produced   visible-form-base   smell-base   taste-base   tangible-base   this   that   matter   --   gross
 \ex     What is that matter which is grasped/graspable and is gross? Eye base... body base, or any other matter produced by kamma: visible form base, smell base, taste base, tangible object base. This is that matter which is grasped/graspable and is gross.
 ```
 
@@ -2832,7 +2832,7 @@ status: draft
 
 ```gloss
 \gla    Katamaṃ   taṃ   rūpaṃ   upādiṇṇupādāniyaṃ   sukhumaṃ   Itthindriyaṃ   purisindriyaṃ   jīvitindriyaṃ   yaṃ   vā   panaññampi   atthi   rūpaṃ   kammassa   katattā   ākāsadhātu   āpodhātu   rūpassa   upacayo   rūpassa   santati   kabaḷīkāro   āhāro   idaṃ   taṃ   rūpaṃ   upādiṇṇupādāniyaṃ   sukhumaṃ
-\glb    What   that   matter   --   subtle   femininity_faculty   masculinity_faculty   life_faculty   that   or   --   is   matter   --   --   space_element   water_element   of   --   of   continuity   edible   food   this   that   matter   --   subtle
+\glb    What   that   matter   --   subtle   femininity_faculty   masculinity_faculty   life_faculty   that   or   other   is   matter   kamma   produced   space_element   water_element   of   --   of   continuity   edible   food   this   that   matter   --   subtle
 \ex     What is that matter which is grasped/graspable and is subtle? Femininity faculty, masculinity faculty, life faculty, or any other matter produced by kamma: space element, water element, origination of matter, continuity of matter, edible food. This is that matter which is grasped/graspable and is subtle.
 ```
 
@@ -2840,7 +2840,7 @@ status: draft
 
 ```gloss
 \gla    Katamaṃ   taṃ   rūpaṃ   anupādiṇṇupādāniyaṃ   oḷārikaṃ   Saddāyatanaṃ   yaṃ   vā   panaññampi   atthi   rūpaṃ   na   kammassa   katattā   rūpāyatanaṃ   gandhāyatanaṃ   rasāyatanaṃ   phoṭṭhabbāyatanaṃ   idaṃ   taṃ   rūpaṃ   anupādiṇṇupādāniyaṃ   oḷārikaṃ
-\glb    What   that   matter   --   gross   sound-base   that   or   --   is   matter   not   --   --   visible-form-base   smell-base   taste-base   tangible-base   this   that   matter   --   gross
+\glb    What   that   matter   --   gross   sound-base   that   or   other   is   matter   not   kamma   produced   visible-form-base   smell-base   taste-base   tangible-base   this   that   matter   --   gross
 \ex     What is that matter which is not grasped/graspable and is gross? Sound base, or any other matter not produced by kamma: visible form base, smell base, taste base, tangible object base. This is that matter which is not grasped/graspable and is gross.
 ```
 
@@ -2848,7 +2848,7 @@ status: draft
 
 ```gloss
 \gla    Katamaṃ   taṃ   rūpaṃ   anupādiṇṇupādāniyaṃ   sukhumaṃ   Kāyaviññatti   vacīviññatti   rūpassa   lahutā   rūpassa   mudutā   rūpassa   kammaññatā   rūpassa   jaratā   rūpassa   aniccatā   yaṃ   vā   panaññampi   atthi   rūpaṃ   na   kammassa   katattā   ākāsadhātu   āpodhātu   rūpassa   upacayo   rūpassa   santati   kabaḷīkāro   āhāro   idaṃ   taṃ   rūpaṃ   anupādiṇṇupādāniyaṃ   sukhumaṃ
-\glb    What   that   matter   --   subtle   bodily_intimation   vocal_intimation   of   lightness   of   malleability   of   wieldiness   of   decay   of   impermanence   that   or   --   is   matter   not   --   --   space_element   water_element   of   --   of   continuity   edible   food   this   that   matter   --   subtle
+\glb    What   that   matter   --   subtle   bodily_intimation   vocal_intimation   of   lightness   of   malleability   of   wieldiness   of   decay   of   impermanence   that   or   other   is   matter   not   kamma   produced   space_element   water_element   of   --   of   continuity   edible   food   this   that   matter   --   subtle
 \ex     What is that matter which is not grasped/graspable and is subtle? Bodily intimation, vocal intimation, lightness of matter, malleability of matter, wieldiness of matter, decay of matter, impermanence of matter, or any other matter not produced by kamma: space element, water element, origination of matter, continuity of matter, edible food. This is that matter which is not grasped/graspable and is subtle.
 ```
 
@@ -2856,7 +2856,7 @@ status: draft
 
 ```gloss
 \gla    Katamaṃ   taṃ   rūpaṃ   upādiṇṇupādāniyaṃ   dūre   Itthindriyaṃ   purisindriyaṃ   jīvitindriyaṃ   yaṃ   vā   panaññampi   atthi   rūpaṃ   kammassa   katattā   ākāsadhātu   āpodhātu   rūpassa   upacayo   rūpassa   santati   kabaḷīkāro   āhāro   idaṃ   taṃ   rūpaṃ   upādiṇṇupādāniyaṃ   dūre
-\glb    What   that   matter   grasped   distant   femininity_faculty   masculinity_faculty   life_faculty   that   or   --   is   matter   --   --   space_element   water_element   of   production   of   continuity   edible   food   this   that   matter   grasped   distant
+\glb    What   that   matter   grasped   distant   femininity_faculty   masculinity_faculty   life_faculty   that   or   other   is   matter   kamma   --   space_element   water_element   of   production   of   continuity   edible   food   this   that   matter   grasped   distant
 \ex     What is that matter, grasped and graspable, distant? The femininity faculty, masculinity faculty, life faculty, or any other matter that exists due to kamma: the space element, water element, production of matter, continuity of matter, edible food. This is that matter, grasped and graspable, distant.
 ```
 
@@ -2864,7 +2864,7 @@ status: draft
 
 ```gloss
 \gla    Katamaṃ   taṃ   rūpaṃ   upādiṇṇupādāniyaṃ   santike   cakkhāyatanaṃ…pe…   kāyāyatanaṃ   yaṃ   vā   panaññampi   atthi   rūpaṃ   kammassa   katattā   rūpāyatanaṃ   gandhāyatanaṃ   rasāyatanaṃ   phoṭṭhabbāyatanaṃ   idaṃ   taṃ   rūpaṃ   upādiṇṇupādāniyaṃ   santike
-\glb    What   that   matter   grasped   near   --   body-base   that   or   --   is   matter   --   --   visible-form-base   smell-base   taste-base   tangible-base   this   that   matter   grasped   near
+\glb    What   that   matter   grasped   near   --   body-base   that   or   other   is   matter   kamma   --   visible-form-base   smell-base   taste-base   tangible-base   this   that   matter   grasped   near
 \ex     What is that matter, grasped and graspable, near? The eye base... to... the body base, or any other matter that exists due to kamma: the visible form base, smell base, taste base, tangible object base. This is that matter, grasped and graspable, near.
 ```
 
@@ -2872,7 +2872,7 @@ status: draft
 
 ```gloss
 \gla    Katamaṃ   taṃ   rūpaṃ   anupādiṇṇupādāniyaṃ   dūre   Kāyaviññatti   vacīviññatti   rūpassa   lahutā   rūpassa   mudutā   rūpassa   kammaññatā   rūpassa   jaratā   rūpassa   aniccatā   yaṃ   vā   panaññampi   atthi   rūpaṃ   na   kammassa   katattā   ākāsadhātu   āpodhātu   rūpassa   upacayo   rūpassa   santati   kabaḷīkāro   āhāro   idaṃ   taṃ   rūpaṃ   anupādiṇṇupādāniyaṃ   dūre
-\glb    What   that   matter   ungrasped   distant   bodily_intimation   vocal_intimation   of   lightness   of   malleability   of   wieldiness   of   decay   of   impermanence   that   or   --   is   matter   not   --   --   space_element   water_element   of   production   of   continuity   edible   food   this   that   matter   ungrasped   distant
+\glb    What   that   matter   ungrasped   distant   bodily_intimation   vocal_intimation   of   lightness   of   malleability   of   wieldiness   of   decay   of   impermanence   that   or   other   is   matter   not   kamma   --   space_element   water_element   of   production   of   continuity   edible   food   this   that   matter   ungrasped   distant
 \ex     What is that matter, ungrasped and ungraspable, distant? Bodily intimation, vocal intimation, lightness of matter, malleability of matter, wieldiness of matter, decay of matter, impermanence of matter, or any other matter that exists not due to kamma: the space element, water element, production of matter, continuity of matter, edible food. This is that matter, ungrasped and ungraspable, distant.
 ```
 
@@ -2880,7 +2880,7 @@ status: draft
 
 ```gloss
 \gla    Katamaṃ   taṃ   rūpaṃ   anupādiṇṇupādāniyaṃ   santike   Saddāyatanaṃ   yaṃ   vā   panaññampi   atthi   rūpaṃ   na   kammassa   katattā   rūpāyatanaṃ   gandhāyatanaṃ   rasāyatanaṃ   phoṭṭhabbāyatanaṃ   idaṃ   taṃ   rūpaṃ   anupādiṇṇupādāniyaṃ   santike
-\glb    What   that   matter   ungrasped   near   sound-base   that   or   --   is   matter   not   --   --   visible-form-base   smell-base   taste-base   tangible-base   this   that   matter   ungrasped   near
+\glb    What   that   matter   ungrasped   near   sound-base   that   or   other   is   matter   not   kamma   --   visible-form-base   smell-base   taste-base   tangible-base   this   that   matter   ungrasped   near
 \ex     What is that matter, ungrasped and ungraspable, near? The sound base, or any other matter that exists not due to kamma: the visible form base, smell base, taste base, tangible object base. This is that matter, ungrasped and ungraspable, near.
 ```
 
@@ -2944,7 +2944,7 @@ status: draft
 
 ```gloss
 \gla    Katamaṃ   taṃ   rūpaṃ   appaṭighaṃ   na   mahābhūtaṃ   Itthindriyaṃ…pe…   kabaḷīkāro   āhāro   idaṃ   taṃ   rūpaṃ   appaṭighaṃ   na   mahābhūtaṃ
-\glb    What   that   material   non-impinging   not   primary_element   --   --   nutriment   this   that   material   non-impinging   not   primary_element
+\glb    What   that   material   non-impinging   not   primary_element   --   nutriment   nutriment   this   that   material   non-impinging   not   primary_element
 \ex     What is that material phenomenon which is non-impinging and not a primary element? The femininity faculty…pe… nutriment taken in morsels. This is that material phenomenon which is non-impinging and not a primary element.
 ```
 
@@ -2968,7 +2968,7 @@ status: draft
 
 ```gloss
 \gla    Katamaṃ   taṃ   rūpaṃ   na   indriyaṃ   oḷārikaṃ   Rūpāyatanaṃ…pe…   phoṭṭhabbāyatanaṃ   idaṃ   taṃ   rūpaṃ   na   indriyaṃ   oḷārikaṃ
-\glb    What   that   material   not   faculty   gross   --   --   this   that   material   not   faculty   gross
+\glb    What   that   material   not   faculty   gross   --   tangible_object   this   that   material   not   faculty   gross
 \ex     What is that material phenomenon which is not a faculty and gross? The visible object…pe… the tangible object. This is that material phenomenon which is not a faculty and gross.
 ```
 
@@ -2976,7 +2976,7 @@ status: draft
 
 ```gloss
 \gla    Katamaṃ   taṃ   rūpaṃ   na   indriyaṃ   sukhumaṃ   Kāyaviññatti   vacīviññatti…pe…   kabaḷīkāro   āhāro   idaṃ   taṃ   rūpaṃ   na   indriyaṃ   sukhumaṃ
-\glb    What   that   material   not   faculty   subtle   bodily_intimation   --   --   nutriment   this   that   material   not   faculty   subtle
+\glb    What   that   material   not   faculty   subtle   bodily_intimation   --   nutriment   nutriment   this   that   material   not   faculty   subtle
 \ex     What is that material phenomenon which is not a faculty and subtle? Bodily intimation, verbal intimation…pe… nutriment taken in morsels. This is that material phenomenon which is not a faculty and subtle.
 ```
 
@@ -3000,7 +3000,7 @@ status: draft
 
 ```gloss
 \gla    Katamaṃ   taṃ   rūpaṃ   na   indriyaṃ   dūre   Kāyaviññatti   vacīviññatti…pe…   kabaḷīkāro   āhāro   idaṃ   taṃ   rūpaṃ   na   indriyaṃ   dūre
-\glb    What   that   material   not   faculty   remote   bodily_intimation   --   --   nutriment   this   that   material   not   faculty   remote
+\glb    What   that   material   not   faculty   remote   bodily_intimation   --   nutriment   nutriment   this   that   material   not   faculty   remote
 \ex     What is that material phenomenon which is not a faculty and remote? Bodily intimation, verbal intimation…pe… nutriment taken in morsels. This is that material phenomenon which is not a faculty and remote.
 ```
 
@@ -3008,7 +3008,7 @@ status: draft
 
 ```gloss
 \gla    Katamaṃ   taṃ   rūpaṃ   na   indriyaṃ   santike   Rūpāyatanaṃ…pe…   phoṭṭhabbāyatanaṃ   idaṃ   taṃ   rūpaṃ   na   indriyaṃ   santike
-\glb    What   that   material   not   faculty   proximate   --   --   this   that   material   not   faculty   proximate
+\glb    What   that   material   not   faculty   proximate   --   tangible_object   this   that   material   not   faculty   proximate
 \ex     What is that material phenomenon which is not a faculty and proximate? The visible object…pe… the tangible object. This is that material phenomenon which is not a faculty and proximate.
 ```
 
@@ -3080,7 +3080,7 @@ status: draft
 
 ```gloss
 \gla    Rūpāyatanaṃ   diṭṭhaṃ   saddāyatanaṃ   sutaṃ   gandhāyatanaṃ   rasāyatanaṃ   phoṭṭhabbāyatanaṃ   mutaṃ   sabbaṃ   rūpaṃ   manasā   viññātaṃ   rūpaṃ   Evaṃ   catubbidhena   rūpasaṅgaho   Catukkaṃ
-\glb    visible_form   seen   --   heard   --   --   --   sensed   all   matter   mind   cognized   matter   Thus   fourfold   compilation   Tetrad
+\glb    visible_form   seen   sound   heard   smell   taste   tangible   sensed   all   matter   mind   cognized   matter   Thus   fourfold   compilation   Tetrad
 \ex     Visible form is seen, sound is heard, smell, taste, and tangible objects are sensed, all matter is matter cognized by the mind. Thus, the compilation of matter is fourfold. The Tetrad.
 ```
 
@@ -3128,7 +3128,7 @@ status: draft
 
 ```gloss
 \gla    Rūpāyatanaṃ   cakkhuviññeyyaṃ   rūpaṃ   saddāyatanaṃ   sotaviññeyyaṃ   rūpaṃ   gandhāyatanaṃ   ghānaviññeyyaṃ   rūpaṃ   rasāyatanaṃ   jivhāviññeyyaṃ   rūpaṃ   phoṭṭhabbāyatanaṃ   kāyaviññeyyaṃ   rūpaṃ   sabbaṃ   rūpaṃ   manoviññeyyaṃ   rūpaṃ   Evaṃ   chabbidhena   rūpasaṅgaho   Chakkaṃ
-\glb    --   cognizable_by_eye-consciousness   matter   --   cognizable_by_ear-consciousness   matter   --   cognizable_by_nose-consciousness   matter   --   cognizable_by_tongue-consciousness   matter   --   cognizable_by_body-consciousness   matter   all   matter   --   matter   Thus   sixfold   compendium   --
+\glb    --   cognizable_by_eye-consciousness   matter   sound   cognizable_by_ear-consciousness   matter   odour   cognizable_by_nose-consciousness   matter   taste   cognizable_by_tongue-consciousness   matter   tangible   cognizable_by_body-consciousness   matter   all   matter   --   matter   Thus   sixfold   compendium   --
 \ex     Visual form is form cognizable by eye-consciousness; sound form is form cognizable by ear-consciousness; odour form is form cognizable by nose-consciousness; taste form is form cognizable by tongue-consciousness; tangible form is form cognizable by body-consciousness; all form is form cognizable by mind-consciousness. Thus is the compendium of matter in six ways. The Sixfold Way
 ```
 
@@ -3136,7 +3136,7 @@ status: draft
 
 ```gloss
 \gla    Rūpāyatanaṃ   cakkhuviññeyyaṃ   rūpaṃ   saddāyatanaṃ   sotaviññeyyaṃ   rūpaṃ   gandhāyatanaṃ   ghānaviññeyyaṃ   rūpaṃ   rasāyatanaṃ   jivhāviññeyyaṃ   rūpaṃ   phoṭṭhabbāyatanaṃ   kāyaviññeyyaṃ   rūpaṃ   rūpāyatanaṃ   saddāyatanaṃ   gandhāyatanaṃ   rasāyatanaṃ   phoṭṭhabbāyatanaṃ   manodhātuviññeyyaṃ   rūpaṃ   sabbaṃ   rūpaṃ   manoviññāṇadhātuviññeyyaṃ   rūpaṃ   Evaṃ   sattavidhena   rūpasaṅgaho   Sattakaṃ
-\glb    --   cognizable_by_eye-consciousness   matter   --   cognizable_by_ear-consciousness   matter   --   cognizable_by_nose-consciousness   matter   --   cognizable_by_tongue-consciousness   matter   --   cognizable_by_body-consciousness   matter   --   --   --   --   --   cognizable_by_mind-element   matter   all   matter   cognizable_by_mind-consciousness-element   matter   Thus   sevenfold   compendium   --
+\glb    --   cognizable_by_eye-consciousness   matter   sound   cognizable_by_ear-consciousness   matter   odour   cognizable_by_nose-consciousness   matter   taste   cognizable_by_tongue-consciousness   matter   tangible   cognizable_by_body-consciousness   matter   --   sound   odour   taste   tangible   cognizable_by_mind-element   matter   all   matter   cognizable_by_mind-consciousness-element   matter   Thus   sevenfold   compendium   --
 \ex     Visual form is form cognizable by eye-consciousness; sound form is form cognizable by ear-consciousness; odour form is form cognizable by nose-consciousness; taste form is form cognizable by tongue-consciousness; tangible form is form cognizable by body-consciousness; visual, sound, odour, taste, and tangible forms are forms cognizable by the mind-element consciousness; all form is form cognizable by the mind-consciousness-element consciousness. Thus is the compendium of matter in seven ways. The Sevenfold Way
 ```
 
@@ -3144,7 +3144,7 @@ status: draft
 
 ```gloss
 \gla    Rūpāyatanaṃ   cakkhuviññeyyaṃ   rūpaṃ   saddāyatanaṃ   sotaviññeyyaṃ   rūpaṃ   gandhāyatanaṃ   ghānaviññeyyaṃ   rūpaṃ   rasāyatanaṃ   jivhāviññeyyaṃ   rūpaṃ   manāpiyo   phoṭṭhabbo   sukhasamphasso   kāyaviññeyyaṃ   rūpaṃ   amanāpiyo   phoṭṭhabbo   dukkhasamphasso   kāyaviññeyyaṃ   rūpaṃ   rūpāyatanaṃ   saddāyatanaṃ   gandhāyatanaṃ   rasāyatanaṃ   phoṭṭhabbāyatanaṃ   manodhātuviññeyyaṃ   rūpaṃ   sabbaṃ   rūpaṃ   manoviññāṇadhātuviññeyyaṃ   rūpaṃ   Evaṃ   aṭṭhavidhena   rūpasaṅgaho   Aṭṭhakaṃ
-\glb    --   cognizable_by_eye-consciousness   matter   --   cognizable_by_ear-consciousness   matter   --   cognizable_by_nose-consciousness   matter   --   cognizable_by_tongue-consciousness   matter   pleasant   tangible   pleasant_contact   cognizable_by_body-consciousness   matter   --   tangible   painful_contact   cognizable_by_body-consciousness   matter   --   --   --   --   --   cognizable_by_mind-element   matter   all   matter   cognizable_by_mind-consciousness-element   matter   Thus   eightfold   compendium   --
+\glb    --   cognizable_by_eye-consciousness   matter   sound   cognizable_by_ear-consciousness   matter   odour   cognizable_by_nose-consciousness   matter   taste   cognizable_by_tongue-consciousness   matter   pleasant   tangible   pleasant_contact   cognizable_by_body-consciousness   matter   --   tangible   painful_contact   cognizable_by_body-consciousness   matter   --   sound   odour   taste   tangible   cognizable_by_mind-element   matter   all   matter   cognizable_by_mind-consciousness-element   matter   Thus   eightfold   compendium   --
 \ex     Visual form is form cognizable by eye-consciousness; sound form is form cognizable by ear-consciousness; odour form is form cognizable by nose-consciousness; taste form is form cognizable by tongue-consciousness; agreeable tangible form, pleasant contact, is form cognizable by body-consciousness; disagreeable tangible form, painful contact, is form cognizable by body-consciousness; visual, sound, odour, taste, and tangible forms are forms cognizable by the mind-element consciousness; all form is form cognizable by the mind-consciousness-element consciousness. Thus is the compendium of matter in eight ways. The Eightfold Group.
 ```
 
@@ -3192,7 +3192,7 @@ status: draft
 
 ```gloss
 \gla    Katamaṃ   taṃ   rūpaṃ   na   indriyaṃ   sappaṭighaṃ   Rūpāyatanaṃ…pe…   phoṭṭhabbāyatanaṃ   idaṃ   taṃ   rūpaṃ   na   indriyaṃ   sappaṭighaṃ
-\glb    What   that   material   not   faculty   --   --   --   this   that   material   not   faculty   --
+\glb    What   that   material   not   faculty   --   --   tangible_object   this   that   material   not   faculty   --
 \ex     What is that material phenomenon which is not a faculty and has impingement? Visible object... up to... tangible object – this is that material phenomenon which is not a faculty and has impingement.
 ```
 
@@ -3216,7 +3216,7 @@ status: draft
 
 ```gloss
 \gla    Katamaṃ   taṃ   rūpaṃ   sotāyatanaṃ…pe…   ghānāyatanaṃ…pe…   jivhāyatanaṃ…pe…   kāyāyatanaṃ…pe…   rūpāyatanaṃ…pe…   saddāyatanaṃ…pe…   gandhāyatanaṃ…pe…   rasāyatanaṃ…pe…   phoṭṭhabbāyatanaṃ   Pathavīdhātu…pe…   phoṭṭhabbadhātu   pesā   idaṃ   taṃ   rūpaṃ   phoṭṭhabbāyatanaṃ
-\glb    What   that   material   --   --   --   --   --   --   --   --   --   --   tangible_element   this   this   that   material   --
+\glb    What   that   material   --   --   --   --   --   --   --   --   tangible   --   tangible_element   this   this   that   material   tangible
 \ex     What is that material phenomenon which is the ear-base... up to... the tangible object-base? Earth element... up to... tangible element – this is that material phenomenon which is the tangible object-base.
 ```
 
