@@ -54,7 +54,7 @@ These skills populate `2-RAILS/` with the structured context that translation an
 **Inputs:** All raw summary files for the target node under `2-RAILS/Sections/Raw/`.
 **Outputs:** One combined file at `2-RAILS/Sections/<node-id>.md` containing the original-language synthesis and an English translation.
 **Rules:** Use only the terminology the commentary itself uses. No translation. No paraphrase beyond compression. Every claim cites a block ID from the source file.
-→ [`section-summary-combined/SKILL.md`](section-summary-combined/SKILL.md)
+→ [`section-summary-combined/SKILL.md`](4-SYSTEM/Skills/section-summary-raw/section-summary-combined/SKILL.md)
 
 ### `atthakatha-summaries` **[exists]**
 **Purpose:** Create structured Pāli-language introductory summaries for each TOC node in a root text, drawn strictly from the Aṭṭhakathā. Produces or extends the consolidated summaries file at `2-RAILS/Sections/<text-name>-summaries.md`, with a full TOC block, hierarchical block IDs, back-links, summary paragraphs, and block-level citations.
