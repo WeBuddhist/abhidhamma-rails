@@ -168,7 +168,7 @@ status: draft
 
 ```gloss
 \gla    Katame   dhammā   sukhasahagatā   Sukhabhūmiyaṃ   kāmāvacare   rūpāvacare   apariyāpanne   sukhaṃ   ṭhapetvā   taṃsampayutto   saññākkhandho   saṅkhārakkhandho   viññāṇakkhandho   ime   dhammā   sukhasahagatā
-\glb    Which   phenomena   --   --   sense_sphere   fine-material_sphere   supramundane   --   excluding   associated_with_them   perception_aggregate   formations   consciousness_aggregate   these   phenomena   --
+\glb    Which   phenomena   accompanied_by_happiness   --   sense_sphere   fine-material_sphere   supramundane   --   excluding   associated_with_them   perception_aggregate   formations   consciousness_aggregate   these   phenomena   accompanied_by_happiness
 \ex     Which phenomena are accompanied by happiness? The perception aggregate, volitional formations aggregate, and consciousness aggregate, associated with them, in the sphere of happiness (sense sphere, fine-material sphere, and supramundane), excluding happiness. These phenomena are accompanied by happiness.
 ```
 
@@ -192,7 +192,7 @@ status: draft
 
 ```gloss
 \gla    Tattha   katamā   sakkāyadiṭṭhi   Idha   assutavā   puthujjano   ariyānaṃ   adassāvī   ariyadhammassa   akovido   ariyadhamme   avinīto   sappurisānaṃ   adassāvī   sappurisadhammassa   akovido   sappurisadhamme   avinīto   rūpaṃ   attato   samanupassati   rūpavantaṃ   vā   attānaṃ   attani   vā   rūpaṃ   rūpasmiṃ   vā   attānaṃ   Vedanaṃ   attato   samanupassati   vedanāvantaṃ   vā   attānaṃ   attani   vā   vedanaṃ   vedanāya   vā   attānaṃ   Saññaṃ   attato   samanupassati   saññāvantaṃ   vā   attānaṃ   attani   vā   saññaṃ   saññāya   vā   attānaṃ   Saṅkhāre   attato   samanupassati   saṅkhāravantaṃ   vā   attānaṃ   attani   vā   saṅkhāre   saṅkhāresu   vā   attānaṃ   Viññāṇaṃ   attato   samanupassati   viññāṇavantaṃ   vā   attānaṃ   attani   vā   viññāṇaṃ   viññāṇasmiṃ   vā   attānaṃ   Yā   evarūpā   diṭṭhi   diṭṭhigataṃ   diṭṭhigahanaṃ   diṭṭhikantāro   diṭṭhivisūkāyikaṃ   diṭṭhivipphanditaṃ   diṭṭhisaṃyojanaṃ   gāho   paṭiggāho   abhiniveso   parāmāso   kummaggo   micchāpatho   micchattaṃ   titthāyatanaṃ   vipariyāsaggāho   ayaṃ   vuccati   sakkāyadiṭṭhi
-\glb    Here   What   personality_view   Here   uninstructed   worldling   noble_ones   not_seeing   Dhamma_of_noble_ones   unskilled   Dhamma_of_noble_ones   untrained   good_men   not_seeing   Dhamma_of_good_men   unskilled   Dhamma_of_good_men   untrained   form   self   regards   --   or   self   self   or   form   --   or   self   feeling   self   regards   --   or   self   self   or   feeling   feeling   or   self   --   self   regards   --   or   self   self   or   --   --   or   self   --   self   regards   --   or   self   self   or   --   --   or   self   consciousness   self   regards   --   or   self   self   or   consciousness   --   or   self   what   such   view   view   thicket_of_views   wilderness_of_views   vacillation_of_views   distortion_of_views   fetter_of_views   grasping   --   adherence   adherence   wrong_path   false_way   wrongness   sectarian_position   inverted_grasp   This   is_called   personality_view
+\glb    Here   What   personality_view   Here   uninstructed   worldling   noble_ones   not_seeing   Dhamma_of_noble_ones   unskilled   Dhamma_of_noble_ones   untrained   good_men   not_seeing   Dhamma_of_good_men   unskilled   Dhamma_of_good_men   untrained   form   self   regards   --   or   self   self   or   form   --   or   self   feeling   self   regards   --   or   self   self   or   feeling   feeling   or   self   --   self   regards   --   or   self   self   or   --   --   or   self   --   self   regards   --   or   self   self   or   --   --   or   self   consciousness   self   regards   --   or   self   self   or   consciousness   --   or   self   what   such   view   view   thicket_of_views   wilderness_of_views   vacillation_of_views   distortion_of_views   fetter_of_views   grasping   adherence   adherence   adherence   wrong_path   false_way   wrongness   sectarian_position   inverted_grasp   This   is_called   personality_view
 \ex     What is personality view? Here, an uninstructed worldling, not seeing noble ones, unskilled in the Dhamma of noble ones, untrained in the Dhamma of noble ones; not seeing good men, unskilled in the Dhamma of good men, untrained in the Dhamma of good men, regards form as self, or self as having form, or form as in self, or self as in form; regards feeling as self, or self as having feeling, or feeling as in self, or self as in feeling; regards perception as self, or self as having perception, or perception as in self, or self as in perception; regards volitional formations as self, or self as having volitional formations, or volitional formations as in self, or self as in volitional formations; regards consciousness as self, or self as having consciousness, or consciousness as in self, or self as in consciousness. Whatever such view, wrong view, thicket of views, wilderness of views, distortion of views, vacillation of views, fetter of views, grasping, clinging, adherence, obsession, wrong path, false way, wrongness, sectarian position, inverted grasp – this is called personality view.
 ```
 
@@ -200,7 +200,7 @@ status: draft
 
 ```gloss
 \gla    Tattha   katamā   vicikicchā   Satthari   kaṅkhati   vicikicchati   dhamme   kaṅkhati   vicikicchati   saṅghe   kaṅkhati   vicikicchati   sikkhāya   kaṅkhati   vicikicchati   pubbante   kaṅkhati   vicikicchati   aparante   kaṅkhati   vicikicchati   pubbantāparante   kaṅkhati   vicikicchati   idappaccayatā   paṭiccasamuppannesu   dhammesu   kaṅkhati   vicikicchati   Yā   evarūpā   kaṅkhā   kaṅkhāyanā   kaṅkhāyitattaṃ   vimati   vicikicchā   dveḷhakaṃ   dvedhāpatho   saṃsayo   anekaṃsaggāho   āsappanā   parisappanā   apariyogāhanā   thambhitattaṃ   cittassa   manovilekho   ayaṃ   vuccati   vicikicchā
-\glb    --   What   doubt   --   doubts   perplexed   phenomena   doubts   perplexed   --   doubts   perplexed   --   doubts   perplexed   past   doubts   perplexed   future   doubts   perplexed   past   doubts   perplexed   dependent_arising   dependent_arising   phenomena   doubts   perplexed   what   such   doubt   --   --   --   doubt   --   --   --   --   --   --   --   --   mind   --   This   is_called   doubt
+\glb    --   What   doubt   Teacher   doubts   perplexed   phenomena   doubts   perplexed   Saṅgha   doubts   perplexed   training   doubts   perplexed   past   doubts   perplexed   future   doubts   perplexed   past   doubts   perplexed   dependent_arising   dependent_arising   phenomena   doubts   perplexed   what   such   doubt   wavering   state_of_wavering   perplexity   doubt   two-way_path   two-way_path   uncertainty   --   --   --   --   stiffness_of_mind   mind   mental_defilement   This   is_called   doubt
 \ex     What is doubt? Doubts, is perplexed about, the Teacher; doubts, is perplexed about, the Dhamma; doubts, is perplexed about, the Saṅgha; doubts, is perplexed about, the training; doubts, is perplexed about, the past; doubts, is perplexed about, the future; doubts, is perplexed about, both past and future; doubts, is perplexed about, dependent arising and dependently arisen phenomena. Whatever such wavering, state of wavering, perplexity, doubt, two-way path, uncertainty, grasping at many sides, vacillation, wandering, lack of penetration, stiffness of mind, mental defilement – this is called doubt.
 ```
 
@@ -208,7 +208,7 @@ status: draft
 
 ```gloss
 \gla    Tattha   katamo   sīlabbataparāmāso   Ito   bahiddhā   samaṇabrāhmaṇānaṃ   ‘sīlena   suddhi   vatena   suddhi   sīlabbatena   suddhī’ti   yā   evarūpā   diṭṭhi   diṭṭhigataṃ   diṭṭhigahanaṃ   diṭṭhikantāro   diṭṭhivisūkāyikaṃ   diṭṭhivipphanditaṃ   diṭṭhisaṃyojanaṃ   gāho   paṭiggāho   abhiniveso   parāmāso   kummaggo   micchāpatho   micchattaṃ   titthāyatanaṃ   vipariyāsaggāho   ayaṃ   vuccati   sīlabbataparāmāso
-\glb    Among   What   clinging_to_rites_and_rituals   outside   outside   recluses   --   purification   --   purification   --   --   what   such   view   view   thicket_of_views   wilderness_of_views   vacillation_of_views   distortion_of_views   fetter_of_views   grasping   --   adherence   adherence   wrong_path   false_way   wrongness   sectarian_position   inverted_grasp   This   is_called   clinging_to_rites_and_rituals
+\glb    Among   What   clinging_to_rites_and_rituals   outside   outside   recluses   --   purification   --   purification   --   --   what   such   view   view   thicket_of_views   wilderness_of_views   vacillation_of_views   distortion_of_views   fetter_of_views   grasping   adherence   adherence   adherence   wrong_path   false_way   wrongness   sectarian_position   inverted_grasp   This   is_called   clinging_to_rites_and_rituals
 \ex     What is adherence to rites and rituals? Among recluses and brahmins outside this doctrine, the view 'purification by virtue, purification by rites, purification by virtue and rites'. Whatever such view, wrong view, thicket of views, wilderness of views, distortion of views, vacillation of views, fetter of views, grasping, clinging, adherence, obsession, wrong path, false way, wrongness, sectarian position, inverted grasp – this is called adherence to rites and rituals.
 ```
 
@@ -456,7 +456,7 @@ status: draft
 
 ```gloss
 \gla    Katame   dhammā   maggādhipatino   Ariyamaggaṃ   adhipatiṃ   karitvā   ye   uppajjanti   cittacetasikā   dhammā   ime   dhammā   maggādhipatino   Ariyamaggasamaṅgissa   vīmaṃsādhipateyyaṃ   maggaṃ   bhāvayantassa   vīmaṃsaṃ   ṭhapetvā   taṃsampayutto   vedanākkhandho…pe…   viññāṇakkhandho   ime   dhammā   maggādhipatino
-\glb    Which   dhammas   --   --   --   --   which   arise   consciousness_and_mental_factors   dhammas   these   dhammas   --   --   --   --   --   --   excluding   associated   --   consciousness_aggregate   these   dhammas   --
+\glb    Which   dhammas   --   --   --   making   which   arise   consciousness_and_mental_factors   dhammas   these   dhammas   --   --   --   --   --   --   excluding   associated   --   consciousness_aggregate   these   dhammas   --
 \ex     Which are the dhammas that have the path as their dominant condition? Those consciousness and mental factors that arise making the Noble Path predominant. These dhammas have the path as their dominant condition. For one endowed with the Noble Path, cultivating the path with investigation as predominance, excluding investigation; the associated feeling aggregate...pe...consciousness aggregate. These dhammas have the path as their dominant condition.
 ```
 
@@ -656,7 +656,7 @@ status: draft
 
 ```gloss
 \gla    Tattha   katamo   lobho   Yo   rāgo   sārāgo   anunayo   anurodho   nandī   nandīrāgo   cittassa   sārāgo   icchā   mucchā   ajjhosānaṃ   gedho   paligedho   saṅgo   paṅko   ejā   māyā   janikā   sañjananī   sibbinī   jālinī   saritā   visattikā   suttaṃ   visaṭā   āyūhinī   dutiyā   paṇidhi   bhavanetti   vanaṃ   vanatho   santhavo   sineho   apekkhā   paṭibandhu   āsā   āsisanā   āsisitattaṃ   rūpāsā   saddāsā   gandhāsā   rasāsā   phoṭṭhabbāsā   lābhāsā   dhanāsā   puttāsā   jīvitāsā   jappā   pajappā   abhijappā   jappā   jappanā   jappitattaṃ   loluppaṃ   loluppāyanā   loluppāyitattaṃ   pucchañjikatā   sādhukamyatā   adhammarāgo   visamalobho   nikanti   nikāmanā   patthanā   pihanā   sampatthanā   kāmataṇhā   bhavataṇhā   vibhavataṇhā   rūpataṇhā   arūpataṇhā   nirodhataṇhā   rūpataṇhā   saddataṇhā   gandhataṇhā   rasataṇhā   phoṭṭhabbataṇhā   dhammataṇhā   ogho   yogo   gantho   upādānaṃ   āvaraṇaṃ   nīvaraṇaṃ   chādanaṃ   bandhanaṃ   upakkileso   anusayo   pariyuṭṭhānaṃ   latā   vevicchaṃ   dukkhamūlaṃ   dukkhanidānaṃ   dukkhappabhavo   mārapāso   mārabaḷisaṃ   māravisayo   taṇhānadī   taṇhājālaṃ   taṇhāgaddulaṃ   taṇhāsamuddo   abhijjhā   lobho   akusalamūlaṃ   ayaṃ   vuccati   lobho
-\glb    Among   What   greed   a   --   --   --   --   --   --   heart   --   --   --   --   --   --   --   --   --   --   --   --   --   --   --   --   --   --   --   --   --   --   --   --   --   --   --   --   --   --   --   --   --   --   --   --   --   --   --   --   --   --   --   --   --   --   --   --   --   --   --   --   --   --   --   --   --   --   --   --   --   --   --   --   --   --   --   --   --   --   --   --   --   --   --   --   --   --   --   --   --   --   --   --   --   --   --   --   --   --   --   --   --   covetousness   greed   --   This   is_called   greed
+\glb    Among   What   greed   a   lust   passion   seducing   compliance   delighting_in   taking_lustful_delight   heart   passion   wanting   languishing   gulping_at   cupidity   voracity   cleaving_to   slough   longing   illusion   genitrix   progenitrix   seamstress   she_who_ensnares   flowing_stream   she_who_is_diffused   thread   diffusion   she_who_urges   consort   aiming_at   she_who_leads_to_rebirth   forest   jungle   intimacy   fondness   affection   connexion   appetite_for   hoping_for   anticipation   --   --   --   --   --   --   --   --   --   mumbling   mumbling_on   muttering   mumbling   murmuring   muttering   self-indulgence   self-indulging   self-indulging   intemperateness   longing_for_the_agreeable   incestuous_passion   lawless_greed   wish   hungering_for   entreating   envying   imploring   craving   craving_for_existence   craving_for_annihilation   craving_for_form   --   --   craving_for_form   craving_for_sounds   craving_for_smells   craving_for_tastes   craving_for_the_tangible   craving_for_mental_states   flood   yoke   tie   --   obstruction   hindrance   covering   bondage   depravity   latent_bias   obsession   creeper   avarice   root_of_ill   source_of_ill   production_of_ill   Māra_trap   Māra_fish-hook   Māra_domain   flux_of_craving   fishing-net_of_craving   leash_of_craving   ocean_of_craving   covetousness   greed   root_of_evil   This   is_called   greed
 \ex     Among these, what is greed? That which is lust, passion, seducing, compliance, delighting in, taking lustful delight in, heart's passion, wanting, languishing, gulping at, devouring, cupidity, voracity, cleaving to, a slough, longing, illusion, genitrix, progenitrix, seamstress, she who ensnares, the flowing stream, she who is diffused, the thread, diffusion, she who urges, the consort, aiming at, she who leads to rebirth, the forest, the jungle, intimacy, fondness, affection, connexion, appetite for, hoping for, anticipation, appetite for visual shapes, for sounds, for odours, for tastes, for the tangible, for getting, for wealth, for children, for life, mumbling, mumbling on and over, muttering, murmuring, self-indulgence, self-indulging, intemperateness, agitation, longing for the agreeable, incestuous passion, lawless greed, wish, hungering for, entreating, envying, imploring, craving for sensual indulgence, for existence, for non-existence, for [material] form, for immateriality, for annihilation, for visible shapes, for sounds, for smells, for tastes, for the tangible, for mental states, a flood, a yoke, a tie, grasping, obstruction, hindrance, covering, bondage, depravity, latent bias, obsession, a creeper, avarice, root of ill, source of ill, production of ill, Māra's trap, Māra's fish-hook, Māra's domain, craving, the flux of craving, the fishing-net of craving, the leash of craving, the ocean of craving, covetousness, greed as the root of evil—this is what is called greed.
 ```
 
@@ -664,7 +664,7 @@ status: draft
 
 ```gloss
 \gla    Tattha   katamo   doso   Anatthaṃ   me   acarīti   āghāto   jāyati   anatthaṃ   me   caratīti   āghāto   jāyati   anatthaṃ   me   carissatīti   āghāto   jāyati   piyassa   me   manāpassa   anatthaṃ   acari…pe…   anatthaṃ   carati…pe…   anatthaṃ   carissatīti   āghāto   jāyati   appiyassa   me   amanāpassa   atthaṃ   acari…pe…   atthaṃ   carati…pe…   atthaṃ   carissatīti   āghāto   jāyati   aṭṭhāne   vā   pana   āghāto   jāyati   Yo   evarūpo   cittassa   āghāto   paṭighāto   paṭighaṃ   paṭivirodho   kopo   pakopo   sampakopo   doso   padoso   sampadoso   cittassa   byāpatti   manopadoso   kodho   kujjhanā   kujjhitattaṃ   doso   dussanā   dussitattaṃ   byāpatti   byāpajjanā   byāpajjitattaṃ   virodho   paṭivirodho   caṇḍikkaṃ   asuropo   anattamanatā   cittassa   ayaṃ   vuccati   doso
-\glb    --   What   hatred   harmed   me   harm   resentment   arises   harmed   me   harm   resentment   arises   harmed   me   harm   resentment   arises   --   me   --   harmed   --   harmed   --   harmed   harm   resentment   arises   --   me   --   benefited   --   benefited   --   benefited   harm   resentment   arises   --   or   -   resentment   arises   --   --   mind   resentment   --   --   --   --   --   --   hatred   --   --   mind   --   --   --   --   --   hatred   --   --   --   --   --   --   --   --   --   --   mind   This   is_called   hatred
+\glb    --   What   hatred   harmed   me   harm   resentment   arises   harmed   me   harm   resentment   arises   harmed   me   harm   resentment   arises   dear   me   beloved   harmed   --   harmed   --   harmed   harm   resentment   arises   disliked   me   unloved   benefited   --   benefited   --   benefited   harm   resentment   arises   without_reason   or   -   resentment   arises   --   --   mind   resentment   repugnance   repugnance   opposition   anger   wrath   wrath   hatred   ill-will   ill-will   mind   ill-will   displeasure_of_mind   anger   fury   fury   hatred   fierceness   fierceness   ill-will   ill-will   ill-will   opposition   opposition   fury   fury   lack_of_satisfaction   mind   This   is_called   hatred
 \ex     What is hatred? Resentment arises thinking: "He harmed me," "He is harming me," "He will harm me." Or thinking: "He harmed my dear and beloved one," "He is harming my dear and beloved one," "He will harm my dear and beloved one." Or thinking: "He benefited my disliked and unloved one," "He is benefiting my disliked and unloved one," "He will benefit my disliked and unloved one." Or resentment arises without reason. This mental resentment, repugnance, opposition, anger, wrath, ill-will, mental corruption, displeasure of mind, fury, fierceness, lack of satisfaction of mind—this is called hatred.
 ```
 
@@ -672,7 +672,7 @@ status: draft
 
 ```gloss
 \gla    Tattha   katamo   moho   Dukkhe   aññāṇaṃ   dukkhasamudaye   aññāṇaṃ   dukkhanirodhe   aññāṇaṃ   dukkhanirodhagāminiyā   paṭipadāya   aññāṇaṃ   pubbante   aññāṇaṃ   aparante   aññāṇaṃ   pubbantāparante   aññāṇaṃ   idappaccayatā   paṭiccasamuppannesu   dhammesu   aññāṇaṃ   yaṃ   evarūpaṃ   aññāṇaṃ   adassanaṃ   anabhisamayo   ananubodho   asambodho   appaṭivedho   asaṃgāhanā   apariyogāhanā   asamapekkhanā   apaccavekkhaṇā   apaccakkhakammaṃ   dummejjhaṃ   bālyaṃ   asampajaññaṃ   moho   pamoho   sammoho   avijjā   avijjogho   avijjāyogo   avijjānusayo   avijjāpariyuṭṭhānaṃ   avijjālaṅgī   moho   akusalamūlaṃ   ayaṃ   vuccati   moho   Ime   tayo   akusalahetū
-\glb    --   What   delusion   suffering   ignorance   origin_of_suffering   ignorance   cessation_of_suffering   ignorance   cessation   path   ignorance   past   ignorance   future   ignorance   past   ignorance   dependent_arising   conditionally_arisen   phenomena   ignorance   --   --   ignorance   --   --   --   --   --   --   --   --   --   --   --   --   --   delusion   --   --   --   --   --   --   --   --   delusion   unwholesome_root   This   is_called   delusion   these   three   unwholesome_roots
+\glb    --   What   delusion   suffering   ignorance   origin_of_suffering   ignorance   cessation_of_suffering   ignorance   cessation   path   ignorance   past   ignorance   future   ignorance   past   ignorance   dependent_arising   conditionally_arisen   phenomena   ignorance   --   --   ignorance   non-seeing   non-realization   ignorance   non-awakening   non-penetration   non-comprehension   non-penetration   --   non-reviewing   non-direct_knowledge   ignorance   ignorance   lack_of_clear_comprehension   delusion   delusion   confusion   ignorance   flood_of_ignorance   ignorance   ignorance   obsession_of_ignorance   ignorance   delusion   unwholesome_root   This   is_called   delusion   these   three   unwholesome_roots
 \ex     What is delusion? Ignorance of suffering, its origin, its cessation, and the path to its cessation. Ignorance of the past, future, and both past and future. Ignorance of dependent arising in conditionally arisen phenomena. This kind of ignorance, non-seeing, non-comprehension, non-awakening, non-realization, non-grasping, non-penetration, non-reflection, non-reviewing, non-direct knowledge, dullness, folly, lack of clear comprehension, delusion, confusion, ignorance, flood of ignorance, bond of ignorance, latent disposition of ignorance, obsession of ignorance, root of unwholesome kamma—this is called delusion. These are the three unwholesome roots.
 ```
 
@@ -776,7 +776,7 @@ status: draft
 
 ```gloss
 \gla    Katame   dhammā   ahetukā   Tehi   dhammehi   ye   dhammā   ahetukā   vedanākkhandho…pe…   viññāṇakkhandho   sabbañca   rūpaṃ   asaṅkhatā   ca   dhātu   ime   dhammā   ahetukā
-\glb    Which   phenomena   --   those   phenomena   which   phenomena   --   --   consciousness_aggregate   all   matter   unconditioned   and   element   these   phenomena   --
+\glb    Which   phenomena   rootless   those   phenomena   which   phenomena   rootless   --   consciousness_aggregate   all   matter   unconditioned   and   element   these   phenomena   rootless
 \ex     Which phenomena are rootless? The feeling aggregate, the perception aggregate, the formation aggregate, the consciousness aggregate, which are rootless by those phenomena (the roots); all matter, and the unconditioned element – these phenomena are rootless.
 ```
 
@@ -784,7 +784,7 @@ status: draft
 
 ```gloss
 \gla    Katame   dhammā   hetusampayuttā   Tehi   dhammehi   ye   dhammā   sampayuttā   vedanākkhandho…pe…   viññāṇakkhandho   ime   dhammā   hetusampayuttā
-\glb    Which   phenomena   --   those   phenomena   which   phenomena   associated   --   consciousness_aggregate   these   phenomena   --
+\glb    Which   phenomena   associated_with_roots   those   phenomena   which   phenomena   associated   --   consciousness_aggregate   these   phenomena   associated_with_roots
 \ex     Which phenomena are associated with roots? The feeling aggregate, the perception aggregate, the formation aggregate, the consciousness aggregate, which are associated with those phenomena (the roots) – these phenomena are associated with roots.
 ```
 
@@ -816,7 +816,7 @@ status: draft
 
 ```gloss
 \gla    Katame   dhammā   hetū   ceva   hetusampayuttā   ca   Lobho   mohena   hetu   ceva   hetusampayutto   ca   moho   lobhena   hetu   ceva   hetusampayutto   ca   doso   mohena   hetu   ceva   hetusampayutto   ca   moho   dosena   hetu   ceva   hetusampayutto   ca   alobho   adoso   amoho   te   aññamaññaṃ   hetū   ceva   hetusampayuttā   ca   ime   dhammā   hetū   ceva   hetusampayuttā   ca
-\glb    Which   phenomena   roots   and   --   and   greed   delusion   --   and   --   and   delusion   greed   --   and   --   and   hatred   delusion   --   and   --   and   delusion   hatred   --   and   --   and   non-greed   non-hatred   non-delusion   --   --   roots   and   --   and   --   phenomena   roots   and   --   and
+\glb    Which   phenomena   roots   and   associated_with_roots   and   greed   delusion   --   and   --   and   delusion   greed   --   and   --   and   hatred   delusion   --   and   --   and   delusion   hatred   --   and   --   and   non-greed   non-hatred   non-delusion   --   --   roots   and   associated_with_roots   and   --   phenomena   roots   and   associated_with_roots   and
 \ex     Which phenomena are roots and associated with roots? Greed with delusion, delusion with greed, hatred with delusion, delusion with hatred; non-greed, non-hatred, non-delusion are mutually roots and associated with roots.
 ```
 
@@ -824,7 +824,7 @@ status: draft
 
 ```gloss
 \gla    Katame   dhammā   hetusampayuttā   ceva   na   ca   hetū   Tehi   dhammehi   ye   dhammā   sampayuttā   te   dhamme   ṭhapetvā   vedanākkhandho…pe…   viññāṇakkhandho   ime   dhammā   hetusampayuttā   ceva   na   ca   hetū
-\glb    Which   phenomena   --   and   not   and   roots   --   phenomena   which   phenomena   associated   --   phenomena   excluding   --   consciousness   --   phenomena   --   and   not   and   roots
+\glb    Which   phenomena   associated_with_roots   and   not   and   roots   --   phenomena   which   phenomena   associated   --   phenomena   excluding   --   consciousness   --   phenomena   associated_with_roots   and   not   and   roots
 \ex     Which phenomena are associated with roots but not roots? The aggregates of feeling, perception, mental formations, and consciousness, excluding the roots themselves, are associated with roots but not roots.
 ```
 
@@ -840,7 +840,7 @@ status: draft
 
 ```gloss
 \gla    Katame   dhammā   na   hetū   ahetukā   Tehi   dhammehi   ye   dhammā   na   hetū   ahetukā   vedanākkhandho…pe…   viññāṇakkhandho   sabbañca   rūpaṃ   asaṅkhatā   ca   dhātu   ime   dhammā   na   hetū   ahetukā
-\glb    Which   phenomena   not   roots   --   --   phenomena   which   phenomena   not   roots   --   --   consciousness   all   matter   unconditioned   and   element   --   phenomena   not   roots   --
+\glb    Which   phenomena   not   roots   rootless   --   phenomena   which   phenomena   not   roots   rootless   --   consciousness   all   matter   unconditioned   and   element   --   phenomena   not   roots   rootless
 \ex     Which phenomena are not roots and are rootless? The aggregates of feeling, perception, mental formations, and consciousness, all matter, and the unconditioned element are not roots and are rootless.
 ```
 
@@ -960,7 +960,7 @@ status: draft
 
 ```gloss
 \gla    Tattha   katamo   kāmāsavo   Yo   kāmesu   kāmacchando   kāmarāgo   kāmanandī   kāmataṇhā   kāmasineho   kāmapariḷāho   kāmamucchā   kāmajjhosānaṃ   ayaṃ   vuccati   kāmāsavo
-\glb    Therein   What   canker_of_sensual_desire   --   --   --   --   --   --   --   --   --   --   This   is_called   canker_of_sensual_desire
+\glb    Therein   What   canker_of_sensual_desire   --   --   --   --   --   craving   --   --   --   --   This   is_called   canker_of_sensual_desire
 \ex     Therein, what is the canker of sensual desire? That desire, lust, delight, craving, affection, torment, infatuation, and clinging for sensual objects – this is called the canker of sensual desire.
 ```
 
@@ -968,7 +968,7 @@ status: draft
 
 ```gloss
 \gla    Tattha   katamo   bhavāsavo   Yo   bhavesu   bhavachando   bhavarāgo   bhavanandī   bhavataṇhā   bhavasineho   bhavapariḷāho   bhavamucchā   bhavajjhosānaṃ   ayaṃ   vuccati   bhavāsavo
-\glb    Therein   What   canker_of_existence   --   --   --   --   --   --   --   --   --   --   This   is_called   canker_of_existence
+\glb    Therein   What   canker_of_existence   --   --   --   --   --   craving_for_existence   --   --   --   --   This   is_called   canker_of_existence
 \ex     Therein, what is the canker of existence? That desire, lust, delight, craving, affection, torment, infatuation, and clinging for existence – this is called the canker of existence.
 ```
 
@@ -976,7 +976,7 @@ status: draft
 
 ```gloss
 \gla    Tattha   katamo   diṭṭhāsavo   Sassato   lokoti   vā   asassato   lokoti   vā   antavā   lokoti   vā   anantavā   lokoti   vā   taṃ   jīvaṃ   taṃ   sarīranti   vā   aññaṃ   jīvaṃ   aññaṃ   sarīranti   vā   hoti   tathāgato   paraṃ   maraṇāti   vā   na   hoti   tathāgato   paraṃ   maraṇāti   vā   hoti   ca   na   ca   hoti   tathāgato   paraṃ   maraṇāti   vā   neva   hoti   na   na   hoti   tathāgato   paraṃ   maraṇāti   vā   yā   evarūpā   diṭṭhi   diṭṭhigataṃ   diṭṭhigahanaṃ   diṭṭhikantāro   diṭṭhivisūkāyikaṃ   diṭṭhivipphanditaṃ   diṭṭhisaṃyojanaṃ   gāho   paṭiggāho   abhiniveso   parāmāso   kummaggo   micchāpatho   micchattaṃ   titthāyatanaṃ   vipariyāsaggāho   ayaṃ   vuccati   diṭṭhāsavo   Sabbāpi   micchādiṭṭhi   diṭṭhāsavo
-\glb    Therein   What   canker_of_views   --   world   or   --   world   or   --   world   or   --   world   or   this   soul   this   --   or   different   soul   different   --   or   is   Tathagata   after   death   or   not   is   Tathagata   after   death   or   is   and   not   and   is   Tathagata   after   death   or   neither   is   not   not   is   Tathagata   after   death   or   what   such   view   view   thicket_of_views   wilderness_of_views   --   --   fetter_of_views   grasping   --   adherence   adherence   wrong_path   false_way   wrongness   --   --   This   is_called   canker_of_views   --   wrong_view   canker_of_views
+\glb    Therein   What   canker_of_views   eternal   world   or   not_eternal   world   or   finite   world   or   infinite   world   or   this   soul   this   body   or   different   soul   different   body   or   is   Tathagata   after   death   or   not   is   Tathagata   after   death   or   is   and   not   and   is   Tathagata   after   death   or   neither   is   not   not   is   Tathagata   after   death   or   what   such   view   view   thicket_of_views   wilderness_of_views   agitation_of_views   perversion_of_views   fetter_of_views   grasping   dogmatic_belief   adherence   adherence   wrong_path   false_way   wrongness   heretical_ground   perverted_grasping   This   is_called   canker_of_views   All   wrong_view   canker_of_views
 \ex     Therein, what is the canker of views? Whether the world is eternal, or not eternal, or finite, or infinite, or the soul is the same as the body, or different from the body, or a Tathagata exists after death, or does not exist, or both exists and does not exist, or neither exists nor does not exist after death; whatever such view, wrong view, thicket of views, wilderness of views, perversion of views, agitation of views, fetter of views, grasping, adherence, dogmatic belief, perverted grasping, wrong path, false way, wrongness, heretical ground, perverted grasping – this is called the canker of views. All wrong views are the canker of views.
 ```
 
@@ -984,7 +984,7 @@ status: draft
 
 ```gloss
 \gla    Tattha   katamo   avijjāsavo   Dukkhe   aññāṇaṃ   dukkhasamudaye   aññāṇaṃ   dukkhanirodhe   aññāṇaṃ   dukkhanirodhagāminiyā   paṭipadāya   aññāṇaṃ   pubbante   aññāṇaṃ   aparante   aññāṇaṃ   pubbantāparante   aññāṇaṃ   idappaccayatā   paṭiccasamuppannesu   dhammesu   aññāṇaṃः   yaṃ   evarūpaṃ   aññāṇaṃ   adassanaṃ   anabhisamayo   ananubodho   asambodho   appaṭivedho   asaṃgāhanā   apariyogāhanā   asamapekkhanā   apaccavekkhaṇā   apaccakkhakammaṃ   dummejjhaṃ   bālyaṃ   asampajaññaṃ   moho   pamoho   sammoho   avijjā   avijjogho   avijjāyogo   avijjānusayo   avijjāpariyuṭṭhānaṃ   avijjālaṅgī   moho   akusalamūlaṃ   ayaṃ   vuccati   avijjāsavo   Ime   dhammā   āsavā
-\glb    Therein   What   canker_of_ignorance   suffering   ignorance   origin_of_suffering   ignorance   cessation_of_suffering   ignorance   cessation   path   ignorance   past   ignorance   future   ignorance   past   ignorance   dependent_arising   conditionally_arisen   states   --   --   such   ignorance   --   --   --   --   --   --   --   --   --   --   --   --   --   delusion   --   --   --   --   --   --   --   --   delusion   unwholesome_root   This   is_called   canker_of_ignorance   these   phenomena   cankers
+\glb    Therein   What   canker_of_ignorance   suffering   ignorance   origin_of_suffering   ignorance   cessation_of_suffering   ignorance   cessation   path   ignorance   past   ignorance   future   ignorance   past   ignorance   dependent_arising   conditionally_arisen   states   --   whatever   such   ignorance   non-seeing   ignorance   non-understanding   non-awakening   non-penetration   non-comprehension   non-penetration   --   non-reviewing   non-direct_knowledge   ignorance   ignorance   --   delusion   delusion   confusion   ignorance   flood_of_ignorance   ignorance   ignorance   obsession_of_ignorance   ignorance   delusion   unwholesome_root   This   is_called   canker_of_ignorance   these   phenomena   cankers
 \ex     Therein, what is the canker of ignorance? Ignorance of suffering, its origin, its cessation, and the path to its cessation; ignorance of the past, of the future, of both, and of dependent arising in conditionally arisen phenomena; whatever such ignorance, non-seeing, non-comprehension, non-understanding, non-awakening, non-penetration, non-grasping, non-fathoming, non-reflection, non-reviewing, non-direct knowledge, dullness, folly, non-discernment, delusion, utter delusion, confusion, ignorance, flood of ignorance, bond of ignorance, latent disposition of ignorance, obsession of ignorance, chain of ignorance, delusion, root of unwholesome – this is called the canker of ignorance. These states are cankers.
 ```
 
@@ -1080,7 +1080,7 @@ status: draft
 
 ```gloss
 \gla    Katame   dhammā   saṃyojanā   Dasa   saṃyojanāni   kāmarāgasaṃyojanaṃ   paṭighasaṃyojanaṃ   mānasaṃyojanaṃ   diṭṭhisaṃyojanaṃ   vicikicchāsaṃyojanaṃ   sīlabbataparāmāsasaṃyojanaṃ   bhavarāgasaṃyojanaṃ   issāsaṃyojanaṃ   macchariyasaṃyojanaṃ   avijjāsaṃyojanaṃ
-\glb    Which   phenomena   fetters   ten   fetters   --   aversion_fetter   --   fetter   --   --   --   --   avarice   ignorance_fetter
+\glb    Which   phenomena   fetters   ten   fetters   --   aversion_fetter   --   fetter   --   Fetter   --   --   avarice   ignorance_fetter
 \ex     Which phenomena are fetters? Ten fetters: the fetter of sensual desire, the fetter of aversion, the fetter of conceit, the fetter of wrong view, the fetter of doubt, the fetter of clinging to rites and rituals, the fetter of desire for existence, the fetter of envy, the fetter of avarice, the fetter of ignorance.
 ```
 
@@ -1088,7 +1088,7 @@ status: draft
 
 ```gloss
 \gla    Tattha   katamaṃ   kāmarāgasaṃyojanaṃ   Yo   kāmesu   kāmacchando   kāmarāgo   kāmanandī   kāmataṇhā   kāmasineho   kāmapariḷāho   kāmamucchā   kāmajjhosānaṃ   idaṃ   vuccati   kāmarāgasaṃyojanaṃ
-\glb    --   what   --   --   --   --   --   --   --   --   --   --   --   This   is_called   --
+\glb    --   what   --   --   --   --   --   --   craving   --   --   --   --   This   is_called   --
 \ex     What is the Fetter of sensual lust? The desire, lust, delight, craving, affection, burning, infatuation, and clinging for sense objects. This is called the Fetter of sensual lust.
 ```
 
@@ -1096,7 +1096,7 @@ status: draft
 
 ```gloss
 \gla    Tattha   katamaṃ   paṭighasaṃyojanaṃ   Anatthaṃ   me   acarīti   āghāto   jāyati   anatthaṃ   me   caratīti   āghāto   jāyati   anatthaṃ   me   carissatīti   āghāto   jāyati   piyassa   me   manāpassa   anatthaṃ   acari…pe…   anatthaṃ   carati…pe…   anatthaṃ   carissatīti   āghāto   jāyati   appiyassa   me   amanāpassa   atthaṃ   acari…pe…   atthaṃ   carati…pe…   atthaṃ   carissatīti   āghāto   jāyati   aṭṭhāne   vā   pana   āghāto   jāyati   Yo   evarūpo   cittassa   āghāto   paṭighāto   paṭighaṃ   paṭivirodho   kopo   pakopo   sampakopo   doso   padoso   sampadoso   cittassa   byāpatti   manopadoso   kodho   kujjhanā   kujjhitattaṃ   doso   dussanā   dussitattaṃ   byāpatti   byāpajjanā   byāpajjitattaṃ   virodho   paṭivirodho   caṇḍikkaṃ   asuropo   anattamanatā   cittassa   idaṃ   vuccati   paṭighasaṃyojanaṃ
-\glb    --   what   aversion_fetter   harmed   me   harm   resentment   arises   harmed   me   harm   resentment   arises   harmed   me   harm   resentment   arises   --   me   --   harmed   --   harmed   --   harmed   harm   resentment   arises   --   me   --   --   --   --   --   --   harm   resentment   arises   --   or   -   resentment   arises   --   such   --   resentment   --   --   --   --   --   --   hatred   --   --   --   --   --   --   --   --   hatred   --   --   --   --   --   --   --   --   --   --   --   This   is_called   aversion_fetter
+\glb    --   what   aversion_fetter   harmed   me   harm   resentment   arises   harmed   me   harm   resentment   arises   harmed   me   harm   resentment   arises   dear   me   dear   harmed   --   harmed   --   harmed   harm   resentment   arises   disliked   me   disliked   --   --   --   --   --   harm   resentment   arises   without_reason   or   -   resentment   arises   --   such   mental   resentment   opposition   aversion   opposition   anger   wrath   wrath   hatred   malice   malice   mental   mental_affliction   displeasure   anger   fierceness   anger   hatred   fierceness   fierceness   mental_affliction   enmity   malice   opposition   opposition   fierceness   anger   displeasure   mental   This   is_called   aversion_fetter
 \ex     What is the Fetter of aversion? Resentment arises thinking: 'He harmed me,' 'He is harming me,' 'He will harm me'; or similar thoughts regarding dear ones or disliked ones; or resentment arises without reason. Such mental resentment, opposition, aversion, hostility, anger, hatred, mental affliction, wrath, malice, enmity, fierceness, mental displeasure. This is called the Fetter of aversion.
 ```
 
@@ -1112,7 +1112,7 @@ status: draft
 
 ```gloss
 \gla    Tattha   katamaṃ   diṭṭhisaṃyojanaṃ   Sassato   lokoti   vā   asassato   lokoti   vā   antavā   lokoti   vā   anantavā   lokoti   vā   taṃ   jīvaṃ   taṃ   sarīranti   vā   aññaṃ   jīvaṃ   aññaṃ   sarīranti   vā   hoti   tathāgato   paraṃ   maraṇāti   vā   na   hoti   tathāgato   paraṃ   maraṇāti   vā   hoti   ca   na   ca   hoti   tathāgato   paraṃ   maraṇāti   vā   neva   hoti   na   na   hoti   tathāgato   paraṃ   maraṇāti   vā   yā   evarūpā   diṭṭhi   diṭṭhigataṃ   diṭṭhigahanaṃ   diṭṭhikantāro   diṭṭhivisūkāyikaṃ   diṭṭhivipphanditaṃ   diṭṭhisaṃyojanaṃ   gāho   paṭiggāho   abhiniveso   parāmāso   kummaggo   micchāpatho   micchattaṃ   titthāyatanaṃ   vipariyāsaggāho   idaṃ   vuccati   diṭṭhisaṃyojanaṃ   Ṭhapetvā   sīlabbataparāmāsasaṃyojanaṃ   sabbāpi   micchādiṭṭhi   diṭṭhisaṃyojanaṃ
-\glb    --   what   fetter_of_views   --   world   or   --   world   or   --   world   or   --   world   or   that   soul   that   --   or   different   soul   different   --   or   is   Tathāgata   after   death   or   not   is   Tathāgata   after   death   or   is   and   not   and   is   Tathāgata   after   death   or   neither   is   not   not   is   Tathāgata   after   death   or   that   such   view   view   thicket_of_views   --   --   --   fetter_of_views   grasping   --   adherence   adherence   wrong_path   false_way   false_way   --   --   This   is_called   fetter_of_views   excluding   --   --   wrong_view   fetter_of_views
+\glb    --   what   fetter_of_views   eternal   world   or   not_eternal   world   or   finite   world   or   infinite   world   or   that   soul   that   body   or   different   soul   different   body   or   is   Tathāgata   after   death   or   not   is   Tathāgata   after   death   or   is   and   not   and   is   Tathāgata   after   death   or   neither   is   not   not   is   Tathāgata   after   death   or   that   such   view   view   thicket_of_views   --   agitation_of_views   perversion_of_views   fetter_of_views   grasping   adherence   adherence   adherence   wrong_path   false_way   false_way   heretical_ground   perversion   This   is_called   fetter_of_views   excluding   adherence_to_rites   all   wrong_view   fetter_of_views
 \ex     What is the Fetter of wrong view? The view that the world is eternal or not, finite or infinite; that the soul is the same as the body or different; that a Tathāgata exists after death or not, or both, or neither. Such view, wrong view, thicket of views, perversion of views, agitation of views, fetter of views, grasping, clinging, adherence, wrong path, false way, heretical ground, grasping of perversion. This is called the Fetter of wrong view. Excluding the Fetter of adherence to rites and rituals, all wrong views are the Fetter of wrong view.
 ```
 
@@ -1120,7 +1120,7 @@ status: draft
 
 ```gloss
 \gla    Tattha   katamaṃ   vicikicchāsaṃyojanaṃ   Satthari   kaṅkhati   vicikicchati   dhamme   kaṅkhati   vicikicchati   saṅghe   kaṅkhati   vicikicchati   sikkhāya   kaṅkhati   vicikicchati   pubbante   kaṅkhati   vicikicchati   aparante   kaṅkhati   vicikicchati   pubbantāparante   kaṅkhati   vicikicchati   idappaccayatā   paṭiccasamuppannesu   dhammesu   kaṅkhati   vicikicchatiः   yā   evarūpā   kaṅkhā   kaṅkhāyanā   kaṅkhāyitattaṃ   vimati   vicikicchā   dveḷhakaṃ   dvedhāpatho   saṃsayo   anekaṃsaggāho   āsappanā   parisappanā   apariyogāhanā   thambhitattaṃ   cittassa   manovilekho   idaṃ   vuccati   vicikicchāsaṃyojanaṃ
-\glb    --   what   --   --   --   --   --   --   --   --   --   --   --   --   --   past   --   --   future   --   --   past   --   --   dependent_arising   dependent_arising   Dhamma   --   --   what   such   doubt   --   --   --   doubt   --   --   --   --   --   --   --   --   --   --   This   is_called   --
+\glb    --   what   --   Teacher   --   --   --   --   --   Saṅgha   --   --   training   --   --   past   --   --   future   --   --   past   --   --   dependent_arising   dependent_arising   Dhamma   --   --   what   such   doubt   wavering   wavering   perplexity   doubt   uncertainty   --   uncertainty   --   --   --   --   stiffness   mental   mental_defilement   This   is_called   --
 \ex     What is the Fetter of skeptical doubt? Doubt and perplexity regarding the Teacher, Dhamma, Saṅgha, training, past, future, both past and future, and dependent arising. Such doubt, wavering, perplexity, indecision, uncertainty, hesitation, lack of penetration, mental stiffness, mental defilement. This is called the Fetter of skeptical doubt.
 ```
 
@@ -1128,7 +1128,7 @@ status: draft
 
 ```gloss
 \gla    Tattha   katamaṃ   sīlabbataparāmāsasaṃyojanaṃ   Ito   bahiddhā   samaṇabrāhmaṇānaṃ   sīlena   suddhi   vatena   suddhi   sīlabbatena   suddhīti   yā   evarūpā   diṭṭhi   diṭṭhigataṃ   diṭṭhigahanaṃ   diṭṭhikantāro   diṭṭhivisūkāyikaṃ   diṭṭhivipphanditaṃ   diṭṭhisaṃyojanaṃ   gāho   patiṭṭhāho   abhiniveso   parāmāso   kummaggo   micchāpatho   micchattaṃ   titthāyatanaṃ   vipariyāsaggāho   idaṃ   vuccati   sīlabbataparāmāsasaṃyojanaṃ
-\glb    --   what   --   outside   outside   recluses   --   purification   --   purification   --   --   that   such   view   view   thicket_of_views   --   --   --   fetter_of_views   grasping   --   adherence   adherence   wrong_path   false_way   false_way   wrong_teaching   --   This   is_called   --
+\glb    --   what   adherence_to_rites   outside   outside   recluses   virtue   purification   ritual   purification   virtue_and_ritual   purification   that   such   view   view   thicket_of_views   --   agitation_of_views   perversion_of_views   fetter_of_views   grasping   adherence   adherence   adherence   wrong_path   false_way   false_way   wrong_teaching   perversion   This   is_called   adherence_to_rites
 \ex     What is the Fetter of adherence to rites and rituals? The view of recluses and brahmins outside this teaching that purification is by virtue, by ritual, or by virtue and ritual. Such view, wrong view, thicket of views, perversion of views, agitation of views, fetter of views, grasping, clinging, adherence, wrong path, false way, heretical ground, grasping of perversion. This is called the Fetter of adherence to rites and rituals.
 ```
 
@@ -1136,7 +1136,7 @@ status: draft
 
 ```gloss
 \gla    Tattha   katamaṃ   bhavarāgasaṃyojanaṃ   Yo   bhavesu   bhavachando   bhavarāgo   bhavanandī   bhavataṇhā   bhavasineho   bhavapariḷāho   bhavamucchā   bhavajjhosānaṃ   idaṃ   vuccati   bhavarāgasaṃyojanaṃ
-\glb    --   what   --   --   --   --   --   --   --   --   --   --   --   This   is_called   --
+\glb    --   what   --   --   --   --   --   --   craving_for_existence   --   --   --   --   This   is_called   --
 \ex     What is the Fetter of lust for existence? The desire, lust, delight, craving, affection, burning, infatuation, and clinging for existences. This is called the Fetter of lust for existence.
 ```
 
@@ -1152,7 +1152,7 @@ status: draft
 
 ```gloss
 \gla    Tattha   katamaṃ   macchariyasaṃyojanaṃ   Pañca   macchariyāni   āvāsamacchariyaṃ   kulamacchariyaṃ   lābhamacchariyaṃ   vaṇṇamacchariyaṃ   dhammamacchariyaṃ   Yaṃ   evarūpaṃ   maccheraṃ   maccharāyanā   maccharāyitattaṃ   vevicchaṃ   kadariyaṃ   kaṭukañcukatā   aggahitattaṃ   cittassa   idaṃ   vuccati   macchariyasaṃyojanaṃ
-\glb    --   what   avarice   five   avarices   dwelling   family   gain   beauty   Dhamma   --   such   miserliness   miserliness   miserliness   stinginess   harshness   ungenerosity   --   --   This   is_called   avarice
+\glb    --   what   avarice   five   avarices   dwelling   family   gain   beauty   Dhamma   --   such   miserliness   miserliness   miserliness   stinginess   harshness   ungenerosity   --   mental   This   is_called   avarice
 \ex     What is the Fetter of avarice? The five avarices: regarding dwelling, family, gain, praise/beauty, Dhamma. Such miserliness, grudging, stinginess, harshness, mental ungenerosity. This is called the Fetter of avarice.
 ```
 
@@ -1160,7 +1160,7 @@ status: draft
 
 ```gloss
 \gla    Tattha   katamaṃ   avijjāsaṃyojanaṃ   Dukkhe   aññāṇaṃ   dukkhasamudaye   aññāṇaṃ   dukkhanirodhe   aññāṇaṃ   dukkhanirodhagāminiyā   paṭipadāya   aññāṇaṃ   pubbante   aññāṇaṃ   aparante   aññāṇaṃ   pubbantāparante   aññāṇaṃ   idappaccayatā   paṭiccasamuppannesu   dhammesu   aññāṇaṃः   yaṃ   evarūpaṃ   aññāṇaṃ   adassanaṃ   anabhisamayo   ananubodho   asambodho   appaṭivedho   asaṃgāhanā   apariyogāhanā   asamapekkhanā   apaccavekkhaṇā   apaccakkhakammaṃ   dummejjhaṃ   bālyaṃ   asampajaññaṃ   moho   pamoho   sammoho   avijjā   avijjogho   avijjāyogo   avijjānusayo   avijjāpariyuṭṭhānaṃ   avijjālaṅgī   moho   akusalamūlaṃ   idaṃ   vuccati   avijjāsaṃyojanaṃ   Ime   dhammā   saṃyojanā
-\glb    --   what   ignorance_fetter   suffering   ignorance   origin_of_suffering   ignorance   cessation_of_suffering   ignorance   cessation   path   ignorance   past   ignorance   future   ignorance   past   ignorance   dependent_arising   dependent_arising   phenomena   --   --   such   ignorance   --   --   --   --   --   --   --   --   --   --   --   --   --   delusion   --   --   --   --   --   --   --   --   delusion   unwholesome_root   This   is_called   ignorance_fetter   these   phenomena   fetters
+\glb    --   what   ignorance_fetter   suffering   ignorance   origin_of_suffering   ignorance   cessation_of_suffering   ignorance   cessation   path   ignorance   past   ignorance   future   ignorance   past   ignorance   dependent_arising   dependent_arising   phenomena   --   --   such   ignorance   ignorance   ignorance   non-understanding   ignorance   non-penetration   non-comprehension   non-penetration   --   ignorance   ignorance   ignorance   foolishness   lack_of_clear_comprehension   delusion   delusion   delusion   ignorance   flood_of_ignorance   ignorance   ignorance   obsession_of_ignorance   ignorance   delusion   unwholesome_root   This   is_called   ignorance_fetter   these   phenomena   fetters
 \ex     What is the Fetter of ignorance? Ignorance of suffering, its origin, its cessation, the path to its cessation; ignorance of the past, future, both past and future; ignorance of dependent arising. Such ignorance, not seeing, non-comprehension, non-understanding, non-penetration, dullness, foolishness, lack of clear comprehension, delusion, extreme delusion, utter delusion, ignorance, flood of ignorance, bond of ignorance, latent disposition of ignorance, obsession of ignorance, chain of ignorance, delusion, root of unwholesome. This is called the Fetter of ignorance. These phenomena are fetters.
 ```
 
@@ -1224,7 +1224,7 @@ status: draft
 
 ```gloss
 \gla    Katame   dhammā   saṃyojanā   ceva   saṃyojanasampayuttā   ca   Kāmarāgasaṃyojanaṃ   avijjāsaṃyojanena   saṃyojanañceva   saṃyojanasampayuttañca   avijjāsaṃyojanaṃ   kāmarāgasaṃyojanena   saṃyojanañceva   saṃyojanasampayuttañca   paṭighasaṃyojanaṃ   avijjāsaṃyojanena   saṃyojanañceva   saṃyojanasampayuttañca   avijjāsaṃyojanaṃ   paṭighasaṃyojanena   saṃyojanañceva   saṃyojanasampayuttañca   mānasaṃyojanaṃ   avijjāsaṃyojanena   saṃyojanañceva   saṃyojanasampayuttañca   avijjāsaṃyojanaṃ   mānasaṃyojanena   saṃyojanañceva   saṃyojanasampayuttañca   diṭṭhisaṃyojanaṃ   avijjāsaṃyojanena   saṃyojanañceva   saṃyojanasampayuttañca   avijjāsaṃyojanaṃ   diṭṭhisaṃyojanena   saṃyojanañceva   saṃyojanasampayuttañca   vicikicchāsaṃyojanaṃ   avijjāsaṃyojanena   saṃyojanañceva   saṃyojanasampayuttañca   avijjāsaṃyojanaṃ   vicikicchāsaṃyojanena   saṃyojanañceva   saṃyojanasampayuttañca   sīlabbataparāmāsasaṃyojanaṃ   avijjāsaṃyojanena   saṃyojanañceva   saṃyojanasampayuttañca   avijjāsaṃyojanaṃ   sīlabbataparāmāsasaṃyojanena   saṃyojanañceva   saṃyojanasampayuttañca   bhavarāgasaṃyojanaṃ   avijjāsaṃyojanena   saṃyojanañceva   saṃyojanasampayuttañca   avijjāsaṃyojanaṃ   bhavarāgasaṃyojanena   saṃyojanañceva   saṃyojanasampayuttañca   issāsaṃyojanaṃ   avijjāsaṃyojanena   saṃyojanañceva   saṃyojanasampayuttañca   avijjāsaṃyojanaṃ   issāsaṃyojanena   saṃyojanañceva   saṃyojanasampayuttañca   macchariyasaṃyojanaṃ   avijjāsaṃyojanena   saṃyojanañceva   saṃyojanasampayuttañca   avijjāsaṃyojanaṃ   macchariyasaṃyojanena   saṃyojanañceva   saṃyojanasampayuttañca   ime   dhammā   saṃyojanā   ceva   saṃyojanasampayuttā   ca
-\glb    Which   phenomena   fetters   a   associated_with_fetters   and   sensuous_lust_fetter   ignorance_fetter   fetters   associated_with_fetters   ignorance_fetter   sensuous_lust_fetter   fetters   associated_with_fetters   aversion_fetter   ignorance_fetter   fetters   associated_with_fetters   ignorance_fetter   --   fetters   associated_with_fetters   --   ignorance_fetter   fetters   associated_with_fetters   ignorance_fetter   --   fetters   associated_with_fetters   fetter   ignorance_fetter   fetters   associated_with_fetters   ignorance_fetter   --   fetters   associated_with_fetters   --   ignorance_fetter   fetters   associated_with_fetters   ignorance_fetter   --   fetters   associated_with_fetters   --   ignorance_fetter   fetters   associated_with_fetters   ignorance_fetter   --   fetters   associated_with_fetters   --   ignorance_fetter   fetters   associated_with_fetters   ignorance_fetter   --   fetters   associated_with_fetters   --   ignorance_fetter   fetters   associated_with_fetters   ignorance_fetter   --   fetters   associated_with_fetters   avarice   ignorance_fetter   fetters   associated_with_fetters   ignorance_fetter   --   fetters   associated_with_fetters   these   phenomena   fetters   a   associated_with_fetters   and
+\glb    Which   phenomena   fetters   a   associated_with_fetters   and   sensuous_lust_fetter   ignorance_fetter   fetters   associated_with_fetters   ignorance_fetter   sensuous_lust_fetter   fetters   associated_with_fetters   aversion_fetter   ignorance_fetter   fetters   associated_with_fetters   ignorance_fetter   --   fetters   associated_with_fetters   --   ignorance_fetter   fetters   associated_with_fetters   ignorance_fetter   --   fetters   associated_with_fetters   fetter   ignorance_fetter   fetters   associated_with_fetters   ignorance_fetter   --   fetters   associated_with_fetters   --   ignorance_fetter   fetters   associated_with_fetters   ignorance_fetter   --   fetters   associated_with_fetters   adherence   ignorance_fetter   fetters   associated_with_fetters   ignorance_fetter   --   fetters   associated_with_fetters   --   ignorance_fetter   fetters   associated_with_fetters   ignorance_fetter   --   fetters   associated_with_fetters   --   ignorance_fetter   fetters   associated_with_fetters   ignorance_fetter   --   fetters   associated_with_fetters   avarice   ignorance_fetter   fetters   associated_with_fetters   ignorance_fetter   --   fetters   associated_with_fetters   these   phenomena   fetters   a   associated_with_fetters   and
 \ex     Which phenomena are both fetters and associated with fetters? The sensuous lust fetter in conjunction with the ignorance fetter, and conversely, is both a fetter and associated with fetters. So is any one of the aversion, conceit, wrong view, doubt, adherence to rules and rituals, lust for existence, envy, and avarice fetters when in conjunction with the ignorance fetter, and conversely – these phenomena are both fetters and associated with fetters.
 ```
 
@@ -1264,7 +1264,7 @@ status: draft
 
 ```gloss
 \gla    Tattha   katamo   abhijjhā   kāyagantho   Yo   rāgo   sārāgo   anunayo   anurodho   nandī   nandīrāgo   cittassa   sārāgo   icchā   mucchā   ajjhosānaṃ   gedho   paligedho   saṅgo   paṅko   ejā   māyā   janikā   sañjananī   sibbinī   jālinī   saritā   visattikā   suttaṃ   visaṭā   āyūhinī   dutiyā   paṇidhi   bhavanetti   vanaṃ   vanatho   santhavo   sineho   apekkhā   paṭibandhu   āsā   āsisanā   āsisitattaṃ   rūpāsā   saddāsā   gandhāsā   rasāsā   phoṭṭhabbāsā   lābhāsā   dhanāsā   puttāsā   jīvitāsā   jappā   pajappā   abhijappā   jappā   jappanā   jappitattaṃ   loluppaṃ   loluppāyanā   loluppāyitattaṃ   pucchañjikatā   sādhukamyatā   adhammarāgo   visamalobho   nikanti   nikāmanā   patthanā   pihanā   sampatthanā   kāmataṇhā   bhavataṇhā   vibhavataṇhā   rūpataṇhā   arūpataṇhā   nirodhataṇhā   rūpataṇhā   saddataṇhā   gandhataṇhā   rasataṇhā   phoṭṭhabbataṇhā   dhammataṇhā   ogho   yogo   gantho   upādānaṃ   āvaraṇaṃ   nīvaraṇaṃ   chādanaṃ   bandhanaṃ   upakkileso   anusayo   pariyuṭṭhānaṃ   latā   vevicchaṃ   dukkhamūlaṃ   dukkhanidānaṃ   dukkhappabhavo   mārapāso   mārabaḷisaṃ   māravisayo   taṇhānadī   taṇhājālaṃ   taṇhāgaddulaṃ   taṇhāsamuddo   abhijjhā   lobho   akusalamūlaṃ   ayaṃ   vuccati   abhijjhā   kāyagantho
-\glb    Among   What   covetousness   bodily_tie   a   --   --   --   --   --   --   --   --   --   --   --   --   --   --   --   --   --   --   --   --   --   --   --   --   --   --   --   --   --   --   --   --   --   --   --   --   --   --   --   --   --   --   --   --   --   --   --   --   --   --   --   --   --   --   --   --   --   --   --   --   --   --   --   --   --   --   --   --   --   --   --   --   --   --   --   --   --   --   --   --   clinging   --   --   --   --   --   --   --   --   --   --   --   --   --   --   --   --   --   --   --   covetousness   greed   --   This   is_called   covetousness   bodily_tie
+\glb    Among   What   covetousness   bodily_tie   a   lust   lust   --   --   --   --   --   lust   desire   --   clinging   greed   greed   clinging   attachment   desire   --   craving   craving   craving   craving   craving   craving   craving   craving   craving   craving   craving   craving   craving   craving   --   --   --   attachment   craving   craving   craving   --   --   --   --   --   --   --   --   --   --   --   --   --   --   --   --   --   --   --   --   --   greed   desire   desire   desire   desire   craving   craving   craving   craving   craving   --   --   craving   craving   craving   craving   craving   craving   flood   flood   bond   clinging   hindrance   hindrance   hindrance   tie   --   --   --   craving   --   --   --   --   --   --   --   craving   craving   craving   craving   covetousness   greed   --   This   is_called   covetousness   bodily_tie
 \ex     Among these, what is the bodily tie of covetousness? That which is lust, attachment, desire, craving, clinging, covetousness, greed, the root of unwholesomeness, a flood, a bond, a tie, a hindrance, a latent disposition, the root of suffering, Mara's snare —this is called the bodily tie of covetousness.
 ```
 
@@ -1272,7 +1272,7 @@ status: draft
 
 ```gloss
 \gla    Tattha   katamo   byāpādo   kāyagantho   Anatthaṃ   me   acarī   ti   āghāto   jāyati   anatthaṃ   me   caratīti   āghāto   jāyati   anatthaṃ   me   carissatīti   āghāto   jāyati   piyassa   me   manāpassa   anatthaṃ   acari…pe…   anatthaṃ   carati…pe…   anatthaṃ   carissatīti   āghāto   jāyati   appiyassa   me   amanāpassa   atthaṃ   acari…pe…   atthaṃ   carati…pe…   atthaṃ   carissatīti   āghāto   jāyati   aṭṭhāne   vā   pana   āghāto   jāyati   Yo   evarūpo   cittassa   āghāto   paṭighāto   paṭighaṃ   paṭivirodho   kopo   pakopo   sampakopo   doso   padoso   sampadoso   cittassa   byāpatti   manopadoso   kodho   kujjhanā   kujjhitattaṃ   doso   dussanā   dussitattaṃ   byāpatti   byāpajjanā   byāpajjitattaṃ   virodho   paṭivirodho   caṇḍikkaṃ   asuropo   anattamanatā   cittassa   ayaṃ   vuccati   byāpādo   kāyagantho
-\glb    Among   What   ill_will   bodily_tie   harmed   me   --   --   resentment   arises   harmed   me   harm   resentment   arises   harmed   me   harm   resentment   arises   --   me   --   harmed   --   harmed   --   harmed   harm   resentment   arises   --   me   --   benefited   --   benefited   --   benefited   harm   resentment   arises   --   or   -   resentment   arises   a   such   mind   resentment   --   --   --   --   --   --   hatred   --   --   mind   --   --   --   --   --   hatred   --   --   --   --   --   --   --   --   --   --   mind   This   is_called   ill_will   bodily_tie
+\glb    Among   What   ill_will   bodily_tie   harmed   me   --   --   resentment   arises   harmed   me   harm   resentment   arises   harmed   me   harm   resentment   arises   dear   me   beloved   harmed   --   harmed   --   harmed   harm   resentment   arises   disliked   me   unloved   benefited   --   benefited   --   benefited   harm   resentment   arises   without_reason   or   -   resentment   arises   a   such   mind   resentment   --   --   --   anger   anger   anger   hatred   ill-will   ill-will   mind   ill-will   displeasure_of_mind   anger   anger   anger   hatred   ill-will   ill-will   ill-will   ill-will   ill-will   --   --   --   anger   displeasure   mind   This   is_called   ill_will   bodily_tie
 \ex     Among these, what is the bodily tie of ill will? Resentment arises, thinking: "He harmed me," "He is harming me," "He will harm me." Resentment arises, thinking: "He harmed my dear, beloved one," "He is harming my dear, beloved one," "He will harm my dear, beloved one." Resentment arises, thinking: "He benefited my disliked, unloved one," "He is benefiting my disliked, unloved one," "He will benefit my disliked, unloved one." Or resentment arises without a reason. That such resentment, repulsion, hatred, ill will, anger, displeasure of mind —this is called the bodily tie of ill will.
 ```
 
@@ -1280,7 +1280,7 @@ status: draft
 
 ```gloss
 \gla    Tattha   katamo   sīlabbataparāmāso   kāyagantho   Ito   bahiddhā   samaṇabrāhmaṇānaṃ   sīlena   suddhi   vatena   suddhi   sīlabbatena   suddhītiः   yā   evarūpā   diṭṭhi   diṭṭhigataṃ   diṭṭhigahanaṃ   diṭṭhikantāro   diṭṭhivisūkāyikaṃ   diṭṭhivipphanditaṃ   diṭṭhisaṃyojanaṃ   gāho   patiṭṭhāho   abhiniveso   parāmāso   kummaggo   micchāpatho   micchattaṃ   titthāyatanaṃ   vipariyāsaggāho   ayaṃ   vuccati   sīlabbataparāmāso   kāyagantho
-\glb    Among   What   rites   bodily_tie   outside   outside   brahmins   --   purification   --   purification   --   --   that   such   view   view   --   --   --   --   fetter   grasping   --   adherence   adherence   wrong_path   wrong_path   --   wrong_teaching   --   This   is_called   rites   bodily_tie
+\glb    Among   What   rites   bodily_tie   outside   outside   brahmins   virtue   purification   ritual   purification   virtue_and_ritual   purification   that   such   view   view   --   --   --   --   fetter   grasping   adherence   adherence   adherence   wrong_path   wrong_path   --   wrong_teaching   grasping   This   is_called   rites   bodily_tie
 \ex     Among these, what is the bodily tie of adherence to rites and rituals? That view of ascetics and brahmins outside (this teaching) that "purification is by virtue, purification is by ritual, purification is by virtue and ritual." That such a view, wrong view, fetter, grasping, dogmatic belief, adherence, wrong path, false path —this is called the bodily tie of adherence to rites and rituals.
 ```
 
@@ -1288,7 +1288,7 @@ status: draft
 
 ```gloss
 \gla    Tattha   katamo   idaṃsaccābhiniveso   kāyagantho   Sassato   loko   idameva   saccaṃ   moghamaññanti   vā   asassato   loko   idameva   saccaṃ   moghamaññanti   vā   antavā   loko   idameva   saccaṃ   moghamaññanti   vā   anantavā   loko   idameva   saccaṃ   moghamaññanti   vā   taṃ   jīvaṃ   taṃ   sarīraṃ   idameva   saccaṃ   moghamaññanti   vā   aññaṃ   jīvaṃ   aññaṃ   sarīraṃ   idameva   saccaṃ   moghamaññanti   vā   hoti   tathāgato   paraṃ   maraṇā   idameva   saccaṃ   moghamaññanti   vā   na   hoti   tathāgato   paraṃ   maraṇā   idameva   saccaṃ   moghamaññanti   vā   hoti   ca   na   ca   hoti   tathāgato   paraṃ   maraṇā   idameva   saccaṃ   moghamaññanti   vā   neva   hoti   na   na   hoti   tathāgato   paraṃ   maraṇā   idameva   saccaṃ   moghamaññanti   vāः   yā   evarūpā   diṭṭhi   diṭṭhigataṃ   diṭṭhigahanaṃ   diṭṭhikantāro   diṭṭhivisūkāyikaṃ   diṭṭhivipphanditaṃ   diṭṭhisaṃyojanaṃ   gāho   patiṭṭhāho   abhiniveso   parāmāso   kummaggo   micchāpatho   micchattaṃ   titthāyatanaṃ   vipariyāsaggāho   ayaṃ   vuccati   idaṃsaccābhiniveso   kāyagantho   Ṭhapetvā   sīlabbataparāmāsaṃ   kāyaganthaṃ   sabbāpi   micchādiṭṭhi   idaṃsaccābhiniveso   kāyagantho   Ime   dhammā   ganthā
-\glb    Among   What   --   bodily_tie   --   world   this   --   --   or   --   world   this   --   --   or   --   world   this   --   --   or   --   world   this   --   --   or   that   soul   that   --   this   --   --   or   other   soul   other   --   this   --   --   or   is   Tathagata   after   --   this   --   --   or   not   is   Tathagata   after   --   this   --   --   or   is   and   not   and   is   Tathagata   after   --   this   --   --   or   neither   is   not   not   is   Tathagata   after   --   this   --   --   --   that   such   view   view   --   --   --   --   fetter_of_views   grasping   --   adherence   adherence   wrong_path   wrong_path   --   --   --   This   is_called   --   bodily_tie   excluding   --   --   --   wrong_view   --   bodily_tie   these   states   ties
+\glb    Among   What   dogmatic_adherence   bodily_tie   eternal   world   this   true   false   or   not_eternal   world   this   true   false   or   finite   world   this   true   false   or   infinite   world   this   true   false   or   that   soul   that   --   this   true   false   or   other   soul   other   --   this   true   false   or   is   Tathagata   after   --   this   true   false   or   not   is   Tathagata   after   --   this   true   false   or   is   and   not   and   is   Tathagata   after   --   this   true   false   or   neither   is   not   not   is   Tathagata   after   --   this   true   false   --   that   such   view   view   --   --   --   --   fetter_of_views   grasping   adherence   adherence   adherence   wrong_path   wrong_path   --   --   grasping   This   is_called   dogmatic_adherence   bodily_tie   excluding   adherence_to_rites_and_rituals   --   all   wrong_view   dogmatic_adherence   bodily_tie   these   states   ties
 \ex     Among these, what is the bodily tie of dogmatic adherence to "this is the truth"? The view that "The world is eternal, this alone is true, all else is false"; or "The world is not eternal..."; "The world is finite..."; "The world is infinite..."; "The soul is the body..."; "The soul is one thing, the body another..."; "The Tathagata exists after death..."; "The Tathagata does not exist after death..."; "The Tathagata both exists and does not exist after death..."; "The Tathagata neither exists nor does not exist after death, this alone is true, all else is false." That such a view, wrong view, fetter, grasping, dogmatic belief, adherence, wrong path, false path —this is called the bodily tie of dogmatic adherence to "this is the truth." Excluding the bodily tie of adherence to rites and rituals, all other wrong views are the bodily tie of dogmatic adherence to "this is the truth." These states are bodily ties.
 ```
 
@@ -1304,7 +1304,7 @@ status: draft
 
 ```gloss
 \gla    Katame   dhammā   ganthaniyā   Sāsavā   kusalākusalābyākatā   dhammā   kāmāvacarā   rūpāvacarā   arūpāvacarā   rūpakkhandho…pe…   viññāṇakkhandho   ime   dhammā   ganthaniyā
-\glb    Which   phenomena   --   subject_to_taints   wholesome   phenomena   sense-sphere   fine-material_sphere   immaterial_sphere   --   consciousness_aggregate   these   phenomena   --
+\glb    Which   phenomena   bound   subject_to_taints   wholesome   phenomena   sense-sphere   fine-material_sphere   immaterial_sphere   --   consciousness_aggregate   these   phenomena   bound
 \ex     Which phenomena are bound by fetters? Subject to taints, wholesome, unwholesome, and indeterminate phenomena of the sense sphere, fine-material sphere, and immaterial sphere; the form aggregate... to the consciousness aggregate – these phenomena are bound by fetters.
 ```
 
@@ -1336,7 +1336,7 @@ status: draft
 
 ```gloss
 \gla    Katame   dhammā   ganthā   ceva   ganthaniyā   ca   Teva   ganthā   ganthā   ceva   ganthaniyā   ca
-\glb    Which   phenomena   --   both   --   and   --   --   --   both   --   and
+\glb    Which   phenomena   --   both   bound   and   --   --   --   both   bound   and
 \ex     Which phenomena are both fetters and bound by fetters? Those very fetters are both fetters and bound by fetters.
 ```
 
@@ -1344,7 +1344,7 @@ status: draft
 
 ```gloss
 \gla    Katame   dhammā   ganthaniyā   ceva   no   ca   ganthā   Tehi   dhammehi   ye   dhammā   ganthaniyā   te   dhamme   ṭhapetvā   avasesā   sāsavā   kusalākusalābyākatā   dhammā   kāmāvacarā   rūpāvacarā   arūpāvacarā   rūpakkhandho…pe…   viññāṇakkhandho   ime   dhammā   ganthaniyā   ceva   no   ca   ganthā
-\glb    Which   phenomena   --   and   not   and   --   those   phenomena   which   phenomena   --   those   phenomena   excluding   remaining   subject_to_taints   wholesome   phenomena   sense-sphere   fine-material_sphere   immaterial_sphere   --   consciousness_aggregate   these   phenomena   --   and   not   and   --
+\glb    Which   phenomena   bound   and   not   and   --   those   phenomena   which   phenomena   bound   those   phenomena   excluding   remaining   subject_to_taints   wholesome   phenomena   sense-sphere   fine-material_sphere   immaterial_sphere   --   consciousness_aggregate   these   phenomena   bound   and   not   and   --
 \ex     Which phenomena are bound by fetters but are not fetters? Excluding those phenomena that are fetters, the remaining subject to taints, wholesome, unwholesome, and indeterminate phenomena of the sense sphere, fine-material sphere, and immaterial sphere; the form aggregate... to the consciousness aggregate – these phenomena are bound by fetters but are not fetters.
 ```
 
@@ -1352,7 +1352,7 @@ status: draft
 
 ```gloss
 \gla    Katame   dhammā   ganthā   ceva   ganthasampayuttā   ca   Sīlabbataparāmāso   kāyagantho   abhijjhākāyaganthena   gantho   ceva   ganthasampayutto   ca   abhijjhākāyagantho   sīlabbataparāmāsena   kāyaganthena   gantho   ceva   ganthasampayutto   ca   idaṃsaccābhiniveso   kāyagantho   abhijjhākāyaganthena   gantho   ceva   ganthasampayutto   ca   abhijjhākāyagantho   idaṃsaccābhinivesena   kāyaganthena   gantho   ceva   ganthasampayutto   ca   ime   dhammā   ganthā   ceva   ganthasampayuttā   ca
-\glb    Which   phenomena   --   a   --   and   rites   --   --   --   a   --   and   covetousness   --   --   --   a   --   and   --   --   --   --   a   --   and   covetousness   --   --   --   a   --   and   these   phenomena   --   a   --   and
+\glb    Which   phenomena   --   a   --   and   rites   --   --   --   a   --   and   covetousness   --   --   --   a   --   and   dogmatic_adherence   --   --   --   a   --   and   covetousness   --   --   --   a   --   and   these   phenomena   --   a   --   and
 \ex     Which phenomena are both fetters and associated with fetters? The bodily fetter of adherence to rites and rituals with the bodily fetter of covetousness is both a fetter and associated with fetters; and the bodily fetter of covetousness with the bodily fetter of adherence to rites and rituals is both a fetter and associated with fetters; the bodily fetter of dogmatic belief with the bodily fetter of covetousness is both a fetter and associated with fetters; and the bodily fetter of covetousness with the bodily fetter of dogmatic belief is both a fetter and associated with fetters – these phenomena are both fetters and associated with fetters.
 ```
 
@@ -1368,7 +1368,7 @@ status: draft
 
 ```gloss
 \gla    Katame   dhammā   ganthavippayuttā   ganthaniyā   Tehi   dhammehi   ye   dhammā   vippayuttā   sāsavā   kusalākusalābyākatā   dhammā   kāmāvacarā   rūpāvacarā   arūpāvacarā   rūpakkhandho…pe…   viññāṇakkhandho   ime   dhammā   ganthavippayuttā   ganthaniyā
-\glb    Which   phenomena   --   --   those   phenomena   which   phenomena   --   subject_to_taints   wholesome   phenomena   sense-sphere   fine-material_sphere   immaterial_sphere   --   consciousness_aggregate   these   phenomena   --   --
+\glb    Which   phenomena   --   bound   those   phenomena   which   phenomena   --   subject_to_taints   wholesome   phenomena   sense-sphere   fine-material_sphere   immaterial_sphere   --   consciousness_aggregate   these   phenomena   --   bound
 \ex     Which phenomena are disassociated from fetters but bound by fetters? Those phenomena that are disassociated from these fetters: subject to taints, wholesome, unwholesome, and indeterminate phenomena of the sense sphere, fine-material sphere, and immaterial sphere; the form aggregate... to the consciousness aggregate – these phenomena are disassociated from fetters but bound by fetters.
 ```
 
@@ -1400,7 +1400,7 @@ status: draft
 
 ```gloss
 \gla    Katame   dhammā   nīvaraṇā   Cha   nīvaraṇā   kāmacchandanīvaraṇaṃ   byāpādanīvaraṇaṃ   thinamiddhanīvaraṇaṃ   uddhaccakukkuccanīvaraṇaṃ   vicikicchānīvaraṇaṃ   avijjānīvaraṇaṃ
-\glb    what   states   hindrances   six   hindrances   hindrance_of_sensual_desire   hindrance_of_ill_will   hindrance_of_sloth_and_torpor   hindrance_of_restlessness_and_worry   hindrance_of_doubt   --
+\glb    what   states   hindrances   six   hindrances   hindrance_of_sensual_desire   hindrance_of_ill_will   hindrance_of_sloth_and_torpor   hindrance_of_restlessness_and_worry   hindrance_of_doubt   hindrance_of_ignorance
 \ex     What are the states that are hindrances? Six hindrances: the hindrance of sensual desire, the hindrance of ill will, the hindrance of sloth and torpor, the hindrance of restlessness and worry, the hindrance of doubt, the hindrance of ignorance.
 ```
 
@@ -1408,7 +1408,7 @@ status: draft
 
 ```gloss
 \gla    Tattha   katamaṃ   kāmacchandanīvaraṇaṃ   Yo   kāmesu   kāmacchando   kāmarāgo   kāmanandī   kāmataṇhā   kāmasineho   kāmapariḷāho   kāmamucchā   kāmajjhosānaṃ   idaṃ   vuccati   kāmacchandanīvaraṇaṃ
-\glb    Therein   what   hindrance_of_sensual_desire   --   --   --   --   --   --   --   --   --   --   This   is_called   hindrance_of_sensual_desire
+\glb    Therein   what   hindrance_of_sensual_desire   --   --   --   --   --   craving   --   --   --   --   This   is_called   hindrance_of_sensual_desire
 \ex     Therein, what is the hindrance of sensual desire? Whatever sensual desire for sense objects, sensual lust, sensual delight, sensual craving, sensual affection, sensual burning, sensual infatuation, sensual clinging – this is called the hindrance of sensual desire.
 ```
 
@@ -1416,7 +1416,7 @@ status: draft
 
 ```gloss
 \gla    Tattha   katamaṃ   byāpādanīvaraṇaṃ   Anatthaṃ   me   acarīti   āghāto   jāyati   anatthaṃ   me   caratīti   āghāto   jāyati   anatthaṃ   me   carissatīti   āghāto   jāyati   piyassa   me   manāpassa   anatthaṃ   acari…pe…   anatthaṃ   carati…pe…   anatthaṃ   carissatīti   āghāto   jāyati   appiyassa   me   amanāpassa   atthaṃ   acari…pe…   atthaṃ   carati…pe…   atthaṃ   carissatīti   āghāto   jāyati   aṭṭhāne   vā   pana   āghāto   jāyati   Yo   evarūpo   cittassa   āghāto   paṭighāto   paṭighaṃ   paṭivirodho   kopo   pakopo   sampakopo   doso   padoso   sampadoso   cittassa   byāpatti   manopadoso   kodho   kujjhanā   kujjhitattaṃ   doso   dussanā   dussitattaṃ   byāpatti   byāpajjanā   byāpajjitattaṃ   virodho   paṭivirodho   caṇḍikkaṃ   asuropo   anattamanatā   cittassa   idaṃ   vuccati   byāpādanīvaraṇaṃ
-\glb    Therein   what   hindrance_of_ill_will   --   my   --   resentment   arises   --   my   --   resentment   arises   --   my   --   resentment   arises   --   my   --   --   --   --   --   --   --   resentment   arises   --   my   --   benefit   --   benefit   --   benefit   --   resentment   arises   --   or   -   resentment   arises   a   such   mind   resentment   --   --   --   --   --   --   hatred   --   --   mind   --   --   --   --   --   hatred   --   --   --   --   --   --   --   --   --   --   mind   This   is_called   hindrance_of_ill_will
+\glb    Therein   what   hindrance_of_ill_will   --   my   --   resentment   arises   --   my   --   resentment   arises   --   my   --   resentment   arises   --   my   --   --   --   --   --   --   --   resentment   arises   unloved   my   unloved   benefit   --   benefit   --   benefit   --   resentment   arises   --   or   -   resentment   arises   a   such   mind   resentment   opposition   aversion   opposition   anger   wrath   wrath   hatred   ill-will   malice   mind   ill-will   displeasure_of_mind   anger   fierceness   anger   hatred   fierceness   fierceness   ill-will   ill-will   ill-will   opposition   opposition   fierceness   anger   displeasure   mind   This   is_called   hindrance_of_ill_will
 \ex     Therein, what is the hindrance of ill will? "He acted to my detriment" – ill will arises; "He is acting to my detriment" – ill will arises; "He will act to my detriment" – ill will arises. Similarly, ill will arises concerning the detriment of a loved and desirable one, or the benefit of an unloved and undesirable one. Or ill will arises groundlessly. Whatever such ill will of mind, resentment, aversion, opposition, anger, intense anger, complete anger, hatred, malice, complete malice, mental affliction, mental defilement, wrath, being angry, state of being angry, hostility, state of being hostile, malevolence, state of being malevolent, enmity, fierceness, ill-temper, displeasure of mind – this is called the hindrance of ill will.
 ```
 
@@ -1432,7 +1432,7 @@ status: draft
 
 ```gloss
 \gla    Tattha   katamaṃ   thinaṃ   Yā   cittassa   akallatā   akammaññatā   olīyanā   sallīyanā   līnaṃ   līyanā   līyitattaṃ   thinaṃ   thiyanā   thiyitattaṃ   cittassa   idaṃ   vuccati   thinaṃ
-\glb    Therein   what   sloth   what   --   --   --   --   --   --   --   --   sloth   --   --   --   This   is_called   sloth
+\glb    Therein   what   sloth   what   mental   --   --   --   --   --   --   --   sloth   --   --   mental   This   is_called   sloth
 \ex     Therein, what is sloth? Whatever mental unreadiness, unwieldiness, sinking, drooping, sluggishness, languor, state of being languid, sloth, state of being slothful – this is called sloth.
 ```
 
@@ -1448,7 +1448,7 @@ status: draft
 
 ```gloss
 \gla    Tattha   katamaṃ   uddhaccakukkuccanīvaraṇaṃ   Atthi   uddhaccaṃ   atthi   kukkuccaṃ
-\glb    there   what   hindrance_of_restlessness_and_worry   is   restlessness   is   --
+\glb    there   what   hindrance_of_restlessness_and_worry   is   restlessness   is   worry
 \ex     Among these, what is the hindrance of restlessness and worry? There is restlessness, there is worry.
 ```
 
@@ -1464,7 +1464,7 @@ status: draft
 
 ```gloss
 \gla    Tattha   katamaṃ   kukkuccaṃ   Akappiye   kappiyasaññitā   kappiye   akappiyasaññitā   avajje   vajjasaññitā   vajje   avajjasaññitā   Yaṃ   evarūpaṃ   kukkuccaṃ   kukkuccāyanā   kukkuccāyitattaṃ   cetaso   vippaṭisāro   manovilekho   idaṃ   vuccati   kukkuccaṃ   Iti   idañca   uddhaccaṃ   idañca   kukkuccaṃ   idaṃ   vuccati   uddhaccakukkuccanīvaraṇaṃ
-\glb    Among   what   --   --   --   --   --   --   --   --   --   --   such   --   --   --   --   --   --   This   is_called   --   --   --   restlessness   --   --   This   is_called   hindrance_of_restlessness_and_worry
+\glb    Among   what   worry   --   --   --   --   --   --   --   --   --   such   worry   --   --   --   --   mental_defilement   This   is_called   worry   --   --   restlessness   --   worry   This   is_called   hindrance_of_restlessness_and_worry
 \ex     Among these, what is worry? Perceiving as allowable what is not allowable, perceiving as not allowable what is allowable, perceiving as blameworthy what is not blameworthy, perceiving as not blameworthy what is blameworthy. Such worry, worrying, the state of having worried, mental regret, mental defilement – this is called worry. Thus, this restlessness and this worry – this is called the hindrance of restlessness and worry.
 ```
 
@@ -1472,7 +1472,7 @@ status: draft
 
 ```gloss
 \gla    Tattha   katamaṃ   vicikicchānīvaraṇaṃ   Satthari   kaṅkhati   vicikicchati   dhamme   kaṅkhati   vicikicchati   saṅghe   kaṅkhati   vicikicchati   sikkhāya   kaṅkhati   vicikicchati   pubbante   kaṅkhati   vicikicchati   aparante   kaṅkhati   vicikicchati   pubbantāparante   kaṅkhati   vicikicchati   idappaccayatā   paṭiccasamuppannesu   dhammesu   kaṅkhati   vicikicchati   Yā   evarūpā   kaṅkhā   kaṅkhāyanā   kaṅkhāyitattaṃ   vimati   vicikicchā   dveḷhakaṃ   dvedhāpatho   saṃsayo   anekaṃsaggāho   āsappanā   parisappanā   apariyogāhanā   thambhitattaṃ   cittassa   manovilekho   idaṃ   vuccati   vicikicchānīvaraṇaṃ
-\glb    Among   what   hindrance_of_doubt   --   doubts   doubts   phenomena   doubts   doubts   --   doubts   doubts   --   doubts   doubts   past   doubts   doubts   future   doubts   doubts   past   doubts   doubts   dependent_arising   conditionally_arisen   phenomena   doubts   doubts   what   such   doubt   --   --   --   doubt   --   --   --   --   --   --   --   --   --   --   This   is_called   hindrance_of_doubt
+\glb    Among   what   hindrance_of_doubt   Teacher   doubts   doubts   phenomena   doubts   doubts   --   doubts   doubts   training   doubts   doubts   past   doubts   doubts   future   doubts   doubts   past   doubts   doubts   dependent_arising   conditionally_arisen   phenomena   doubts   doubts   what   such   doubt   uncertainty   --   perplexity   doubt   uncertainty   --   uncertainty   --   --   --   --   --   mental   mental_defilement   This   is_called   hindrance_of_doubt
 \ex     Among these, what is the hindrance of skeptical doubt? Doubts and is uncertain about the Teacher, the Dhamma, the Sangha, the training, the past, the future, both past and future, and dependent arising and its conditionally arisen phenomena. Such doubt, doubting, the state of having doubted, perplexity, uncertainty, being of two minds, vacillation, indecision, inability to penetrate, mental rigidity, mental defilement – this is called the hindrance of skeptical doubt.
 ```
 
@@ -1480,7 +1480,7 @@ status: draft
 
 ```gloss
 \gla    Tattha   katamaṃ   avijjānīvaraṇaṃ   Dukkhe   aññāṇaṃ   dukkhasamudaye   aññāṇaṃ   dukkhanirodhe   aññāṇaṃ   dukkhanirodhagāminiyā   paṭipadāya   aññāṇaṃ   pubbante   aññāṇaṃ   aparante   aññāṇaṃ   pubbantāparante   aññāṇaṃ   idappaccayatā   paṭiccasamuppannesu   dhammesu   aññāṇaṃः   yaṃ   evarūpaṃ   aññāṇaṃ   adassanaṃ   anabhisamayo   ananubodho   asambodho   appaṭivedho   asaṃgāhanā   apariyogāhanā   asamapekkhanā   apaccavekkhaṇā   apaccakkhakammaṃ   dummejjhaṃ   bālyaṃ   asampajaññaṃ   moho   pamoho   sammoho   avijjā   avijjogho   avijjāyogo   avijjānusayo   avijjāpariyuṭṭhānaṃ   avijjālaṅgī   moho   akusalamūlaṃ   idaṃ   vuccati   avijjānīvaraṇaṃ   Ime   dhammā   nīvaraṇā
-\glb    Among   what   --   suffering   ignorance   origin_of_suffering   ignorance   cessation_of_suffering   ignorance   path_leading_to_cessation   path   ignorance   past   ignorance   future   ignorance   past   ignorance   dependent_arising   conditionally_arisen   states   --   --   such   ignorance   --   --   --   --   --   --   --   --   --   --   --   --   --   delusion   --   --   --   --   --   --   --   --   delusion   unwholesome_root   This   is_called   --   these   phenomena   hindrances
+\glb    Among   what   hindrance_of_ignorance   suffering   ignorance   origin_of_suffering   ignorance   cessation_of_suffering   ignorance   path_leading_to_cessation   path   ignorance   past   ignorance   future   ignorance   past   ignorance   dependent_arising   conditionally_arisen   states   --   --   such   ignorance   ignorance   non-realization   non-understanding   non-awakening   non-penetration   non-comprehension   non-penetration   --   non-reviewing   ignorance   ignorance   foolishness   lack_of_clear_comprehension   delusion   delusion   confusion   ignorance   flood_of_ignorance   ignorance   ignorance   obsession_of_ignorance   ignorance   delusion   unwholesome_root   This   is_called   hindrance_of_ignorance   these   phenomena   hindrances
 \ex     Among these, what is the hindrance of ignorance? Ignorance of suffering, of the origin of suffering, of the cessation of suffering, of the path leading to the cessation of suffering, of the past, of the future, of both past and future, and of dependent arising and its conditionally arisen phenomena. Such ignorance, not seeing, non-comprehension, non-understanding, non-awakening, non-penetration, non-grasping, non-pervading, non-reflection, non-reviewing, non-realization, dullness, foolishness, lack of clear comprehension, delusion, utter delusion, confusion, ignorance, flood of ignorance, bond of ignorance, latent disposition of ignorance, obsession of ignorance, chain of ignorance, delusion, root of unwholesome states – this is called the hindrance of ignorance. These phenomena are hindrances.
 ```
 
@@ -1528,7 +1528,7 @@ status: draft
 
 ```gloss
 \gla    Katame   dhammā   nīvaraṇā   ceva   nīvaraṇiyā   ca   Tāneva   nīvaraṇāni   nīvaraṇā   ceva   nīvaraṇiyā   ca
-\glb    what   phenomena   hindrances   and   hindrances   and   --   --   hindrances   and   hindrances   and
+\glb    what   phenomena   hindrances   and   hindrances   and   --   hindrances   hindrances   and   hindrances   and
 \ex     What phenomena are hindrances and also liable to be hindered? The hindrances themselves are hindrances and also liable to be hindered.
 ```
 
@@ -1544,7 +1544,7 @@ status: draft
 
 ```gloss
 \gla    Katame   dhammā   nīvaraṇā   ceva   nīvaraṇasampayuttā   ca   Kāmacchandanīvaraṇaṃ   avijjānīvaraṇena   nīvaraṇañceva   nīvaraṇasampayuttañca   avijjānīvaraṇaṃ   kāmacchandanīvaraṇena   nīvaraṇañceva   nīvaraṇasampayuttañca   byāpādanīvaraṇaṃ   avijjānīvaraṇena   nīvaraṇañceva   nīvaraṇasampayuttañca   avijjānīvaraṇaṃ   byāpādanīvaraṇena   nīvaraṇañceva   nīvaraṇasampayuttañca   thinamiddhanīvaraṇaṃ   avijjānīvaraṇena   nīvaraṇañceva   nīvaraṇasampayuttañca   avijjānīvaraṇaṃ   thinamiddhanīvaraṇena   nīvaraṇañceva   nīvaraṇasampayuttañca   uddhaccanīvaraṇaṃ   avijjānīvaraṇena   nīvaraṇañceva   nīvaraṇasampayuttañca   avijjānīvaraṇaṃ   uddhaccanīvaraṇena   nīvaraṇañceva   nīvaraṇasampayuttañca   kukkuccanīvaraṇaṃ   avijjānīvaraṇena   nīvaraṇañceva   nīvaraṇasampayuttañca   avijjānīvaraṇaṃ   kukkuccanīvaraṇena   nīvaraṇañceva   nīvaraṇasampayuttañca   vicikicchānīvaraṇaṃ   avijjānīvaraṇena   nīvaraṇañceva   nīvaraṇasampayuttañca   avijjānīvaraṇaṃ   vicikicchānīvaraṇena   nīvaraṇañceva   nīvaraṇasampayuttañca   kāmacchandanīvaraṇaṃ   uddhaccanīvaraṇena   nīvaraṇañceva   nīvaraṇasampayuttañca   uddhaccanīvaraṇaṃ   kāmacchandanīvaraṇena   nīvaraṇañceva   nīvaraṇasampayuttañca   byāpādanīvaraṇaṃ   uddhaccanīvaraṇena   nīvaraṇañceva   nīvaraṇasampayuttañca   uddhaccanīvaraṇaṃ   byāpādanīvaraṇena   nīvaraṇañceva   nīvaraṇasampayuttañca   thinamiddhanīvaraṇaṃ   uddhaccanīvaraṇena   nīvaraṇañceva   nīvaraṇasampayuttañca   uddhaccanīvaraṇaṃ   thinamiddhanīvaraṇena   nīvaraṇañceva   nīvaraṇasampayuttañca   kukkuccanīvaraṇaṃ   uddhaccanīvaraṇena   nīvaraṇañceva   nīvaraṇasampayuttañca   uddhaccanīvaraṇaṃ   kukkuccanīvaraṇena   nīvaraṇañceva   nīvaraṇasampayuttañca   vicikicchānīvaraṇaṃ   uddhaccanīvaraṇena   nīvaraṇañceva   nīvaraṇasampayuttañca   uddhaccanīvaraṇaṃ   vicikicchānīvaraṇena   nīvaraṇañceva   nīvaraṇasampayuttañca   avijjānīvaraṇaṃ   uddhaccanīvaraṇena   nīvaraṇañceva   nīvaraṇasampayuttañca   uddhaccanīvaraṇaṃ   avijjānīvaraṇena   nīvaraṇañceva   nīvaraṇasampayuttañca   ime   dhammā   nīvaraṇā   ceva   nīvaraṇasampayuttā   ca
-\glb    what   phenomena   hindrances   a   --   and   sensual_desire   --   hindrance   associated_with_hindrances   --   --   hindrance   associated_with_hindrances   ill_will   --   hindrance   associated_with_hindrances   --   --   hindrance   associated_with_hindrances   sloth-and-torpor   --   hindrance   associated_with_hindrances   --   --   hindrance   associated_with_hindrances   --   --   hindrance   associated_with_hindrances   --   --   hindrance   associated_with_hindrances   --   --   hindrance   associated_with_hindrances   --   --   hindrance   associated_with_hindrances   doubt   --   hindrance   associated_with_hindrances   --   --   hindrance   associated_with_hindrances   sensual_desire   --   hindrance   associated_with_hindrances   --   --   hindrance   associated_with_hindrances   ill_will   --   hindrance   associated_with_hindrances   --   --   hindrance   associated_with_hindrances   sloth-and-torpor   --   hindrance   associated_with_hindrances   --   --   hindrance   associated_with_hindrances   --   --   hindrance   associated_with_hindrances   --   --   hindrance   associated_with_hindrances   doubt   --   hindrance   associated_with_hindrances   --   --   hindrance   associated_with_hindrances   --   --   hindrance   associated_with_hindrances   --   --   hindrance   associated_with_hindrances   these   phenomena   hindrances   a   --   and
+\glb    what   phenomena   hindrances   a   --   and   sensual_desire   ignorance_hindrance   hindrance   associated_with_hindrances   ignorance   --   hindrance   associated_with_hindrances   ill_will   ignorance_hindrance   hindrance   associated_with_hindrances   ignorance   --   hindrance   associated_with_hindrances   sloth-and-torpor   ignorance_hindrance   hindrance   associated_with_hindrances   ignorance   --   hindrance   associated_with_hindrances   restlessness_hindrance   ignorance_hindrance   hindrance   associated_with_hindrances   ignorance   restlessness_hindrance   hindrance   associated_with_hindrances   --   ignorance_hindrance   hindrance   associated_with_hindrances   ignorance   --   hindrance   associated_with_hindrances   doubt   ignorance_hindrance   hindrance   associated_with_hindrances   ignorance   --   hindrance   associated_with_hindrances   sensual_desire   restlessness_hindrance   hindrance   associated_with_hindrances   restlessness_hindrance   --   hindrance   associated_with_hindrances   ill_will   restlessness_hindrance   hindrance   associated_with_hindrances   restlessness_hindrance   --   hindrance   associated_with_hindrances   sloth-and-torpor   restlessness_hindrance   hindrance   associated_with_hindrances   restlessness_hindrance   --   hindrance   associated_with_hindrances   --   restlessness_hindrance   hindrance   associated_with_hindrances   restlessness_hindrance   --   hindrance   associated_with_hindrances   doubt   restlessness_hindrance   hindrance   associated_with_hindrances   restlessness_hindrance   --   hindrance   associated_with_hindrances   ignorance   restlessness_hindrance   hindrance   associated_with_hindrances   restlessness_hindrance   ignorance_hindrance   hindrance   associated_with_hindrances   these   phenomena   hindrances   a   --   and
 \ex     What phenomena are hindrances and also associated with hindrances? The sensual desire hindrance is a hindrance and associated with the ignorance hindrance, and the ignorance hindrance is a hindrance and associated with the sensual desire hindrance; the ill will hindrance is a hindrance and associated with the ignorance hindrance, and the ignorance hindrance is a hindrance and associated with the ill will hindrance; the sloth-and-torpor hindrance is a hindrance and associated with the ignorance hindrance, and the ignorance hindrance is a hindrance and associated with the sloth-and-torpor hindrance; the restlessness hindrance is a hindrance and associated with the ignorance hindrance, and the ignorance hindrance is a hindrance and associated with the restlessness hindrance; the worry hindrance is a hindrance and associated with the ignorance hindrance, and the ignorance hindrance is a hindrance and associated with the worry hindrance; the doubt hindrance is a hindrance and associated with the ignorance hindrance, and the ignorance hindrance is a hindrance and associated with the doubt hindrance; the sensual desire hindrance is a hindrance and associated with the restlessness hindrance, and the restlessness hindrance is a hindrance and associated with the sensual desire hindrance; the ill will hindrance is a hindrance and associated with the restlessness hindrance, and the restlessness hindrance is a hindrance and associated with the ill will hindrance; the sloth-and-torpor hindrance is a hindrance and associated with the restlessness hindrance, and the restlessness hindrance is a hindrance and associated with the sloth-and-torpor hindrance; the worry hindrance is a hindrance and associated with the restlessness hindrance, and the restlessness hindrance is a hindrance and associated with the worry hindrance; the doubt hindrance is a hindrance and associated with the restlessness hindrance, and the restlessness hindrance is a hindrance and associated with the doubt hindrance; the ignorance hindrance is a hindrance and associated with the restlessness hindrance, and the restlessness hindrance is a hindrance and associated with the ignorance hindrance – these phenomena are hindrances and also associated with hindrances.
 ```
 
@@ -1576,7 +1576,7 @@ status: draft
 
 ```gloss
 \gla    Katame   dhammā   parāmāsā   Diṭṭhiparāmāso
-\glb    what   phenomena   --   --
+\glb    what   phenomena   misapprehensions   --
 \ex     What phenomena are misapprehensions? Misapprehension of views.
 ```
 
@@ -1584,7 +1584,7 @@ status: draft
 
 ```gloss
 \gla    Tattha   katamo   diṭṭhiparāmāso   Sassato   lokoti   vā   asassato   lokoti   vā   antavā   lokoti   vā   anantavā   lokoti   vā   taṃ   jīvaṃ   taṃ   sarīranti   vā   aññaṃ   jīvaṃ   aññaṃ   sarīranti   vā   hoti   tathāgato   paraṃ   maraṇāti   vā   na   hoti   tathāgato   paraṃ   maraṇāti   vā   hoti   ca   na   ca   hoti   tathāgato   paraṃ   maraṇāti   vā   neva   hoti   na   na   hoti   tathāgato   paraṃ   maraṇāti   vāः   yā   evarūpā   diṭṭhi   diṭṭhigataṃ   diṭṭhigahanaṃ   diṭṭhikantāro   diṭṭhivisūkāyikaṃ   diṭṭhivipphanditaṃ   diṭṭhisaṃyojanaṃ   gāho   patiṭṭhāho   abhiniveso   parāmāso   kummaggo   micchāpatho   micchattaṃ   titthāyatanaṃ   vipariyāsaggāho   ayaṃ   vuccati   diṭṭhiparāmāso   Sabbāpi   micchādiṭṭhi   diṭṭhiparāmāso   Ime   dhammā   parāmāsā
-\glb    --   What   --   --   world   or   --   world   or   --   world   or   --   world   or   this   soul   this   --   or   different   soul   different   --   or   is   Tathagata   after   death   or   not   is   Tathagata   after   death   or   is   and   not   and   is   Tathagata   after   death   or   neither   is   not   not   is   Tathagata   after   death   --   what   such   view   view   thicket_of_views   wilderness_of_views   --   --   fetter_of_views   grasping   --   adherence   adherence   wrong_path   false_way   wrongness   --   --   This   is_called   --   --   wrong_view   --   these   phenomena   --
+\glb    --   What   --   eternal   world   or   not_eternal   world   or   finite   world   or   infinite   world   or   this   soul   this   body   or   different   soul   different   body   or   is   Tathagata   after   death   or   not   is   Tathagata   after   death   or   is   and   not   and   is   Tathagata   after   death   or   neither   is   not   not   is   Tathagata   after   death   --   what   such   view   view   thicket_of_views   wilderness_of_views   agitation_of_views   perversion_of_views   fetter_of_views   grasping   adherence   adherence   adherence   wrong_path   false_way   wrongness   heretical_ground   perverted_grasping   This   is_called   --   All   wrong_view   --   these   phenomena   --
 \ex     What is clinging to views? 'The world is eternal' or 'the world is not eternal' or 'the world is finite' or 'the world is infinite' or 'the soul is the same as the body' or 'the soul is different from the body' or 'the Tathagata exists after death' or 'the Tathagata does not exist after death' or 'the Tathagata both exists and does not exist after death' or 'the Tathagata neither exists nor does not exist after death'—whatever such view, wrong view, thicket of views, wilderness of views, perversion of views, agitation of views, fetter of views, grasping, holding fast, adherence, clinging, wrong path, false way, wrongness, heretical ground, perverted grasping—this is called clinging to views. All wrong views are clinging to views. These phenomena are clingings.
 ```
 
@@ -1600,7 +1600,7 @@ status: draft
 
 ```gloss
 \gla    Katame   dhammā   parāmaṭṭhā   Sāsavā   kusalākusalābyākatā   dhammā   kāmāvacarā   rūpāvacarā   arūpāvacarā   rūpakkhandho…pe…   viññāṇakkhandho   ime   dhammā   parāmaṭṭhā
-\glb    Which   phenomena   --   --   wholesome   phenomena   sense-sphere   fine-material_sphere   immaterial_sphere   --   consciousness_aggregate   these   phenomena   --
+\glb    Which   phenomena   clung_to   --   wholesome   phenomena   sense-sphere   fine-material_sphere   immaterial_sphere   --   consciousness_aggregate   these   phenomena   clung_to
 \ex     Which phenomena are clung to? Defilement-associated wholesome, unwholesome, and indeterminate phenomena belonging to the sense sphere, fine-material sphere, immaterial sphere; the aggregate of form... up to... the aggregate of consciousness—these phenomena are clung to.
 ```
 
@@ -1632,7 +1632,7 @@ status: draft
 
 ```gloss
 \gla    Katame   dhammā   parāmāsā   ceva   parāmaṭṭhā   ca   Sveva   parāmāso   parāmāso   ceva   parāmaṭṭho   ca
-\glb    Which   phenomena   --   both   --   and   --   clinging   clinging   both   --   and
+\glb    Which   phenomena   --   both   clung_to   and   --   clinging   clinging   both   --   and
 \ex     Which phenomena are both clinging and clung to? That very clinging is both clinging and clung to.
 ```
 
@@ -1640,7 +1640,7 @@ status: draft
 
 ```gloss
 \gla    Katame   dhammā   parāmaṭṭhā   ceva   no   ca   parāmāsā   Tehi   dhammehi   ye   dhammā   parāmaṭṭhā   te   dhamme   ṭhapetvā   avasesā   sāsavā   kusalākusalābyākatā   dhammā   kāmāvacarā   rūpāvacarā   arūpāvacarā   rūpakkhandho…pe…   viññāṇakkhandho   ime   dhammā   parāmaṭṭhā   ceva   no   ca   parāmāsā
-\glb    Which   phenomena   --   and   not   and   --   those   phenomena   which   phenomena   --   those   phenomena   excluding   remaining   --   wholesome   phenomena   sense-sphere   fine-material_sphere   immaterial_sphere   --   consciousness_aggregate   these   phenomena   --   and   not   and   --
+\glb    Which   phenomena   clung_to   and   not   and   --   those   phenomena   which   phenomena   clung_to   those   phenomena   excluding   remaining   --   wholesome   phenomena   sense-sphere   fine-material_sphere   immaterial_sphere   --   consciousness_aggregate   these   phenomena   clung_to   and   not   and   --
 \ex     Which phenomena are clung to but not clinging? Those phenomena that are clung to, excluding those (the clingings), the remaining defilement-associated wholesome, unwholesome, and indeterminate phenomena belonging to the sense sphere, fine-material sphere, immaterial sphere; the aggregate of form... up to... the aggregate of consciousness—these phenomena are clung to but not clinging.
 ```
 
@@ -1648,7 +1648,7 @@ status: draft
 
 ```gloss
 \gla    Katame   dhammā   parāmāsavippayuttā   parāmaṭṭhā   Tehi   dhammehi   ye   dhammā   vippayuttā   sāsavā   kusalākusalābyākatā   dhammā   kāmāvacarā   rūpāvacarā   arūpāvacarā   rūpakkhandho…pe…   viññāṇakkhandho   ime   dhammā   parāmāsavippayuttā   parāmaṭṭhā
-\glb    Which   phenomena   --   --   those   phenomena   which   phenomena   --   --   wholesome   phenomena   sense-sphere   fine-material_sphere   immaterial_sphere   --   consciousness_aggregate   these   phenomena   --   --
+\glb    Which   phenomena   --   clung_to   those   phenomena   which   phenomena   --   --   wholesome   phenomena   sense-sphere   fine-material_sphere   immaterial_sphere   --   consciousness_aggregate   these   phenomena   --   clung_to
 \ex     Which phenomena are disassociated from clinging but clung to? Those phenomena that are disassociated from them: defilement-associated wholesome, unwholesome, and indeterminate phenomena belonging to the sense sphere, fine-material sphere, immaterial sphere; the aggregate of form... up to... the aggregate of consciousness—these phenomena are disassociated from clinging but clung to.
 ```
 
@@ -1704,7 +1704,7 @@ status: draft
 
 ```gloss
 \gla    Katame   dhammā   acetasikā   Cittañca   sabbañca   rūpaṃ   asaṅkhatā   ca   dhātu   ime   dhammā   acetasikā
-\glb    Which   phenomena   --   --   all   matter   unconditioned   and   element   these   phenomena   --
+\glb    Which   phenomena   --   Consciousness   all   matter   unconditioned   and   element   these   phenomena   --
 \ex     Which phenomena are not mental factors? Consciousness, all matter, and the unconditioned element. These phenomena are not mental factors.
 ```
 
@@ -1744,7 +1744,7 @@ status: draft
 
 ```gloss
 \gla    Katame   dhammā   cittasamuṭṭhānā   Vedanākkhandho   saññākkhandho   saṅkhārakkhandho   kāyaviññatti   vacīviññatti   yaṃ   vā   panaññampi   atthi   rūpaṃ   cittajaṃ   cittahetukaṃ   cittasamuṭṭhānaṃ   rūpāyatanaṃ   saddāyatanaṃ   gandhāyatanaṃ   rasāyatanaṃ   phoṭṭhabbāyatanaṃ   ākāsadhātu   āpodhātu   rūpassa   lahutā   rūpassa   mudutā   rūpassa   kammaññatā   rūpassa   upacayo   rūpassa   santati   kabaḷīkāro   āhāro   ime   dhammā   cittasamuṭṭhānā
-\glb    Which   states   mind-originated   feeling_aggregate   perception_aggregate   formations   --   vocal_intimation   --   --   other   is   matter   mind-originated   mind-originated   mind-originated   visible-form-base   sound-base   smell-base   taste-base   tangible-base   --   --   --   --   --   malleability   --   --   --   production   --   --   edible   food   these   states   mind-originated
+\glb    Which   states   mind-originated   feeling_aggregate   perception_aggregate   formations   --   vocal_intimation   which   --   other   is   matter   mind-originated   mind-originated   mind-originated   visible-form-base   sound-base   smell-base   taste-base   tangible-base   --   --   --   --   --   malleability   --   --   --   production   --   --   edible   food   these   states   mind-originated
 \ex     Which states arise from mind? The feeling aggregate, perception aggregate, volitional formations aggregate; bodily intimation, vocal intimation; and whatever other mind-born, mind-rooted, mind-originated matter there is, such as the visible form base, sound base, smell base, taste base, tangible object base, space element, water element, lightness of matter, malleability of matter, wieldiness of matter, production of matter, continuity of matter, and edible food. These states arise from mind.
 ```
 
@@ -1816,7 +1816,7 @@ status: draft
 
 ```gloss
 \gla    Katame   dhammā   no   cittasaṃsaṭṭhasamuṭṭhānasahabhuno   Cittañca   sabbañca   rūpaṃ   asaṅkhatā   ca   dhātu   ime   dhammā   no   cittasaṃsaṭṭhasamuṭṭhānasahabhuno
-\glb    Which   states   not   --   --   all   matter   unconditioned   and   element   these   states   not   --
+\glb    Which   states   not   --   Consciousness   all   matter   unconditioned   and   element   these   states   not   --
 \ex     Which states are not conjoined with, arisen from, and co-existent with consciousness? Consciousness, all matter, and the unconditioned element – these states are not conjoined with, arisen from, and co-existent with consciousness.
 ```
 
@@ -1832,7 +1832,7 @@ status: draft
 
 ```gloss
 \gla    Katame   dhammā   no   cittasaṃsaṭṭhasamuṭṭhānānuparivattino   Cittañca   sabbañca   rūpaṃ   asaṅkhatā   ca   dhātu   ime   dhammā   no   cittasaṃsaṭṭhasamuṭṭhānānuparivattino
-\glb    Which   states   not   --   --   all   matter   unconditioned   and   element   these   states   not   --
+\glb    Which   states   not   --   Consciousness   all   matter   unconditioned   and   element   these   states   not   --
 \ex     Which states do not follow the arising of consciousness and are conjoined with it? Consciousness, all matter, and the unconditioned element – these states do not follow the arising of consciousness and are conjoined with it.
 ```
 
@@ -1888,7 +1888,7 @@ status: draft
 
 ```gloss
 \gla    Katame   dhammā   upādānā   Cattāri   upādānāni   kāmupādānaṃ   diṭṭhupādānaṃ   sīlabbatupādānaṃ   attavādupādānaṃ
-\glb    Which   phenomena   clingings   four   --   sensual_clinging   clinging_to_views   clinging_to_rites_and_rituals   clinging_to_doctrine_of_self
+\glb    Which   phenomena   clingings   four   clingings   sensual_clinging   clinging_to_views   clinging_to_rites_and_rituals   clinging_to_doctrine_of_self
 \ex     Which phenomena are clingings? Four clingings: sensual clinging, clinging to views, clinging to rites and rituals, clinging to a doctrine of self.
 ```
 
@@ -1896,7 +1896,7 @@ status: draft
 
 ```gloss
 \gla    Tattha   katamaṃ   kāmupādānaṃ   Yo   kāmesu   kāmacchando   kāmarāgo   kāmanandī   kāmataṇhā   kāmasineho   kāmapariḷāho   kāmamucchā   kāmajjhosānaṃ   idaṃ   vuccati   kāmupādānaṃ
-\glb    --   what   sensual_clinging   --   --   --   --   --   --   --   --   --   --   This   is_called   sensual_clinging
+\glb    --   what   sensual_clinging   --   --   --   --   --   craving_for_sensual_pleasures   --   --   --   --   This   is_called   sensual_clinging
 \ex     What is sensual clinging? That desire for sensual pleasures, lust for sensual pleasures, delight in sensual pleasures, craving for sensual pleasures, affection for sensual pleasures, agitation due to sensual pleasures, infatuation with sensual pleasures, obsession with sensual pleasures – this is called sensual clinging.
 ```
 
@@ -1904,7 +1904,7 @@ status: draft
 
 ```gloss
 \gla    Tattha   katamaṃ   diṭṭhupādānaṃ   Natthi   dinnaṃ   natthi   yiṭṭhaṃ   natthi   hutaṃ   natthi   sukatadukkaṭānaṃ   kammānaṃ   phalaṃ   vipāko   natthi   ayaṃ   loko   natthi   paro   loko   natthi   mātā   natthi   pitā   natthi   sattā   opapātikā   natthi   loke   samaṇabrāhmaṇā   sammaggatā   sammāpaṭipannā   ye   imañca   lokaṃ   parañca   lokaṃ   sayaṃ   abhiññā   sacchikatvā   pavedentīti   yā   evarūpā   diṭṭhi   diṭṭhigataṃ   diṭṭhigahanaṃ   diṭṭhikantāro   diṭṭhivisūkāyikaṃ   diṭṭhivipphanditaṃ   diṭṭhisaṃyojanaṃ   gāho   patiṭṭhāho   abhiniveso   parāmāso   kummaggo   micchāpatho   micchattaṃ   titthāyatanaṃ   vipariyāsaggāho   idaṃ   vuccati   diṭṭhupādānaṃ   Ṭhapetvā   sīlabbatupādānañca   attavādupādānañca   sabbāpi   micchādiṭṭhi   diṭṭhupādānaṃ
-\glb    there   what   clinging_to_views   no   --   no   --   no   --   no   --   --   --   a   no   This   world   no   --   world   no   --   no   --   no   beings   --   no   --   --   --   --   --   --   --   --   --   --   --   --   --   that   such   view   view   thicket_of_views   wilderness_of_views   --   --   fetter_of_views   clinging   --   adherence   adherence   wrong_path   false_way   wrongness   --   --   This   is_called   clinging_to_views   excluding   --   --   --   wrong_view   clinging_to_views
+\glb    there   what   clinging_to_views   no   giving   no   offering   no   sacrifice   no   good_and_bad_actions   actions   fruit   a   no   This   world   no   other_world   world   no   mother   no   father   no   beings   spontaneously_born_beings   no   --   --   --   --   --   --   --   --   --   --   --   --   --   that   such   view   view   thicket_of_views   wilderness_of_views   agitation_of_views   --   fetter_of_views   clinging   adherence   adherence   adherence   wrong_path   false_way   wrongness   heretical   perverse   This   is_called   clinging_to_views   excluding   --   --   all   wrong_view   clinging_to_views
 \ex     What is clinging to views? The view that there is no giving, no offering, no sacrifice; no fruit or result of good and bad actions; no this world, no other world; no mother, no father; no spontaneously born beings; no recluses and brahmins in the world who are rightly gone, rightly practiced, who have themselves realized and proclaimed this world and the other world by direct knowledge – such a view, wrong view, thicket of views, wilderness of views, agitation of views, fickleness of views, fetter of views, grasp, holding, adherence, clinging, wrong path, false way, wrongness, heretical tenet, perverse grasp – this is called clinging to views. Excluding clinging to rites and rituals and clinging to a doctrine of self, all wrong views are clinging to views.
 ```
 
@@ -1912,7 +1912,7 @@ status: draft
 
 ```gloss
 \gla    Tattha   katamaṃ   sīlabbatupādānaṃ   Ito   bahiddhā   samaṇabrāhmaṇānaṃ   sīlena   suddhi   vatena   suddhi   sīlabbatena   suddhīti   yā   evarūpā   diṭṭhi   diṭṭhigataṃ   diṭṭhigahanaṃ   diṭṭhikantāro   diṭṭhivisūkāyikaṃ   diṭṭhivipphanditaṃ   diṭṭhisaṃyojanaṃ   gāho   patiṭṭhāho   abhiniveso   parāmāso   kummaggo   micchāpatho   micchattaṃ   titthāyatanaṃ   vipariyāsaggāho   idaṃ   vuccati   sīlabbatupādānaṃ
-\glb    Among   what   clinging_to_rites_and_rituals   outside   outside   recluses   --   purification   --   purification   --   --   that   such   view   view   thicket_of_views   wilderness_of_views   --   --   fetter_of_views   clinging   --   adherence   adherence   wrong_path   false_way   wrongness   --   --   This   is_called   clinging_to_rites_and_rituals
+\glb    Among   what   clinging_to_rites_and_rituals   outside   outside   recluses   virtue   purification   --   purification   --   purification   that   such   view   view   thicket_of_views   wilderness_of_views   agitation_of_views   --   fetter_of_views   clinging   adherence   adherence   adherence   wrong_path   false_way   wrongness   heretical   perverse   This   is_called   clinging_to_rites_and_rituals
 \ex     What is clinging to rites and rituals? Among recluses and brahmins outside [this dispensation], the view that purification is through virtue, purification is through vows, purification is through rites and rituals – such a view, wrong view, thicket of views, wilderness of views, agitation of views, fickleness of views, fetter of views, grasp, holding, adherence, clinging, wrong path, false way, wrongness, heretical tenet, perverse grasp – this is called clinging to rites and rituals.
 ```
 
@@ -1920,7 +1920,7 @@ status: draft
 
 ```gloss
 \gla    Tattha   katamaṃ   attavādupādānaṃ   Idha   assutavā   puthujjano   ariyānaṃ   adassāvī   ariyadhammassa   akovido   ariyadhamme   avinīto   sappurisānaṃ   adassāvī   sappurisadhammassa   akovido   sappurisadhamme   avinīto   rūpaṃ   attato   samanupassati   rūpavantaṃ   vā   attānaṃ   attani   vā   rūpaṃ   rūpasmiṃ   vā   attānaṃ   Vedanaṃ…pe…   saññaṃ…pe…   saṅkhāre…pe…   viññāṇaṃ   attato   samanupassati   viññāṇavantaṃ   vā   attānaṃ   attani   vā   viññāṇaṃ   viññāṇasmiṃ   vā   attānaṃ   Yā   evarūpā   diṭṭhi   diṭṭhigataṃ   diṭṭhigahanaṃ   diṭṭhikantāro   diṭṭhivisūkāyikaṃ   diṭṭhivipphanditaṃ   diṭṭhisaṃyojanaṃ   gāho   patiṭṭhāho   abhiniveso   parāmāso   kummaggo   micchāpatho   micchattaṃ   titthāyatanaṃ   vipariyāsaggāho   idaṃ   vuccati   attavādupādānaṃ   Ime   dhammā   upādānā
-\glb    Here   what   clinging_to_doctrine_of_self   Here   uninstructed   worldling   noble_ones   not_seeing   Dhamma_of_noble_ones   --   Dhamma_of_noble_ones   --   --   not_seeing   --   --   --   --   form   self   perceives   --   or   self   self   or   form   --   or   self   --   --   --   consciousness   self   perceives   --   or   self   self   or   consciousness   --   or   self   a   such   view   view   thicket_of_views   wilderness_of_views   --   --   fetter_of_views   clinging   --   adherence   adherence   wrong_path   false_way   wrongness   --   --   This   is_called   clinging_to_doctrine_of_self   these   phenomena   clingings
+\glb    Here   what   clinging_to_doctrine_of_self   Here   uninstructed   worldling   noble_ones   not_seeing   Dhamma_of_noble_ones   --   Dhamma_of_noble_ones   --   --   not_seeing   --   --   --   --   form   self   perceives   --   or   self   self   or   form   --   or   self   --   --   --   consciousness   self   perceives   --   or   self   self   or   consciousness   --   or   self   a   such   view   view   thicket_of_views   wilderness_of_views   agitation_of_views   --   fetter_of_views   clinging   adherence   adherence   adherence   wrong_path   false_way   wrongness   heretical   perverse   This   is_called   clinging_to_doctrine_of_self   these   phenomena   clingings
 \ex     What is clinging to a doctrine of self? Here, an uninstructed worldling, not seeing noble ones, not skilled in the noble Dhamma, not trained in the noble Dhamma; not seeing true men, not skilled in the Dhamma of true men, not trained in the Dhamma of true men – perceives form as self, or self as possessing form, or form as being in self, or self as being in form. Feeling... perception... mental formations... consciousness he perceives as self, or self as possessing consciousness, or consciousness as being in self, or self as being in consciousness. Such a view, wrong view, thicket of views, wilderness of views, agitation of views, fickleness of views, fetter of views, grasp, holding, adherence, clinging, wrong path, false way, wrongness, heretical tenet, perverse grasp – this is called clinging to a doctrine of self. These phenomena are clingings.
 ```
 
@@ -1936,7 +1936,7 @@ status: draft
 
 ```gloss
 \gla    Katame   dhammā   upādāniyā   Sāsavā   kusalākusalābyākatā   dhammā   kāmāvacarā   rūpāvacarā   arūpāvacarā   rūpakkhandho…pe…   viññāṇakkhandho   ime   dhammā   upādāniyā
-\glb    Which   phenomena   --   with_taints   wholesome   phenomena   sense-sphere   fine-material_sphere   immaterial_sphere   --   consciousness_aggregate   these   phenomena   --
+\glb    Which   phenomena   clinging   with_taints   wholesome   phenomena   sense-sphere   fine-material_sphere   immaterial_sphere   --   consciousness_aggregate   these   phenomena   clinging
 \ex     Which phenomena are objects of clinging? Wholesome, unwholesome, and indeterminate phenomena with taints in the sense sphere, fine-material sphere, and immaterial sphere; the aggregate of form... consciousness – these phenomena are objects of clinging.
 ```
 
@@ -1968,7 +1968,7 @@ status: draft
 
 ```gloss
 \gla    Katame   dhammā   upādānā   ceva   upādāniyā   ca   Tāneva   upādānāni   upādānā   ceva   upādāniyā   ca
-\glb    Which   phenomena   clingings   both   --   and   --   --   clingings   both   --   and
+\glb    Which   phenomena   clingings   both   clinging   and   --   clingings   clingings   both   clinging   and
 \ex     Which phenomena are both clinging and objects of clinging? The clingings themselves are both clinging and objects of clinging.
 ```
 
@@ -1976,7 +1976,7 @@ status: draft
 
 ```gloss
 \gla    Katame   dhammā   upādāniyā   ceva   no   ca   upādānā   Tehi   dhammehi   ye   dhammā   upādāniyā   te   dhamme   ṭhapetvā   avasesā   sāsavā   kusalākusalābyākatā   dhammā   kāmāvacarā   rūpāvacarā   arūpāvacarā   rūpakkhandho…pe…   viññāṇakkhandho   ime   dhammā   upādāniyā   ceva   no   ca   upādānā
-\glb    Which   phenomena   --   and   not   and   clingings   --   phenomena   which   phenomena   --   --   phenomena   excluding   remaining   --   wholesome   phenomena   sense-sphere   --   --   --   consciousness   these   phenomena   --   and   not   and   clingings
+\glb    Which   phenomena   clinging   and   not   and   clingings   --   phenomena   which   phenomena   clinging   --   phenomena   excluding   remaining   --   wholesome   phenomena   sense-sphere   --   --   --   consciousness   these   phenomena   clinging   and   not   and   clingings
 \ex     Which phenomena are objects of clinging but not clinging itself? Excluding the clingings themselves, the remaining defiled wholesome, unwholesome, and indeterminate phenomena pertaining to the sense-sphere, form-sphere, and formless-sphere; the five aggregates (form, feeling, perception, mental formations, and consciousness) – these phenomena are objects of clinging but not clinging itself.
 ```
 
@@ -2000,7 +2000,7 @@ status: draft
 
 ```gloss
 \gla    Katame   dhammā   upādānavippayuttā   upādāniyā   Tehi   dhammehi   ye   dhammā   vippayuttā   sāsavā   kusalākusalābyākatā   dhammā   kāmāvacarā   rūpāvacarā   arūpāvacarā   rūpakkhandho…pe…   viññāṇakkhandho   ime   dhammā   upādānavippayuttā   upādāniyā
-\glb    Which   phenomena   --   --   those   phenomena   which   phenomena   dissociated   --   wholesome   phenomena   sense-sphere   --   --   --   consciousness   these   phenomena   --   --
+\glb    Which   phenomena   --   clinging   those   phenomena   which   phenomena   dissociated   --   wholesome   phenomena   sense-sphere   --   --   --   consciousness   these   phenomena   --   clinging
 \ex     Which phenomena are dissociated from clinging yet are objects of clinging? Those phenomena that are dissociated from clinging, namely, defiled wholesome, unwholesome, and indeterminate phenomena pertaining to the sense-sphere, form-sphere, and formless-sphere; the five aggregates (form, feeling, perception, mental formations, and consciousness) – these phenomena are dissociated from clinging yet are objects of clinging.
 ```
 
@@ -2024,7 +2024,7 @@ status: draft
 
 ```gloss
 \gla    Tattha   katamo   lobho   Yo   rāgo   sārāgo   anunayo   anurodho   nandī   nandīrāgo   cittassa   sārāgo   icchā   mucchā   ajjhosānaṃ   gedho   paligedho   saṅgo   paṅko   ejā   māyā   janikā   sañjananī   sibbinī   jālinī   saritā   visattikā   suttaṃ   visaṭā   āyūhinī   dutiyā   paṇidhi   bhavanetti   vanaṃ   vanatho   santhavo   sineho   apekkhā   paṭibandhu   āsā   āsisanā   āsisitattaṃ   rūpāsā   saddāsā   gandhāsā   rasāsā   phoṭṭhabbāsā   lābhāsā   dhanāsā   puttāsā   jīvitāsā   jappā   pajappā   abhijappā   jappā   jappanā   jappitattaṃ   loluppaṃ   loluppāyanā   loluppāyitattaṃ   pucchañjikatā   sādhukamyatā   adhammarāgo   visamalobho   nikanti   nikāmanā   patthanā   pihanā   sampatthanā   kāmataṇhā   bhavataṇhā   vibhavataṇhā   rūpataṇhā   arūpataṇhā   nirodhataṇhā   rūpataṇhā   saddataṇhā   gandhataṇhā   rasataṇhā   phoṭṭhabbataṇhā   dhammataṇhā   ogho   yogo   gantho   upādānaṃ   āvaraṇaṃ   nīvaraṇaṃ   chādanaṃ   bandhanaṃ   upakkileso   anusayo   pariyuṭṭhānaṃ   latā   vevicchaṃ   dukkhamūlaṃ   dukkhanidānaṃ   dukkhappabhavo   mārapāso   mārabaḷisaṃ   māravisayo   taṇhānadī   taṇhājālaṃ   taṇhāgaddulaṃ   taṇhāsamuddo   abhijjhā   lobho   akusalamūlaṃ   ayaṃ   vuccati   lobho
-\glb    Therein   What   greed   that_which   --   --   --   --   --   --   --   --   --   --   --   --   --   --   --   --   --   --   --   --   --   --   --   --   --   --   --   --   --   --   --   --   --   --   --   --   --   --   --   --   --   --   --   --   --   --   --   --   --   --   --   --   --   --   --   --   --   --   --   --   --   --   --   --   --   --   --   --   --   --   --   --   --   --   --   --   --   --   --   --   clinging   --   --   --   --   --   --   --   --   --   --   --   --   --   --   --   --   --   --   --   covetousness   greed   unwholesome_root   This   is_called   greed
+\glb    Therein   What   greed   that_which   lust   lust   --   --   --   --   mental   lust   desire   infatuation   clinging   greed   greed   clinging   attachment   desire   --   craving   craving   craving   craving   craving   craving   craving   craving   craving   craving   craving   craving   craving   craving   --   --   --   attachment   craving   craving   craving   --   --   --   --   --   --   --   --   --   --   --   --   --   --   --   --   --   --   --   --   --   greed   desire   desire   desire   desire   craving   craving   craving_for_existence   craving   craving   --   --   craving   craving_for_sounds   craving_for_smells   craving_for_tastes   craving   craving   flood   flood   bond   clinging   hindrance   hindrance   hindrance   --   --   --   --   craving   --   --   --   --   --   --   --   craving   craving   craving   craving   covetousness   greed   unwholesome_root   This   is_called   greed
 \ex     Therein, what is greed? That which is lust, attachment, desire, infatuation, clinging, covetousness; craving for sensuality, existence, non-existence, fine-material, immaterial, cessation, forms, sounds, smells, tastes, tangibles, mental objects; the flood, bond, knot, clinging, hindrance, latent disposition, root of suffering, covetousness, greed, the unwholesome root. This is called greed.
 ```
 
@@ -2032,7 +2032,7 @@ status: draft
 
 ```gloss
 \gla    Tattha   katamo   doso   Anatthaṃ   me   acarīti   āghāto   jāyati   anatthaṃ   me   caratīti   āghāto   jāyati   anatthaṃ   me   carissatīti   āghāto   jāyati   piyassa   me   manāpassa   anatthaṃ   acari…pe…   anatthaṃ   carati…pe…   anatthaṃ   carissatīti   āghāto   jāyati   appiyassa   me   amanāpassa   atthaṃ   acari…pe…   atthaṃ   carati…pe…   atthaṃ   carissatīti   āghāto   jāyati   aṭṭhāne   vā   pana   āghāto   jāyati   Yo   evarūpo   cittassa   āghāto   paṭighāto   paṭighaṃ   paṭivirodho   kopo   pakopo   sampakopo   doso   padoso   sampadoso   cittassa   byāpatti   manopadoso   kodho   kujjhanā   kujjhitattaṃ   doso   dussanā   dussitattaṃ   byāpatti   byāpajjanā   byāpajjitattaṃ   virodho   paṭivirodho   caṇḍikkaṃ   asuropo   anattamanatā   cittassa   ayaṃ   vuccati   doso
-\glb    Therein   What   hatred   harm   --   harm   aversion   arises   harm   --   harm   aversion   arises   harm   --   harm   aversion   arises   --   --   --   harm   --   harm   --   harm   harm   aversion   arises   --   --   --   benefit   --   benefit   --   benefit   harm   aversion   arises   --   or   -   aversion   arises   that_which   such   --   aversion   --   --   --   --   --   --   hatred   --   --   --   --   --   --   --   --   hatred   --   --   --   --   --   --   --   --   --   --   --   This   is_called   hatred
+\glb    Therein   What   hatred   harm   --   harm   aversion   arises   harm   --   harm   aversion   arises   harm   --   harm   aversion   arises   --   --   --   harm   --   harm   --   harm   harm   aversion   arises   disliked   --   disliked   benefit   --   benefit   --   benefit   harm   aversion   arises   without_reason   or   -   aversion   arises   that_which   such   mental   aversion   opposition   aversion   opposition   anger   wrath   wrath   hatred   ill-will   ill-will   mental   ill-will   displeasure   anger   fury   fury   hatred   ill-will   ill-will   ill-will   ill-will   ill-will   opposition   opposition   fury   fury   displeasure   mental   This   is_called   hatred
 \ex     Therein, what is hatred? Ill-will arises concerning harm done to oneself or loved ones, or benefit to disliked ones, in the past, present, or future; or ill-will arises without reason. That which is such ill-will, aversion, opposition, anger, wrath, hatred, mental affliction, mental displeasure, fury, animosity, mental non-satisfaction. This is called hatred.
 ```
 
@@ -2040,7 +2040,7 @@ status: draft
 
 ```gloss
 \gla    Tattha   katamo   moho   Dukkhe   aññāṇaṃ   dukkhasamudaye   aññāṇaṃ   dukkhanirodhe   aññāṇaṃ   dukkhanirodhagāminiyā   paṭipadāya   aññāṇaṃ   pubbante   aññāṇaṃ   aparante   aññāṇaṃ   pubbantāparante   aññāṇaṃ   idappaccayatā   paṭiccasamuppannesu   dhammesu   aññāṇaṃ   Yaṃ   evarūpaṃ   aññāṇaṃ   adassanaṃ   anabhisamayo   ananubodho   asambodho   appaṭivedho   asaṃgāhanā   apariyogāhanā   asamapekkhanā   apaccavekkhaṇā   apaccakkhakammaṃ   dummejjhaṃ   bālyaṃ   asampajaññaṃ   moho   pamoho   sammoho   avijjā   avijjogho   avijjāyogo   avijjānusayo   avijjāpariyuṭṭhānaṃ   avijjālaṅgī   moho   akusalamūlaṃ   ayaṃ   vuccati   moho
-\glb    Therein   What   delusion   suffering   ignorance   origin_of_suffering   ignorance   cessation_of_suffering   ignorance   cessation   path   ignorance   past   ignorance   future   ignorance   past   ignorance   dependent_arising   dependent_arising   phenomena   ignorance   That   such   ignorance   --   --   --   --   --   --   --   --   --   --   --   --   --   delusion   --   --   --   --   --   --   --   --   delusion   unwholesome_root   This   is_called   delusion
+\glb    Therein   What   delusion   suffering   ignorance   origin_of_suffering   ignorance   cessation_of_suffering   ignorance   cessation   path   ignorance   past   ignorance   future   ignorance   past   ignorance   dependent_arising   dependent_arising   phenomena   ignorance   That   such   ignorance   non-seeing   ignorance   ignorance   ignorance   ignorance   non-comprehension   ignorance   --   ignorance   ignorance   ignorance   foolishness   --   delusion   delusion   confusion   ignorance   flood_of_ignorance   ignorance   ignorance   ignorance   ignorance   delusion   unwholesome_root   This   is_called   delusion
 \ex     Therein, what is delusion? Ignorance of suffering, its origin, its cessation, and the path to its cessation; ignorance of the past, future, both past and future; ignorance of dependent arising and dependently arisen phenomena. That which is such ignorance, non-seeing, non-comprehension, dullness, foolishness, delusion, utter delusion, confusion, ignorance, flood of ignorance, bond of ignorance, latent disposition of ignorance, defilement of ignorance, delusion, the unwholesome root. This is called delusion.
 ```
 
@@ -2056,7 +2056,7 @@ status: draft
 
 ```gloss
 \gla    Tattha   katamā   diṭṭhi   Sassato   lokoti   vā   asassato   lokoti   vā   antavā   lokoti   vā   anantavā   lokoti   vā   taṃ   jīvaṃ   taṃ   sarīranti   vā   aññaṃ   jīvaṃ   aññaṃ   sarīranti   vā   hoti   tathāgato   paraṃ   maraṇāti   vā   na   hoti   tathāgato   paraṃ   maraṇāti   vā   hoti   ca   na   ca   hoti   tathāgato   paraṃ   maraṇāti   vā   neva   hoti   na   na   hoti   tathāgato   paraṃ   maraṇāti   vāः   yā   evarūpā   diṭṭhi   diṭṭhigataṃ   diṭṭhigahanaṃ   diṭṭhikantāro   diṭṭhivisūkāyikaṃ   diṭṭhivipphanditaṃ   diṭṭhisaṃyojanaṃ   gāho   patiṭṭhāho   abhiniveso   parāmāso   kummaggo   micchāpatho   micchattaṃ   titthāyatanaṃ   vipariyāsaggāho   ayaṃ   vuccati   diṭṭhi   Sabbāpi   micchādiṭṭhi   diṭṭhi
-\glb    Therein   What   view   --   world   or   --   world   or   --   world   or   --   world   or   that   soul   that   --   or   different   soul   different   --   or   is   Tathāgata   after   death   or   not   is   Tathāgata   after   death   or   is   and   not   and   is   Tathāgata   after   death   or   neither   is   not   not   is   Tathāgata   after   death   --   that   such   view   view   thicket_of_views   wilderness_of_views   vacillation_of_views   --   fetter_of_views   grasping   --   adherence   adherence   wrong_path   wrong_path   wrongness   --   --   This   is_called   view   --   wrong_view   view
+\glb    Therein   What   view   eternal   world   or   not_eternal   world   or   finite   world   or   infinite   world   or   that   soul   that   body   or   different   soul   different   body   or   is   Tathāgata   after   death   or   not   is   Tathāgata   after   death   or   is   and   not   and   is   Tathāgata   after   death   or   neither   is   not   not   is   Tathāgata   after   death   --   that   such   view   view   thicket_of_views   wilderness_of_views   vacillation_of_views   --   fetter_of_views   grasping   adherence   adherence   adherence   wrong_path   wrong_path   wrongness   heretical_ground   perverted_grasping   This   is_called   view   All   wrong_view   view
 \ex     Therein, what is wrong view? The view: 'The world is eternal,' or 'The world is not eternal,' or 'The world is finite,' or 'The world is infinite'; 'The soul is the same as the body,' or 'The soul is different from the body'; 'A Tathāgata exists after death,' or 'A Tathāgata does not exist after death,' or 'A Tathāgata both exists and does not exist after death,' or 'A Tathāgata neither exists nor does not exist after death.' That which is such view, wrong view, thicket of views, wilderness of views, contortion of views, vacillation of views, fetter of views, grasping, adherence, dogmatic belief, misapprehension, wrong path, wrongness, heretical ground, perverted grasping. This is called wrong view. All wrong views are (called) view.
 ```
 
@@ -2064,7 +2064,7 @@ status: draft
 
 ```gloss
 \gla    Tattha   katamā   vicikicchā   Satthari   kaṅkhati   vicikicchati   dhamme   kaṅkhati   vicikicchati   saṅghe   kaṅkhati   vicikicchati   sikkhāya   kaṅkhati   vicikicchati   pubbante   kaṅkhati   vicikicchati   aparante   kaṅkhati   vicikicchati   pubbantāparante   kaṅkhati   vicikicchati   idappaccayatā   paṭiccasamuppannesu   dhammesu   kaṅkhati   vicikicchatiः   yā   evarūpā   kaṅkhā   kaṅkhāyanā   kaṅkhāyitattaṃ   vimati   vicikicchā   dveḷhakaṃ   dvedhāpatho   saṃsayo   anekaṃsaggāho   āsappanā   parisappanā   apariyogāhanā   thambhitattaṃ   cittassa   manovilekho   ayaṃ   vuccati   vicikicchā
-\glb    Therein   What   doubt   --   doubts   doubts   phenomena   doubts   doubts   --   doubts   doubts   --   doubts   doubts   past   doubts   doubts   future   doubts   doubts   past   doubts   doubts   dependent_arising   dependent_arising   phenomena   doubts   --   that   such   doubt   --   --   --   doubt   --   --   --   --   --   --   --   --   --   --   This   is_called   doubt
+\glb    Therein   What   doubt   Teacher   doubts   doubts   phenomena   doubts   doubts   Saṅgha   doubts   doubts   training   doubts   doubts   past   doubts   doubts   future   doubts   doubts   past   doubts   doubts   dependent_arising   dependent_arising   phenomena   doubts   --   that   such   doubt   wavering   wavering   perplexity   doubt   uncertainty   --   uncertainty   --   --   --   --   stiffness   mental   mental_defilement   This   is_called   doubt
 \ex     Therein, what is skeptical doubt? Doubts and is uncertain about the Teacher, the Dhamma, the Saṅgha, the training; about the past, future, both past and future; about dependent arising and dependently arisen phenomena. That which is such doubt, wavering, uncertainty, perplexity, indecision, two-pronged path, uncertainty, hesitation, mental stiffness, mental defilement. This is called skeptical doubt.
 ```
 
@@ -2088,7 +2088,7 @@ status: draft
 
 ```gloss
 \gla    Tattha   katamaṃ   ahirikaṃ   Yaṃ   na   hirīyati   hiriyitabbena   na   hirīyati   pāpakānaṃ   akusalānaṃ   dhammānaṃ   samāpattiyā   idaṃ   vuccati   ahirikaṃ
-\glb    Therein   what   shamelessness   That   not   --   --   not   --   evil   --   --   --   This   is_called   shamelessness
+\glb    Therein   what   shamelessness   That   not   --   --   not   --   evil   unwholesome   --   --   This   is_called   shamelessness
 \ex     Therein, what is shamelessness? That which is not being ashamed of what should be shameful, not being ashamed of committing evil, unwholesome actions. This is called shamelessness.
 ```
 
@@ -2096,7 +2096,7 @@ status: draft
 
 ```gloss
 \gla    Tattha   katamaṃ   anottappaṃ   Yaṃ   na   ottappati   ottappitabbena   na   ottappati   pāpakānaṃ   akusalānaṃ   dhammānaṃ   samāpattiyā   idaṃ   vuccati   anottappaṃ   Ime   dhammā   kilesā
-\glb    --   what   fearlessness_of_wrongdoing   --   not   dreading   what_should_be_dreaded   not   dreading   evil   --   phenomena   --   This   is_called   fearlessness_of_wrongdoing   these   phenomena   defilements
+\glb    --   what   fearlessness_of_wrongdoing   --   not   dreading   what_should_be_dreaded   not   dreading   evil   unwholesome   phenomena   --   This   is_called   fearlessness_of_wrongdoing   these   phenomena   defilements
 \ex     What is fearlessness of wrongdoing? Not dreading what should be dreaded, not dreading the committing of evil, unwholesome phenomena – this is called fearlessness of wrongdoing. These phenomena are defilements.
 ```
 
@@ -2112,7 +2112,7 @@ status: draft
 
 ```gloss
 \gla    Katame   dhammā   saṃkilesikā   Sāsavā   kusalākusalābyākatā   dhammā   kāmāvacarā   rūpāvacarā   arūpāvacarā   rūpakkhandho…pe…   viññāṇakkhandho   ime   dhammā   saṃkilesikā
-\glb    Which   phenomena   --   subject_to_taints   wholesome   phenomena   sense   fine-material   immaterial   --   consciousness_aggregate   these   phenomena   --
+\glb    Which   phenomena   conducive_to_defilement   subject_to_taints   wholesome   phenomena   sense   fine-material   immaterial   --   consciousness_aggregate   these   phenomena   conducive_to_defilement
 \ex     Which phenomena are conducive to defilement? Wholesome, unwholesome, and indeterminate phenomena subject to taints in the sense, fine-material, and immaterial spheres; the matter aggregate... up to the consciousness aggregate – these phenomena are conducive to defilement.
 ```
 
@@ -2128,7 +2128,7 @@ status: draft
 
 ```gloss
 \gla    Katame   dhammā   saṃkiliṭṭhā   Tīṇi   akusalamūlāni   lobho   doso   moho   tadekaṭṭhā   ca   kilesā   taṃsampayutto   vedanākkhandho…pe…   viññāṇakkhandho   taṃsamuṭṭhānaṃ   kāyakammaṃ   vacīkammaṃ   manokammaṃ   ime   dhammā   saṃkiliṭṭhā
-\glb    Which   phenomena   --   three   unwholesome_roots   greed   hatred   delusion   co-existent   and   defilements   associated_with_them   --   consciousness_aggregate   --   bodily_kamma   verbal_kamma   mental_kamma   these   phenomena   --
+\glb    Which   phenomena   defiled   three   unwholesome_roots   greed   hatred   delusion   co-existent   and   defilements   associated_with_them   --   consciousness_aggregate   --   bodily_kamma   verbal_kamma   mental_kamma   these   phenomena   defiled
 \ex     Which phenomena are actually defiled? The three unwholesome roots – greed, hatred, delusion; and defilements co-existent with them, the feeling aggregate... up to the consciousness aggregate associated with them, and bodily, verbal, and mental kamma originating from them – these phenomena are actually defiled.
 ```
 
@@ -2160,7 +2160,7 @@ status: draft
 
 ```gloss
 \gla    Katame   dhammā   kilesā   ceva   saṃkilesikā   ca   Teva   kilesā   kilesā   ceva   saṃkilesikā   ca
-\glb    Which   phenomena   defilements   both   --   and   --   defilements   defilements   both   --   and
+\glb    Which   phenomena   defilements   both   conducive_to_defilement   and   --   defilements   defilements   both   conducive_to_defilement   and
 \ex     Which phenomena are both defilements and conducive to defilement? Those very defilements are both defilements and conducive to defilement.
 ```
 
@@ -2168,7 +2168,7 @@ status: draft
 
 ```gloss
 \gla    Katame   dhammā   saṃkilesikā   ceva   no   ca   kilesā   Tehi   dhammehi   ye   dhammā   saṃkilesikā   te   dhamme   ṭhapetvā   avasesā   sāsavā   kusalākusalābyākatā   dhammā   kāmāvacarā   rūpāvacarā   arūpāvacarā   rūpakkhandho…pe…   viññāṇakkhandho   ime   dhammā   saṃkilesikā   ceva   no   ca   kilesā
-\glb    Which   phenomena   --   and   not   and   defilements   those   phenomena   which   phenomena   --   those   phenomena   excluding   remaining   --   wholesome   phenomena   sense-sphere   fine-material_sphere   immaterial_sphere   --   consciousness_aggregate   these   phenomena   --   and   not   and   defilements
+\glb    Which   phenomena   defiling   and   not   and   defilements   those   phenomena   which   phenomena   defiling   those   phenomena   excluding   remaining   --   wholesome   phenomena   sense-sphere   fine-material_sphere   immaterial_sphere   --   consciousness_aggregate   these   phenomena   defiling   and   not   and   defilements
 \ex     Which phenomena are defiling but not defilements? Excluding those phenomena that are defiling, the remaining taints-associated wholesome, unwholesome, and indeterminate phenomena in the sense sphere, fine-material sphere, and immaterial sphere; the aggregate of form... up to... the aggregate of consciousness – these phenomena are defiling but not defilements.
 ```
 
@@ -2176,7 +2176,7 @@ status: draft
 
 ```gloss
 \gla    Katame   dhammā   kilesā   ceva   saṃkiliṭṭhā   ca   Teva   kilesā   kilesā   ceva   saṃkiliṭṭhā   ca
-\glb    Which   phenomena   defilements   and   --   and   --   defilements   defilements   and   --   and
+\glb    Which   phenomena   defilements   and   defiled   and   --   defilements   defilements   and   defiled   and
 \ex     Which phenomena are defilements and are also defiled? The defilements themselves are defilements and are also defiled.
 ```
 
@@ -2184,7 +2184,7 @@ status: draft
 
 ```gloss
 \gla    Katame   dhammā   saṃkiliṭṭhā   ceva   no   ca   kilesā   Tehi   dhammehi   ye   dhammā   saṃkiliṭṭhā   te   dhamme   ṭhapetvā   vedanākkhandho…pe…   viññāṇakkhandho   ime   dhammā   saṃkiliṭṭhā   ceva   no   ca   kilesā
-\glb    Which   phenomena   --   --   not   --   defilements   those   phenomena   which   phenomena   --   those   phenomena   excluding   --   consciousness_aggregate   these   phenomena   --   --   not   --   defilements
+\glb    Which   phenomena   defiled   --   not   --   defilements   those   phenomena   which   phenomena   defiled   those   phenomena   excluding   --   consciousness_aggregate   these   phenomena   defiled   --   not   --   defilements
 \ex     Which phenomena are defiled but not defilements? Excluding those phenomena that are defiled, the aggregate of feeling... up to... the aggregate of consciousness – these phenomena are defiled but not defilements.
 ```
 
@@ -2208,7 +2208,7 @@ status: draft
 
 ```gloss
 \gla    Katame   dhammā   kilesavippayuttā   saṃkilesikā   Tehi   dhammehi   ye   dhammā   vippayuttā   sāsavā   kusalābyākatā   dhammā   kāmāvacarā   rūpāvacarā   arūpāvacarā   rūpakkhandho…pe…   viññāṇakkhandho   ime   dhammā   kilesavippayuttā   saṃkilesikā
-\glb    Which   phenomena   dissociated_from_defilements   --   those   phenomena   which   phenomena   dissociated   --   --   phenomena   sense-sphere   fine-material_sphere   immaterial_sphere   --   consciousness_aggregate   these   phenomena   dissociated_from_defilements   --
+\glb    Which   phenomena   dissociated_from_defilements   defiling   those   phenomena   which   phenomena   dissociated   --   --   phenomena   sense-sphere   fine-material_sphere   immaterial_sphere   --   consciousness_aggregate   these   phenomena   dissociated_from_defilements   defiling
 \ex     Which phenomena are dissociated from defilements but are defiling? Excluding those phenomena that are dissociated, the taints-associated wholesome and indeterminate phenomena in the sense sphere, fine-material sphere, and immaterial sphere; the aggregate of form... up to... the aggregate of consciousness – these phenomena are dissociated from defilements but are defiling.
 ```
 
@@ -2232,7 +2232,7 @@ status: draft
 
 ```gloss
 \gla    Tattha   katamā   sakkāyadiṭṭhi   Idha   assutavā   puthujjano   ariyānaṃ   adassāvī   ariyadhammassa   akovido   ariyadhamme   avinīto   sappurisānaṃ   adassāvī   sappurisadhammassa   akovido   sappurisadhamme   avinīto   rūpaṃ   attato   samanupassati   rūpavantaṃ   vā   attānaṃ   attani   vā   rūpaṃ   rūpasmiṃ   vā   attānaṃ   Vedanaṃ…pe…   saññaṃ…pe…   saṅkhāre…pe…   viññāṇaṃ   attato   samanupassati   viññāṇavantaṃ   vā   attānaṃ   attani   vā   viññāṇaṃ   viññāṇasmiṃ   vā   attānaṃ   Yā   evarūpā   diṭṭhi   diṭṭhigataṃ…pe…   vipariyāsaggāho   ayaṃ   vuccati   sakkāyadiṭṭhi
-\glb    Here   What   identity_view   Here   uninstructed   ordinary_person   noble_ones   not_seeing   Dhamma_of_noble_ones   unskilled   Dhamma_of_noble_ones   --   --   not_seeing   --   unskilled   --   --   form   self   perceives   --   or   self   self   or   form   --   or   self   --   --   --   consciousness   self   perceives   --   or   self   self   or   consciousness   --   or   self   what   such   view   --   --   This   is_called   identity_view
+\glb    Here   What   identity_view   Here   uninstructed   ordinary_person   noble_ones   not_seeing   Dhamma_of_noble_ones   unskilled   Dhamma_of_noble_ones   --   --   not_seeing   --   unskilled   --   --   form   self   perceives   --   or   self   self   or   form   --   or   self   --   --   --   consciousness   self   perceives   --   or   self   self   or   consciousness   --   or   self   what   such   view   --   perversion   This   is_called   identity_view
 \ex     What is identity view? Here, an uninstructed ordinary person, not seeing the noble ones, unskilled in the noble Dhamma, undisciplined in the noble Dhamma, not seeing the true persons, unskilled in the Dhamma of the true persons, undisciplined in the Dhamma of the true persons, perceives form as self, or self as possessing form, or form as in self, or self as in form. Feeling... perception... mental formations... consciousness as self, or self as possessing consciousness, or consciousness as in self, or self as in consciousness. Whatever such view, wrong view... up to... grasping of perversion – this is called identity view.
 ```
 
@@ -2240,7 +2240,7 @@ status: draft
 
 ```gloss
 \gla    Tattha   katamā   vicikicchā   Satthari   kaṅkhati   vicikicchati…pe…   thambhitattaṃ   cittassa   manovilekho   ayaṃ   vuccati   vicikicchā
-\glb    Among   What   doubt   --   --   --   --   mind   --   This   is_called   doubt
+\glb    Among   What   doubt   Teacher   --   --   stiffness_of_mind   mind   mental_defilement   This   is_called   doubt
 \ex     Among these, what is doubt? Wavering, doubting concerning the Teacher... stiffness of mind, mental defilement – this is called doubt.
 ```
 
@@ -2296,7 +2296,7 @@ status: draft
 
 ```gloss
 \gla    Tattha   katamā   vicikicchā   Satthari   kaṅkhati   vicikicchati…pe…   thambhitattaṃ   cittassa   manovilekho   ayaṃ   vuccati   vicikicchā
-\glb    Among   What   doubt   --   --   --   --   mind   --   This   is_called   doubt
+\glb    Among   What   doubt   Teacher   --   --   stiffness_of_mind   mind   mental_defilement   This   is_called   doubt
 \ex     Among these, what is doubt? Wavering, doubting concerning the Teacher... stiffness of mind, mental defilement – this is called doubt.
 ```
 
@@ -2432,7 +2432,7 @@ status: draft
 
 ```gloss
 \gla    Katame   dhammā   kāmāvacarā   Heṭṭhato   avicinirayaṃ   pariyantaṃ   karitvā   uparito   paranimmitavasavattī   deve   anto   karitvā   yaṃ   etasmiṃ   antare   etthāvacarā   ettha   pariyāpannā   khandhadhātu   āyatanā   rūpaṃ   vedanā   saññā   saṅkhārā   viññāṇaṃ   ime   dhammā   kāmāvacarā
-\glb    Which   phenomena   sense-sphere   --   --   --   --   --   --   --   --   --   --   --   --   --   --   --   --   --   matter   --   --   --   consciousness   these   phenomena   sense-sphere
+\glb    Which   phenomena   sense-sphere   --   --   --   --   --   --   --   --   --   which   --   --   --   --   --   --   --   matter   --   --   --   consciousness   these   phenomena   sense-sphere
 \ex     Which phenomena belong to the sense-sphere? Taking Avīci hell as the lower boundary, and the Paranimmita-vasavattī devas as the upper boundary, whatever aggregates, elements, and sense-bases are included within this range, namely matter, feeling, perception, formations, and consciousness – these phenomena belong to the sense-sphere.
 ```
 
@@ -2448,7 +2448,7 @@ status: draft
 
 ```gloss
 \gla    Katame   dhammā   rūpāvacarā   Heṭṭhato   brahmalokaṃ   pariyantaṃ   karitvā   uparito   akaniṭṭhe   deve   anto   karitvā   yaṃ   etasmiṃ   antare   etthāvacarā   ettha   pariyāpannā   samāpannassa   vā   upapannassa   vā   diṭṭhadhammasukhavihārissa   vā   cittacetasikā   dhammā   ime   dhammā   rūpāvacarā
-\glb    Which   phenomena   --   --   --   --   --   --   --   --   --   --   --   --   --   --   --   --   --   or   --   or   --   or   mental_factors   phenomena   these   phenomena   --
+\glb    Which   phenomena   --   --   --   --   --   --   --   --   --   --   which   --   --   --   --   --   --   or   --   or   --   or   mental_factors   phenomena   these   phenomena   --
 \ex     Which phenomena belong to the form-sphere? Taking the Brahma-world as the lower boundary, and the Akanittha devas as the upper boundary, whatever mental states and mental factors are included within this range, belonging to one who has attained, or one who has been reborn, or one who dwells in happiness in this very life – these phenomena belong to the form-sphere.
 ```
 
@@ -2464,7 +2464,7 @@ status: draft
 
 ```gloss
 \gla    Katame   dhammā   arūpāvacarā   Heṭṭhato   ākāsānañcāyatanupage   deve   pariyantaṃ   karitvā   uparito   nevasaññānāsaññāyatanupage   deve   anto   karitvā   yaṃ   etasmiṃ   antare   etthāvacarā   ettha   pariyāpannā   samāpannassa   vā   upapannassa   vā   diṭṭhadhammasukhavihārissa   vā   cittacetasikā   dhammā   ime   dhammā   arūpāvacarā
-\glb    Which   phenomena   --   --   --   --   --   --   --   --   --   --   --   --   --   --   --   --   --   --   or   --   or   --   or   mental_factors   phenomena   these   phenomena   --
+\glb    Which   phenomena   --   --   --   --   --   --   --   --   --   --   --   which   --   --   --   --   --   --   or   --   or   --   or   mental_factors   phenomena   these   phenomena   --
 \ex     Which phenomena belong to the formless-sphere? Taking the devas of the base of infinite space as the lower boundary, and the devas of the base of neither perception nor non-perception as the upper boundary, whatever mental states and mental factors are included within this range, belonging to one who has attained, or one who has been reborn, or one who dwells in happiness in this very life – these phenomena belong to the formless-sphere.
 ```
 
@@ -2680,7 +2680,7 @@ status: draft
 
 ```gloss
 \gla    Tattha   katamā   avijjā   Yaṃ   aññāṇaṃ   adassanaṃ…pe…   avijjālaṅgī   moho   akusalamūlaṃ   ayaṃ   vuccati   avijjā
-\glb    Therein   What   --   That   ignorance   --   --   delusion   unwholesome_root   This   is_called   --
+\glb    Therein   What   ignorance   That   ignorance   --   ignorance   delusion   unwholesome_root   This   is_called   ignorance
 \ex     Therein, what is ignorance? That which is not knowing, not seeing...pe... the fetter of ignorance, delusion, the root of unwholesome states – this is called ignorance.
 ```
 
@@ -2688,7 +2688,7 @@ status: draft
 
 ```gloss
 \gla    Tattha   katamā   bhavataṇhā   Yo   bhavesu   bhavachando…pe…   bhavajjhosānaṃ   ayaṃ   vuccati   bhavataṇhā
-\glb    Therein   What   --   that_which   --   --   --   This   is_called   --
+\glb    Therein   What   craving_for_existence   that_which   --   --   --   This   is_called   craving_for_existence
 \ex     Therein, what is craving for existence? That which is desire for existence in states of being...pe... clinging to existence – this is called craving for existence.
 ```
 
@@ -2696,7 +2696,7 @@ status: draft
 
 ```gloss
 \gla    Tattha   katamā   bhavadiṭṭhi   Bhavissati   attā   ca   loko   cāti   yā   evarūpā   diṭṭhi   diṭṭhigataṃ…pe…   vipariyāsaggāho   ayaṃ   vuccati   bhavadiṭṭhi
-\glb    there   What   --   --   self   and   world   --   what   such   view   --   --   This   is_called   --
+\glb    there   What   --   will_be   self   and   world   and   what   such   view   --   --   This   is_called   --
 \ex     Therein, what is view of existence? The view 'there will be a self and a world,' such a view, a wrong view...pe... a perverted grasp – this is called view of existence.
 ```
 
@@ -2704,7 +2704,7 @@ status: draft
 
 ```gloss
 \gla    Tattha   katamā   vibhavadiṭṭhi   Na   bhavissati   attā   ca   loko   cāti   yā   evarūpā   diṭṭhi   diṭṭhigataṃ…pe…   vipariyāsaggāho   ayaṃ   vuccati   vibhavadiṭṭhi
-\glb    there   What   --   --   --   self   and   world   --   what   such   view   --   --   This   is_called   --
+\glb    there   What   --   --   will_be   self   and   world   and   what   such   view   --   perverted_grasping   This   is_called   --
 \ex     What is the view of non-existence? The view, 'There will be no self and no world,' such a view, wrong view, perverted grasping – this is called the view of non-existence.
 ```
 
@@ -2712,7 +2712,7 @@ status: draft
 
 ```gloss
 \gla    Tattha   katamā   sassatadiṭṭhi   Sassato   attā   ca   loko   cāti   yā   evarūpā   diṭṭhi   diṭṭhigataṃ…pe…   vipariyāsaggāho   ayaṃ   vuccati   sassatadiṭṭhi
-\glb    --   What   --   --   self   and   world   --   what   such   view   --   --   This   is_called   --
+\glb    --   What   --   eternal   self   and   world   and   what   such   view   --   perverted_grasping   This   is_called   --
 \ex     What is the view of eternalism? The view, 'The self and the world are eternal,' such a view, wrong view, perverted grasping – this is called the view of eternalism.
 ```
 
@@ -2720,7 +2720,7 @@ status: draft
 
 ```gloss
 \gla    Tattha   katamā   ucchedadiṭṭhi   Ucchijjissati   attā   ca   loko   cāti   yā   evarūpā   diṭṭhi   diṭṭhigataṃ…pe…   vipariyāsaggāho   ayaṃ   vuccati   ucchedadiṭṭhi
-\glb    --   What   --   --   self   and   world   --   what   such   view   --   --   This   is_called   --
+\glb    --   What   --   --   self   and   world   and   what   such   view   --   perverted_grasping   This   is_called   --
 \ex     What is the view of annihilationism? The view, 'The self and the world will be annihilated,' such a view, wrong view, perverted grasping – this is called the view of annihilationism.
 ```
 
@@ -2728,7 +2728,7 @@ status: draft
 
 ```gloss
 \gla    Tattha   katamā   antavā   diṭṭhi   Antavā   attā   ca   loko   cāti   yā   evarūpā   diṭṭhi   diṭṭhigataṃ…pe…   vipariyāsaggāho   ayaṃ   vuccati   antavā   diṭṭhi
-\glb    --   What   --   view   --   self   and   world   --   what   such   view   --   --   This   is_called   --   view
+\glb    --   What   finite   view   finite   self   and   world   and   what   such   view   --   perverted_grasping   This   is_called   finite   view
 \ex     What is the view of finitude? The view, 'The self and the world are finite,' such a view, wrong view, perverted grasping – this is called the view of finitude.
 ```
 
@@ -2736,7 +2736,7 @@ status: draft
 
 ```gloss
 \gla    Tattha   katamā   anantavā   diṭṭhi   Anantavā   attā   ca   loko   cāti   yā   evarūpā   diṭṭhi   diṭṭhigataṃ…pe…   vipariyāsaggāho   ayaṃ   vuccati   anantavā   diṭṭhi
-\glb    --   What   --   view   --   self   and   world   --   what   such   view   --   --   This   is_called   --   view
+\glb    --   What   infinite   view   infinite   self   and   world   and   what   such   view   --   perverted_grasping   This   is_called   infinite   view
 \ex     What is the view of infinitude? The view, 'The self and the world are infinite,' such a view, wrong view, perverted grasping – this is called the view of infinitude.
 ```
 
@@ -2744,7 +2744,7 @@ status: draft
 
 ```gloss
 \gla    Tattha   katamā   pubbantānudiṭṭhi   Pubbantaṃ   ārabbha   yā   uppajjati   diṭṭhi   diṭṭhigataṃ…pe…   vipariyāsaggāho   ayaṃ   vuccati   pubbantānudiṭṭhi
-\glb    --   What   --   --   --   that   arises   view   --   --   This   is_called   --
+\glb    --   What   --   --   --   that   arises   view   --   perverted_grasping   This   is_called   --
 \ex     What is speculation about the past? The view that arises concerning the past, wrong view, perverted grasping – this is called speculation about the past.
 ```
 
@@ -2752,7 +2752,7 @@ status: draft
 
 ```gloss
 \gla    Tattha   katamā   aparantānudiṭṭhi   Aparantaṃ   ārabbha   yā   uppajjati   diṭṭhi   diṭṭhigataṃ…pe…   vipariyāsaggāho   ayaṃ   vuccati   aparantānudiṭṭhi
-\glb    --   What   --   --   --   that   arises   view   --   --   This   is_called   --
+\glb    --   What   --   --   --   that   arises   view   --   perverted_grasping   This   is_called   --
 \ex     What is speculation about the future? The view that arises concerning the future, wrong view, perverted grasping – this is called speculation about the future.
 ```
 
@@ -2760,7 +2760,7 @@ status: draft
 
 ```gloss
 \gla    Tattha   katamaṃ   ahirikaṃ   Yaṃ   na   hirīyati   hiriyitabbena   na   hirīyati   pāpakānaṃ   akusalānaṃ   dhammānaṃ   samāpattiyā   idaṃ   vuccati   ahirikaṃ
-\glb    --   what   shamelessness   That   not   --   --   not   --   evil   --   states   --   This   is_called   shamelessness
+\glb    --   what   shamelessness   That   not   --   --   not   --   evil   unwholesome   states   --   This   is_called   shamelessness
 \ex     What is shamelessness? That which is not ashamed of what should be ashamed of, is not ashamed of committing evil, unwholesome states – this is called shamelessness.
 ```
 
@@ -2768,7 +2768,7 @@ status: draft
 
 ```gloss
 \gla    Tattha   katamaṃ   anottappaṃ   Yaṃ   na   ottappati   ottappitabbena   na   ottappati   pāpakānaṃ   akusalānaṃ   dhammānaṃ   samāpattiyā   idaṃ   vuccati   anottappaṃ
-\glb    --   what   fearlessness_of_wrongdoing   That   not   --   --   not   --   evil   --   states   --   This   is_called   fearlessness_of_wrongdoing
+\glb    --   what   fearlessness_of_wrongdoing   That   not   --   --   not   --   evil   unwholesome   states   --   This   is_called   fearlessness_of_wrongdoing
 \ex     What is fearlessness of wrongdoing? That which is not afraid of what should be feared, is not afraid of committing evil, unwholesome states – this is called fearlessness of wrongdoing.
 ```
 
@@ -2776,7 +2776,7 @@ status: draft
 
 ```gloss
 \gla    Tattha   katamā   hirī   Yaṃ   hirīyati   hiriyitabbena   hirīyati   pāpakānaṃ   akusalānaṃ   dhammānaṃ   samāpattiyā   ayaṃ   vuccati   hirī
-\glb    --   What   --   That   --   --   --   evil   --   states   --   This   is_called   --
+\glb    --   What   --   That   --   --   --   evil   unwholesome   states   --   This   is_called   --
 \ex     What is moral shame? That which is ashamed of what should be ashamed of, is ashamed of committing evil, unwholesome states – this is called moral shame.
 ```
 
@@ -2784,7 +2784,7 @@ status: draft
 
 ```gloss
 \gla    Tattha   katamaṃ   ottappaṃ   Yaṃ   ottappati   ottappitabbena   ottappati   pāpakānaṃ   akusalānaṃ   dhammānaṃ   samāpattiyā   idaṃ   vuccati   ottappaṃ
-\glb    --   what   --   --   --   --   --   evil   --   phenomena   --   This   is_called   --
+\glb    --   what   --   --   --   --   --   evil   unwholesome   phenomena   --   This   is_called   --
 \ex     What is fear of wrongdoing? The fear of what should be feared, the fear of committing evil unwholesome phenomena – this is called fear of wrongdoing.
 ```
 
@@ -2928,7 +2928,7 @@ status: draft
 
 ```gloss
 \gla    Tattha   katamaṃ   soraccaṃ   Yo   kāyiko   avītikkamo   vācasiko   avītikkamo   kāyikavācasiko   avītikkamo   idaṃ   vuccati   soraccaṃ   Sabbopi   sīlasaṃvaro   soraccaṃ
-\glb    --   what   --   that_which   --   --   --   --   --   --   This   is_called   --   --   --   --
+\glb    --   what   --   that_which   --   non-transgression   --   non-transgression   --   non-transgression   This   is_called   --   --   --   --
 \ex     What is temperance in conduct? That which is bodily non-transgression, verbal non-transgression, bodily and verbal non-transgression—this is called temperance in conduct. All moral restraint is temperance in conduct.
 ```
 
@@ -2976,7 +2976,7 @@ status: draft
 
 ```gloss
 \gla    Tattha   katamā   bhojane   mattaññutā   Idhekacco   paṭisaṅkhā   yoniso   āhāraṃ   āhāreti   neva   davāya   na   madāya   na   maṇḍanāya   na   vibhūsanāya   yāvadeva   imassa   kāyassa   ṭhitiyā   yāpanāya   vihiṃsūparatiyā   brahmacariyānuggahāya   iti   purāṇañca   vedanaṃ   paṭihaṅkhāmi   navañca   vedanaṃ   na   uppādessāmi   yātrā   ca   me   bhavissati   anavajjatā   ca   phāsuvihāro   cāti   Yā   tattha   santuṭṭhitā   mattaññutā   paṭisaṅkhā   bhojane   ayaṃ   vuccati   bhojane   mattaññutā
-\glb    there   What   --   --   --   --   --   --   --   not   --   not   --   not   --   not   --   --   --   body   --   --   --   --   --   --   --   --   --   --   not   --   --   and   me   --   --   and   --   --   what   there   --   --   --   --   i   is_called   --   --
+\glb    there   What   --   --   --   --   --   --   --   not   --   not   --   not   --   not   --   --   --   body   --   --   --   --   --   --   --   --   --   --   not   --   --   and   me   will_be   --   and   --   and   what   there   --   --   --   --   i   is_called   --   --
 \ex     What is moderation in food? Here, some person, with reflection, skillfully takes food—not for sport, not for intoxication, not for adornment, not for beautification, but solely for the maintenance and continuance of this body, for the cessation of discomfort, for the support of the holy life. "Thus I will end old feelings and not produce new feelings, and there will be sustenance for me, blamelessness, and comfortable living." That satisfaction, moderation, reflection in food—this is called moderation in food.
 ```
 
@@ -2992,7 +2992,7 @@ status: draft
 
 ```gloss
 \gla    Tattha   katamaṃ   asampajaññaṃ   Yaṃ   aññāṇaṃ   adassanaṃ…pe…   avijjālaṅgī   moho   akusalamūlaṃ   idaṃ   vuccati   asampajaññaṃ
-\glb    --   what   --   That   ignorance   --   --   delusion   unwholesome_root   This   is_called   --
+\glb    --   what   lack_of_clear_comprehension   That   ignorance   --   ignorance   delusion   unwholesome_root   This   is_called   lack_of_clear_comprehension
 \ex     What is lack of clear comprehension? That which is ignorance, non-seeing, delusion, the root of unwholesome states—this is called lack of clear comprehension.
 ```
 
@@ -3088,7 +3088,7 @@ status: draft
 
 ```gloss
 \gla    Tattha   katamā   diṭṭhivipatti   Natthi   dinnaṃ   natthi   yiṭṭhaṃ   natthi   hutaṃ   natthi   sukatadukkaṭānaṃ   kammānaṃ   phalaṃ   vipāko   natthi   ayaṃ   loko   natthi   paro   loko   natthi   mātā   natthi   pitā   natthi   sattā   opapātikā   natthi   loke   samaṇabrāhmaṇā   sammaggatā   sammāpaṭipannā   ye   imañca   lokaṃ   parañca   lokaṃ   sayaṃ   abhiññā   sacchikatvā   pavedentītiः   yā   evarūpā   diṭṭhi   diṭṭhigataṃ…pe…   vipariyāsaggāho   ayaṃ   vuccati   diṭṭhivipatti   Sabbāpi   micchādiṭṭhi   diṭṭhivipatti
-\glb    there   What   --   no   --   no   --   no   --   no   --   --   --   a   no   This   world   no   --   world   no   --   no   --   no   beings   --   no   --   --   --   --   --   --   --   --   --   --   --   --   --   what   such   view   --   --   This   is_called   --   --   wrong_view   --
+\glb    there   What   --   no   giving   no   offering   no   sacrifice   no   --   --   fruit   a   no   This   world   no   --   world   no   mother   no   father   no   beings   --   no   --   --   --   --   --   --   --   --   --   --   --   --   --   what   such   view   --   --   This   is_called   --   All   wrong_view   --
 \ex     What is wrong view? There is no giving, no sacrifice, no offering; there is no fruit or result of good or evil deeds; there is no this world, nor the next; there is no mother, nor father; there are no spontaneously arisen beings; there are no recluses or brahmins in the world who have gone rightly, practiced rightly, who, having directly known and realized this world and the next by themselves, proclaim it. Such a view, wrong view...pe...perverted grasp. This is called wrong view. All wrong views are wrong view.
 ```
 
@@ -3096,7 +3096,7 @@ status: draft
 
 ```gloss
 \gla    Tattha   katamā   sīlasampadā   Yo   kāyiko   avītikkamo   vācasiko   avītikkamo   kāyikavācasiko   avītikkamo   ayaṃ   vuccati   sīlasampadā   Sabbopi   sīlasaṃvaro   sīlasampadā
-\glb    --   What   --   --   --   --   --   --   --   --   This   is_called   --   --   --   --
+\glb    --   What   --   --   --   non-transgression   --   non-transgression   --   non-transgression   This   is_called   --   --   --   --
 \ex     What is moral accomplishment? Bodily non-transgression, verbal non-transgression, or both bodily and verbal non-transgression. This is called moral accomplishment. All restraint in morality is moral accomplishment.
 ```
 
@@ -3104,7 +3104,7 @@ status: draft
 
 ```gloss
 \gla    Tattha   katamā   diṭṭhisampadā   Atthi   dinnaṃ   atthi   yiṭṭhaṃ   atthi   hutaṃ   atthi   sukatadukkaṭānaṃ   kammānaṃ   phalaṃ   vipāko   atthi   ayaṃ   loko   atthi   paro   loko   atthi   mātā   atthi   pitā   atthi   sattā   opapātikā   atthi   loke   samaṇabrāhmaṇā   sammaggatā   sammāpaṭipannā   ye   imañca   lokaṃ   parañca   lokaṃ   sayaṃ   abhiññā   sacchikatvā   pavedentītiः   yā   evarūpā   paññā   pajānanā…pe…   amoho   dhammavicayo   sammādiṭṭhi   ayaṃ   vuccati   diṭṭhisampadā   Sabbāpi   sammādiṭṭhi   diṭṭhisampadā
-\glb    there   What   --   is   --   is   --   is   --   is   --   --   --   --   is   This   world   is   --   world   is   --   is   --   is   beings   --   is   --   --   --   --   --   --   --   --   --   --   --   --   --   what   such   wisdom   --   non-delusion   investigation   right_view   This   is_called   --   --   right_view   --
+\glb    there   What   --   is   --   is   --   is   --   is   good_and_bad_actions   actions   fruit   --   is   This   world   is   other_world   world   is   mother   is   father   is   beings   --   is   --   --   --   --   --   --   --   --   --   --   --   --   --   what   such   wisdom   --   non-delusion   investigation   right_view   This   is_called   --   All   right_view   --
 \ex     What is accomplishment in view? There is what is given, offered, sacrificed; there is fruit and result of good and bad actions; there is this world, there is the other world; there is mother, there is father; there are spontaneously arisen beings; there are in the world ascetics and brahmins who are rightly gone and rightly practiced, who proclaim this world and the other world, having directly known and realized them themselves. Such wisdom, knowing... non-delusion, investigation of phenomena, right view – this is called accomplishment in view. All right view is accomplishment in view.
 ```
 
@@ -3112,7 +3112,7 @@ status: draft
 
 ```gloss
 \gla    Tattha   katamā   sīlavisuddhi   Yo   kāyiko   avītikkamo   vācasiko   avītikkamo   kāyikavācasiko   avītikkamo   ayaṃ   vuccati   sīlavisuddhi   Sabbopi   sīlasaṃvaro   sīlavisuddhi
-\glb    --   What   --   --   --   --   --   --   --   --   This   is_called   --   --   --   --
+\glb    --   What   --   --   --   non-transgression   --   non-transgression   --   non-transgression   This   is_called   --   --   --   --
 \ex     What is purity of virtue? Bodily non-transgression, verbal non-transgression, bodily and verbal non-transgression – this is called purity of virtue. All virtuous restraint is purity of virtue.
 ```
 
@@ -3152,7 +3152,7 @@ status: draft
 
 ```gloss
 \gla    Saṃviggassa   ca   yoniso   padhānanti   idha   bhikkhu   anuppannānaṃ   pāpakānaṃ   akusalānaṃ   dhammānaṃ   anuppādāya   chandaṃ   janeti   vāyamati   vīriyaṃ   ārabhati   cittaṃ   paggaṇhāti   padahati   uppannānaṃ   pāpakānaṃ   akusalānaṃ   dhammānaṃ   pahānāya   chandaṃ   janeti   vāyamati   vīriyaṃ   ārabhati   cittaṃ   paggaṇhāti   padahati   anuppannānaṃ   kusalānaṃ   dhammānaṃ   uppādāya   chandaṃ   janeti   vāyamati   vīriyaṃ   ārabhati   cittaṃ   paggaṇhāti   padahati   uppannānaṃ   kusalānaṃ   dhammānaṃ   ṭhitiyā   asammosāya   bhiyyobhāvāya   vepullāya   bhāvanāya   pāripūriyā   chandaṃ   janeti   vāyamati   vīriyaṃ   ārabhati   cittaṃ   paggaṇhāti   padahati
-\glb    --   and   --   --   --   --   --   evil   --   states   --   --   --   --   --   --   --   --   --   --   evil   --   states   a   --   --   --   --   --   --   --   --   --   --   states   --   --   --   --   --   --   --   --   --   --   --   states   --   --   --   --   development   --   --   --   --   --   --   --   --   --
+\glb    --   and   --   --   --   --   --   evil   unwholesome   states   --   --   --   --   --   --   --   --   --   --   evil   unwholesome   states   a   --   --   --   --   --   --   --   --   --   --   states   --   --   --   --   --   --   --   --   --   --   --   states   --   --   --   --   development   --   --   --   --   --   --   --   --   --
 \ex     Proper exertion for one who has a sense of urgency: Here, a practitioner arouses desire, strives, exerts energy, grasps the mind, and strives for the non-arising of unarisen evil, unwholesome states; for the abandoning of arisen evil, unwholesome states; for the arising of unarisen wholesome states; for the maintenance, non-forgetting, increase, development, cultivation, and perfection of arisen wholesome states.
 ```
 
