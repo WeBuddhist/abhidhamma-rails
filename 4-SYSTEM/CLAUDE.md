@@ -2,6 +2,20 @@
 
 Persistent operational instructions for an LLM agent working in this vault. Read before touching any file.
 
+---
+
+## ⚑ Before doing anything — check for a skill first
+
+**This is the single most important rule in this file.**
+
+1. Open `4-SYSTEM/Skills/SKILLS-CATALOG.md` and scan for a skill that matches the task.
+2. If a match exists, open its `SKILL.md` in full and follow the execution steps exactly — do not improvise.
+3. Only if no skill exists should you proceed using the general rules below.
+
+Skipping this step is the most common agent error in this vault. The skills exist precisely to ensure consistency and correct citation format. A task done without its skill must be redone.
+
+---
+
 This file is the **operational quick-reference**. The canonical rules for each folder live in that folder's README:
 
 - [`../1-SOURCES/About Sources.md`](../1-SOURCES/About Sources.md) — sources rules in full
@@ -206,7 +220,7 @@ Three top-level categories, each a top-level subfolder:
 
 - **`Translations/`** — language-by-language translations. Each track has `requirements.md` + `termbase.md` + `audience.md` + the generated translation file(s).
 - **`Adaptations/`** — audience-targeted retellings (children's versions, scholarly summaries, sermon cycles). Each track has `requirements.md`, `audience.md`, and optionally `termbase.md`.
-- **`Plans/`** — calendar-driven study/practice arcs (daily readings, retreat sessions, course schedules). Each plan is language-stratified: one subfolder per published language, each containing `requirements.md`, `termbase.md`, `schedule.md`, `days/`, `communications/`, and `assets/`. The plan root holds only `About <plan-name>.md`. The active plan is `Plans/Daily-Tipitaka/`.
+- **`Plans/`** — calendar-driven study/practice arcs (daily readings, retreat sessions, course schedules). Each plan is language-stratified: one subfolder per published language, each containing `requirements.md`, `termbase.md`, `schedule.md`, `days/`, `communication/`, and `assets/`. The plan root holds only `About <plan-name>.md`. The active plan is `Plans/Daily-Tipitaka/`.
 
 **Translation / Adaptation contracts:**
 
@@ -252,4 +266,43 @@ Full rules in [`../3-TRANSFORMATIONS/About Transformations.md`](../3-TRANSFORMAT
 **Lint a rails file**
 - Any field in `2-RAILS/` without a `1-SOURCES/` citation → mark `status: draft`.
 - Any ⚑ flag without a Divergences entry → add one.
-- Any sens
+- Any sense ID in `2-RAILS/` that has no corresponding local-wiki page → create one.
+
+---
+
+## 12. Skills — always check before starting work
+
+**Before beginning any vault task, check whether a skill already exists for it.**
+
+Skills are reusable, step-by-step procedures stored in `4-SYSTEM/Skills/`. Each skill has its own subfolder containing a `SKILL.md` that specifies exactly how to execute that operation. Following the skill ensures consistency and correct citation format across all vault files.
+
+### Where to look
+
+1. **Catalog first:** `4-SYSTEM/Skills/SKILLS-CATALOG.md` — lists every skill, its purpose, inputs, outputs, and a link to its `SKILL.md`.
+2. **Skill folder:** `4-SYSTEM/Skills/<skill-name>/SKILL.md` — the full execution instructions for a specific skill.
+
+### How to use a skill
+
+1. Read `4-SYSTEM/Skills/SKILLS-CATALOG.md` to find the skill that matches the task.
+2. Open and read the relevant `SKILL.md` in full before touching any vault file.
+3. Follow the execution steps in the `SKILL.md` exactly — do not improvise the format.
+4. If no skill exists for the task, proceed using the general rules in this file, and flag to the human contributor that a new skill may be worth writing.
+
+### Key skills and when to use them
+
+| Task | Skill |
+|------|-------|
+| Add aṭṭhakathā summaries to `2-RAILS/Sections/` | `atthakatha-summaries` |
+| Generate per-commentary raw section summary | `section-summary-raw` |
+| Combine raw summaries into one section file | `section-summary-combined` |
+| Build a verse context package | `verse-context` |
+| Create a local-wiki article | `local-wiki-article` |
+| Add or regenerate a TOC | `add-toc` |
+| Build an interlinear gloss | `interlinear-gloss` |
+| Extract a raw bilingual glossary | `glossary-extract-raw` |
+| Combine glossary files | `glossary-combine` |
+| Ingest EPUB as markdown | `epub-to-markdown` |
+| Ingest tipitaka.org JSON (root text) | `json-to-source-text` |
+| Ingest tipitaka.org JSON (commentary) | `json-to-commentary` |
+| Create a new skill (with full registration) | `create-skill` |
+| Audit vault integrity (weekly maintenance) | `vault-audit` |
