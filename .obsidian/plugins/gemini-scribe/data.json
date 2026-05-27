@@ -1,15 +1,15 @@
 {
   "provider": "gemini",
   "ollamaBaseUrl": "http://localhost:11434",
-  "apiKeySecretName": "drong",
+  "apiKeySecretName": "",
   "chatModelName": "gemini-flash-latest",
   "summaryModelName": "gemini-flash-latest",
-  "completionsModelName": "gemini-flash-latest",
+  "completionsModelName": "gemini-flash-lite-latest",
   "imageModelName": "gemini-2.5-flash-image",
   "summaryFrontmatterKey": "summary",
   "userName": "User",
   "chatHistory": false,
-  "historyFolder": "4-SYSTEM/gemini-scribe",
+  "historyFolder": "gemini-scribe",
   "debugMode": false,
   "fileLogging": false,
   "maxRetries": 3,
@@ -139,6 +139,6 @@
         "maxTemperature": 2
       }
     ],
-    "timestamp": 1779846285709
+    "timestamp": 1779850492338
   }
 }
