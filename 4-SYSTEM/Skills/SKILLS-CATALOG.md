@@ -159,6 +159,18 @@ These skills populate `2-RAILS/` with the structured context that translation an
 
 ---
 
+## Plan skills
+
+Skills that compose calendar-driven study/practice arcs under `3-TRANSFORMATIONS/Plans/`. They draw from the same rails as the translation skills, but produce per-session day files rather than continuous translations.
+
+### `daily-tipitaka-day` **[exists]**
+**Purpose:** Compose one or more Daily Tipitaka per-language day files end-to-end — gather assets first, halt on missing assets, then write the seven-step day file.
+**Inputs:** A day-range (e.g. `7-11`) and a language-tag (e.g. `en`); the plan's `schedule.md`, `requirements.md`, and day template; the relevant book under `1-SOURCES/Text/`; the matching `2-RAILS/Sections/<book>-summaries.md` and `<book>-practice.md`.
+**Outputs:** Per-day assets scratchpads at `0-INBOX/daily-tipitaka/day-NNN-assets.md` and per-day published files at `3-TRANSFORMATIONS/Plans/Daily-Tipitaka/<lang>/days/day-NNN.md`.
+→ [`daily-tipitaka-day/SKILL.md`](daily-tipitaka-day/SKILL.md)
+
+---
+
 ## Utility skills
 
 ### `source-property-extractor` **[exists]**
