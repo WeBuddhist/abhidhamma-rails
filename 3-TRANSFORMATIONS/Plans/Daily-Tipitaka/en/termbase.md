@@ -18,7 +18,7 @@ A term lands here once it has appeared (or will appear) in at least one publishe
 
 ## Term table
 
-<<<<<<< HEAD
+
 | Pāli       | English (Contemporary)                                                          | Tibetan | Chinese | Hindi | Bilingual Glossary / Sense                   | Status |
 | ---------- | ------------------------------------------------------------------------------- | ------- | ------- | ----- | -------------------------------------------- | ------ |
 | dhamma     | _phenomenon_ (in technical Abhidhamma contexts)                                 |         |         |       | `2-RAILS/Local-Wiki/dhamma (phenomenon).md`  | draft  |
@@ -32,9 +32,8 @@ A term lands here once it has appeared (or will appear) in at least one publishe
 | sampayutta | _associated with_                                                               |         |         |       |                                              | draft  |
 | vippayutta | _dissociated from_                                                              |         |         |       |                                              | draft  |
 | -gocchaka  | _cluster_ (as in Knot-cluster, Flood-cluster)                                   |         |         |       |                                              | draft  |
-=======
+
 Alphabetical by Pāli lemma. New rows are appended by the `daily-tipitaka-day` skill on every run (see SKILL.md Phase 2 step 10). `draft` rows have a rendering and a source but have not yet been reviewer-confirmed; `candidate` rows are skill-invented and need reviewer confirmation; `complete` rows are locked and require a cascading rewrite to change.
->>>>>>> origin/main
 
 | Pāli           | English (Contemporary)                                                                     | Tibetan | Chinese | Hindi | Bilingual Glossary / Sense                                                                                                                 | Status    |
 | -------------- | ------------------------------------------------------------------------------------------ | ------- | ------- | ----- | ------------------------------------------------------------------------------------------------------------------------------------------ | --------- |
