@@ -106,6 +106,7 @@
         - [[#Ekakaniddeso]] ^toc-3-3-1
         - [[#Dukaniddeso]] ^toc-3-3-2
         - [[#Upādābhājanīyaṃ]] ^toc-3-3-3
+        - [[#Tikaniddeso]] ^toc-3-3-3b
         - [[#Catukkaṃ (Vibhatti)]] ^toc-3-3-4
         - [[#Pañcakaṃ (Vibhatti)]] ^toc-3-3-5
         - [[#Chakkaṃ (Vibhatti)]] ^toc-3-3-6
@@ -871,258 +872,563 @@ Idāni kiriyābyākataṃ bhājetvā dassetuṃ puna katame dhammā abyākatāti
 
 [[#^toc-2-10-1|↑↑↑]]
 
+Kiriyamanodhātucittaṃ pañcadvāre vaḷañjanakappavattikāle sabbesaṃ sacittakasattānaṃ āvajjanavasena purecārikaṃ hutvā bhavaṅgaṃ āvaṭṭayamānaṃ uppajjati. Taṃ vipākamanodhātuniddese vuttanayeneva veditabbaṃ, aññatra uppattiṭṭhānā – tañhi pañcaviññāṇānantaraṃ na uppajjati, idaṃ pana pañcadvāre cakkhudvārādīsu ghaṭṭite ārammaṇaṃ gahetvā āvajjanavasena sabbesaṃ pure uppajjatīti. Cittassekaggatāniddese imasmiṃ citte dubbalattā saṇṭhiti avaṭṭhitiādīni na labbhanti, pavattiṭṭhitimattameva labbhatīti.
+
+[[1-SOURCES/Commentaries/pi-dhammasangani-atthakatha#^1-1487]]
+[[1-SOURCES/Commentaries/pi-dhammasangani-atthakatha#^1-1488]]
+[[1-SOURCES/Commentaries/pi-dhammasangani-atthakatha#^1-1489]]
+
 #### Kiriyāmanoviññāṇadhātusomanassasahagatā
 
 [[#^toc-2-10-2|↑↑↑]]
+
+Kiriyamanoviññāṇadhātucittaṃ somanassasahagatā aññesaṃ asādhāraṇaṃ, khīṇāsavasseva pāṭipuggalikaṃ, chasu dvāresu labbhati. Cakkhudvāre padhānasāruppaṃ ṭhānaṃ disvā khīṇāsavo iminā cittena somanassito hoti; sotādidvāresupi nānānayehi somanasso hoti. Manodvāre pana atītānāgatamārabbha uppajjati – tathāgato pubbenivāsañāṇaanāgataṃsañāṇānaṃ ciṇṇapariyante iminā cittena somanassito sitaṃ pātvākāsīti. Niddesavāre panassa sesaahetukacittehi balavataratāya cittekaggatā samādhibalaṃ pāpetvā ṭhapitā, vīriyampi vīriyabalaṃ pāpetvāti.
+
+[[1-SOURCES/Commentaries/pi-dhammasangani-atthakatha#^1-1490]]
+[[1-SOURCES/Commentaries/pi-dhammasangani-atthakatha#^1-1491]]
+[[1-SOURCES/Commentaries/pi-dhammasangani-atthakatha#^1-1492]]
 
 #### Kiriyāmanoviññāṇadhātuupekkhāsahagatā
 
 [[#^toc-2-10-3|↑↑↑]]
 
+Kiriyamanoviññāṇadhātu upekkhāsahagatā tīsu bhavesu sabbesaṃ sacittakasattānaṃ sādhāraṇaṃ, na kassaci sacittakassa nuppajjati nāma. Uppajjamānaṃ pana pañcadvāre voṭṭhabbanaṃ hoti, manodvāre āvajjanaṃ. Imassa anārammaṇaṃ nāma natthi – mahāgajaṃ nāmetaṃ cittaṃ; cha asādhāraṇañāṇānipi iminā gahitārammaṇameva gaṇhanti. Kevalañhi tattha sappītikattā navaṅgiko saṅkhārakkhandho vibhatto, idha nippītikattā aṭṭhaṅgikoti viseso.
+
+[[1-SOURCES/Commentaries/pi-dhammasangani-atthakatha#^1-1493]]
+
 #### Sahetukakāmāvacarakiriyā
 
 [[#^toc-2-10-4|↑↑↑]]
+
+Yāni kusalato aṭṭha mahācittāneva khīṇāsavassa uppajjanatāya kiriyāni jātāni, tasmā tāni kusalaniddese vuttanayeneva veditabbāni. Hasanakacittāni samodhānetvā vicintiyamānāni terasa honti – puthujjanā kusalakusalacittehi aṭṭhahi cittehi hasanti; sekkhā kusalakusalacittehi chahi; khīṇāsavā kiriyato pañcahi somanassasahagatehi hasantīti.
+
+[[1-SOURCES/Commentaries/pi-dhammasangani-atthakatha#^1-1494]]
+[[1-SOURCES/Commentaries/pi-dhammasangani-atthakatha#^1-1495]]
 
 #### Rūpāvacarakiriyā
 
 [[#^toc-2-10-5|↑↑↑]]
 
+Rūpāvacarakiriyāniddese diṭṭhadhammasukhavihāranti diṭṭhadhamme imasmiṃyeva attabhāve sukhavihāramattaṃ. Khīṇāsavassa puthujjanakāle nibbattitā samāpatti yāva na naṃ samāpajjati tāva kusalāva hoti, samāpannakāle kiriyā hoti. Khīṇāsavakāle panassa nibbattitā samāpatti kiriyāva hoti. Sesaṃ sabbaṃ taṃsadisattā kusalaniddese vuttanayeneva veditabbaṃ.
+
+[[1-SOURCES/Commentaries/pi-dhammasangani-atthakatha#^1-1496]]
+
 #### Arūpāvacarakiriyā
 
 [[#^toc-2-10-6|↑↑↑]]
+
+Arūpāvacarakiriyāniddesesupi diṭṭhadhammasukhavihāranti imasmiṃyeva attabhāve sukhavihāramattaṃ. Rūpāvacarakiriyāya samānagatikā esā – khīṇāsavakāle nibbattitā arūpajhānasamāpatti kiriyāva hoti, na kusalā. Sesaṃ sabbaṃ taṃsadisattā kusalaniddese vuttanayeneva veditabbaṃ. Imasmiṃ niddese Aṭṭhasāliniyā cittuppādakaṇḍakathā niṭṭhitāti ca vuttaṃ.
+
+[[1-SOURCES/Commentaries/pi-dhammasangani-atthakatha#^1-1496]]
 
 ## Rūpakaṇḍaṃ
 
 [[#^toc-3|↑↑↑]]
 
+Rūpakaṇḍaṃ heṭṭhā cittuppādakaṇḍe vipākābyākatañceva kiriyābyākatañca nissesaṃ katvā bhājitā; rūpābyākatanibbānābyākatāni pana akathitāni. Tāni kathetuṃ catubbidhampi abyākataṃ samodhānetvā dassento kusalākusalānaṃ dhammānaṃ vipākātiādimāha. Sabbañca rūpaṃ asaṅkhatā ca dhātūti āha – tattha sabbañca rūpantipadena pañcavīsati rūpāni channavutirūpakoṭṭhāsā nippadesato gahitā, asaṅkhatā ca dhātūti padena nibbānaṃ nippadesato gahitanti. Idāni taṃ ekakadukatikacatukka…pe…ekādasakavasena vitthārato bhājetvā dassetuṃ idaṃ rūpakaṇḍaṃ āraddhanti.
+
+[[1-SOURCES/Commentaries/pi-dhammasangani-atthakatha#^1-1501]]
+[[1-SOURCES/Commentaries/pi-dhammasangani-atthakatha#^1-1502]]
+
 ### Uddeso
 
 [[#^toc-3-1|↑↑↑]]
+
+Rūpakaṇḍassa uddesavaṇṇanāyaṃ vipākābyākataṃ kusalākusalavasena bhūmantaravasena sampayuttakkhandhavasenāti tīhi nayehi pariyādāya dassetvā, puna kiriyābyākataṃ dassento ye ca dhammā kiriyātiādimāha. Avibhattaṃ dassento sabbañca rūpaṃ asaṅkhatā ca dhātūti āha. Tattha sabbañca rūpanti padena pañcavīsatirūpāni channavutirūpakoṭṭhāsā gahitāti veditabbā. Cattāro ca mahābhūtā catunnañca mahābhūtānaṃ upādāya rūpanti sattavīsatippabhedaṃ sabbaṃ rūpaṃ nāmāti dassetvā ekakadukatikādibhedena mātikaṃ ṭhapetvā vitthārato dassetuṃ mahābhūtānaṃ mahantapātubhāvādīhi kāraṇehi mahābhūtatā vavatthāpitā.
+
+[[1-SOURCES/Commentaries/pi-dhammasangani-atthakatha#^1-1501]]
+[[1-SOURCES/Commentaries/pi-dhammasangani-atthakatha#^1-1536]]
 
 ### Mātikā (Rūpa)
 
 [[#^toc-3-2|↑↑↑]]
 
+Rūpamātikā ekakadukatikādibhedena mātikaṃ ṭhapetvā vitthārato dassetuṃ āraddhā. Tattha ekavidhasaṅgahato ārabhibbā ekādasavidhasaṅgahānaṃ vasena sabbānipi rūpāni catubbidhāneva honti – mahābhūtāni ca upādārūpāni ca, sattavīsatippabhedena. Pāḷivavatthānaṃ ekakadukatikādīsu sabbattha asammissā ekekasaṅgahā honti. Idaṃ mātikāpadaṃ vitthārato bhājetvā dassetuṃ ekavidhasaṅgahato ārabhya ekādasavidhasaṅgahaparyosānena ṭhapitaṃ rūpasaṅgahānaṃ mātikaṃ nāmāti.
+
+[[1-SOURCES/Commentaries/pi-dhammasangani-atthakatha#^1-1537]]
+[[1-SOURCES/Commentaries/pi-dhammasangani-atthakatha#^1-1538]]
+
 #### Ekakaṃ
 
 [[#^toc-3-2-1|↑↑↑]]
+
+Ekavidharūpasaṅgaho sabbaṃ rūpaṃ na hetumevātiādinā nayena dassito. Tattha 'sabbaṃ rūpa'nti idaṃ padaṃ sabbapadehi saddhiṃ yojetabbaṃ – 'sabbaṃ rūpaṃ na hetu' 'sabbaṃ rūpaṃ ahetuka'nti evaṃ. Sabbāneva cetāni 'na hetū'tiādīni tecattālīsapadāni uddiṭṭhāni. Tesu paṭipāṭiyā cattālīsapadāni mātikato gahetvā ṭhapitāni, avasāne tīṇi mātikāmuttakānīti ekavidhasaṅgahassa pāḷivavatthānaṃ.
+
+[[1-SOURCES/Commentaries/pi-dhammasangani-atthakatha#^1-1538]]
+[[1-SOURCES/Commentaries/pi-dhammasangani-atthakatha#^1-1539]]
 
 #### Dukaṃ
 
 [[#^toc-3-2-2|↑↑↑]]
 
+Duvidharūpasaṅgahe sataṃ cattāro ca dukā honti. Tattha ādimhi cuddasa pakiṇṇakadukā, tato pañcavīsati vatthudukā, pañcavīsati ārammaṇadukā, dasa āyatanadukā, dasa dhātudukā, aṭṭha indriyadukā, dvādasa sukhumarūpadukāti – evaṃ aññamaññasambandhābhāvato vatthvārammaṇāyatanadhātuindriyasukhumarūpaupaparikkhaṇavasena pavattattā nānābhedehi yojetvā sataṃ cattāro ca dukā ṭhapitāti dutiyasaṅgahassa pāḷivavatthānaṃ.
+
+[[1-SOURCES/Commentaries/pi-dhammasangani-atthakatha#^1-1540]]
+
 #### Tikaṃ
 
 [[#^toc-3-2-3|↑↑↑]]
+
+Tividharūpasaṅgahe sataṃ tīṇi ca tikāni honti. Tattha dutiyasaṅgahe vuttesu cuddasasu pakiṇṇakadukesu ekaṃ ajjhattikadukaṃ sesehi terasahi yojetvā terasa pakiṇṇakatikā nāma ṭhapitā. Tameva dukaṃ sesadukehi saddhiṃ yojetvā sesatikā ṭhapitā. Tesaṃ nāmañca gaṇanā ca tesaṃyeva vatthudukādīnaṃ vasena veditabbāti tatiyasaṅgahassa pāḷivavatthānaṃ.
+
+[[1-SOURCES/Commentaries/pi-dhammasangani-atthakatha#^1-1541]]
 
 #### Catukkaṃ
 
 [[#^toc-3-2-4|↑↑↑]]
 
+Catutthādirūpasaṅgahānaṃ vivaraṇe catutthasaṅgahe dvāvīsati catukkā honti. Tattha sabbapacchimo 'atthi rūpaṃ upādā atthi rūpaṃ noupādā'ti evaṃ vuttaṃ mātikaṃ anāmasitvā ṭhapito. Itare pana āmasitvā ṭhapitā. Pañcadasa catukkā dukattayamūlakā ādimhi, cha catukkā sappaṭighadukādīhi yojanāya vuttā. Yo yo nayo saddhiṃ yogaṃ na gacchati, tassa atthābhāvato kamābhāvato visesābhāvato vā yogaṃ na gacchati. Ito pare panca- chakkādinava saṅgahā asammissā eva honti.
+
+[[1-SOURCES/Commentaries/pi-dhammasangani-atthakatha#^1-1542]]
+[[1-SOURCES/Commentaries/pi-dhammasangani-atthakatha#^1-1544]]
+
 #### Pañcakaṃ
 
 [[#^toc-3-2-5|↑↑↑]]
+
+Pañcavidhādirūpasaṅgahā catutthasaṅgahato paṭṭhāya pañcamādinava saṅgahā asammissā eva honti. Tattha pañcamo saṅgaho, chaṭṭhakādi ekādasamo paryosānā, sabbeti saṅgahā āsammissā hontīti vuttaṃ. Evaṃ sakalāyapi rūpamātikāya pāḷivavatthānaṃ veditabbaṃ.
+
+[[1-SOURCES/Commentaries/pi-dhammasangani-atthakatha#^1-1544]]
 
 #### Chakkaṃ
 
 [[#^toc-3-2-6|↑↑↑]]
 
+Chakkavidharūpasaṅgaho asammissova hoti. Chabbidhādisaṅgahānaṃ tiṇṇaṃ osānapadassa bhedābhāvato ādito paṭṭhāya apucchitvāva niddeso kato hoti – cakkhuviññāṇena jānituṃ sakkāti cakkhuviññeyyaṃ, pe, manoviññāṇena jānituṃ sakkāti manoviññeyyaṃ, tividhāya manodhātuyā jānituṃ sakkāti manodhātuviññeyyaṃ sabbaṃ rūpanti. Yasmā ekaṃ rūpampi manoviññāṇadhātuyā ajānitabbaṃ nāma natthi, tasmā 'sabbaṃ rūpa'nti vuttaṃ.
+
+[[1-SOURCES/Commentaries/pi-dhammasangani-atthakatha#^1-1544]]
+
 #### Sattakaṃ
 
 [[#^toc-3-2-7|↑↑↑]]
+
+Sattavidhārūpasaṅgaho asammissova hoti. Ito pare pana satta- aṭṭhaka- navaka- dasaka- ekādasakasaṅgahā ca sabbeva asammissā honti. Evaṃ sakalāyapi rūpamātikāya pāḷivavatthānaṃ catutthasaṅgahato paṭṭhāya asammissasaṅgahānaṃ vasena veditabbaṃ.
+
+[[1-SOURCES/Commentaries/pi-dhammasangani-atthakatha#^1-1544]]
 
 #### Aṭṭhakaṃ
 
 [[#^toc-3-2-8|↑↑↑]]
 
+Aṭṭhavidhārūpasaṅgaho asammissova hoti, catutthasaṅgahato paṭṭhāya sabbeva asammissā honti. Ito paresu navaka- dasaka- ekādasakasaṅgahāsupi eseva nayo. Evaṃ sakalāyapi rūpamātikāya pāḷivavatthānaṃ veditabbanti ācariyā vadanti.
+
+[[1-SOURCES/Commentaries/pi-dhammasangani-atthakatha#^1-1544]]
+
 #### Navakaṃ
 
 [[#^toc-3-2-9|↑↑↑]]
+
+Navavidhārūpasaṅgaho asammissova hoti. Navake indriyarūpassa nāma atthitāya nayo dinno. Tasseva sappaṭighaappaṭighatāya dasake nayo dinno. Ekādasake aḍḍhekādasa āyatanāni vibhattāni. Tesaṃ niddesavārā heṭṭhā vuttanayena vitthārato veditabbā.
+
+[[1-SOURCES/Commentaries/pi-dhammasangani-atthakatha#^1-1544]]
 
 #### Dasakaṃ
 
 [[#^toc-3-2-10|↑↑↑]]
 
+Dasavidhārūpasaṅgaho asammissova hoti. Navavidhasaṅgahe vuttanayeneva tasseva sappaṭighaappaṭighatāya dasake nayo dinno. Ekādasake pana aḍḍhekādasa āyatanāni vibhattāni, sesaṃ sabbattha uttānatthameva. Evaṃ sakalāyapi rūpamātikāya pāḷivavatthānaṃ catutthasaṅgahato paṭṭhāya asammissasaṅgahānaṃ vasena veditabbaṃ.
+
+[[1-SOURCES/Commentaries/pi-dhammasangani-atthakatha#^1-1544]]
+
 #### Ekādasakaṃ
 
 [[#^toc-3-2-11|↑↑↑]]
+
+Ekādasavidhārūpasaṅgaho asammissova hoti. Tattha aḍḍhekādasa āyatanāni vibhattāni – rūpāyatanaṃ saddāyatanaṃ gandhāyatanaṃ rasāyatanaṃ phoṭṭhabbāyatananti pañca bāhirāyatanāni, cakkhāyatanaṃ sotāyatanaṃ ghānāyatanaṃ jivhāyatanaṃ kāyāyatananti pañca ajjhattikāyatanāni, dhammāyatananti ca. Tesaṃ niddesavārā heṭṭhā vuttanayena vitthārato veditabbāti.
+
+[[1-SOURCES/Commentaries/pi-dhammasangani-atthakatha#^1-1544]]
 
 ### Rūpavibhatti
 
 [[#^toc-3-3|↑↑↑]]
 
+Rūpavibhatti ekakadukatikādibhedena vitthārato bhājetvā dassetuṃ āraddhā. Tattha ekakaniddesavaṇṇanā sabbaṃ rūpaṃ na hetumevātiādinā nayena pāḷivavatthānaṃ dassetvā, dukaniddesavaṇṇanāyaṃ pucchāpubbaṅgamaṃ padabhājanaṃ dassesi dhammarājā. Upādābhājanīyakathā, tikaniddesavaṇṇanā, catukka- pañcaka- chakkādisaṅgahā ca yathānukkamena vibhattāti.
+
+[[1-SOURCES/Commentaries/pi-dhammasangani-atthakatha#^1-1545]]
+[[1-SOURCES/Commentaries/pi-dhammasangani-atthakatha#^1-1549]]
+
 #### Ekakaniddeso
 
 [[#^toc-3-3-1|↑↑↑]]
+
+Rūpavibhattiekakaniddesavaṇṇanāyaṃ sabbaṃ rūpaṃ na hetumevātiādi āraddhaṃ. Kasmā panettha pucchaṃ na katāti? Bhedābhāvato – yathā dukādīsu 'upādārūpa'mpi atthi 'noupādārūpa'mpi, evamidha hetu na hetūtipi sahetukamahetukanti bhedopi natthi. Tattha 'sabba'nti sakalaṃ niravasesaṃ; 'rūpa'nti sītādīhi ruppanabhāvadīpano sāmaññalakkhaṇaniddeso. 'Na hetumevā'ti sādhāraṇahetupaṭikkhepaniddeso. 'Vidhā'-saddo idhāpi koṭṭhāso adhippeto; ekakoṭṭhāsena rūpagaṇanāti ayañhettha attho.
+
+[[1-SOURCES/Commentaries/pi-dhammasangani-atthakatha#^1-1545]]
+[[1-SOURCES/Commentaries/pi-dhammasangani-atthakatha#^1-1548]]
 
 #### Dukaniddeso
 
 [[#^toc-3-3-2|↑↑↑]]
 
+Dukaniddesavaṇṇanāyaṃ duvidhasaṅgahādīsu bhedasabbhāvato pucchāpubbaṅgamaṃ padabhājanaṃ dassesi. Tattha upādiyatīti 'upādā' – mahābhūtāni gahetvā amuñcitvā tāni nissāya pavattatīti attho. Evaṃ tevīsatividhaṃ upādārūpaṃ saṅkhepato uddisitvā puna tadeva vitthārato niddisanto cakkhāyatanātiādimāha. Imasmiṃ panatthe pañcavidhaṃ paññācakkhuṃ, pasādacakkhu, sasambhāracakkhu iti nānābhedena cakkhassa lakkhaṇaṃ vibhatto, yena cakkhunā anidassanena sappaṭighena rūpaṃ sanidassanaṃ sappaṭighaṃ passatīti vavatthāpanā kātā.
+
+[[1-SOURCES/Commentaries/pi-dhammasangani-atthakatha#^1-1550]]
+[[1-SOURCES/Commentaries/pi-dhammasangani-atthakatha#^1-1558]]
+
 #### Upādābhājanīyaṃ
 
 [[#^toc-3-3-3|↑↑↑]]
+
+Upādābhājanīyakathāyaṃ upādārūpassa vitthārato vibhāgaṃ dassetvā catunnaṃ mahābhūtānaṃ upādāya rūpanti – cattāri mahābhūtāni upādāya nissāya amuñcitvā pavattarūpanti attho. Imasmiṃ panatthe pasādacakkhu catunnaṃ mahābhūtānaṃ upādāya pavattappasādo, diṭṭhimaṇḍale sattakkhipaṭalāni byāpetvā, dhāraṇanhāpanamaṇḍanabījanakiccāhi catūhi dhātīhi catūhi dhātūhi katūpakāraṃ, utucittāhārehi upatthambhiyamānaṃ tiṭṭhatīti vitthāritaṃ. Dassanalakkhaṇe cakkhundriyaṃ pati cuddasa nāmāni yojetvā cakkhāyatanassa cattāro vavatthāpananayā vuttā.
+
+[[1-SOURCES/Commentaries/pi-dhammasangani-atthakatha#^1-1550]]
+[[1-SOURCES/Commentaries/pi-dhammasangani-atthakatha#^1-1558]]
+
+#### Tikaniddeso
+
+[[#^toc-3-3-3b|↑↑↑]]
+
+Tikaniddesavaṇṇanāyaṃ tividhasaṅgahe sataṃ tīṇi ca tikā honti. Tattha dutiyasaṅgahe vuttesu cuddasasu pakiṇṇakadukesu ekaṃ ajjhattikadukaṃ sesehi yojetvā terasa pakiṇṇakatikā nāma ṭhapitā. Tameva dukaṃ sesadukehi saddhiṃ yojetvā sesatikā ṭhapitā. Ajjhattanti niyakajjhattaṃ; bahiddhāti bāhiraṃ; upādiṇṇanti na ekantena kammasamuṭṭhānameva – avisesena pana sarīraṭṭhakassetaṃ gahaṇaṃ, sarīraṭṭhakañhi upādiṇṇaṃ vā hotu anupādiṇṇaṃ vā, ādinnagahitaparāmaṭṭhavasena sabbaṃ upādiṇṇameva nāmāti.
+
+[[1-SOURCES/Commentaries/pi-dhammasangani-atthakatha#^1-1541]]
+[[1-SOURCES/Commentaries/pi-dhammasangani-atthakatha#^1-1661]]
 
 #### Catukkaṃ (Vibhatti)
 
 [[#^toc-3-3-4|↑↑↑]]
 
+Catukkaniddesavaṇṇanāyaṃ catubbidhasaṅgahāvasāne diṭṭhādīnaṃ pacchimapadassa bhedābhāvena ādito paṭṭhāya pucchaṃ akatvāva rūpāyatanaṃ diṭṭhaṃ saddāyatanaṃ sutanti vuttaṃ. Tattha rūpāyatanaṃ cakkhunā oloketvā dakkhituṃ sakkāti 'diṭṭhaṃ' nāma jātaṃ. Saddāyatanaṃ sotena sutvā jānituṃ sakkāti 'sutaṃ' nāma. Gandhāyatanādittayaṃ ghānajivhākāyehi munitvā jānitabbaṭṭhena mutaṃ nāma jātaṃ. Sabbameva pana rūpaṃ manoviññāṇena jānitabbanti manasā viññātaṃ nāma jātaṃ.
+
+[[1-SOURCES/Commentaries/pi-dhammasangani-atthakatha#^1-1660]]
+
 #### Pañcakaṃ (Vibhatti)
 
 [[#^toc-3-3-5|↑↑↑]]
+
+Pañcakaniddesavaṇṇanāyaṃ pañcavidhasaṅgahaniddese kakkhaḷanti thaddhaṃ kharameva kharagataṃ pharusanti sabhāvaniddesā eva. Tejogatanti sabbatejesu gataṃ uṇhattalakkhaṇaṃ; usmāti usmākāro; usmāgatanti usmābhāvaṃ gataṃ. Vāyanakavasena vāyo; vāyova vāyobhāvaṃ gatattā vāyogataṃ. Thambhitattanti uppalanāḷatacādīnaṃ viya vātapuṇṇānaṃ thambhitabhāvo rūpassāti niddesā vuttā.
+
+[[1-SOURCES/Commentaries/pi-dhammasangani-atthakatha#^1-1661]]
+[[1-SOURCES/Commentaries/pi-dhammasangani-atthakatha#^1-1663]]
 
 #### Chakkaṃ (Vibhatti)
 
 [[#^toc-3-3-6|↑↑↑]]
 
+Chakkādiniddesavaṇṇanāyaṃ chabbidhādisaṅgahānaṃ tiṇṇaṃ osānapadassa bhedābhāvato ādito paṭṭhāya apucchitvāva niddeso kato. Tattha cakkhuviññāṇena jānituṃ sakkāti cakkhuviññeyyaṃ pe manoviññāṇena jānituṃ sakkāti manoviññeyyaṃ. Tividhāya manodhātuyā jānituṃ sakkāti manodhātuviññeyyaṃ sabbaṃ rūpanti – yasmā ekaṃ rūpampi manoviññāṇadhātuyā ajānitabbaṃ nāma natthi, tasmā 'sabbaṃ rūpa'nti vuttaṃ. Sukhasamphassoti sukhavedanāpaṭilābhapaccayo; dukkhasamphassoti dukkhavedanāpaṭilābhapaccayo.
+
+[[1-SOURCES/Commentaries/pi-dhammasangani-atthakatha#^1-1664]]
+[[1-SOURCES/Commentaries/pi-dhammasangani-atthakatha#^1-1665]]
+
 #### Sattakaṃ (Vibhatti)
 
 [[#^toc-3-3-7|↑↑↑]]
+
+Sattakaniddesavaṇṇanāyaṃ chabbidhādiniddesavaṇṇanāya vuttanayeneva ādito apucchitvāva niddeso kato. Sukhasamphassadukkhasamphassādīnaṃ niddesavārā pañcakaniddesavaṇṇanāyaṃ vuttanayeneva veditabbā. Sesaṃ sabbattha uttānatthameva.
+
+[[1-SOURCES/Commentaries/pi-dhammasangani-atthakatha#^1-1664]]
 
 #### Aṭṭhakaṃ (Vibhatti)
 
 [[#^toc-3-3-8|↑↑↑]]
 
+Aṭṭhakaniddesavaṇṇanāyaṃ chabbidhādiniddesavaṇṇanāya vuttanayeneva ādito apucchitvāva niddeso kato. Navake indriyarūpassa nāma atthitāya nayo dinno; tasseva sappaṭighaappaṭighatāya dasake nayo dinno; ekādasake aḍḍhekādasa āyatanāni vibhattāni. Tesaṃ niddesavārā heṭṭhā vuttanayena vitthārato veditabbā.
+
+[[1-SOURCES/Commentaries/pi-dhammasangani-atthakatha#^1-1666]]
+
 #### Navakaṃ (Vibhatti)
 
 [[#^toc-3-3-9|↑↑↑]]
+
+Navakāniddesavaṇṇanāyaṃ navavidhasaṅgahaniddese indriyarūpassa nāma atthitāya nayo dinno. Tasseva sappaṭighaappaṭighatāya dasake nayo dinno. Ekādasake pana aḍḍhekādasa āyatanāni vibhattāni. Sesaṃ sabbattha uttānatthamevāti vuttaṃ.
+
+[[1-SOURCES/Commentaries/pi-dhammasangani-atthakatha#^1-1666]]
 
 #### Dasakaṃ (Vibhatti)
 
 [[#^toc-3-3-10|↑↑↑]]
 
+Dasakaniddesavaṇṇanāyaṃ dasavidhasaṅgahaniddese tasseva rūpassa sappaṭighaappaṭighatāya nayo dinno. Ekādasake aḍḍhekādasa āyatanāni vibhattāni. Imassa pakiṇṇakakatthāyaṃ samodhānavasena chabbīsati rūpāni honti, samuṭṭhānavasena dasa ekasamuṭṭhānāni, ekaṃ dvisamuṭṭhānaṃ, tīṇi tisamuṭṭhānāni, nava catusamuṭṭhānāni, dve na kenaci samuṭṭhahantīti.
+
+[[1-SOURCES/Commentaries/pi-dhammasangani-atthakatha#^1-1666]]
+
 #### Ekādasakaṃ (Vibhatti)
 
 [[#^toc-3-3-11|↑↑↑]]
+
+Ekādasakaniddesavaṇṇanāyaṃ ekādasavidhasaṅgahaniddese aḍḍhekādasa āyatanāni vibhattāni. Pakiṇṇakakathāyaṃ sabbameva rūpaṃ samodhānato cakkhāyatanaṃ pe kabaḷīkāro āhāro, phoṭṭhabbāyatanaṃ āpodhātūti pañcavīsatisaṅkhyaṃ hoti; vatthurūpena saddhiṃ chabbīsatisaṅkhyaṃ veditabbaṃ. Parinipphannanti pannarasa rūpāni parinipphannāni nāma, dasa aparinipphannāni nāmāti rūpakaṇḍassa pakiṇṇakakathā niṭṭhitā.
+
+[[1-SOURCES/Commentaries/pi-dhammasangani-atthakatha#^1-1666]]
+[[1-SOURCES/Commentaries/pi-dhammasangani-atthakatha#^1-1679]]
 
 ## Nikkhepakaṇḍaṃ
 
 [[#^toc-4|↑↑↑]]
 
+Nikkhepakaṇḍaṃ cittuppādakaṇḍaṃ upādāya saṅkhepo, aṭṭhakathākaṇḍaṃ upādāya vitthāroti saṅkhittavitthāradhātukaṃ hoti. Vitthāradesanaṃ nikkhipitvā desitattāpi, heṭṭhā vuttakāraṇavasenāpi, nikkhepakaṇḍaṃ nāmāti veditabbaṃ – mūlato khandhato dvārato bhūmito atthato dhammato nāmato liṅgato nikkhipitvā desitattāti. Tikanikkhepaṃ, dukanikkhepaṃ, suttantikadukanikkhepaṃti tividhenāti nikkhepakaṇḍassa vivaraṇaṃ.
+
+[[1-SOURCES/Commentaries/pi-dhammasangani-atthakatha#^1-1682]]
+[[1-SOURCES/Commentaries/pi-dhammasangani-atthakatha#^1-1684]]
+
 ### Tikanikkhepaṃ
 
 [[#^toc-4-1|↑↑↑]]
+
+Tikanikkhepakathāyaṃ tikanikkhepaṃ ārabhibbā kusalapadaniddese tīṇīti gaṇanaparicchedo. Kusalāni ca tāni mūlāni ca, kusalānaṃ dhammānaṃ hetupaccayapabhavajanakasamuṭṭhānanibbattakaṭṭhena mūlānīti kusalamūlāni. Evaṃ atthavasena dassetvā nāmavasena dassetuṃ alobho adoso amohoti āha. Taṃsampayuttoti tehi sampayutto, taṃsamuṭṭhānanti tehi samuṭṭhitaṃ. Tīhi ṭhānesu catubhūmakakusalaṃ pariyādiyitvā dassesi dhammarājā. Akusalepi eseva nayo; dassanena pahātabbahetukesupi eseva desanānayo veditabbo.
+
+[[1-SOURCES/Commentaries/pi-dhammasangani-atthakatha#^1-1682]]
+[[1-SOURCES/Commentaries/pi-dhammasangani-atthakatha#^1-1690]]
 
 ### Dukanikkhepaṃ
 
 [[#^toc-4-2|↑↑↑]]
 
+Dukanikkhepakathāyaṃ dukesu adosaniddese mettāyanavasena metti, anudayatīti anuddā, hitassa esanavasena hitesitā, anukampanavasena anukampāti sabbehi padehi upacārappanāppattā mettāva vuttā. Lobhaniddese rañjanavasena rāgo, balavarañjanaṭṭhena sārāgo, visayesu sattānaṃ anunayanato anunayo, ekasmiṃ ārammaṇe sakiṃ uppannā taṇhā nandī, punappunaṃ uppajjamānā nandīrāgo. Vaṭṭasmiṃ satte cutipaṭisandhivasena sibbati ghaṭetīti sibbinī; ārammaṇānaṃ asanato āsā; sattānaṃ vaṭṭasmiṃ ukkaṇṭhituṃ na deti piyasahāyo viyāti dutiyāti. Dosaniddese aṭṭhāne vā pana āghātoti akāraṇe kopo, cittaṃ āghātento uppannoti cittassa āghāto, paṭihaññanavasena paṭighaṃ, kuppanavasena kopo, dussanavasena dosoti.
+
+[[1-SOURCES/Commentaries/pi-dhammasangani-atthakatha#^1-1743]]
+[[1-SOURCES/Commentaries/pi-dhammasangani-atthakatha#^1-1757]]
+
 #### Hetugocchakaṃ (Nikkhepa)
 
 [[#^toc-4-2-1|↑↑↑]]
+
+Hetugocchakadukānaṃ nikkhepe tehidhammehi ye dhammā sahetukāti tehi hetudhammehi ye aññe hetudhammā vā nahetudhammā vā te sahetukā. Ahetukapadepi eseva nayo. Hetu hetuyeva ca hoti, tiṇṇaṃ vā dvinnaṃ vā ekato uppattiyaṃ sahetuko ca. Vicikicchuddhaccasahagato pana moho hetu ahetuko. Hetusampayuttadukaniddesepi eseva nayoti vuttaṃ.
+
+[[1-SOURCES/Commentaries/pi-dhammasangani-atthakatha#^1-1758]]
 
 #### Cūḷantaradukaṃ (Nikkhepa)
 
 [[#^toc-4-2-2|↑↑↑]]
 
+Cūḷantaradukanikkhepakathāyaṃ saṅkhatadukaniddese asaṅkhatadhātuṃ sandhāya yo eva so dhammoti ekavacananiddeso kato. Purimaduke pana bahuvacanavasena pucchāya uddhaṭattā ime dhammā appaccayāti pucchānusandhinayena bahuvacanaṃ kataṃ. Ime dhammā sanidassanātiādīsupi eseva nayoti.
+
+[[1-SOURCES/Commentaries/pi-dhammasangani-atthakatha#^1-1759]]
+
 #### Āsavagocchakaṃ (Nikkhepa)
 
 [[#^toc-4-2-3|↑↑↑]]
+
+Āsavagocchakanikkhepakathāyaṃ āsavaniddese pañcakāmaguṇiko rāgo kāmāsavo nāma; rūpārūpabhavesu chandarāgo jhānanikanti sassatadiṭṭhisahajāto rāgo bhavavasena patthanā bhavāsavo nāma; dvāsaṭṭhi diṭṭhiyo diṭṭhāsavo nāma; aṭṭhasu ṭhānesu aññānaṃ avijjāsavo nāma. Tattha tattha āgatesu āsavesu asammohatthaṃ ekavidhādibhedo veditabbo. Cirapārivāsiyaṭṭhena āsavāti evaṃ ekavidhāva; vinaye, suttante, nibbedhikapariyāye ca nānābhedehi āgatāti.
+
+[[1-SOURCES/Commentaries/pi-dhammasangani-atthakatha#^1-1762]]
 
 #### Saṃyojanagocchakaṃ (Nikkhepa)
 
 [[#^toc-4-2-4|↑↑↑]]
 
+Saṃyojanagocchakanikkhepakathāyaṃ yattha dve tayo saṃyojanāni ekato uppajjantīti tattha dasadhā saṃyojanānaṃ ekato uppatti veditabbā. Kāmarāgo catudhā ekato uppajjati, paṭigho tidhā, māno ekadhā, vicikicchā ekadhā, bhavarāgo ekadhāva. Tattha kāmarāgo tāva mānasaṃyojanaavijjāsaṃyojanehi ceva, diṭṭhisaṃyojanaavijjāsaṃyojanehi ca, sīlabbataparāmāsaavijjāsaṃyojanehi ca, avijjāsaṃyojanamatteneva ca saddhinti catudhā ekato uppajjatīti.
+
+[[1-SOURCES/Commentaries/pi-dhammasangani-atthakatha#^1-1930]]
+
 #### Ganthagocchakaṃ (Nikkhepa)
 
 [[#^toc-4-2-5|↑↑↑]]
+
+Ganthagocchakanikkhepakathāyaṃ ganthānaṃ nikkhepo āsavagocchakanikkhepakathāyaṃ vuttanayeneva veditabbo. Tattha tīṇi akusalamūlāni lobho doso moho, tadekaṭṭhā ca kilesāti vuttaṃ – tattha ekasmiṃ citte ṭhitaṃ sahajekaṭṭhaṃ nāma hoti, ekasmiṃ puggale ṭhitaṃ pahānekaṭṭhaṃ nāmāti. Imāni ganthānaṃ ekaṭṭhabhāvena samodhānaṃ veditabbaṃ.
+
+[[1-SOURCES/Commentaries/pi-dhammasangani-atthakatha#^1-1685]]
+[[1-SOURCES/Commentaries/pi-dhammasangani-atthakatha#^1-1687]]
 
 #### Oghagocchakaṃ (Nikkhepa)
 
 [[#^toc-4-2-6|↑↑↑]]
 
+Oghagocchakanikkhepakathāyaṃ oghānaṃ nikkhepo āsavagocchakanikkhepakathāyaṃ vuttanayeneva veditabbo. Kusalādīnaṃ dassanena pahātabbahetukattikepi tīṇi saṃyojanāni, tadekaṭṭhā ca kilesāti, puna tattheva tīṇi saṃyojanāni sakkāyadiṭṭhi vicikicchā sīlabbataparāmāso, ime dhammā dassanenapahātabbā; tadekaṭṭho lobho doso moho, ime dhammā dassanenapahātabbahetūti nayena veditabbaṃ.
+
+[[1-SOURCES/Commentaries/pi-dhammasangani-atthakatha#^1-1685]]
+[[1-SOURCES/Commentaries/pi-dhammasangani-atthakatha#^1-1687]]
+
 #### Yogagocchakaṃ (Nikkhepa)
 
 [[#^toc-4-2-7|↑↑↑]]
+
+Yogagocchakanikkhepakathāyaṃ yogānaṃ nikkhepo āsavagocchakanikkhepakathāyaṃ vuttanayeneva veditabbo. Catubhūmakakusalaṃ mūlena pariyādiyitvā, taṃsampayuttacatukkhandhavasena pariyādiyitvā, tīṇaṃ kammadvārānaṃ vasena pariyādiyitvā dassesi dhammarājāti imināva nayena gocchakānaṃ desanānayo veditabbo.
+
+[[1-SOURCES/Commentaries/pi-dhammasangani-atthakatha#^1-1684]]
+[[1-SOURCES/Commentaries/pi-dhammasangani-atthakatha#^1-1685]]
 
 #### Nīvaraṇagocchakaṃ (Nikkhepa)
 
 [[#^toc-4-2-8|↑↑↑]]
 
+Nīvaraṇagocchakanikkhepakathāyaṃ yattha dve tīṇi nīvaraṇāni ekato uppajjantīti tattha aṭṭhadhā nīvaraṇānaṃ ekato uppatti veditabbā. Kāmacchando duvidhā ekato uppajjati, byāpādo catudhā, uddhaccaṃ ekadhā, vicikicchā ekadhā. Kāmacchando tāva asaṅkhārikacittesu uddhaccanīvaraṇaavijjānīvaraṇehi, sasaṅkhārikesu thinamiddhauddhaccaavijjānīvaraṇehi saddhiṃ duvidhā ekato uppajjatīti.
+
+[[1-SOURCES/Commentaries/pi-dhammasangani-atthakatha#^1-1931]]
+
 #### Parāmāsagocchakaṃ (Nikkhepa)
 
 [[#^toc-4-2-9|↑↑↑]]
+
+Parāmāsagocchakanikkhepakathāyaṃ parāmāsānaṃ nikkhepo āsavagocchakanikkhepakathāyaṃ vuttanayeneva veditabbo. Upādiṇṇattike kiñcāpi khīṇāsavassa khandhā paresaṃ upādānassa paccayā honti, maggaphalanibbānāni pana aggahitāni aparāmaṭṭhāni anupādiṇṇāneva – tejussadattā taṇhāmānadiṭṭhivasena gahaṇassa paccayā na hontīti.
+
+[[1-SOURCES/Commentaries/pi-dhammasangani-atthakatha#^1-1691]]
+[[1-SOURCES/Commentaries/pi-dhammasangani-atthakatha#^1-1692]]
 
 #### Mahantaradukaṃ (Nikkhepa)
 
 [[#^toc-4-2-10|↑↑↑]]
 
+Mahantaradukanikkhepakathāyaṃ kenaci viññeyyadukaniddese cakkhuviññeyyāti cakkhuviññāṇena vijānitabbā. Sesapadesupi eseva nayo. Kenaci viññeyyāti cakkhuviññāṇādīsu kenaci ekena vijānitabbā; kenaci na viññeyyāti teneva na vijānitabbā. Rūpaṃ pana cakkhuviññeyyaṃ saddo na cakkhuviññeyyoti imamatthaṃ gahetvā vīsati dukā vibhattāti veditabbā.
+
+[[1-SOURCES/Commentaries/pi-dhammasangani-atthakatha#^1-1760]]
+[[1-SOURCES/Commentaries/pi-dhammasangani-atthakatha#^1-1761]]
+
 #### Upādānagocchakaṃ (Nikkhepa)
 
 [[#^toc-4-2-11|↑↑↑]]
+
+Upādānagocchakanikkhepakathāyaṃ upādānānaṃ nikkhepo āsavagocchakanikkhepakathāyaṃ vuttanayeneva veditabbo. Vipākattike kiñcāpi rūpadhammāpi kammasamuṭṭhānā atthi, anārammaṇattā pana te kammasarikkhakā na hontīti sārammaṇā arūpadhammāva kammasarikkhakattā vipākāti vuttā, bījasarikkhakaṃ phalaṃ viyāti.
+
+[[1-SOURCES/Commentaries/pi-dhammasangani-atthakatha#^1-1691]]
 
 #### Kilesagocchakaṃ (Nikkhepa)
 
 [[#^toc-4-2-12|↑↑↑]]
 
+Kilesagocchakanikkhepakathāyaṃ yattha dve tayo kilesā ekato uppajjantīti tattha dasadhā kilesānaṃ ekato uppatti hoti. Lobho chadhā ekato uppajjati, paṭigho dvidhā, moho dvidhāti veditabbo. Lobho tāva asaṅkhārike diṭṭhivippayutte mohauddhaccaahirikānottappehi, sasaṅkhārike mohathinauddhaccaahirikānottappehi, pe, diṭṭhisampayutte asaṅkhārike mohauddhaccadiṭṭhiahirikānottappehi, sasaṅkhārike mohadiṭṭhithinauddhaccaahirikānottappehi saddhinti chadhā ekato uppajjatīti.
+
+[[1-SOURCES/Commentaries/pi-dhammasangani-atthakatha#^1-1932]]
+[[1-SOURCES/Commentaries/pi-dhammasangani-atthakatha#^1-1934]]
+
 #### Piṭṭhidukaṃ (Nikkhepa)
 
 [[#^toc-4-2-13|↑↑↑]]
+
+Piṭṭhidukanikkhepakathāyaṃ micchattattike ānantarikānīti anantarāyena phaladāyakāni; mātughātakakammādīnametaṃ adhivacanaṃ. Tesu ekasmimpi kamme kate taṃ paṭibāhitvā aññaṃ kammaṃ attano vipākassa okāsaṃ kātuṃ na sakkoti. Yā ca micchādiṭṭhi niyatāti ahetukavādaakiriyavādanatthikavādesu aññatarā – taṃ gahetvā ṭhitaṃ puggalaṃ buddhasatampi buddhasahassampi bodhetuṃ na sakkonti.
+
+[[1-SOURCES/Commentaries/pi-dhammasangani-atthakatha#^1-1731]]
 
 ### Suttantikadukanikkhepaṃ
 
 [[#^toc-4-3|↑↑↑]]
 
+Suttantikadukanikkhepakathāyaṃ mātikākathāyaṃ atthato vivecitattā yāni nesaṃ niddesapadāni tesampi heṭṭhā vuttanayeneva suviññeyyattā yebhuyyena uttānatthāneva. Tattha vijjūpamaduke cakkhumā puriso meghandhakāre rattiṃ maggaṃ paṭipajji; vijjuyā niccharitvā andhakāraviddhaṃsanakālo viya sotāpattimaggobhāsena uppajjitvā saccacchādakatamassa vinoditakālo; dutiya- tatiyagamanābhinīhāro viya sakadāgāmi- anāgāmimaggattāya vipassanārambho. Vajirassa pana pāsāṇo vā maṇi vā abhejjo nāma natthi – evameva arahattamaggassa avajjhakileso nāma natthi, sabbakilese vinivijjhati vajiraṃ viyāti adhivacanadukādinaṃ niddesapadāni nānābhedehi vibhattāni.
+
+[[1-SOURCES/Commentaries/pi-dhammasangani-atthakatha#^1-1816]]
+[[1-SOURCES/Commentaries/pi-dhammasangani-atthakatha#^1-1818]]
+
 ## Aṭṭhakathākaṇḍaṃ
 
 [[#^toc-5|↑↑↑]]
+
+Aṭṭhakathākaṇḍaṃ tepiṭakassa buddhavacanassa atthaṃ uddharitvā ṭhapitattā aṭṭhakathākaṇḍaṃ nāmāti veditabbaṃ. Tīsupi piṭakesu dhammantaraṃ āgataṃ aṭṭhakathākaṇḍeneva paricchinditvā vinicchitaṃ suvinicchitaṃ nāma hoti. Kuto pabhavaṃ pana etanti? Sāriputtattherappabhavaṃ – sāriputtatthero hi ekassa attano saddhivihārikassa nikkhepakaṇḍe atthuddhāraṃ sallakkhetuṃ asakkontassa aṭṭhakathākaṇḍaṃ kathetvā adāsi; bhagavā tassa bhikkhuno kaṇṇikaṃ kaṇṇikaṃ ghaṭaṃ ghaṭaṃ gocchakaṃ gocchakaṃ katvā atthuddhāravasena kusalādidhamme dassento kathetvā adāsīti.
+
+[[1-SOURCES/Commentaries/pi-dhammasangani-atthakatha#^1-1885]]
+[[1-SOURCES/Commentaries/pi-dhammasangani-atthakatha#^1-1888]]
 
 ### Tikaatthuddhāro
 
 [[#^toc-5-1|↑↑↑]]
 
+Tikaatthuddhāravaṇṇanāyaṃ catūsūti kāmāvacararūpāvacarārūpāvacaraapariyāpannāsu. Kusalanti phassādibhedaṃ kusalaṃ – ime dhammā kusalā nāma. Akusalānaṃ pana bhūmivasena bhedābhāvato dvādasa akusalacittuppādāti āha. Tattha 'rājā āgato'ti vutte amaccādīnampi āgamanaṃ vuttameva hoti – evaṃ 'cittuppādā'ti vutte tehi sampayuttadhammāpi vuttāva hontīti; cittuppādaggahaṇena sasampayuttadhammaṃ cittaṃ gahitanti veditabbaṃ. Ito paresu pana catūsu bhūmīsu vipākotiādīnaṃ sabbesampi tikadukabhājanīyapadānaṃ attho visesamattameva dassetvā veditabbo.
+
+[[1-SOURCES/Commentaries/pi-dhammasangani-atthakatha#^1-1885]]
+[[1-SOURCES/Commentaries/pi-dhammasangani-atthakatha#^1-1888]]
+
 ### Dukaatthuddhāro
 
 [[#^toc-5-2|↑↑↑]]
+
+Dukaatthuddhāravaṇṇanāyaṃ parittārammaṇattike tāva sabbo kāmāvacarassa vipākoti ettha dvipañcaviññāṇāni cakkhupasādādayo nissāya niyameneva iṭṭhāniṭṭhādibhede rūpasaddagandharasaphoṭṭhabbadhamme ārabbha pavattantīti parittārammaṇāni. Maggārammaṇattike ādimhi vuttā aṭṭha ñāṇasampayuttacittuppādā sekkhāsekkhānaṃ attanā paṭividdhamaggānaṃ paccavekkhaṇakāle maggārammaṇā. Atītārammaṇattike viññāṇañcāyatananevasaññānāsaññāyatanadhammā heṭṭhā atītasamāpattiṃ ārabbha pavattitā ekantena atītārammaṇāva. Ajjhattārammaṇattike anindriyabaddharūpañca nibbānañca bahiddhāti niyakajjhattapariyāyassa abhāvena bahiddhāti vuttaṃ.
+
+[[1-SOURCES/Commentaries/pi-dhammasangani-atthakatha#^1-1889]]
+[[1-SOURCES/Commentaries/pi-dhammasangani-atthakatha#^1-1929]]
 
 #### Hetugocchakaṃ (Atthuddhāra)
 
 [[#^toc-5-2-1|↑↑↑]]
 
+Hetugocchakānaṃ atthuddhāraniddese tayo kusalahetūtiādinā nayena hetū dassetvā puna teyeva uppattiṭṭhānato dassetuṃ catūsu bhūmīsu kusalesu uppajjantītiādi vuttaṃ. Iminā upāyena sesagocchakesupi desanānayo veditabbo – hetudhammavasena, bhūmivasena, kammadvāravasena ca atthuddhārā kātā.
+
+[[1-SOURCES/Commentaries/pi-dhammasangani-atthakatha#^1-1929]]
+
 #### Cūḷantaradukaṃ (Atthuddhāra)
 
 [[#^toc-5-2-2|↑↑↑]]
+
+Cūḷantaradukaatthuddhāraniddese saṅkhatadukaniddese asaṅkhatadhātuṃ sandhāya yo eva so dhammoti ekavacananiddeso kato. Kenaci viññeyyadukaniddese cakkhuviññeyyāti cakkhuviññāṇena vijānitabbā, sesapadesupi eseva nayo. Manoviññāṇena kenaci viññeyyā ceva aviññeyyā cāti ayamattho atthi – vavatthānābhāvato pana ettha dukā na vuttāti.
+
+[[1-SOURCES/Commentaries/pi-dhammasangani-atthakatha#^1-1759]]
+[[1-SOURCES/Commentaries/pi-dhammasangani-atthakatha#^1-1761]]
 
 #### Āsavagocchakaṃ (Atthuddhāra)
 
 [[#^toc-5-2-3|↑↑↑]]
 
+Āsavagocchakānaṃ atthuddhāraniddese yattha dve tayo āsavā ekato uppajjantīti tividhena āsavānaṃ ekato uppatti veditabbā. Catūsu diṭṭhivippayuttesu avijjāsavena, diṭṭhisampayuttesu diṭṭhāsavaavijjāsavehi saddhinti kāmāsavo duvidhena ekato uppajjati. Bhavāsavo catūsu diṭṭhivippayuttesu avijjāsavena saddhiṃ ekadhāva ekato uppajjati. Iminā nayena tikadukānaṃ atthuddhāraṃ veditabbaṃ.
+
+[[1-SOURCES/Commentaries/pi-dhammasangani-atthakatha#^1-1930]]
+
 #### Saṃyojanagocchakaṃ (Atthuddhāra)
 
 [[#^toc-5-2-4|↑↑↑]]
+
+Saṃyojanagocchakānaṃ atthuddhāraniddese yattha dve tīṇi saṃyojanāni ekato uppajjantīti dasadhā saṃyojanānaṃ ekato uppatti veditabbā. Kāmarāgo catudhā ekato uppajjati – mānasaṃyojanaavijjāsaṃyojanehi ceva, diṭṭhisaṃyojanaavijjāsaṃyojanehi ca, sīlabbataparāmāsaavijjāsaṃyojanehi ca, avijjāsaṃyojanamatteneva ca saddhinti. Paṭigho tidhā, māno ekadhā. Tathā vicikicchā. Iminā nayena atthuddhāro veditabbo.
+
+[[1-SOURCES/Commentaries/pi-dhammasangani-atthakatha#^1-1930]]
 
 #### Ganthagocchakaṃ (Atthuddhāra)
 
 [[#^toc-5-2-5|↑↑↑]]
 
+Ganthagocchakānaṃ atthuddhāraniddese ganthānaṃ atthuddhāraṃ āsavagocchakānaṃ vuttanayeneva veditabbaṃ. Tattha tīṇi akusalamūlāni lobho doso moho, tadekaṭṭhā ca kilesāti sahajekaṭṭhapahānekaṭṭhabhāvena atthuddhāro kato. Iminā upāyena sesagocchakesupi desanānayo catūsu bhūmīsu kusalesupi akusalesupi ca veditabbo.
+
+[[1-SOURCES/Commentaries/pi-dhammasangani-atthakatha#^1-1929]]
+
 #### Oghagocchakaṃ (Atthuddhāra)
 
 [[#^toc-5-2-6|↑↑↑]]
+
+Oghagocchakānaṃ atthuddhāraniddese oghānaṃ atthuddhāraṃ āsavagocchakānaṃ vuttanayeneva veditabbaṃ. Tattha catubhūmakakusalaṃ kusalamūlehi pariyādiyitvā, taṃsampayuttacatukkhandhavasena pariyādiyitvā, tīṇaṃ kammadvārānaṃ vasena pariyādiyitvā dassesi dhammarājā. Akusalepi eseva nayo.
+
+[[1-SOURCES/Commentaries/pi-dhammasangani-atthakatha#^1-1929]]
 
 #### Yogagocchakaṃ (Atthuddhāra)
 
 [[#^toc-5-2-7|↑↑↑]]
 
+Yogagocchakānaṃ atthuddhāraniddese yogānaṃ atthuddhāraṃ āsavagocchakānaṃ vuttanayeneva veditabbaṃ. Iminā upāyena sesagocchakesupi desanānayo veditabbo – kusalādīnaṃ atthuddhāro catūsu bhūmīsu kusalesu akusalesu vipākesu kiriyāsupi ca mūlakhandhadvāranayehi paricchinditvā atthuddhāravasena dassito.
+
+[[1-SOURCES/Commentaries/pi-dhammasangani-atthakatha#^1-1929]]
+
 #### Nīvaraṇagocchakaṃ (Atthuddhāra)
 
 [[#^toc-5-2-8|↑↑↑]]
+
+Nīvaraṇagocchakānaṃ atthuddhāraniddese yattha dve tīṇi nīvaraṇāni ekato uppajjantīti aṭṭhadhā nīvaraṇānaṃ ekato uppatti veditabbā. Kāmacchando duvidhā ekato uppajjati – asaṅkhārikacittesu uddhaccanīvaraṇaavijjānīvaraṇehi, sasaṅkhārikesu thinamiddhauddhaccaavijjānīvaraṇehi saddhiṃ. Byāpādo catudhā ekato uppajjati; uddhaccaṃ ekadhā; vicikicchā ekadhāva ekato uppajjatīti.
+
+[[1-SOURCES/Commentaries/pi-dhammasangani-atthakatha#^1-1931]]
 
 #### Parāmāsagocchakaṃ (Atthuddhāra)
 
 [[#^toc-5-2-9|↑↑↑]]
 
+Parāmāsagocchakānaṃ atthuddhāraniddese parāmāsānaṃ atthuddhāraṃ āsavagocchakānaṃ vuttanayeneva veditabbaṃ. Tattha upādiṇṇaanupādiṇṇavibhāgena anupādiṇṇadhamme tejussadattā taṇhāmānadiṭṭhivasena gahaṇassa paccayā na hontīti, asaṃkiliṭṭhaasaṃkilesikesupi eseva nayoti vuttaṃ.
+
+[[1-SOURCES/Commentaries/pi-dhammasangani-atthakatha#^1-1692]]
+[[1-SOURCES/Commentaries/pi-dhammasangani-atthakatha#^1-1693]]
+
 #### Mahantaradukaṃ (Atthuddhāra)
 
 [[#^toc-5-2-10|↑↑↑]]
+
+Mahantaradukaatthuddhāraniddese ñāṇasampayuttacittuppādā sekkhāsekkhānaṃ attanā paṭividdhamaggānaṃ paccavekkhaṇakāle maggārammaṇā, maggena pana asahajātattā na maggahetukā, maggaṃ garuṃ katvā paccavekkhaṇakāle ārammaṇādhipativasena maggādhipatino. Dvādasavidhe rūpāvacaracatutthajjhāne sabbatthapādakacatutthādīni nava jhānāni neva maggārammaṇāni na maggahetukāni na maggādhipatīni. Atītārammaṇattike, ajjhattārammaṇattike ca viññāṇañcāyatanādiniddeso vuttanayeneva veditabbo.
+
+[[1-SOURCES/Commentaries/pi-dhammasangani-atthakatha#^1-1900]]
+[[1-SOURCES/Commentaries/pi-dhammasangani-atthakatha#^1-1928]]
 
 #### Upādānagocchakaṃ (Atthuddhāra)
 
 [[#^toc-5-2-11|↑↑↑]]
 
+Upādānagocchakānaṃ atthuddhāraniddese upādānānaṃ atthuddhāraṃ āsavagocchakānaṃ vuttanayeneva veditabbaṃ. Tattha parittārammaṇattike dvipañcaviññāṇāni cakkhupasādādayo nissāya niyameneva parittadhamme ārabbha pavattantīti parittārammaṇāni. Aṭṭha pana sahetukavipākacittuppādā tadārammaṇavasena paṭisandhibhavaṅgacutivasena ca parittadhammeyeva ārabbha pavattantīti.
+
+[[1-SOURCES/Commentaries/pi-dhammasangani-atthakatha#^1-1889]]
+[[1-SOURCES/Commentaries/pi-dhammasangani-atthakatha#^1-1929]]
+
 #### Kilesagocchakaṃ (Atthuddhāra)
 
 [[#^toc-5-2-12|↑↑↑]]
 
+Kilesagocchakānaṃ atthuddhāraniddese yattha dve tayo kilesā ekato uppajjantīti dasadhā kilesānaṃ ekato uppatti hoti. Lobho chadhā, paṭigho dvidhā, moho dvidhā ekato uppajjati. Lobho tāva asaṅkhārike diṭṭhivippayutte mohauddhaccaahirikānottappehi pe diṭṭhisampayutte sasaṅkhārike mohadiṭṭhithinauddhaccaahirikānottappehi saddhinti chadhā ekato uppajjati. Sesaṃ sabbattha uttānatthamevāti.
+
+[[1-SOURCES/Commentaries/pi-dhammasangani-atthakatha#^1-1932]]
+[[1-SOURCES/Commentaries/pi-dhammasangani-atthakatha#^1-1934]]
+
 #### Piṭṭhidukaṃ (Atthuddhāra)
 
 [[#^toc-5-2-13|↑↑↑]]
+
+Piṭṭhidukaatthuddhāraniddese ānantarikāni kammāni, niyatamicchādiṭṭhi ca sammattaniyamatāya paccaṭṭhitā. Atthuddhārakaṇḍo ca tepiṭakassa buddhavacanassa atthuddhārabhūto yāva saraṇadukā nikkhittaṃ, sakale abhidhammapiṭake nayamaggaṃ mahāpakaraṇe pañhuddhāraṃ gaṇanacāraṃ asallakkhentenāpi aṭṭhakathākaṇḍatoyeva samānetuṃ vaṭṭatīti. Aṭṭhasāliniyā dhammasaṅgahaaṭṭhakathāya aṭṭhakathākaṇḍavaṇṇanā niṭṭhitāti.
+
+[[1-SOURCES/Commentaries/pi-dhammasangani-atthakatha#^1-1885]]
+[[1-SOURCES/Commentaries/pi-dhammasangani-atthakatha#^1-1936]]
