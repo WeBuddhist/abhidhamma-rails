@@ -254,6 +254,7 @@ def regenerate(gloss_path: Path, output_path: Path, min_freq: int = 3,
         lines.append("---")
         lines.append("")
 
+    output_path.parent.mkdir(parents=True, exist_ok=True)
     output_path.write_text("\n".join(lines), encoding="utf-8")
 
     return {
@@ -273,8 +274,33 @@ def main(argv):
     if len(argv) != 3:
         print(__doc__, file=sys.stderr)
         return 2
-    gloss_path = Path(argv[1])
+
+    # Determine vault root relative to this script's directory
+    script_dir = Path(__file__).resolve().parent
+    if len(script_dir.parents) >= 4:
+        vault_root = script_dir.parents[3]
+    else:
+        vault_root = Path(".")
+
+    def resolve_path(p: Path) -> Path:
+        if p.exists():
+            return p
+        vp = vault_root / p
+        if vp.exists():
+            return vp
+        return p
+
+    gloss_path = resolve_path(Path(argv[1]))
     out_path = Path(argv[2])
+    if not out_path.parent.exists():
+        vp = vault_root / out_path
+        if vp.parent.exists():
+            out_path = vp
+
+    print(f"Vault root detected at: {vault_root.resolve()}")
+    print(f"Using gloss file: {gloss_path}")
+    print(f"Using output path: {out_path}")
+
     stats = regenerate(gloss_path, out_path)
     print(f"Wrote {out_path}")
     for k, v in stats.items():

@@ -9,7 +9,7 @@ pitaka: abhidhamma
 layer: mula
 source_description: Tipitaka.org Mūla edition export. Mūla > Abhidhammapiṭaka > Dhammasaṅgaṇīpāḷi; 2436 segments in source.
 source_filename: book/abh01m.mul.html
-source_url: "https://tipitaka.org/romn/cscd/abh01m.mul.xml"
+source_url: https://tipitaka.org/romn/cscd/abh01m.mul.xml
 other_ids:
   - tipitaka.org: abh01m
 ---
