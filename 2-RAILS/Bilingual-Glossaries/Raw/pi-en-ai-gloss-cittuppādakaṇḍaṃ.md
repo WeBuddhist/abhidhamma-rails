@@ -8,7 +8,7 @@ translator: AI (CSCD-aligned, tipitaka.org Mūla edition)
 total_verses: 582
 status: draft
 ---
-
+ 
 # Interlinear gloss — pi → English (AI (CSCD-aligned, tipitaka.org Mūla edition))
 # Cittuppādakaṇḍaṃ (^1-1-1-0 to ^1-582)
 
