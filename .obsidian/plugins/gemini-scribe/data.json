@@ -1,7 +1,7 @@
 {
   "provider": "gemini",
   "ollamaBaseUrl": "http://localhost:11434",
-  "apiKeySecretName": "gihan-malla",
+  "apiKeySecretName": "",
   "chatModelName": "gemini-flash-latest",
   "summaryModelName": "gemini-flash-latest",
   "completionsModelName": "gemini-flash-lite-latest",
@@ -139,6 +139,6 @@
         "maxTemperature": 2
       }
     ],
-    "timestamp": 1780071970924
+    "timestamp": 1780278679921
   }
 }
