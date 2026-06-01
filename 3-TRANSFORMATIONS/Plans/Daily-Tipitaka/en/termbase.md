@@ -81,6 +81,18 @@ Alphabetical by Pāli lemma. New rows are appended by the `daily-tipitaka-day` s
 | tebhūmaka | _three-plane_ (in compound _tebhūmakakusalaṃ_ = three-plane wholesome) | day-018 §1 | Day-018 §1 phrasing. | candidate |
 | vimokkha | _liberation_ | day-017 §1 | Day-017 §1 phrasing. BB standard rendering. | candidate |
 
+### Terms appearing in days 19–20 §1 / §5 (candidate — needs reviewer confirmation)
+
+| Pāli | English (Contemporary) | Used in | Source / Note | Status |
+|---|---|---|---|---|
+| anaññātaññassāmītindriya | _the faculty "I shall know what is yet unknown"_ (the supramundane-only ninth faculty) | day-019 §1 | Translation track v.296 renders "the faculty 'I shall know the unknown'"; day-019 §1 expanded for plain-English unwrap. Reviewer to confirm preferred wording. | candidate |
+| lokuttara | _supramundane_ (also _above the world_ as on-first-use unwrap) | day-019 §1 | BB curated rendering in translation track termbase. Day-019 §1 paired the locked term with the plain-English gloss "above the world". | candidate |
+| magga | _path_ | day-019 §5 | BB curated rendering in translation track termbase. Day-019 §5 headword. | candidate |
+| passaddhi | _tranquillity_ | day-020 §1, §5 | BB curated rendering in translation track termbase. Day-020 §5 headword. Used for both *kāya*- and *citta*- pairs. | candidate |
+| samatha | _calm_ | day-020 §1 | BB curated rendering in translation track termbase. Day-020 §1 closing word. | candidate |
+| sammāsamādhi | _Right Concentration_ | day-019 §5; day-020 §1 | Translation track wording (v.304) — capitalised as one of the eight path factors. | candidate |
+| sammāsati | _Right Mindfulness_ | day-019 §1, §5 | BB curated rendering in translation track termbase. Capitalised as a path factor. | candidate |
+
 ### Five hindrances (used in day-012 §5; need reviewer confirmation against the translation track)
 
 | Pāli | English (Contemporary) | Source | Status |
