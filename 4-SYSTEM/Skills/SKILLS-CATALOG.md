@@ -115,6 +115,12 @@ These skills populate `2-RAILS/` with the structured context that translation an
 **Outputs:** One YAML file at the specified output path listing all Pāli stems with their attested English renderings and co-occurrence counts. Intended as input for `glossary-combine`.
 → [`translation-variants/SKILL.md`](translation-variants/SKILL.md)
 
+### `pali-biterm-extraction` **[exists]**
+**Purpose:** For a block-aligned Pāli source file and an English translation file, extract every attested English rendering for each Pāli token and write a compact YAML frequency table (`pāli_token: rendering1-N, rendering2-N, …`). Differs from `translation-variants` in two key ways: (1) no Pāli stemming — exact inflected token forms are preserved; (2) uses Google-10k Zipf-law IDF (3 000-word reference with actual frequency values) for English keyword selection, giving better discrimination between common English and domain-specific translation vocabulary.
+**Inputs:** A Pāli source markdown file and a matching English translation file, both with Obsidian block IDs; an output YAML path.
+**Outputs:** One YAML file with compact lines (`pāli_token: rendering1-N, rendering2-N, …`), sorted by total frequency. Intended as input for `glossary-combine` and as a consistency check before full interlinear glossing.
+→ [`pali-biterm-extraction/SKILL.md`](pali-biterm-extraction/SKILL.md)
+
 ---
 
 ## Translation requirements skills

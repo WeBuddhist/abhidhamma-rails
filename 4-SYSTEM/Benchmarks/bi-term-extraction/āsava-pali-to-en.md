@@ -1,6 +1,3 @@
-# Pali term → English translations used (with co-occurrence frequency)
-# Source: pi-1.md ↔ en-dhammasangani-ai.md
-
 āsava:
   canker: 7
   taint: 7

@@ -1,6 +1,3 @@
-# English translation term → Pali source terms (with co-occurrence frequency)
-# Source: en-dhammasangani-ai.md ↔ pi-1.md
-
 taint:
   sāsava: 15
   āsava: 7
