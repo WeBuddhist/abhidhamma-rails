@@ -1,36 +1,43 @@
 # dhamma — translation variants by sense
 
-## 1. Constituent phenomena
-# dhamma as the irreducible mental/physical constituents of experience
-# (dominant Abhidhamma usage)
+## 1. dhamma — Constituent phenomena
 pali: [dhamma, dhammā]
 translations:
   phenomena: 575
   states: 371
-  thing: 5
+  factor: 47
+  dhamma: 16
+  mind-object: 11
+  phenomena base: 8
+  phenomena element: 6
+  truth: 7
   nature: 6
+  thing: 5
+  doctrine: 4
+  investigation of phenomena: 4
   quality: 1
 
-## 2. Mind-sphere (sixth base / sixth element)
-# dhammāyatana = sixth sense base; dhammadhātu = sixth element
+## 2. dhammāyatana / dhammadhātu — Mind-sphere (sixth base / sixth element)
 pali: [dhammāyatana, dhammadhātu]
 translations:
-  phenomena base: 9
-  phenomena element: 7
-  mind-object: 7
-  mind-object base: 3
-  mind-object element: 2
+  phenomena: 78
+  factor: 38
+  states: 33
+  dhamma: 24
+  phenomena base: 16
+  phenomena element: 13
+  mind-object: 14
+  investigation of phenomena: 2
 
-## 3. Investigation of phenomena
-# dhammavicaya as the second of the seven awakening factors
+## 3. dhammavicaya — Investigation of phenomena
 pali: [dhammavicaya]
 translations:
   investigation of phenomena: 33
+  phenomena: 33
   factor: 10
   states: 3
 
-## 4. Teaching / Doctrine
-# dhamma as the Buddha's teaching or as a normative principle
+## 4. dhamma — Teaching / Doctrine
 pali: [dhamma]
 translations:
   dhamma: 16
