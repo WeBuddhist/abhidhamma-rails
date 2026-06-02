@@ -211,32 +211,38 @@ A List of Subjects for Analytical Treatment in the Text
 16. Maggārammana Tika:
 (i) Dhamma which have Magga as the object (1038, 1429)
 (ii) Dhamma which have Magga as root cause (1039, 1429)
-(iii) Dhamma which have Magga as predominant factor (1040, 1429)
+(iii) Dhamma which have Magga as predominant factor (1040, 1429) ^1-0a-16
+
 17. Uppannā Tika:
 (i) Dhamma which are in the process of arising (1041, 1430)
 (ii) Dhamma which have not yet arisen (1042, 1430)
-(iii) Dhamma which will definitely arise (1043, 1430)
+(iii) Dhamma which will definitely arise (1043, 1430) ^1-0a-17
+
 18. Atīta Tika:
 (i) Dhamma which are past (1044, 1431)
 (ii) Dhamma of the future (1045, 1431)
-(iii) Dhamma of the present (1046, 1431)
+(iii) Dhamma of the present (1046, 1431) ^1-0a-18
 
 19. Atītārammana Tika:
 (i) Dhamma which have the past as object (1047, 1432)
 (ii) Dhamma which have the future as object (1048, 1433)
-(iii) Dhamma which have the present as object (1049, 1434)
+(iii) Dhamma which have the present as object (1049, 1434) ^1-0a-19
+
 20. Ajjhatta Tika:
 (i) Dhamma which are internal (1050, 1435)
 (ii) Dhamma which are external (1051, 1435)
-(iii) Dhamma which are internal and external (1052, 1435)
+(iii) Dhamma which are internal and external (1052, 1435) ^1-0a-20
+
 21. Ajjhatārammana Tika:
 (i) Dhamma which have internal things as objects (1053, 1436)
 (ii) Dhamma which have external things as objects (1054, 1437)
-(iii) Dhamma which have internal and external things as objects (1055, 1437)
+(iii) Dhamma which have internal and external things as objects (1055, 1437) ^1-0a-21
+
 22. Sanidassana Tika:
 (i) Dhamma which are visible and which arise with impingement (1056, 1438)
 (ii) Dhamma which are not visible but which arise with impingement (1057, 1439)
-(iii) Dhamma which are not visible and which arise without impingement (1058, 1440)
+(iii) Dhamma which are not visible and which arise without impingement (1058, 1440) ^1-0a-22
+
 End of the Tika Mātikā
 
 B. Duka Mātikā: List of Dyads
@@ -960,6 +966,7 @@ Sensuous Sphere.
 Pertaining to the Sensuous Sphere
 (i) Section on Definition of the Dhamma Factors
 a. Exposition in Brief
+
 1. What are the meritorious dhammā?
 When at acertaintimeameritorious thoughtpertaining
 to the sensuous sphere arises, accompaniedbypleasure and
@@ -1002,23 +1009,27 @@ mentioned.
 35Cittuppada Kanda
 At that time (in addition to the above), there are
 other incorporeal dhamma¹ which are causally produced.
-These are the meritorious dhammā.
+These are the meritorious dhammā. ^1-1
 b. Detailed Exposition
+
 2. What atthattime is contact?
 That which at that time is contact, being incontact,
-this at that time is contact.full contact, contacting well --
+this at that time is contact.full contact, contacting well -- ^1-2
+
 3. What at that time is sensation?
 That which at thattime is mental ease andhappiness
 born out of full contact with mind-consciousness-element
 appropriate to that feeling, sensation of mental ease and
 happiness born out of full contact with mind, feeling of
 mental ease and happiness born out of full contact with
-mind this at that time is sensation.
+mind this at that time is sensation. ^1-3
+
 4. What at that time is perception?
 That which at that time is perception born out of
 full contact with mind-consciousness-element appropriate to
 that perception, the fact ofperceiving, the state ofperception
-this at that time is perception.-
+this at that time is perception.- ^1-4
+
 5. What at that time is volition?
 That which at that time is volition born out of full
 contact with mind-consciousness-element appropriate to that
@@ -1032,7 +1043,8 @@ knowing, mind (lit., heart), purity, mind as the sphere of
 36 Dhammasangaņi
 mind, faculty ofmind, consciousness, aggregate ofconscious-
 ness, mind-consciousness-element appropriate tothose mental
-concomitants -- this at that time is thought.
+concomitants -- this at that time is thought. ^1-5
+
 7. What at that time is initial application ofthe
 mind?
 That which at thattime ismentation, initial application
@@ -1040,7 +1052,8 @@ of thie mind, thinking, applying the mind to the object of
 thinking, effectively applying the mind to the object of
 thinking, focussing the mind on the object of thinking,
 right thinking -- this at that time is initial application of
-the mind.
+the mind. ^1-7
+
 8. What at that time is sustained application of
 the mind?
 That which at that time is consideration, sustained
@@ -1048,31 +1061,36 @@ application of the mind, repeated consideration, close
 examination, keeping the mind continuously connected with
 the object ofthought, keeping the mind on the object as if
 continuously in view -- this at that time is sustained
-application of the mind.
+application of the mind. ^1-8
+
 9. What at that time is delightful satisfaction?
 That which at that time is delightful satisfaction,
 delight, intense delight, profuse delight, freshness, superb
 freshness, satisfaction, exultation, self-satisfaction this at--
-that time is delightful satisfaction.
+that time is delightful satisfaction. ^1-9
+
 10. What at that time is happiness?
 That which at that time is mental ease and happiness,
 sensation of mental ease and happiness born out of full
 contact with mind, feeling of mental ease and happiness
 this at that time isborn out of full contact with mind --
-happiness.
+happiness. ^1-10
 
 37Cittuppada Kanda
+
 11. What at thattime is one-pointedness ofmind?
 That which atthattime is stability ofmind, steadfastness
 of mind, absorbed steadfastness of mind, unshakableness,
 non-distraction, imperturbability, tranquillity ofmind, faculty
 ofconcentration, powerofconcentration, right concentration
--- this at that time is one-pointedness ofmind.
+-- this at that time is one-pointedness ofmind. ^1-11
+
 12. What at that time is the faculty ofconviction?
 That which at thattimeisconviction,beingconvinced,
 immersion in conviction, clarity of conviction, conviction
 as the faculty ofconviction, power ofconviction this at
-that time is the faculty ofconviction.
+that time is the faculty ofconviction. ^1-12
+
 13. What at that time isthe faculty ofendeavour?
 That which atthattime ismental endeavour, riddance
 of lethargy, exerting harder and harder, endeavouring higher
@@ -1081,14 +1099,16 @@ steadfastness, resoluteness, unfaltering endeavour, having
 sustained desire to strive, not relinquishing the task,
 discharging the task well, endeavour as the faculty of
 this at thatendeavour, power of endeavour, right effort --
-time is the faculty ofendeavour.
+time is the faculty ofendeavour. ^1-13
+
 14. What at that timeisthe faculty ofmindfulness?
 That which at that time is mindfulness, constant
 mindfulness, recollection, mindfulnesswhich is remembering,
 bearing in mind, non-superficiality, non-forgetfulness,
 mindfulness as the faculty of mindfulness, power of
 this at that time is themindfulness, right mindfulness
-faculty ofmindfulness.
+faculty ofmindfulness. ^1-14
+
 15. What at that time is the faculty of
 concentration?
 
@@ -1097,7 +1117,8 @@ Thatwhich atthat time is stabilityofmind, steadfastness
 of mind, absorbed steadfastness of mind, unshakableness,
 non-distraction, imperturbability, tranquillity ofmind, faculty
 ofconcentration, power ofconcentration, right concentration
-this atthat time is the faculty ofconcentration.
+this atthat time is the faculty ofconcentration. ^1-15
+
 16. What at that timeis the faculty ofwisdom?
 That which at that time is wisdom, thorough
 understanding, scrutiny(ofimpermanence, etc. ofphenomena),
@@ -1114,7 +1135,8 @@ destroying defilements), wisdom like a tower, wisdom like
 light, wisdom like radiance, wisdom like a torch, wisdom
 like ajewel, non-bewilderment, investigative knowledge of
 the dhamma, right view -- this at that time is the faculty
-ofwisdom
+ofwisdom ^1-16
+
 17. What at that time is the faculty ofmind?
 That which at that time is thought, cognition,
 knowing, mind (lit., heart), purity, mind as the sphere of
@@ -1123,21 +1145,24 @@ consciousness, mind-consciousness-element appropriate to those
 mental concomitants this at that time is the faculty of
 mind.
 
-Cittuppada Kanda 39
+Cittuppada Kanda 39 ^1-17
+
 18. What at that time is the faculty of mental
 pleasantness?
 That which atthattimeismental ease andhappiness,
 sensation of mental ease and happiness born out of full
 contact with mind, feeling of mental ease and happiness
 born out of full contact with mind -- this at that time is
-the faculty ofmental pleasantness.
+the faculty ofmental pleasantness. ^1-18
+
 19. What at that time is the faculty ofvitality?
 That which at that time is the continuing force of
 those mental phenomena, their subsisting, their going on,
 their being kept going on, the fact of their existence, the
 cause of their existence, their preservation, vitalit as the
 faculty of vitality -- this at that time is the faculty of
-vitality.
+vitality. ^1-19
+
 20. What at that time is right view?
 That which at that time is wisdom, thorough
 understanding, scrutiny (ofimpermanence, etc. ofphenomena),
@@ -1155,7 +1180,8 @@ light, wisdom like radiance, wisdom like a torch, wisdom
 like ajewel, non-bewilderment, investigative knowldege of
 the dhamma, right view -- this at that time is right view.
 
-21) Dhammasangani
+21) Dhammasangani ^1-20
+
 22. What at thattimeis rightthinking?
 Thatwhich atthattimeis mentation, initial application
 of the mind, thinking, applying the mind to the object of
@@ -1170,14 +1196,16 @@ steadfastness, resoluteness, unfaltering endeavour, having
 sustained desire to strive, not relinquishing the task,
 discharging the task well, endeavour as the faculty of
 this at thatendeavour, power ofendeavour, right effort --
-time is right effort.
+time is right effort. ^1-22
+
 23. What at that time is right mindfulness?
 That which at that time is mindfulness, constant
 mindfulness, recollection, mindfulnesswhich isremembering,
 bearing in mind, non-superficiality, non-forgetfulness,
 mindfulness as the faculty of mindfulness, power of
 mindfulness, right mindfulness this at that time is right
-mindfulness.
+mindfulness. ^1-23
+
 24. What at that time is right concentration?
 That which at that time is stability of mind,
 steadfastness of mind, absorbed steadfastness of mind,
@@ -1185,12 +1213,14 @@ unshakableness, non-distraction, imperturbability, tranquillity
 of mind, faculty ofconcentration, power ofconcentration,
 right concentration -- this atthattime is rightconcentration.
 
-Cittuppada Kanda 41
+Cittuppada Kanda 41 ^1-24
+
 25. What at that time is thepower ofconviction?
 That which atthattime isconviction,beingconvinced,
 immersioninconviction, clarity ofconviction,conviction as
 the faculty ofconviction,power ofconviction -- this atthat
-time is thepowerofconviction.
+time is thepowerofconviction. ^1-25
+
 26. What atthattime is thepower ofendeavour?
 Thatwhich atthattimeismental endeavour, riddance
 oflethargy, exerting harder and harder, endeavouring higher
@@ -1199,14 +1229,16 @@ steadfastness, resoluteness, unfaltering endeavour, having
 sustained deisre to strive, not relinquishing the task,
 discharging the task well, endeavour as the faculty of
 endeavour, power ofendeavour, right effort -- this at that
-time is the power of endeavour.
+time is the power of endeavour. ^1-26
+
 27. What at thattimeisthepowerofmindfulness?
 That which at that time is mindfulness, constant
 mindfulness, recollection, mindfulness which is remembering,
 bearing in mind, non-superficiality, non-forgetfulness,
 mindfulness as the faculty of mindfulness, power of
 mindfulness, right mindfulness -- this at that time is the
-power ofmindfulness.
+power ofmindfulness. ^1-27
+
 28. What at that time is the power ofconcentra-
 tion?
 That which at that time is stability of mind,
@@ -1216,7 +1248,8 @@ of mind, faculty of concentration, power ofconcentration,
 right concentration this at that time is the power of
 concentration.
 
-42 Dhammasangaņi
+42 Dhammasangaņi ^1-28
+
 29. What atthat time is thepower ofwisdom?
 That which at that time is wisdom, thorough
 understanding, scrutiny(ofimpermanence, etc. ofphenomena),
@@ -1233,13 +1266,15 @@ destroying defilement), wisdom like a tower, wisdom like
 light, wisdom like radiance, wisdom like a torch, wisdom
 like ajewel, non-bewilderment, investigative knowledge of
 the dhamma, right view -- this at that time is thepower of
-wisdom.
+wisdom. ^1-29
+
 30. What at that time is the power of being
 ashamed (to do evil)?
 That which at that time is being ashamed to do
 deeds the evilness ofwhich ought to cause shame, being
 ashamed to commit evil demeritorious deeds this at that--
-time is the power ofbeing ashamed (to do evil).
+time is the power ofbeing ashamed (to do evil). ^1-30
+
 31. What at that time is the power of fear (to
 do evil)?
 That which at that time is being afraid to do deeds
@@ -1247,18 +1282,21 @@ the evilness ofwhich ought to arouse fear, being afraid to
 commit evil demeritorious deeds this at that time is the--
 power offear (to do evil).
 
-Cittuppada Kanda 43
+Cittuppada Kanda 43 ^1-31
+
 32. What atthattime isnon-greed?
 That which at that time is greedlessness, being
 desireless, being without desire, non-attachment, nothaving
 attachment beingwithoutattachment, non-convetousness, non-
 greed which is the root of meritoriousness this at that
-time is non-greed.
+time is non-greed. ^1-32
+
 33. What atthattime isnon-hatred?
 That which at that time is non-hatred, hatelessness,
 being without hatred, absence ofill will, being without ill
 will, non-hatred which is the rootofmeritoriousness this--
-at that time is non-hatred.
+at that time is non-hatred. ^1-33
+
 34. What at that time is non-bewilderment?
 That which at that time is widsom, thorough under-
 standing, scrutiny (of impermanence, etc. of phenomena),
@@ -1275,7 +1313,8 @@ destryoing defilements), wisdom like a tower, wisdom like
 light, wisdom like radiance, wisdom like a torch, wisdom
 like ajewel, non-bewilderment, investigative knowledge of
 this at that time is non-the dhamma, right view --
-bewilderment.
+bewilderment. ^1-34
+
 35. What at that time is non-covetousness?
 That which at that time is greedlessness, being
 
@@ -1283,12 +1322,14 @@ That which at that time is greedlessness, being
 greedless, being without greed, non-attachment, not having
 attachment, being without attachment, non-covetousness,
 greedlessness which isthe rootofmeritoriousness -- this at
-that time is non-covetousness.
+that time is non-covetousness. ^1-35
+
 36. What atthattime is absence ofill will?
 That which at that time is absence of hatred,
 hatelessness, being without hatred, absence of ill will,
 being without ill will, hatelessness which is the root of
-meritoriousness -- this at thattime is absence ofill will.
+meritoriousness -- this at thattime is absence ofill will. ^1-36
+
 37. What at that time is right view?
 That which at thattime is widsom, thorough under-
 standing, scrutiny (of impermanence, etc. of phenomena),
@@ -1304,32 +1345,37 @@ wisdom, power of wisdom, wisdom like a sword (for
 destroying defilements), wisdom like a tower, wisdom like
 light, wisdom like radiance, wisdom like a torch, wisdom
 like ajewel, non-bewilderment, investigative knowledge of
-the dhamma, right view this at that time is right view.
+the dhamma, right view this at that time is right view. ^1-37
+
 38. What at that time is being ashamed (to do
 evil)?
 That which at that time is being ashamed to do
 deeds the evilness ofwhich ought to cause shame, being
 this atthatashamed to commit evil demeritorious deeds --
-time is being ashamed (to do evil).
+time is being ashamed (to do evil). ^1-38
 
 45Cittuppada Kanda
+
 39. What at that time is the fear(to do evil)?
 That which atthat time is being afraid to do deeds
 the evilness ofwhich ought to arouse fear,being afraid to
 commit evil demeritorious deeds this at that time is fear--
-(to do evil).
+(to do evil). ^1-39
+
 40. What at that time is serenity of mental
 concomitants¹?
 That which at that time is serenity, the state of
 being serene, tranquillity, calmness, the state of being
 tranquil, ofthe aggregates of sensation, ofperception and
 ofvolitional activities this at thattime is the serenity of
-mental concomitants.
+mental concomitants. ^1-40
+
 41. What at that time is the serenity ofmind?
 That which at that time is serenity, the state of
 being serene, tranquillity, calmness, the state of being
 this at thattranquil, of the aggregate of consciousness
-time is the serenity ofmind.
+time is the serenity ofmind. ^1-41
+
 42. What atthat time is the quickness ofmental
 concomitants?
 That which atthattime is quickness, thecapacityto
@@ -1339,69 +1385,80 @@ activities this at that time is the quickness of mental
 concomitants.
 43. the serenityofmentalconcomitants:kayapassaddhiHereand in
 the followingparagraphs,theterm 'kāya' meansallthemental
-concomitantstakentogether.
+concomitantstakentogether. ^1-42
 
 46 Dhammasangani
+
 43. What at that time is the quickness ofmind?
 That which atthat time is quickness, the capacity to
 change fast, the absence ofsluggishness, non-rigidity, ofthe
 aggregate of consciousness -- this at that time is the
-quickness of mind.
+quickness of mind. ^1-43
+
 44. What at that time is the malleability of
 mental concomitants?
 That which at that time is malleability, pliability,
 suppleness, non-stolidity, of the aggregates of sensation, of
 perception and ofvolitional activities -- this atthat time is
-the malleability ofmental concomitants.
+the malleability ofmental concomitants. ^1-44
+
 45. What at that time is the malleability of
 mind?
 That which at that time is malleability, pliability,
 suppleness, non-stolidity, of the aggregate ofconsciousness
-this at that time is the malleability ofmind.
+this at that time is the malleability ofmind. ^1-45
+
 46. What at that time is the preparedness (for
 good action) ofmental concomitants?
 That which at thattime is preparedness, workability,
 serviceableness (for good action), of the aggregates of
 thissensation, of perception and of volitional activities --
 at thattime is the preparedness (for good action) ofmental
-concomitants.
+concomitants. ^1-46
+
 47. What at that time is the preparedness (for
 good action) ofmind?
 That which at that time is preparedness, workability,
 serviceableness (for good action), of the aggregate of
 consciousness -- this at that time is the preparedness (for
-good action) ofmind.
+good action) ofmind. ^1-47
 
 47Cittuppada Kanda
+
 48. What at thattime isthe soundness ofmental
 concomitants?
 That which at that time is soundness, the state of
 being fit, thewholesomeness, ofthe aggregates ofsensation,
 ofperception and ofvolitional activities -- this atthattime
-is the soundness of mental concomitants.
+is the soundness of mental concomitants. ^1-48
+
 49. What at that time is the soundness ofmind?
 That which at that time is soundness, the state of
 being fit thewholesomenessoftheaggregate ofconsciousness
-this atthat time is the soundness ofmind.--
+this atthat time is the soundness ofmind.-- ^1-49
+
 50. What at that time is the rectitude of mental
 concomitants?
 That which at that time is straightforwardness,
 rectitude, uprightness, probity, straightness, ofthe aggregates
 of sensation, of perception and of volitional activities --
-this at that time is the rectitude of mental concomitants.
+this at that time is the rectitude of mental concomitants. ^1-50
+
 51. What at that time is the rectitude ofmind?
 That which at that time is straightforwardness,
 rectitude, uprightness, probity, straightness, ofthe aggregate
 of consciousness this at that time is the rectitude of
-mind.
+mind. ^1-51
+
 52. What at that time is mindfulness?
 That which at that time is mindfulness, constant
 mindfulness, recollection, mindfulnesswhich is remembering,
 bearing in mind, non-superficiality, non-forgetfulness,
 mindfulness asthe facultyofmindfulness,power ofmindful-
-this at that time is mindfulness.ness, right mindfulness --
+this at that time is mindfulness.ness, right mindfulness -- ^1-52
 
 48 Dhammasangani
+
 53. What atthat time isclearcomprehension?
 That which at that time is widsom, thorough under-
 standing, scrutiny (of impermanence, etc. of phenomena),
@@ -1418,13 +1475,15 @@ destryoing defilements), wisdom like atower, wisdom like
 light, wisdom like radiance, wisdom like a torch, wisdom
 like ajewel, non-bewilderment, investigative knowledge of
 this at that time is clearthe dhamma, right view
-comprehension.
+comprehension. ^1-53
+
 54. What at that time is tranquillity?
 That which atthattimeisstability ofmind, steadfast-
 nessofmind, absorbed steadfastness ofmind,unshakableness,
 non-distraction, imperturbability, tranquillityofmind, faculty
 ofconcentration, powerofconcentration, rightconcentration
--- this at that time is tranquillity.
+-- this at that time is tranquillity. ^1-54
+
 55. What at that time is insight?
 That which at that time is widsom, thorough under-
 standing, scrutiny (of impermanence, etc. of phenomena),
@@ -1442,7 +1501,8 @@ wisdom, power of wisdom, wisdom like a sword (for
 destryoing defilements), wisdom like atower, wisdom like
 light, wisdom like radiance, wisdom like a torch, wisdom
 like ajewel, non-bewilderment, investigative knowledge of
-the dhamma, right view -- this at that time is insight.
+the dhamma, right view -- this at that time is insight. ^1-55
+
 56. What atthattime isendeavour?
 Thatwhich atthattimeismental endeavour, riddance
 of lethargy, exerting harder andharder, endeavouringhigher
@@ -1451,7 +1511,8 @@ steadfastness, resoluteness, unfaltering endeavour, having
 sustained desire to strive, not relinquishing the task,
 discharging the task well, endeavour as the faculty of
 this at thatendeavour, power ofendeavour, right effort --
-time is endeavour.
+time is endeavour. ^1-56
+
 57. What at that time is non-distraction?
 Thatwhich atthattimeisstabilityofmind, steadfast-
 ness ofmind, absorbed steadfastness ofmind, unshakableness,
@@ -1467,8 +1528,9 @@ END OF THE FIRST PORTION FOR RECITATION
 50 Dhammasangani
 (ii) Section on Classified Enumeration of the
 Items of the First Category of Meritorious
-Thought Pertaining to the Sensuous Sphere
+Thought Pertaining to the Sensuous Sphere ^1-57
 a. Exposition in Brief
+
 58. At that time¹ four aggregates (khandhas) arise;
 two sense spheres (ayatanas) arise; two elements (dhātus)
 arise; three nutriments (āhāras)2arise; eight faculties(indriyas)
@@ -1497,23 +1559,27 @@ para66)
 4 dhamma dhātu: dhamma here means mental concomitants (see
 para 120).
 
-Cittuppada Kanda 51
+Cittuppada Kanda 51 ^1-58
 b. Detailed Exposition andAdditional Explanation
+
 59. Whatatthattime arethe four aggregates?
 The aggregateofsensation,theaggregateofperception,
 the aggregate ofvolitional activities and the aggregate of
-consciousness are the fouraggregates.
+consciousness are the fouraggregates. ^1-59
+
 60. Whatatthattimeistheaggregateofsensation?
 Thatwhich atthat time ismentaleaseandhappiness,
 sensation of mental ease and happiness born out of full
 contact with mind, feeling of mental ease and happiness
 born out of full contact with mind -- this at that time is
-the aggretage ofsensation.
+the aggretage ofsensation. ^1-60
+
 61. What at that time isthe aggregate ofpercep-
 tion?
 That which at that time is perception, the fact of
 perceiving, the state ofperception this atthat time is the
-aggregate ofperception.
+aggregate ofperception. ^1-61
+
 62. What atthattimeisthe aggregateofvolitional
 activities?
 At that time is contact, volition, initial application
@@ -1541,7 +1607,8 @@ endeavour, non-distraction (arises).
 At that tiem beside the above and apart from the
 aggregates ofsensation,perception and consciousness, there
 are other incorporeal dhamma which are causally produced
--- this atthat time is the aggregate ofvolitional activities.
+-- this atthat time is the aggregate ofvolitional activities. ^1-62
+
 63. What at that time is the aggregate of
 consciousness?
 That which at that time is thought, cognition,
@@ -1550,10 +1617,12 @@ mind, faculty of mind, consciousness, aggregate of
 consciousness, mind-consciousness-elementappropriatetothose
 mental concomitants this atthattime is the aggregate of
 consciousness.
-These at that time are the four aggregates.
+These at that time are the four aggregates. ^1-63
+
 64. What at that time are the two sense-spheres?
 Mind sphere and the sphere ofmental concomitants
-are the two sense-spheres.
+are the two sense-spheres. ^1-64
+
 65. What at that time is mind sphere?
 That which at that time is thought, cognition,
 knowing, mind (lit., heart), purity, mind as the sphere of
@@ -1562,16 +1631,19 @@ mind, faculty of mind, consciousness, the aggregate of
 
 53Cittuppada Kanda
 consciousness, mind-consciousness-element appropriatetothose
-mental concomitants -- this at that time is mind sphere.
+mental concomitants -- this at that time is mind sphere. ^1-65
+
 66. What at that time is the sphere of mental
 concomitants?
 The aggregateofsensation,theaggregateofperception
 and the aggregateofvolitional activities -this atthattime
 is the sphere ofmental concomitants.
-These at that time are the two sense-spheres.
+These at that time are the two sense-spheres. ^1-66
+
 67. What at that time are the two elements?
 Mind-consciousness-element andthe element ofmental
-concomitants¹ are the two elements.
+concomitants¹ are the two elements. ^1-67
+
 68. What at that time is mind-consciousness-
 -element?
 That which at that time is thought, cognition,
@@ -1579,7 +1651,8 @@ knowing, mind (lit., heart), purity, mind as the sphere of
 mind, faculty of mind, consciousness, aggregate of
 consciousness, mind-consciousness-element appropriatetothose
 mental concomitants - this.atthattimeismind-consciousness-
--element.
+-element. ^1-68
+
 69. What at that time is the element of mental
 concomitants?
 The aggregate ofsensation,theaggregateofperception
@@ -1591,18 +1664,22 @@ perception and volitional activities: as they are mental
 concomitants, dhammadhātu isrenderedhere asthe element of
 mental concomitants..
 
-54 Dhammasangaņi
+54 Dhammasangaņi ^1-69
+
 70. What at that time are the three nutriments?
 The nutrimentofcontact, the nutriment ofvolition
-and the nutriment ofconsciousness arethethree nutriments.
+and the nutriment ofconsciousness arethethree nutriments. ^1-70
+
 71. Whatatthattimeisthe nutriment ofcontact?
 That which atthattime iscontact, being incontact,
 this atthat timefull contact, the stateofcontactingwell -
-isthe nutriment ofcontact.
+isthe nutriment ofcontact. ^1-71
+
 72. Whatatthattimeisthenutrimentofvolition?
 That which atthattime isvolition, effectivevolition,
 exercise ofvolition this at that time is the nutriment of
-volition.
+volition. ^1-72
+
 73. What at that time is the nutriment of
 consciousness?
 That which at that time is thought, cognition,
@@ -1611,19 +1688,22 @@ mind, faculty of mind, consciousness, aggregate of
 consciousness, mind-consciousness-element appropriatetothose
 mental concomitants this atthat time isthe nutriment of
 consciousness.
-These at that time are the three nutriments.
+These at that time are the three nutriments. ^1-73
+
 74. What at that time are the eight faculties?
 Faculty ofconviction ,faculty ofendeavour, faculty
 ofmindfulness, facultyofconcentration, facultyofwisdom,
 faculty ofmind, faculty ofmental pleasantness and faculty
-ofvitality are the eight faculties.
+ofvitality are the eight faculties. ^1-74
+
 75. Whatatthattimeisthe facultyofconviction?
 Thatwhich atthattime isconviction,beingconvinced,
 immersion in conviction, clarity of conviction, conviction
 
 Cittuppada Kanda 55
 as the faculty ofconviction, power ofconviction - this at
-that time is the faculty ofconviction.
+that time is the faculty ofconviction. ^1-75
+
 76. What atthattimeisthe faculty ofendeavour?
 That which atthattime is mental endeavour, riddar
 of lethargy, exerting harder and harder, endeavouring higher
@@ -1632,14 +1712,16 @@ steadfastness, resoluteness, unfaltering endeavour, having
 sustained desire to strive, not relinquishing the task,
 discharging the task well, endeavour as the faculty of
 endeavour, power of endeavour, right effort - this at that
-time is the faculty ofendeavour.
+time is the faculty ofendeavour. ^1-76
+
 77. What atthattimeisthe facultyofmindfulness?
 That which at that time is mindfulness, constant
 mindfulness, recollection, mindfulness which is remembering,
 bearing in mind, non-superficiality, non-forgetfulness,
 mindfulness as the faculty of mindfulness, power of
 mindfulness, right mindfulness - this at that time is the
-faculty ofmindfulness.
+faculty ofmindfulness. ^1-77
+
 78. What at that time is the faculty of
 concentration?
 That which at that time is stability of mind,
@@ -1647,7 +1729,8 @@ steadfastness of mind, absorbed steadfastness of mind,
 unshakableness, non-distraction, imperturbability, tranquillity
 of mind, faculty of concentration, power ofconcentration,
 right concentration - this at that time is the faculty of
-concentration.
+concentration. ^1-78
+
 79. What at that time is the faculty ofwisdom?
 That which at that time is wisdom, thorough
 understanding, scrutiny (ofimpermanence, etc. ofphenomena),
@@ -1666,21 +1749,24 @@ destroying defilements), wisdom like a tower, wisdom like
 light, wisdom like radiance, wisdom like a torch, wisdom
 like ajewel, non-bewilderment, investigativeknowledge of
 the dhamma, right view - this at that time is the faculty
-ofwisdom.
+ofwisdom. ^1-79
+
 80. What at that time is the faculty ofmind?
 That which at that time is thought, cognition,
 knowing, mind (lit., heart), purity, mind as the sphere of
 mind, faculty of mind, consciousness, aggregate of
 consciousness, mind-consciousness-element appropiatetothose
 mental concomitants - this at that time is the faculty of
-mind.
+mind. ^1-80
+
 81. What at that time is the faculty of mental
 pleasantness?
 That which atthat time ismental easeandhappiness,
 sensation of mental ease and happiness born out of full
 contact with mind, feeling of mental ease and happiness
 born out of full contact with mind this at that time is-
-the faculty ofmental pleasantness.
+the faculty ofmental pleasantness. ^1-81
+
 82. What at that time isthe faculty ofvitality?
 That which at that time is the continuing force of
 those mental phenomena, their subsisting, their going on,
@@ -1690,13 +1776,15 @@ their being kept going on, the fact of their existence, the
 cause of their existence, their preservation, vitality as the
 faculty of vitality - this at that time is the faculty of
 vitality.
-These at that time are the eight faculties.
+These at that time are the eight faculties. ^1-82
+
 83. What atthat time ismental absorption (jhāna)
 with five factors?
 Initial application ofthe mind, sustained application
 of the mind, delightful satisfaction, happiness and one-
 -pointedness of mind are mental absorption with five
-factors.
+factors. ^1-83
+
 84. What atthat time is the initial application of
 the mind ?
 Thatwhich atthattimeis mentation,initialapplication
@@ -1704,7 +1792,8 @@ of the mind, thinking, applying the mind to the object of
 thinking, effectively applying the mind to the object of
 thinking, focussing the mind on the object of thinking,
 right thinking - this at that time is the initial application
-ofthe mind.
+ofthe mind. ^1-84
+
 85. What at that time is the sustained application
 ofthe mind?
 That which at that time is consideration, sustained
@@ -1712,20 +1801,23 @@ application of the mind, repeated consideration, close
 examination, keeping the mind continuously connected with
 the object ofthought, keepingthe mindonthe object as if
 continuously in view - this at that time is the sustained
-application ofthe mind.
+application ofthe mind. ^1-85
+
 86. What at that time is delightful satisfaction?
 That which at that time is delightful satisfaction,
 delight, intense delight, profuse delight, freshness, superb
 
 58 Dhammasangani
 this atfreshness, satisfaction, exultation, self-satisfaction -
-that time is delightful satisfaction.
+that time is delightful satisfaction. ^1-86
+
 87. What at that time is happiness?
 That which atthattime ismental ease andhappiness,
 sensation of mental ease and happiness born out of full
 contact with mind, feeling of mental ease and happiness
 born out of full contact with mind - this at that time is
-happiness.
+happiness. ^1-87
+
 88. What at that time is one-pointedness of the
 mind?
 That which at that time is stability ofmind, stead-
@@ -1736,12 +1828,14 @@ faculty of concentration, power of concentration, right
 concentration - this at that time is one-pointedness ofthe
 mind.
 This at that time is mental absorption with five
-factors.
+factors. ^1-88
+
 89. What at that time is the Path¹ with five
 constituents?
 Right view, rightthinking, righteffort, rightmindful-
 ness and right concentration are the Path with five con-
-stituents.
+stituents. ^1-89
+
 90. What at that time is right view?
 That which at that time is wisdom, thorough under-
 standing, scrutiny (of impermanence, etc. of phenomena),
@@ -1761,13 +1855,15 @@ wisdom, power of wisdom, wisdom like a sword (for
 destroying defilements), wisdom like a tower, wisdom like
 light, wisdom like radiance, wisdom like a torch, wisdom
 like ajewel, non-bewilderment, investigative knowledge of
-the dhamma, right view - this at that time is rightview.
+the dhamma, right view - this at that time is rightview. ^1-90
+
 91. What at that time is right thinking?
 Thatwhich atthattime ismentation, initial application
 ofthe mind, thinking, applying the mind to the object of
 thinking, effectively applying the mind to the object of
 thinking, focussing the mind on the object of thinking,
-right thinking - this at that time is right thinking.
+right thinking - this at that time is right thinking. ^1-91
+
 92. What at that time is right effort?
 Thatwhich atthattime ismental endeavour, riddance
 oflethargy, exerting harder andharder, endeavouring higher
@@ -1776,7 +1872,8 @@ steadfastness, resoluteness, unfaltering endeavour, having
 sustained desire to strive, not relinquishing the task,
 discharging the task well, endeavour as the faculty of
 endeavour, power of endeavour, right effort this at that
-time is right effort.
+time is right effort. ^1-92
+
 93. What at that time is right mindfulness?
 That which at that time is mindfulness, constant
 mindfulness, recollection, mindfulness which is remembering,
@@ -1785,23 +1882,27 @@ mindfulness, recollection, mindfulness which is remembering,
 bearing in mind, non-superficiality, non-forgetfulness,
 mindfulness as the faculty ofmindfulness, power ofmind-
 fulness, right mindfulness - this at that time is right
-mindfulness.
+mindfulness. ^1-93
+
 94. What at that time is right concentration?
 That which at that time is stability ofmind, stead-
 fastness ofmind, absorbed steadfastness ofmind, unshakable-
 ness, non-distraction, imperturbability, tranquillity ofmind,
 faculty of concentration, power of concentration, right
 concentration - this at that time is right concentration.
-This at that time is the Path with five constituents.
+This at that time is the Path with five constituents. ^1-94
+
 95. What at that time are the seven powers?
 Power ofconviction, power ofendeavour, power of
 mindfulness, power of concentration, power of wisdom,
 power ofbeing ashamed (to do evil), power of fear (to do
-evil) are the seven powers.
+evil) are the seven powers. ^1-95
+
 96. What atthattimeisthepower ofconviction?
 Thatwhich atthattimeisconviction,beingconvinced,
 immersion inconviction,clarity ofconviction - this atthat
-time is the power ofconviction.
+time is the power ofconviction. ^1-96
+
 97. What atthattime is thepowerofendeavour?
 That which atthattime ismental endeavour,riddance
 of lethargy, exerting harder and harder, endeavouring
@@ -1812,14 +1913,16 @@ chargingthetaskwell,endeavour asthe facultyofendeavour,
 this at that time is thepower of endeavour, right effort -
 power of endeavour.
 
-Cittuppada Kanda 61
+Cittuppada Kanda 61 ^1-97
+
 98. Whatatthattimeisthepower ofmindfulness?
 That which at that time is mindfulness, constant
 mindfulness, recollection, mindfulness which isremembering,
 bearing inmind,non-superficiality, non-forgetfulness, mind-
 fulness as the facultyofmindfulness, powerofmindfulness,
 right mindfulness - this at that time is the power of
-mindfulness.
+mindfulness. ^1-98
+
 99. What at that time is the power of con-
 centration?
 That which atthat time is stability ofmind, stead-
@@ -1827,7 +1930,8 @@ fastness of mind, absorbed steadfastness of mind, un-
 shakableness, non-distraction, imperturbability, tranquillity
 of mind, faculty ofconcentration, power ofconcentration,
 right concentration - this at that time isthepower ofcon-
-centration.
+centration. ^1-99
+
 100. What at that time is the power ofwisdom?
 That which at that time is wisdom, thorough under-
 standing, scrutiny (of impermanence, etc. ofphenomena),
@@ -1846,67 +1950,78 @@ like a jewel, non-bewilderment,investigative knowledge of
 
 62 Dhammasangani
 thedhamma, right view - this at thattime isthepower of
-wisdom.
+wisdom. ^1-100
+
 101. What at that time is the power of being
 ashamed (to do evil)?
 That which at that time is being ashamed to do
 deeds the evilness ofwhich ought to cause shame, being
 ashamed to commit evil demeritorious deeds - this at that
-time is the power ofbeing ashamed (to do evil).
+time is the power ofbeing ashamed (to do evil). ^1-101
+
 102. What at that time is the power of fear (to
 do evil)?
 That which atthat time is being afraidto do deeds
 the evilness ofwhich ought to arouse fear, being afraid to
 commit evil demeritorious deeds this at that time is the-
 power offear (to do evil).
-These at that time are the seven powers.
+These at that time are the seven powers. ^1-102
+
 103. What atthat time are the three root-causes?
 Non-greed, non-hatred and non-bewilderment are the
-three root-causes.
+three root-causes. ^1-103
+
 104. What atthat time is non-greed?
 That which at that time is greedlessness, being
 desireless, being withoutdesire, non-attachment, not having
 attachment, being withoutattachment, non-covetousness,non-
 this at thatgreed which is the root of meritoriousness
-time is non-greed.
+time is non-greed. ^1-104
+
 105. What atthat time is non-hatred?
 That which atthat time is non-hatred, hatelessness,
 being without hatred, absence ofill will, being without ill
 will, non-hatredwhich is the root ofmeritoriousness - this
 atthat time is non-hatred.
 
-Cittuppada Kanda 63
+Cittuppada Kanda 63 ^1-105
+
 106. What at that time is non-bewilderment?
 That which at thattime iswisdom, thorough under-
 standing, ....p.... non-bewilderment, investigative knowledge
 of the dhamma, right view - this at that time is non-
 bewilderment.
 These at that time are the three root-causes.
-Detailed Exposition ofSingle Factors
+Detailed Exposition ofSingle Factors ^1-106
+
 107. What at that time is contact as a single
 factor ?
 That which atthattime is contact, beingin contact,
 this at that time is contactfull contact, contacting well -
-as a single factor.
+as a single factor. ^1-107
+
 108. What at that time is sensation as a single
 factor?
 That which atthattime is mentaleaseandhappiness
 of mind, sensation ofmental ease and happiness born out
 of full contact with mind, feeling of mental ease and
 this at thathappiness born out offullcontactwith mind -
-time is sensation as a single factor.
+time is sensation as a single factor. ^1-108
+
 109. What at that time is perception as a single
 factor?
 That which at that time is perception, the fact of
 this at that time isperceiving, the state of perception -
-perception as a single factor.
+perception as a single factor. ^1-109
+
 110. What at that time is volition as a single
 factor?
 Thatwhich atthattime isvolition, effective volition,
 
 64 Dhammasangaņi
 exercise of volition this at that time is volition as a-
-single factor.
+single factor. ^1-110
+
 111. What at that time is thought as a single
 factor?
 That which at that time is thought, cognition,
@@ -1914,19 +2029,22 @@ knowing, mind (lit., heart), purity, mind as the sphere of
 mind, faculty of mind, consciousness, aggregate of
 consciousness, mind-consciousness-element appropriatetothose
 mental concomitants - this at that time is thought as a
-single factor.
+single factor. ^1-111
+
 112. What atthat timeisthe aggregate ofsensation
 as a single factor?
 Thatwhich atthattime is mental ease and happiness
 of mind, sensation of mental ease and happiness born out
 of full contact with mind, feeling of mental ease and
 this atthathappiness born outoffull contactwith mind -
-time is the aggregate ofsensation as a single factor.
+time is the aggregate ofsensation as a single factor. ^1-112
+
 113. What atthattimeistheaggregateofperception
 as a single factor?
 That which at that time is perception, the fact of
 this atthattime is theperceiving, the state ofperception
-aggregate ofperception as a single factor.
+aggregate ofperception as a single factor. ^1-113
+
 114. What atthattime isthe aggregateofvolitional
 activities as a single factor?
 At that time contact, volition, initial application
@@ -1956,7 +2074,8 @@ At that time besides the above and apart from the
 aggregates ofsensation, perception and consciousness, there
 are other incorporeal dhamma which are causally produced
 this at that time is the aggregate ofvolitional activities-
-as a single factor.
+as a single factor. ^1-114
+
 115. What at that time is the aggregate of con-
 sciousness as a single factor?
 That which at that time is thought, cognition,
@@ -1964,7 +2083,8 @@ knowing, mind (lit., heart), purity, mind as the sphere of
 mind, faculty of mind, consciousness, aggregate of
 consciousness, mind-consciousness-element appropriatetothose
 mental concomitants - this atthat time is the aggregate of
-consciousness as a single factor.
+consciousness as a single factor. ^1-115
+
 116. What atthattime is the sphere ofmind as a
 single factor ?
 That which at that time is thought, cognition,
@@ -1974,7 +2094,8 @@ knowing, mind (lit., heart), purity, mind as the sphere of
 mind, faculty of mind, consciousness, aggregate of
 consciousness,mind-consciousness-element appropriatetothose
 mental concomitants - this at that time is the sphere of
-mind as a single factor.
+mind as a single factor. ^1-116
+
 117. Whatatthattimeisthe faculty ofmind as a
 single factor?
 That which at that time is thought, cognition,
@@ -1982,7 +2103,8 @@ knowing, mind (lit., heart), purity, mind as the sphere of
 mind, faculty of mind, consciousness, aggregate of
 consciousness, mind-consciousness-elementappropriatetothose
 mental concomitants, - this at that time is the faculty of
-mind as a single factor.
+mind as a single factor. ^1-117
+
 118. What atthat time is the mind-consciousness-
 -element as a single factor ?
 That which atthattime isthought, cognition, know-
@@ -1990,13 +2112,15 @@ ing, mind (lit., heart), purity, mind as the sphere ofmind,
 faculty of mind, consciousness, aggregate ofconsciousness,
 mind-consciousness-element appropriate to those mental
 concomitants, - this atthattime is the mind-consciousness-
--element as a single factor.
+-element as a single factor. ^1-118
+
 119. What at that time is the sphere of mental
 concomitants as a single factor?
 The aggregateofsensation,theaggregateofperception
 this at thatand the aggregate of volitional activities, -
 time is the sphere of mental concomitants as a single
-factor.
+factor. ^1-119
+
 120. What at that time is the element of mental
 concomitants as a single factor?
 The aggregate ofsensation, the aggregate ofpercep-
@@ -2013,7 +2137,8 @@ ITEMS OF THE CATEGORY OF MERITORIOUS
 THOUGHT PERTAINING TO THE SENSUOUS SPHERE.
 (iii) Section on Suññata, Voidness of
 Atta in the Dhamma.1
-(a) Exposition in Brief
+(a) Exposition in Brief ^1-120
+
 121. At that time dhamma arise, aggregates
 (khandhas) arise, sense-spheres arise, elements arise, nutriments
 arise, faculties arise, mental absorption (jhāna) arises, the
@@ -2034,111 +2159,135 @@ or individualapart fromthese dhamma.
 
 68 Dhammasangaņi
 above), other incorporeal dhammawhich arecausallyproduced.
-These are the meritorious dhamma.
+These are the meritorious dhamma. ^1-121
 b. Detailed Exposition
+
 122. What atthattime are the dhamma that arise?
 The aggregareofsensation, the aggregateofperception,
 these atthat time arethe aggregate ofvolitional activities –
-thedhamma that arise.
+thedhamma that arise. ^1-122
+
 123. What at that time are the aggregates that
 arise?
 The aggregate of sensation, the aggregate of
 perception, the aggregate ofvolitional activities, the aggre-
 gate ofconsciousness - these atthattimeare the aggregates
-that arise.
+that arise. ^1-123
+
 124. What at that time are the sense-spheres that
 arise?
 The mind-sphere and the sphere of mental
 concomitants, - these at that time are the sense-spheres
-that arise.
+that arise. ^1-124
+
 125. What at that time are the elements that
 arise?
 The mind-consciousness-element, and the element of
 mental concomitants these at that time are the elements-
-that arise.
+that arise. ^1-125
+
 126. What at that time are the nutriments that
 arise?
 The nutriment ofcontact, the nutriment ofvolition,
 the nutriment ofconsciousness these atthat time are the
-nutriments that arise.
+nutriments that arise. ^1-126
 
 69Cittuppada Kanda
+
 127. What atthattime are the facultiesthat arise?
 The faculty ofconviction, the faculty ofendeavour,
 the faculty ofmindfulness,the faculty ofconcentration, the
 faculty of wisdom, the faculty of mind, the faculty of
 these at thatmental pleasantness, the faculty ofvitality -
-time are the faculties that arise.
+time are the faculties that arise. ^1-127
+
 128. What atthattimeismental absorption (jhāna)
 that arises?
 Initial application ofthe mind, sustained application
 of the mind, delightful satisfaction, bliss, one-pointedness
 ofthe mind -this atthattimeismental absorption (jhāna)
-that arises.
+that arises. ^1-128
+
 129. What at that time is the Path (leading to
 Nibbana) that arises?
 Right view, right thinking, right effort, right mind-
 fulness, right concentration this at that time is the Path
-(leading to Nibbana) that arises.
+(leading to Nibbana) that arises. ^1-129
+
 130. What atthattime are the powers that arise?
 The power of conviction, the power of endeavour,
 the power ofmindfulness, the power ofconcentration, the
 power of wisdom the power of being ashamed (to do
 these at that timeevil), the power of fear (to do evil) -
-are the powers that arise.
+are the powers that arise. ^1-130
+
 131. What atthattime are the causes that arise?
 Non-greed, non-hatredandnon-bewilderment - these
-at that time are the causes that arise.
+at that time are the causes that arise. ^1-131
+
 132. What at that time isthe contact that arises?
 this at that time is the contact that arises.
-p ...
+p ... ^1-132
 
 70 Dhammasangani
+
 133. Whatatthattime is the sensation that arises?
 this at that time is the sensation that arises.
-p ...
+p ... ^1-133
+
 134. What at that time is the perception that
 arises?
-this at that time is theperceptionthat arises.P
+this at that time is theperceptionthat arises.P ^1-134
+
 135. What at that time is the volition that arises?
 this at that time is the volition that arises.
-P ...
+P ... ^1-135
+
 136. What atthattime is the thought that arises?
 this at that time is the thought that arises.
-P ...
+P ... ^1-136
+
 137. What atthattime is the aggregate ofsensation
 that arises? this at that time is the aggregate ofP...
-sensation that arises.
+sensation that arises. ^1-137
+
 138. What atthattimeisthe aggregateofperception
 that arises? this at that time is the aggregate of
 ... p
-perception that arises.
+perception that arises. ^1-138
+
 139. What atthattime is the aggregateofvolitional
 activities that arises ? this at that time is the
 P ...
-aggregate ofvolitional activities that arises.
+aggregate ofvolitional activities that arises. ^1-139
+
 140. What at that time is the aggregate of con-
 sciousness that arises? this at that time is the
 P ...
-aggregate ofconsciousness that arises.
+aggregate ofconsciousness that arises. ^1-140
+
 141. What at that time is the mind-sphere that
 arises? this at that time is the mind-sphere that
 ... p
-arises.
+arises. ^1-141
+
 142. What atthat time is the faculty ofmind that
 arises? this at thattime is the faculty ofmind thatp
 arises.
 
-Cittuppada Kanda 71
+Cittuppada Kanda 71 ^1-142
+
 143. What atthattime isthemind-consciousness-
 element that arises? this at that time is the mind-
 p
--consciousness-element that arises.
+-consciousness-element that arises. ^1-143
+
 144. What at that time is the sphere of mental
 concomitants that arises?
 The aggregate of sensation, the aggregate of
 perception, the aggregate of volitional activities, - this at
-that time is the sphere ofmental concomitants that arises.
+that time is the sphere ofmental concomitants that arises. ^1-144
+
 145. What at that time is the element of mental
 concomitants that arises?
 The aggregate ofsensation, the aggregate ofpercep-
@@ -2152,7 +2301,8 @@ THOUGHT PERTAINING TO THE SENSUOUS SPHERE.
 
 72 Dhammasangani
 (2) The Second Category of Meritorious Thought
-Pertaining to the Sensuous Sphere.
+Pertaining to the Sensuous Sphere. ^1-145
+
 146. Whatarethemeritorious dhammā?
 When at a certaintime ameritorious thoughtpertain-
 ing tothe sensuous sphere arises, accompaniedbypleasure,
@@ -2168,8 +2318,9 @@ THOUGHT PERTAINING TO THE SENSUOUS SPHERE.
 (3) The Third Category of Meritorious
 Thought Pertaining to the Sensuous Sphere
 (i) Section on Definitions of the
-Dhamma Factors
+Dhamma Factors ^1-146
 a. Exposition in Brief
+
 147. Whatarethe meritoriousdhammā?
 When at acertaintime ameritoriousthoughtpertain-
 ingtothe sensuous sphere arises, accompanied bypleasure,
@@ -2241,10 +2392,11 @@ are the meritorious dhammā ...p... (Repeat here paragraphs
 the first category of meritorious thought pertaining to the.
 sensuous sphere are exactly the same as in this third
 category ofmeritorious thought pertaining to the sensuous
-sphere.)
+sphere.) ^1-147
 
 75Cittuppada Kanda
 b. Detailed Exposition
+
 148. What atthattime istheaggregateofvolitional
 activities?
 Contact, volition, initial application of the mind,
@@ -2281,7 +2433,8 @@ thought pertaining tothe sensuous sphere.)
 END OF THE THIRD CATEGORY OF MERITORIOUS THOUGHT
 PERTAINING TO THE SENSUOUS SPHERE.
 (4) The Fourth Category of Meritorious
-Thought Pertaining to The Sensuous Sphere
+Thought Pertaining to The Sensuous Sphere ^1-148
+
 149. What are meritorious dhammā?
 When at acertain time ameritoriousthoughtpertaining
 to the sensuous sphere arises, accompanied bypleasure (but)
@@ -2302,8 +2455,9 @@ PERTAINING TO THE SENSUOUS SPHERE.
 77Cittuppada Kanda
 (5) The Fifth Category of Meritorious
 Thought Pertaining to the Sensuous Sphere
-(1) Section on Definitions of the Dhammā
+(1) Section on Definitions of the Dhammā ^1-149
 a. Exposition in Brief
+
 150. What are meritorious dhammā?
 When at acertaintime ameritorious thoughtpertaining
 to the sensuous sphere arises, accompanied by equanimity
@@ -2341,10 +2495,12 @@ arises, non-distraction arises. At that time, (in addition to
 the above), there are other incorporeal dhamma which are
 causally produced. These are the meritorious dhammā.
 b. Detailed Exposition on Contact, Sensation,
-Equanimity and Faculty of Equanimity
+Equanimity and Faculty of Equanimity ^1-150
+
 151. What atthattime is contact?
 That which at that time is contact, being in contact,
-full contact, contacting well-- this at that time is contact.
+full contact, contacting well-- this at that time is contact. ^1-151
+
 152. What at that time is sensation?
 That which at that time is neither mental ease nor
 mental born out of full contact with mind-unease
@@ -2355,7 +2511,8 @@ nor unpleasantness born out of full contact with mind--
 this at that time is sensation ...p...
 (Repeat here paragraphs 4 to 8 on perception,
 volition, thought initial application ofthemindandsustained
-application ofthe mind)
+application ofthe mind) ^1-152
+
 153. What at that time is equanimity?
 That which at that time is neither mental ease nor
 mental unease, sensation of neither pleasantness nor
@@ -2367,7 +2524,8 @@ with mind-- this atthattime isequanimity ...p...
 (Repeat here as inparas 11 to 17onone-pointedness
 ofmind, facultyofconviction, facultyofendeavour, faculty
 ofmindfulness, facultyofconcentration, faculty ofwisdom,
-facultyofmind).
+facultyofmind). ^1-153
+
 154. What atthattime isthe facultyofequanimity?
 That which at that time is neither mental ease nor
 mental unease, sensation of neither pleasantness nor
@@ -2397,8 +2555,9 @@ arises; the element ofmentalconcomitants as a single factor
 (dhamma dhātu) arises. At that time (in addition to the
 above), other incorporealdhammāwhich arecausuallyproduced
 arise. These are meritorious dhamma. ...p...
-(Repeat here as inparagraphs 59, 60 and 61.)
+(Repeat here as inparagraphs 59, 60 and 61.) ^1-154
 b. Detailed Exposition
+
 155. What atthattime isthe aggregateofvolitional
 activities?
 At that time contact, volition, initial application of
@@ -2454,8 +2613,9 @@ paras 2to 145.
 82 Dhammasangani
 (7) The Seventh Category of Meritorious
 Thought Pertaining to the Sensuous Sphere.
-(i) Section on Definitions of the Dhamma factors
+(i) Section on Definitions of the Dhamma factors ^1-155
 a. Exposition in Brief
+
 157. What are meritorious dhammā?
 When at acertaintime ameritoriousthoughtpertaining
 to the sensuous sphere arises, accompanied by equanimity
@@ -2508,10 +2668,11 @@ element ofmental concomitants as a single factor arises.
 At that time (in addition to the above), there are
 other incorporeal dhammā which are causally produced.
 These are the meritorious dhammā. ...p... (Repeat here paras
-59, 61 and 153.)
+59, 61 and 153.) ^1-157
 
 84 Dhammasangani
 b. Detailed Exposition
+
 158. What atthattimeistheaggregateofvolitional
 activities ?
 Atthattimecontact, volition, initial applicationofthe
@@ -2543,7 +2704,8 @@ PERTAINING TO THE SENSUOUS SPHERE
 
 85Cittuppada Kanda
 (8) The Eighth Category of Meritorious
-Thought Pertaining to the Sensuous Sphere
+Thought Pertaining to the Sensuous Sphere ^1-158
+
 159. What are meritoriousdhammā?
 Whenatacertaintimeameritorious thoughtpertaining
 to the sensuous sphere arises, accompanied by equanimity
@@ -2572,7 +2734,8 @@ meditation. The exposition starts with Pathavi Kasiņa or
 earth-device.)
 (1) Classification of Jhana into
 Four Categories
-(i) The First Category of Jhana
+(i) The First Category of Jhana ^1-159
+
 160. What are meritorious dhammā?
 When at acertaintimeonepractises theway forthe
 attainment ofrebirth inthe Fine Material Sphere, he, being
@@ -2585,7 +2748,8 @@ and bliss (sukha) born out ofdetachment from hindrances.
 Atthattime contact arises ...p... (repeat as inparagraph 1)
 non-distraction arises ... (repeat as inparas2to 145)P
 These are the meritoriousdhamma.
-(ii) The Second Category ofJhana
+(ii) The Second Category ofJhana ^1-160
+
 161. Whatare meritoriousdhammā?
 When at acertain timeone practises the way for the
 attainment ofrebirth in the Fine Material Sphere bygetting
@@ -2626,8 +2790,9 @@ as a single factor arises. At that time (in addition to the
 88 Dhammasangani
 above), there are other incorporeal dhamma which are
 causally produced. These arethe meritorious dhamma. p
-(Repeat here inparas59to 61.)
+(Repeat here inparas59to 61.) ^1-161
 b. Detailed Exposition
+
 162. Whatatthattimeis theaggregateofvolitional
 activities ?
 Atthattime contact, volition, delightful satisfaction,
@@ -2650,7 +2815,8 @@ END OF THE SECOND CATEGORY OF JHANA THOUGHT
 PERTAINING TO THE FINEMATERIAL SPHERE
 
 Cittuppada Kanda 89
-(iii) The Third Category of Jhana
+(iii) The Third Category of Jhana ^1-162
+
 163. Whatare meritorious dhammā?
 Whenatacertaintimeonepractisesthewayforthe
 attainment ofrebirthintheFineMaterialSpherebydetaching
@@ -2691,8 +2857,9 @@ single factor arises.
 At that time (in addition to the above), there are
 other incorporeal dhamma which are causally produced.
 These are meritorious dhammā ...p... (repeat here as in
-paragraphs 59 to 61.)
+paragraphs 59 to 61.) ^1-163
 b. Detailed Exposition
+
 164. What at thattime is the aggregateofvolitional
 activities?
 At that time contact, volition, one-pointedness of
@@ -2714,7 +2881,8 @@ application ofthe mind and delightful satisfaction wherever
 they occur.) These arethe meritoriousdhammā.
 END OF THE THIRD CATEGORY OF JHANA THOUGHT
 PERTAINING TO THE FINE MATERIAL SPHERE.
-(iv) The Fourth Category of Jhana
+(iv) The Fourth Category of Jhana ^1-164
+
 165. What are the meritorious dhammā?
 When at a certaintime one practises the way for the
 attainment ofrebirth inthe Fine Material Sphere bydispelling
@@ -2754,8 +2922,9 @@ factor arises.
 At that time (in addition to the above), there are
 other incorporeal. dhamma which are causally produced.
 These arethe meritoriousdhammā ...p... (Repeathere as in
-paragraphs 59, 60 and 61.)
+paragraphs 59, 60 and 61.) ^1-165
 b. Detailed Exposition
+
 166. Whatatthattimeistheaggregateofvolitional
 activities?
 At that time, contact, volition, one-pointedness of
@@ -2777,7 +2946,8 @@ HERE ENDS THE CLASSIFICATION OF JHANA INTO FOUR
 CATEGORIES.
 Classification ofJhana into
 Five Categories
-(i) The First Category of Jhana
+(i) The First Category of Jhana ^1-166
+
 167. Whatarethe meritorious dhammā?
 When at acertaintimeonepractises theway forthe
 attainment ofrebirth inthe Fine Material Sphere, he,being
@@ -2786,7 +2956,8 @@ achieves and remains inthe firstjhāna, whichhas an earth-
 device as the object of meditation. At that time contact
 arises ...p... These arethemeritorious dhamma. (Repeat here
 as in paragraphs 2to 145).
-(ii) The Second Category of Jhana
+(ii) The Second Category of Jhana ^1-167
+
 168. Whatarethe meritorious dhammā?
 When at acertaintimeonepractises the way forthe
 attainment of rebirth in the Fine Material Sphere with an
@@ -2824,8 +2995,9 @@ other incorporeal dhamma which are causally produced.
 These are the meritorious dhammā ...p... (repeat here as in
 paras 59 to 61.)
 
-Cittuppada Kanda 95
+Cittuppada Kanda 95 ^1-168
 b. Detailed Exposition
+
 169. What atthattime isthe aggregateofvolitional
 activities?
 Contact, volition, sustained application ofthe mind,
@@ -2845,7 +3017,8 @@ concomitant ofinitial application ofthe mind, vitakka or
 sammāsańkappa.) These arethe meritoriousdhamma.
 END OF SECOND CATEGORY OF JHANA THOUGHT
 PERTAINING TO THE FINE MATERIAL SPHERE
-(iii) TheThird Category of Jhana
+(iii) TheThird Category of Jhana ^1-169
+
 170. Whatarethe meritorious dhammā?
 When at acertaintime one practises the way for the
 attainment ofrebirth in the Fine Material Sphere bygetting
@@ -2883,8 +3056,9 @@ At that time (in addition to the above), there are
 other incorporeal dhamma which are causally produced.
 These are the meritoriousdhammā ...p...
 
-Cittuppada Kanda 97
+Cittuppada Kanda 97 ^1-170
 b. Detailed Exposition
+
 171. What atthattime is the aggregateofvolitional
 activities?
 At thattime, contact,volition, delightful satisfaction,
@@ -2898,7 +3072,8 @@ there are other incorporeal dhamma which are causally
 produced. This at that time is the aggregate of volitional
 activities ...p... (Repeat here as in the peyyāla ofpara 162.)
 These are the meritorious dhammā.
-(iv) The Fourth Category of Jhana
+(iv) The Fourth Category of Jhana ^1-171
+
 172. Whatare the meritorious dhammā?
 When at a certaintime onepractises the way forthe
 attainment ofrebirth in the Fine MaterialSpherebydetaching
@@ -2934,8 +3109,9 @@ concomitants as a single factor arises.
 At that time (in addition to the above), there are
 other incorporeal dhamma which are causally produced.
 These are the meritorious dhammā ...p... (Repeat here as in
-paras 59 to 61).
+paras 59 to 61). ^1-172
 b. Detailed Exposition
+
 173. What at thattimeis the aggregate ofvolitional
 activities?
 At that time, contact, volition, one-pointedness of
@@ -2951,7 +3127,8 @@ there are other incorporeal dhamma which are causally
 produced. This at that time is the aggregate of volitional
 activities ...p... (repeat here as in the peyyāla ofpara 164).
 These are the meritorious dhammā.
-(v) The Fifth Category of Jhana
+(v) The Fifth Category of Jhana ^1-173
+
 174. What arethe meritorious dhammā?
 When at a certaintime onepractises the way forthe
 attainment ofrebirth inthe Fine Material Sphere bydispelling
@@ -2986,8 +3163,9 @@ single factorarises, the elementofmentalconcomitants as a
 single factor arises. Atthattime (inaddition to the above),
 there are other incorporeal dhamma which are causally
 produced. These are the meritorious dhammā ...p... (repeat
-here as inparas 59 to 61).
+here as inparas 59 to 61). ^1-174
 b. Detailed Exposition
+
 175. Whatatthattime istheaggregateofvolitional
 activities?
 At that time, contact, volition, one-pointedness of
@@ -3005,7 +3183,8 @@ END OF CLASSIFICATION OF JHĀNAS INTO FIVE CATEGORIES
 
 Cittuppada Kanda 101
 Enumeration of Kinds of Jhānas According to
-the Four Modes of Practice
+the Four Modes of Practice ^1-175
+
 176. What are the meritorious dhammā?
 When at acertaintimeone practisestheway forthe
 attainment of rebirth in the Fine Material Sphere, being
@@ -3013,7 +3192,8 @@ detached from sensual pleasures ...p... he, with an earth-
 -device as the object ofmeditation, achieves and remains in
 the firstjhāna by difficult practice and by slow acquisition
 ofjhāna attainment. At that time contact arises ...p... non-
--distraction arise ...p.... These are the meritorious dhammā.
+-distraction arise ...p.... These are the meritorious dhammā. ^1-176
+
 177. What are the meritorious dhammā?
 When at acertaintime onepractises theway forthe
 attainment ofrebirth in the Fine Material Sphere, he,being
@@ -3021,7 +3201,8 @@ detached from sensual pleasures ...p... achieves and remains
 in the first jhāna with an earth-device as the object of
 meditation by difficult practice and by swift acquisition of
 jhāna attainment. At that time contact arises ...p... non-
-distraction arises ...p... These arethe meritorious dhamma.
+distraction arises ...p... These arethe meritorious dhamma. ^1-177
+
 178. What are the meritorious dhammā?
 When at a certaintimeonepractises the way forthe
 attainment of rebirth in the Fine Material Sphere, being
@@ -3029,7 +3210,8 @@ detached from sensual pleasures ...p... he, with an earth-
 -device ofmeditation, achieves andremains inthe firstjhāna
 by facilepracticeandbyslowacquisition ofjhānaattainment.
 Atthattimecontact arises ...p... non-distraction arises. ...p...
-These are the meritorious dhamma.
+These are the meritorious dhamma. ^1-178
+
 179. Whatare the meritorious dhammā?
 When at acertaintime onepractisesthe way forthe
 attainment of rebirth in the Fine Material Sphere, being
@@ -3039,7 +3221,8 @@ detached from sensual pleasures ...p... he, with an earth-
 -device as the objectofmeditation, achieves and remains in
 the firstjhāna by facilepracticeandby swift acquisition of
 jhāna attainment. At that time contact arises, ...p... non-
--distraction arises ...p.... These arethe meritorious dhammā.
+-distraction arises ...p.... These arethe meritorious dhammā. ^1-179
+
 180. What are the meritorious dhammā?
 Whenat acertaintimeonepractisestheway forthe
 attainment ofrebirth inthe Fine Material Spherebygetting
@@ -3058,7 +3241,8 @@ attainment, with an earth-device asthe objectofmeditation.
 Atthattime contactarises ...p... non-distraction arises. ...p...
 These are the meritoriousdhammā.
 Enumeration of Kinds of Jhanas According to
-the Four Objects of Concentration
+the Four Objects of Concentration ^1-180
+
 181. What arethe meritorious dhamma?
 Whenat acertaintimeonepractises the way forthe
 attainment of rebirth in the Fine Material Sphere, being
@@ -3069,7 +3253,8 @@ attainment ofa higherjhāna) and with an earth-device of
 103Cittuppada Kanda
 limited size as the object ofmeditation. Atthattime contact
 arises ...p... non-distraction arises ...p... These are the meritorious
-dhamma.
+dhamma. ^1-181
+
 182. What are the meritorious dhammā?
 When at a certain time one practises theway forthe
 attainment of rebirth in the Fine Material Sphere, being
@@ -3078,7 +3263,8 @@ remains in the first jhāna with insufficient practice (for
 attainment of a higher jhāna) and with an earth-device
 capable ofextension as required as the object or meditation.
 Atthat time contact arises ...p... non-distraction arises ...p....
-These are the meritorious dhammā.
+These are the meritorious dhammā. ^1-182
+
 183. Whatarethe meritorious dhammā?
 When at a certain time one practises the way for the
 attainment of rebirth in the Fine Material Sphere, being
@@ -3087,7 +3273,8 @@ remains in the first jhāna with sufficient practice (for
 attainment of a higher jhāna) and with an earth-device of
 limited size as the object of meditation. At that time
 contact arises ...p... non-distraction arises ...p... These are
-the meritorious dhammā.
+the meritorious dhammā. ^1-183
+
 184. What are the meritorious dhammā?
 When at a certain time one practises the way for the
 attainment of rebirth in the Fine Material Sphere, being
@@ -3096,9 +3283,10 @@ remains in the first jhāna with sufficient practice (for
 attainment of a higher jhāna) and with an earth-device
 capable ofextension as required as the object ofmeditation.
 At that time contact arises ...p... non-distraction arises ...p...
-These are the meritorious dhamma.
+These are the meritorious dhamma. ^1-184
 
 104 Dhammasangani
+
 185. What are themeritoriousdhamma?
 Whenatacertaintimeonepractisestheway forthe
 attainmentofrebirth inthe FineMaterial Sphere,bygetting
@@ -3120,7 +3308,8 @@ time contact arises ...p... non-distraction arises ...p... These
 arethe meritoriousdhammā.
 Combination of Mode of Practice and
 Object of Concentration
-(First Jhāna)
+(First Jhāna) ^1-185
+
 186. Whatarethe meritoriousdhammā?
 Whenatacertaintimeone practisestheway forthe
 attainment of rebirth in the Fine Material Sphere, being
@@ -3132,7 +3321,8 @@ limited size as theobjectofmeditation. Atthattimecontact
 
 Cittuppada Kanda 105
 arises ...p... non-distraction arises ...p... Theseare themeritorious
-dhammā.
+dhammā. ^1-186
+
 187. What are the meritorious dhammā?
 When at acertain time onepractises theway forthe
 attainment of rebirth in the Fine Material Sphere, being
@@ -3142,7 +3332,8 @@ acquisition of jhāna attainment with insufficient practice
 (for attainment ofa higherjhāna) andwith an earth-device
 capable ofextension as required as the objectofmeditation.
 At that time contact arises ...p... non-distraction arises ...p...
-These are the meritorious dhammā.
+These are the meritorious dhammā. ^1-187
+
 188. What are the meritorious dhammā?
 When at a certain time onepractises the way forthe
 attainment of rebirth in the Fine Material Sphere, being
@@ -3152,7 +3343,8 @@ acquisition ofjhāna attainment with sufficient practice (for
 attainment of a higher jhāna) and with an earth-device of
 limited size as the object ofmeditation- then at that time
 contact arises ...p... non-distraction arises ...p... These are
-the meritorious dhammā.
+the meritorious dhammā. ^1-188
+
 189. What arethe meritorious dhammā?
 When at acertaintimeonepractisesthe way for the
 attainment of rebirth in the Fine Material Sphere, being
@@ -3164,7 +3356,8 @@ capable ofextension as requiredasthe object ofmeditation.
 
 106 Dhammasangani
 At thattime contact arises ...p... non-distraction arises ...p...
-These arethemeritorious dhamma.
+These arethemeritorious dhamma. ^1-189
+
 190. What arethe meritorious dhammā?
 When at acertaintimeonepractises theway forthe
 attainment of rebirth in the Fine Material Sphere, being
@@ -3174,7 +3367,8 @@ acquisition of jhāna attainment with insufficient practice
 (for attainmentofahigherjhāna) and with an earth-device
 of limited size as the object of meditation. At that time
 contact arises ...p... non-distraction arises ...p... These are the
-meritoriousdhammā.
+meritoriousdhammā. ^1-190
+
 191. Whatare the meritorious dhamma?
 When at acertaintime onepractisesthe way forthe
 attainment of rebirth in the Fine Material Sphere, being
@@ -3184,7 +3378,8 @@ acquisition ofjhānaattainmentwithinsufficientpractice(for
 attainment of a higher jhāna) and with an earth-device
 capable ofextensionas required asthe object ofmeditation.
 Atthat time contact arises ...p... non-distraction arises ...p...
-These are the meritorious dhammā.
+These are the meritorious dhammā. ^1-191
+
 192. Whatarethe meritorious dhammā?
 When at acertaintime onepractisestheway forthe
 attainment of rebirth in the Fine Material Sphere, being
@@ -3196,7 +3391,8 @@ limited size astheobjectofmeditation.Atthattimecontact
 
 Cittuppada Kanda 107
 arise ...p... non-distraction arises ...p... These arethemeritorious
-dhammā.
+dhammā. ^1-192
+
 193. Whatare the meritorious dhammā?
 When at acertaintime onepractises the way forthe
 attainment of rebirth in the Fine Material Sphere, being
@@ -3206,7 +3402,8 @@ acquisition ofjhāna attainment with sufficient practice (for
 attainment of a higher jhāna) and with an earth-device
 capable ofextension as required as the object ofmeditation.
 At that time contact arises ...p... non-distraction arises ...p...
-These are the meritorious dhammā.
+These are the meritorious dhammā. ^1-193
+
 194. What are the meritorious dhammā?
 When at acertaintimeonepractises the way forthe
 attainment of rebirth in the Fine Material Sphere, being
@@ -3216,7 +3413,8 @@ acquisition ofjhāna attainment with insufficientpractice (for
 attainment of a higher jhāna) and with an earth-device of
 limited size asthe object ofmeditation. Atthattime contact
 arises ...p... non-distraction arises ...p... These arethemeritorious
-dhammā.
+dhammā. ^1-194
+
 195. What are the meritorious dhammā?
 When at acertaintimeonepractisesthe way for the
 attainment of rebirth in the Fine Material Sphere, being
@@ -3228,7 +3426,8 @@ capable ofextension as required asthe object ofmeditation.
 
 108 Dhammasangani
 Atthattimecontactarises...p... non-distraction arises ...p...
-There are the meritoriousdhamma.
+There are the meritoriousdhamma. ^1-195
+
 196. Whatarethe meritorious dhammā?
 When at acertaintimeonepractisesthe way forthe
 attainment of rebirth in the Fine Material Sphere, being
@@ -3238,7 +3437,8 @@ acquisition ofjhāna attainment with sufficient practice (for
 attainment of a higherjhāna) and with an earth_device of
 limited size as the objectofmeditation. Atthattimecontact
 arises ...p... non-distractionarises ...p... Thesearethemeritorious
-dhamma
+dhamma ^1-196
+
 197. Whatarethe meritorious dhammā?
 When at acertaintimeonepractises theway forthe
 attainment of rebirth in the Fine Material Sphere, being
@@ -3248,7 +3448,8 @@ acquisition ofjhāna attaining with sufficient practice (for
 attainment of a higher jhāna) and with an earth-evice
 capable ofextensionas requiredastheobjectofmeditation.
 Atthattime contact arises ...p... non-distraction arises ...p...
-These are the meritorious dhammā.
+These are the meritorious dhammā. ^1-197
+
 198. Whatarethe meritorious dhammā?
 When at a certaintimeonepractises theway forthe
 attainment of rebirth in the Fine Material Sphere, being
@@ -3260,7 +3461,8 @@ limited size asthe objectofmeditation. Atthattimecontact
 
 109Cittuppada Kanda
 arises ...p... non-distractionarises ...p... Thesearethe meritorious
-dhamma.
+dhamma. ^1-198
+
 199. Whatarethe meritoriousdhammā?
 When at acertaintimeonepractisesthe way forthe
 attainment of rebirth in the Fine Material Sphere, being
@@ -3270,7 +3472,8 @@ acquisition ofjhāna attaining with insufficient practice (for
 attainment of a higher jhāna) and with an earth-device
 capable ofextensionas requiredastheobjectofmeditation.
 Atthattime contactarises ...p... non-distraction arises ...p...
-These are the meritorious dhamma.
+These are the meritorious dhamma. ^1-199
+
 200. Whatarethemeritorious dhammā?
 Whenat acertaintimeonepractisesthe way for the
 attainment of rebirth in the Fine Material Sphere, being
@@ -3280,7 +3483,8 @@ acquisition ofjhāna attainment with sufficient practice (for
 attainment of a higherjhāna) and with an earth-device of
 limited size asthe objectofmeditation.Atthattimecontact
 arises ...p... non-distractionarises ...p...Thesearethemeritorious
-dhammā.
+dhammā. ^1-200
+
 201. Whatarethe meritoriousdhammā?
 When at acertaintimeonepractisestheway forthe
 attainment of rebirth in the Fine Material Sphere, being
@@ -3293,7 +3497,8 @@ capable ofextension as requiredastheobjectofmeditation.
 110 Dhammasangani
 At thattime contact arises ...p... non-distraction arises ...p...
 These are the meritorious dhammā.
-(Second Jhāna)
+(Second Jhāna) ^1-201
+
 202. Whatare the meritorious dhammā?
 When at acertaintime one practises the way forthe
 attainment ofrebirth inthe FineMaterial Sphere, by getting
@@ -3372,7 +3577,8 @@ as required as the object ofmeditation. Atthattimecontact
 arises ...p... non-distraction arises ...p... Thesearethemeritorious
 dhamma.
 Sixteenfold Combination of Mode of Pracitce
-with Seven Other Objects of Concentration
+with Seven Other Objects of Concentration ^1-202
+
 203. What are the meritorious dhammā?
 When at acertaintimeone practises the way for the
 attainment of rebirth in the Fine Material Sphere, being
@@ -3391,7 +3597,8 @@ Cittuppada Kanda 113
 Abhibhāyatana Jhāna Attained by
 Mastery over Objects of Concentration of
 Limited Size
-(First Jhāna)
+(First Jhāna) ^1-203
+
 204. What are the meritorious dhammā?
 When at acertaintimeonepractises the way forthe
 attainment of rebirth in the Fine Material Sphere, not by
@@ -3402,7 +3609,8 @@ over them", and getting detached from sensual pleasures
 ...p... he achieves and remains in the firstjhāna then at
 that time contact arises ...p... non-distraction arises ...p...
 These are the meritorious dhammā.
-(Second Jhana, etc.)
+(Second Jhana, etc.) ^1-204
+
 205. What are the meritorious dhammā?
 When at acertaintime one practises the way for the
 attainment of rebirth in the Fine Material Sphere, not by
@@ -3418,7 +3626,8 @@ arises ...p... non-distraction arises ...p... These arethe meritorious
 dhammā
 
 114 Dhammasangani
-Four Modes of Practice
+Four Modes of Practice ^1-205
+
 206. Whatarethe meritoriousdhammā?`
 Whenat acertaintimeonepractisesthe way forthe
 attainment ofrebirth in the Fine Material Sphere, not by
@@ -3429,7 +3638,8 @@ over them", and getting detached from sensual pleasures
 ...p... by difficultpractice and by slow acquisition ofjhāna
 thenattainmenthe achieves andremains inthe firstjhāna -
 atthat timecontact arises ...p... non-distraction arises ...p...
-Thesearethemeritoriousdhammā.
+Thesearethemeritoriousdhammā. ^1-206
+
 207. Whatarethemeritoriousdhammā?
 Whenat acertaintimeonepractisesthewayforthe
 attainment of rebirth in the Fine Material Sphere, not by
@@ -3440,7 +3650,8 @@ over them", and getting detached from sensual pleasures
 ...p... by difficultpracticeand by swift acquisition ofjhāna
 attainmenthe achieves andremains inthe firstjhāna -then
 at that time contact arises ...p... non-distraction arises ...p...
-Thesearethe meritorious dhammā.
+Thesearethe meritorious dhammā. ^1-207
+
 208. What arethe meritoriousdhamma?
 Whenat acertaintime onepractisesthewayforthe
 attainment of rebirth in the Fine Material Sphere, not by
@@ -3453,7 +3664,8 @@ Cittuppada Kanda 115
 ...p... by facile practice and by slow acquisition ofjhāna
 attainment he achieves and remains inthe firstjhāna -then
 at that time contact arises ...p... non-distraction arises ...p...
-There are the meritorious dhamma.
+There are the meritorious dhamma. ^1-208
+
 209. What are the meritorious dhammā?
 When at a certaintimeone practises the way for the
 attainment of rebirth in the Fine Material Sphere, not by
@@ -3464,7 +3676,8 @@ over them", and getting detached from sensual pleasures
 ...p... and by facile practice and by swift acquisition of
 jhāna attainment he achieves and remains in the firstjhāna
 - then atthattime contact arises ...p... non-distraction arises
-...p... These are the meritorious dhammā.
+...p... These are the meritorious dhammā. ^1-209
+
 210. What are the meritorious dhammā?
 When at a certaintimeone practises the way forthe
 attainment of rebirth in the Fine Material Sphere, not by
@@ -3485,7 +3698,8 @@ attainment ...p... by facile practice and by swift acquisition
 ofjhāna attainment - then at thattime contact arises .....
 non-distractionarises ...p... These arethe meritoriousdiatrunā
 Two Objects of Concentration
-(First Jhāna)
+(First Jhāna) ^1-210
+
 211. Whatarethe meritorious dhammā?
 Whenat acertaintime onepractisesthe way forthe
 attainment of rebirth in the Fine Material Sphere, not by
@@ -3497,7 +3711,8 @@ over them", and getting detached from sensual pleasures
 insufficient practice (for attainment ofa higherjhāna) and
 then atthat timewith ameditation object oflimited size -
 contactarises ...p... non-distraction arises ...p... These are the
-meritoriousdhammā.
+meritoriousdhammā. ^1-211
+
 212. Whatarethe meritorious dhammā?
 When at acertaintime onepractises the way for the
 attainment of rebirth in the Fine Material Sphere, not by
@@ -3509,9 +3724,10 @@ over them", and getting detached from sensual pleasures
 sufficient practice (for attainment of a higher jhāna) and
 then atthattimewith a meditation objectoflimited size -
 contact arises ...p... non-distraction arises ...p... These are the
-meritoriousdhammā.
+meritoriousdhammā. ^1-212
 
 117Cittuppada Kanda
+
 213. What are the meritorious dhammā?
 Whenat acertaintimeonepractisesthe way forthe
 attainment of rebirth in the Fine Material Sphere, not by
@@ -3530,7 +3746,8 @@ non-distractionarises ...p...These arethe meritoriousdhamma
 Method of Eightfold Combination of
 Mode of Practice with Object of
 Concentration of Limited Size
-(First Jhāna)
+(First Jhāna) ^1-213
+
 214. What are the meritorious dhammā?
 When at acertaintimeone practisesthe way forthe
 attainment of rebirth in the Fine Material Sphere, not by
@@ -3545,7 +3762,8 @@ insufficient practice (for attainment of a higher jhāna) and
 118 Dhammasangani
 then at that timewith a meditation object oflimited size -
 contact arises ...p... non-distraction arises ...p... These are the
-meritorious dhammā.
+meritorious dhammā. ^1-214
+
 215. Whatarethe meritorious dhamma?
 When at acertaintime onepractises the way forthe
 attainment of rebirth in the Fine Material Sphere, not by
@@ -3558,7 +3776,8 @@ practice and slow acquisition of jhāna attainment with
 sufficient practice (for attainment of a higher jhāna) and
 with a meditation object oflimited size - then atthat time
 contact arises ...p... non-distraction arises ...p... These are the
-meritorious dhammā.
+meritorious dhammā. ^1-215
+
 216. Whatare the meritorious dhammā?
 When at a certaintimeone practises the way forthe
 attainment of rebirth in the Fine Material Sphere, not by
@@ -3573,7 +3792,8 @@ then atthat timewith ameditation object oflimited size -
 contact arises ...p... non-distraction arises ...p... These are the
 meritorious dhammā.
 
-Cittuppada Kanda 119
+Cittuppada Kanda 119 ^1-216
+
 217. Whatarethemeritoriousdhamma?
 Whenat acertaintimeonepractisesthewayforthe
 attainment of rebirth in the Fine Material Sphere, not by
@@ -3586,7 +3806,8 @@ practice and swift acquisitionof jhāna attainment with
 sufficient practice (for attainment ofahigher jhāna) and
 itedsize-thenatthattime withameditationobjectoflim
 contactarises...p...non-distraction arises...p... Thesearethe
-meritoriousdhamma.
+meritoriousdhamma. ^1-217
+
 218. Whatarethemeritoriousdhammā?
 Whenatacertaintime
 onepractisesthewayforthe
@@ -3616,7 +3837,8 @@ practice and slow acquisition of jhāna attainment with
 sufficient practice (for attainment of a higher jhāna) and
 with ameditation objectoflimited size -thenatthattime
 contactarises ...p...non-distractionarises ...p... These arethe
-meritoriousdhammā.
+meritoriousdhammā. ^1-218
+
 220. Whatarethemeritorious dhamma?
 When at acertaintimeonepractisestheway forthe
 attainment ofrebirth in the Fine Material Sphere, not by
@@ -3629,7 +3851,8 @@ practice and swift acquisition of jhāna attainment with
 insufficient practice (for attainment ofa higherjhāna) and
 thenatthattimewith a meditationobjectoflimitedsize -
 contact arises ...p... non-distraction arises ...p... These are the
-meritoriousdhammā.
+meritoriousdhammā. ^1-220
+
 221. Whatarethe meritorious dhammā?
 When at acertaintimeonepractises theway forthe
 attainment ofrebirth in the Fine Material Sphere, not by
@@ -3645,7 +3868,8 @@ Cittuppada Kanda 121
 with ameditationobjectoflimited size then atthat time-
 contactarises ...p... non-distraction arises ...p... Theseare the
 meritorious dhamma.
-(Second Jhana, etc.)
+(Second Jhana, etc.) ^1-221
+
 222. What arethedemeritoriousdhammā?
 Whenat acertaintimeonepractisestheway forthe
 attainment ofrebirth in the Fine Material Sphere, not by
@@ -3690,7 +3914,8 @@ then atthat time contact arises ...p... non-distraction arises.
 Eightfold Combination of Mode of Practice with
 Unblemished or Blemished Object of
 Concentration of Limited Size
-(First Jhāna)
+(First Jhāna) ^1-222
+
 223. Whatarethemeritorious dhamma?
 Whenatacertaintimeonepractisestheway forthe
 attainment ofrebirth in the Fine Material Sphere, not by
@@ -3702,7 +3927,8 @@ Cittuppada Kanda 123
 objects with mastery overthem", andgettingdetached from
 sensual pleasures ...p... he achieves and remains inthe first
 jhāna - thenatthattimecontactarises ...p... non-distraction
-arises ...p... These arethe meritoriousdhamma.
+arises ...p... These arethe meritoriousdhamma. ^1-223
+
 224. Whatarethedemeritoriousdhammā?
 When at acertaintimeonepractisesthewayforthe
 attainment of rebirth in the Fine Material Sphere, not by
@@ -3728,7 +3954,8 @@ and Objects ofConcentration.]
 Abhibhāyatana Jhana Attained by Mastery
 over Object of Concentration Capable of
 Extension as Required
-(First Jhāna)
+(First Jhāna) ^1-224
+
 225. Whatarethemeritorious dhammā?
 Whenatacertaintimeonepractisesthewayforthe
 attainment ofrebirth in the Fine Material Sphere, not by
@@ -3739,7 +3966,8 @@ objects with masteryoverthem." andgettingdetachedfrom
 sensual pleasures ...p... he achieves andremains inthe first
 jhāna, - thenatthattimecontactarises ...p... non-distraction
 arises ...p... These arethe meritoriousdhamma.
-(Second Jhana, etc.)
+(Second Jhana, etc.) ^1-225
+
 226. Whatarethemeritoriousdhamma?
 Whenatacertaintimeonepractisesthewayforthe
 attainment of rebirth in the Fine Material Sphere, not by
@@ -3756,7 +3984,8 @@ ihāna, then at that time contact arises ...p... non-
 
 Cittuppada Kanda 125
 Four Modes of Practice
-(First Jhana)
+(First Jhana) ^1-226
+
 227. Whatarethe meritoriousdhammā?
 Whenatacertaintimeonepractisesthewayforthe
 attainment ofrebirth in the Fine Material Sphere, not by
@@ -3767,7 +3996,8 @@ objects with masteryoverthem,"andgettingdetachedfrom
 sensual pleasures ...p... he achieves andremains inthe first
 jhāna by difficult practice and slow acquisition ofjhāna
 attainment - then at that time contact arises ...p... non-
-distraction arises ...p... Thesearethemeritoriousdhamma.
+distraction arises ...p... Thesearethemeritoriousdhamma. ^1-227
+
 228. Whatarethe meritoriousdhamma?
 When atacertaintimeonepractisestheway forthe
 attainment ofrebirth in the Fine Material Sphere, not by
@@ -3778,7 +4008,8 @@ objects with masteryoverthem," andgettingdetachedfrom
 sensual pleasures ...p... he achieves andremains inthe first
 jhāna by difficult practice and swift acquisition ofjhāna
 attainment - then at that time contact arises ...p... non-
-distraction arises ...p... Thesearethemeritoriousdhamma.
+distraction arises ...p... Thesearethemeritoriousdhamma. ^1-228
+
 229. What arethedemeritoriousdhamma?
 Whenat acertaintimeonepractisestheway forthe
 attainment ofrebirth in the Fine Material Sphere, not by
@@ -3791,7 +4022,8 @@ objectswith masteryoverthem," andgettingdetached from
 sensual pleasures ...p... he achieves and remains inthe first
 jhāna by facile practice and slow acquisition of jhāna
 attainment - then at that time contact arises ...p... non-
-distraction arises ...p... Thesearethemeritoriousdhammā
+distraction arises ...p... Thesearethemeritoriousdhammā ^1-229
+
 230. What arethemeritoriousdhammā?
 Whenat acertaintimeonepractisesthe way for the
 attainment ofrebirth in the Fine Material Sphere, not by
@@ -3803,7 +4035,8 @@ sensual pleasures ...p... he achieves and remains inthe first
 jhāna by facile practice and swift acquisition of jhāna
 attainment - then at that time contact arises ...p... non-
 distraction arises ...p... Thesearethe meritoriousdhamma.
-(Second Jhāna, etc.)
+(Second Jhāna, etc.) ^1-230
+
 231. Whatarethe meritorious dhammā?
 When at acertaintimeonepractisestheway forthe
 attainment of rebirth in the Fine Material Sphere, not by
@@ -3829,7 +4062,8 @@ jhāna attainment; then at that time contact
 arises ...p... non-distraction arises ...p...
 These are the meritorious dhamma.
 Two Objects of Concentration
-(First Jhana)
+(First Jhana) ^1-231
+
 232. What are the meritorious dhammā?
 When at a certain time one practisesthe way forthe
 attainment of rebirth in the Fine Material Sphere, not
@@ -3841,7 +4075,8 @@ sensual pleasures ...p... he achieves and remains in the first
 jhāna with insufficient practice (for attainment ofa higher
 jhāna) and with an object ofmeditation capable ofextension
 as required then at that time contact arises ...p... non-
-distraction arises ...p... These are the meritorious dhammā.
+distraction arises ...p... These are the meritorious dhammā. ^1-232
+
 233. Whatare the meritorious dhamma?
 When at a certaintime one practises the way for the
 attainment of rebirth in the Fine Material Sphere, not by
@@ -3856,7 +4091,8 @@ jhāna with sufficient practice (for attainment ofa higher
 jhāna) andwith an objectofmeditationcapable ofextension
 as required - then at that time contact arises ...p... non-
 distraction arises ...p... These are the meritorious dhammā.
-(Second Jhana etc.)
+(Second Jhana etc.) ^1-233
+
 234. Whatare the meritorious dhammā?
 When at acertaintimeonepractises theway forthe
 attainment of rebirth in the Fine Material Sphere, not by
@@ -3882,7 +4118,8 @@ Cittuppada Kanda 129
 Method of Eightfold Combination of
 Mode of Iractice with Objects of Concentration
 Capable of Extension as Required
-(First Jhāna)
+(First Jhāna) ^1-234
+
 235. What are the meritorious dhammā?
 When at a certaintime onepractisestheway forthe
 attainment of rebirth in the Fine Material Sphere, not by
@@ -3895,7 +4132,8 @@ jhāna by difficult practice and slow aquisition ofjhāna
 attainment with insufficient practice (for attainment of a
 higherjhāna) and an object ofmeditation capable ofextension
 as required then at that time contact arises ...p... non-
-distraction arises ...p... These are the meritorious dhammā.
+distraction arises ...p... These are the meritorious dhammā. ^1-235
+
 236. Whatare the meritorious dhammā?
 When at a certain time one practises the way forthe
 attainment of rebirth in the Fine Material Sphere, not by
@@ -3910,7 +4148,8 @@ jhāna) and an object of meditation capable ofextension as
 then at that time contact arises ...p... non-required -
 -distraction arises ...p... These arethe meritorious dhammā.
 
-130 Dhammasangaņi
+130 Dhammasangaņi ^1-236
+
 237. What are the meritorious dhamma?
 When at acertaintime one practises theway for the
 attainment of rebirth in the Fine Material Sphere, not by
@@ -3923,7 +4162,8 @@ jhāna by difficult practice and swift acquisition ofjhāna
 attainment andwith insufficientpractice(for attainment ofa
 higherjhāna) and anobjectofmeditationcapable ofextension
 as required then at that time contact arises ...p... non-
-distraction arises ...p... These are the meritorious dhamma.
+distraction arises ...p... These are the meritorious dhamma. ^1-237
+
 238. What arethe meritorious dhammā?
 When at a certaintimeone practisesthe way forthe
 attainment of rebirth in the Fine Material Sphere, not by
@@ -3936,7 +4176,8 @@ jhāna by difficult practice and swift acquisition ofjhāna
 attainmentwith sufficientpractice (for attainment ofahigher
 jhāna) and an object ofmeditation capable ofextension as
 required - then at that time contact arises ...p... non-
--distraction arises ...p... These arethe meritorious dhammā.
+-distraction arises ...p... These arethe meritorious dhammā. ^1-238
+
 239. What are the meritorious dhammā?
 When at acertaintimeonepractisestheway forthe
 attainment of rebirth in the Fine Material Sphere, not by
@@ -3951,7 +4192,8 @@ jhāna by facile practice and slow acquisition of jhāna
 attainment with insufficient practice (for attainment of a
 higherjhāna) and an object ofmeditationcapableofextension
 as required - then at that time contact arises ...p... non-
-distraction arises ...p... These arethe meritorious dhammā.
+distraction arises ...p... These arethe meritorious dhammā. ^1-239
+
 240. What are the meritorious dhammā?
 When at acertaintimeone practises the way forthe
 attainment of rebirth in the Fine Material Sphere, not by
@@ -3964,7 +4206,8 @@ jhāna by facile practice and slow acquisition of jhāna
 attainment with sufficientpractice (for attainment ofahigher
 jhāna) and an object ofmeditation capable ofextension as
 required then at that time contact arises ...p... non-
-distraction arises ...p... These are the meritorious dhammā.
+distraction arises ...p... These are the meritorious dhammā. ^1-240
+
 241. Whatare the meritorious dhammā?
 When at acertaintimeonepractises theway for the
 attainment of rebirth in the Fine Material Sphere, not by
@@ -3979,7 +4222,8 @@ attainment with insufficient practice (for attainment of a
 132 Dhammasangani
 higherjhāna) andanobjectofmeditationcapable ofextension
 as required - then at that time contact arises ...p... non-
-distraction arises ...p... Thesearethemeritorious dhamma.
+distraction arises ...p... Thesearethemeritorious dhamma. ^1-241
+
 242. Whatarethe meritorious dhammā?
 Whenat acertaintimeonepractisesthe way forthe
 attainment of rebirth in the Fine Material Sphere, not by
@@ -3992,7 +4236,8 @@ jhāna by facile practice and swift acquisition of jhāna
 attainment with sufficientpractice(forattainment ofahigher
 jhāna) and an object ofmeditation capable ofextension as
 required - then at that time contact arises ...p... non-
-distraction arises ...p... These are the meritorious dhammā.
+distraction arises ...p... These are the meritorious dhammā. ^1-242
+
 243. What are the meritorious dhammā?
 When at a certaintimeone practisesthe way forthe
 attainment of rebirth in the Fine Material Sphere, not by
@@ -4048,7 +4293,8 @@ meritorious dhammā.
 Eightfold Combination of Mode of Practice with
 Unblemished or Blemished Object of Concentration
 Capable of Extension as Required
-(First Jhāna)
+(First Jhāna) ^1-243
+
 244. What are the meritorious dhammā?
 When at a certaintime one practisesthe way for the
 attainment of rebirth in the Fine Material Sphere, not by
@@ -4061,7 +4307,8 @@ and getting detached from sensual pleasures ...p... he achieves
 then at that time contactand remains in the firstjhāna
 arises ...p... non-distraction arises ...p... These arethe meritorious
 dhammā.
-(Second Jhāna, etc.)
+(Second Jhāna, etc.) ^1-244
+
 245. What are the meritorious dhammā?
 When at a certain time one practises the way forthe
 attainment of rebirth in the Fine Material Sphere, not by
@@ -4088,7 +4335,8 @@ and Objects ofConcentration.]
 Abhibhāyatana Jhana attained by Mastery over
 Colour (in Sixteenfold Combination of Mode of
 Practice and Object of Concentration)
-(First Jhana)
+(First Jhana) ^1-245
+
 246. What arethedemeritorious dhammā?
 When at a certaintime one practises the way for the
 attainment of rebirth in the Fine Material Sphere, not by
@@ -4101,7 +4349,8 @@ from sensual pleasures ...p... he achieves andremains inthe
 
 136 Dhammasangani
 then at that time contact arises ..p... non-first jhāna -
-distraction arises ...p... These arethe meritoriousdhamma.
+distraction arises ...p... These arethe meritoriousdhamma. ^1-246
+
 247. Whatarethemeritorious dhammā?
 When atacertaintimeonepractises theway forthe
 attainment of rebirth in the Fine Material Sphere, not by
@@ -4119,7 +4368,8 @@ dhamma.
 Three Kinds of Release (Attained through
 Sixteenfold Combination of Mode of Practice
 and Object of Concentration)
-(First Jhana)
+(First Jhana) ^1-247
+
 248. Whatare the meritorious dhammā?
 When at acertaintimeonepractisestheway forthe
 attainment of rebirth in the Fine Material Sphere, by
@@ -4135,7 +4385,8 @@ stage.
 detached from sensual pleasures ...p... he achieves and
 remains in the firstjhāna - then atthat time contact arises
 ...p... non-distraction arises ...p... These are the meritorious
-dhamma.
+dhamma. ^1-248
+
 249. What are the meritorious dhammā?
 When at a certaintime one practises the way forthe
 attainment of rebirth in the Fine Material Sphere, not by
@@ -4144,7 +4395,8 @@ concentrating onthe colourofan external object ofmeditation,
 and getting detached from sensual pleasures...p... he achieves
 then at that time contactand remains in the firstjhāna -
 arises ...p... non-distraction arises ...p... These arethe ritorious
-dhammā.
+dhammā. ^1-249
+
 250. What are the meritorious dhammā?
 When at a certain time one practises the way for the
 attainment of rebirth in the Fine Material Sphere, by
@@ -4157,7 +4409,8 @@ Four Jhānas Attained by Abiding in Noble
 Thoughts of Goodwill etc. (through Sixteenfold
 Combination of Mode of Practice and
 Object of Concentration)
-(a) Fourfold Jhana of Goodwill
+(a) Fourfold Jhana of Goodwill ^1-250
+
 251. What are the meritorious dhammā?
 When at a certaintime one practises the way for the
 attainment ofrebirth in the Fine Material Sphere by getting
@@ -4166,7 +4419,8 @@ anddetached from sensual pleasures ...p... he achieves
 138 Dhammasangani
 remains in the first jhāna full of thoughts of goodwill
 (mettā) then at that time contact arises ...p... non-
--distraction arises ...p... These are the meritorious dhammā.
+-distraction arises ...p... These are the meritorious dhammā. ^1-251
+
 252. What are the meritorious dhammā?
 When at a certain time one practises the way for the
 attainment ofrebirth inthe Fine Material Sphere by getting
@@ -4174,7 +4428,8 @@ ridofinitial application ofthe mind and sustained application
 of the mind ...p... he achieves and remains in the second
 then at thatjhāna full of thoughts of goodwill (mettā) -
 time contact arises ...p... non-distraction arises ...p... These
-are the meritorious dhammā.
+are the meritorious dhammā. ^1-252
+
 253. What are the meritorious dhammā?
 When at a certain time one practises the way for the
 attainment ofrebirth in the Fine Material Sphere by getting
@@ -4182,14 +4437,16 @@ himself detached from delightful satisfaction (pīti) ...p... he
 achieves and remains inthe thirdjhāna full ofthoughts of
 goodwill (mettā) - then at that time contact arises ...p...
 non-distraction arises ...p... These arethe meritorious dhammā.
-(b) Fivefold Jhana of Goodwill
+(b) Fivefold Jhana of Goodwill ^1-253
+
 254. What are the meritorious dhammā?
 When at a certaintimeone practises the way for the
 attainment of rebirth in the Fine Material Sphere by getting
 detached from sensual pleasures ...p... he achieves and
 remains inthe firstjhāna with thoughts ofgoodwill (mettā)
 - then at that time contact arises ...p... non-distraction arises
-...p... These are the meritorious dhamma.
+...p... These are the meritorious dhamma. ^1-254
+
 255. What are the meritorious dhammā?
 When at a certain timeone practises the way for the
 attainment of rebirth in the Fine Material Sphere, he achieves
@@ -4200,7 +4457,8 @@ application of the mind but no initial application of the
 mind, with delightful satisfaction (piti)andbliss (sukha) born
 out ofconcentration and with thoughts ofgoodwill (metta)
 - then at that time contact arises ...p... non-distraction arises
-...p... These are the meritorious dhammā.
+...p... These are the meritorious dhammā. ^1-255
+
 256. What arethe meritorious dhammā?
 When at acertaintimeonepractises the way forthe
 attainment ofrebirth inthe Fine Material Sphere by getting
@@ -4208,7 +4466,8 @@ rid ofinitial applicationofthe mind and sustained application
 of the mind ...p... he achieves and remains in the third
 then atthattimejhāna with thoughts ofgoodwill (metta) -
 contact arises ...p.. non-distraction arises ...p... These are the
-meritorious dhamma.
+meritorious dhamma. ^1-256
+
 257. What are the meritorious dhammā?
 When at a certaintimeone practises the way forthe
 attainment ofrebirth inthe Fine Material Sphere bygetting
@@ -4216,16 +4475,18 @@ detached from delightful satisfaction ...p... he achieves and
 remains in the fourth jhāna with thoughts of goodwill
 (metta) - then at that time contact arises ...p... non-
 -distraction arises ...p... These are themeritorious dhammā.
-Jhanas of Compassion
+Jhanas of Compassion ^1-257
+
 258. What are the meritorious dhammā?
 When at a certaintimeone practises the way forthe
 attainment ofrebirth inthe Fine Material Sphere by getting
 detached from sensual pleasures ...p... he achieves and
 remains in the first jhāna with thoughts of compassion
 (karunā) then at that time contact arises ...p... non-
-distraction arises ...p... These are the meritorious dhammā.
+distraction arises ...p... These are the meritorious dhammā. ^1-258
 
 140 Dhammasangani
+
 259. What are the meritorious dhammā?
 When at acertaintimeonepractisesthe way forthe
 attainment ofrebirth inthe Fine Material Sphere bygetting
@@ -4235,14 +4496,16 @@ ofthe mind..he achieves and remains in the second jhāna
 first jhāna ...p... in the fourth jhāna with thoughts of
 compassion - then at that time contact arises ...p... non-
 -distraction arises ...p... These arethe meritorious dhammā.
-Jhānas of Sympathetic Joy
+Jhānas of Sympathetic Joy ^1-259
+
 260. What arethe meritorious dhammā?
 When at acertaintimeonepractises the way forthe
 attainment ofrebirth inthe Fine Material Sphere by getting
 detached from sensual pleasures ...p... he achieves and
 remains in the firstjhāna with thoughts of sympathetic joy
 (muditā) - then at that time contact arises ...p... non-
--distraction arises ...p... These are the meritoriousdhammā.
+-distraction arises ...p... These are the meritoriousdhammā. ^1-260
+
 261. What are the meritorious dhammā?
 When at a certaintimeonepractises the way forthe
 attainmentofrebirth in the Fine Material Sphere by getting
@@ -4254,7 +4517,8 @@ sympathetic joy - then atthattimecontact arises ...p... non-
 distraction arises ...p... These are the meritorious dhammā.
 
 141Cittuppāda Kanda
-Jhāna of Equanimity
+Jhāna of Equanimity ^1-261
+
 262. Whatarethe meritoriousdhammā?
 Whenat acertaintimeonepractisestheway forthe
 attainmentofrebirthintheFineMaterial Spherebye'iminating
@@ -4264,14 +4528,16 @@ then at that time contact arisesthoughts of equanimity -
 dhamma.¹
 Jhana on Foul Things (Attained through
 Sixteenfold Combination of Mode of Practice and
-Object of Concentration)
+Object of Concentration) ^1-262
+
 263. What arethe meritorious dhammā?
 When at acertaintimeonepractises the way forthe
 attainment ofrebirth inthe FineMaterial Sphere by getting
 detached from sensual pleasures ...p... he achieves and
 remains in the firstjhāna with the notion offoulness of a
 bloated corpse - thenatthat timecontact arises ...p... non-
-distraction arises ...p... These arethe meritorious dhammā.
+distraction arises ...p... These arethe meritorious dhammā. ^1-263
+
 264. Whatare the meritorious dhammā?
 When at acertaintimeone practises the way forthe
 attainment ofrebirth inthe Fine Material Sphere by getting
@@ -4300,7 +4566,8 @@ Meritorious Thoughts Pertaining to the
 Non-Material Sphere
 Four Jhanas Connected with Non-Material Sphere
 (Attained through a Sixteenfold Combination of
-Mode of Practice and Object of Concentration)
+Mode of Practice and Object of Concentration) ^1-264
+
 265. What are the meritorious dhamma?
 When at a certain timeone practises the way for the
 attainment ofrebirth in the Non-Material Sphere, by completely
@@ -4315,7 +4582,8 @@ andremains inthe fourthjhānacharacterised by elemination
 ofbliss (sukha) ...p... with equanimityandtogether with the
 concept 'Space is Infinite' - then atthattime contact arises
 ...p... non-distraction arises ...p... These are the meritorious
-dhamma.
+dhamma. ^1-265
+
 266. Whatare the meritorious dhammā?
 When at acertaintimeonepractises the way for the
 attainment of rebirth in the Non-Material Sphere, having
@@ -4324,7 +4592,8 @@ achieves and remains in the fourth jhāna characterised by
 elimination of bliss (sukha) ...p... with equani y and
 together withthe concept 'Consciousness inInfinite -then
 at that time contact arises ...p... non-distraction arises ...p...
-These are the meritorious dhammā.
+These are the meritorious dhammā. ^1-266
+
 267. Whatarethe meritorious dhammā?
 When at acertaintimeonepractisesthe way for the
 attainment of rebirth in the Non-Material Sphere, having
@@ -4333,7 +4602,8 @@ he achieves and remains inthe fourth-jhana characterised by
 elimination of bliss (sukha) ...p... with equanimity and
 thenatthattogether with the concept 'Nothing is There'
 time contact arises ...p... non-distraction arises ...p... These
-are the meritorious dhammā.
+are the meritorious dhammā. ^1-267
+
 268. Whatare the meritorious dhammā?
 When at acertaintimeonepractisestheway forthe
 attainmentofrebirth intheNon-Material Sphere, having totally
@@ -4353,7 +4623,8 @@ Kinds of Meritorious Thoughts
 which Lead to the Three Grades of Existence
 in the Respective Spheres
 (a) Meritorious Thoughts
-in the Sensuous Sphere
+in the Sensuous Sphere ^1-268
+
 269. What arethe meritorious dhammā?
 When at acertaintimeameritoriousthoughtpertaining
 tothe sensuous sphere arises,
@@ -4394,9 +4665,10 @@ by investigativeknowledge, or
 (19) superior in quality of effort and dominated
 then atthattimeby investigativeknowledge –
 contact arises ...p... non-distraction arises ...p...
-These are the meritorious dhammā.
+These are the meritorious dhammā. ^1-269
 
 146 Dhammasangani
+
 270. What are the meritorious dhammā?
 When at acertaintime ameritorious thoughtpertaining
 to the sensuous sphere arises,
@@ -4436,7 +4708,8 @@ itself orsuperiorinqualityofeffort anddominatedby itself
 ...p... These are the meritorious dhammā.
 (b) Meritorious Thoughts in the
 Fine Material Sphere
-(First Jhāna)
+(First Jhāna) ^1-270
+
 271. What are the meritorious dhammā?
 When at a certaintime onepractisesthe way forthe
 attainment ofrebirth inthe Fine Material Sphere, by getting
@@ -4474,7 +4747,8 @@ knowledge, or
 knowledge then at that time, contact arises
 ...p... non-distraction arises ...p... These are the
 meritorious dhammā.
-(Second Jhana, etc)
+(Second Jhana, etc) ^1-271
+
 272. What are the meritorious dhammā?
 When at a certaintimeonepractises the way forthe
 attainment ofrebirth inthe Fine Material Sphere and getting
@@ -4519,7 +4793,8 @@ knowledge - then at that time, contact arises
 meritorious dhammā.
 (c) Meritorious Thoughts in the
 Non-Material Sphere
-(First Arūpa Jhāna)
+(First Arūpa Jhāna) ^1-272
+
 273. Whatarethemeritorious dhammā?
 When at acertaintimeonepractises theway forthe
 attainmentofrebirth intheNon-Material Sphere,bycompletely
@@ -4561,7 +4836,8 @@ knowledge, or
 knowledge - then at that time, contact arises
 ...p... non-distraction arises ...p... These are the
 meritorious dhammā.
-(Second Arūpa Jhāna)
+(Second Arūpa Jhāna) ^1-273
+
 274. Whatarethe meritorious dhamma?
 When atacertain time onepractisestheway forthe
 attainment of rebirth in the Non-Material Sphere, having
@@ -4602,7 +4878,8 @@ knowledge - then at that time, contact arises
 meritoriousdhamma.
 
 Cittuppada Kanda 153
-(Third Arūpa Jhāna)
+(Third Arūpa Jhāna) ^1-274
+
 275. What arethe meritorious dhammā?
 When at a certair time onepractises the way forthe
 attainment of rebirth in the Non-Material Sphere, having
@@ -4641,7 +4918,8 @@ knowledge, or
 knowledge - then at that time, contact arises
 ...p... non-distraction arises ...p...These are the
 meritorious dhammā.
-(Fourth Arūpa Jhāna)
+(Fourth Arūpa Jhāna) ^1-275
+
 276. Whatarethe meritoriousdhammā?
 When at acertaintimeonepractisesthewayforthe
 attainment of rebirth in the Non-Material Sphere, having
@@ -4687,7 +4965,8 @@ Supramundane Meritorious Thoughts
 Exposition Purely ofPractice
 The first Magga: The first Jhana
 (i) Section on Definitions of the Dhammā
-(a) Exposition in Brief
+(a) Exposition in Brief ^1-276
+
 277. What are the meritorious dhammā?
 When at a certain time one practises supramundane
 mental concentration for the purpose oferadication ofwrong
@@ -4734,10 +5013,12 @@ arises, non-distraction arises.
 At that time (in addition to the above), there ar
 other incorporeal dhamma which are causally produced
 These are the meritorious dhamma.
-(b) Detailed Exposition
+(b) Detailed Exposition ^1-277
+
 278. Whatatthattime is contact?
 That which atthat time is contact, being incontact
-fullcontact, contactingwell -this atthattime iscontact.
+fullcontact, contactingwell -this atthattime iscontact. ^1-278
+
 279. Whatatthattime is sensation?
 Thatwhich atthattimeismental ease and happiness
 bornoutoffull contact with the mind-consciousness-element
@@ -4746,23 +5027,27 @@ happinessborn out offullcontactwith mind, feelingwhich
 
 158 Dhammasangani
 is mental ease and happiness born out offull contactwith
-mind -this atthattime is sensation.
+mind -this atthattime is sensation. ^1-279
+
 280. What atthattimeisperception?
 Thatwhich atthattimeisperceptionbornoutoffull
 contact with the mind-consciousness-element appropriate to
 thatperception, the factofperceiving,thestateofperception
-- this atthattime isperception.
+- this atthattime isperception. ^1-280
+
 281. Whatatthattime isvolition?
 That which atthattime is volition born out offull
 contact with the mind-consciousness-element appropriate to
 that volition, effective volition, exercise ofvolition - this at
-that time isvolition.
+that time isvolition. ^1-281
+
 282. What atthattime isthought?
 Thatwhich atthattimeisthought cognition, knowing,
 mind (lit., heart), purity, mind as the sphere ofmind, the
 faculty of mind, consciousness, aggregate ofconsciousness,
 mind-consciousness-element appropriate to those mental
-concomitants - this atthattime isthought.
+concomitants - this atthattime isthought. ^1-282
+
 283. Whatatthattime isinitial application ofthe
 mind?
 Thatwhich atthattime ismentation,initial application
@@ -4771,9 +5056,10 @@ thinking, effectively applying the mind to the object of
 thinking, focussingthemind onthe objectofthinking, right
 thinking, a constituent ofthe Path to Nibbana, knowledge
 included inthe Path this atthattime is initial application
-ofthe mind.
+ofthe mind. ^1-283
 
 159Cittuppada Kanda
+
 284. What atthattime is sustained application of
 themind ?
 That which at that time is consideration, sustained
@@ -4781,19 +5067,22 @@ application of the mind, repeated consideration, close
 examination, keepingthemindcontinuously connected with
 the object ofthought,keepingthe mindonthe object as if
 this at that time is sustainedcontinuously in view -
-application ofthemind.
+application ofthemind. ^1-284
+
 285. What atthattime isdelightful satisfaction?
 That which at that time is delightful satisfaction,
 delight, intense delight, profuse delight, freshness, superb
 freshness,satisfaction,exultation, selfsatisfaction, enlightenment
 factor ofdelightful satisfaction - this atthat timeisdelightful
-satisfaction.
+satisfaction. ^1-285
+
 286. Whatatthattime ishappiness?
 Thatwhich atthattimeismental ease andhappiness.
 ensation of mental ease and happiness born out of full
 contact with mind, feeling of mental ease and happiness
 born out offull contact with mind this at that time is
-happiness.
+happiness. ^1-286
+
 287. What atthattime isonepointedness of
 mind?
 Thatwhichatthattime isstabilityofmind, steadfastness
@@ -4802,14 +5091,16 @@ non-distraction, imperturbability,tranquillity ofmind, faculty
 ofconcentration,powerofconcentration, right concentration.
 enlightenment factor ofconcentration, a constituent of the
 Path to Nibbana, knowledge included inthe Path this at
-that timeis one-pointedness ofmind.
+that timeis one-pointedness ofmind. ^1-287
 
 160 Dhammasangani
+
 288. Whatatthattimeisthe faculty ofconviction?
 Thatwhich atthattimeisconviction,beingconvinced,
 immersion inconviction,clarity ofconviction,conviction as
 faculty of conviction, power of conviction this at that
-time isthe facultyofconviction.
+time isthe facultyofconviction. ^1-288
+
 289. Whatatthattimeisthe facultyofendeavour?
 Thatwhich atthattimeismental endeavour, riddance
 of lethargy, exerting harder andharder, endeavouring higher
@@ -4819,7 +5110,8 @@ sustaineddesireto strive, notrelinquishingthetask,discharging
 the task well, endeavour as facultyofendeavour, power of
 endeavour, right effort, enlightenment factor of effort, a
 constituentofthePathtoNibbana, knowledgeincludedinthe
-Path-- this at thattime isthe facultyof endeavour.
+Path-- this at thattime isthe facultyof endeavour. ^1-289
+
 290. Whatatthattimeisthe facultyofmindfulness?
 That which at that time is mindfulness, constant
 mindfulness, recollection,mindfulnesswhich isremembering,
@@ -4827,7 +5119,8 @@ bearing in mind, non-superficiality, non-forgetfulness,
 mindfulness as facultyofmindfulness,power ofmindfulness,
 right mindfulness, enlightenment factor of mindfulness, a
 constituent of the Path to Nibbana, knowledge included in
-the Path - this atthattime isthe faculty ofmindfulness.
+the Path - this atthattime isthe faculty ofmindfulness. ^1-290
+
 291. What at that time is the faculty of concen-
 tration?
 Thatwhich atthattime isstabilityofmind, steadfastness
@@ -4838,7 +5131,8 @@ enlightenment factor ofconcentration, a constituent ofthe
 
 Cittuppada Kanda 161
 Path to Nibbana, knowledge included inthe Path this at
-thattime isfacultyofconcentration.
+thattime isfacultyofconcentration. ^1-291
+
 292. What atthattime isthe faculty ofwisdom?
 That which atthattime is wisdom, thorough under-
 standing, scrutiny (of impermanence, etc. ofphenomena),
@@ -4857,13 +5151,15 @@ non-bewilderment, investigative knowledge ofthe dhamma.
 right view, enlightenment factor ofinvestigative knowledge
 of phenomena, a constituent of the Path of Nibbana,
 this at that time is theknowledge included in the Path -
-faculty ofwisdom.
+faculty ofwisdom. ^1-292
+
 293. What atthattimeisthe facultyofmind?
 Thatwhichatthattime isthought, cognition, knowing.
 mind (lit., heart), purity, mindasthe sphereofmind, faculty
 ofmind, consciousness, aggregate ofconsciousness, mind-
 consciousness-elementappropriatetothose mental concomitants
-this at thattimeisthe facultyofmind.-
+this at thattimeisthe facultyofmind.- ^1-293
+
 294. What atthattimeisthefacultyofmental
 pleasantness?
 Thatwhich atthattime ismental ease andhappiness,
@@ -4872,14 +5168,16 @@ sensation of mental ease and happiness born out of full
 162 Dhammasangani
 contact with mind, feeling of mental ease and happiness
 bom outoffullcontactwithmind this atthattimeisthe-
-facultyofmentalpleasantness.
+facultyofmentalpleasantness. ^1-294
+
 295. What atthattimeisthe facultyofvitality?
 That which at that time is the continuing force of
 those mental phenomena, their subsisting, their going on,
 their being kept going on, the fact oftheir existence, the
 cause oftheir existence, their preservation, life essence as
 facultyoflife essence this at that time is the faculty of
-vitality.
+vitality. ^1-295
+
 296. What atthattimeisthe facultyofknowledge
 acquired by the thought 'I shall come to realise what has
 notbeen realisedbefore (Nibbana)'?
@@ -4905,7 +5203,8 @@ Path to Nibbāna, knowledge included inthe Path - this at
 Cittuppada Kanda 163
 that time is the faculty of knowledge acquired by the
 thought 'I shall come to realisewhat has notbeen realised
-before(Nibbana).'
+before(Nibbana).' ^1-296
+
 297. What atthattime isrightview?
 That which at that time is wisdom, thorough
 understanding,scrutiny(ofimpermanence,etc.ofphenomena),
@@ -4924,7 +5223,8 @@ jewel, non-bewilderment, investigative knowledge of the
 dhamma, right view, enlightenment factor of investigative
 knowledge of phenomena, a constituent of the Path to
 Nibbana, knowledgeincludedinthePath-this atthattime
-isrightview
+isrightview ^1-297
+
 298. Whatatthattimeisright thinking?
 Thatwhich atthattimeismentation, initial application
 of the mind, thinking. applying the mind to the object of
@@ -4933,7 +5233,8 @@ thinking, focussingthe mind on theobjectofthinking, right
 thinking, a constituent ofthe Path to Nibbana, knowledge
 included inthe Path - this atthat time is rightthinking.
 
-164 Dhammasangaņi
+164 Dhammasangaņi ^1-298
+
 299. What atthattime is right speech?
 That which atthattime is avoidance from, complete
 avoidance from, shrinking from, abstinence from, not
@@ -4941,7 +5242,8 @@ committing, not uttering, not resorting to, not being guilty
 of, not transgressing the bounds into and eradicating the
 causes forthe fourkinds ofverbal misconduct, right speech,
 aconstituentofthe Path to Nibbāna, knowledgeincluded in
-the Path this at that timeis right speech.
+the Path this at that timeis right speech. ^1-299
+
 300. What atthattime isrightaction?
 That which atthattime is avoidance from, complete
 avoidance from, shrinking from, abstinence from, not
@@ -4949,7 +5251,8 @@ committing, notdoing,notresortingto, notbeing guilty of
 not transgressing the bounds into and eradicatingthe causes
 for the three kinds ofphysical misconduct, right action, a
 constituent ofthe Path to Nibbana, knowledge included in
-the Path this at that time is rightaction.
+the Path this at that time is rightaction. ^1-300
+
 301. What atthattime isrightlivelihood?
 That which atthattime is avoidance from, complete
 avoidance from, shrinking from, abstinence from, not
@@ -4957,7 +5260,8 @@ committing,notdoing, notresorting to, notbeing guilty of,
 not transgressingthe bounds into and eradicatingthecauses
 for wrong livelihood, right livelihood, a constituent ofthe
 Path to Nibbana, knowledge included inthe Path this at
-that time isright livelihood.
+that time isright livelihood. ^1-301
+
 302. Whatatthattimeisright effort?
 Thatwhich atthattime ismental endeavour,riddance
 of lethargy, exerting harder and harder, endeavouring
@@ -4969,7 +5273,8 @@ Cittuppada Kanda 165
 ۱۰ task well, endeavouras faculty ofendeavour, power of
 endeavour, right effort, enlightenment factor of effort, a
 constituent ofthe Path to Nibbana, knowledge included in
-the Path - this at that timeisrighteffort.
+the Path - this at that timeisrighteffort. ^1-302
+
 303. Whatatthattimeisrightmindfulness?
 That which at that time is mindfulness, constant
 mindfulness, recollection, mindfulnesswhichisremembering,
@@ -4977,7 +5282,8 @@ bearing in mind, non-superficiality, non-forgetfulness,
 mindfulness as facultyofmindfulness, powerofmindfulness,
 right mindfulness, enlightenment factor of mindfulness, a
 constituent ofthe Path to Nibbana, knowledge included in
-the Path this atthattime isrightmindfulness.
+the Path this atthattime isrightmindfulness. ^1-303
+
 304. Whatatthattimeisrightconcentration?
 Thatwhich atthattime isstabilityofmind steadfastness
 of mind, absorbed steadfastness of mind, unshakableness,
@@ -4985,12 +5291,14 @@ non-distraction, impertubability, tranquillity ofmind, faculty
 ofconcentration, power ofconcentration,right concentration,
 enlightenment factor ofconcentration, a constituent of the
 Path to Nibbana,knowledge included inthe Path - this at
-that time isrightconcentration.
+that time isrightconcentration. ^1-304
+
 305. What atthattimeisthepowerofconviction?
 Thatwhichatthattimeisconviction,beingconvinced,
 immersioninconviction, clarityofconviction, conviction as
 faculty ofconviction, power ofconviction-this atthattime
-isthepowerofconviction.
+isthepowerofconviction. ^1-305
+
 306. What atthattime isthepowerofendeavour?
 Thatwhich atthattime ismental endeavour,riddance
 oflethargy, exertingharder andharder, endeavouringhigher
@@ -5002,7 +5310,8 @@ sustaineddesiretostrive,notrelinquishingthetask discharging
 the task well, endeavour as faculty ofendeavour, power of
 endeavour, right effort, enlightenment factor of effort, a
 constituent ofthe Path to Nibbana, knowledge included in
-the Path this atthattime isthepowerofendeavour.
+the Path this atthattime isthepowerofendeavour. ^1-306
+
 307. Whatatthattimeisthepowerofmindfulness?
 That which at that time is mindfulness, constant
 mindfulness, recollection, mindfulnesswhich isremembering,
@@ -5010,7 +5319,8 @@ bearing in mind, non-superficiality, non-forgetfulness,
 mindfulness as facultyofmindfulness,powerofmindfulness,
 right mindfulness, enlightennient factor of mindfulness, a
 constituent ofthe Path to Nibbāna, knowledge included in
-the Path - this atthat time isthepowerofmindfulness.
+the Path - this atthat time isthepowerofmindfulness. ^1-307
+
 308. What atthattimeisthepowerofconcentra-
 tion?
 Thatwhich atthattime isstabilityofmind steadfastness
@@ -5019,7 +5329,8 @@ non-distraction, imperturbability,tranquillity ofmind, faculty
 ofconcentration,powerofconcentration, rightconcentration,
 enlightenment factor of concentration, a constituent ofthe
 Pathto Nibbana, knowledge included in the Path this at
-thattime isthepower ofconcentration.
+thattime isthepower ofconcentration. ^1-308
+
 309. What atthattime is the powerofwisdor
 That which at thattime is wisdom, thorough under-
 standing, scrutiny (of impermanence, etc. of phenomena),
@@ -5040,33 +5351,38 @@ non-bewilderment, investigative knowledge of the dhamma,
 right view, enlightenment factor ofinvestigative knowledge
 ofphenomena, aconstituentofthe Path to Nibbāna, knowledge
 included in the Path - this at that time is the power of
-wisdom.
+wisdom. ^1-309
+
 310. What at that time is the power of being
 ashamed (to do evil)?
 That which at that time is being ashamed to do
 deeds the evilness ofwhich ought to cause shame, being
 ashamed to commit evil demeritorious deeds this at that-
-time is power ofbeing ashamed (to do evil).
+time is power ofbeing ashamed (to do evil). ^1-310
+
 311. What at that time is power of fear (to do
 evil)?
 That which at that time is being afraid to do deeds
 the evilness ofwhich ought to arouse fear, being afraid to
 commit evil demeritorious deeds - this atthat timeis power
-of fear (to do evil).
+of fear (to do evil). ^1-311
+
 312. What atthattime is non-greed?
 That which at that time is greedlessness, being
 desireless, being without desire, non-attachment, nothaving
 attachment, being without attachment, non-covetousness, non-
 this at that
 -greed which is the root of meritoriousness -
-time is non-greed.
+time is non-greed. ^1-312
 
 168 Dhammasangani
+
 313. Whatatthattime is non-hatred?
 That which at that time is non-hatred, hatelessness,
 being without hatred, absence ofill will, being without ill
 will, non-hatred which is the root ofmeritoriousness - this
-at that time is non-hatred.
+at that time is non-hatred. ^1-313
+
 314. What atthat time is non-bewilderment?
 That which atthat time is wisdom, thorough under-
 standing, scrutiny (of impermanence, etc. of phenomena),
@@ -5084,7 +5400,8 @@ like radiance, wisdom like a torch, wisdom like a jewel,
 non-bewilderment, investigative knowledge ofthe dhamma,
 right view, enlightenment factor ofinvestigative knowledge
 ofphenomena, aconstituent ofthePathto Nibbāna knowledge
-included inthe Path this at thattime is non-bewilderment.
+included inthe Path this at thattime is non-bewilderment. ^1-314
+
 315. What atthattime is non-covetousness?
 That which at that time is greedlessness, being
 desireless, being without desire, non-attachment, not having
@@ -5092,12 +5409,14 @@ attachment being without attachment, non-covetousness, non-
 greed which is the root of meritoriousness - this at that
 time is non-covetousness.
 
-Cittuppada Kanda 169
+Cittuppada Kanda 169 ^1-315
+
 316. What atthattime is absence ofillwill?
 That which atthat time is non-hatred, hatelessness,
 being without hatred, absence ofill will, being without ill
 will, non-hatred which is the rootofmeritoriousness this-
-atthattime is absence ofill will.
+atthattime is absence ofill will. ^1-316
+
 317. What atthattimeisrightview?
 That which at thattime is wisdom, thorough under-
 standing, scrutiny (of impermanence, etc. of phenomena),
@@ -5115,7 +5434,8 @@ like radiance, wisdom like a torch, wisdom like a jewel,
 non-bewilderment, investigative knowledge ofthe dhamma,
 right view, enlightement factorofinvestigativeknowledge of
 phenomena, aconstituentofthe Pathto Nibbāna, knowledge
-included inthe Path this atthattime isrightview.
+included inthe Path this atthattime isrightview. ^1-317
+
 318. What atthattimeisbeing ashamed (todo
 evil)?
 That which at that time is being ashamed to do
@@ -5123,83 +5443,97 @@ deeds the evilness of which ought to cause shame, being
 ashamed to commit evil demeritorious deeds - this at that
 time isbeing ashamed(to do evil).
 
-170 Dhammasangaņi
+170 Dhammasangaņi ^1-318
+
 319. What atthattime is fear (to do evil)?
 That which at that time is being afraid to do deeds
 the evilness ofwhich ought to arouse fear, being afraid to
 commit evil demeritorious deeds this at that time is fear-
-(to do evil).
+(to do evil). ^1-319
+
 320. Whatatthattime isthe serenity ofmental
 concomitants?
 That which at thattime is serenity, the stateofbeing
 serene, tranquillity, calmness, the state ofbeing tranquil, of
 the aggregates ofsensation, ofperception and ofvolitional
 activities, enlightement factor ofserenity - this atthat time
-is the serenityofmental concomitants.
+is the serenityofmental concomitants. ^1-320
+
 321. What atthattimeis the serenity ofmind?
 That which at thattime is serenity, the state ofbeing
 serene, tranquillity, calmness, the state ofbeing tranquil, of
 the aggregate ofconsciousness, enlightement factor ofserenity
-- this at that time is the serenity ofmind.
+- this at that time is the serenity ofmind. ^1-321
+
 322. What atthattime is the quickness ofmental
 concomitants?
 Thatwhich atthat time is quickness, the capacity to
 change fast, the absence ofsluggishness, non-rigidity, ofthe
 aggregates of sensation, of perception and of volitional
 activities - this atthattime isthe quickness ofmental con-
-comitants.
+comitants. ^1-322
+
 323. What atthattime is the quickness ofmind?
 That which at that time is quickness, the capacityto
 change fast, the absence ofsluggishness, non-rigidity, ofthe
 aggregates of consciousness - this at that time is the
 quickness ofmind.
 
-Cittuppada Kanda 171
+Cittuppada Kanda 171 ^1-323
+
 324. What atthattimeis the malleability ofmental
 concomitants?
 That which at that time is malleability, pliability,
 suppleness, non-stolidity, of the aggregates of sensation, of
 perception and ofvolitional activities - this at that time is
-the malleability ofmentalconcomitants.
+the malleability ofmentalconcomitants. ^1-324
+
 325. What atthattime is the malleability ofmind?
 That which at that time is malleability, pliability,
 suppleness, non-stolidity, of the aggregate ofconsciousness
-- this at that time is the malleability ofmind.
+- this at that time is the malleability ofmind. ^1-325
+
 326. What at that time is the preparedness (for
 good action) ofmental concomitants?
 That which at that time is preparedness, workability,
 serviceableness (for good action), of the aggregates of
 sensation, ofperception and ofvolitional activities - this at
 that time is the preparedness (for good action) of mental
-concomitants.
+concomitants. ^1-326
+
 327. What at that time is the preparedness (for
 good action) ofmind?
 That which at thattime is preparedness, workability,
 serviceableness (for good action), of the aggregate of
 consciousness this at that time is the preparedness (for
-good action) ofmind.
+good action) ofmind. ^1-327
+
 328. What atthat time is the soundness ofmental
 concomitants?
 That which at that time is soundness, the state of
 being fit, the wholesomeness, ofthe aggregates ofsensation,
 this atthat timeofperception and ofvolitional activities
-is the soundness ofmental concomitants.
+is the soundness ofmental concomitants. ^1-328
 
 172 Dhammasangani
+
 329. What atthattime isthe soundness ofn
 ofThat which at that time is soundness, the si
 being fit, thewholesomeness, oftheaggregate ofconscismess
-this atthattime isthe soundness ofmind.
+this atthattime isthe soundness ofmind. ^1-329
+
 330. What at that time is the rectitude of mental
 concomitants.
 Thatwhich atthattime isstraightforwardness,rectitude,
 uprightness, probity, straightness, ofthe aggregates ofsensation,
 this atthattimeofperception and ofvolitional activities -
-is the rectitude ofmental concomitants.
+is the rectitude ofmental concomitants. ^1-330
+
 331. What atthattime isthe rectitude ofmind?
 Thatwhich atthattime is straightforwardness,rectitude,
 uprightness, probity, straightness, of the aggregate of
-consciousness this atthattime isthe rectitude ofmind.
+consciousness this atthattime isthe rectitude ofmind. ^1-331
+
 332. Whatatthattimeis mindfulness?
 That which at that time is mindfulness, constant
 mindfulness, recollection, mindfulnesswhich is remembering,
@@ -5207,7 +5541,8 @@ bearing in mind, non-superficiality, non-forgetfulness,
 mindfulness as the faculty ofmindfulness, power ofmind-
 fulness, right mindfulnss, enlightenment factorofmindfulness,
 a constituent ofthe Pathto Nibbāna, knowledge included in
-the Path this atthattime ismindfulness.
+the Path this atthattime ismindfulness. ^1-332
+
 333. What atthattime isclear comprehension?
 That which at that time is wisdom, thorough
 understanding, scrutiny(ofimpermanence, etc. ofphenomena),
@@ -5227,7 +5562,8 @@ like radiance, wisdom like a torch, wisdom like a jewel,
 non-bewilderment, investigative knowledge ofthe dhamma,
 right view, enlightenment factor ofinvestigative knowledge
 ofphenomena, aconstituentofthePathtoNibbāna knowledge
-included inthePath -this atthattime isclearcomprehension.
+included inthePath -this atthattime isclearcomprehension. ^1-333
+
 334. What atthattime is concentration?
 Thatwhich atthattimeisstabilityofmind, steadfastness
 of mind, absorbed steadfastness of mind, unshakableness,
@@ -5235,7 +5571,8 @@ non-distraction, imperturbability, tranquillityofmind, faculty
 ofconcentration, power ofconcentration,right concentration,
 enlightenment factor ofconcentration, a constituent ofthe
 this atPath to Nibbāna, knowledge included in the Path -
-thattime is concentration.
+thattime is concentration. ^1-334
+
 335. What atthattime is insight?
 That which at thattime is wisdom, thorough under-
 standing, scrutiny (of impemanence, etc. of phenomena),
@@ -5255,7 +5592,8 @@ like radiance, wisdom like a torch, wisdom like a jewel,
 non-bewilderment, investigative knowledge ofthe dhamma,
 right view, enlightenment factor ofinvestigative knowledge
 ofphenomena, aconstituentofthePath toNibbana, knowledge
-included inthe Path this at that time is insight
+included inthe Path this at that time is insight ^1-335
+
 336. What atthattime is endeavour?
 Thatwhich atthattime is mental endeavour, riddance
 of lethargy, exerting harder and harder, endeavouring higher
@@ -5265,7 +5603,8 @@ sustaineddesireto strive, notrelinquishingthetask,discharging
 the task well, endeavour as faculty ofendeavour, power of
 endeavour, right effort, enlightenment factor ofendeavour, a
 constituent of the Path to Nibbana, knowledge included in
-the Path this atthattime is endeavour.-
+the Path this atthattime is endeavour.- ^1-336
+
 337. What atthattime is non-distraction?
 Thatwhich atthattime is stability ofmind steadfastness
 of mind, absorbed steadfastness of mind, unshakableness,
@@ -5300,7 +5639,8 @@ as a single factor (dhammadhātu) arises.
 At that time (in addition to the above), there are
 other incorporeal dhamma which are causally produced.
 These are the meritoriousdhammā ...p...
-(b) Detailed and Additional Exposition
+(b) Detailed and Additional Exposition ^1-337
+
 338. What atthattime is theaggregateofvolitional
 activities?
 At that time, contact, volition, initial application of
@@ -5334,7 +5674,8 @@ At that time, besides the above, and apart from the
 aggregates ofsensation, perception and consciousness, there
 are other incorporealdhammawhich are causally produced.
 This at that time is the aggregate of volitional activities
-...p... These arethe meritoriousdhammā.
+...p... These arethe meritoriousdhammā. ^1-338
+
 339. What are the meritorious dhammā?
 When at a certain time one practises supramundane
 mental concentration forthepurpose oferadication ofwrong
@@ -5348,7 +5689,8 @@ destruction of death and rebirth and by getting detached
 from sensual pleasures ...p... he achieves and remains, by
 difficult practice and swift acquisition ofknowledge, inthe
 first jhāna - then at that time contact arises ...p... non-
-distraction arises ...p... These are the meritorious dhammā.
+distraction arises ...p... These are the meritorious dhammā. ^1-339
+
 340. Whatarethe meritorious dhammā?
 When at a certain time one practises supramundane
 mental concentrationforthepurposeoferadication ofwrong
@@ -5360,7 +5702,8 @@ destruction of death and rebirth and by getting detached
 from sensual pleasures ...p... he achieves and remains, hy
 facile practice and slow acquisition of knowledge, in the
 first jhāna - then at that time contact arises ...p... non-
-distraction arises ...p... These arethe meritoriousdharmmā.
+distraction arises ...p... These arethe meritoriousdharmmā. ^1-340
+
 341. Whatarethe meritorious dhammā?
 When at a certain time one practises supramundane
 mental concentrationforthepurposeoferadicationofwrong
@@ -5375,7 +5718,8 @@ first jhāna - then at that time contact arises ...p... non-
 -distraction arises ...p... These arethe meritoriousdhamma.
 
 178 Dhammasangaņi
-The First Magga: The Second Jhana, etc.
+The First Magga: The Second Jhana, etc. ^1-341
+
 342. What arethemeritoriousdhammā?
 When at a certaintime one practises transcendental
 imental concentrationfor thepurposeoferadicationofwrong
@@ -5398,7 +5742,8 @@ knowledge, in the second jhāna ...p... in the third jhāna
 fifth jhāna - then at that time contact arises ...p... non-
 distraction arises ...p... These arethemeritoriousdhamma.
 'Voidness of Self First Magga
-(First Jhāna)
+(First Jhāna) ^1-342
+
 343. What are the meritorious dhammā?
 When at a certain time one practises supramundane
 mental concentration for thepurposeoferadicationofwrong
@@ -5413,7 +5758,8 @@ pleasures ...p... he achieves and remains in the firstjhāna,
 called Suññata Jhana¹ which isdevoid ofSelf(atta) then-
 at that timecontact arises ...p... non-distraction arises ...p...
 These are the meritorious dhamma.
-(Second Jhana, etc.)
+(Second Jhana, etc.) ^1-343
+
 344. What arethe meritorious dhammā?
 When at a certain time one practises supramundane
 mental concentration forthepurpose oferadication ofwrong
@@ -5437,7 +5783,8 @@ Self
 180 Dhammasangaņi
 Jhānas Devoid of Self (atta)
 Attained through Four Modes of Practice
-(First Jhāna)
+(First Jhāna) ^1-344
+
 345. Whatarethe meritoriousdhammā?
 4When at a certain time one practises supramundane
 mental concentrationforthepurposeoferadication ofwrong
@@ -5450,7 +5797,8 @@ pleasures ...p... heachieves and remains, bydifficultpractice
 and slow acquisition ofjhāna attainment, inthe firstjhāna
 called Suññata Jhana which is devoid ofSelf(atta) - then
 at that time contact arises ...p... non-distraction arises ...p...
-These are the mritorious dhammā.
+These are the mritorious dhammā. ^1-345
+
 346. Whatare the meritoriousdhammā?
 When at a certain time one practises supramundane
 mentalconcentrationforthepurposeoferadication ofwrong
@@ -5464,7 +5812,8 @@ called Suññata Jhana which is devoid ofSelf(atta) then
 atthat time contact arises ...p... non-distraction arises ...p...
 These are the meritorious dhammā.
 
-Cittuppada Kanda 181
+Cittuppada Kanda 181 ^1-346
+
 347. What are the meritorious dhamma?
 When at a certain time one practises supramundan
 mentalconcentration forthepurpose oferadicationofwrong
@@ -5477,7 +5826,8 @@ pleasures ...p... he achieves and remains, by facile practice
 and slow acquisition ofjhāna attainment, in the firstjhāna
 called Suññata Jhana which is devoid ofSelf(atta) - then
 atthat time contact arises ...p... non-distraction arises ...p...
-These are the meritoriousdhammā.
+These are the meritoriousdhammā. ^1-347
+
 348. Whatarethe meritoriousdhammā?
 When at a certain time one practises supramundane
 mental concentration forthepurposeoferadication ofwrong
@@ -5491,7 +5841,8 @@ and swift acquisition ofjhāna attainment, inthe firstjhāna
 thencalled Suññata Jhanawhich isdevoid ofSelf(atta) -
 at that time contact arses ...p... non-distraction arises ...p...
 These are the meritorious dhamma,
-(Second Jhana, etc.)
+(Second Jhana, etc.) ^1-348
+
 349. Whatare the meritorious dhammā?
 When at a certain time one practises supramundan
 mental concentration for thepurposeoferadicationofwrong
@@ -5518,7 +5869,8 @@ then at that time contactwhich is devoid ofSelf(atta)
 arises ...p... non-distractionarises...p...These arethemeritorious
 dhamma.
 Jhānas Devoid of Hankering
-(First Jhana)
+(First Jhana) ^1-349
+
 350. Whatare the mertorious dhammā?
 When at acertaintimeone practises supramundane
 mental concentration for the purpose of eradication of
@@ -5533,7 +5885,8 @@ pleasures ...p... he ahieves and remains in the firstjhāna
 called Appanihita Jhana which is devoid of hankering -
 then at that time contact arises ...p... non-distraction aris
 ...p... These arethe meritoriousdhamma
-(Second Jhana, etc.)
+(Second Jhana, etc.) ^1-350
+
 351. Whatarethe meritoriousdhammā?
 When at a certain time one practises supramundane
 mental concentrationforthepurposeoferadication ofwrong
@@ -5551,7 +5904,8 @@ hankering - then at that time contact arises ...p... non-
 distraction arises ...p... These arethe meritoriousdhamma.
 Jhānas Devoid of Hankering
 Attained through Four Modes of Practice
-(First Jhāna)
+(First Jhāna) ^1-351
+
 352. Whatarethe meritoriousdhammā?
 When at acertaintime one practises supramundane
 mental concentration forthepurposeoferadication ofwrong
@@ -5566,7 +5920,8 @@ pleasures ...p... heachieves andremains, bydifficultpractice
 and slow acquisin ofjhāna attainment, inthe firstjhāna
 called Appanihita chana which is devoid of hankering -
 then at that time contact arises ...p...non-distraction arises
-...p... These arethe meritoriousdhamma.
+...p... These arethe meritoriousdhamma. ^1-352
+
 353. Whatarethe meritorious dhammā?
 When at a certain time one practises supramundane
 mental concentration for thepurposeoferadication ofwrong
@@ -5579,7 +5934,8 @@ pleasures ...p... he achieves andremains, bydifficultpractice
 and swift acquisition ofjhāna attainment, in the firstjhāna
 called Appanihita Jhāna which is devoid of hankering -
 then at that time contact arises ...p... non-distraction arises
-...p... These are the meritorious dhammā.
+...p... These are the meritorious dhammā. ^1-353
+
 354. What arethe meritorious dhammā?
 When at a certain time one practises supramundane
 mental concentration forthepurpose oferadication ofwrong
@@ -5594,7 +5950,8 @@ and slow acquisition ofjhāna attainment, in the firstjhāna
 Cittuppada Kanda 185
 called Appanihita Jhana which is devoid of hankering, -
 then at that time contact arises ...p... non-distraction arises
-...p... These are the meritorious dhammā.
+...p... These are the meritorious dhammā. ^1-354
+
 355. What arethe meritorious dhammā?
 When at a certain time one practises supramundane
 mental concentration for thepurpose oferadication ofwrong
@@ -5608,7 +5965,8 @@ and swift acquisition ofjhāna attainment, inthe firstjhāna
 called Appanihita Jhāna which is devoid ofhankering, -
 then at that time contact arises ...p... non-distraction arise.
 ...p... These arethe meritorious dhammā.
-(Second Jhana, etc.)
+(Second Jhana, etc.) ^1-355
+
 356. What arethe meritorious dhammā?
 When at acertain time one practises supramundane
 mental concentration for thepurposeoferadication ofwrong
@@ -5635,7 +5993,8 @@ Jhanawhichis devoid ofhankering ...p... in the thirdjhara
 fifth jhāna called Appanihita Jhana which is devoid of
 hankering then at that time contact arises ...p...non..
 -distraction arises ...p...These arethe meritorious charmmā.
-Twenty Great Methods
+Twenty Great Methods ^1-356
+
 357. Whatare the meritorious dhammā?
 When at a certain tirne onepractises -
 (1) [supramundane mental concentration as already
@@ -5680,7 +6039,8 @@ dhamma.
 
 188 Dhammasangaņi
 Four Dominating Factors and Jhānas
-(First Jhāna)
+(First Jhāna) ^1-357
+
 358. What are the meritorious dhammā?
 When at a certain time one practises supramundane
 mental concentration for thepurposeoferadication ofwrong
@@ -5697,7 +6057,8 @@ and slow acquisitionofjhāna attainment, inthe firstjhāna
 (4 dominated by investigative knowledge - then
 at that time contact arises ...p... non-distraction arises ...p...
 These are the meritorious dhammā.
-(Second Jhāna, etc.)
+(Second Jhāna, etc.) ^1-358
+
 359. Whatare the meritorious dhammā?
 When at a certain time one practises supramundane
 mental concentration forthepurpose oferadication ofwrong
@@ -5719,7 +6080,8 @@ in the fifthjhāna
 (4 dominated by investigativeknowledge - then
 at that time contact arises ...p... non-distraction arises ...p...
 These are the meritorious dhammā.
-Supramundane Magga, etc.
+Supramundane Magga, etc. ^1-359
+
 360. What are the meritorious dhammā?
 When at a certaintime onepractises
 - Supramundane Path (Magga) ...p...
@@ -5765,7 +6127,8 @@ at that time contact arises ...p... non-distraction arises ...p...
 These are the meritoriousdhammā.
 
 Cittuppada Kanda 191
-Second Magga
+Second Magga ^1-360
+
 361. Whatarethe meritorious dhammā?
 When at a certain time one practises supramundane
 mental concentration which leads to liberation from the ills
@@ -5780,7 +6143,8 @@ contact arises ...p... faculty ofperfect knowledge (ofwhat
 has already beenrealized inthe firstlevel ofenlightenment)
 arises ...p... non-distractionarises ...p...Thesearethemeritorious
 dhamma.
-Third Magga
+Third Magga ^1-361
+
 362. What arethe meritoriousdharumā?
 When at a certain time one practises supramundane
 mental concentrationwhich leads to liberation from the ills
@@ -5797,7 +6161,8 @@ arises ...p... non-distractionarises ...p... Thesearethemeritorious
 dhamma.
 
 192 Dhammasangani
-Fourth Magga
+Fourth Magga ^1-362
+
 363. What arethe meritoriousdhammā?
 When at a certain time one practises supramundane
 mental concentration which leads to liberation from the ills
@@ -5813,7 +6178,8 @@ then atacquisition ofjhāna attainment, inthe firstjhāna
 that time contact arises ...p... faculty ofperfectknowledge
 (ofwhathas alreadybeenrealized inthethree lower levels
 of enlightenment) arises ...p... non-distraction arises ...p...
-These arethe meritorious dhammā.
+These arethe meritorious dhammā. ^1-363
+
 364. What at that time is the faculty of perfect
 knowledge (ofwhathas already beenrealised
 inthethreelower levels ofenlightenment)?
@@ -5857,7 +6223,8 @@ which are Caused by Greed (lobha)
 Thought caused by Greed
 (i) Section on the Definition of the
 Dhamma Terms
-(a) Exposition in Briet
+(a) Exposition in Briet ^1-364
+
 365. What arethedemeritorious dhammā?
 When at a certain time a demeritorious thought
 arises, accompanied by pleasure and associated with wrong
@@ -5891,35 +6258,41 @@ non-distraction arises.
 At that time (in addition to the above), there are
 other incorporeal dhamma which are causally produced.
 These are thedemeritorious dhammā.
-(b) Detailed Exposition
+(b) Detailed Exposition ^1-365
+
 366. Whatatthattime iscontact?
 That which atthattime iscontact, being incontact,
-full contact, contacting well this atthattimeiscontact.
+full contact, contacting well this atthattimeiscontact. ^1-366
+
 367. Whatatthattime is sensation?
 That which atthattime is mental ease andhappiness
 born out of full contact with mind-consciousness-element
 appropriate to that feeling, sensation of mental ease and
 happiness bornoutoffull contactwith mind, feeling which
 is mental ease and happiness born out offullcontact with
-mind this atthattime is sensation.-
+mind this atthattime is sensation.- ^1-367
+
 368. What atthattime isperception?
 That which atthattime isperceptionborn outoffull
 contact with mind-consciousness-element appropriate to that
 perception, the factofperceiving, the state ofperception -
-this at thattime isperception.
+this at thattime isperception. ^1-368
 
 196 Dhammasangani
+
 369. Whatatthattime is volition?
 That which atthattime is volition born out offull
 contact with mind-consciousness-element appropriate to that
 volition, effectivevolition, exercise ofvolition this atthat
-time is volition.
+time is volition. ^1-369
+
 370. What atthattimeisthought?
 Thatwhich atthattimeisthought, cognition,knowing,
 mind (lit., heart),purity,mind asthesphereofmind, faculty
 of mind, consciousness, aggregate ofconsciousness, mind-
 consciousness-element appropriatetothosementalconcomitants
-- this atthattimeisthought.
+- this atthattimeisthought. ^1-370
+
 371. What atthattime is initial application ofthe
 mind?
 Thatwhich atthattimeismentation,initial application
@@ -5927,7 +6300,8 @@ ofthe mind, thinking, applying the mind to the object of
 thinking, effectively applying the mind to the object of
 thinking, focussing the mind on the object of thinking,
 wrong thinking - this at that time is initial application of
-themind.
+themind. ^1-371
+
 372. What atthattime is sustained application of
 themind?
 That which at that time is consideration, sustained
@@ -5935,26 +6309,30 @@ application of the mind, repeated consideration, close
 examination, keeping the mind continuously connected with
 the object ofthought, keepingthe mind as ifcontinuously
 inview this atthattime isthe sustained application ofthe
-mind.
+mind. ^1-372
 
 197Cittuppada Kanda
+
 373. Whatatthattimeisdelightful satisfaction?
 That which at that time is delightful satisfaction,
 delight, intense delight, profuse delight, freshness, superb
 freshness, satisfaction, exultation, selfsatisfaction this at-
-thattime isdelightful satisfaction.
+thattime isdelightful satisfaction. ^1-373
+
 374. What atthattime ishappiness?
 That which atthattimeismental easeandhappiness,
 sensation of mental ease and happiness born out of full
 contact with mind, feeling of mental ease and happiness
 born out of full contact with mind this at that time is-
-happiness.
+happiness. ^1-374
+
 375. What atthattimeisone-pointednessofmind?
 Thatwhichatthattimeisstabilityofmind steadfastness
 of mind, absorbed steadfastness of mind, unshakableness,
 non-distraction, imperturbability, tranquillityofmind, faculty
 ofconcentration, powerofconcentration, wrongconcentration
-this atthattime is one-pointedness ofmind.
+this atthattime is one-pointedness ofmind. ^1-375
+
 376. Whatatthattime isthe facultyofendeavour?
 Thatwhich atthattimeismentalendeavour,riddance
 oflethargy, exerting harder andharder, endeavouringhigher
@@ -5963,7 +6341,8 @@ steadfastness, resoluteness, unfaltering endeavour, having
 sustaineddesiretostrive, notrelinquishingthetask discharging
 thetaskwell, endeavour asthe faculty ofendeavour,power
 ofendeavour, wrongeffort -this atthattimeisthe faculty
-ofendeavour.
+ofendeavour. ^1-376
+
 377. What at that time is the faculty of
 concentration?
 Thatwhichatthattimeisstabilityofmind steadfastness
@@ -5972,26 +6351,30 @@ of mind. absorbed steadfastness of mind. unshakableness.
 198 Dhammasangani
 non-distraction, imperturbability, tranquillityofmind, faculty
 ofconcentration,powerofconcentration,wrongconcentration
-- this atthattimeisthe facultyofconcentration.
+- this atthattimeisthe facultyofconcentration. ^1-377
+
 378. Whatatthattimeisthe facultyofmind?
 Thatwhich atthattimeisthought, cognition,knowing,
 mind(lit., heart),purity,mind asthe sphere ofmind faculty
 of mind,consciousness, aggregate ofconsciousness, mind-
 consciousness-element appropriatetothosementalconcomitants
-- this atthattimeisthe facultyofmind.
+- this atthattimeisthe facultyofmind. ^1-378
+
 379. What at that time is the faculty of mental
 pleasantness?
 Thatwhich atthattimeis mentaleaseandhappiness,
 sensation of mental ease and happiness born out of full
 contact with mind, feeling of mental ease and happiness
 born out offull contact with mind this at that time is
-faculty ofmentalpleasantness.
+faculty ofmentalpleasantness. ^1-379
+
 380. Whatatthattimeisthe facultyofvitality?
 That which at that time is the continuing force of
 those mental phenomena, their subsisting, their going on,
 their being kept going on, the fact oftheir existence, the
 cause of their existence, their preservation, vitality as the
-facultyofvitality - thisatthattime isthefacultyofvitality.
+facultyofvitality - thisatthattime isthefacultyofvitality. ^1-380
+
 381. Whatatthattime iswrongview?
 Thatwhich atthattimeiswrong view, thatwhich is
 included in (the 62 kinds of wrong view, the thicket of
@@ -6006,13 +6389,15 @@ inclination towards wrong view (abhinivesa), misconception
 (parāmāsa), detestable path (kummagga), wrong course
 (micchāpatha), falseness (micchatta), base of wrong view
 (titthāyatana), tenacity in wrong view (vipariyāsaggāha)
-this at that time iswrong view.
+this at that time iswrong view. ^1-381
+
 382. What atthattime iswrongthinking?
 That which atthattime ismentation, initial application
 of the mind, thinking, applying the mind to the object of
 thinking, effectively applying the mind to the object of
 thinking, focussing the mind on the object of thinking.
-wrong thinking this atthat time iswrong thinking.
+wrong thinking this atthat time iswrong thinking. ^1-382
+
 383. What at that time iswrong effort?
 That which atthat time ismental endeavour, riddance
 of lethargy, exerting harder and harder, endeavouring higher
@@ -6021,14 +6406,16 @@ steadfastness, resoluteness, unfaltering endeavour, having
 sustaineddesireto strive, not relinquishing thetask, discharging
 the task well, endeavour as the faculty ofendeavour, power
 of endeavour, wrong effort - this at that time is wrong
-effort.
+effort. ^1-383
+
 384. What atthattime iswrong concentration?
 That which at that time is stability ofmind, stead-
 fastness of mind, absorbed steadfastness of mind,
 unshakableness, non-distraction, imperturbability, tranquillity
 ofmind, the faculty ofconcentration, powerofconcentration,
 wrong concentration - this at that time is wrong con-
-centration.
+centration. ^1-384
+
 385. What atthattime isthepowerofendeavour?
 That which atthattime ismental endeavour,riddance
 of lethergy, exerting harder and harder, endeavouring higher
@@ -6039,33 +6426,38 @@ steadfastness, resoluteness, unfaltering endeavour, having
 sustaineddesireto strive,notrelinquishingthetask discharging
 thetaskwell, endeavour asthe facultyofendeavour, power
 ofendeavour, wrong effort - this at that time is thepower
-ofendeavour.
+ofendeavour. ^1-385
+
 386. What at that time is the power of con-
 centration?
 Thatwhich atthattime isstabilityofmind steadfastness
 of mind, absorbed steadfastness of mind, unshakableness,
 non-distraction, imperturbability, tranquillity of mind, the
 faculty of concentration, power of concentration, wrong
-concentration -thisatthattimeisthepower ofconcentration.
+concentration -thisatthattimeisthepower ofconcentration. ^1-386
+
 387. What atthat time is the power ofnotbeing
 ashamed (to do evil)?
 That which atthattime is not being ashamed to do
 deeds the evilness of which ought to cause shame, not
 being ashamedto commitevildemeritorious deeds thisat
-that time is the power ofnotbeing ashamed (to do evil).
+that time is the power ofnotbeing ashamed (to do evil). ^1-387
+
 388. What atthattime is the power ofhaving no
 fear (to do evil)?
 That which at that time is not being afraid to do
 deeds the evilness ofwhich ought to arouse fear, not being
 afraid to commit evildemeritorious deeds thisatthattime-
-is the powerofhaving no fear(to do evil).
+is the powerofhaving no fear(to do evil). ^1-388
+
 389. What atthattime isgreed?
 That which at that time is greed, greediness, being
 greedy, attachment, being attached, having attachment,
 covetousness, greed which is the root ofdemeritoriousness
 - this at that time is greed.
 
-Cittuppada Kanda 201
+Cittuppada Kanda 201 ^1-389
+
 390. Whatatthattimeisbewilderment(moha)?
 That which at that time is ignorance (aññāna), not
 seeing (the Truth)(adassana),incomprehension(oftheTruth)
@@ -6087,12 +6479,14 @@ whirlpool of ignorance (avijjogha), yoke of ignorance
 (avijjāyoga) potential ignorance (avijjānusaya) upsurge of
 ignorance (avijjāpariyutthāna)barrierofignorance (avijjālingi),
 bewildermentwhich isthe rootofdemeritoriousness (moha
-akusalamūla) -thisatthattimeisbewilderment.
+akusalamūla) -thisatthattimeisbewilderment. ^1-390
+
 391. Whatatthattime iscovetousness?
 That which atthattime isgreed, greediness, being
 greedy, attachment, being attached, having attachment,
 covetousness,greedwhichistherootofdemeritoriousness -
-thisatthattimeiscovetousness.
+thisatthattimeiscovetousness. ^1-391
+
 392. Whatatthattime iswrongview ?
 Thatwhich atthattime iswrongview,thatwhichis
 included in (the 62kinds of wrong view, the thicket of
@@ -6107,27 +6501,31 @@ wrong view (abhinivesa), misconception (parāmāsa),detestable
 path (kummagga), wrong course (micchapatha), falseness
 (micchātta), base ofwrong view (titthāyatana), tenacity in
 wrong view (vipariyāsaggāho) - this at that time is wrong
-view.
+view. ^1-392
+
 393. Whatatthattimeisnotbeing ashamed (to do
 evil)?
 That which atthattime is notbeing ashamed to do
 deeds the evilness of which ought to cause shame, not
 being ashame to commit evil demeritorious deeds - this at
-thattime is notbeing ashamed (todo evil).
+thattime is notbeing ashamed (todo evil). ^1-393
+
 394. What at that time is having no fear (to do
 evil)?
 That which at that time is not being afraid to do
 deeds the evilness ofwhich ought to arouse fear, notbeing
 afraidto commitevildemeritoriousdeeds -this atthattime
-ishaving no fear(todo evil).
+ishaving no fear(todo evil). ^1-394
+
 395. What atthattime isconcentration?
 Thatwhich atthattime isstabilityofmind, steadfstness
 of mind, absorbed steadfastness of mind, unshakableness,
 non-distraction, imperturbability, tranquillity ofmind, faculty
 ofconcentration, powerofconcentration, wrongconcentration
-this atthattime isconcentration.-
+this atthattime isconcentration.- ^1-395
 
 203Cittuppada Kanda
+
 396. What atthattime is endeavour?
 Thatwhich atthattime is mental endeavour, riddance
 oflethargy, exerting harder andharder, endeavouringhigher
@@ -6135,7 +6533,8 @@ and higher, striving, painstaking zeal, utmost exertion,
 steadfastness, resoluteness, unfaltering endeavour, having
 sustaineddesire to strive, notrelinquishingthe task, discharging
 the task well, endeavour as the faculty ofendeavour, power
-of endeavour, wrong effort - this at thattime is endeavour.
+of endeavour, wrong effort - this at thattime is endeavour. ^1-396
+
 397. What atthattime is non-distraction?
 Thatwhich atthat time is stabilityofmind, steadfastness
 of mind, absorbed steadfastness of mind, unshakableness,
@@ -6162,7 +6561,8 @@ element ofmental concomitants (dhammadhātu) arises.
 At that time (in addition to the above), there are
 other incorporeal dhamma which are causally produced.
 Thesearethedemeritoriousdhamma ...p...
-(b) Detailed and Additional Exposition
+(b) Detailed and Additional Exposition ^1-397
+
 398. What atthattime istheaggregateofvolitional
 activities?
 (Atthattime,)contact, volition, initial application of
@@ -6183,7 +6583,8 @@ are other incorporeal dhamma which are causally produced
 
 205Cittuppada Kanda
 (2) Second Category of Demeritorious Thought
-Caused by Greed
+Caused by Greed ^1-398
+
 399. What arethedemeritoriousdhammā?
 When at a certain time a demeritorious thought
 arises, accompanied by pleasure, associated with wrong
@@ -6195,8 +6596,9 @@ dhamma.
 (3) Third Category of Demeritorious Thought
 Caused by Greed
 (i) Section on Definition of the
-Dhamma Terms
+Dhamma Terms ^1-399
 a. Exposition in Brief
+
 400. What are thedemeritoriousdhammā?
 When at a certain time a demeritorious thought
 arises, accompanied by pleasure but not associated with
@@ -6240,10 +6642,11 @@ sphere of mental concomitants (dhammayatana) arises; one
 element ofmental concomitants arises.
 At that time (in addition to the above), there are
 other incorporeal dhamma which are causally produced.
-These are the demeritorious dhamma ...p...
+These are the demeritorious dhamma ...p... ^1-400
 
 207Cittuppada Kanda
 b. Detailed and Additional Exposition
+
 401. Whatatthattimeisthe aggregateofvolitional
 activities?
 (Atthattime) contact, volition, initial applicationof
@@ -6262,7 +6665,8 @@ are other incorporeal dhamma which are causally produced
 - this at that time is the aggregate ofvolitional activities
 ...p... These arethedemeritoriousdhamma.
 (4) Fourth Category of Demeritorious Thought
-Caused by Greed
+Caused by Greed ^1-401
+
 402. What are the demeritorious dhammā?
 When at a certain time a demeritorious thought
 arises, accompanied by pleasure not associated with wrong
@@ -6276,8 +6680,9 @@ Dhammasangani
 (5) Fifth Category of Demeritorious Thought
 Caused by Greed
 (i) Section on Definition of the
-Dhamma Factors
+Dhamma Factors ^1-402
 a. Exposition in Brief
+
 403. What arethe demeritorious dhammā?
 When at a certain time a demeritorious thought
 arises, accompanied by neutrality of feeling and associated
@@ -6303,11 +6708,13 @@ other incorporeal dhamma which are causally produced.
 These are the demeritorious dhammā.
 
 Cittuppada Kanda 209
-(b) Detailed Exposition
+(b) Detailed Exposition ^1-403
+
 404. What atthattime iscontact ?
 That which at thattime is contact, being incontact,
 this atthat timefull contact, the state ofcontactingwell -
-is contact.
+is contact. ^1-404
+
 405. What atthattimeis sensation?
 That which at that time is neither mental ease nor
 mental uneasebornoutoffull contactwith mind-consciousness-
@@ -6315,13 +6722,15 @@ mental uneasebornoutoffull contactwith mind-consciousness-
 neither pleasantness nor unpleasantness born out of full
 contact with mind, feeling of neither pleasantness nor
 this atunpleasantness born out offull contact with mind -
-that time is sensation ...p...
+that time is sensation ...p... ^1-405
+
 406. What atthattimeis neutralityoffeeling?
 That which at that time is neither mental ease nor
 mental unease, sensation of neither pleasantness nor un-
 pleasantness born out of contact with mind, feeling of
 neither pleasantness nor unpleasantness born out ofcontact
-with mind this at that time is the neutrality of feeling-
+with mind this at that time is the neutrality of feeling- ^1-406
+
 407. What atthat time is the faculty ofneutrality
 offeeling?
 That which at that time is neither mental ease nor
@@ -6349,8 +6758,9 @@ sphere ofmental concomitants (dhammāyatana) arises, one
 elementofmental concomitants arises.
 At that time (in addition to the above), there are
 other in corporeal dhamma which are causally produced.
-These arethedemeritoriousdhammā ...p...
+These arethedemeritoriousdhammā ...p... ^1-407
 b. Detailed and Additional Exposition
+
 408. Whatatthattime istheaggregateofvolitional
 activities?
 (Atthattime) contact, volition, initial application of
@@ -6371,7 +6781,8 @@ are other incorporeal dhammawhich are causallyproduced
 - this at that time is the aggregate ofvolitional activities
 ...p... These arethedemeritoriousdhamma.
 (6) Sixth Category of Demeritorious Thought
-Caused by Greed
+Caused by Greed ^1-408
+
 409. What arethedemeritoriousdhammā?
 When at a certain time a demeritorious thought
 arises, accompaniedbyneutralityoffeeling, associatedwith
@@ -6383,7 +6794,8 @@ dhamma
 (7) Seventh Category of Demeritorious Thought
 Caused by Greed
 (i) Section on Definition of Dhamma Factors
-a Exposition in Brief
+a Exposition in Brief ^1-409
+
 410. Whatarethedemeritoriousdhammā?
 When at a certain time a demeritorious thought
 arises, accompaniedbyneutralityoffeeling,butnotassociated
@@ -6425,8 +6837,9 @@ At that time (in addition to the above), there are
 other incorporeal dhamma which are causally produced.
 These are thedemeritoriousdhamma ...p...
 
-Cittuppada Kanda 213
+Cittuppada Kanda 213 ^1-410
 b. Detailed and Additional Exposition
+
 411. What atthattime is the aggregate ofvolitional
 activities?
 (At that time) contact, volition, initial application of
@@ -6444,7 +6857,8 @@ are other incorporeal dhamma which are causally produced
 - this at that time is the aggregate ofvolitional activities
 ...p... These are the demeritorious dhammā.
 (8) Eighth Category of Demeritorious Thought
-Caused by Greed
+Caused by Greed ^1-411
+
 412. What arethe demeritorious dhammā?
 When at a certain time a demeritorious thought
 arises, accompanied by neutrality offeeling, not associated
@@ -6457,8 +6871,9 @@ demeritorious dhamma.
 214 Dhammasangaņi
 First Category of Demeritorious Thought
 Caused by Hatred
-(i) Section on Definition of Dhamma Factors
+(i) Section on Definition of Dhamma Factors ^1-412
 a. Exposition in Brief
+
 413. What arethedemeritorious dhammā?
 When at a certain time a demeritorious thought
 arises, accompanied by distress and associated with illwill
@@ -6483,30 +6898,35 @@ other in corporeal dhamma which are causally produced.
 These are the demeritorious dhamma.
 
 Cittuppada Kanda 215
-(b) Detailed Exposition
+(b) Detailed Exposition ^1-413
+
 414. Whatatthattime iscontact?
 That which atthattimeiscontact, beingincontact,
-fullcontact, contactingwell-thisatthattimeiscontact.
+fullcontact, contactingwell-thisatthattimeiscontact. ^1-414
+
 415. Whatatthattime is sensation?
 Thatwhich atthattime ismentalunease andmental
 pain born out of full contact with mind-consciousness-
 -element which is appropriate to that feeling, sensation of
 mental uneaseandmentalpainbornoutoffullcontact with
 mind, feelingofmentaluneaseandmentalpainbornoutof
-fullcontactwithmind - this atthattimeis sensation ...p...
+fullcontactwithmind - this atthattimeis sensation ...p... ^1-415
+
 416. Whatatthattimeismisery(dukkha)?
 That which atthattime ismental unease and mental
 pain, sensation ofmental unease and mental painborn out
 of full contact with mind, feeling of mental unease and
 mental painborn outoffullcontactwithmind-this atthat
-time is misery (dukkha) ...p...
+time is misery (dukkha) ...p... ^1-416
+
 417. What at that time is the faculty of mental
 distress?
 Thatwhich atthattime ismentaluneaseandmental
 pain, sensation ofmental unease and mental pain born out
 of full contact with mind, feeling of mental unease and
 mentalpainbornoutoffullcontactwithmind-thisatthat
-time isthe facultyofmentaldistress ...p...
+time isthe facultyofmentaldistress ...p... ^1-417
+
 418. What atthattime is hatred?
 That which at that time is hatred, having hatred,
 being given to hatred, being upset, getting upset, being
@@ -6514,7 +6934,8 @@ prone to getting upset, getting upset, opposition, repeated
 
 216 Dhammasangani
 opposition, rudeness, anger hindering coherent speech, dis-
-pleasure -this atthattime ishatred...p...
+pleasure -this atthattime ishatred...p... ^1-418
+
 419. Whatatthattime is illwill?
 That which at that time is hatred, having hatred,
 being given to hatred, being upset, getting upset, being
@@ -6541,7 +6962,8 @@ other incorporeal dhamma which are causally produced.
 These arethedemeritoriousdhammā ...p...
 
 Cittuppada Kanda 217
-(b) Detailed and Additional Exposition
+(b) Detailed and Additional Exposition ^1-419
+
 420. What atthattime istheaggregateofvolitional
 activities?
 (Atthat time) contact, volition, initial application of
@@ -6559,7 +6981,8 @@ are other incorporeal dhamma which are causallyproduced
 this at that time is the aggregate ofvolitional activities-
 ...p... These arethe demeritorious dhamma.
 Second Category of Demeritorious Thought
-Caused by Hatred
+Caused by Hatred ^1-420
+
 421. What arethedemeritoriousdhammā?
 When at a certain time a demeritorious thought
 arises, accompanied bydistress, associated with illwill and
@@ -6572,7 +6995,8 @@ distraction arises ...p... These arethedemeritoriousdhammā.
 First Categoy of Demeritorious Thought
 Caused by Bewilderment
 Section on Definition of the Dhamma Factors
-(a) Exposition in Brief
+(a) Exposition in Brief ^1-421
+
 422. Whatarethedemeritoriousdhammā?
 When at a certain time a demeritorious thought
 arises, accompanied by equanimity and associated with
@@ -6593,16 +7017,19 @@ arises, endeavour arises.
 At that time (in addition to the above), there are
 other incorporeal dhamma which are causally produced.
 These are thedemeritorious dhammā.
-(b) Detailed Exposition
+(b) Detailed Exposition ^1-422
+
 423. What atthattime is contact?
 That which at that time is contact, being incontact,
 full contact, contacting well - this at that time is contact
 
-Cittuppada Kanda 219
+Cittuppada Kanda 219 ^1-423
+
 424. What at that time is one-pointedness of the
 mind?
 That which at that time is stability ofthe mind -
-thisatthattime isone-pointedness ofthe mind ...p...
+thisatthattime isone-pointedness ofthe mind ...p... ^1-424
+
 425. Whatatthattimeisuncertainty?
 That which at that time is doubt, being doubtful,
 proneness to be doubtful, perplexity, uncertainty, being in
@@ -6631,8 +7058,9 @@ other incorporeal dhamma which are causally produced.
 These arethe demeritoriousdhamma ...p...
 
 220
-Dhammasangani
+Dhammasangani ^1-425
 b. Detailed and Additional Exposition
+
 426. What atthattime istheaggregate ofvolitional
 activities?
 (Atthattime) contact, volition, initial alpplication of
@@ -6651,7 +7079,8 @@ Second Category of Demeritorious Thought
 Caused by Bewilderment
 (i) Section on Definition of the
 Dhamma Factors
-a.Exposition in Brief
+a.Exposition in Brief ^1-426
+
 427. What are the demeritorious dhammā?
 When at a certain time a demeritorious thought
 arises, accompanied by indifference and associated with
@@ -6682,11 +7111,13 @@ arises.
 At that time (in addition to the above), there are
 other incorporeal dhamma which are causally produced.
 These are thedemeritoriousdhammā.
-(b) Detailed Exposition
+(b) Detailed Exposition ^1-427
+
 428. Whatatthattime iscontact?
 That which at thattime iscontact beingincontact,
 this atthat time is contact
-full contact, contacting well -
+full contact, contacting well - ^1-428
+
 429. What at that time is unsteadiness of
 concentration?
 Thatwhich atthattime isunsteadiness ofmind, lack
@@ -6716,7 +7147,8 @@ concomitants arises.
 At that time (in addition to the above), there are
 other incorporeal dhamma which are causally produced.
 These are the demeritoriousdhamma. ...p...
-(b) Detailed and Additional Exposition
+(b) Detailed and Additional Exposition ^1-429
+
 430. What atthattime istheaggregateofvolitional
 activities?
 (Atthattime) contact, volition, initial application of
@@ -6745,7 +7177,8 @@ Five Kinds of Consciousness Resulting from
 Meritorious Thought
 Eye-Consciousness
 (i) Section on Definition of the Dhamma Factors
-a Exposition in Brief
+a Exposition in Brief ^1-430
+
 431. What are the dhamma which are neither
 meritorious nor demeritorious (Abyākata)?
 When as a result of meritorious deeds or of the
@@ -6765,8 +7198,9 @@ dereritorious.
 (This statement concerns only the five inds of
 consciousness resulting from meritoriousthought as given in
 the heading. The complete definition ofAbyākata is to be
-found inpara 583.]
+found inpara 583.] ^1-431
 b. Detailed Exposition
+
 432. Whatatthattime iscontact?
 That which at thattime is contact, being incontact,
 full contact, contactingwell - this at that time is contact.
@@ -6777,49 +7211,57 @@ mentaluncasebornoutoffull contactwith eye-consciousness-
 neither pleasantness nor unpleasantness born out of full
 contact with mind, feeling of neither pleasantness nor
 unpleasantness born out offull contact with mind this at
-that time is sensation.
+that time is sensation. ^1-432
+
 433. What atthattimeisperception?
 Thatwhich atthattimeisperceptionborn outoffull
 contact with eye-consciousness-element appropriate to that
 perception, the factor ofperceiving,the state ofperception-
 this atthattime is perception.
 
-Cittuppada Kanda 225
+Cittuppada Kanda 225 ^1-433
+
 435. What atthattime is volition?
 That which atthat time is volition born out offull
 contact with eye-consciousness-element appropriate to that
 volition, effectivevolition, exercise ofvolition - this atthat
-time isvolition.
+time isvolition. ^1-435
+
 436. What atthat timeisthought?
 Thatwhich at thattimethought, cognition,knowing,
 mind(lit., heart),purity,mindasthesphereofmind, faculty
 of mind, consciousness, aggregate of consciousness, eye-
 consciousness-elementappropriatetothosementalconcomitants
--this atthattimeisthought.
+-this atthattimeisthought. ^1-436
+
 437. What atthattime is equanimity?
 That which at that time is neither mental ease nor
 unease, sensation ofneitherpleasantness norunpleasantness
 bornoutofcontactwithmind, feelingofneitherpleasantness
 thisatnor unpleasantness born outofcontactwith mind -
-thattimeisequanimity.
+thattimeisequanimity. ^1-437
+
 438. What at that time is one-pointedness ofthe
 mind?
 thisatThat which atthattimeisstabilityofmind -
-thattime is one-pointedness ofthemind.
+thattime is one-pointedness ofthemind. ^1-438
+
 439. Whatatthattimeisthe faculty ofmind?
 Thatwhichatthattimeisthought, cognition,knowing,
 mind(lit., heart),purity,mindasthesphereofmind, faculty
 of mind, consciousness, aggregate of consciousness, eye-
 consciousness-element appropriatetothosementalconcomitants
-this atthattimeisthe facultyofmind.-
+this atthattimeisthe facultyofmind.- ^1-439
 
 226 Dhammasangani
+
 440. Whatatthattimeisthe faculty ofequanimity?
 That which at that time is neither mental ease nor
 unease, sensation ofneither pleasantness nor unpleasantness
 bornoutofcontactwith mind, feeling ofneitherpleasantness
 norunpleasantness born out ofcontactwith mind - this at
-thattime isthe faculty ofequanimity.
+thattime isthe faculty ofequanimity. ^1-440
+
 441. What atthattime isthe facultyofvitality?
 That which at that time is the continuing force of
 those mental phenomena, their subsisting, their going on,
@@ -6845,8 +7287,9 @@ other incorporeal dhamma which are causally produced.
 These are the dhamma which are neither meritorious nor
 demeritorious ...p...
 
-Cittuppada Kanda 227
+Cittuppada Kanda 227 ^1-441
 b. Detailed and Additional Exposition
+
 442. What atthattime is the aggregate ofvolitional
 activities?
 (At that time) contact, volition, one-pointedness of
@@ -6857,8 +7300,9 @@ are causally produced - this at that time is the aggregate
 of volitional activities ...p... These are the dhamma which
 are neither meritorious nordemeritorious.
 Ear-Consciousness, etc.
-(i) Section on Definition of the Dhamma Factors
+(i) Section on Definition of the Dhamma Factors ^1-442
 a. Exposition in Brief
+
 443. What the dhammā which are neitherare
 meritorious nordemeritorious?
 When as a result of meritorious deeds or of the
@@ -6885,59 +7329,69 @@ demeritorious.
 [Note: From this point to end of para 454, the
 process defined is in terms of physical touch or body-
 -consciousness only (Kaya Viññāna). Therefore mental ease
-and happiness are included here.)
+and happiness are included here.) ^1-443
 b. Detailed Exposition
+
 444. What atthattime is contact ?
 That which at thattime is contact, being incontact,
-full contact, contactingwell - this atthattimeiscontact.
+full contact, contactingwell - this atthattimeiscontact. ^1-444
+
 445. What atthattime is sensation?
 That which atthattime isphysical ease andhappiness
 born out of full contact with body-consciousness-clement
 appropriate to that feeling, sensation ofphysical ease and
 happiness born out ofphysical contact, feeling ofphysical
 this atease and happiness born out ofphysical contact -
-thattime is sensation.
+thattime is sensation. ^1-445
+
 446. What atthattime isperception?
 Thatwhich atthattimeisperceptionborn outoffull
 contact with body-consciousness-element appropriate to that
 perception, the fact ofperceiving,the stageofperception -
-this atthattime isperception.
+this atthattime isperception. ^1-446
+
 447. What atthattime is volition ?
 That which at that time is volition born out of full
 contact with body-consciousness-element appropriate to that
 volition, effective volition, exercise ofvolition thisatthat
 time is volition.
 
-Cittuppāda Kanda 229
+Cittuppāda Kanda 229 ^1-447
+
 448. What atthattimeisthought?
 Thatwhich atthattimeisthought, cognition,knowing,
 mind (lit., heart), purity mind as the sphere of mind,
 faculty ofmind, consciousness, aggregate ofconsciousness,
 body-consciousness-element ppropriate to those mental
-concomitants -this atthattime isthought.
+concomitants -this atthattime isthought. ^1-448
+
 449. What atthattime ishappiness?
 Thatwhich atthattime isphysical easeandhappiness,
 sensation of physical ease and happiness born out of
 physicalcontact, feeling ofphysical ease andhappinessborn
-outofphysicalcontact - this at thattimeishappiness.
+outofphysicalcontact - this at thattimeishappiness. ^1-449
+
 450. What at that time is one-pointedness ofthe
 mind?
 That which at that time is stability of the mind
-this atthattimeisone-pointednessofthemind.
+this atthattimeisone-pointednessofthemind. ^1-450
+
 451. What atthattimeisthe facultyofmind?
 Thatwhichatthattimeisthought, cognition, knowing,
 mind (lit., heart),purity, mind asthesphereofmind,faculty
 of mind, consciousness, aggregate ofconsciousness, body-
 consciousness-elementappropriatetothosementalconcomitants
-this atthattime isthe facultyofmind.
+this atthattime isthe facultyofmind. ^1-451
+
 452. What atthattimeisthe facultyofhappiness?
 That which attha: time isphysicaleaseandhappiness,
 sensation of physical ease and happiness born out of
 physicalcontact feeling ofphysical ease andhappiness born
 out ofphysical contact - this at that time is the faculty of
-happiness.
+happiness. ^1-452
 
 230 Dhammasangani
+
 453. What atthattimeisthe faculty ofvitality?
 That which at that time is the continuing force of
 those mental phenomena, their subsisting, their going on,
@@ -6961,8 +7415,9 @@ element of mental concomitantsas asingle factor arises.
 At that time (in addition to the above), there are
 other incorporeal dhamma which are causally produced.
 These are the dhamma which are neither meritorious nor
-demeritorious ...p...
+demeritorious ...p... ^1-453
 b. Detailed and Additional Exposition
+
 454. What atthattime isthe aggregate ofvolitional
 activities?
 (At that time) contact, volition, one-pointedness of
@@ -6979,8 +7434,9 @@ RESULTING FROM MERITORIOUS THOUGHT
 Mind-Element Resulting from
 Meritorious Thought
 (i) Section on Definition of the
-Dhamma Factors
+Dhamma Factors ^1-454
 a. Exposition in Brief
+
 455. Whataredhammāwhich areneither meritorious
 nordemeritorious?
 When as a result of meritorious deeds or of the
@@ -7001,27 +7457,32 @@ an object.
 At that time (in addition to the above), there are
 other incorporeal dhamma which are causally produced.
 These are the dhamma which are neither meritorious nor
-demeritorious.
+demeritorious. ^1-455
 b. Detailed Exposition
+
 456. Whatatthattime is contact?
 Thatwhich atthattime is contact, being incontact,
-fullcontact, contactingwell -this atthattimeiscontact.
+fullcontact, contactingwell -this atthattimeiscontact. ^1-456
+
 457. Whatatthattime is sensation?
 That which atthat time is neither mental ease nor
 uneaseborn outoffull contactwith mind-element which is
 appropriate to that feeling,sensation ofneither pleasantness
 nor unpleasantness born out of full contact with mind,
 feeling of neither pleasantness nor unpleasantness born out
-offull contact withmind -this atthattime is sensation.
+offull contact withmind -this atthattime is sensation. ^1-457
+
 458. What atthattimeisperception?
 That which atthattimeisperceptionbornoutoffull
 contactwithmind-elementappropriate to thatperception, the
 this atthattimefactofperceiving,thestateofperception -
-isperception.
+isperception. ^1-458
+
 459. Whatatthattime isvolition?
 That which atthattime is volition born out offull
 contactwithmind-elementappropriatetothatvolition, effective
-volition, exerciseofvolition -this atthattimeisvolition.
+volition, exerciseofvolition -this atthattimeisvolition. ^1-459
+
 460. What atthattimeisthought?
 Thatwhich atthattimeisthought, cognition,knowing,
 mind (lit., heart),purity, mindasthesphereofmind, faculty
@@ -7029,31 +7490,36 @@ ofmind, consciousness, aggregate ofconsciousness, mind-
 
 Cittuppāda Kanda 233
 -element appropriatetothosemental concomitants -this at
-thattimeisthought.
+thattimeisthought. ^1-460
+
 461. What atthattimeis initial application ofthe
 mind?
 Thatwhichatthattimeismentation, initialapplication
 ofthe mind, thinking, applying the mind to the object of
 thinking, effectively applying the mind to the object of
 thinking, focussingthemindontheobjectofthinking -this
-atthattimeisinitial applicationofthemind.
+atthattimeisinitial applicationofthemind. ^1-461
+
 462. What atthattime is sustained application of
 themind?
 Thatwhich at thattime isconsideration, application
 ofthemind,repeatedconsideration,closeexamination,keeping
 the mindcontinuouslyconnectedwiththe objectofthought,
 keepingthemindontheobjectas ifcontinuously inview -
-this atthattime issustained applicationofthemind.
+this atthattime issustained applicationofthemind. ^1-462
+
 463. Whatatthattime isequanimity?
 That which at that time is neither mental ease or
 unease,sensation ofneitherpleasantness norunpleasantness
 bornoutofcontactwithmind, feelingofneitherpleasantness
 nor unpleasantnessborn outofcontactwithmind - this at
-thattimeisequanimity,
+thattimeisequanimity, ^1-463
+
 464. What at that time is one-pointedness ofthe
 mind?
 Thatwhichatthattimeisstabilityofmind this at
-thattimeisone-pointednessofthemind.
+thattimeisone-pointednessofthemind. ^1-464
+
 465. Whatatthattimeisthefacultyofmind?
 Thatwhich atthattimeisthought, cognition,knowing,
 mind (lit., heart),purity, miredasthe sphereofmind. faculty
@@ -7061,13 +7527,15 @@ mind (lit., heart),purity, miredasthe sphereofmind. faculty
 234 Dhammasangaņi
 ofmind, consciousness, aggregate ofconsciousness, mind-
 element appropriateto those mental concomitants - this at
-thattimeisthe facultyofmind.
+thattimeisthe facultyofmind. ^1-465
+
 466. Whatatthattimeisthefacultyofequanimity?
 That which atthat time is neither mental ease nor
 unease,sensation ofneither pleasantness norunpleasantness
 bornoutofcontactwithmind, feelingofneitherpleasantness
 nor unpleasantness born outofcontactwith mind - this at
-thattimeisthefacultyofequanimity.
+thattimeisthefacultyofequanimity. ^1-466
+
 467. What atthattimeisthe facultyofvitality?
 That which at that time is the continuing force of
 those mental phenomena, their subsisting, their going on,
@@ -7093,8 +7561,9 @@ Cittuppāda Kanda 235
 At that time (in addition to the above), there are
 other incorporeal dhamma which are causally produced.
 These are the dhamma which are neither meritorious nor
-demeritorious ...p...
+demeritorious ...p... ^1-467
 b. Detailed and Additional Exposition
+
 468. What atthattime istheaggregateofvolitional
 activities?
 (Atthattime) contact, volition, initial application of
@@ -7108,8 +7577,9 @@ neither meritorious nordemeritorious.
 Mind-Consciousness-Element Resulting from
 Meritorious Thought, accompanied by Pleasure.
 (i) Section on Definition of the
-Dhamma Factors
+Dhamma Factors ^1-468
 a. Exposition in Brief
+
 469. What are the dhamma which are neither
 meritorious nordemeritorious?
 When as a result of meritorious deeds or of the
@@ -7131,79 +7601,92 @@ pleasantness arises, facultyofvitality arises.
 At that time (in addition to the above), there are
 other incorporeal dhammā which are causally produced.
 These are the dhamma which are neither meritorious nor
-demeritorious.
+demeritorious. ^1-469
 ๖. Detailed Exposition
+
 470. What atthattime is contact?
 That which atthattime iscontact, being incontact,
-full contact, contacting well -this atthattime iscontact.
+full contact, contacting well -this atthattime iscontact. ^1-470
+
 471. What atthattime is sensation?
 That which atthattimeis mental ease andhappiness
 born out of full contact with mind-consciousness-element
 appropriate to that feeling, sensation of mental ease and
 happiness born out offull contact with the mind, feeling
 which is mental ease and happiness born outoffull contact
-with mind this atthat time is sensation.
+with mind this atthat time is sensation. ^1-471
+
 472. Whatatthattimeisperception?
 Thatwhich atthattimeisperception born outoffull
 contact with mind-consciousness-element appropriate to that
 perception, the factofperceiving, the stateofperception
 this atthat time isperception.
 
-Cittuppada Kanda 237
+Cittuppada Kanda 237 ^1-472
+
 473. Whatatthattime is volition?
 That which atthattime is volition born out offull
 contact with mind-consciousness-element appropriate to that
 volition, effectivevolition,exercise ofvolition this atthat-
-time is volition.
+time is volition. ^1-473
+
 474. Whatatthattimeisthought?
 Thatwhich atthattimeisthought, cognition,knowing,
 mind (lit., heart),purity, mindasthesphereofmind, faculty
 of mind, consciousness, aggregate ofconsciousness, mind-
 consciousness-element appropriatetothosementalconcomitants
-- this atthattime isthought.
+- this atthattime isthought. ^1-474
+
 475. What atthattime is initial application ofthe
 mind?
 Thatwhich atthattimeismentation, initialapplication
 ofthe mind, thinking, alpplying the mind tothe object of
 thinking, effectively applying the mind to the object of
 thisthinking, focussingthemindtotheobjectofthinking -
-atthattime isinitialapplicationofthemind.
+atthattime isinitialapplicationofthemind. ^1-475
+
 476. What atthat time is sustained application of
 themind?
 That which atthattime isconsideration, application
 ofthe mind, repeatedconsideration,closeexamination, keeping
 themindcontinuouslyconnectedwiththe objectofthought,
 keepingthe mind onthe objectas ifcontinuously inview
-this atthattime issustained applicationofthemind.
+this atthattime issustained applicationofthemind. ^1-476
+
 477. What atthattime isdelightful satisfaction?
 That which at that time is delightful satisfaction,
 delight, intense delight, profuse delight, freshness, superb
 this atfreshness, satisfaction, exultation, selfsatisfaction -
-thattimeisdelightful satisfaction.
+thattimeisdelightful satisfaction. ^1-477
 
 238 Dhammasangani
+
 478. Whatatthattimeishappiness?
 Thatwhichatthattimeismentaleaseandhappiness,
 sensation of mental ease and happiness born out of full
 contact with mind, feeling of mental ease and happiness
 born out of full contact with mind this at that time is-
-happiness.
+happiness. ^1-478
+
 479. Whatatthattimeisone-pointedness ofmind?
 Thatwhich atthattimeisstabilityofmind - this at
-thattime isone-pointedness ofmind.
+thattime isone-pointedness ofmind. ^1-479
+
 480. Whatatthattimeisfacultyofthe mind?
 Thatwhich atthattimeisthought, cognition, knowing,
 mind (lit., heart),purity, mindasthesphereofmind, faculty
 of mind, consciousness, aggregate ofconsciousness, mind-
 consciousness-elementappropriatetothosemental concomitants
--this atthattimeisfacultyofthemind.
+-this atthattimeisfacultyofthemind. ^1-480
+
 481. What at that time is faculty of mental
 pleasantness?
 Thatwhich atthattimeismentaleaseandhappiness,
 sensation of mental ease and happiness born out of full
 contact with mind, feeling of mental ease and happiness
 born out offull contact with mind this at that time is-
-facultyofmentalpleasantness.
+facultyofmentalpleasantness. ^1-481
+
 482. Whatatthattimeisthe facultyofvitality?
 That which at that time is the continuing force of
 those mental phenomena, their subsisting, their going on,
@@ -7230,8 +7713,9 @@ element ofmental concomitants as a single factor arises.
 At that time (in addition to the above), there are
 other incorporeal dhamma which are causally produced.
 These are the dhamma which are neither meritorious nor
-demeritorious ...p...
+demeritorious ...p... ^1-482
 b. Detailed and Additional Exposition
+
 483. What atthattime isthe aggregateofvolitional
 activities?
 (At that time) contact, volition, initial application of
@@ -7250,8 +7734,9 @@ Mind-Consciousness-Element
 Resulting from Meritorious Thought
 Accompanied by Equanimity
 (i) Section on Definition of the
-Dhamma Factors
+Dhamma Factors ^1-483
 a. Exposition in Brief
+
 484. What are the dhamma which are neither
 meritorious nordemeritorious?
 When as a result of meritorious deeds or of the
@@ -7268,13 +7753,15 @@ arises.
 At that time (in addition to the above), there are
 other incorporeal dhamma which are causally produced.
 These are the dhamma which are neither meritorious nor
-demeritorious.
+demeritorious. ^1-484
 b. Detailed Exposition
+
 485. What atthattime is contact?
 That which atthattime is contact, being in contact,
 this atthattime is contact.full contact, contactingwell -
 
-Cittuppada Kanda 241
+Cittuppada Kanda 241 ^1-485
+
 486. Whatatthattime is sensation?
 That which at that time is neither mental ease nor
 mental unease born out of full contact with mind-con-
@@ -7282,23 +7769,27 @@ sciousness-elementwhichis appropriatetothatfeeling,sensation
 of neither pleasantness nor unpleasantness born out offull
 contact with mind, feeling of neither pleasantness nor
 unpleasantness born out offull contact with mind -this at
-that time is sensation.
+that time is sensation. ^1-486
+
 487. What atthattime isperception?
 That which atthattime isperceptionborn outoffull
 contact with mind-consciousness-element appropriate to that
 perception, the fact ofperceiving,the state ofperception -
-this atthat time isperception.
+this atthat time isperception. ^1-487
+
 488. What atthattime isvolition?
 That which atthattime is volition born out offull
 contact with mind-consciousness-element appropriate to that
 volition, effectivevolition, exercise ofvolition -this at that
-time is volition.
+time is volition. ^1-488
+
 489. What atthattime isthought?
 Thatwhich atthattime isthought cognition, knowing,
 mind (lit., heart),purity, mind as the sphere ofmind, faculty
 of mind, consciousness, aggregate ofconsciousness, mind-
 consciousness-element appropriatetothosementalconcomitants
-this atthattime is thought-
+this atthattime is thought- ^1-489
+
 490. What atthattime is initial application ofthe
 mind?
 That which atthattime ismentation, initialapplication
@@ -7307,29 +7798,34 @@ thinking, effectively applying the mind to the object of
 
 242 Dhammasanganī
 thisthinking, focussingthemindtotheobjectofthinking
-atthattimeisinitial applicationofthe mind.
+atthattimeisinitial applicationofthe mind. ^1-490
+
 491. What atthat time is sustained application of
 themind?
 Thatwhich atthattime is consideration, application
 ofthemind,repeatedconsideration, close examination, keeping
 themindcontinuously connectedwiththeobjectofthought,
 keeping the mindontheobject asifcontinuously inview
-thisatthattimeissustainedapplication ofthemind.
+thisatthattimeissustainedapplication ofthemind. ^1-491
+
 492. Whatatthattime isequanimity?
 That which at that time is neither mental ease or
 unease, sensation ofneither pleasantness nor unpleasantness
 bornoutofcontactwithmind, feelingofneitherpleasantness
 nor unpleasantness born outofcontactwith mind this at
-thattimeisequanimity.
+thattimeisequanimity. ^1-492
+
 493. What atthattimeisone-pointedness ofmind?
 Thatwhich atthattimeis stabilityofmind -this at
-thattime isone-pointedness ofmind.
+thattime isone-pointedness ofmind. ^1-493
+
 494. Whatatthattime isthe faculty ofmind?
 Thatwhich atthattimeisthought,cognition,knowing,
 mind (lit., heart),purity, mindasthesphereofmind, faculty
 ofmind, consciousness, aggregate ofconsciousness, mind-
 consciousness-elementappropriatetothosementalconcomitants
-- this atthattimeisthe facultyofmind.
+- this atthattimeisthe facultyofmind. ^1-494
+
 495. What atthattimeisthe faculty ofequanimity?
 That which at that time is neither mental ease nor
 unease, sensationofneither pleasantness nor unpleasantness
@@ -7337,7 +7833,8 @@ bornoutof contactwith mind, feelingofneitherpleasantness
 
 Cittuppada Kanda 243
 nor unpleasentness born out ofcontactwith mind this at-
-that time is the faculty ofequanimity.
+that time is the faculty ofequanimity. ^1-495
+
 496. What atthattimeisthe facultyofvitality?
 That which at that time is the continuing force of
 those mental phonomena, their subsisting, their going on,
@@ -7361,10 +7858,11 @@ elementofmental concomitants as asingle factorarises.
 At that time (in addition to the above), there are
 other incorporeal dhamma which are causally produced.
 These are the dhamma which are neither meritorious nor
-demeritorious ...p...
+demeritorious ...p... ^1-496
 
 244 Dhammasangani
 b. Detailed and Additional Exposition
+
 497. Whatatthattime is the aggregateofvolitional
 activities?
 (At that time) contact, volition, initial application of
@@ -7380,7 +7878,8 @@ END OF MIND-CONSCIOUSNESS-ELEMENT
 RESUI TING FROM MERITORIOUS
 THOUGHT ACCOMPANIED BY EQUANIMITY
 Eight Main Types of Mind-Consciousness-Element
-Resulting from Meritorious Thoughts
+Resulting from Meritorious Thoughts ^1-497
+
 498. What are the dhamma which are neither
 meritorious nor demeritorious?
 When as a result of meritorious deeds or of the
@@ -7418,7 +7917,8 @@ neither meritorious nor demeritorious ...p... These are the
 dhammawhich are neither meritorious nordemeritorious.
 Resultant Thoughts that Arise in the
 Fine Material Sphere
-(First Jhana)
+(First Jhana) ^1-498
+
 499. What are the dhamma which are neither
 meritorious nordemeritorious?
 When at a certain time one practises the way for
@@ -7438,7 +7938,8 @@ resultant firstjhānawhich has anearthdeviceastheobject
 ofmeditation then atthat time, contactarises ...p... non-
 -distraction arises ...p... These are the dhamma which are
 neither meritorious nordemeritorious.
-(Second Jhana, etc.)
+(Second Jhana, etc.) ^1-499
+
 500. What are the dhamma which are neither
 meritorious nordemeritorious?
 When atacertaintimeonepractisestheway forthe
@@ -7462,7 +7963,8 @@ demeritorious.
 Cittuppada Kanda 247
 Resultant Thoughts that Arise in the
 Non-Material Sphere
-(First Arüpa Jhana)
+(First Arüpa Jhana) ^1-500
+
 501. What are the dhamma which are neither
 meritoriousnordemeritorious?
 Whenatacertaintimeonepractisesthewayforthe
@@ -7491,7 +7993,8 @@ Infinite' then at that time contact arises ...p... non-
 neithermeritoriousnordemeritorious.
 
 248 Dhammasangaņi
-(Second Arupa Jhana)
+(Second Arupa Jhana) ^1-501
+
 502. What are the dhamma which are neither
 meritorious nordemeritorious?
 When at acertaintimeonepractisesthewayforthe
@@ -7511,7 +8014,8 @@ fourth jhāna characterised by elimination of bliss (sukha)
 then at that time contact arises ...p... non-distraction arises
 ...p... These are thedhammawhich are neither meritorious
 nor demeritorious.
-(Third Arupa Jhāna)
+(Third Arupa Jhāna) ^1-502
+
 503. What are the dhamma which are neither
 meritorious nordemeritorious?
 When at acertaintimeonepractisesthewayforthe
@@ -7532,7 +8036,8 @@ resultant fourth jhāna characterised by elimination ofbliss
 then at that time contact arise ...p... non-distraction arises
 ....p... These are the dhamma which are neither meritorious
 nordemeritorious.
-(Fourth Arupa Jhāna)
+(Fourth Arupa Jhāna) ^1-503
+
 504. What are the dhamma which are neither
 meritorious nordemeritorious?
 When at acertaintimeonepractises theway forthe
@@ -7558,7 +8063,8 @@ dhamma which are neither meritorious nordemeritorious.
 250 Dhammasangani
 Supramundane ResultantThoughts
 Resultant Thought ofthe First Magga
-Exposition Purely of Practice
+Exposition Purely of Practice ^1-504
+
 505. What are the dhamma which are neither
 meritorious nordemeritorious?
 Whenat acertaintime one practises supramundane
@@ -7584,7 +8090,8 @@ non-distraction arises ...p... These arethedhammawhichare
 neither meritoriousnordemeritorious.
 
 Cittuppada Kanda 251
-Animitta First Jhana
+Animitta First Jhana ^1-505
+
 506. What are the dhamma which are neither
 meritorious nordemeritorious?
 When at a certain time one practises supramundane
@@ -7608,7 +8115,8 @@ then at that time contact arisesof signs of permanence
 been realized by the first level of enlightenment, Sotapātti
 Magga) ...p... non-distraction arises ...p... These are the
 dhammawhich are neither meritorious nordemeritorious.
-Apanihita First Jhāna
+Apanihita First Jhāna ^1-506
+
 507. What are the dhamma which are neither
 meritorious norden.eritorious?
 When at a certain time one practises supramundane
@@ -7634,7 +8142,8 @@ Perfect Knowledge (ofwhat has already been realized by
 the firstlevel ofenlightenment,SotāpattiMagga) arises ...p...
 non-distraction arises ...p... These arethedhammawhich are
 neither meritorious nordemeritorious.
-Second Jhana, etc.
+Second Jhana, etc. ^1-507
+
 508. What are the dhamma which neitherare
 meritorious nordemeritorious?
 When at a certain time one practises supramundane
@@ -7665,7 +8174,8 @@ slow acquisition ofknowledge, inthe resultantjhāna calied
 Appanihitawhichisdevoidofhankering -thenatthattime
 contactarises ...p... non-distraction arises ...p...Theseare the
 dhammawith areneithermeritorious nondemeritorious.
-Suññata Jhāna, etc.
+Suññata Jhāna, etc. ^1-508
+
 509. What are the dhamma which are neither
 meritorious nordemeritorious?
 When at acertain time one practises supramundane
@@ -7703,7 +8213,8 @@ demeritorious.
 Exposition Purely of Emptiness
 Without Differentiating Modes of Practice
 Suññata First Jhana
-(Sotāpatti Fruition)
+(Sotāpatti Fruition) ^1-509
+
 510. What are the dhamma which are neither
 meritorious nordemeritorious?
 When at a certaintime one practises supramundane
@@ -7727,7 +8238,8 @@ devoid ofself(atta) - then atthattime contactarises...p...
 non-distraction arise...p... Thesearethedhammawhich are
 neither meritoriousnordemeritorious.
 Animitta First Jhāna
-(Sotāpatti Fruition)
+(Sotāpatti Fruition) ^1-510
+
 511. What are the dhamma which are neither
 meritoriousnordemeritorious?
 When at a certaintimeone practises supramundane
@@ -7751,7 +8263,8 @@ devoid ofsigns ofpermanence - then atthat time contact
 arises ...p... non-distraction arises ...p... Thesearethedhamma
 which are neither meritorious nordemeritorious.
 Appanihita First Jhana
-(Sotāpatti Fruition)
+(Sotāpatti Fruition) ^1-511
+
 512. What are the dhamma which are neither
 meritorious nordemeritorious?
 When at a certain time one practises supramundane
@@ -7775,7 +8288,8 @@ which are neithermeritorious nordemeritorious.
 
 Cittuppada Kanda 257
 Second Jhāna, etc.
-(Sotāpatti Fruition)
+(Sotāpatti Fruition) ^1-512
+
 513. What are the dhamma which are neither
 meritorious nordemeritorious?
 When at a certain time one practises supramundane
@@ -7803,7 +8317,8 @@ which areneither meritorious nordemeritorious.
 
 258 Dhammasangani
 Suññata Jhana with modes of Practice
-(First Jhana)
+(First Jhana) ^1-513
+
 514. What are the dhamma which are neither
 meritoriousnordemeritorious?
 When at acertain time one practises supramundane
@@ -7825,7 +8340,8 @@ remains,bydifficultpracticeandslowacquisitionofknowledge,
 intheresultant firstjhānacalled Suññatawhichisdevoidof
 self (atta) - then at that time contact arises ...p... non-
 distraction arises ...p... These are the dhamma which are
-neither meritoriousnordemitorious.
+neither meritoriousnordemitorious. ^1-514
+
 515. What are the dhamma which are neither
 meritorious nordemitorious?
 Whenat acertain time one practises supramundane
@@ -7849,7 +8365,8 @@ bydifficultpractice and slow acquisition ofknowledge, in
 the resultant firstjhānacalledAnimittawhich isdevoid of
 signs ofpermanence -thenatthattimecontactarises...p...
 non-distraction arises ...p... Thesearethedhammawhichare
-neithermeritoriousnordemeritorious.
+neithermeritoriousnordemeritorious. ^1-515
+
 516. What are the dhamma which are neither
 meritoriousnordemeritorious?
 Whenat acertaintime one practises supramundane
@@ -7874,7 +8391,8 @@ inthe resultant firstjhānacalledAppanihitawhichisdevoid
 ofhankering - then at that time contact arises ...p... non-
 distraction arises ...p... These are the dhamma which are
 neither meritorious norder Storious.
-Second Jhāna, etc.
+Second Jhāna, etc. ^1-516
+
 517. What the dhamma which are neitherare
 meritorious nordemeritorious?
 When at a certain time one practises supramundane
@@ -7910,7 +8428,8 @@ that time contact arises ...p... non-distraction arises ...p...
 Theseare the dhamma which are neither meritorious nor
 demeritoriouss.
 Jhanas Attained through three other
-Modes of Practice
+Modes of Practice ^1-517
+
 518. What are the dhamma which are neither
 meritorious nordemeritorious?
 What at a certain time one practises supramundane
@@ -7952,7 +8471,8 @@ neither meritorious nordemoritorious.
 Exposition Purely of Hankering without
 Differentiating Modes of Practice
 Appanihita First Jhana
-(Sotāpatti Fruition)
+(Sotāpatti Fruition) ^1-518
+
 519. What are the dhamma which are neither
 meritoriousnordemeritorious?
 When at a certaintime one practises supramundane
@@ -7976,7 +8496,8 @@ is devoid of hankering - then at that time contact arises
 ...p... non-distraction arises ...p... These are the dhamma
 which are neithermeritoriousnordemeritorious.
 Animitta First Jhāna
-(Sotapatti Fruition)
+(Sotapatti Fruition) ^1-519
+
 520. What are the dhamma which are neither
 meritoriousnordemeritorious?
 When at a certaintime one practises supramundane
@@ -8000,7 +8521,8 @@ devoid ofsigns ofpermanence - then atthattime,contact
 arises ...p... non-distractionarises ...p... Thesearethedhamma
 which are neithermeritoriousnordemeritorious.
 Suññata First Jhāna
-(Sotāpatti Fruition)
+(Sotāpatti Fruition) ^1-520
+
 521. What are the dhamma which are neither
 meritorious nordemeritorious?
 When at a certain time one practises supramundane
@@ -8024,7 +8546,8 @@ neither meritoriousnordemeritorious.
 
 Cittuppada Kanda 265
 Second Jhana, etc.
-(Sotāpatti Fruition)
+(Sotāpatti Fruition) ^1-521
+
 522. What are the dhamma which are neither
 meritorious nordemeritorious?
 When at a certain time one practises supramundane
@@ -8054,7 +8577,8 @@ neither meritorious nordemeritorious.
 
 266 Dhammasangani
 Appanihita Jhana with Modes of Practice
-(First Jhāna)
+(First Jhāna) ^1-522
+
 523. What are the dhamma which are neither
 meritoriousnordemeritorious?
 When at a certain time one practises supramundane
@@ -8076,7 +8600,8 @@ remains, by difficultpracticeandslowacquisitionofknowledge,
 intheresultantfirstjhānacalledAppanihitawhichisdevoid
 ofhankering - then at that time contact arises ...p... non-
 distraction arises ...p.... These are the dhamma which are
-neither meritoriousnordemeritorious.
+neither meritoriousnordemeritorious. ^1-523
+
 524. What are the dhamma which are neither
 meritorious nordemeritorious?
 When at a certain time one practises supramundane
@@ -8100,7 +8625,8 @@ remains,bydifficultpracticeandslowacquisitionofknowledge,
 inthe resultant firstjhānacalledAnimittathat isdevoid of
 signs ofpermanence - thenatthattimecontactarises ...p...
 non-distraction arises ...p... These arethedhammawhichare
-neither meritorious nordemeritorious.
+neither meritorious nordemeritorious. ^1-524
+
 525. What are the dhamma which are neither
 meritorious nordemeritorious?
 When at a certain time one practises supramundane
@@ -8125,7 +8651,8 @@ inthe firstresultantjhānacalled Suññatawhichisdevoidof
 self-then atthattime contact arises ...p... non-distraction
 arises ...p... These are the dhamma which are neither
 meritorious nordemeritorious.
-(Second Jhana, etc.)
+(Second Jhana, etc.) ^1-525
+
 526. What are the dharnma which are neither
 meritoriousnordemeritorious?
 When at acertain time one practises supramundane
@@ -8160,7 +8687,8 @@ intheresultantjhānacalledSuññatawhichisdevoid ofself
 -thenatthattimecontactarises ...p... non-distractionarises
 ...p... These are thedhammawhich are neither meritorious
 nordemeritorious.
-(Three Other Modes of Practice)
+(Three Other Modes of Practice) ^1-526
+
 527. What are the dhamma which are neither
 meritoriousnordemeritorious?
 When at acertain time one practises supramundane
@@ -8201,7 +8729,8 @@ intheresultantjhānacalled Suññatawhich isdevoidofself
 ...p... These are the dhamma which are neither meritorious
 nordemeritorious.
 Twenty Great Methods
-First Jhāna
+First Jhāna ^1-527
+
 528. What are the dhamma which are neither
 meritoriousnordemeritorious?
 Whenatacertaintimeonepractises
@@ -8257,7 +8786,8 @@ distraction arises ...p... These are the dhanmä which are
 neither meritorious nor demeritorious.
 Exposition Purely of Practice
 Dominated by Desire
-(First Suññata Jhāna)
+(First Suññata Jhāna) ^1-528
+
 529. What are the dhamma which are neither
 meritorious nordemeritorious?
 When at a certain time one practises supramundane
@@ -8282,7 +8812,8 @@ in the resultant firstjhānacalled Suññata, which is devoid
 ofselfanddominatedbydesire then atthattime contact
 arises ...p... non-distractionarises ...p... These arethedhamma
 which are neither meritoriousnordemeritorious.
-(First Animitta Jhāna)
+(First Animitta Jhāna) ^1-529
+
 530. What are the dhamma which are neither
 meritorious nordemeritorious?
 Whenatacertainonepractises supramundanemental
@@ -8308,7 +8839,8 @@ These are the dhamma which are neither meritorious nor
 demeritorious.
 
 274 Dhammasangani
-(First Appanihita Jhāna)
+(First Appanihita Jhāna) ^1-530
+
 531. What are the dhamma which are neither
 meritorious nowdemeritorious?
 When at a certain time one practises supramundane
@@ -8331,7 +8863,8 @@ intheresultantfirstjhānacalledAppanihitawhichisdevoid
 ofhankering and dominated bydesire - then atthat time
 contact arises ...p... non-distraction arises ...p... Thesearethe
 dhammawhich areneithermeritorious nordemeritorious.
-(Second Jhana. etc.)
+(Second Jhana. etc.) ^1-531
+
 532. What are the dhamma which are neither
 meritorious nordemeritorious?
 When at a certaintime onepractices supramundane
@@ -8371,7 +8904,8 @@ nordemeritorious.
 
 276 Dhammasangaņi
 Jhānas Attained through
-Three Other Modes of Practice
+Three Other Modes of Practice ^1-532
+
 533. What are the dhamma which are neither
 meritorious nordemeritorious?
 When at acertaintime one practises supramundane
@@ -8414,7 +8948,8 @@ the dhamma which are neither meritoriousare nor
 demeritorious.
 Exposition Purely of Suññata Jhāna
 Attained through Predominance of Desire
-(First Jhana)
+(First Jhana) ^1-533
+
 534. What are the dhamma which are neither
 meritorious nordemeritorious?
 When at acertaintime one practises supramundane
@@ -8439,7 +8974,8 @@ which is devoid ofselfand attained through predominance
 of desire - then at that time contact arises ...p... non-
 -distraction arises ...p... These are the dhamma which are
 neither meritorious nordemeritorious.
-Animitta Jhana
+Animitta Jhana ^1-534
+
 535. What are the dhamma which are neither
 meritorious nordemeritorious?
 When at a certaintimeone practises supramundane
@@ -8464,7 +9000,8 @@ arises ...p... non-distraction arises ....... Thesearethedhamma
 which areneithermeritorious nordemeritorious.
 
 Cittuppada Kanda 279
-Appanihita Jhana
+Appanihita Jhana ^1-535
+
 536. What are the dhamma which are neither
 meritoriousnordemeritorious?
 When at a certaintime one practises supramundane
@@ -8487,7 +9024,8 @@ which is devoid of hankering and attained through
 then at that time contact arisespredominance ofdesire -
 ...p... non-distraction arises ...p... These are the dhamma
 which areneither meritorious nordemeritorious.
-Second Jhāna etc.
+Second Jhāna etc. ^1-536
+
 537. What are the dhamma which are neither
 meritorious nordemeritorious?
 When at a certaintime one practises supramundane
@@ -8521,7 +9059,8 @@ through predominanceofdesire - then atthattime contact
 arises ...p... non-distraction arises...p... Thesearethedhamma
 which are neither meritoriousnordemeritorious.
 Suññata Jhāna Attained through
-Practice Dominated by Desire
+Practice Dominated by Desire ^1-537
+
 538. What are the dhamma which are neither
 meritoriousnordemeritorious?
 When at a certain time one practises supramundane
@@ -8549,7 +9088,8 @@ desire --then atthattimecontact arises ...p... non-distraction
 arises ...p... These are the dhamma which are neither
 meritorious nordemeritorious.
 Animitta Jhana Attained through
-Practice Dominated by Desire
+Practice Dominated by Desire ^1-538
+
 539. What are the dhamma which are neither
 meritorious nordemeritorious?
 When at a certain time one practises supramundane
@@ -8577,7 +9117,8 @@ then at that time contact arisespredominance ofdesire
 ...p... non-distraction arises ...p... These are the dhamma
 which are neithermeritorious nordemeritorious.
 Appanihita Jhana Attained through
-Practice Dominated by Desire
+Practice Dominated by Desire ^1-539
+
 540. What are the dhamma which are neither
 meritorious nordemeritorious?
 When at a certain time one practises supramundane
@@ -8604,7 +9145,8 @@ which is devoid of hankering and attained through
 predominance ofdesire - then at that time contact arises
 ...p... non-distraction arises ...p... These are the dhamma
 which are neithermeritoriousnordemeritorious.
-Second Jhana, etc.
+Second Jhana, etc. ^1-540
+
 541. What are the dhamma which are neither
 meritorious nordemeritorious?
 When at a certain time one practises supramundane
@@ -8642,7 +9184,8 @@ is devoid ofhankering and attained through predominance
 of desire - then at that time contact arises ...p... non-
 distraction arises ...p... These are the dhamma which are
 neither meritoriousnordemeritorious.
-Three other Modes of Practice
+Three other Modes of Practice ^1-541
+
 542. What are the dhamma which are neither
 meritorious nordemeritorious?
 When at a certain time one practises supramundane
@@ -8688,7 +9231,8 @@ thenatthattime contactthrough predominance ofdesire -
 arises ...p... non-distraction arises...p... Thesearethedhamma
 whichareneither meritoriousnordemeritorious.
 Appanihita Jhana Attained through
-Practice Dominated by Desire
+Practice Dominated by Desire ^1-542
+
 543. What are the dhamma which are neither
 meritoriousnordemeritorious?
 Whenat acertaintime one practises supramundane
@@ -8714,7 +9258,8 @@ predominance ofdesire - then at that time contact arises
 ...p... non-distraction arises ...p... These are the dhamma
 which are neithermeritoriousnordemeritorious.
 Animitta Jhāna Attained through
-Practice Dominated by Desire
+Practice Dominated by Desire ^1-543
+
 544. What are the dhamma which are neither
 meritorious nordemeritorious?
 When atacertaintimeonepractises suspramundane
@@ -8740,7 +9285,8 @@ through predominance ofdesire then atthattime contact
 arises ...p... non-distraction arises ...p... These arethedhamma
 which are neither meritorious nordemeritorious.
 Suññata Jhāna Attained through
-Practice Dominated by Desire
+Practice Dominated by Desire ^1-544
+
 545. What are the dhamma which are neither
 meritorious nordemeritorious?
 When at a certain time one practises supramundane
@@ -8766,7 +9312,8 @@ is devoid of self and attained through predominance of
 desire -then atthattimecontact arises ...p... non-distraction
 arises ...p... These are the dhamma which are neither
 meritorious nordemeritorious.
-Second Jhāna, etc.
+Second Jhāna, etc. ^1-545
+
 546. What are the dhamma which are neither
 meritorious nordemeritorious?
 When at a certain time one practises supramundane
@@ -8802,7 +9349,8 @@ demeritorious.
 Appanihita Jhāna Attained through
 Predominance of Desire
 (Difficult Practice and
-Slow Acquisition of Knowledge)
+Slow Acquisition of Knowledge) ^1-546
+
 547. What the dhamma which neitherare are
 meritorious nordemeritorious?
 When at a certain time one practises supramundane
@@ -8829,7 +9377,8 @@ which is devoid of hankering and attained through
 predominance ofdesire - then at that time contact arises
 ...p... non-distraction arises ...p... These are the dhamma
 which are neither meritorious nordemeritorious.
-Animitta Jhāna
+Animitta Jhāna ^1-547
+
 548. What are the dhamma which are neither
 meritorious nordemeritorious?
 When at a certain time one practises suprainundane
@@ -8856,7 +9405,8 @@ predominance of desire - then at that time contact arises
 which are neither meritorious nor demeritorious.
 
 Cittuppada Kanda 291
-Suññata Jhāna
+Suññata Jhāna ^1-548
+
 549. What are the dhamma which are neither
 meritorious nordemeritorious?
 When at a certain time one practises supramundane
@@ -8881,7 +9431,8 @@ is devoid of self and attained through predominance of
 desire -then atthattimecontactarises ...p... non-distraction
 arises ....p... These are the dhamma which are neither
 meritorious nordemeritorious.
-Second Jhana, etc.
+Second Jhana, etc. ^1-549
+
 550. What are the dhamma which are neither
 meritoriousnordemeritorious?
 When at a certain time one practises supramundane
@@ -8922,7 +9473,8 @@ are the dhamma which are neither meritorious nor
 demeritorious.
 
 Cittuppada Kanda 293
-Three Other Modes of Practice
+Three Other Modes of Practice ^1-550
+
 551. What are the dhamma which are neither
 meritorious nordemeritorious?
 When at a certain time one practises supramundane
@@ -8969,7 +9521,8 @@ attainedthrough predominanceofdesire -thenatthattime
 contact arises ...p... non-distraction arises ...p... These are the
 dhammawhich are neither meritorious nordemeritorious.
 Twenty Great Methods
-First Jhāna (Sotāpatti Phala)
+First Jhāna (Sotāpatti Phala) ^1-551
+
 552. What are the dhamma which are neither
 meritorious nordemeritorious?
 When at acertaintime onepractises
@@ -9031,8 +9584,9 @@ demeritorious.
 Resultant Thoughts of (three) Higher Maggas
 Three Higher Phalas
 (1) Section on Definition of the
-Dhamma Factors.
+Dhamma Factors. ^1-552
 a. Exposition of Brief
+
 553. What are the dhamma which are neither
 meritoriousnordemeritorious?
 When at acertain time onecultivates Supramurdane
@@ -9086,11 +9640,13 @@ phalapaññā) arises ...p... non-distractionarises ...p...
 At that time (in addition to the above), there are
 other incorporeal dhamma which are causally produced.
 These are the dhamma which are neither meritorious nor
-demeritorious.
+demeritorious. ^1-553
 b. Detailed Exposition
+
 554. Whatatthattime iscontact?
 That which atthattime iscontact,beingincontact,
-fullcontact, contactingwell-this atthattimeiscontact.
+fullcontact, contactingwell-this atthattimeiscontact. ^1-554
+
 555. What at that time is the faculty ofperfect
 knowledge alreadyattained?
 Thatwhich atthattimeisrealizationofthedhammas
@@ -9120,8 +9676,9 @@ demeritorious.
 Five Kinds of Consciousness Resulting from
 Demeritorious Thought
 (1) Section on Definition of
-Dhamma Factors
+Dhamma Factors ^1-555
 a. Exposition in Brief
+
 556. What are the dhamma which are neither
 meritorious nordemeritorious?
 When as a result ofdemeritorious deeds or ofthe
@@ -9144,22 +9701,26 @@ These are the dhamma which are neither meritorious nou
 demeritorious.
 
 300 Dhammasangani
-(b) Detailed Exposition
+(b) Detailed Exposition ^1-556
+
 557. Whatatthattime iscontact?
 That which atthattime iscontact, being incontact,
-full contact, contactingwell-thisatthattimeiscontact.
+full contact, contactingwell-thisatthattimeiscontact. ^1-557
+
 558. Whatatthattime is sensation?
 Thatwhich atthattime isphysical unease andpain
 born out of full contact with body-consciousness-element
 appropriate tothat feeling, sensationofphysical unease and
 painborn outofphysicalcontact, feelingofphysicalunease
 andpainborn outofphysicalcontact - this atthattime is
-sensation ...p...
+sensation ...p... ^1-558
+
 559. What atthattimeispain (dukkha)?
 Thatwhich atthattimeisphysicaluneaseandpain,
 sensation ofphysical unease and painborn out ofphysical
 contact, feeling ofphysical unease and pain born out of
-physical contact - this atthattimeispain(dukkha) ...p...
+physical contact - this atthattimeispain(dukkha) ...p... ^1-559
+
 560. What atthattimeisfacultyofpain?
 Thatwhich atthattime isphysicaluneaseandpain,
 sensation ofphysical unease andpainborn outofphysical
@@ -9185,8 +9746,9 @@ concomitants (dhammadhātu)arise.
 At that time (in addition to the above), there are
 other incorporeal dhamma which are causally produced.
 These are the dhamma which are neither meritorious nor
-demeritorious ...p...
+demeritorious ...p... ^1-560
 b. Detailed and Additional Exposition
+
 561. What atthattime istheaggregateofvolitional
 activities?
 Contact, volition,one-pointedness ofthemind, faculty
@@ -9202,8 +9764,9 @@ nordemeritorious.
 Mind-Element Resulting from
 Demeritorious Thought
 (i) Section on Definition of the
-Dhamma Factors
+Dhamma Factors ^1-561
 a. Exposition in Brief
+
 562. What are the dhamma which are neither
 meritoriousnordemeritorious?
 When as a result ofdemeritorious deeds or ofthe
@@ -9236,8 +9799,9 @@ Cittuppada Kanda 303
 At that time (in addition to the above), there are
 other incorporeal dhamma which are causally produced.
 These are the dhamma which are neither meritorious nor
-demeritorious ...p...
+demeritorious ...p... ^1-562
 b. Detailed and Additional Exposition
+
 563. What atthattimeistheaggregateofvolitional
 activities?
 (Atthattime) contact, volition; initial application of
@@ -9252,8 +9816,9 @@ nordemeritorious.
 Mind-Consciousness-Element Resulting from
 Demeritorious Thoughts
 Section on Definition of the(i)
-Dhamma Factors
+Dhamma Factors ^1-563
 a. Exposition in Brief
+
 564. What are the dhamma which are neither
 meritoriousnordemeritorious?
 When as a result ofdemeritorious deeds or of the
@@ -9283,8 +9848,9 @@ concomitants (dhammadhātu) arises.
 At that time (in addition to the above), there are
 other incorporeal dhamma which are causally produced.
 These are the dhamma which are neither meritorious nor
-demeritorious ...p...
+demeritorious ...p... ^1-564
 b. Detailed and Additional Exposition
+
 565. What atthattimeisthe aggregateofvolitional
 activities?
 (Atthat time)contact, volition, initial application of
@@ -9303,8 +9869,9 @@ Non-Causative Action Thoughts
 Devoid of Root-Causes
 Non-Causative Action Mind-Element
 (i) Section on Definition of the
-Dhamma Factors
+Dhamma Factors ^1-565
 a. Exposition in Brief
+
 566. What are the dhamma which are neither
 meritorious nordemeritorious?
 When at a certain time non-causative-action mind-
@@ -9338,8 +9905,9 @@ arises.
 At that time (in addition to the above), there are
 other incorporealdhammawhicharecausallyproduced ...p...
 These are the dhamma which are neither meritorious nor
-demeritorious.
+demeritorious. ^1-566
 b. Detailed and Additional Exposition
+
 567. Whatatthattime isthe aggregateofvolitional
 activities?
 (Atthattime) contact, volition, initial application of
@@ -9359,7 +9927,8 @@ Accompanied by Pleasure
 a. Exposition in Brief
 Non-Causative-Action
 Mind-Consciousness-Element
-(Hasituppāda)1
+(Hasituppāda)1 ^1-567
+
 568. What are the dhamma which are neither
 meritorious nordemeritorious?
 When at a certain time non-causative-action mind-
@@ -9377,7 +9946,8 @@ faculty ofpleasure arises, faculty ofvitality arises.
 At that time (in addition to the above), there are
 other incorporeal dhamma which are causally produced.
 These are the dhamma which are neither meritorious nor
-demeritorious.
+demeritorious. ^1-568
+
 569. When this Non-Causative-Action Mind-Consciousness-Element is
 devoid ofroot-causes andis accompaniedbypleasure, itiscalled
 Hasituppāda, which means the smiling of the Buddha and the
@@ -9387,14 +9957,16 @@ Arahats.
 b. Detailed Exposition
 569. Whatatthattimeiscontact?
 Thatwhich at thattime iscontact,beingincontact,
-this at that time is contactfull contact, contacting well -
+this at that time is contactfull contact, contacting well - ^1-569
+
 570. What at that time is one-pointedness ofthe
 mind?
 Thatwhichatthattimeisstabilityofmind,steadfastness
 of mind, absorbed steadfastness of mind, unshakableness,
 non-distraction, imperturbability, tranquillity ofmind, faculty
 ofconcentration,power ofconcentration - this atthattime
-is one-pointedness ofthe mind.
+is one-pointedness ofthe mind. ^1-570
+
 571. What atthattimeisthe facultyofendeavour?
 Thatwhich atthattimeismental endeavour, riddance
 oflethargy, exerting harder andharder, endeavouring higher
@@ -9403,7 +9975,8 @@ steadfastness, resoluteness, unfaltering endeavour, having
 sustained desire to strive, not relinquishing the task, dis-
 chargingthe taskwell, endeavour asthe facultyofendeavour,
 power of endeavour - this at that time is the faculty of
-endeavour.
+endeavour. ^1-571
+
 572. What at that time is the faculty of
 concentration?
 Thatwhich atthattime isstabilityofmind steadfastness
@@ -9432,8 +10005,9 @@ contact as asingle factor arises ...p... one mind-consciousness-
 At that time (in addition to the above), there are
 other incorporeal dhamma which are causally produced.
 These are the dhamma which are neither meritorious nor
-demeritorious ...p... .
+demeritorious ...p... . ^1-572
 b. Detailed and Additional Exposition
+
 573. What atthattime isthe aggregate ofvolitional
 activities?
 Contact, volition, initial application of the mind,
@@ -9452,8 +10026,9 @@ Non-Causative-Action Mind-Consciousness-Element
 Accompanied by Equanimity
 Non-Causative-Action Mind-Consciousness-Element¹
 (1) Section on Definition of the
-Dhamma Factors
+Dhamma Factors ^1-573
 b. Exposition in Brief
+
 574. What are the dhamma which are neither
 meritorious nor demeritorious?
 When at a certain time non-causative-action mind-
@@ -9493,8 +10068,9 @@ contact as asingle factor arises ...p... onemind-consciousness-
 At that time (in addition to the above), there are
 other incorporeal dhamma which are causally produced.
 These are the dhamma which are neither meritorious nor
-demeritorious ...p...
+demeritorious ...p... ^1-574
 b. Detailed and Additional Exposition
+
 575. What atthattime istheaggregateofvolitional
 activities?
 (Atthat time) contact, volition, initial application of
@@ -9511,7 +10087,8 @@ this at that time is the aggregate ofvolitional activities
 nordemeritorious.
 Non-Causative-Action Thoughts with Root-Cause
 which arise in the Sensuous Sphere
-Main Non-Causative-Action Thoughts
+Main Non-Causative-Action Thoughts ^1-575
+
 576. What are the dhamma which are neither
 meritorious nordemeritorious?
 When at a certain time mind-consciousness-element,
@@ -9551,7 +10128,8 @@ meritorious nor demeritorious ...p... These are the dhamma
 which are neither meritorious nordemeritorious.
 Non-Causative-Action Thought of the
 Fine Material Sphere
-(First Jhāna)
+(First Jhāna) ^1-576
+
 577. What are the dhamma which neitherare
 meritorious nordemeritorious?
 Whenatacertaintimeonepractises Rūpa Jhāna (the
@@ -9567,7 +10145,8 @@ then at that time contact arises ...p... non-distraction arises
 nordemeritorious.
 
 314 Dhammasangaņi
-(Second Jhana, etc.)
+(Second Jhana, etc.) ^1-577
+
 578. What are the dhamma which are neither
 meritorious nordemeritorious?
 When at acertaintime onepractises Rūpa Jhāna (the
@@ -9584,7 +10163,8 @@ then at that timedevice as the object of meditation -
 contact arises ...p... non-distraction arises ...p... These are the
 dhamma which are neither meritorious nordemeritorious.
 Non-Causative-Action Thought of the
-Non-Material Sphere (ākāsānañcāyatana Jhāna)
+Non-Material Sphere (ākāsānañcāyatana Jhāna) ^1-578
+
 579. What are the dhamma which are neither
 meritorious nordemeritorious?
 When at a certain time one practises Arūpa Jhāna
@@ -9605,7 +10185,8 @@ the fourthjhāna characterisedby eliminationofbliss (sukha)
 atthattimecontact arises....p... non-distraction arises ...p....
 These are the dhamma which are neither meritorious nor
 demeritorious.
-(Viññānañcāyatana Jhāna)
+(Viññānañcāyatana Jhāna) ^1-579
+
 580. What are the dhamma which are neither
 meritorious nordemeritorious?
 What at a certain time one practises Arūpa Jhāna,
@@ -9620,7 +10201,8 @@ bliss (sukha) ...p... togetherwith the conceptof'Infinity of
 Consciousness' - thenat thattimecontact arises ...p... non-
 distraction arises ...p... These are the dhamma which are
 neither meritorious nordemeritorious.
-(Akiñcaññāyatana Jhana)
+(Akiñcaññāyatana Jhana) ^1-580
+
 581. What are the dhamma which are neither
 meritorious nordemeritorious?
 When at a certain time one practises Arūpa Jhāna,
@@ -9637,7 +10219,8 @@ elimination ofbliss (sukha) ...p... together with the concept
 of 'Nothingness' then at that time contact arises ...p...
 non-distraction arises ...p... These are thedhammawhich are
 neither meritorious nordemeritorious.
-(Neva-Saññā Nā-Saññāyatana Jhāna)
+(Neva-Saññā Nā-Saññāyatana Jhāna) ^1-581
+
 582. What are the dhamma which are neither
 meirtorious nordemeritorious?
 When at a certain time one practises Arūpa Jhāna,
@@ -9667,7 +10250,8 @@ END OF DIVISIONONMIND AND MENTAL CONCOMITANTS
 II. DIVISION CONCERNNING CORPOREALITY
 (Rupa Kanda)
 Dhama which are Neither Meritorious Nor
-Demeritorious
+Demeritorious ^1-582
+
 583. What are the dhamma which are neither
 meritorious nor demeritorious?
 There are dhammā which are the resultants of
@@ -9816,7 +10400,7 @@ faculty; (661)
 7. (i) There is Corporeality which is a Primary
 Element; (662)
 (ii) There is Corporeality which is not a
-Primary Element; (663)
+Primary Element; (663) ^1-583
 8. (i) There is Corporeality which is bodily
 intimation; (664)
 (ii) There is Corporeality which is not bodily
@@ -11068,6 +11652,7 @@ Second Method (Duka): Counting of Corporeality
 in Two Categories
 (a) Fourteen Miscellaneous Dyads
 (i) Dependent Corporeality
+
 595. What is dependent Corporeality?
 There is the Corporeality-
 (1) Which is the Sense-base ofEye-consciousness;
@@ -11217,7 +11802,7 @@ with Eye-consciousness ...p... Perception ...p... Volition
 ...p... Eye-consciousness arose, arises, will arise, and may
 arise.
 This Corporeality of Eye-sensitivity is also known
-as the Eye, also as the Sense-base of Eye-consciousness,
+as the Eye, also as the Sense-base of Eye-consciousness, ^1-595
 also as Eye-element also as Eye-faculty, also as 'the world',
 also as 'adoor', also as 'theocean', also as 'theunblemished',
 
@@ -12118,6 +12703,7 @@ This is the Corporeality which is malleability of
 Corporeality.
 20. Preparedness of Corporeality
 for Good Action
+
 21. What isthe Corporeality which is Preparedness
 of Corporeality for good action?
 There is preparedness for good action, the fact of
@@ -12267,11 +12853,12 @@ Volition ...p... Body-consciousness arose, arises, will arise,
 and may arise.
 This Corporeality is also known as tangible object,
 also as the tangible object that causes the arising of Body-
--consciousness, and also as the Element oftangible object.
+-consciousness, and also as the Element oftangible object. ^1-21
 This is the corporeality which is tangible object that
 causes the arising of Body-consciousness.
 
 Rūpa Kanda 405
+
 651. What is the Corporeality of the Element of
 cohesion?
 There is fluidity, that which has the nature of
@@ -12280,7 +12867,8 @@ which holds Corporeality together.
 This is the Corporeality which is the Element of
 Cohesion
 This Corporeality is Non-dependent.
-652. (i) Kamma-born Corporeality
+652. (i) Kamma-born Corporeality ^1-651
+
 653. What is Kamma-born Corporeality?
 There is the Corporeality which is the Sense-base of
 Eye-consciousness, the Corporealitywhich is the Sense-base
@@ -12401,7 +12989,8 @@ arising ofTongue-consciousness, and tangible object which
 causes the arising ofBody-consciousness.
 This is the Corporeality which iswith impingement.
 5. (ii) Corporeality which is without
-Impingement
+Impingement ^1-653
+
 6. What is the Corporeality which is without
 impingement?
 There is the Faculty of Femininity ...p... nutriment
@@ -12551,7 +13140,7 @@ externally?
 There is the Corporeality which is a visible object
 which causes the arising ofEye-consciousness ...p... nutriment
 derived fromgross or fine food.
-This is the Corporealitywhicharises externally.
+This is the Corporealitywhicharises externally. ^1-6
 16. (i) Corporeality which is Gross
 17. What is the Corporeality which is gross?
 There is the Corporeality which is the Sense-base of
@@ -12599,6 +13188,7 @@ This is the Corporeality which is not the base of
 Eye-consciousness. (Corporeality otherthan Eye-sensitivity)
 2-5. (i) Corporeality which is the Base of
 Sensation, etc., Caused by Eye-contact
+
 680. What isthe Corporealitywhich isthebase of
 Sensation caused by Contact associated with
 Eye-consciousness ...p... Perception ...p...
@@ -12608,7 +13198,8 @@ Eye-consciousness.
 This is the Corporeality which is the base of Eye-
 consciousness.
 2-5. (ii) Corporeality which is not the Base of
-Eye-consciousness
+Eye-consciousness ^1-680
+
 681. What is the Corporeality which is not the
 base of Eye-consciousness?
 There is the Corporealitywhich is the Sense-base of
@@ -12619,7 +13210,8 @@ Eye-consciousness.
 
 RūpaKanda 417
 6-21. (i) Corporeality which is the Base of
-Ear-contact, etc.
+Ear-contact, etc. ^1-681
+
 682. What is the Corporealitywhich is the base of
 Contact associated with Ear-consciousness ...p...
 Contact associated with Nose consciousness
@@ -12631,7 +13223,8 @@ Body-consciousness.
 This is the base of Contact associated with Body-
 consciousness.
 683. (ii) Corporeality which is not the Base of
-Body-contact.
+Body-contact. ^1-682
+
 684. What is the Corporeality which is not the
 base of Contact associated with Body-
 consciousness?
@@ -12641,7 +13234,8 @@ food.
 This is the Corporeality which is not the base of
 Contact associated with Body-consciousness.
 22-25. (i) Corporeality which is the Base of
-Sensation, etc., Caused by Body-contact
+Sensation, etc., Caused by Body-contact ^1-684
+
 685. What isthe Corporealitywhich is the base of
 Sensation caused by Contact associated with
 Body-consciousness ...p... Perception ...p...
@@ -12683,7 +13277,8 @@ food.
 This is the Corporeality which is not the Sense-
 -object ofContact associated with Eye-consciousness.
 2-5. (i) Corporeality which is the Sense-object
-of Sensation, etc., Caused by Eye-contact
+of Sensation, etc., Caused by Eye-contact ^1-685
+
 688. What is the Corporeality which is the Sense-
 object of Sensation caused by Contact
 associated with Eye-consciousness ...p...
@@ -12693,7 +13288,8 @@ There is the visible object.
 This is the Corporeality which isthe Sense-object of
 Eye-consciousness.
 689. (ii) Corporeality which is not the Sense-object
-ofEye-consciousness
+ofEye-consciousness ^1-688
+
 690. What is the Corporeality which is not the
 Sense-object ofEye-consciousness?
 There is the Corporeality which is the Sense-base of
@@ -12702,7 +13298,8 @@ food.
 This is the Corporeality which is not the Sense-
 -object ofEye-consciousness.
 6-21. (i) Corporeality which is the Sense-object of
-Ear-contact, etc.
+Ear-contact, etc. ^1-690
+
 691. What is the Corporeality which is the Sense-
 object of Contact associated with Ear-
 
@@ -12771,7 +13368,8 @@ fine food.
 This is the Corporeality which is not the Sense-base
 ofEye-consciousness.
 2-5. (i) Corporeality which is the Sense-base of
-Ear-consciousness, etc.
+Ear-consciousness, etc. ^1-691
+
 696. What is the Corporeality which is the Sense-
 -base of Ear-consciousness ...p... the Sense-
 -base ofNose-consciousness ...p... the Sense-
@@ -12785,7 +13383,8 @@ Corporeality is alsoknown as the empty village.
 This is the Corporeality which is the Sense-base of
 Body-consciousness.
 697. (ii) Corporeality which is not the Sense-base of
-Body-consciousness.
+Body-consciousness. ^1-696
+
 698. What is the Corporeality which is not the
 Sense-base of Body-consciousness?
 There is the Corporeality which is the Sense-base of
@@ -12854,7 +13453,8 @@ fine food.
 425Rūpa Kanda
 This is the Corporeality which is not Eye-element.
 (Corporeality other than Eye-sensitivity.)
-2-5. (i) Corporeality which is Ear-element, etc.
+2-5. (i) Corporeality which is Ear-element, etc. ^1-698
+
 704. Whatisthe Corporeality ofEar-element ...p...
 Nose-clement ...p... Tongue-element ...p... Body-
 element?
@@ -12870,7 +13470,8 @@ fine food.
 This isthe Corporeality which is not Body-element.
 (Corporeality otherthanBody-sensitivity.)
 707. (i) Corporeality which is the Element of
-Visible Object
+Visible Object ^1-704
+
 708. Whatisthe Corporealitywhich isthe Element
 of visible object?
 There is the visible object which causes the arising
@@ -13020,7 +13621,7 @@ This isthe Corporeality which isbodilyintimation.
 13. What is the Corporealitywhich is not bodily
 intimation?
 There is the Corporeality which is the Sense-base of
-Eye-consciousness ...p.. nutriment derived from gross or
+Eye-consciousness ...p.. nutriment derived from gross or ^1-708
 fine food.
 
 RūpaKanda 431
@@ -13878,6 +14479,7 @@ Sense-objectofContact associated with Body-consciousness.
 460 Dhammasangani
 22-25. (i) Internal Corporeality which is not
 the Sense-object of Body-consciousness
+
 804. What isthe internal Corporealitywhich isnot
 the Sense-objectofSensationcausedby Contact
 associated with Body-consciousness ...p... of
@@ -13889,7 +14491,8 @@ baseofbody-consciousness.
 This is the internal Corporeality which is not the
 Sense-objectofBody-consciousness.(The FivePasādaRūpa)
 805. (ii) External Corporeality which is
-the Sense-object of Body-consciousness
+the Sense-object of Body-consciousness ^1-804
+
 806. What isthe external Corporealitywhich is the
 Sense-objectofBody-consciousness?
 There is tangible objectwhich causes the arising of
@@ -13897,7 +14500,8 @@ Body-consciousness.
 This isthe external Corporealitywhich isthe Sense-
 -object ofBody-consciousness.
 807. (iii) External Corporeality which is not
-the Sense-object of Body-consciousness
+the Sense-object of Body-consciousness ^1-806
+
 808. What istheexternal Corporealitywhich isnot
 the Sense-objectofBody-consciousness?
 There is visible object which causes the arising of
@@ -13939,7 +14543,8 @@ Sense-base ofEye-consciousness.
 
 462 Dhammasangani
 2-5. (i) External Corporeality which is not
-the Sense-base of Ear-consciousness, etc.
+the Sense-base of Ear-consciousness, etc. ^1-808
+
 810. Whatistheexternal Corporealitywhich is not
 the Sense-base ofEar-consciousness ...p... of
 Nose-consciousness ...p... of Tongue-
@@ -13950,7 +14555,8 @@ fine food.
 This is the external Corporeality which is not the
 Sense-base ofBody-consciousness.
 811. (ii) Internal Corporeality which is
-the Sense-base of Body-consciousness
+the Sense-base of Body-consciousness ^1-810
+
 812. What istheinternal Corporealitywhich isthe
 Sense-base ofBody-consciousness?
 'The body' means the Corporeality which is the
@@ -13960,7 +14566,8 @@ Corporeality is also known as 'the empty village'.
 This is the internal Corporealitywhich isthe Sense-
 base ofBody-consciousness. (Kāya Pasāda)
 813. (iii) Internal Corporeality which is not the
-Sense-base of Body-consciousness
+Sense-base of Body-consciousness ^1-812
+
 814. Whatisthe internalCorporealitywhich isnot
 the Sense-baseofBody-consciousness?
 Thereisthe Corporealitywhich isthe Sense-base of
@@ -14003,7 +14610,8 @@ object which causes the arising of Eye-consciousness.
 
 Dhammasanganı
 7.10. (iii) Internal Corporeality which is not a
-Sound, etc.
+Sound, etc. ^1-814
+
 816. What is the internal Corporeality which is not
 a sound which causes the arising ofEar- con-
 sciousness ...p... not a tangible object which
@@ -14015,7 +14623,8 @@ This is the internal Corporeality which is not
 tangible object which causes the arising of Body-consciousness.
 (The Five Pasada Rupa)
 817. (ii) External Corporeality which is a
-Tangible Object
+Tangible Object ^1-816
+
 818. What is the external Corporeality which is a
 tangible object which causes the arising of
 Body-consciousness?
@@ -14067,7 +14676,8 @@ baseofBody-consciousness.
 This is the internal Corporeality which is not the
 Eye-element.
 2-5. (i) External Corporeality which is not the
-Ear-element, etc.
+Ear-element, etc. ^1-818
+
 822. WhatistheexternalCorporealitywhichisnot
 the Ear-element ...p... theNose-element ...p...
 the Tongue-element ...p... the Body-
@@ -14086,7 +14696,8 @@ Body-consciousness.
 This is the internal Corporealitywhich is theBody-
 -element. (KāyaPasāda)
 824. (iii) Internal Corporeality which is not the
-Body-element
+Body-element ^1-822
+
 825. Whatisthe internalCorporealitywhich isnot
 heBody-element?
 
@@ -14124,7 +14735,8 @@ There is sound which causes the arising of Ear-
 This is the external Corporeality which is not an
 Element ofvisible object.
 7-10. (i) Internal Corporeality which is not the
-Element of Sound, etc.
+Element of Sound, etc. ^1-825
+
 828. What isthe internal Corporeality which isnot
 the Element ofsound ...p... not the Element
 of odour ...p... not the Element oftaste ...p...
@@ -14135,7 +14747,8 @@ Sense-base ofBody-consciousness.
 This is the internal Corporeality which is not the
 Elementoftangible object. (The Five Pasāda Rūpa)
 829. (ii) External Corporeality which is the
-Element of Tangible Object
+Element of Tangible Object ^1-828
+
 830. What isthe external Corporealitywhich isthe
 Elementoftangible object?
 There is tangible object which causes the arising of
@@ -14143,7 +14756,8 @@ Body-consciousness.
 This is the external Corporealitywhich isthe Element
 oftangible object.
 831. (iii) External Corporeality which is not the
-Element of Tangible Object
+Element of Tangible Object ^1-830
+
 832. What isthe external Corporeality which is not
 the Elementoftangibleobject?
 There is visible object which causes the arising of
@@ -14185,7 +14799,8 @@ the Sense-base ofBody-consciousness.
 This is the Internal Corporeality which is not the
 Eyefaculty.
 2-5. (i) External Corporeality which is not the
-Ear-faculty, etc.
+Ear-faculty, etc. ^1-832
+
 834. What is the external Corporeality which is not
 the Ear-faculty ...p... notthe Nose-faculty ...p...
 not the Tongue-faculty ...p... not the Body-
@@ -14196,7 +14811,8 @@ fine food.
 This is the external Corporeality which is not the
 Body-faculty.
 835. (ii) Internal Corporeality which is the
-Body-faculty
+Body-faculty ^1-834
+
 836. Whatisthe internalCorporealitywhich is the
 Body-faculty?
 'The body' means the Corporeality which is the
@@ -14346,7 +14962,7 @@ intimation.
 Vocal Intimation
 4. What is the internal Corporeality which is not
 vocal intimation?
-There is the Corporealitywhich is the Sense-base of
+There is the Corporealitywhich is the Sense-base of ^1-836
 Eye-consciousness ...p... the Corporeality which is the
 Sense-base of Body-consciousness.
 This is the internal Corporeality which is not vocal
@@ -16377,6 +16993,7 @@ view.
 542 Dhammasangaņi
 This is called the wrong view of the practice of
 morality.
+
 1010. These are the three fetters; there are also the
 defilements (leadingtoapāya) existingtogether
 with these (fetters); the aggregate ofSensation
@@ -16493,7 +17110,8 @@ Consciousness.
 These are the dhamma which lead to the piling up
 (ofrebirth and death).
 
-546 Dhammasangaņi
+546 Dhammasangaņi ^1-1010
+
 1021. What arethedhammawhich leadto realisation(ii)
 of Nibbana?
 There are the four Supramundane Paths.
@@ -16642,7 +17260,7 @@ view that there is no past effect,
 (ii) akiriya dithi, wrong view that there is mere action without
 anyeffect.
 (ii)natthika dithi, wrongview thatthere isnoresultant infuture
-existence.
+existence. ^1-1021
 
 Nikkhepa Kanda 551
 Leaving aside the above-stated dhamma, there are
@@ -16656,6 +17274,7 @@ also the Unconditioned Element (Nibbāna).
 These are the dhamma which do not unfailingly
 bring about results (immediately after death or immediately
 after the arising ofthose dhammā).
+
 16. Maggārammana Tika
 (i) 1038. What are the dhammā which have magga as
 the object?
@@ -16707,6 +17326,7 @@ These are the dhamma which have magga as
 predominant factor.
 
 Nikkhepa Kanda 553
+
 17. Upanna Tika
 (i) 1041. What are the dhamma which are in the
 process of arising?
@@ -16745,6 +17365,7 @@ aggregate ofSensation ...p... the aggregate ofConsciousness;
 and there is also Corporeality that will arise as a result of
 deeds done previously.
 These are the dhamma which willdefinitely arise.
+
 18. Atita Tika
 (i) 1044. What are the dhamma which are past?
 There are: Corporeality, Sensation, Perception,
@@ -16777,6 +17398,7 @@ arisen in the present, have completely arisen inthe present,
 which exist in the present, which well exist in the present,
 which are present and are counted as ofthe present.
 These are the dhamma ofthe present.
+
 19. Atītārammaņa Tika
 (i) 1047. What are the dhamma which have the past
 as their object ofthought?
@@ -16798,6 +17420,7 @@ arise with the present as their object.
 556 Dhammasanganī
 These are the dhamma which have the present as
 theirobject ofthought.
+
 20. Ajjhatta Tika
 21. What are the dhamma which are internal?(i)
 There are: Corporeality, Sensation, Perception,
@@ -16844,6 +17467,7 @@ have objects of thought that arise internally (i.e., in
 oneself) and externally (i.e., in others).
 These are the dhammawhich have objectsofthought
 that arise internally and externally.
+
 22. Sanidassana Tika
 1056 What are the dhamma which are visible and(i)
 which arise with impingment?
@@ -16853,6 +17477,7 @@ These are the dhammawhich are visible and which
 arise with impingment.
 
 558 Dhammasangaņi
+
 1057. What are the dhamma which are not visible(ii)
 but which arise with impingement?
 There are: Eye-sensitivity which is the Sense-base
@@ -17002,7 +17627,7 @@ sufferings of existence, snare of Māra, fish-hook of Māra,
 domain of Māra, river ofcraving, net ofcraving, leash of
 craving, the ocean ofcraving, covetousness, greed, the root
 cause of demeritoriousness.
-This is called greed.
+This is called greed. ^1-1057
 
 Nikkhepa Kanda 563
 1066. Of those (three demeritorious root causes),
@@ -17164,17 +17789,20 @@ the Supramundane which are the aggregate of Sensation
 is Corporeality; and also the Unconditioned Element
 (Nibbāna).
 These are the dhamma which are not root causes.
+
 1079. What arethe dhammāwhich have rootcauses?
 There are the aggregate of Sensation ...p... the
 aggregate of Consciousness which haveroot causes.
-These are the dhamma which have root causes.
+These are the dhamma which have root causes. ^1-1079
+
 1080. What are the dhamma which have no root
 causes?
 There are: the aggregate of Sensation ...p... the
 aggregate of Consciousness which have no root causes:
 there is also all that is Corporeality: and also the
 Unconditioned Element (Nibbāna).
-These are the dhamma which have no root causes.
+These are the dhamma which have no root causes. ^1-1080
+
 1081. What are the dhamma which are associated
 with root causes?
 There are the aggregate of Sensation ...p... the
@@ -17183,7 +17811,8 @@ causes.
 
 Nikkhepa Kanda 569
 These are the dhamma which are associated with
-root causes.
+root causes. ^1-1081
+
 1082. What arethedhamma which are not associated
 with root causes?
 There are: the aggregate of Sensation ...p... the
@@ -17191,7 +17820,8 @@ aggregate of Consciousness which are not associated with
 root causes; there is also all that is Corporeality; and also
 the Unconditioned Element (Nibbāna).
 These are the dhamma which are not associated
-with root causes.
+with root causes. ^1-1082
+
 1083. What are the dhamma which are root causes
 and which also have root causes?
 Greed is a root cause and as it is also associated
@@ -17206,7 +17836,8 @@ Absence ofgreed, absence ofhatred and absence of
 bewilderment are rootcauses, and as they are also associated
 with one another, they have root causes.
 These are the dhamma which are root causes and
-which also have root causes.
+which also have root causes. ^1-1083
+
 1084. What are the dhammawhich have root causes
 but are not root causes?
 Because of root causes associating with them, there
@@ -17217,7 +17848,8 @@ associating root causes from the dhamma which have root
 causes, there are the remaining aggregate of Sensation
 ...p... the aggregate ofConsciousness.
 These are the dhamma which have root causes but
-are not root causes.
+are not root causes. ^1-1084
+
 1085. What are the dhamma which are root causes
 and are also associated with root causes?
 Greed is itself a root cause, and because of
@@ -17232,7 +17864,8 @@ Absence ofgreed, absence ofhatred and absence of
 bewilderment are root causes and because they are associated
 with one another, they are also associated with root causes.
 These are the dhamma which are root causes and
-which are also associated with root causes.
+which are also associated with root causes. ^1-1085
+
 1086. What are the dhamma which are associated
 with root causes but are not root causes?
 Because of root causes associating with them, there
@@ -17243,7 +17876,8 @@ Sensation ...p... the aggregate ofConsciousness.
 These are the dhamma which are associated with
 root causes but are not root causes.
 
-Nikkhepa Kanda 571
+Nikkhepa Kanda 571 ^1-1086
+
 1087. What are the dhamma which are not root
 causes but which have root causes?
 There are the aggregate of Sensation ...p... the
@@ -17251,7 +17885,8 @@ aggregate of Consciousness which are not root causes but
 which have root causes onaccount ofrootcauses associating
 with them.
 These are the dhamma which are not root causes
-but which have root causes.
+but which have root causes. ^1-1087
+
 1088. What are the dhamma which are not root
 causes and which have no root causes?
 There are dhamma which are not root causes and
@@ -17264,7 +17899,8 @@ and which have no root causes.
 END OF EXPOSITIONS ONROOT CAUSES
 II. Cūlantara Duka: Shorter Compilation of
 Unrelated Dukas
-(1) Sapaccaya Duka
+(1) Sapaccaya Duka ^1-1088
+
 1089. What are the dhamma which are due to
 (i)
 causes?
@@ -17274,12 +17910,14 @@ of Perception, the aggregate of Volitional Activities, and
 the aggregate ofConsciousness.
 
 572 Dhammasanganī
-These are the dhamma which are due to causes.
+These are the dhamma which are due to causes. ^1-1089
+
 1090. What are the dhamma which are not due to(ii)
 causes?
 There is the Unconditioned Element (Nibbāna).
 These are the dhamma which are not due to causes.
-(2) Sankhata Duka
+(2) Sankhata Duka ^1-1090
+
 1091. What are thedhammā which are conditioned?(i)
 There are dhamma which are due to causes. Those
 very dhammā which are due to causes are the dhamma
@@ -17290,7 +17928,8 @@ There is the dhamma which is not due to causes.
 That very dhamma which is not due to causes is
 the unconditioneddhamma(Nibbāna) which is notconditioned
 by (four) causes.
-(3) Sanidassana Duka
+(3) Sanidassana Duka ^1-1091
+
 1092. What are the dhamma which are visible?(i)
 There is visible object which causes the arising of
 Eye-consciousness.
@@ -17324,7 +17963,8 @@ arising of Mind-consciousness; and also the Unconditioned
 Element (Nibbāna).
 These are the dhamma which arise without
 impingement.
-(5) Rūpi Duka
+(5) Rūpi Duka ^1-1092
+
 1097. What are the dhamma which are corporeal?(i)
 There are the four Primary Elements and Corporeality
 which are dependent on them.
@@ -17474,7 +18114,7 @@ delight in existence, craving for existence, love forexistence,
 burningdesire forexistence, infatuation forexistence, being
 overwhelmed by desire for existence.
 These are called the defilement of hankering after
-better existences.
+better existences. ^1-1097
 
 Nikkhepa Kanda 579
 1105. Of those (four kinds of āsavas), what is the
@@ -17608,6 +18248,7 @@ itself an āsava, and because of the defilement of clinging
 to false views it is also associated with an āsava.
 These are the dhamma which are āsavas and are
 also associated with āsavas.
+
 1115. What are the dhamma which are associated
 with āsavas but are not āsavas?
 There are dhammawhich are associated with āsavas.
@@ -17757,7 +18398,7 @@ burning desire for existence, infatuation for existence, being
 overwhelmed by desire for existence.
 This is called the fetter ofcraving for existence.
 1126. Of those (ten fetters), what is the fetter of
-jealousy?
+jealousy? ^1-1115
 There are: envy of other's gain, envy of others
 being revered, envy ofothers being highly esteemed, envy
 of others being adored, envy of others being venerated,
@@ -17808,6 +18449,7 @@ therootofdemeritoriousness.
 This is called the fetter ofignorance.
 
 590 Dhammasangani
+
 1129. What are the dhamma which are not fetters?(ii)
 are theLeaving aside the above fetters, there
 remaining meritorious, demeritorious and neither-meritorious-
@@ -17826,7 +18468,8 @@ demeritorious and neither-meritorious-nor-demeritorious
 dhamma ofthe Sensuous Sphere, the Fine Material Sphere
 and the Non-material Sphere which are the aggregate of
 Corporeality ...p... the aggregate of Consciousness.
-These are the dhamma which are objects of fetters.
+These are the dhamma which are objects of fetters. ^1-1129
+
 1130. What are the dhamma which are not objects(ii)
 of fetters?
 There are: the Supramundane Paths, the Fruits of
@@ -17836,13 +18479,15 @@ fetters.
 
 Nikkhepa Kanda 591
 (3) Saññojanasampayutta Duka
-(i)
+(i) ^1-1130
+
 1132. What are the dhamma which are associated
 with fetters?
 There are the aggregate of Sensation ...p... the
 aggregate ofConsciousness which are associatedwith fetters.
 These are the dhamma which are associated with
-fetters.
+fetters. ^1-1132
+
 1133. What arethedhammawhich are not associated
 with fetters?
 There are: the aggregate of Sensation ...p... the
@@ -17870,7 +18515,8 @@ are the aggregate of Corporeality ...p... the aggregate of
 Consciousness.
 These are the dhamma which are objects of fetters
 but are not fetters.
-(5) Saññojana Saññojanasampayutta Duka
+(5) Saññojana Saññojanasampayutta Duka ^1-1133
+
 1136. What are the dhamma which are fetters and(i)
 are also associated with fetters?
 The fetter of attachment to sense pleasures is itself
@@ -17918,7 +18564,8 @@ associated with a fetter. The fetter of ignorance is itself a
 fetter, and because of the fetter ofmeanness-and-stinginess
 it is also associated with a fetter.
 These are the dhamma which are fetters and which
-are also associated with fetters.
+are also associated with fetters. ^1-1136
+
 1137. What are the dhamma which are associated
 with fetters but are not fetters?
 There are dhamma which are associated with fetters.
@@ -18068,7 +18715,7 @@ firmly holding awrong view as only this is
 true which binds all mental phenomena (to
 samsāra).
 There are: the view that the world (i.e., the five
-Aggregates) is eternal is theonly truth andotherviews are
+Aggregates) is eternal is theonly truth andotherviews are ^1-1137
 false; or the viewthatthe world is not eternal is the only
 truth andother views are false; orthe viewthat the world
 is finite is theonly truth andother views are false; or the
@@ -18102,6 +18749,7 @@ Leaving aside the bond of wrong view of the
 practice of morality, all wrong views are the bond of
 firmly holding a wrong view as 'only this istrue' which
 binds all mental phenomena (to samsāra).
+
 1145. What are the dhammawhich are not bonds?
 Leaving aside those bonds, there are the remaining
 meritorious, demeritorious and neither-meritorious-nor-
@@ -18111,9 +18759,10 @@ Supramundane which are the aggregate of Sensation ...p...
 the aggregate of Consciousness; there is also all that is
 Corporeality; and there is also the Unconditioned Element
 (Nibbāna).
-These are the dhamma which are not bonds.
+These are the dhamma which are not bonds. ^1-1145
 
 600 Dhammasangani
+
 1146. What are the dhamma which are objects of
 bonds?
 There are objects of asavas which are meritorious,
@@ -18121,19 +18770,22 @@ demeritorious and neither-meritorious-nor-demeritorious
 dhamma ofthe Sensuous Sphere, the Fine Material Sphere,
 and the Non-material Sphere which are the aggregate of
 Corporeality ...p... the aggregate ofConsciousness.
-These arethedhamma which are objects ofbonds.
+These arethedhamma which are objects ofbonds. ^1-1146
+
 1147. What are the dhamma which are not objects
 ofbonds?
 There are: the Supramundane Paths, the Fruits of
 those Paths, and also the Unconditioned Element(Nibbāna).
 These are the dhamma which are not objects of
-bonds.
+bonds. ^1-1147
+
 1148. What are the dhamma which are associated
 with bonds?
 There are the aggregate of Sensation ...p... the
 aggregate ofConsciousness which are associatedwithbonds.
 These are the dhamma which are associated with
-bonds.
+bonds. ^1-1148
+
 1149. What arethedhammawhich are not associated
 with bonds?
 There are: the aggregate of Sensation ...p... the
@@ -18211,7 +18863,8 @@ These are the dhamma which are neither associated
 with bonds nor are objects ofbonds.
 VI. OghaGocchaka: Cluster of Dukas Relating to
 Whirlpools
-(i)
+(i) ^1-1149
+
 1156. What are the dhamma which are whirlpools?
 [Repeat here paragraphs under Asavas]
 VII. Yoga Gocchaka: Cluster ofDukas
@@ -18219,7 +18872,8 @@ Relating to Yokes
 (i) 157 What are the dhamma which are yokes?
 [Repeat here paragraphs under Āsavas]
 VIII. Nivarana Gocchaka: Cluster ofDukas
-Relating to Hindrances
+Relating to Hindrances ^1-1156
+
 1157. What are the dhamma which are hindrances
 (i)
 tothe (attainment ofjhāna, Magga and Phala)?
@@ -18369,7 +19023,7 @@ These are the dhamma of hindrances which are
 objects of hindrances.
 (ii) 1171. What are the dhamma which are not objects
 of hindrances?
-There are: the Supramundane Paths, the Fruits of
+There are: the Supramundane Paths, the Fruits of ^1-1157
 those Paths, andthe Unconditioned Element (Nibbāna).
 These are the dhamma which are not objects of
 hindrances.
@@ -18392,11 +19046,13 @@ also the Unconditioned Element (Nibbāna).
 These are the dhamma which are not associated
 with hindrances.
 (4) Nivarana Nivaraniya Duka
+
 1174. What are the dhamma which are hindrances
 (i)
 as well as objects of hindrances?
 The hindrances themselves are hindrances as well as
-objects ofhindrances.
+objects ofhindrances. ^1-1174
+
 1175. What are the dhamma which are objects of
 hindrances but are not hindrances?
 There are dhamma which are objects of hindrances.
@@ -18411,7 +19067,8 @@ Sphere which are the aggregate of Corporeality ...p... the
 aggregate of Consciousness.
 These are the dhammawhich are objects ofhindrances
 but are not hindrances.
-(5) Nivarana Nivarana Sampayutta Duka
+(5) Nivarana Nivarana Sampayutta Duka ^1-1175
+
 1176. What are the dhamma which are hindrances
 and are also associated with hindrances?
 The hindrance of sense-desire is itself a hindrance,
@@ -18501,7 +19158,8 @@ Corporeality ...p... the aggregate of Consciousness.
 
 613Nikkhepa Kanda
 These are the dhamma which are not associated
-with hindrances and yet are objects of hindrances.
+with hindrances and yet are objects of hindrances. ^1-1176
+
 1179. What are the dhamma which are neither(ii)
 associated with hindrances nor are objects of
 hindrances?
@@ -18514,7 +19172,8 @@ Relating to Misconceptions
 (1) Parāmāsa Duka
 50.(1)(i)1180. What are the dhamma which are
 misconception?
-It is misconception which is Wrong View.
+It is misconception which is Wrong View. ^1-1179
+
 1180. What, in the above terminology, is
 misconception which is Wrong View?
 There are: the wrong view that 'the world (i.e., the
@@ -18576,7 +19235,8 @@ There are the aggregate of Sensation ...p... the
 aggregate of Consciousness which are associated with
 misconception.
 These are the dhamma which are associated with
-misconception.
+misconception. ^1-1180
+
 1186. Whatarethedhammawhich are not associated(ii)
 with misconception?
 There are the aggregate of Sensation ...p... the
@@ -18648,7 +19308,8 @@ objects.
 There are Eye-consciousness, Ear-consciousness, Nose-
 consciousness, Tongue-consciousness, Body-consciousness,
 Mind-element and Mind-consciousness-element.
-These are the dhamma which are mind.
+These are the dhamma which are mind. ^1-1186
+
 1194. What are the dhamma which are not mind?(ii)
 There arethe aggregate ofSensation, the aggregate
 of Perception, the aggregate ofVolitional Activities; there
@@ -18669,7 +19330,8 @@ These the dhamma which are not mentalare
 concomitants.
 
 Nikkhepa Kanda 619
-(4) Cittasampayutta Duka
+(4) Cittasampayutta Duka ^1-1194
+
 1197. What are the dhamma which are associated(i)
 with mind?
 There are the aggregate of Sensation, the aggregate
@@ -18802,7 +19464,8 @@ always accompany mind?
 There are theaggregate ofSensation, the aggregate
 ofFerception, the aggregate ofVolitional Activities.
 These are the dhammawhich are mixedwith mind,
-caused by mind, and which always accompany mind.
+caused by mind, and which always accompany mind. ^1-1197
+
 1212. What are the jhamma which are not mixed
 (1)
 with mind, not caused by mind, and which
@@ -18848,7 +19511,8 @@ Sphere, the Fine Material Sphere and the Nen-material
 Sphere which are the aggregate of Sensation ...p... the
 aggregateofConsciousness;there isalsoCorporealitywhich
 isthe resultofdeeds done previously.
-These are the dhammawhich are kamma-born.
+These are the dhammawhich are kamma-born. ^1-1212
+
 1218. What are thedhammawhich are notkamma-(ii)
 born?
 There are objects of asavas which are meritorious
@@ -18998,7 +19662,7 @@ These are the dhamma which are associated with
 Clinging. ne
 (ii) 1228. What arethedhammawhich are not associated
 with Clinging?
-There are: the aggregate of Sensation ...p... the
+There are: the aggregate of Sensation ...p... the ^1-1218
 aggregate of Consciousness which are not associated with
 Clinging; there is also allthat is Corporeality; andthere is
 also the Unconditioned Flement (Nibbana).
@@ -19046,6 +19710,7 @@ These are the dhamma which are Clinging and are
 also associated with Clinging
 
 632 Dhammasangani
+
 1232. What are the dhamma which are associated(ii
 with Clinging but are not Clinging?
 There aredhammawhichareassociatedwith Clinging.
@@ -19195,7 +19860,7 @@ There are:such wrong view, wrong view of that
 nature, the thicket ofwrong view, the wilderness ofwrong
 view, the thorny spike ofwrong view, the inconsistency of
 wrong view, the fetter of wrong view, obsession with
-wrong view, persistent obsessionwithwrongview, adherence
+wrong view, persistent obsessionwithwrongview, adherence ^1-1232
 to wrong view, misconceptionwhich iswrongview, detestable
 
 NikkhepaKanda 637
@@ -19245,6 +19910,7 @@ That which is not being afraid to do deeds the
 evilness of which ought to arouse fear, notbeing afraid to
 commit evil demeritorious deeds
 This is called having no fear(to do evil).
+
 1246. What are the dhamma which are no!
 detilements?
 theLeaving aside those defilements, there are
@@ -19267,14 +19933,16 @@ dhamma ofthe Sensuous Sphere, the Fine Material Sphere
 and the Non-material Sphere which are the aggregate of
 Corporeality ...p... the aggregate of Consciousness.
 These the dhamma which are objects ofare
-defilements.
+defilements. ^1-1246
+
 1248. What are the dhamma which are not objects(ii)
 ofdefilements?
 There are: the Supramundane Paths, the Fruits of
 those Paths, and the Unconditioned Element (Nibbāna).
 These are the dhamma which are not objects of
 defilements.
-(3) Samkilittha Duka
+(3) Samkilittha Duka ^1-1248
+
 1249. What are the dhamma which are defiled?(i)
 There are the three roots ofdemeritoriousness, viz..
 greed, hatredandbewilderment; there are also thedefilements
@@ -19283,9 +19951,10 @@ Sensation ...p... the aggregate of Consciousness associated
 with these (three roots); and physical action, verbal action
 and mental action arising on account ofthese three roots
 ofdemeritoriousness.
-These are thedhamma which are defiled.
+These are thedhamma which are defiled. ^1-1249
 
 640 Dhammasangani
+
 1250. What are the dhamma which are not defiled?(ii)
 There are meritorious and neither-meritorious-nor-
 demeritorious dhamma of the Sensuous Sphere, the Fine
@@ -19302,7 +19971,8 @@ There are the aggregate of Sensation ...p... the
 are associated withaggregate of Consciousness which
 detilements.
 These are the dhamma which are associated with
-detilements
+detilements ^1-1250
+
 1251. What arethedhammawhich arenot associated
 (11)
 with defilements?
@@ -19335,7 +20005,8 @@ well as objects ofdefilements.
 (i) 1255. What are the dhamma which are defilements
 and are also defiled?
 The defilements themselves are defilements and are
-also defiled.
+also defiled. ^1-1251
+
 1256. What are the dhamma which are defiled but(ii)
 are not defilements?
 There are dhamma which are defiled. Leaving aside
@@ -19485,7 +20156,7 @@ Restlessness is itself a defilement, and because of
 the defilement ofnot being ashamed (to do evil) it is also
 associated with a defilement. Not being ashamed (to do
 evil) is itself a defilement, and because ofrestlessness it is
-also associated with a defilement.
+also associated with a defilement. ^1-1256
 Not being afraid (to do evil) is itself a defilement,
 and because ofthe defilement ofnot being ashamed (to do
 evil) it is also associated with a defilement. Not being
@@ -19644,6 +20315,7 @@ there is also the Unconditioned Element (Nibbāna).
 These are the dhamma which are not eliminated by
 Sotāpatti Magga.
 (2) Bhāvanāya Pahātabba Duka
+
 1266. What are the dhamma which are eliminated(i)
 by the three higher maggas?
 There are the remaining greed, hatred and
@@ -19653,7 +20325,8 @@ of Sensation ...p... the aggregate of Consciousness which
 are associated with them; and physical action, verbal action
 and mental action arising on account ofthem.
 These are the dhamma which are eliminated by the
-three higher maggas.
+three higher maggas. ^1-1266
+
 1267. What are thedhammawhich are not eliminated(ii)
 by the three higher maggas?
 Leaving aside the dhammawhich are eliminated by
@@ -19737,7 +20410,8 @@ aggregate of Consciousness which are associated with those
 (defilements); and physical action, verbal action and mental
 action arising on account ofthese (defilements). These are
 the dhammā with root causes which are eliminated by
-Sotāpatti Magga.
+Sotāpatti Magga. ^1-1267
+
 1272. What are the dhamma, other than those with
 root causes, which are eliminated by Sotāpatti
 Magga?
@@ -19754,7 +20428,8 @@ Nikkhepa Kanda 655
 These are the dhamma, other than those with root
 causes,which are eliminated by Sotāpatti Magga.
 (4) Bhāvanāya Pahātabba Hetuka Duka
-(i)
+(i) ^1-1272
+
 1273. What are thedhammā with root causes which
 are eliminated by the three higher maggas?
 There are the remaining root causes, viz., greed,
@@ -19820,7 +20495,8 @@ Element (Nibbāna).
 These are the dhamma which are not associated
 with initial application ofthe mind.
 (6) Savicāra Duka
-(i)
+(i) ^1-1273
+
 1277. What are the dhamma which are associated
 with sustained application ofthe mind?
 Leaving aside sustained application of the mind
@@ -19832,7 +20508,8 @@ aggregate ofPerception, the aggregate ofVolitional Activities
 and the aggregate of Consciousness which are associated
 with sustained application ofthe mind.
 These are the dhamma which are associated with
-sustained application ofthe mind.
+sustained application ofthe mind. ^1-1277
+
 1278. What are thedhammawhich are not associated(ii)
 with sustained application ofthe mind?
 There are the mind and mental concomitants which
@@ -19906,7 +20583,8 @@ Supramundane,there are the aggregate of Perception, the
 aggregate of Volitional Activities and the aggregate of
 Consciousness which are associated with that happiness.
 These are the dhamma which arise together with
-happiness.
+happiness. ^1-1278
+
 1284. What are the dhamma which do not arise(ii)
 together with happiness?
 There are the mind and mental concomitants which
@@ -19919,7 +20597,8 @@ Unconditioned Element (Nibbāna).
 These are the dhamma which do not arise together
 with happiness.
 (10) Upekkhāsahagata Duka
-(i)
+(i) ^1-1284
+
 1285. What are the dhammā which arise together
 with equanimity?
 Leaving aside equanimity from amongst the mind
@@ -20068,7 +20747,7 @@ Consciousness; there is also all that is Corporeality; and
 there is also the Unconditioned Element (Nibbāna).
 These are the dhamma which do not unfailingly
 produce results immediately after death, or immediately
-after the arising ofthose dhammā.
+after the arising ofthose dhammā. ^1-1285
 1. the fiveevildeeds after death: please seethese footnotes
 below para 1035.2. thewrongviews inniraya...
 
@@ -20103,6 +20782,7 @@ These are the dhamma which arise together with
 defilements that cause grief and lamentation.
 
 667Nikkhepa Kanda
+
 1302. What are the dhamma which do not arise(ii)
 together with defilements that cause griefand
 lamentation?
@@ -20158,7 +20838,8 @@ There is the insight-knowledgepertaining to Arahatta
 Magga, the highest level ofenlightenment.
 These are thedhammawhich are like athunderbolt.
 (3)BalaDuka
-(i)
+(i) ^1-1302
+
 1307. What are the dhamma which make one
 foolish?
 There are the dhamma ofnotbeing ashamed (to do
@@ -20308,7 +20989,7 @@ This is called the wrong view ofinfinity.
 (14) Pubbantānuditthi Duka
 (i) )1326. What, in that connection, is the wrong
 view relating to the past?
-There arises the wrong view dependent on past
+There arises the wrong view dependent on past ^1-1307
 existences, wrong view of that nature ...p... tenacity of
 wrong view.
 This is called the wrong view relatingtothepast
@@ -20557,6 +21238,7 @@ speech, not transgressing inboth action and speech.
 This is called virtuousness.
 (26) SākhalyaDuka
 (i)
+
 1350. What, inthat connection, is amiability in
 speech?
 Discarding words which are offensive, disagreeable,
@@ -20665,7 +21347,8 @@ This is called moderation in eating.
 
 Nikkhepa Kanda 687
 (29) Muttha Sacca Duka
-(i)
+(i) ^1-1350
+
 1356. What, inthatconnection, isunmindfulness?
 It is being unmindful, being notconstantly mindful,
 lackofrecollection, unmindfulnesswhichisnotremembering,
@@ -20693,7 +21376,8 @@ This is called clear comprehension.
 
 688 Dhammasangaņi
 (31) Patisankhāna Bala Duka
-(i)
+(i) ^1-1356
+
 1360. What, in that connection, is power of
 reflective knowledge?
 Therearewisdom, thorough understanding ...p... non-
@@ -20719,7 +21403,8 @@ This is called Insight.
 
 Nikkhepa Kanda 689
 (33) Samatha Nimitta Duka
-(i)
+(i) ^1-1360
+
 1364. What, in that connection, is the sign of
 Tranquillity?
 There are: stability of the mind ...p... Right
@@ -20869,7 +21554,7 @@ viz., liberationofmindandliberation from Craving(Nibbāna).
 (i) (1382. Knowledge causing cessation ofdefilements,
 Path Knowledge, with which an ariya is endowed.
 (ii) 1383. Awareness of complete extinction of
-defilements means the Fruits of the Path with which an
+defilements means the Fruits of the Path with which an ^1-1364
 ariya person is endowed.
 HERE ENDSTHE NIΙΚΚΗΕΡΑ KANDA
 DIVISION OF SUMMERIZED ANALYTICALSTATEMENTS
@@ -20974,6 +21659,7 @@ Nibbāna.
 These are the dhamma which are neither resultants
 nor which cause resultants.
 (4) Upādiņņa Tika:
+
 1393. What are the dhamma which are kamma-(i)
 -born as well as objects of Clinging?
 There are: (32) resultants of the three spheres;
@@ -21001,12 +21687,14 @@ Supramundane; the four Fruits ofthe life ofa samana; and
 there is also Nibbana.
 These are 'he dhamma which are neither kamma-
 born nor are objects ofClinging. (996)
-(5) Samkilittha Tika
+(5) Samkilittha Tika ^1-1393
+
 1396. What are the dhamma which are defiled and(i)
 which are also objects ofdefilements?
 There are (12) demeritorious thoughts. These are
 the dhamma which are defiled and which are also objects
-of defilements. (997)
+of defilements. (997) ^1-1396
+
 1397. What are the dhamma which are not defiled
 (ii)
 but are objects ofdefilements?
@@ -21156,7 +21844,7 @@ the Non-material Sphere; meritorious thoughts andresultants
 pertaining to the Fourth Supramundane Jhana.
 Leaving aside equanimity in these, there are the
 remaining thoughts (46 mental concomitants).
-These are the dhamma which arise together with
+These are the dhamma which arise together with ^1-1397
 equanimity. (Upekkhāsahagata Consciousness, mental
 concomitants other than Upekkhā Vedanā).
 Delightful satisfaction does not arise with delightful
@@ -21175,6 +21863,7 @@ These dhammā should notbe takento arise together
 with delightful satisfaction, or with pleasant sensation, or
 with equanimity.
 (8) Dassana Tika:
+
 1405. What are the dhamma which are eliminated(i)
 by Sotāpatti Magga?
 There are: four thoughts which are associated with
@@ -21196,7 +21885,8 @@ thoughts which arise together with distress. These are the
 dhamma some of which (that lead to the four miserable
 existences) are eliminated by Sotäpattı Magga, while some
 ofwhich (that do not lead to the four miserable existences)
-are eliminated by the three higher maggas.
+are eliminated by the three higher maggas. ^1-1405
+
 1407. What are thedhammawhich are noteliminated(iii)
 by Sotāpatti Magga, nor by the three higher
 maggas?
@@ -21207,7 +21897,8 @@ demeritorious, ofthe three spheres; there is also Corporealny;
 and there is also Nibbāna.
 These are the dhamma which are not eliminated by
 Sotāpatti Magga nor by the three higher maggas.
-(9) Dassana letuka Tika
+(9) Dassana letuka Tika ^1-1407
+
 1408. What arethe dhammāwith root causes which(i)
 are eliminated by Sotāpatti Magga?
 There are: four thoughts which are associated with
@@ -21262,7 +21953,8 @@ There are the four Ariya Paths which are
 Supramundane.
 These are the dhamma which lead to realization to
 Nibbana. (Magga Consciousness and associating mental
-concomitants.)
+concomitants.) ^1-1408
+
 1413. What are the dhamma which neither lead to(iii)
 (piling up of rebirth and death nor to
 realization ofNibbana?
@@ -21275,7 +21967,8 @@ These are the dhamma which neither lead to (piling
 up of rebirth and death norto realization ofNibbana.
 
 708 Dhammasanganī
-(11) Sekkha Tika
+(11) Sekkha Tika ^1-1413
+
 1414. What are the dhamma which are the mental(i)
 properties of ariyas who are still training
 themselves for arahatship?
@@ -21283,7 +21976,8 @@ There are: the four Ariya Paths which are
 Supramundane; lower stages of Fruition of the life of a
 samana.
 These are thedhammawhich arethementalproperties
-of ariyas who are still training themselves for arahatship.
+of ariyas who are still training themselves for arahatship. ^1-1414
+
 1415. What are the dhamma which are the mental(ii)
 properties of ariyas who have completed
 and have attainedtraining themselves
@@ -21400,7 +22094,8 @@ demeritorious, of the three spheres; and there is also all
 that is Corporeality.
 These are the dhamma which are medium.
 
-712 Dhammasanganī
+712 Dhammasanganī ^1-1415
+
 1425. What are the dhamma which are superior?(iii)
 There are: the four Ariya Paths which are
 Supramundane; the four Fruits ofthe life ofasamana; and
@@ -21439,7 +22134,8 @@ and there is also Nibbāna.
 These are the dhamma which do not unfailingly
 produce results (immediately after the arising of those
 dhanmā).
-(16) Maggārammaņa Tika:
+(16) Maggārammaņa Tika: ^1-1425
+
 1429. What are the dhamma which have the Path
 as their object?
 There are: four meritorious thoughts ofthe Sensuous
@@ -21483,7 +22179,8 @@ as having the Path as their object, or as having the Path as
 their root cause, or as being predominated by the Path.
 Corporeality and Nibbana are dhamma which do not
 attend to any object.
-(17) Uppanna Tika:
+(17) Uppanna Tika: ^1-1429
+
 1430. What are the dhamma which in theare
 process of arising?
 There are: (36) resultants of the four spheres; and
@@ -21633,7 +22330,7 @@ demeritorious rootcauses, andthree neither-meritorious-nor-
 demeritorious root causes.
 Absence ofgreed which is a meritorious root cause
 and absence of hatred which is a meritorious root cause
-arise together with (21) meritorious thoughts of the four
+arise together with (21) meritorious thoughts of the four ^1-1430
 spheres. Leaving aside the four meritorious thoughts ofthe
 Sensuous Sphere not associated with wisdom, absence of
 bewilderment which is a meritorious root cause arises in
@@ -21722,6 +22419,7 @@ non-causative action, which are neither meritorious nor
 demeritorious, ofthe three spheres.
 These are the dhamma which are associated with
 root causes.
+
 1446. Whatarethedhammawhich are not associated(ii)
 with root causes?
 There are: bewilderment which arises together with
@@ -21735,7 +22433,8 @@ and which also have root causes?
 There are: two or three root causes arising together
 at the same time with a certain thought.
 These are the dhamma which are root causes and
-which also have root causes.
+which also have root causes. ^1-1446
+
 1448. What are the dhammawhich have root causes(ii)
 but are not root causes?
 There are: (21) meritorious thoughts of the four
@@ -21885,7 +22584,7 @@ which are dependent on the four Primary Elements.
 These are the dhamma which are corporeal.
 (ii) 1462. What arethedhammawhich arenotcorporeal?
 There are: (21) meritorious thoughts the of four
-spheres; (12) demeritorious thoughts; (36) resultants ofthe
+spheres; (12) demeritorious thoughts; (36) resultants ofthe ^1-1448
 four spheres; (20 types of)) non-causative action, which are
 neither meritorious nor demeritorious, ofthe three spheres;
 there is also Nibbāna.
@@ -21934,6 +22633,7 @@ associated with wrong view; andthe defilement ofignorance
 (of the Four Ariya Truths) arises together with all
 deineritorious thoughts.
 These are the dhamma which are āsavas.
+
 1466. What are thedhammawhich are not āsavas?(ii)
 Leaving aside the āsavas, there are: the remaining
 (12) demeritorious thoughts; (21) meritorious thoughts, of
@@ -22009,7 +22709,8 @@ There are: two or three āsavas which arise
 simultaneously with acertainthought. These arethedhamma
 which are āsavas and are also associated with āsavas.
 
-732 Dhammasanganī
+732 Dhammasanganī ^1-1466
+
 1474. What are the dhamma which are associated(ii)
 with āsavas, but are not āsavas?
 Leaving aside āsavas, there are the remaining
@@ -22131,7 +22832,8 @@ well as obiects of fetters?
 The fetters themselves are fetters as well as objects
 of fetters.
 
-736 Dhammasanganī
+736 Dhammasanganī ^1-1474
+
 1484. What are the dhamma which are objects of(ii)
 fetters, but are not fetters?
 Leaving aside the fetters, there are: the remaining
@@ -22145,12 +22847,14 @@ but are not fetters.
 The dhamma which are not objects of fetters should
 not be taken as fetters as well as objects of fetters, or as
 dhamma which are objects offetters but are not fetters.
-1485. Saññojana Saññojana Sampayutta Duka
+1485. Saññojana Saññojana Sampayutta Duka ^1-1484
+
 1486. What are the dhamma which are fetters and(i)
 are also associated with fetters?
 There are: two or three fetters which arise
 simultaneously with acertainthought. These arethedhamma
-which are fetters and are also associated with fetters.
+which are fetters and are also associated with fetters. ^1-1486
+
 1487. What are the dhamma which are associated(ii)
 with fetters, but are not fetters?
 Leaving aside the fetters, there are the remaining
@@ -22248,7 +22952,8 @@ there are the remaining (21) thoughts.
 
 740 Dhammasanganī
 These are the dhamma which are associated with
-bonds.
+bonds. ^1-1487
+
 1494. Whatare the dhammāwhcih are not associated(ii)
 with bonds?
 There are: greed which arises in four thoughts
@@ -22263,7 +22968,8 @@ spheres; there is also Corporeality; and there is also
 Nibbāna.
 These are the dhamma which are not associated
 with bonds.
-1495. Gantha Ganthaniya Duka
+1495. Gantha Ganthaniya Duka ^1-1494
+
 1496. What are the dhamma which are bonds as(i)
 well as objects ofbonds?
 The bonds themselves are bonds as well as objects
@@ -22413,7 +23119,7 @@ and there is also Nibbāna.
 These are the dhamma which are not associated
 with hindrances.
 6. Nivarana Nivaraniya Duka
-(i) 1509. What are the dhamma which are hindrances
+(i) 1509. What are the dhamma which are hindrances ^1-1496
 as well as objects ofhindrances?
 The hindrances themselves are hindrances as well as
 objects ofhindrances,
@@ -23007,6 +23713,7 @@ These are the dhamma which are associated with
 defilements.
 
 766 Dhammasangani
+
 1572. Whatarethedhammawhich arenotassociated(ii)
 with defilements?
 There are: (21) meritorious thoughts of the four
@@ -23156,7 +23863,7 @@ the three higher maggas.
 
 Atthakatha Kanda 771
 3. Dassanena Pahātabba Hetuka Duka
-(i) 1585. What are the dhammā with root
+(i) 1585. What are the dhammā with root ^1-1572
 causes
 eliminated by Sotāpatti Magga?
 There are: four thoughts associated with wrong
