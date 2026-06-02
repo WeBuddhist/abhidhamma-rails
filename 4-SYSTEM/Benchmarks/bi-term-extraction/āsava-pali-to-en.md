@@ -1,49 +1,22 @@
-āsava:
-  canker: 7
-  taint: 7
+# āsava — translation variants by sense
+
+## 1. The taints (as active defilements)
+# āsava as the specific defilements: sensual desire, existence, views, ignorance
+# and their associated/dissociated forms
+pali: [āsava, kāmāsava, bhavāsava, diṭṭhāsava, avijjāsava, āsavasampayutta, āsavavippayutta, āsavānaṃ]
+translations:
+  taint: 18
+  canker: 24
+  influx: 14
+
+## 2. Subject to / free from taints
+# sāsava = with taints; anāsava = without taints
+pali: [sāsava, anāsava]
+translations:
+  tainted: 15
+  taint: 1
+  canker: 5
   influx: 4
-
-sāsava:
-  taint: 15
   defilement: 4
-  canker: 3
-  influx: 3
   defiled: 2
-
-āsavasampayutta:
-  canker: 4
-  taint: 2
-  influx: 2
-
-āsavavippayutta:
-  taint: 3
-  canker: 3
-  influx: 3
-
-anāsava:
-  canker: 2
-  taint: 1
-  influx: 1
-
-kāmāsava:
-  canker: 2
-  taint: 1
-  influx: 1
-
-bhavāsava:
-  canker: 2
-  taint: 1
-  influx: 1
-
-diṭṭhāsava:
-  canker: 2
-  taint: 1
-  influx: 1
-
-avijjāsava:
-  canker: 2
-  taint: 1
-  influx: 1
-
-āsavānaṃ:
-  taint: 1
+  untainted: 1

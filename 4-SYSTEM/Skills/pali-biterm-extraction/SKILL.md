@@ -12,22 +12,27 @@ interlinear glossing.
 
 The algorithm runs in two passes:
 
-1. **TF-IDF keyword extraction (English).** Each block in the target file is
-   treated as a document.  Tokens are scored by TF (block-document frequency
-   within this translation) × IDF (inverse Google-10k/COCA frequency via
-   `en_freq.py`, or `wordfreq` if installed).  Domain-specific Buddhist terms
-   score high; common English words and definition-formula words ("which",
-   "what", "are", "having", …) are suppressed without relying on an arbitrary
-   stop-list.
+1. **TF-IDF keyword extraction (English), with n-gram phrase detection.**
+   Before scoring, the script scans the English blocks for compound translation
+   terms of 2–4 words (e.g. "right view", "initial application",
+   "right concentration").  A candidate phrase qualifies when: all component
+   words have high IDF (domain terms, not common English); the phrase appears
+   in at least 3 blocks; it appears in this word order at least 4× more often
+   than reversed (filtering accidental list adjacency like "states wholesome"
+   vs "wholesome states"); and the phrase accounts for ≥ 30 % of the rarest
+   component word's occurrences (filtering synonym-list co-occurrences like
+   "nondelusion investigation" where each word appears in many other contexts).
+   Qualified phrases are treated as single tokens using greedy longest-match
+   so the Pāli alignment maps to the full phrase.
 
 2. **Weighted sub-block co-occurrence (Pāli).** Each aligned block is split on
    `(Ka)/(Kha)/(Ga)` section markers before alignment so that triad entries
    like `kusalā dhammā ↔ Wholesome states` are matched at the *line* level
-   rather than the block level.  For each English keyword the weighted Pāli
-   co-occurrence is accumulated (weight = 1 / |unique Pāli tokens in that
-   sub-block|, so short mātikā entries outweigh long prose paragraphs).
-   Pāli tokens appearing in more than 30 % of all aligned pairs are suppressed
-   as high-frequency function words.
+   rather than the block level.  For each English keyword (unigram or phrase)
+   the weighted Pāli co-occurrence is accumulated (weight = 1 / |unique Pāli
+   tokens in that sub-block|, so short mātikā entries outweigh long prose
+   paragraphs).  Pāli tokens appearing in more than 30 % of all aligned pairs
+   are suppressed as high-frequency function words.
 
 **No Pāli stemming.**  Exact token forms are preserved.  This avoids the
 mis-grouping caused by algorithmic suffix-stripping on Pāli, at the cost of
@@ -56,13 +61,18 @@ One YAML file with compact lines:
 ```yaml
 # Translation variant frequencies
 # Method: English TF-IDF (Google-10k Zipf IDF) + weighted sub-block co-occurrence
-# Pāli: exact token forms, no stemming
+# Pāli: exact token forms, no stemming; compound phrases merged (n-gram)
 # source: 1-SOURCES/Text/pi-1.md
 # target: 3-TRANSFORMATIONS/Translations/en-Contemporary-English-Abhidhamma/en-dhammasangani-ai.md
 
-phasso: contact-254, touching-18, completely-16
-sammādiṭṭhi: right-62, view-59, wisdom-58, nondelusion-45
-cetanā: volition-80, intending-9
+sammāsamādhi: right concentration-28
+sammāsati: right mindfulness-21
+sammāsaṅkappo: right intention-16
+sammāvāyāmo: right effort-21, energy faculty-21
+sammādiṭṭhi: right view-29, wisdom understanding-21
+vitakko: initial application-27
+vicāro: sustained application-29
+cetanā: volition-11
 asaṅkhatā: unconditioned-83
 ```
 
@@ -136,6 +146,7 @@ Optional flags (run `--help` for full list):
 | `--min-score F` | 0.25 | Minimum weighted alignment score |
 | `--max-pi-df F` | 0.30 | Max Pāli doc-freq fraction (suppresses ubiquitous tokens) |
 | `--max-pi-per-kw N` | 2 | Max Pāli tokens linked to one English keyword |
+| `--max-phrase N` | 4 | Maximum phrase length in words |
 
 ### Step 3 — Spot-check the output
 
@@ -147,16 +158,21 @@ Open the YAML and verify key terms appear with expected renderings:
 | `vedanā` / `vedanākkhandho` | feeling |
 | `saññā` / `saññākkhandho` | perception |
 | `cetanā` | volition |
-| `vitakko` | initial application / thought |
+| `vitakko` | initial application |
 | `vicāro` | sustained application |
-| `sammādiṭṭhi` | right view / wisdom |
+| `sammādiṭṭhi` | right view |
+| `sammāsamādhi` | right concentration |
+| `sammāsati` | right mindfulness |
+| `sammāvāyāmo` | right effort |
+| `sammāsaṅkappo` | right intention |
 | `asaṅkhatā` | unconditioned |
 | `jhānaṃ` | jhāna |
 | `kusalā` / `kusalaṃ` | wholesome |
 
-Common noise patterns to note (not errors — they reflect the Dhammasaṅgaṇī's repetitive enumeration structure):
+Common noise patterns to note (not errors):
 - A term that closes every long enumeration paragraph will co-occur with many English terms; its top rendering is still correct.
-- Inflected forms of the same root will appear as separate keys with similar renderings.
+- Inflected forms of the same root appear as separate keys — merge in `glossary-combine`.
+- The phrase detector may produce some spurious multi-word entries from the `…pe…` abbreviation pattern used in highly repetitive definition blocks. These are easily identified by their unusual appearance (e.g. "arisespenondistraction") and should be discarded during review.
 
 ### Step 4 — Move to final location (after human review)
 

@@ -1,42 +1,24 @@
-phenomena:
-  dhamma: 575
-  dhammāyatana: 43
-  dhammadhātu: 35
-  dhammavicaya: 33
+# dhamma — English variants grouped by sense
 
-states:
-  dhamma: 371
-  dhammāyatana: 17
-  dhammadhātu: 16
-  dhammavicaya: 3
+## 1. Constituent phenomena
+phenomena: 575
+states: 371
+thing: 5
+nature: 6
+quality: 1
 
-dhamma:
-  dhamma: 64
-  dhammāyatana: 16
-  dhammadhātu: 8
+## 2. Mind-sphere (sixth base / sixth element)
+phenomena base: 9
+phenomena element: 7
+mind-object: 7
+mind-object base: 3
+mind-object element: 2
 
-factor:
-  dhamma: 47
-  dhammadhātu: 19
-  dhammāyatana: 19
-  dhammavicaya: 10
+## 3. Investigation of phenomena
+investigation of phenomena: 33
+factor: 10
 
-mind-object:
-  dhamma: 11
-  dhammadhātu: 7
-  dhammāyatana: 7
-
-truth:
-  dhamma: 7
-
-nature:
-  dhamma: 6
-
-thing:
-  dhamma: 5
-
-doctrine:
-  dhamma: 4
-
-quality:
-  dhamma: 1
+## 4. Teaching / Doctrine
+dhamma: 16
+truth: 7
+doctrine: 4

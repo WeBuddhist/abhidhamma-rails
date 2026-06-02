@@ -1,39 +1,15 @@
-taint:
-  sāsava: 15
-  āsava: 7
-  āsavavippayutta: 3
-  āsavasampayutta: 2
-  anāsava: 1
-  āsavānaṃ: 1
-  kāmāsava: 1
-  bhavāsava: 1
-  diṭṭhāsava: 1
-  avijjāsava: 1
+# āsava — English variants grouped by sense
 
-canker:
-  āsava: 7
-  āsavasampayutta: 4
-  sāsava: 3
-  āsavavippayutta: 3
-  kāmāsava: 2
-  bhavāsava: 2
-  diṭṭhāsava: 2
-  avijjāsava: 2
-  anāsava: 2
+## 1. The taints (as active defilements)
+taint: 18
+canker: 24
+influx: 14
 
-influx:
-  sāsava: 3
-  āsava: 4
-  āsavasampayutta: 2
-  āsavavippayutta: 3
-  kāmāsava: 1
-  bhavāsava: 1
-  diṭṭhāsava: 1
-  avijjāsava: 1
-  anāsava: 1
-
-defilement:
-  sāsava: 4
-
-defiled:
-  sāsava: 2
+## 2. Subject to / free from taints
+tainted: 15
+taint: 1
+canker: 5
+influx: 4
+defilement: 4
+defiled: 2
+untainted: 1
