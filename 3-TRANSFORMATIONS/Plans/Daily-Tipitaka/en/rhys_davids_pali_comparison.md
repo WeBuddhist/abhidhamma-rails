@@ -44,28 +44,28 @@ Every English term from `rhys_davids_termbase.md` mapped to its Pāli source wor
 
 ## Part I — Highest TF-IDF Terms (Ranks 1–20)
 
-| Rank | English (Rhys Davids) | Pāli root word | Full Pāli form in text | Sense tag | Verse anchor |
-|------|-----------------------|----------------|------------------------|-----------|--------------|
-| 1 | **skandha** | khandha | vedanākkhandho · saññākkhandho · saṅkhārakkhandho · viññāṇakkhandho | `khandha` | pi-1 §59 |
-| 2 | **self-collectedness** | ekaggatā | cittassekaggatā | `cetasika` · `samādhi` | pi-1 §11 · §83 · §88 |
-| 3 | **synergies** | saṅkhāra | saṅkhārakkhandho | `khandha` | pi-1 §62 · §1-62 |
-| 4 | **āsava(s)** | āsava | āsavā dhammā · sāsavā dhammā | `kilesa` | pi-1 §1-0b-14 |
-| 5 | **jhāna** | jhāna | pañcaṅgikaṃ jhānaṃ · catukkajhāna | `jhāna` | pi-1 §83 · §88 |
-| 6 | **wieldiness** | kammaññatā | kāyakammaññatā · cittakammaññatā | `kāya-citta pair` · `cetasika` | pi-1 §46 · §47 |
-| 7 | **incorporeal** | arūpino | arūpino dhammā (paṭiccasamuppannā arūpino dhammā) | `rūpa` (negated) | pi-1 §1 (closing formula throughout) |
-| 8 | **pliancy** | mudutā | kāyamudutā · cittamudutā | `kāya-citta pair` · `cetasika` | pi-1 §44 · §45 |
-| 9 | **supramundane** | lokuttara | lokuttarā dhammā | `lokuttara` | pi-1 §1-0b-12 |
-| 10 | **tractableness** | kammaññatā | kammaññatā kammaññattaṃ kammaññabhāvo | `cetasika` | pi-1 §46 (synonym cluster for kammaññatā) |
-| 11 | **concomitant** | sampayutta | sampayuttā (hetusampayuttā · āsavasampayuttā) | `relation` | pi-1 §1-0b-3 · §1-0b-16 |
-| 12 | **zest** | pīti | pīti hoti · pāmojjaṃ āmodanā pamodanā hāso pahāso vitti odagyaṃ | `cetasika` | pi-1 §9 · §86 |
-| 13 | **indeterminate** | abyākata | abyākatā dhammā | `abyākata` | pi-1 §1-0a-1 (Tikamātikā) |
-| 14 | **mindfulness** | sati | sati hoti · satindriyaṃ · satibalaṃ · sammāsati | `cetasika` · `indriya` · `bala` · `magga` | pi-1 §14 · §52 · §77 |
-| 15 | **volition** | cetanā | cetanā hoti · sañcetanā cetayitattaṃ | `cetasika` | pi-1 §5 · §72 |
-| 16 | **rectitude** | ujukatā | kāyujukatā · cittujukatā · ujutā ujukatā ajimhatā | `kāya-citta pair` · `cetasika` | pi-1 §50 · §51 |
-| 17 | **unwholesome** | akusala | akusalā dhammā | `akusala` | pi-1 §1-0a-1 (Tikamātikā) |
-| 18 | **exultation** | odagya | odagyaṃ (within pīti synonym cluster: pīti pāmojjaṃ āmodanā … odagyaṃ attamanatā) | `cetasika` (sub-sense of pīti) | pi-1 §9 · §86 |
-| 19 | **covetousness** | abhijjhā | anabhijjhā hoti (kusala); abhijjhā (akusala sections) | `cetasika` · `kilesa` | pi-1 §35 (kusala negation); akusala sections |
-| 20 | **felicity** | sukha | sukhaṃ hoti · cetosamphassajā sātā sukhā vedanā | `vedanā` · `cetasika` | pi-1 §10 · §87 |
+| Rank | English (Rhys Davids)  | Pāli root word | Full Pāli form in text                                                            | Sense tag                                 | Verse anchor                                 |
+| ---- | ---------------------- | -------------- | --------------------------------------------------------------------------------- | ----------------------------------------- | -------------------------------------------- |
+| 1    | **skandha**            | khandha        | vedanākkhandho · saññākkhandho · saṅkhārakkhandho · viññāṇakkhandho               | `khandha`                                 | pi-1 §59                                     |
+| 2    | **self-collectedness** | ekaggatā       | cittassekaggatā                                                                   | `cetasika` · `samādhi`                    | pi-1 §11 · §83 · §88                         |
+| 3    | **synergies**          | saṅkhāra       | saṅkhārakkhandho                                                                  | `khandha`                                 | pi-1 §62 · §1-62                             |
+| 4    | **āsava(s)**           | āsava          | āsavā dhammā · sāsavā dhammā                                                      | `kilesa`                                  | pi-1 §1-0b-14                                |
+| 5    | **jhāna**              | jhāna          | pañcaṅgikaṃ jhānaṃ · catukkajhāna                                                 | `jhāna`                                   | pi-1 §83 · §88                               |
+| 6    | **wieldiness**         | kammaññatā     | kāyakammaññatā · cittakammaññatā                                                  | `kāya-citta pair` · `cetasika`            | pi-1 §46 · §47                               |
+| 7    | **incorporeal**        | arūpino        | arūpino dhammā (paṭiccasamuppannā arūpino dhammā)                                 | `rūpa` (negated)                          | pi-1 §1 (closing formula throughout)         |
+| 8    | **pliancy**            | mudutā         | kāyamudutā · cittamudutā                                                          | `kāya-citta pair` · `cetasika`            | pi-1 §44 · §45                               |
+| 9    | **supramundane**       | lokuttara      | lokuttarā dhammā                                                                  | `lokuttara`                               | pi-1 §1-0b-12                                |
+| 10   | **tractableness**      | kammaññatā     | kammaññatā kammaññattaṃ kammaññabhāvo                                             | `cetasika`                                | pi-1 §46 (synonym cluster for kammaññatā)    |
+| 11   | **concomitant**        | sampayutta     | sampayuttā (hetusampayuttā · āsavasampayuttā)                                     | `relation`                                | pi-1 §1-0b-3 · §1-0b-16                      |
+| 12   | **zest**               | pīti           | pīti hoti · pāmojjaṃ āmodanā pamodanā hāso pahāso vitti odagyaṃ                   | `cetasika`                                | pi-1 §9 · §86                                |
+| 13   | **indeterminate**      | abyākata       | abyākatā dhammā                                                                   | `abyākata`                                | pi-1 §1-0a-1 (Tikamātikā)                    |
+| 14   | **mindfulness**        | sati           | sati hoti · satindriyaṃ · satibalaṃ · sammāsati                                   | `cetasika` · `indriya` · `bala` · `magga` | pi-1 §14 · §52 · §77                         |
+| 15   | **volition**           | cetanā         | cetanā hoti · sañcetanā cetayitattaṃ                                              | `cetasika`                                | pi-1 §5 · §72                                |
+| 16   | **rectitude**          | ujukatā        | kāyujukatā · cittujukatā · ujutā ujukatā ajimhatā                                 | `kāya-citta pair` · `cetasika`            | pi-1 §50 · §51                               |
+| 17   | **unwholesome**        | akusala        | akusalā dhammā                                                                    | `akusala`                                 | pi-1 §1-0a-1 (Tikamātikā)                    |
+| 18   | **exultation**         | odagya         | odagyaṃ (within pīti synonym cluster: pīti pāmojjaṃ āmodanā … odagyaṃ attamanatā) | `cetasika` (sub-sense of pīti)            | pi-1 §9 · §86                                |
+| 19   | **covetousness**       | abhijjhā       | anabhijjhā hoti (kusala); abhijjhā (akusala sections)                             | `cetasika` · `kilesa`                     | pi-1 §35 (kusala negation); akusala sections |
+| 20   | **felicity**           | sukha          | sukhaṃ hoti · cetosamphassajā sātā sukhā vedanā                                   | `vedanā` · `cetasika`                     | pi-1 §10 · §87                               |
 
 ---
 
