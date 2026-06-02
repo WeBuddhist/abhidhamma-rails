@@ -109,6 +109,12 @@ These skills populate `2-RAILS/` with the structured context that translation an
 **Outputs:** `3-TRANSFORMATIONS/Translations/<track-name>/termbase.md` — the prescriptive termbase, scoped to keywords that appear in the text being translated; plus updates to the consolidated bilingual glossary for any new derived renderings.
 → [`glossary-select/SKILL.md`](glossary-select/SKILL.md)
 
+### `translation-variants` **[exists]**
+**Purpose:** Extract every attested translation variant for each source-language term across a pair of block-aligned source and target files, and write a YAML frequency table (`pali_stem → en_rendering: count`).
+**Inputs:** A source-language markdown file and a matching target-language translation file, both with Obsidian block IDs; an output YAML path.
+**Outputs:** One YAML file at the specified output path listing all Pāli stems with their attested English renderings and co-occurrence counts. Intended as input for `glossary-combine`.
+→ [`translation-variants/SKILL.md`](translation-variants/SKILL.md)
+
 ---
 
 ## Translation requirements skills

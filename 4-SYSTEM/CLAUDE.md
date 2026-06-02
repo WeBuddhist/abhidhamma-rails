@@ -307,3 +307,4 @@ Skills are reusable, step-by-step procedures stored in `4-SYSTEM/Skills/`. Each 
 | Create a new skill (with full registration) | `create-skill` |
 | Compose Daily Tipitaka per-language day files | `daily-tipitaka-day` |
 | Audit vault integrity (weekly maintenance) | `vault-audit` |
+| Extract translation variant frequencies from aligned files | `translation-variants` |

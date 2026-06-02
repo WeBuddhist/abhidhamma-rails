@@ -38,6 +38,14 @@ PALI_STOP = {
     "ka", "kha", "ga", "neva", "puna", "tena",
     # prose-formula words that swamp term-alignment
     "katame", "katama", "katam", "katami",
+    # stems of ubiquitous words produced by the Pali stemmer
+    "dhamm",                    # dhammā → dhamm after suffix strip
+    "hoti", "hont", "ahosi",    # is/was/became
+    "ayam", "ayaṃ",             # this
+    "vuccati", "vuccat",        # is called
+    "santi", "atthi",           # there are / exists
+    "phass",                    # phassa (contact) — too generic in prose
+
     "samaya", "samay", "tasmin", "tasmim", "tasma",
     "yassa", "yasm", "tasm", "evam", "ettha",
     "tatiya", "dutiya", "patham",
@@ -262,7 +270,7 @@ def align_keywords(keywords, pairs, min_pali_score=0.3):
 # ── Build final glossary: pali_stem → {en_kw: raw_count} ────────────────────
 
 def build_glossary(keywords, en_to_pali, pairs,
-                   max_pali_per_kw=1, min_pali_score=0.3, min_raw=2):
+                   max_pali_per_kw=2, min_pali_score=0.3, min_raw=2):
     """
     Flip the alignment: pali_stem → list of en keywords it is the top
     counterpart for, with raw co-occurrence counts.
