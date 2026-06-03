@@ -18,7 +18,6 @@ translations:
   canker: 3
   influx: 3
   contaminated: 1
-  untouched by taints: 1
 
 ## 3. anāsava — Untainted (free from taints)
 pali: [anāsava]
