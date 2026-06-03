@@ -93,6 +93,34 @@ Alphabetical by Pāli lemma. New rows are appended by the `daily-tipitaka-day` s
 | sammāsamādhi | _Right Concentration_ | day-019 §5; day-020 §1 | Translation track wording (v.304) — capitalised as one of the eight path factors. | candidate |
 | sammāsati | _Right Mindfulness_ | day-019 §1, §5 | BB curated rendering in translation track termbase. Capitalised as a path factor. | candidate |
 
+### Terms appearing in days 21–25 §1 / §5 (candidate — needs reviewer confirmation)
+
+| Pāli | English (Contemporary) | Used in | Source / Note | Status |
+|---|---|---|---|---|
+| abhijjhā | _covetousness_ | day-024 §1 | Translation track wording at v.391 ("covetousness"). The standing companion of greed-rooted minds. | candidate |
+| adhipati | _predominance_ | day-022 §1, §5 | Day-022 §5 headword. Translation track section heading "Predominance" (v.358). | candidate |
+| ahirika | _shamelessness_ | day-023 §1, §5; day-024 §1 | Translation track wording (v.393). Paired with anottappa as the two unwholesome "powers." | candidate |
+| akusala | _unwholesome_ | day-023 §1, §5; day-024 §1; day-025 §1 | Translation track wording — direct counterpart to *kusala* (already locked as "wholesome"). | candidate |
+| anottappa | _fearlessness of wrongdoing_ | day-023 §1; day-024 §1 | Translation track wording (v.394, v.388). Reviewer to confirm vs. shorter "moral fear" alternatives. | candidate |
+| appaṇihita | _undirected_ | day-021 §1, §5; day-022 §1 | Translation track section heading and v.350–356 wording. One of the three doors to liberation; BB also renders as "desireless." | candidate |
+| ariyamagga | _noble path_ | day-022 §1 | Translation track usage. Day-022 §1 uses "four noble paths" for the four maggas of stream-entry through arahantship. | candidate |
+| avijjā | _ignorance_ | day-024 §5 | Translation track wording (v.390). The great word folded into the moha definition. | candidate |
+| byāpāda | _ill will_ | day-025 §1, §5 | Already in candidate list (day-012 row). Day-025 §5 confirms "ill will" against v.419 translation. | candidate |
+| chanda | _aspiration_ | day-022 §5 | First of the four adhipati. Translation track renders "desire" at v.358 — day-022 §5 used "aspiration" for the wholesome supramundane sense. Reviewer to confirm. | candidate |
+| domanassa | _displeasure_ | day-025 §1 | Translation track wording (v.413). The unpleasant mental feeling that accompanies the two hatred-rooted cittas. | candidate |
+| dosa | _hatred_ | day-025 §1, §5 | Day-025 §5 headword. Translation track wording (v.418). The second unwholesome root. | candidate |
+| dukkha | _suffering_ | day-025 §1 | Translation track wording (v.413, v.416). Used here for the mental feeling that arises with hatred-rooted cittas. | candidate |
+| dvādasa akusalāni | _twelve unwholesome consciousnesses_ | day-023 §1 | Translation track section heading "Twelve unwholesome states" (v.365). Day-023 §1 used the plain "twelve unwholesome minds." | candidate |
+| lobha | _greed_ | day-023 §1, §5 | Day-023 §5 headword. Translation track wording (v.389). The first unwholesome root. | candidate |
+| lokuttara cittaṃ | _supramundane consciousness_ | day-022 §1 | Translation track wording at v.364 ("Supramundane consciousness"). The closing word of the supramundane chapter. | candidate |
+| micchādiṭṭhi | _wrong view_ | day-023 §1, §5; day-024 §1 | Translation track wording (v.381, v.392). The "associated factor" that defines four of the eight greed-cittas. | candidate |
+| moha | _delusion_ | day-023 §1; day-024 §1, §5 | Day-024 §5 headword. Translation track wording (v.390). The third unwholesome root — present in all twelve. | candidate |
+| paṭigha | _aversion_ | day-025 §1 | Translation track wording (v.413, "aversion"). The "associated factor" of both hatred-rooted cittas. | candidate |
+| suññatā / suññataṃ | _emptiness_ | day-021 §1, §5 | Day-021 §5 headword. Translation track section heading "Emptiness" (v.343). One of the three doors to liberation. | candidate |
+| vipassanā | _insight_ | day-021 §1, §6 | Translation track wording at v.335 ("insight"). | candidate |
+| vīmaṃsā | _investigation_ | day-022 §1, §5 | Translation track wording at v.358 ("investigation"). Fourth of the four adhipati. | candidate |
+| vīriya | _energy_ | day-022 §5 | Translation track wording — used for "the faculty of energy" (v.376) and as one of the four adhipati. Day-022 §5 used the bare "energy." | candidate |
+
 ### Five hindrances (used in day-012 §5; need reviewer confirmation against the translation track)
 
 | Pāli | English (Contemporary) | Source | Status |
