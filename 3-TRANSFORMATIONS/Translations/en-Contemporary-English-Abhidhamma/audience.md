@@ -15,19 +15,19 @@ Template: `4-SYSTEM/Templates/audience.md`.
 
 ## 1. Demographics and Region
 
-- **Age range:** TODO
+- **Age range:** 12-18
 - **Geography (primary and secondary regions):** TODO
-- **Language background:** TODO
+- **Language background:** mix
 - **Monastic / lay / mixed:** TODO
-- **Gender mix:** TODO
+- **Gender mix:** yes
 - **Other:** TODO
 
 ## 2. Prior Knowledge and Reading Level
 
-- **Buddhist background:** TODO
-- **Familiarity with Pāli:** TODO
-- **Familiarity with the Abhidhamma:** TODO
-- **General education level / target reading grade:** TODO
+- **Buddhist background:** little bit
+- **Familiarity with Pāli:** no
+- **Familiarity with the Abhidhamma:** no
+- **General education level / target reading grade:** 6th grade
 - **Comfortable with footnotes, diacritics, transliteration?** TODO
 
 ## 3. Use Cases and Reading Settings
@@ -42,11 +42,11 @@ Template: `4-SYSTEM/Templates/audience.md`.
 
 ## 4. Motivations and Pain Points
 
-- **What draws them to the Abhidhamma:** TODO
+- **What draws them to the Abhidhamma:** learning buddhism
 - **What they hope to get out of this transformation:** TODO
-- **What frustrates them about existing translations or study materials:** TODO
+- **What frustrates them about existing translations or study materials:** using difficult english 
 - **What would make them stop reading:** TODO
-- **Stretch goal — what would delight them:** TODO
+- **Stretch goal — what would delight them:** easy to understand
 
 ---
 

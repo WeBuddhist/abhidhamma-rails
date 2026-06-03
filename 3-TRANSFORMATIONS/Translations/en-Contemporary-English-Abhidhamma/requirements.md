@@ -67,7 +67,7 @@ The NIV targets the **average English speaker** worldwide and tests its drafts a
 
 We adopt the same posture, with one adjustment: the Abhidhamma has a higher floor than most biblical narrative, because some of its key terms have no everyday English equivalent. So our calibration is:
 
-- **Sentence-level reading: ~8th-grade.** Short sentences. Concrete verbs. Active voice where the Pāli allows. One idea per sentence.
+- **Sentence-level reading: ~6th-grade.** Short sentences. Concrete verbs. Active voice where the Pāli allows. One idea per sentence.
 - **Term-level density: as low as the text permits.** Technical terms are introduced one at a time, glossed once, then used freely. We do not chain three new terms into one sentence.
 - **Confidence level: high.** The reader is intelligent, attentive, willing to learn — but not a Pāli scholar and not a Buddhist Studies graduate.
 
