@@ -2,12 +2,19 @@
 """
 pali_biterm_extraction.py — two-pass bilingual term extractor (no Pali stemming)
 =================================================================================
-Produces a compact YAML bilingual glossary from a block-aligned Pali source file
-and an English translation file:
+Produces bilingual frequency tables from a block-aligned Pali source file and an
+English translation file.  Two output modes:
 
+  YAML mode (default):
     asava: taints-23, cankers-12
     phasso: contact-45
     sammaditthi: right view-62, wisdom-58
+
+  Markdown mode (--format md --focus TERM):
+    Produces two flat draft Markdown files focused on TERM's morphological family:
+      {output}-pali-to-en.md   — one section per Pali form, pali:/translations: blocks
+      {output}-en-to-pali.md   — one section per Pali form, bare rendering: count lines
+    Claude then applies semantic grouping (merging variants, adding sense labels).
 
 Pass 1  TF-IDF on the English blocks selects domain keywords — terms that recur
         in this translation but are rare in general English, using the Google-10k
@@ -33,16 +40,25 @@ No Pali stemming — exact token forms are used throughout.
 
 Usage
 -----
-    python3 pali_biterm_extraction.py <pali_file> <en_file> <output.yaml> [options]
+    python3 pali_biterm_extraction.py <pali_file> <en_file> <output> [options]
+
+    YAML mode (default):
+        python3 pali_biterm_extraction.py pi.md en.md output.yaml
+
+    Markdown mode (focused on a root term):
+        python3 pali_biterm_extraction.py pi.md en.md 0-INBOX/asava \\
+            --focus asava --format md
 
 Options
 -------
     --top N           English keywords to consider (default 600)
     --min-co N        Minimum raw co-occurrence count (default 2)
     --min-score F     Minimum weighted alignment score (default 0.25)
-    --max-pi-df F     Maximum Pali doc-freq fraction (default 0.30)
-    --max-pi-per-kw N Maximum Pali tokens linked to one English keyword (default 2)
+    --max-pi-df F     Maximum Pali doc-freq fraction (default 0.30; auto 0.99 in md mode)
+    --max-pi-per-kw N Maximum Pali tokens linked to one English keyword (default 2; auto 20 in md mode)
     --max-phrase N    Maximum phrase length in words (default 4)
+    --focus TERM      Root term to focus on; filters output to its morphological family
+    --format {yaml,md} Output format (default: yaml)
 """
 
 import argparse
@@ -477,23 +493,96 @@ def write_yaml(glossary: dict, out_path: str, src_path: str, tgt_path: str) -> N
 
 
 # ---------------------------------------------------------------------------
+# Markdown writer (flat draft — one section per Pali form)
+# ---------------------------------------------------------------------------
+def write_markdown_flat(
+    glossary: dict,
+    focus_term: str | None,
+    out_base: str,
+    src_path: str,
+    tgt_path: str,
+) -> tuple:
+    """Write two flat Markdown files (one section per Pali form).
+
+    When focus_term is given, only forms whose plain-ASCII form contains the
+    plain-ASCII form of focus_term are included.  Output files:
+        {out_base}-pali-to-en.md   — pali: [...] + translations: blocks
+        {out_base}-en-to-pali.md   — bare rendering: count lines
+
+    Returns (pali_to_en_path, en_to_pali_path).
+
+    NOTE: This is a *flat draft*.  Claude merges forms into semantic clusters
+    and adds sense labels in the semantic-grouping step described in SKILL.md.
+    """
+    if focus_term:
+        focus_plain = _plain(focus_term.lower())
+        entries = [
+            (pt, en_dict) for pt, en_dict in glossary.items()
+            if focus_plain in _plain(pt.lower())
+        ]
+    else:
+        entries = list(glossary.items())
+
+    # Sort by total raw co-occurrence count, descending
+    entries.sort(key=lambda kv: sum(kv[1].values()), reverse=True)
+
+    title = focus_term or Path(src_path).stem
+
+    # --- pali-to-en ---
+    p2e_path = f"{out_base}-pali-to-en.md"
+    lines: list = [f"# {title} — translation variants by sense", ""]
+    for i, (pt, en_dict) in enumerate(entries, 1):
+        lines += [
+            f"## {i}. {pt}",
+            f"pali: [{pt}]",
+            "translations:",
+        ]
+        for en, cnt in en_dict.items():
+            lines.append(f"  {en}: {cnt}")
+        lines.append("")
+    Path(p2e_path).write_text("\n".join(lines), encoding="utf-8")
+
+    # --- en-to-pali ---
+    e2p_path = f"{out_base}-en-to-pali.md"
+    lines = [f"# {title} — English variants grouped by sense", ""]
+    for i, (pt, en_dict) in enumerate(entries, 1):
+        lines.append(f"## {i}. {pt}")
+        for en, cnt in en_dict.items():
+            lines.append(f"{en}: {cnt}")
+        lines.append("")
+    Path(e2p_path).write_text("\n".join(lines), encoding="utf-8")
+
+    return p2e_path, e2p_path
+
+
+# ---------------------------------------------------------------------------
 # Main
 # ---------------------------------------------------------------------------
 def main() -> None:
     p = argparse.ArgumentParser(description="Pali-English bilingual term extraction")
     p.add_argument("pali",    help="Pali source markdown file")
     p.add_argument("english", help="English translation markdown file")
-    p.add_argument("output",  help="Output YAML file")
+    p.add_argument("output",  help="Output path (YAML file, or base path for --format md)")
     p.add_argument("--top",           type=int,   default=600,  help="English keywords to consider")
     p.add_argument("--min-co",        type=int,   default=2,    help="Min raw co-occurrence count")
     p.add_argument("--min-score",     type=float, default=0.25, help="Min weighted alignment score")
-    p.add_argument("--max-pi-df",     type=float, default=0.30, help="Max Pali doc-freq fraction")
-    p.add_argument("--max-pi-per-kw", type=int,   default=2,    help="Max Pali tokens per English keyword")
+    p.add_argument("--max-pi-df",     type=float, default=None, help="Max Pali doc-freq fraction (default 0.30; 0.99 in md mode)")
+    p.add_argument("--max-pi-per-kw", type=int,   default=None, help="Max Pali tokens per English keyword (default 2; 20 in md mode)")
     p.add_argument("--max-phrase",    type=int,   default=4,    help="Max phrase length in words")
+    p.add_argument("--focus",         default=None, help="Root term to focus on (filters output to morphological family)")
+    p.add_argument("--format",        choices=["yaml", "md"], default="yaml", help="Output format")
     args = p.parse_args()
+
+    # Apply mode-aware defaults
+    md_mode = args.format == "md"
+    max_pi_df     = args.max_pi_df     if args.max_pi_df     is not None else (0.99 if md_mode else 0.30)
+    max_pi_per_kw = args.max_pi_per_kw if args.max_pi_per_kw is not None else (20   if md_mode else 2)
 
     print(f"source : {args.pali}", file=sys.stderr)
     print(f"target : {args.english}", file=sys.stderr)
+    if args.focus:
+        print(f"focus  : {args.focus}", file=sys.stderr)
+    print(f"format : {args.format}", file=sys.stderr)
 
     src_blocks = parse_blocks(args.pali)
     tgt_blocks = parse_blocks(args.english)
@@ -517,18 +606,29 @@ def main() -> None:
 
     print("Pass 2 : weighted co-occurrence ...", file=sys.stderr)
     weighted_co, raw_co, pi_df = build_cooccurrence(
-        pairs, keywords, max_pi_df=args.max_pi_df
+        pairs, keywords, max_pi_df=max_pi_df
     )
 
     glossary = build_glossary(
         keywords, weighted_co, raw_co,
         min_co=args.min_co,
         min_score=args.min_score,
-        max_pi_per_kw=args.max_pi_per_kw,
+        max_pi_per_kw=max_pi_per_kw,
     )
     print(f"terms  : {len(glossary)} Pali tokens in output", file=sys.stderr)
-    write_yaml(glossary, args.output, args.pali, args.english)
-    print(f"output : {args.output}", file=sys.stderr)
+
+    if md_mode:
+        p2e, e2p = write_markdown_flat(
+            glossary, args.focus, args.output, args.pali, args.english
+        )
+        print(f"output : {p2e}", file=sys.stderr)
+        print(f"         {e2p}", file=sys.stderr)
+        if args.focus:
+            found = [pt for pt in glossary if _plain(args.focus.lower()) in _plain(pt.lower())]
+            print(f"focus  : {len(found)} forms matched — {found}", file=sys.stderr)
+    else:
+        write_yaml(glossary, args.output, args.pali, args.english)
+        print(f"output : {args.output}", file=sys.stderr)
 
 
 if __name__ == "__main__":
