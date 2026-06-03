@@ -12,11 +12,9 @@ pali: [sāsava]
 translations:
   tainted: 9
   taint: 9
-  defilement: 4
+  canker: 3
   defilement-associated: 2
   defiled: 2
-  canker: 3
-  influx: 3
   contaminated: 1
 
 ## 3. anāsava — Untainted (free from taints)
