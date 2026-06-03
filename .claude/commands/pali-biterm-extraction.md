@@ -1,3 +1,3 @@
 Read `4-SYSTEM/Skills/pali-biterm-extraction/SKILL.md` in full, then execute it on the file(s) or input the user specifies.
 
-Skill purpose: Extract every attested English rendering for each Pāli token from a block-aligned Pāli/English pair, and write a compact YAML frequency table (no Pāli stemming; Google-10k Zipf IDF for English keyword selection).
+Skill purpose: For a block-aligned Pāli/English pair, extract every attested English rendering for each Pāli token's morphological family. The script produces a flat draft per focus term (one section per declension form with frequency counts and example phrases); Claude then applies semantic grouping to write the final benchmark-format file to bilingual-glossary/.
