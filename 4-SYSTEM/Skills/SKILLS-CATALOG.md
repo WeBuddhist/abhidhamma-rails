@@ -115,6 +115,12 @@ These skills populate `2-RAILS/` with the structured context that translation an
 **Outputs:** One YAML file with compact lines (`pāli_token: rendering1-N, rendering2-N, …`), sorted by total frequency. Intended as input for `glossary-combine` and as a consistency check before full interlinear glossing.
 → [`pali-biterm-extraction/SKILL.md`](pali-biterm-extraction/SKILL.md)
 
+### `glossary-contested` **[exists]**
+**Purpose:** Scan the consolidated bilingual glossary and identify terms with genuine rendering variation, ranked by contestedness score.
+**Inputs:** Consolidated bilingual glossary at `2-RAILS/Bilingual-Glossaries/<pair>.md`.
+**Outputs:** Ranked contested-terms report at `0-INBOX/<pair>-contested.md` (moved to `2-RAILS/Bilingual-Glossaries/<pair>-contested.md` after review).
+→ [`glossary-contested/SKILL.md`](glossary-contested/SKILL.md)
+
 ---
 
 ## Translation requirements skills
@@ -141,6 +147,12 @@ These skills populate `2-RAILS/` with the structured context that translation an
 **Outputs:** Updated translation file(s) in `3-TRANSFORMATIONS/Translations/<track-name>/`. The frontmatter of each translation file lists the rail files it was generated from.
 **Rules:** Translate small batches only — one or a few TOC nodes at a time. Every keyword rendering must match the per-track termbase. Introduce no new rendering without first adding it to the per-track termbase and feeding it back into the consolidated bilingual glossary under `2-RAILS/Bilingual-Glossaries/`. Translate from the disambiguated Pali in the verse-context file, not from the raw root text.
 → `translate-section/SKILL.md` *(to be written)*
+
+### `zero-shot-translate` **[exists]**
+**Purpose:** Translate Pāḷi source blocks to the target language using the track’s bilingual glossary as a hard termbase constraint.
+**Inputs:** Track folder (with `bilingual glossary.md` and `requirements.md`), Pāḷi source file, block range.
+**Outputs:** Translation file at `3-TRANSFORMATIONS/Translations/<track>/` with matching block IDs.
+→ [`zero-shot-translate/SKILL.md`](zero-shot-translate/SKILL.md)
 
 ---
 
@@ -202,16 +214,3 @@ These skills operate on the vault's own structure — creating new skills, maint
 **Inputs:** Skill name, purpose sentence, catalog section, inputs/outputs description, and whether it belongs in the CLAUDE.md §12 table.
 **Outputs:** `4-SYSTEM/Skills/<skill-name>/SKILL.md`, a new catalog entry, `.claude/commands/<skill-name>.md`, and optionally a new §12 table row in `4-SYSTEM/CLAUDE.md`.
 → [`create-skill/SKILL.md`](create-skill/SKILL.md)
-
----
-
-## Maintenance skills
-
-These skills check and report on vault integrity. They are read-only and safe to run on a schedule. They never modify vault content — they produce reports for human action.
-
-### `vault-audit` **[exists]**
-**Purpose:** Read-only weekly audit of the vault. Checks that every skill folder is registered in the catalog and has a command file; that 2-RAILS and 3-TRANSFORMATIONS files have required frontmatter; that no 3-TRANSFORMATIONS file references 1-SOURCES directly; that no complete output depends on a draft rail; that 0-INBOX/temp/ has no stale files; and that no internal wiki links are dead.
-**Inputs:** None — operates on the vault as a whole.
-**Outputs:** One dated report at `0-INBOX/vault-audit-<YYYY-MM-DD>.md` with checkboxed issues per category.
-**Rules:** Never writes to any file other than the report. Reports every issue with exact file paths. A clean run is a valid and expected output.
-→ [`vault-audit/SKILL.md`](vault-audit/SKILL.md)
