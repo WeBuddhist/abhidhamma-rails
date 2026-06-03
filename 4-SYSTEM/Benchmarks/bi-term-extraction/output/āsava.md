@@ -2,9 +2,9 @@
 
 ## Senses in text:
 
-1. defilement / outflow: āsavā dhammā — "Phenomena that are taints"
+1. Defilement / outflow: āsavā dhammā — "Phenomena that are taints"
 
-## 1. defilement / outflow
+### 1. Defilement / outflow
 taint: 29
 canker: 24
 influx: 14

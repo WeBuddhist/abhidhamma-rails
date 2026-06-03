@@ -17,16 +17,16 @@ Tests the ability to extract aligned translation term pairs from parallel Pāli�
 
 ## Expected outputs
 
-One `.md` file per Pāli term, e.g. `āsava.md`, `dhamma.md`. Each file contains:
+One `.md` file per Pāli term, e.g. `āsava.md`, `dhamma.md`. Each file contains, in order:
 
-- **Senses in text** — numbered sense tags with a representative example phrase from the corpus
-- **Declensions** — comma-separated list of all morphological forms found in the text
-- **Per-sense translation frequency tables** — English renderings ranked by verse-level co-occurrence count
+1. **Senses in text** — numbered sense labels reflecting genuine lexical polysemy (not morphological variation), each with a short Pāli example phrase and its English translation from the corpus
+2. **Per-sense translation frequency tables** — one table per sense, English renderings ranked by verse-level co-occurrence count
+3. **Declensions in the text** — one morphological form per line, each with a short Pāli example phrase and its English translation
 
 | File | Description |
 |------|-------------|
-| `āsava.md` | āsava cluster: senses, declensions, and English frequency tables |
-| `dhamma.md` | dhamma cluster: senses, declensions, and English frequency tables |
+| `āsava.md` | āsava cluster: 1 sense, 10 declensions, English frequency table |
+| `dhamma.md` | dhamma cluster: 2 senses, 5 declensions, English frequency tables |
 
 ## Term cluster tested
 
