@@ -21,7 +21,3 @@ untainted: 2
 without cankers: 1
 not associated with cankers: 1
 untouched by taints: 1
-canker: 2
-influx: 1
-tainted: 1
-taint: 1
