@@ -3,32 +3,34 @@
 pali_biterm_extraction.py — two-pass bilingual term extractor (no Pali stemming)
 =================================================================================
 Produces bilingual frequency tables from a block-aligned Pali source file and an
-English translation file.  Two output modes:
+English translation file.  Three output modes:
 
   YAML mode:
     asava: taints-23, cankers-12
     phasso: contact-45
     sammaditthi: right view-62, wisdom-58
 
-  Markdown mode (default, with --focus TERM):
-    Produces two flat draft Markdown files focused on TERM's morphological family:
-      {output}-pali-to-en.md   — one section per Pali form, pali:/translations: blocks
-      {output}-en-to-pali.md   — one section per Pali form, bare rendering: count lines
-    Claude then applies semantic grouping (merging variants, adding sense labels).
+  term-file mode (default, with --focus TERM):
+    Produces a flat draft .md file per term in <output-dir>/:
+      {term}-draft.md  — one section per Pāli declension form with English
+                         frequency counts and an example phrase from the corpus.
+    Claude then applies semantic grouping (Step 3 in SKILL.md) to produce
+    the final {term}.md in benchmark format.
+
+  keywords-only mode (--keywords-only):
+    Runs Pass 1 only on an English file; writes a ranked keyword list.
+    Usage: python3 ... <en_file> <output.md> --keywords-only
 
 Pass 1  TF-IDF on the English blocks selects domain keywords — terms that recur
         in this translation but are rare in general English, using the Google-10k
         Zipf-law IDF table in en_freq.py (or wordfreq if installed).
 
         Before scoring, multi-word compound terms ("right view", "initial
-        application", "right concentration") are detected via an n-gram scan
-        (2..max_n words) and treated as single tokens so the Pali alignment
-        maps to the full phrase rather than its components.  A candidate phrase
-        qualifies when: (a) all component words have IDF >= idf_threshold,
-        (b) the phrase appears in >= min_phrase_df blocks, and (c) the phrase
-        appears in this word order at least order_ratio times more often than
-        the reverse (which filters accidental list co-occurrences like
-        "states wholesome" vs. "wholesome states").
+        application", "right concentration") are detected and treated as single
+        tokens.  A phrase qualifies when: (a) all component words have high IDF;
+        (b) it appears in >= min_phrase_df blocks; (c) it appears in this word
+        order at least order_ratio x more often than reversed; and (d) it
+        accounts for >= 30% of the rarest component's occurrences.
 
 Pass 2  Each aligned block is split on Ka/Kha/Ga markers before alignment so
         triad entries map line-by-line.  For each English keyword (unigram or
@@ -40,25 +42,28 @@ No Pali stemming — exact token forms are used throughout.
 
 Usage
 -----
-    python3 pali_biterm_extraction.py <pali_file> <en_file> <output> [options]
+    # term-file mode (default — one draft .md per focus term):
+    python3 pali_biterm_extraction.py <pali_file> <en_file> bilingual-glossary/ \\
+        --focus <term>
 
-    YAML mode:
-        python3 pali_biterm_extraction.py pi.md en.md output.yaml
+    # YAML mode (for glossary-combine pipeline):
+    python3 pali_biterm_extraction.py <pali_file> <en_file> output.yaml \\
+        --format yaml
 
-    Markdown mode (default, focused on a root term):
-        python3 pali_biterm_extraction.py pi.md en.md 0-INBOX/asava \\
-            --focus asava --format md
+    # keywords-only mode (Pass 1 only):
+    python3 pali_biterm_extraction.py <en_file> <output.md> --keywords-only
 
 Options
 -------
     --top N           English keywords to consider (default 600)
     --min-co N        Minimum raw co-occurrence count (default 2)
     --min-score F     Minimum weighted alignment score (default 0.25)
-    --max-pi-df F     Maximum Pali doc-freq fraction (default 0.30; auto 0.99 in md mode)
-    --max-pi-per-kw N Maximum Pali tokens linked to one English keyword (default 2; auto 20 in md mode)
+    --max-pi-df F     Maximum Pali doc-freq fraction (default 0.99 in term-file; 0.30 in yaml)
+    --max-pi-per-kw N Maximum Pali tokens linked to one English keyword (default 20 in term-file; 2 in yaml)
     --max-phrase N    Maximum phrase length in words (default 4)
     --focus TERM      Root term to focus on; filters output to its morphological family
-    --format {yaml,md} Output format (default: md)
+    --format {yaml,term-file}  Output format (default: term-file)
+    --keywords-only   Pass 1 only: extract English keywords from the first positional arg
 """
 
 import argparse
@@ -95,7 +100,6 @@ PALI_STOP = {
     "neva", "nava",
     "ka", "kha", "ga",
 }
-# diacritic variants added at runtime (plain form in PALI_STOP catches them via _plain())
 
 # ---------------------------------------------------------------------------
 # English formula-word stop list
@@ -120,7 +124,7 @@ HEADING_RE       = re.compile(r"^#{1,6}\s+")
 BRACKET_RE       = re.compile(r"\[.*?\]")
 SUB_SPLIT_RE     = re.compile(r"(?=\([KkGgAaBb][a-z]*\))")
 SECTION_STRIP_RE = re.compile(r"^\([KkGgAaBb][a-z]*\)\s*")
-_PUNCT = str.maketrans("", "", r""".,;:!?()"'`‘’“”—–-_/\\[]{}""")
+_PUNCT = str.maketrans("", "", r""".,;:!?()"'`''""—–-_/\\[]{}""")
 _PALI_RE = re.compile(r"[\wĀ-žḀ-ỿ]+")
 
 # Module-level phrase set — populated by build_phrases() before Pass 1
@@ -215,7 +219,6 @@ def en_tokens(text: str) -> list:
     """
     English tokens with greedy longest-match phrase merging.
     At each position tries to consume the longest phrase in _PHRASES first.
-    E.g. "right concentration faculty" beats "right concentration" if both qualify.
     """
     words = _raw_en_words(text)
     if not _PHRASES:
@@ -224,7 +227,6 @@ def en_tokens(text: str) -> list:
     i = 0
     while i < len(words):
         matched = False
-        # try longest possible phrase down to bigram
         for n in range(min(4, len(words) - i), 1, -1):
             phrase = " ".join(words[i:i + n])
             if phrase in _PHRASES:
@@ -266,25 +268,9 @@ def build_phrases(
     order_ratio: float = 4.0,
     min_coverage: float = 0.30,
 ) -> set:
-    """
-    Detect multi-word compound terms of length 2..max_n.
-
-    A candidate phrase (w1 w2 ... wk) qualifies when ALL of:
-      1. All component words have IDF >= idf_threshold
-      2. The phrase appears in >= min_df distinct blocks
-      3. Order-consistency: each adjacent pair appears in this order at least
-         order_ratio x more often than reversed — filters list co-occurrences
-         like "states wholesome" vs "wholesome states".
-      4. Component coverage: phrase_block_df / min(component_block_df) >=
-         min_coverage — the phrase accounts for a meaningful fraction of the
-         rarest component word's occurrences.  This filters synonym-list
-         co-occurrences like "nondelusion investigation" where both words
-         appear in many other contexts, while keeping "right view" where
-         "view" almost exclusively occurs inside that phrase.
-    """
+    """Detect multi-word compound terms of length 2..max_n."""
     global _PHRASES
 
-    # Step 1: count unigram block-level freqs (needed for coverage check)
     unigram_block_df: dict = defaultdict(int)
     for text in tgt_blocks.values():
         words = _raw_en_words(text)
@@ -292,7 +278,6 @@ def build_phrases(
             if en_freq.get_idf(w) >= idf_threshold:
                 unigram_block_df[w] += 1
 
-    # Step 2: count raw (token-level) and block-level freq for all n-grams
     raw_count:   dict = defaultdict(int)
     block_count: dict = defaultdict(int)
 
@@ -310,13 +295,11 @@ def build_phrases(
                     block_count[phrase] += 1
                     seen_in_block.add(phrase)
 
-    # Step 3: qualify by frequency + order-consistency + component coverage
     qualified: set = set()
     for phrase, df in block_count.items():
         if df < min_df:
             continue
         words = phrase.split()
-        # Order-consistency
         consistent = True
         for j in range(len(words) - 1):
             fwd = raw_count.get(f"{words[j]} {words[j+1]}", 0)
@@ -326,14 +309,11 @@ def build_phrases(
                 break
         if not consistent:
             continue
-        # Component coverage: phrase must represent >= min_coverage of the
-        # rarest component word's occurrences
         min_comp_df = min(unigram_block_df.get(w, 1) for w in words)
         if df / min_comp_df < min_coverage:
             continue
         qualified.add(phrase)
 
-    # Step 4: prune sub-phrases dominated by longer qualified phrases
     pruned: set = set()
     for phrase in qualified:
         dominated = any(
@@ -360,7 +340,6 @@ def select_en_keywords(
     """
     1. Build multi-word phrases (populates _PHRASES).
     2. Score every English token/phrase by (block_df / N) x IDF.
-       For phrases, IDF = min(component IDFs) — weakest word is the bottleneck.
     Return [(token, score), ...] sorted descending, capped at top_n.
     """
     phrases = build_phrases(tgt_blocks, max_n=max_phrase)
@@ -495,13 +474,99 @@ def write_yaml(glossary: dict, out_path: str, src_path: str, tgt_path: str) -> N
 
 
 # ---------------------------------------------------------------------------
-# Focused keyword supplement (for --focus mode)
+# Keywords-only writer (Pass 1 output)
+# ---------------------------------------------------------------------------
+def write_keywords_only(
+    tgt_blocks: dict,
+    out_path: str,
+    top_n: int = 600,
+    max_phrase: int = 4,
+) -> None:
+    """Write ranked keyword list (Pass 1 only) to out_path."""
+    keywords = select_en_keywords(tgt_blocks, top_n=top_n, max_phrase=max_phrase)
+    N = len(tgt_blocks)
+    lines = [
+        "# English keywords",
+        "# Method: block-level TF-IDF × Google-10k Zipf IDF; compound phrases via n-gram detection",
+        f"# {N} blocks, {len(keywords)} keywords selected",
+        "",
+    ]
+    for kw, score in keywords:
+        lines.append(f"{kw}: {score:.2f}")
+    Path(out_path).write_text("\n".join(lines) + "\n", encoding="utf-8")
+    print(f"output : {out_path}", file=sys.stderr)
+
+
+# ---------------------------------------------------------------------------
+# Example phrase extraction (for term-file mode)
+# ---------------------------------------------------------------------------
+def _extract_short_phrase(text: str, target: str, window: int = 5) -> str:
+    """Extract a window of words around target from a Pāli sub-block."""
+    text = BLOCK_ID_RE.sub("", text).strip()
+    text = SECTION_STRIP_RE.sub("", text).strip()
+    words = text.split()
+    target_plain = _plain(target.lower())
+    # Find the token position
+    for i, w in enumerate(words):
+        w_clean = _plain(w.lower().translate(_PUNCT))
+        if w_clean == target_plain:
+            start = max(0, i - 1)
+            end   = min(len(words), i + window - 1)
+            return " ".join(words[start:end]).rstrip(".,;:")
+    # Fallback: whole sub-block (trimmed)
+    trimmed = " ".join(words[:window]).rstrip(".,;:")
+    return trimmed
+
+
+def _extract_short_en(text: str, window: int = 6) -> str:
+    """Take a short representative clause from an English sub-block."""
+    text = BLOCK_ID_RE.sub("", text).strip()
+    text = SECTION_STRIP_RE.sub("", text).strip()
+    # Try splitting on em-dash or period first
+    for sep in [" — ", " - ", "; "]:
+        if sep in text:
+            part = text.split(sep)[0].strip()
+            words = part.split()
+            if 2 <= len(words) <= 8:
+                return part.rstrip(".,;:")
+    words = text.split()
+    return " ".join(words[:window]).rstrip(".,;:")
+
+
+def find_example_phrases(pairs: list, focus_plain: str) -> dict:
+    """
+    For each Pāli focus-family token, find the first aligned sub-block where
+    it appears and extract a short representative example phrase.
+    Returns {pali_token: (pali_clause, english_clause)}.
+    Prefers shorter sub-blocks (more specific examples).
+    """
+    examples: dict     = {}
+    block_len: dict    = {}  # pali_token -> length of chosen example (prefer shorter)
+
+    for pi_text, en_text in pairs:
+        pi_toks_all = pali_tokens(pi_text)
+        focus_toks  = [t for t in pi_toks_all if focus_plain in _plain(t)]
+        for ft in focus_toks:
+            phrase_len = len(pi_text.split())
+            if ft in examples and block_len.get(ft, 999) <= phrase_len:
+                continue  # keep shorter example
+            pi_phrase = _extract_short_phrase(pi_text, ft)
+            en_phrase = _extract_short_en(en_text)
+            if pi_phrase and en_phrase:
+                examples[ft]   = (pi_phrase, en_phrase)
+                block_len[ft]  = phrase_len
+
+    return examples
+
+
+# ---------------------------------------------------------------------------
+# Focused keyword supplement (for focus mode)
 # ---------------------------------------------------------------------------
 def select_focused_keywords(pairs: list, focus_plain: str, min_df: int = 1) -> list:
     """
     Return (keyword, idf) pairs from English blocks whose Pāli side contains
-    at least one focus-family token.  Used to supplement global TF-IDF keywords
-    so that terms rare globally but specific to the focus cluster are captured.
+    at least one focus-family token.  Supplements global TF-IDF keywords so
+    that terms rare globally but specific to the focus cluster are captured.
     """
     focused_en: list = [
         en_text for pi_text, en_text in pairs
@@ -526,71 +591,83 @@ def select_focused_keywords(pairs: list, focus_plain: str, min_df: int = 1) -> l
 
 
 # ---------------------------------------------------------------------------
-# Markdown writer (flat draft — one section per Pali form)
+# Term-file draft writer
 # ---------------------------------------------------------------------------
-def write_markdown_flat(
+def write_term_file_draft(
+    term: str,
+    focus_plain: str,
+    pairs: list,
     glossary: dict,
-    focus_term: str | None,
-    out_base: str,
-    src_path: str,
-    tgt_path: str,
-) -> tuple:
-    """Write two flat Markdown files (one section per English keyword).
-
-    When focus_term is given (a Pāli root), only English keywords whose Pāli
-    equivalents contain the focus family are included.  Output files:
-        {out_base}-en-to-pali.md   — primary: English keyword + pali: blocks
-        {out_base}-pali-to-en.md   — reverse index: Pāli token + English keywords
-
-    Returns (en_to_pali_path, pali_to_en_path).
-
-    NOTE: This is a *flat draft*.  Claude merges forms into semantic clusters
-    and adds sense labels in the semantic-grouping step described in SKILL.md.
+    out_dir: str,
+) -> str:
     """
-    if focus_term:
-        focus_plain = _plain(focus_term.lower())
-        entries = [
-            (kw, pi_dict) for kw, pi_dict in glossary.items()
-            if any(focus_plain in _plain(pt.lower()) for pt in pi_dict)
-        ]
-    else:
-        entries = list(glossary.items())
+    Write a single flat-draft .md file for TERM to {out_dir}/{term}-draft.md.
 
-    # Sort by total raw co-occurrence count, descending
-    entries.sort(key=lambda kv: sum(kv[1].values()), reverse=True)
+    The draft has one section per Pāli declension form with:
+      - An example phrase from the corpus (Pāli — "English")
+      - English renderings ranked by raw co-occurrence count
 
-    title = focus_term or Path(src_path).stem
+    Claude then applies semantic grouping (SKILL.md Step 3) to produce
+    the final {term}.md in benchmark format.
 
-    # --- en-to-pali (primary) ---
-    e2p_path = f"{out_base}-en-to-pali.md"
-    lines: list = [f"# {title} — English keywords with Pāli equivalents", ""]
-    for i, (kw, pi_dict) in enumerate(entries, 1):
-        lines += [
-            f"## {i}. {kw}",
-            "pali:",
-        ]
+    Returns the output path.
+    """
+    # Build pali-centric view: {pali_token: {en_kw: count}}
+    pali_centric: dict = defaultdict(dict)
+    for kw, pi_dict in glossary.items():
         for pt, cnt in pi_dict.items():
-            lines.append(f"  {pt}: {cnt}")
+            if focus_plain in _plain(pt.lower()):
+                pali_centric[pt][kw] = cnt
+
+    # Include focus-family tokens that appeared in the corpus even if not in
+    # the main glossary (e.g. rare forms with count below min_co threshold)
+    # — they still need an entry in Declensions section.
+    # Collect all focus-family tokens from pairs directly.
+    all_focus_toks: set = set()
+    for pi_text, _ in pairs:
+        for pt in pali_tokens(pi_text):
+            if focus_plain in _plain(pt):
+                all_focus_toks.add(pt)
+
+    # For tokens not yet in pali_centric, add an empty entry so the
+    # Declensions section still lists them (with example but no counts).
+    for ft in all_focus_toks:
+        if ft not in pali_centric:
+            pali_centric[ft] = {}
+
+    # Find example phrases for each declension
+    examples = find_example_phrases(pairs, focus_plain)
+
+    # Sort by total raw co-occurrence count desc; ties: alphabetical
+    sorted_decl = sorted(
+        pali_centric.items(),
+        key=lambda kv: (-sum(kv[1].values()), kv[0]),
+    )
+
+    lines = [
+        f"# {term}",
+        "",
+        "<!-- flat draft — Claude applies semantic grouping to produce final format -->",
+        "<!-- Step 3: group declensions into senses, aggregate counts, write benchmark format -->",
+        "",
+    ]
+
+    for pt, en_dict in sorted_decl:
+        pi_ex, en_ex = examples.get(pt, ("", ""))
+        lines.append(f"## Declension: {pt}")
+        if pi_ex and en_ex:
+            lines.append(f"Example: {pi_ex} — \"{en_ex}\"")
+        if en_dict:
+            for kw, cnt in sorted(en_dict.items(), key=lambda x: -x[1]):
+                lines.append(f"{kw}: {cnt}")
+        else:
+            lines.append("<!-- no co-occurrence counts above threshold -->")
         lines.append("")
-    Path(e2p_path).write_text("\n".join(lines), encoding="utf-8")
 
-    # --- pali-to-en (reverse index) ---
-    reverse: dict = defaultdict(dict)
-    for kw, pi_dict in entries:
-        for pt, cnt in pi_dict.items():
-            reverse[pt][kw] = cnt
-
-    p2e_path = f"{out_base}-pali-to-en.md"
-    lines = [f"# {title} — Pāli tokens with English keywords", ""]
-    rev_entries = sorted(reverse.items(), key=lambda kv: sum(kv[1].values()), reverse=True)
-    for i, (pt, kw_dict) in enumerate(rev_entries, 1):
-        lines.append(f"## {i}. {pt}")
-        for kw, cnt in sorted(kw_dict.items(), key=lambda x: -x[1]):
-            lines.append(f"{kw}: {cnt}")
-        lines.append("")
-    Path(p2e_path).write_text("\n".join(lines), encoding="utf-8")
-
-    return e2p_path, p2e_path
+    Path(out_dir).mkdir(parents=True, exist_ok=True)
+    out_path = str(Path(out_dir) / f"{term}-draft.md")
+    Path(out_path).write_text("\n".join(lines), encoding="utf-8")
+    return out_path
 
 
 # ---------------------------------------------------------------------------
@@ -598,29 +675,54 @@ def write_markdown_flat(
 # ---------------------------------------------------------------------------
 def main() -> None:
     p = argparse.ArgumentParser(description="Pali-English bilingual term extraction")
-    p.add_argument("pali",    help="Pali source markdown file")
-    p.add_argument("english", help="English translation markdown file")
-    p.add_argument("output",  help="Output path (YAML file, or base path for --format md)")
+    p.add_argument("pali",
+                   help="Pāli source markdown file (or English file if --keywords-only)")
+    p.add_argument("english",
+                   help="English translation markdown file (or output path if --keywords-only)")
+    p.add_argument("output",  nargs="?", default=None,
+                   help="Output path or directory (omit if --keywords-only)")
     p.add_argument("--top",           type=int,   default=600,  help="English keywords to consider")
     p.add_argument("--min-co",        type=int,   default=2,    help="Min raw co-occurrence count")
     p.add_argument("--min-score",     type=float, default=0.25, help="Min weighted alignment score")
-    p.add_argument("--max-pi-df",     type=float, default=None, help="Max Pali doc-freq fraction (default 0.30; 0.99 in md mode)")
-    p.add_argument("--max-pi-per-kw", type=int,   default=None, help="Max Pali tokens per English keyword (default 2; 20 in md mode)")
+    p.add_argument("--max-pi-df",     type=float, default=None,
+                   help="Max Pali doc-freq fraction (default 0.99 in term-file; 0.30 in yaml)")
+    p.add_argument("--max-pi-per-kw", type=int,   default=None,
+                   help="Max Pali tokens per English keyword (default 20 in term-file; 2 in yaml)")
     p.add_argument("--max-phrase",    type=int,   default=4,    help="Max phrase length in words")
-    p.add_argument("--focus",         default=None, help="Root term to focus on (filters output to morphological family)")
-    p.add_argument("--format",        choices=["yaml", "md"], default="md", help="Output format")
+    p.add_argument("--focus",         default=None,
+                   help="Root term to focus on (required for term-file mode)")
+    p.add_argument("--format",        choices=["yaml", "term-file"], default="term-file",
+                   help="Output format (default: term-file)")
+    p.add_argument("--keywords-only", action="store_true",
+                   help="Pass 1 only: first arg = English file, second arg = output path")
     args = p.parse_args()
 
-    # Apply mode-aware defaults
-    md_mode = args.format == "md"
-    max_pi_df     = args.max_pi_df     if args.max_pi_df     is not None else (0.99 if md_mode else 0.30)
-    max_pi_per_kw = args.max_pi_per_kw if args.max_pi_per_kw is not None else (20   if md_mode else 2)
+    # ---- keywords-only mode -----------------------------------------------
+    if args.keywords_only:
+        en_file  = args.pali     # first positional = English file
+        out_file = args.english  # second positional = output path
+        print(f"english: {en_file}", file=sys.stderr)
+        print(f"mode   : keywords-only (Pass 1)", file=sys.stderr)
+        tgt_blocks = parse_blocks(en_file)
+        print(f"blocks : {len(tgt_blocks)}", file=sys.stderr)
+        print("Pass 1 : TF-IDF keyword extraction ...", file=sys.stderr)
+        write_keywords_only(tgt_blocks, out_file, top_n=args.top, max_phrase=args.max_phrase)
+        return
 
-    print(f"source : {args.pali}", file=sys.stderr)
+    # ---- normal modes -------------------------------------------------------
+    if args.output is None:
+        p.error("output argument is required (omit only with --keywords-only)")
+
+    # Apply mode-aware defaults
+    term_file_mode = args.format == "term-file"
+    max_pi_df      = args.max_pi_df     if args.max_pi_df     is not None else (0.99 if term_file_mode else 0.30)
+    max_pi_per_kw  = args.max_pi_per_kw if args.max_pi_per_kw is not None else (20   if term_file_mode else 2)
+
+    print(f"source : {args.pali}",    file=sys.stderr)
     print(f"target : {args.english}", file=sys.stderr)
     if args.focus:
         print(f"focus  : {args.focus}", file=sys.stderr)
-    print(f"format : {args.format}", file=sys.stderr)
+    print(f"format : {args.format}",  file=sys.stderr)
 
     src_blocks = parse_blocks(args.pali)
     tgt_blocks = parse_blocks(args.english)
@@ -663,21 +765,26 @@ def main() -> None:
         min_score=args.min_score,
         max_pi_per_kw=max_pi_per_kw,
     )
-    print(f"terms  : {len(glossary)} Pali tokens in output", file=sys.stderr)
+    print(f"terms  : {len(glossary)} English terms in output", file=sys.stderr)
 
-    if md_mode:
-        e2p, p2e = write_markdown_flat(
-            glossary, args.focus, args.output, args.pali, args.english
+    if term_file_mode:
+        if not args.focus:
+            p.error("--focus TERM is required for --format term-file")
+        focus_plain = _plain(args.focus.lower())
+        out_path = write_term_file_draft(
+            term=args.focus,
+            focus_plain=focus_plain,
+            pairs=pairs,
+            glossary=glossary,
+            out_dir=args.output,
         )
-        print(f"output : {e2p}", file=sys.stderr)
-        print(f"         {p2e}", file=sys.stderr)
-        if args.focus:
-            focus_plain = _plain(args.focus.lower())
-            matched_kws = [
-                kw for kw, pi_dict in glossary.items()
-                if any(focus_plain in _plain(pt.lower()) for pt in pi_dict)
-            ]
-            print(f"focus  : {len(matched_kws)} English keywords matched — {matched_kws[:10]}", file=sys.stderr)
+        print(f"output : {out_path}", file=sys.stderr)
+        # Summary of matched English keywords
+        matched_kws = [
+            kw for kw, pi_dict in glossary.items()
+            if any(focus_plain in _plain(pt.lower()) for pt in pi_dict)
+        ]
+        print(f"focus  : {len(matched_kws)} English keywords matched — {matched_kws[:10]}", file=sys.stderr)
     else:
         write_yaml(glossary, args.output, args.pali, args.english)
         print(f"output : {args.output}", file=sys.stderr)

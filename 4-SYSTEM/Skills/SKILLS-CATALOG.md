@@ -109,10 +109,16 @@ These skills populate `2-RAILS/` with the structured context that translation an
 **Outputs:** `3-TRANSFORMATIONS/Translations/<track-name>/termbase.md` — the prescriptive termbase, scoped to keywords that appear in the text being translated; plus updates to the consolidated bilingual glossary for any new derived renderings.
 → [`glossary-select/SKILL.md`](glossary-select/SKILL.md)
 
+### `pali-keyword-extraction` **[exists]**
+**Purpose:** Extract domain-specific English keywords from a translation file using TF-IDF (Pass 1 only). Produces a ranked keyword list — unigrams and compound phrases — for independent review or use as input to `pali-biterm-extraction`.
+**Inputs:** An English translation markdown file with Obsidian block IDs; an output path.
+**Outputs:** A ranked keyword list at the output path, one keyword per line with TF-IDF score.
+→ [`pali-keyword-extraction/SKILL.md`](pali-keyword-extraction/SKILL.md)
+
 ### `pali-biterm-extraction` **[exists]**
-**Purpose:** For a block-aligned Pāli source file and an English translation file, extract every attested English rendering for each Pāli token and write a compact YAML frequency table (`pāli_token: rendering1-N, rendering2-N, …`). Uses (1) no Pāli stemming — exact inflected token forms are preserved; (2) uses Google-10k Zipf-law IDF (3 000-word reference with actual frequency values) for English keyword selection, giving better discrimination between common English and domain-specific translation vocabulary.
-**Inputs:** A Pāli source markdown file and a matching English translation file, both with Obsidian block IDs; an output YAML path.
-**Outputs:** One YAML file with compact lines (`pāli_token: rendering1-N, rendering2-N, …`), sorted by total frequency. Intended as input for `glossary-combine` and as a consistency check before full interlinear glossing.
+**Purpose:** For a block-aligned Pāli source file and an English translation file, extract every attested English rendering for each Pāli token's morphological family. Writes one file per term to `bilingual-glossary/` in the benchmark format: senses, per-sense English frequency tables, and declensions with example phrases. The script (Pass 2) produces a flat draft; Claude applies semantic grouping to produce the final file.
+**Inputs:** A Pāli source markdown file and a matching English translation file (both with Obsidian block IDs); a focus term (root form); output directory (`bilingual-glossary/`).
+**Outputs:** `bilingual-glossary/{term}-draft.md` (flat draft from script) → `bilingual-glossary/{term}.md` (final benchmark format after Claude's semantic grouping). Also supports YAML mode (`--format yaml`) for the `glossary-combine` pipeline.
 → [`pali-biterm-extraction/SKILL.md`](pali-biterm-extraction/SKILL.md)
 
 ### `glossary-contested` **[exists]**
