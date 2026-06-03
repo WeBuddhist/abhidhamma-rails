@@ -1,16 +1,16 @@
 ---
 name: pali-biterm-extraction
-description: For a block-aligned Pāli source file and an English translation file, extract every attested English rendering for each Pāli token and produce frequency-weighted bilingual tables. Two modes — full YAML (for glossary-combine pipeline) or focused Markdown per term (two files: pali-to-en and en-to-pali), which Claude then groups into semantic clusters.
+description: For a block-aligned Pāli source file and an English translation file, extract English keywords and their Pāli equivalents, producing frequency-weighted bilingual tables keyed by English. Two modes — full YAML (for glossary-combine pipeline) or focused Markdown per term (two files: en-to-pali primary and pali-to-en reverse index), which Claude then groups into semantic clusters.
 ---
 
 # pali-biterm-extraction
 
-Produces bilingual frequency tables from block-aligned Pāli/English markdown files.
+Produces bilingual frequency tables from block-aligned Pāli/English markdown files, keyed by **English keyword → Pāli equivalents**.
 
 **Two output modes:**
 
-- **YAML mode** (default): flat `pāli_token: rendering-N, …` table for the `glossary-combine` pipeline.
-- **Markdown mode** (`--format md --focus TERM`): two Markdown files focused on a single root term and its morphological family, which Claude then post-processes into semantic clusters for human review.
+- **YAML mode** (default): flat `english_keyword: pāli_token-N, …` table for the `glossary-combine` pipeline.
+- **Markdown mode** (`--format md --focus TERM`): two Markdown files — primary (`en-to-pali`) lists each English keyword with its Pāli equivalents; secondary (`pali-to-en`) is the reverse index — which Claude then post-processes into semantic clusters for human review.
 
 The algorithm runs in two passes:
 
@@ -35,36 +35,34 @@ The algorithm runs in two passes:
 
 ## Output — Markdown mode
 
-The script writes two **flat draft** files (one section per Pāli form). Claude then applies semantic grouping in Step 3.
+The script writes two **flat draft** files (one section per English keyword). Claude then applies semantic grouping in Step 3.
 
-### `0-INBOX/{term}-pali-to-en.md` — final grouped format
+### `0-INBOX/{term}-en-to-pali.md` — primary file, final grouped format
 
 ```markdown
-# {term} — translation variants by sense
+# {term} — English keywords with Pāli equivalents
 
-## 1. {pali-form} — {Sense label}
-pali: [{form1}, {form2}, ...]
-translations:
-  rendering1: N
-  rendering2: N
+## 1. {english-keyword} — {Sense label}
+pali:
+  pali-form1: N
+  pali-form2: N
 
-## 2. {prefixed-form} — {Sense label}
-pali: [{form}]
-translations:
-  rendering1: N
+## 2. {english-phrase} — {Sense label}
+pali:
+  pali-form1: N
 ```
 
-### `0-INBOX/{term}-en-to-pali.md` — final grouped format
+### `0-INBOX/{term}-pali-to-en.md` — reverse index, final grouped format
 
 ```markdown
-# {term} — English variants grouped by sense
+# {term} — Pāli tokens with English keywords
 
 ## 1. {pali-form} — {Sense label}
-rendering1: N
-rendering2: N
+english-keyword1: N
+english-keyword2: N
 
-## 2. {prefixed-form} — {Sense label}
-rendering1: N
+## 2. {pali-form2} — {Sense label}
+english-keyword1: N
 ```
 
 ---
@@ -74,11 +72,11 @@ rendering1: N
 One YAML file with compact lines:
 
 ```yaml
-# Translation variant frequencies
-sammāsamādhi: right concentration-28
-sammāsati: right mindfulness-21
-vitakko: initial application-27
-asaṅkhatā: unconditioned-83
+# English keyword → Pāli equivalents (frequency-weighted)
+right concentration: sammāsamādhi-28
+right mindfulness: sammāsati-21
+initial application: vitakko-27
+unconditioned: asaṅkhatā-83
 ```
 
 ---
@@ -129,7 +127,7 @@ python3 4-SYSTEM/Skills/pali-biterm-extraction/scripts/pali_biterm_extraction.py
 
 In Markdown mode, `--max-pi-per-kw` defaults to 20 (captures the full morphological family) and `--max-pi-df` defaults to 0.99 (retains even high-frequency focus terms). Override with explicit flags if needed.
 
-The script produces flat drafts — one section per Pāli form — plus a progress summary:
+The script produces flat drafts — one section per English keyword — plus a progress summary:
 
 ```
 source : …
@@ -143,47 +141,45 @@ Pass 1 : TF-IDF keyword extraction …
 Building sub-block pairs …
 Pass 2 : weighted co-occurrence …
 terms  : N Pali tokens in output
-output : 0-INBOX/āsava-pali-to-en.md
-         0-INBOX/āsava-en-to-pali.md
-focus  : N forms matched — [āsava, kāmāsava, bhavāsava, ...]
+output : 0-INBOX/āsava-en-to-pali.md
+         0-INBOX/āsava-pali-to-en.md
+focus  : N English keywords matched — [taint, canker, influx, ...]
 ```
 
 ### Step 3 — Apply semantic grouping (Claude step)
 
 Read both flat draft files from `0-INBOX/`. Then:
 
-1. **Identify morphological sub-families** from the list of matched forms:
-   - Base form + inflections + compounds *containing* the root → typically one cluster
-   - `sa`- prefix derivatives (sa + root = "with root") → separate cluster
-   - `an`- prefix derivatives (an + root = "without root") → separate cluster
-   - Lexicalised compounds with a distinct primary meaning → separate cluster
-   - The same surface form used in different senses (e.g., `dhamma` = The Teaching vs. Phenomenon) → separate clusters, distinguished by which English translations co-occur
+1. **Identify semantic clusters** among the English keywords:
+   - Keywords whose Pāli equivalents overlap → typically one cluster (same semantic field)
+   - Keywords that map to distinct Pāli families → separate clusters
+   - The same English word covering different Pāli forms in different senses → flag for disambiguation
 
 2. **Write a sense label** for each cluster, e.g.:
-   - `āsava — The taints (as active defilements)`
-   - `sāsava — Tainted (subject to taints)`
-   - `anāsava — Untainted (free from taints)`
+   - `taint / canker / influx — āsava family (active defilements)`
+   - `tainted — sāsava family (subject to taints)`
+   - `untainted — anāsava family (free from taints)`
 
-3. **Aggregate translation counts** across all forms in the cluster (sum raw co-occurrence counts per English rendering).
+3. **Aggregate Pāli counts** across synonymous English keywords in the cluster (sum raw co-occurrence counts per Pāli token).
 
-4. **Rewrite both files** in the final grouped format shown above, replacing the flat draft. Sort clusters by total count descending; sort renderings within each cluster by count descending.
+4. **Rewrite both files** in the final grouped format shown above, replacing the flat draft. Sort clusters by total count descending; sort Pāli tokens within each cluster by count descending.
 
 ### Step 4 — Spot-check the output
 
-Verify the focus term's most common renderings appear with plausible counts:
+Verify the expected English keywords appear and map to plausible Pāli equivalents:
 
-| Focus term | Expected top rendering(s) |
+| Expected English keyword | Expected top Pāli equivalent(s) |
 |---|---|
-| `āsava` | taint, canker, influx |
-| `dhamma` | phenomena, states (as phenomena); dhamma, truth (as Teaching) |
-| `kusalā` / `kusalaṃ` | wholesome |
-| `phasso` | contact |
-| `vedanā` | feeling |
-| `saññā` | perception |
-| `cetanā` | volition |
-| `vitakko` | initial application |
-| `vicāro` | sustained application |
-| `jhāna` | jhāna |
+| taint / canker / influx | āsava, kāmāsava, bhavāsava |
+| phenomena / states | dhamma, dhammā |
+| wholesome | kusalā, kusalaṃ |
+| contact | phasso |
+| feeling | vedanā |
+| perception | saññā |
+| volition | cetanā |
+| initial application | vitakko |
+| sustained application | vicāro |
+| jhāna | jhānaṃ, jhānā |
 
 ### Step 5 — Move after human review
 
@@ -232,6 +228,6 @@ Same key terms table as above. Move to `2-RAILS/Bilingual-Glossaries/Raw/` after
 - [ ] Script ran without errors and reported > 0 aligned block pairs
 - [ ] Output written to `0-INBOX/`
 - [ ] *(Markdown mode)* Flat draft post-processed into semantic clusters with sense labels
-- [ ] *(Markdown mode)* `focus: N forms matched` line in script output lists the expected morphological family
+- [ ] *(Markdown mode)* `focus: N English keywords matched` line in script output lists expected translation terms
 - [ ] Key terms spot-checked against expected renderings table
 - [ ] Output moved from `0-INBOX/` to `2-RAILS/Bilingual-Glossaries/Raw/` after human review
