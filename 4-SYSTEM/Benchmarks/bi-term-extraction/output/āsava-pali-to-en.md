@@ -1,7 +1,7 @@
+Declension in document: [āsava, kāmāsava, bhavāsava, diṭṭhāsava, avijjāsava, āsavasampayutta, āsavavippayutta, āsavānaṃ]
 # āsava — translation variants by sense
 
 ## 1. āsava — The taints (as active defilements)
-Declension: [āsava, kāmāsava, bhavāsava, diṭṭhāsava, avijjāsava, āsavasampayutta, āsavavippayutta, āsavānaṃ]
 taint: 29
 canker: 24
 influx: 14
