@@ -5,12 +5,12 @@ pali_biterm_extraction.py — two-pass bilingual term extractor (no Pali stemmin
 Produces bilingual frequency tables from a block-aligned Pali source file and an
 English translation file.  Two output modes:
 
-  YAML mode (default):
+  YAML mode:
     asava: taints-23, cankers-12
     phasso: contact-45
     sammaditthi: right view-62, wisdom-58
 
-  Markdown mode (--format md --focus TERM):
+  Markdown mode (default, with --focus TERM):
     Produces two flat draft Markdown files focused on TERM's morphological family:
       {output}-pali-to-en.md   — one section per Pali form, pali:/translations: blocks
       {output}-en-to-pali.md   — one section per Pali form, bare rendering: count lines
@@ -42,10 +42,10 @@ Usage
 -----
     python3 pali_biterm_extraction.py <pali_file> <en_file> <output> [options]
 
-    YAML mode (default):
+    YAML mode:
         python3 pali_biterm_extraction.py pi.md en.md output.yaml
 
-    Markdown mode (focused on a root term):
+    Markdown mode (default, focused on a root term):
         python3 pali_biterm_extraction.py pi.md en.md 0-INBOX/asava \\
             --focus asava --format md
 
@@ -58,7 +58,7 @@ Options
     --max-pi-per-kw N Maximum Pali tokens linked to one English keyword (default 2; auto 20 in md mode)
     --max-phrase N    Maximum phrase length in words (default 4)
     --focus TERM      Root term to focus on; filters output to its morphological family
-    --format {yaml,md} Output format (default: yaml)
+    --format {yaml,md} Output format (default: md)
 """
 
 import argparse
@@ -601,7 +601,7 @@ def main() -> None:
     p.add_argument("--max-pi-per-kw", type=int,   default=None, help="Max Pali tokens per English keyword (default 2; 20 in md mode)")
     p.add_argument("--max-phrase",    type=int,   default=4,    help="Max phrase length in words")
     p.add_argument("--focus",         default=None, help="Root term to focus on (filters output to morphological family)")
-    p.add_argument("--format",        choices=["yaml", "md"], default="yaml", help="Output format")
+    p.add_argument("--format",        choices=["yaml", "md"], default="md", help="Output format")
     args = p.parse_args()
 
     # Apply mode-aware defaults
