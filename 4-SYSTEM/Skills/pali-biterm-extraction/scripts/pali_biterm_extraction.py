@@ -493,6 +493,37 @@ def write_yaml(glossary: dict, out_path: str, src_path: str, tgt_path: str) -> N
 
 
 # ---------------------------------------------------------------------------
+# Focused keyword supplement (for --focus mode)
+# ---------------------------------------------------------------------------
+def select_focused_keywords(pairs: list, focus_plain: str, min_df: int = 1) -> list:
+    """
+    Return (keyword, idf) pairs from English blocks whose Pāli side contains
+    at least one focus-family token.  Used to supplement global TF-IDF keywords
+    so that terms rare globally but specific to the focus cluster are captured.
+    """
+    focused_en: list = [
+        en_text for pi_text, en_text in pairs
+        if any(focus_plain in _plain(pt) for pt in pali_tokens(pi_text))
+    ]
+    if not focused_en:
+        return []
+
+    df: dict = defaultdict(int)
+    for text in focused_en:
+        seen: set = set()
+        for tok in en_tokens(text):
+            if tok not in seen:
+                df[tok] += 1
+                seen.add(tok)
+
+    return [
+        (tok, en_freq.get_idf(tok))
+        for tok, cnt in df.items()
+        if cnt >= min_df and en_freq.get_idf(tok) >= 3.5 and tok not in EN_FORMULA_STOP
+    ]
+
+
+# ---------------------------------------------------------------------------
 # Markdown writer (flat draft — one section per Pali form)
 # ---------------------------------------------------------------------------
 def write_markdown_flat(
@@ -603,6 +634,16 @@ def main() -> None:
     print("Building sub-block pairs ...", file=sys.stderr)
     pairs = build_subblock_pairs(src_blocks, tgt_blocks)
     print(f"         {len(pairs)} sub-block pairs", file=sys.stderr)
+
+    # Supplement global keywords with terms specific to focus-family blocks
+    if args.focus:
+        focus_plain = _plain(args.focus.lower())
+        focused_kws = select_focused_keywords(pairs, focus_plain)
+        global_kw_set = {k for k, _ in keywords}
+        extra_kws = [(k, s) for k, s in focused_kws if k not in global_kw_set]
+        keywords = keywords + extra_kws
+        if extra_kws:
+            print(f"         +{len(extra_kws)} focused keywords added for '{args.focus}'", file=sys.stderr)
 
     print("Pass 2 : weighted co-occurrence ...", file=sys.stderr)
     weighted_co, raw_co, pi_df = build_cooccurrence(
