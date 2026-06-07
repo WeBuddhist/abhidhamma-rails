@@ -121,6 +121,22 @@ Alphabetical by Pāli lemma. New rows are appended by the `daily-tipitaka-day` s
 | vīmaṃsā | _investigation_ | day-022 §1, §5 | Translation track wording at v.358 ("investigation"). Fourth of the four adhipati. | candidate |
 | vīriya | _energy_ | day-022 §5 | Translation track wording — used for "the faculty of energy" (v.376) and as one of the four adhipati. Day-022 §5 used the bare "energy." | candidate |
 
+### Terms appearing in days 26–30 §1 / §5 (candidate / draft — needs reviewer confirmation)
+
+| Pāli | English (Contemporary) | Used in | Source / Note | Status |
+|---|---|---|---|---|
+| abyākata | _indeterminate_ (with plain-English unwrap "left unscored") | day-026 §1, §5; day-028 §6; day-029 §6; day-030 §6 | BB curated "(kammically) indeterminate" in translation track termbase. Plain-English unwrap added for casual register. | draft |
+| aṭṭhamahāvipākā | _eight great resultants_ | day-029 §1, §5 | Translation track v.498 "The Eight Great Resultant Consciousnesses". | candidate |
+| cakkhuviññāṇa | _eye-consciousness_ | day-026 §5; day-027 §5 | BB in-text rendering in translation track termbase. Day-027 §5 headword. | draft |
+| lokuttara | _supramundane_ (with on-first-use unwrap "above the world") | day-030 §1, §5 | Reaffirms day-019 candidate row; day-030 §5 headword. | candidate |
+| manodhātu | _mind-element_ | day-028 §1, §5 | BB curated "mind element" in translation track termbase; hyphenated in §-prose. | draft |
+| manoviññāṇadhātu | _mind-consciousness element_ | day-028 §1; day-029 §1 | BB curated rendering in translation track termbase. | draft |
+| paṭisandhi | _rebirth-linking_ | day-029 §1, §5 | Practice-rail term (*paṭisandhivasena*); plain-English rendering. Day-029 §5 headword. | candidate |
+| sampaṭicchana | _receiving_ | day-028 §1, §5 | Summary/practice-rail term (*sampaṭicchanarasā*); plain-English rendering. Day-028 §5 headword. | candidate |
+| santīraṇa | _investigating_ | day-028 §1; day-029 §1 | Summary/practice-rail term (*santīraṇakiccaṃ*); plain-English rendering. | candidate |
+| somanassa | _joy_ | day-028 §1; day-029 §1 | Translation track "accompanied by joy" (*somanassasahagata*). Kept distinct from *pīti* (rapture). | draft |
+| vipāka | _resultant_ (noun: _result_) | day-026 §1, §5; day-027 §1; day-028 §1; day-029 §1; day-030 §1, §5 | BB curated "result, resultant" in translation track termbase. Day-026 §5 headword. | draft |
+
 ### Five hindrances (used in day-012 §5; need reviewer confirmation against the translation track)
 
 | Pāli | English (Contemporary) | Source | Status |
