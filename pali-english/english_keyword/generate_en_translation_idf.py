@@ -34,16 +34,15 @@ import argparse
 import pathlib
 from datetime import date
 
-# Ensure the scripts/ directory is on the path so idf_corpus is importable
-# regardless of where the script is invoked from.
-sys.path.insert(0, str(pathlib.Path(__file__).parent))
+# idf_corpus.py lives in the output/ subfolder next to this script.
+sys.path.insert(0, str(pathlib.Path(__file__).parent / "output"))
 from idf_corpus import IDF_CORPUS
 
 # ---------------------------------------------------------------------------
 # Paths (defaults — overridden by CLI args in main())
 # ---------------------------------------------------------------------------
-HERE      = pathlib.Path(__file__).parent
-REPO_ROOT = HERE.parent                             # abhidhamma-rails/
+HERE      = pathlib.Path(__file__).parent            # pali-english/english_keyword/
+REPO_ROOT = HERE.parent.parent                       # abhidhamma-rails/
 _DEFAULT_INPUT  = REPO_ROOT / "1-SOURCES/Translations/en-1-rhys_davids.md"
 _DEFAULT_OUTDIR = HERE / "output"
 
