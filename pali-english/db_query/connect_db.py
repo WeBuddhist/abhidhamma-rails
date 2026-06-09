@@ -6,6 +6,7 @@ The connection is created lazily on first call to get_connection().
 """
 
 import sqlite3
+from pathlib import Path
 
 
 class DBConnection:
@@ -18,7 +19,7 @@ class DBConnection:
         DBConnection.close()
     """
 
-    DB_PATH = "pali-english/db_query/dpd.db/dpd.db"
+    DB_PATH = str(Path(__file__).resolve().parent / "dpd.db" / "dpd.db")
 
     _instance: sqlite3.Connection | None = None
 

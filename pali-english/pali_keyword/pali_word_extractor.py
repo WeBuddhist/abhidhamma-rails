@@ -1,11 +1,12 @@
 #!/usr/bin/env python3
 """
-Extract case-insensitive distinct keywords and frequencies from Pali text.
+Extract case-insensitive distinct words and frequencies from Pali text.
 Only merges words that differ by letter case (e.g. dhamma + Dhamma).
 """
 
 import argparse
 import json
+from os import path
 import re
 import unicodedata
 from collections import defaultdict
@@ -26,7 +27,7 @@ STRIP_CHARS = ".,;:!?\"'()[]{}«»—–-…।॥"
 SCRIPT_DIR = Path(__file__).resolve().parent
 
 # Set to a file path to run without a CLI argument; leave empty to pass input on the command line.
-SOURCE = r"D:\Work\OpenPecha\abhidhamma-rails\1-SOURCES\Text\pi-1.md"
+SOURCE = Path(r"D:\Work\OpenPecha\abhidhamma-rails\1-SOURCES\Text\pi-1.md")
 
 
 def normalize_token(token: str) -> str:
@@ -38,7 +39,7 @@ def merge_key(word: str) -> str:
     return unicodedata.normalize("NFC", word).casefold()
 
 
-def extract_keywords(text: str, *, min_length: int = 1) -> list[dict]:
+def extract_words(text: str, *, min_length: int = 1) -> list[dict]:
     totals: dict[str, int] = defaultdict(int)
     forms: dict[str, dict[str, int]] = defaultdict(lambda: defaultdict(int))
 
@@ -62,7 +63,7 @@ def extract_keywords(text: str, *, min_length: int = 1) -> list[dict]:
 
 def main() -> None:
     parser = argparse.ArgumentParser(
-        description="Case-insensitive keyword frequencies from Pali text."
+        description="Case-insensitive word frequencies from Pali text."
     )
     parser.add_argument(
         "input",
@@ -75,7 +76,7 @@ def main() -> None:
         "--output",
         type=Path,
         default=None,
-        help="Output JSON (default: <script-dir>/<input-stem>.keywords.json)",
+        help="Output JSON (default: <script-dir>/<input-stem>.words.json)",
     )
     parser.add_argument("--min-length", type=int, default=1)
     args = parser.parse_args()
@@ -88,17 +89,17 @@ def main() -> None:
         parser.error("no input file: set SOURCE in the script or pass a path on the command line")
 
     text = input_path.read_text(encoding="utf-8")
-    keywords = extract_keywords(text, min_length=args.min_length)
+    words = extract_words(text, min_length=args.min_length)
 
-    out = args.output or (SCRIPT_DIR / f"{input_path.stem}.keywords.json")
+    out = args.output or (SCRIPT_DIR / f"{input_path.stem}.words.json")
     payload = {
         "source": str(input_path),
-        "distinct_count": len(keywords),
-        "total_tokens": sum(k["frequency"] for k in keywords),
-        "keywords": keywords,
+        "distinct_count": len(words),
+        "total_tokens": sum(w["frequency"] for w in words),
+        "words": words,
     }
     out.write_text(json.dumps(payload, ensure_ascii=False, indent=2), encoding="utf-8")
-    print(f"Wrote {len(keywords)} keywords to {out}")
+    print(f"Wrote {len(words)} words to {out}")
 
 
 if __name__ == "__main__":
