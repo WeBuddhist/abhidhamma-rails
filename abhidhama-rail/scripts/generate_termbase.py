@@ -2,26 +2,34 @@
 """
 generate_termbase.py
 ====================
-Reads any markdown translation file, computes TF-IDF against the Reuters-21578
-general-English IDF corpus (idf_corpus.py), and writes a ranked termbase table
-of the most-distinctive and least-distinctive words in the translation.
+Reads one or more markdown translation files, computes TF-IDF against the
+Reuters-21578 general-English IDF corpus (idf_corpus.py), and writes:
 
-No comparison with the Pāli root text.
+  • A ranked termbase report for each individual translation.
+  • When two or more inputs are given, a side-by-side comparison report
+    showing shared vocabulary, per-translation signatures, and a full
+    cross-translation table.
 
 Usage
 -----
-    # default (Rhys Davids)
+    # single file (default: Rhys Davids)
     python3 generate_termbase.py
 
-    # explicit input
+    # explicit single input
     python3 generate_termbase.py --input 1-SOURCES/Translations/en-1-rhys_davids.md
 
-    # custom output path
-    python3 generate_termbase.py --input path/to/translation.md --output scripts/output/my_termbase.md
+    # multiple inputs → individual reports + comparison
+    python3 generate_termbase.py \\
+        --input 1-SOURCES/Translations/en-1-rhys_davids.md \\
+                1-SOURCES/Translations/en-2-another.md
+
+    # custom output directory (all reports land here)
+    python3 generate_termbase.py --input a.md b.md --outdir scripts/output/run1
 """
 
 import re
 import sys
+import json
 import argparse
 import pathlib
 from datetime import date
@@ -37,7 +45,7 @@ from idf_corpus import IDF_CORPUS
 HERE      = pathlib.Path(__file__).parent
 REPO_ROOT = HERE.parent                             # abhidhamma-rails/
 _DEFAULT_INPUT  = REPO_ROOT / "1-SOURCES/Translations/en-1-rhys_davids.md"
-_DEFAULT_OUTPUT = HERE / "output/rhys_davids_termbase.md"
+_DEFAULT_OUTDIR = HERE / "output"
 
 # ---------------------------------------------------------------------------
 # IDF table  — Reuters-21578 corpus (10,788 newswire documents)
@@ -59,7 +67,6 @@ _DEFAULT_OUTPUT = HERE / "output/rhys_davids_termbase.md"
 IDF: dict[str, float] = IDF_CORPUS
 
 # Fallback for words absent from the Reuters vocabulary.
-# Near-maximum corpus IDF (≈ hapax legomenon in 10 788 docs).
 IDF_UNKNOWN: float = 9.59
 
 # ---------------------------------------------------------------------------
@@ -156,28 +163,69 @@ def band(score: float) -> str:
 
 
 # ---------------------------------------------------------------------------
-# Markdown renderer
+# English-only filter
+# Pāli transliterations use diacritical characters not found in English.
+# Any token containing one of these is excluded from JSON output.
+# ---------------------------------------------------------------------------
+_PALI_CHARS = re.compile(r"[āīūṭḍṅñṇḷṃṁĀĪŪṬḌṄÑṆḶṂṀ]")
+
+def is_english(word: str) -> bool:
+    """Return True if the word contains no Pāli diacritical characters."""
+    return not bool(_PALI_CHARS.search(word))
+
+
+# ---------------------------------------------------------------------------
+# Combined JSON output
+# ---------------------------------------------------------------------------
+
+def write_combined_json(
+    comp: dict,          # stem → {"rows": [...], "row_map": {...}, "total": int}
+    sources: list[pathlib.Path],
+    dest: pathlib.Path,
+) -> None:
+    """
+    Write a single JSON file with all unique English words across all translations.
+    Each entry is just {"word": "..."}, sorted by avg TF-IDF descending.
+    Pāli words (diacritical characters) are excluded.
+    """
+    stems     = [src.stem for src in sources]
+    all_words = set()
+    for d in comp.values():
+        all_words.update(d["row_map"].keys())
+
+    # filter to English-only, sort by avg TF-IDF descending
+    english_words = [w for w in all_words if is_english(w)]
+    english_words.sort(
+        key=lambda w: sum(comp[s]["row_map"].get(w, {}).get("score", 0.0) for s in stems) / len(stems),
+        reverse=True,
+    )
+
+    payload = {"word": list(dict.fromkeys(english_words))}  # dict.fromkeys preserves order, drops dupes
+
+    dest.write_text(json.dumps(payload, ensure_ascii=False, indent=2), encoding="utf-8")
+    print(f"Written  → {dest}  ({len(payload['word']):,} English terms)")
+
+
+# ---------------------------------------------------------------------------
+# Single-translation Markdown renderer
 # ---------------------------------------------------------------------------
 
 def render_md(rows: list[dict], source: pathlib.Path) -> str:
     today   = date.today().isoformat()
     total_w = sum(r["count"] for r in rows)
     n       = len(rows)
-    stem    = source.stem                            # e.g. "en-1-rhys_davids"
+    stem    = source.stem
 
-    # ── counts per band ──────────────────────────────────────────────────────
     band_counts: dict[str, int] = {}
     for r in rows:
         b = band(r["score"])
         band_counts[b] = band_counts.get(b, 0) + 1
 
-    # ── top / bottom 50 for the narrative sections ───────────────────────────
     top    = rows[:50]
     bottom = rows[-50:]
 
     L: list[str] = []
 
-    # frontmatter
     L += [
         "---",
         f"title: TF-IDF Vocabulary Analysis — {stem}",
@@ -192,7 +240,6 @@ def render_md(rows: list[dict], source: pathlib.Path) -> str:
         "",
     ]
 
-    # title + intro
     L += [
         f"# TF-IDF Vocabulary Analysis — {stem}",
         "",
@@ -209,7 +256,6 @@ def render_md(rows: list[dict], source: pathlib.Path) -> str:
         "",
     ]
 
-    # methodology
     L += [
         "## Methodology",
         "",
@@ -245,7 +291,6 @@ def render_md(rows: list[dict], source: pathlib.Path) -> str:
         "",
     ]
 
-    # band distribution
     L += [
         "## Distribution by Band",
         "",
@@ -258,12 +303,10 @@ def render_md(rows: list[dict], source: pathlib.Path) -> str:
         L.append(f"| {label} | {c:,} | {pct}% |")
     L += ["", "---", ""]
 
-    # top 50 narrative
     L += [
         "## Most Distinctive Words (highest TF-IDF)",
         "",
         "Words that appear **frequently in this text** yet are **rare or absent in general English**.",
-        "These are the genuine lexical fingerprints of the Rhys Davids translation.",
         "",
     ]
     for i, r in enumerate(top, 1):
@@ -271,12 +314,10 @@ def render_md(rows: list[dict], source: pathlib.Path) -> str:
         L.append(f"**{i}. {r['word']}** — count: {r['count']}, TF-IDF: {r['score']:,.0f}, IDF: {r['idf']} {b}")
     L += ["", "---", ""]
 
-    # bottom 50 narrative
     L += [
         "## Least Distinctive Words (lowest TF-IDF)",
         "",
-        "Words that appear in this text but are also extremely common in general English,",
-        "giving them a near-zero TF-IDF score despite sometimes occurring hundreds of times here.",
+        "Words that appear in this text but are also extremely common in general English.",
         "",
     ]
     for i, r in enumerate(reversed(bottom), 1):
@@ -284,7 +325,6 @@ def render_md(rows: list[dict], source: pathlib.Path) -> str:
         L.append(f"**{i}. {r['word']}** — count: {r['count']}, TF-IDF: {r['score']:,.2f}, IDF: {r['idf']} {b}")
     L += ["", "---", ""]
 
-    # full ranked table
     L += [
         "## Full Ranked Table",
         "",
@@ -302,32 +342,217 @@ def render_md(rows: list[dict], source: pathlib.Path) -> str:
         "",
         "---",
         "",
-        "## Observations",
+        f"*Corpus reference: Reuters-21578 (10,788 newswire documents) via NLTK · "
+        f"sklearn TfidfVectorizer(smooth\\_idf=True, lowercase=True).*  ",
+        f"*Generated {today} by `generate_termbase.py`.*",
+    ]
+
+    return "\n".join(L)
+
+
+# ---------------------------------------------------------------------------
+# Multi-translation comparison
+# ---------------------------------------------------------------------------
+
+def build_comparison(sources: list[pathlib.Path]) -> dict:
+    """
+    Returns::
+
+        {
+          stem: {
+            "rows":    [sorted row dicts],
+            "row_map": {word: row_dict},
+            "total":   int,
+          },
+          ...
+        }
+    """
+    result = {}
+    for src in sources:
+        tf    = count_tf(src)
+        rows  = build_rows(tf)
+        result[src.stem] = {
+            "rows":    rows,
+            "row_map": {r["word"]: r for r in rows},
+            "total":   sum(tf.values()),
+        }
+    return result
+
+
+def render_comparison_md(
+    comp: dict,
+    sources: list[pathlib.Path],
+) -> str:
+    """
+    Produce a side-by-side comparison report for two or more translations.
+
+    Sections
+    --------
+    1. Summary table — unique terms, total tokens, top-5 words per translation
+    2. Shared vocabulary — words in ALL translations, ranked by avg TF-IDF
+    3. Signature terms — top-25 words per translation absent/much lower elsewhere
+    4. Full cross-translation table — all words, one score column per translation
+    """
+    today  = date.today().isoformat()
+    stems  = [src.stem for src in sources]
+    n_src  = len(stems)
+
+    # ── universe of all words ────────────────────────────────────────────────
+    all_words: set[str] = set()
+    for d in comp.values():
+        all_words.update(d["row_map"].keys())
+
+    # ── per-word cross-translation data ─────────────────────────────────────
+    cross: dict[str, dict[str, float]] = {
+        word: {s: comp[s]["row_map"].get(word, {}).get("score", 0.0) for s in stems}
+        for word in all_words
+    }
+
+    # ── shared words (appear in every translation) ───────────────────────────
+    shared_words = [w for w in all_words if all(cross[w][s] > 0 for s in stems)]
+    shared_words.sort(
+        key=lambda w: sum(cross[w][s] for s in stems) / n_src,
+        reverse=True,
+    )
+
+    # ── signature words per translation ──────────────────────────────────────
+    # A word is a "signature" if its score in this translation is ≥ 3×
+    # the score in every other translation (or the word is absent elsewhere).
+    def signatures(stem: str, top_n: int = 25) -> list[str]:
+        out = []
+        for r in comp[stem]["rows"]:
+            w, me = r["word"], r["score"]
+            if me == 0:
+                continue
+            others = [cross[w][s] for s in stems if s != stem]
+            if all((me >= 3 * o) if o > 0 else True for o in others):
+                out.append(w)
+                if len(out) >= top_n:
+                    break
+        return out
+
+    # ── IDF lookup helper ────────────────────────────────────────────────────
+    def word_idf(word: str) -> float:
+        for d in comp.values():
+            if word in d["row_map"]:
+                return d["row_map"][word]["idf"]
+        return IDF_UNKNOWN
+
+    # ── render ───────────────────────────────────────────────────────────────
+    stems_label  = " · ".join(stems)
+    score_header = " | ".join(f"TF-IDF ({s})" for s in stems)
+    score_sep    = " | ".join("---" for _ in stems)
+
+    L: list[str] = []
+
+    # frontmatter
+    L += [
+        "---",
+        f"title: TF-IDF Comparison — {stems_label}",
+        "corpus: Reuters-21578 (10,788 newswire documents) via NLTK · sklearn TfidfVectorizer(smooth_idf=True)",
+        "method: TF × IDF — per-translation term frequencies vs. Reuters IDF",
+        f"generated: {today}",
+        f"translations: {n_src}",
+        f"combined_vocabulary: {len(all_words):,}",
+        f"shared_vocabulary: {len(shared_words):,}",
+        "status: draft",
+        "---",
         "",
-        "### 1. Text-exclusive coinages dominate the top",
-        "The highest-scoring terms are overwhelmingly **Rhys Davids coinages** —"
-        " Victorian English vocabulary pressed into service for Pāli Abhidhamma concepts.",
-        "Words like *self-collectedness*, *wieldiness*, *tractableness*, *pliancy* barely exist"
-        " outside this translation, giving them near-maximum IDF.",
+        f"# TF-IDF Comparison — {n_src} Translations",
         "",
-        "### 2. Buddhist technical register",
-        "A tight cluster — *skandha*, *jhāna*, *āsava*, *supramundane*, *incorporeal* —"
-        " forms the Buddhist technical register. These score extremely high because they belong"
-        " to a specialist domain absent from general English, and they recur in every paragraph.",
+        f"Generated **{today}** · comparing **{n_src} translations** against the Reuters-21578 IDF corpus.",
         "",
-        "### 3. The 'falsely familiar' vocabulary problem",
-        "Rhys Davids consciously chose ordinary English words — *zest*, *ease*, *synergies*,"
-        " *contact*, *feeling* — to avoid Pāli transliteration."
-        " These occupy a mid-tier TF-IDF band: very frequent here, but their IDF is moderate"
-        " because they do have a general English presence. They look everyday but carry"
-        " specialist meaning.",
+        "| Metric | Value |",
+        "|--------|-------|",
+        f"| Translations compared | {n_src} |",
+        f"| Combined vocabulary | {len(all_words):,} unique terms |",
+        f"| Shared vocabulary | {len(shared_words):,} terms present in all translations |",
+        f"| Translation-exclusive terms | {len(all_words) - len(shared_words):,} terms in only one translation |",
         "",
-        "### 4. Repetition as structure inflates TF",
-        "The *Dhammasaṅgaṇī* is formally repetitive by design (Buddhist catechism)."
-        " Every mental factor is defined with the same formula across hundreds of consciousness"
-        " types. Even moderately rare words (*volition*, *mindfulness*, *concomitant*)"
-        " achieve unusually high raw frequencies relative to any other English text of"
-        " equivalent length.",
+        "---",
+        "",
+    ]
+
+    # ── 1. Per-translation summary ───────────────────────────────────────────
+    L += [
+        "## Per-Translation Summary",
+        "",
+        "| Translation | Unique terms | Total tokens | Top-5 words (TF-IDF) |",
+        "|-------------|-------------|--------------|----------------------|",
+    ]
+    for stem in stems:
+        d    = comp[stem]
+        top5 = ", ".join(r["word"] for r in d["rows"][:5])
+        L.append(f"| `{stem}` | {len(d['rows']):,} | {d['total']:,} | {top5} |")
+    L += ["", "---", ""]
+
+    # ── 2. Shared vocabulary top-50 ──────────────────────────────────────────
+    L += [
+        "## Shared Vocabulary — Top 50",
+        "",
+        "Words present in every translation, ranked by average TF-IDF.",
+        "High **Δ** means the word is lexically dominant in one translation but not others.",
+        "",
+        f"| Rank | Word | IDF | {score_header} | Avg | Δ |",
+        f"|------|------|-----|{score_sep}|-----|---|",
+    ]
+    for i, word in enumerate(shared_words[:50], 1):
+        scores      = [cross[word][s] for s in stems]
+        avg         = sum(scores) / n_src
+        delta       = max(scores) - min(scores)
+        idf_val     = word_idf(word)
+        score_cells = " | ".join(f"{sc:,.0f}" for sc in scores)
+        L.append(f"| {i} | **{word}** | {idf_val} | {score_cells} | {avg:,.0f} | {delta:,.0f} |")
+    L += ["", "---", ""]
+
+    # ── 3. Signature terms per translation ───────────────────────────────────
+    L += [
+        "## Signature Terms per Translation",
+        "",
+        "Words where one translation's TF-IDF score is ≥ 3× higher than all others",
+        "(or absent elsewhere). These reveal each translator's distinctive vocabulary choices.",
+        "",
+    ]
+    for stem in stems:
+        sigs = signatures(stem)
+        L += [f"### `{stem}`", ""]
+        if sigs:
+            for rank, word in enumerate(sigs, 1):
+                me         = cross[word][stem]
+                others_str = "  ".join(
+                    f"`{s}`: {cross[word][s]:,.0f}" for s in stems if s != stem
+                )
+                L.append(f"**{rank}. {word}** — TF-IDF: {me:,.0f}  ({others_str})")
+        else:
+            L.append("*No exclusive signature terms found.*")
+        L.append("")
+    L += ["---", ""]
+
+    # ── 4. Full cross-translation table ──────────────────────────────────────
+    all_sorted = sorted(
+        all_words,
+        key=lambda w: sum(cross[w][s] for s in stems) / n_src,
+        reverse=True,
+    )
+
+    L += [
+        "## Full Cross-Translation Table",
+        "",
+        f"All {len(all_words):,} terms in at least one translation, sorted by average TF-IDF.",
+        "Score = 0 means the word is absent from that translation.",
+        "",
+        f"| Rank | Word | IDF | {score_header} | Avg | Band (avg) |",
+        f"|------|------|-----|{score_sep}|-----|-----------|",
+    ]
+    for i, word in enumerate(all_sorted, 1):
+        scores      = [cross[word][s] for s in stems]
+        avg         = sum(scores) / n_src
+        idf_val     = word_idf(word)
+        b           = band(avg)
+        score_cells = " | ".join(f"{sc:,.2f}" for sc in scores)
+        L.append(f"| {i} | **{word}** | {idf_val} | {score_cells} | {avg:,.2f} | {b} |")
+
+    L += [
         "",
         "---",
         "",
@@ -339,64 +564,66 @@ def render_md(rows: list[dict], source: pathlib.Path) -> str:
     return "\n".join(L)
 
 
+
 # ---------------------------------------------------------------------------
-# Main
+# CLI
 # ---------------------------------------------------------------------------
 
 def _parse_args() -> argparse.Namespace:
     p = argparse.ArgumentParser(
-        description="Compute TF-IDF vocabulary analysis for a markdown translation file.",
+        description=(
+            "Compute TF-IDF vocabulary analysis for one or more markdown "
+            "translation files. Produces an individual report per file; when "
+            "multiple files are given, also produces a side-by-side comparison."
+        ),
     )
     p.add_argument(
         "--input", "-i",
         metavar="PATH",
+        nargs="+",
         default=None,
         help=(
-            "Path to the source markdown translation file "
+            "One or more paths to source markdown translation files. "
             f"(default: {_DEFAULT_INPUT})"
         ),
     )
     p.add_argument(
-        "--output", "-o",
-        metavar="PATH",
+        "--outdir", "-o",
+        metavar="DIR",
         default=None,
         help=(
-            "Path for the output .md report. "
-            "Defaults to scripts/output/<input-stem>_termbase.md"
+            "Directory for all output reports. "
+            f"(default: {_DEFAULT_OUTDIR})"
         ),
     )
     return p.parse_args()
 
 
+# ---------------------------------------------------------------------------
+# Main
+# ---------------------------------------------------------------------------
+
 def main() -> None:
-    args = _parse_args()
+    args   = _parse_args()
+    outdir = pathlib.Path(args.outdir).resolve() if args.outdir else _DEFAULT_OUTDIR
+    outdir.mkdir(parents=True, exist_ok=True)
 
-    en_source = pathlib.Path(args.input).resolve() if args.input else _DEFAULT_INPUT
+    sources = (
+        [pathlib.Path(p).resolve() for p in args.input]
+        if args.input
+        else [_DEFAULT_INPUT]
+    )
 
-    if args.output:
-        output = pathlib.Path(args.output).resolve()
-    else:
-        output = HERE / "output" / f"{en_source.stem}_termbase.md"
+    for src in sources:
+        if not src.exists():
+            raise FileNotFoundError(f"Translation not found:\n  {src}")
 
-    if not en_source.exists():
-        raise FileNotFoundError(f"Translation not found:\n  {en_source}")
+    # ── Build TF-IDF data ────────────────────────────────────────────────────
+    comp       = build_comparison(sources)
+    stems_slug = "_vs_".join(src.stem for src in sources) if len(sources) > 1 else sources[0].stem
 
-    output.parent.mkdir(parents=True, exist_ok=True)
-
-    print(f"Reading  {en_source.name} …")
-    tf = count_tf(en_source)
-    print(f"  {len(tf):,} unique content tokens")
-
-    rows = build_rows(tf)
-    print(f"  {len(rows):,} terms scored")
-
-    md = render_md(rows, en_source)
-    output.write_text(md, encoding="utf-8")
-
-    word_count = len(md.split())
-    print(f"  output word count ≈ {word_count:,}")
-    print(f"Written  → {output}")
-
+    # ── Combined JSON (all sources, English words only) ──────────────────────
+    write_combined_json(comp, sources, outdir / (stems_slug + "_termbase.json"))
 
 if __name__ == "__main__":
     main()
