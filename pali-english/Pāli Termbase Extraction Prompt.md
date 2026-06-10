@@ -203,6 +203,29 @@ Do NOT repeat Common Surface Forms or Lemma for additional senses.
 
 Leave repeated cells blank.
 
+#### Using `pi-1.meaning.json` as the sense reference
+
+When a `pi-1.meaning.json` file (output of `pali_keyword/generate_pali_meaning.py`) is provided alongside the Pāli text, use it as the authoritative starting point for each lemma's senses:
+
+* Each entry has the shape `{ "lemma": ..., "variants": [...], "meaning": [...] }`.
+* Each item in `meaning` corresponds to **one DPD sense** (e.g. `dhamma 1.01`, `dhamma 1.02`, ...) and has the form:
+
+  ```text
+  "(<part of speech>) <near-synonym 1>; <near-synonym 2>; ..."
+  ```
+
+  e.g. `"(masculine noun) quality; characteristic; trait; inherent quality"`.
+
+  The leading `(part of speech)` (e.g. `masculine noun`, `feminine noun`, `neuter noun`, `adjective`, `indeclinable`, `present tense verb`, `past participle`, ...) describes the grammatical category of that sense — use it to inform the doctrinal framing (e.g. a verb sense should yield an action/process Sense, not a noun phrase) but do NOT copy it verbatim into the Sense or Canonical Translation columns.
+
+* Treat each `meaning` array item as the seed for **one candidate row** (one distinct sense):
+  * Use the `variants` array as the basis for **Common Surface Forms** (select representative forms per Rule 4).
+  * Use the semicolon-separated near-synonym group (after the part-of-speech prefix) to derive the **Sense** (a precise doctrinal description per Rule 7) and the **Canonical Translation** (the preferred scholarly term, usually the first or most doctrinally standard term in the group, per Rule 8).
+  * Assign **Domain** and **Sense Tag** per Rules 6 and 9.
+* Not every `meaning` item is necessarily doctrinal — drop senses that are purely grammatical, lexicographic, or proper-noun (e.g. "(letter) letter p; 29th letter of the alphabet", "(masculine noun) name of king Mahāsudassana's palace") per Rule 1/2.
+* Where multiple `meaning` items express the same underlying doctrinal sense in different words (regardless of part of speech), merge them into a single row rather than creating duplicate senses (per Rule 12).
+* Cross-check the JSON-derived senses against the Pāli text itself — only keep senses that are doctrinally relevant and, where possible, attested or plausible in context. You may add senses not present in the JSON if the text clearly requires them.
+
 ---
 
 ### 6. Assign Domains
@@ -387,4 +410,12 @@ Paste the Pāli text below:
 
 ```text
 [PASTE PĀLI TEXT HERE]
+```
+
+## Optional Input: Sense Reference (`pi-1.meaning.json`)
+
+If available, also provide `pali_keyword/output/pi-1.meaning.json` (or the equivalent `pi-N.meaning.json` for the source). Use it as described in Rule 5 ("Using `pi-1.meaning.json` as the sense reference") to seed candidate senses, surface forms, and canonical translations for each lemma.
+
+```json
+[PASTE pi-N.meaning.json CONTENTS HERE, IF AVAILABLE]
 ```

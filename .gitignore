@@ -14,5 +14,5 @@
 .claude/worktrees/
 
 
-pali-english/pali_english/db_query/
+pali-english\db_query\dpd.db\dpd.db
 .venv/
