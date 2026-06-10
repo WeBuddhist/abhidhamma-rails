@@ -12,3 +12,6 @@
 
 # Claude Code worktrees
 .claude/worktrees/
+
+
+pali-english/pali_english/db_query/
