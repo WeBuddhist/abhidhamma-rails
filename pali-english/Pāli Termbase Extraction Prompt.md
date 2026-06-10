@@ -313,7 +313,9 @@ Do not localize for beginners.
 
 ### 9. Create Machine-Friendly Sense Tags
 
-Generate unique snake_case identifiers.
+Generate unique snake_case identifiers that name the **doctrinal sense itself**, not just the first word of a near-synonym list.
+
+A Sense Tag must be derived from the full doctrinal **Sense** (Rule 7) and **Canonical Translation** (Rule 8) for that row — not from the raw, unfiltered first synonym in `pi-1.meaning.json`'s `meaning` array.
 
 Examples:
 
@@ -331,7 +333,31 @@ Dependent arising
 → dependent_arising
 ```
 
-Tags should remain stable across future extractions.
+#### Deriving tags from `pi-1.meaning.json`
+
+Each `meaning` item is a raw, semicolon-separated group, e.g.:
+
+```text
+"(masculine noun) is; becomes"
+"(masculine noun) exists (for)"
+"(masculine noun) stays; remains; continues to be"
+```
+
+Do NOT tag these as `is`, `exists_for`, `stays` — single near-synonyms taken in isolation are ambiguous, not unique across lemmas, and don't describe a doctrinal sense. Instead:
+
+1. First resolve the row's **Sense** and **Canonical Translation** per Rules 7–8 (interpreting the whole synonym group plus the part-of-speech, in light of the source text).
+2. Build the Sense Tag from that resolved meaning, e.g.:
+
+```text
+"(masculine noun) is; becomes"               → Sense: "Existence, coming into being" → tag: existence
+"(masculine noun) stays; remains; continues to be" → Sense: "Persistence, continuation of a state" → tag: persistence
+"(masculine noun) quality; characteristic; trait; inherent quality" → Sense: "Inherent quality or characteristic" → tag: inherent_quality
+"(masculine noun) teaching; discourse; doctrine" → Sense: "Buddha's teaching, doctrine" → tag: teaching
+```
+
+3. If two different lemmas (or two senses of the same lemma) would otherwise produce the same tag, disambiguate by appending a distinguishing word from the Sense or the lemma itself (e.g. `formation_mental` vs `formation_volitional`), rather than a bare numeric suffix.
+
+Tags should remain stable across future extractions: once a Sense Tag is assigned to a doctrinal sense, reuse the exact same tag every time that sense recurs, for any lemma.
 
 ---
 
