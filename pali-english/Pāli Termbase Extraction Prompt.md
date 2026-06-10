@@ -8,8 +8,8 @@ Your task is to analyze a Pāli text and produce a translation termbase suitable
 
 Extract meaningful Pāli doctrinal vocabulary from the text and generate a termbase using the following schema:
 
-| Common Surface Forms | Lemma | Domain | Sense | Canonical Translation | Sense Tag |
-| -------------------- | ----- | ------ | ----- | --------------------- | --------- |
+| Common Surface Forms | Lemma | Domain | Sense | Canonical Translation | General Translation | Beginner Translation | Sense Tag |
+| -------------------- | ----- | ------ | ----- | --------------------- | -------------------- | --------------------- | --------- |
 
 The termbase should capture:
 
@@ -17,12 +17,13 @@ The termbase should capture:
 * translation-relevant senses
 * canonical scholarly renderings
 * domain-specific usage
+* consistent audience-specific renderings (academic, general, beginner)
 
-The termbase is intended to support future translation.
+The termbase is intended to support future translation across multiple audiences.
 
-It is NOT intended for a specific audience.
+The **Canonical Translation** column is audience-independent: do not simplify it for beginners, children, or general readers (see Rule 8).
 
-Do not simplify terminology for beginners, children, or general readers.
+The **General Translation** and **Beginner Translation** columns provide deliberate, consistent simplifications of the same sense for less specialized readers (see Rule 13). Every occurrence of the same Sense Tag must use identical wording in these columns across the whole corpus.
 
 ---
 
@@ -192,12 +193,12 @@ Do not collapse unrelated meanings into a single entry.
 
 Example:
 
-| Common Surface Forms                                            | Lemma  | Domain     | Sense                    | Canonical Translation | Sense Tag     |
-| --------------------------------------------------------------- | ------ | ---------- | ------------------------ | --------------------- | ------------- |
-| dhammo, dhammaṃ, dhammā, dhamme, dhammassa, dhammānaṃ, dhammesu | dhamma | Abhidhamma | Phenomenon, state, thing | phenomenon            | phenomenon    |
-|                                                                 |        | Abhidhamma | Mental object            | mental object         | mental_object |
-|                                                                 |        | Sutta      | Buddha's teaching        | Dhamma                | teaching      |
-|                                                                 |        | Vinaya     | Doctrine, teaching       | doctrine              | doctrine      |
+| Common Surface Forms                                            | Lemma  | Domain     | Sense                    | Canonical Translation | General Translation | Beginner Translation | Sense Tag     |
+| --------------------------------------------------------------- | ------ | ---------- | ------------------------ | --------------------- | -------------------- | --------------------- | ------------- |
+| dhammo, dhammaṃ, dhammā, dhamme, dhammassa, dhammānaṃ, dhammesu | dhamma | Abhidhamma | Phenomenon, state, thing | phenomenon            | mental or physical phenomenon | thing that arises and passes away | phenomenon    |
+|                                                                 |        | Abhidhamma | Mental object            | mental object         | object of the mind    | something the mind thinks about | mental_object |
+|                                                                 |        | Sutta      | Buddha's teaching        | Dhamma                 | the Buddha's teaching | the Buddha's teaching | teaching      |
+|                                                                 |        | Vinaya     | Doctrine, teaching       | doctrine               | teaching              | the rule or teaching  | doctrine      |
 
 Do NOT repeat Common Surface Forms or Lemma for additional senses.
 
@@ -381,14 +382,49 @@ When uncertain, prefer broader doctrinally established senses.
 
 ---
 
-### 13. Output Format
+### 13. Generate Consistent Audience-Specific Translations
+
+In addition to the audience-independent **Canonical Translation** (Rule 8), generate two further renderings of the same sense for less specialized readers:
+
+* **General Translation** — clear, modern English suitable for an educated general reader who knows basic Buddhist concepts but not Pāli or technical Abhidhamma terminology. May use a more familiar synonym or short phrase, but must remain doctrinally accurate and map onto the same sense.
+* **Beginner Translation** — plain, everyday English suitable for someone new to Buddhism. Avoid jargon and Pāli loanwords; use short, concrete, descriptive phrasing or brief explanatory paraphrase. Must still preserve the core doctrinal meaning — simplify wording, not meaning.
+
+Examples:
+
+```text
+vedanā (feeling, aggregate of feeling)
+  Canonical:  feeling
+  General:    felt experience (pleasant, unpleasant, or neutral)
+  Beginner:   how something feels — good, bad, or neutral
+
+saṅkhāra (volitional formations)
+  Canonical:  formations
+  General:    mental formations / volitional activities
+  Beginner:   the mind's habits and intentions that shape actions
+
+paṭiccasamuppāda (dependent origination)
+  Canonical:  dependent origination
+  General:    dependent arising
+  Beginner:   how one thing leads to another in a chain of causes
+```
+
+#### Consistency requirement
+
+* For a given **Sense Tag**, the General Translation and Beginner Translation must be **identical every time that Sense Tag occurs** — within this termbase and across future extractions, exactly like the Canonical Translation (Rule 9).
+* Do not introduce a new General/Beginner wording for a sense that already has an established Sense Tag elsewhere in the termbase; reuse the existing wording.
+* If the Canonical Translation is already simple enough to suit general and beginner readers (e.g. "feeling", "mindfulness"), it is acceptable to repeat the same word in all three columns — do not force artificial variation.
+* General and Beginner Translations should never contradict or narrow the doctrinal scope defined by the Sense column; they are different registers of the same sense, not different senses.
+
+---
+
+### 14. Output Format
 
 Output ONLY a markdown table.
 
 Use exactly:
 
-| Common Surface Forms | Lemma | Domain | Sense | Canonical Translation | Sense Tag |
-| -------------------- | ----- | ------ | ----- | --------------------- | --------- |
+| Common Surface Forms | Lemma | Domain | Sense | Canonical Translation | General Translation | Beginner Translation | Sense Tag |
+| -------------------- | ----- | ------ | ----- | --------------------- | -------------------- | --------------------- | --------- |
 
 No explanations.
 
