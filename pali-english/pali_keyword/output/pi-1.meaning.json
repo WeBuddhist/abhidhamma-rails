@@ -1,0 +1,6577 @@
+{
+  "source": "C:\\Users\\geshe lobzang tseten\\repos\\abhidhamma-rails\\pali-english\\pali_keyword\\output\\pi-1.keyword.json",
+  "pali_keyword": [
+    {
+      "lemma": "hoti",
+      "variants": [
+        "hoti",
+        "honti"
+      ],
+      "meaning": [
+        "is; becomes",
+        "exists (for)",
+        "stays; remains; continues to be"
+      ]
+    },
+    {
+      "lemma": "dhamma",
+      "variants": [
+        "dhammā",
+        "dhammānaṃ",
+        "dhamme",
+        "dhammehi",
+        "dhammesu",
+        "dhammaṃ",
+        "dhammo"
+      ],
+      "meaning": [
+        "nature; character",
+        "quality; characteristic; trait; inherent quality",
+        "teaching; discourse; doctrine",
+        "mental phenomena; thoughts",
+        "mental states",
+        "matter; thing; phenomenon",
+        "truth; reality; principle; truth behind the teaching"
+      ]
+    },
+    {
+      "lemma": "pa",
+      "variants": [
+        "pe"
+      ],
+      "meaning": [
+        "drinking; who drinks",
+        "forward; towards; forth; actively",
+        "protecting; guarding",
+        "(gram) letter p; 29th letter of the alphabet; labial consonant"
+      ]
+    },
+    {
+      "lemma": "rūpa",
+      "variants": [
+        "rūpaṃ",
+        "rūpassa",
+        "rūpāni",
+        "rūpasmiṃ",
+        "rūpamhi",
+        "rūpā"
+      ],
+      "meaning": [
+        "matter; material thing; materiality; experience of material world; physical objects of consciousness; first of the five aggregates",
+        "body; physical body; material bodily",
+        "(object of the eye) form; material form; shape; sight; appearance",
+        "of character; having nature of; of type; of kind; having the quality of; appearing as",
+        "as if; like someone",
+        "(gram) form of a word",
+        "(gram) sound of a word"
+      ]
+    },
+    {
+      "lemma": "samaya",
+      "variants": [
+        "samaye"
+      ],
+      "meaning": [
+        "time; occasion",
+        "right time; suitable occasion",
+        "condition; state",
+        "gathering; massing; congregation; assembly",
+        "religion; doctrine",
+        "learning; study; art; science"
+      ]
+    },
+    {
+      "lemma": "ya",
+      "variants": [
+        "Yaṃ",
+        "Yasmiṃ",
+        "ye",
+        "Yā",
+        "Yo",
+        "yamhi",
+        "yāya",
+        "yena",
+        "yesaṃ",
+        "ya"
+      ],
+      "meaning": [
+        "(gram) letter y; 34th letter of the alphabet; palatal semi-vowel",
+        "whoever; whatever; whichever",
+        "(gram) ya; suffix used to form impersonal and passive verbs",
+        "(gram) ya; conjugational sign of group 3 divādigaṇa verbs"
+      ]
+    },
+    {
+      "lemma": "ima",
+      "variants": [
+        "ime",
+        "Imāni",
+        "imesaṃ",
+        "imā",
+        "imassa"
+      ],
+      "meaning": [
+        "this",
+        "most; -est"
+      ]
+    },
+    {
+      "lemma": "va",
+      "variants": [
+        "vā"
+      ],
+      "meaning": [
+        "like; as",
+        "even; this very",
+        "as soon as",
+        "or",
+        "(gram) letter v; 37th letter of the alphabet; dento-labial semi-vowel"
+      ]
+    },
+    {
+      "lemma": "na",
+      "variants": [
+        "na"
+      ],
+      "meaning": [
+        "no; not; neither; nor",
+        "(adds a question mark) surely?; does one not?",
+        "not",
+        "(gram) negative prefix na",
+        "has no desire to eat; loses all interest in food",
+        "and not even; certainly not",
+        "recently; soon; not after a long time"
+      ]
+    },
+    {
+      "lemma": "ca",
+      "variants": [
+        "ca"
+      ],
+      "meaning": [
+        "6th item in a numerical list",
+        "(gram) letter c; 14th letter of the alphabet; palatal consonant",
+        "and; both",
+        "but; although; and if",
+        "(gram) and; as well as; but; terms and conditions apply to a rule"
+      ]
+    },
+    {
+      "lemma": "kusala",
+      "variants": [
+        "kusalā",
+        "kusalaṃ",
+        "kusalato",
+        "kusalassa",
+        "kusalānaṃ",
+        "kusalesu"
+      ],
+      "meaning": [
+        "healthy; beneficial; useful; good; wholesome; karmically profitable",
+        "skilled; clever; competent; expert; adept (in)",
+        "master (of); expert (in); adept (in) familiar (with); person skilled (in)",
+        "good; benefit; merit; good deed; doing good",
+        "health; how are you?"
+      ]
+    },
+    {
+      "lemma": "jhāna",
+      "variants": [
+        "jhānaṃ",
+        "jhānassa",
+        "jhāne"
+      ],
+      "meaning": [
+        "state of deep meditative calm",
+        "meditation; stage of meditation",
+        "having meditation; related to meditation",
+        "thinking about; contemplating"
+      ]
+    },
+    {
+      "lemma": "avikkhepa",
+      "variants": [
+        "avikkhepo"
+      ],
+      "meaning": [
+        "calmness; tranquillity; mental balance; non-distraction"
+      ]
+    },
+    {
+      "lemma": "aya",
+      "variants": [
+        "ayaṃ"
+      ],
+      "meaning": [
+        "good luck; good fortune",
+        "coming; going",
+        "iron"
+      ]
+    },
+    {
+      "lemma": "bhūmi",
+      "variants": [
+        "bhūmīsu",
+        "bhūmiyā"
+      ],
+      "meaning": [
+        "earth; ground",
+        "land; region; area; realm",
+        "grounds; basis; foundation",
+        "plane; level; stage; sphere"
+      ]
+    },
+    {
+      "lemma": "vipāka",
+      "variants": [
+        "vipāko",
+        "vipākato",
+        "vipākaṃ",
+        "vipākā",
+        "vipākesu"
+      ],
+      "meaning": [
+        "(of an action) result; outcome; consequence; fruit",
+        "with result; having consequence"
+      ]
+    },
+    {
+      "lemma": "bhāveti",
+      "variants": [
+        "bhāveti"
+      ],
+      "meaning": [
+        "cultivates; develops"
+      ]
+    },
+    {
+      "lemma": "viharati",
+      "variants": [
+        "viharati",
+        "viharantaṃ"
+      ],
+      "meaning": [
+        "lives; dwells; stays (in)",
+        "stays; remains; continues; dwells; abides (in)"
+      ]
+    },
+    {
+      "lemma": "upasampajja",
+      "variants": [
+        "upasampajja"
+      ],
+      "meaning": [
+        "reaching; attaining; arriving at",
+        "becoming fully ordained; taking higher ordination",
+        "undertaking; taking up; putting into action"
+      ]
+    },
+    {
+      "lemma": "citta",
+      "variants": [
+        "cittaṃ",
+        "cittassa",
+        "cittā",
+        "cittena"
+      ],
+      "meaning": [
+        "mind; heart",
+        "thought; intention; idea",
+        "decorated; beautiful; adorned",
+        "varied; different; diverse",
+        "painting; picture; artwork; illusion",
+        "name of a lay-disciple; great disciple of the Buddha; foremost layman in giving Dhamma talks; Citta Macchikāsaṇḍika",
+        "name of a monk; Citta Hatthisāriputta"
+      ]
+    },
+    {
+      "lemma": "bāhira",
+      "variants": [
+        "bāhiraṃ",
+        "bāhirā"
+      ],
+      "meaning": [
+        "outer; external",
+        "outlying; remote",
+        "outside; external",
+        "outsider; (comm) outside of the eight noble individuals"
+      ]
+    },
+    {
+      "lemma": "viññāṇakkhandha",
+      "variants": [
+        "viññāṇakkhandho",
+        "viññāṇakkhandhaṃ",
+        "viññāṇakkhandhassa"
+      ],
+      "meaning": [
+        "aggregate of consciousness; mass of awareness; fifth of the five aggregates"
+      ]
+    },
+    {
+      "lemma": "magga",
+      "variants": [
+        "maggaṃ",
+        "maggā",
+        "maggo"
+      ],
+      "meaning": [
+        "road; path; track; way",
+        "way; means; method",
+        "coat; layering",
+        "inlet; outlet; pipe",
+        "series; sequence; group",
+        "with a road; with a path",
+        "sexual organ"
+      ]
+    },
+    {
+      "lemma": "ka",
+      "variants": [
+        "Ka",
+        "kāyo",
+        "kāyaṃ"
+      ],
+      "meaning": [
+        "who?; what?; which?",
+        "where?",
+        "1st item in a numerical list",
+        "water"
+      ]
+    },
+    {
+      "lemma": "āhāra",
+      "variants": [
+        "āhāro",
+        "āhārā",
+        "āhāraṃ"
+      ],
+      "meaning": [
+        "food (for); fuel (for); sustenance (for); nutriment (for); (comm) condition",
+        "eating; taking; feeding on"
+      ]
+    },
+    {
+      "lemma": "abyākata",
+      "variants": [
+        "abyākatā",
+        "abyākataṃ"
+      ],
+      "meaning": [
+        "undeclared; unexplained; not stated (by); indeterminate",
+        "(abhi) indeterminate as to wholesomeness or unwholesomeness; neither skilful nor unskilful; functional, resultant or materialty"
+      ]
+    },
+    {
+      "lemma": "lokuttara",
+      "variants": [
+        "lokuttaraṃ",
+        "lokuttarassa",
+        "lokuttarā"
+      ],
+      "meaning": [
+        "supra-mundane; transcendental"
+      ]
+    },
+    {
+      "lemma": "uppajjati",
+      "variants": [
+        "uppajjati",
+        "uppajjissati",
+        "uppajje",
+        "uppajjanti"
+      ],
+      "meaning": [
+        "appears; arises; occurs; takes place (for or in)",
+        "is reborn; re-arises (in)",
+        "becomes available (for); accrues (to); crops up (for)"
+      ]
+    },
+    {
+      "lemma": "vedanā",
+      "variants": [
+        "vedanā",
+        "vedanāya",
+        "vedanaṃ"
+      ],
+      "meaning": [
+        "(pleasant, unpleasant or neutral) felt experience; feeling; feeling tone; hedonic tone; sensation (coming from six sense experience); second of the five aggregates",
+        "pain"
+      ]
+    },
+    {
+      "lemma": "pana",
+      "variants": [
+        "pana"
+      ],
+      "meaning": [
+        "moreover; and so; but; or; however"
+      ]
+    },
+    {
+      "lemma": "kāma",
+      "variants": [
+        "kāmehi",
+        "kāmesu"
+      ],
+      "meaning": [
+        "wishing; wanting; would be delighted (to)",
+        "enjoying; fond (of); who likes; who loves",
+        "sense desire; sensual pleasure (of)",
+        "(objects of) pleasure; sensual pleasure; sexual pleasure; sensual tempation"
+      ]
+    },
+    {
+      "lemma": "ajjhattika",
+      "variants": [
+        "ajjhattikaṃ",
+        "ajjhattikā"
+      ],
+      "meaning": [
+        "internal; personal; in oneself"
+      ]
+    },
+    {
+      "lemma": "kha",
+      "variants": [
+        "Kha"
+      ],
+      "meaning": [
+        "2nd item in a numerical list",
+        "space; sky"
+      ]
+    },
+    {
+      "lemma": "eka",
+      "variants": [
+        "ekā",
+        "eko",
+        "ekaṃ",
+        "ekato"
+      ],
+      "meaning": [
+        "one (1)",
+        "a; a certain; a single",
+        "alone; single; solitary",
+        "only",
+        "same; one and the same",
+        "one thing; single thing; a certain thing",
+        "once"
+      ]
+    },
+    {
+      "lemma": "kabaḷīkāra",
+      "variants": [
+        "kabaḷīkāro"
+      ],
+      "meaning": [
+        "(of food) material; physical; edible"
+      ]
+    },
+    {
+      "lemma": "kilesa",
+      "variants": [
+        "kileso",
+        "kilesā",
+        "kilese"
+      ],
+      "meaning": [
+        "defilement; impurity; unwholesome mental state"
+      ]
+    },
+    {
+      "lemma": "anidassana",
+      "variants": [
+        "anidassano",
+        "anidassanaṃ",
+        "anidassanamhi",
+        "anidassanena",
+        "anidassanā",
+        "anidassanāya"
+      ],
+      "meaning": [
+        "attribute-less; non-manifesting; sign-less; featureless; invisible; epithet of Nibbāna"
+      ]
+    },
+    {
+      "lemma": "arūpī",
+      "variants": [
+        "arūpino",
+        "arūpīnaṃ"
+      ],
+      "meaning": [
+        "formless; shapeless; without material form",
+        "formless being"
+      ]
+    },
+    {
+      "lemma": "sukha",
+      "variants": [
+        "sukhaṃ",
+        "sukhassa",
+        "sukhā",
+        "sukhāya"
+      ],
+      "meaning": [
+        "easy (on); comfortable (for); pleasant (for); good (for); contented",
+        "ease; comfort; happiness; pleasure; contentment",
+        "(of water) tepid",
+        "(of weather) fine; mild; pleasant"
+      ]
+    },
+    {
+      "lemma": "sañña",
+      "variants": [
+        "saññā",
+        "saññāya",
+        "saññaṃ"
+      ],
+      "meaning": [
+        "perceiving; having perception; regarding (as)"
+      ]
+    },
+    {
+      "lemma": "moha",
+      "variants": [
+        "moho",
+        "mohena",
+        "mohaṃ"
+      ],
+      "meaning": [
+        "illusion; delusion; misapprehension",
+        "deception; deluding"
+      ]
+    },
+    {
+      "lemma": "saññākkhandha",
+      "variants": [
+        "saññākkhandho",
+        "saññākkhandhaṃ",
+        "saññākkhandhassa"
+      ],
+      "meaning": [
+        "aggregate of perception; mass of recognitions; third of the five aggregates"
+      ]
+    },
+    {
+      "lemma": "diṭṭhigata",
+      "variants": [
+        "diṭṭhigatānaṃ",
+        "diṭṭhigataṃ"
+      ],
+      "meaning": [
+        "(wrong or false) belief; misconception; theory; dogma; doctrine; speculative view"
+      ]
+    },
+    {
+      "lemma": "hetu",
+      "variants": [
+        "hetū",
+        "hetu"
+      ],
+      "meaning": [
+        "because; by virtue (of)",
+        "reason (for); cause (for); condition (for); sake (of)",
+        "because (of); due (to)",
+        "by means of; according to",
+        "for; for the purpose; for the sake (of)"
+      ]
+    },
+    {
+      "lemma": "manindriya",
+      "variants": [
+        "manindriyaṃ",
+        "manindriye"
+      ],
+      "meaning": [
+        "power of mind; mental faculty; mind"
+      ]
+    },
+    {
+      "lemma": "kamma",
+      "variants": [
+        "kammassa",
+        "kammānaṃ",
+        "kammāni"
+      ],
+      "meaning": [
+        "action; deed; doing",
+        "work; job; occupation",
+        "action; deed; work (subject)",
+        "action; deed; work (object)",
+        "(vinaya) legal act; legal procedure; formal action",
+        "(gram) object of the verb",
+        "(gram) passive voice"
+      ]
+    },
+    {
+      "lemma": "asaṅkhata",
+      "variants": [
+        "asaṅkhatā",
+        "asaṅkhato"
+      ],
+      "meaning": [
+        "unconditioned; not created; unformed; unconstructed; epithet of Nibbāna; (comm) not made",
+        "the unconditioned; the unformed; the unconstructed; epithet of Nibbāna"
+      ]
+    },
+    {
+      "lemma": "kiriya",
+      "variants": [
+        "kiriyato",
+        "kiriyā",
+        "kiriyaṃ",
+        "kiriyesu"
+      ],
+      "meaning": [
+        "making; doing; performing"
+      ]
+    },
+    {
+      "lemma": "vatthu",
+      "variants": [
+        "vatthu",
+        "vatthuṃ"
+      ],
+      "meaning": [
+        "land; property; ground; site",
+        "site; location; base; grounds",
+        "matter; affair; case",
+        "story; case; example; instance",
+        "(comm) support; help",
+        "basis; grounds (for)",
+        "physical basis; heart base"
+      ]
+    },
+    {
+      "lemma": "cetasika",
+      "variants": [
+        "cetasikaṃ",
+        "cetasiko",
+        "cetasikā"
+      ],
+      "meaning": [
+        "mental; related to mind",
+        "mood; mental state",
+        "(abhi) mental property; mental concomitant"
+      ]
+    },
+    {
+      "lemma": "upādā",
+      "variants": [
+        "upādā"
+      ],
+      "meaning": [
+        "holding (on); grasping (on); attaching; clinging; taking possession (of)",
+        "secondary; derivative; accessory"
+      ]
+    },
+    {
+      "lemma": "patti",
+      "variants": [
+        "pattiyā"
+      ],
+      "meaning": [
+        "reaching; attainment; acquisition (of); getting",
+        "profit; share",
+        "share of merit; gift of merit",
+        "foot-soldier; infantry unit"
+      ]
+    },
+    {
+      "lemma": "sāta",
+      "variants": [
+        "sātaṃ",
+        "sātā"
+      ],
+      "meaning": [
+        "pleasant; nice; agreeable; appealing",
+        "pleasure; happiness; delight; comfort",
+        "(of meditation) pleasure; happiness; ease; comfort"
+      ]
+    },
+    {
+      "lemma": "indriya",
+      "variants": [
+        "indriyaṃ",
+        "indriyesu",
+        "indriyānaṃ",
+        "indriyāni"
+      ],
+      "meaning": [
+        "sense; mental faculty; power",
+        "features; appearance; faculties",
+        "sense base; sense organ",
+        "with senses; having mental faculties"
+      ]
+    },
+    {
+      "lemma": "vicāra",
+      "variants": [
+        "vicāro",
+        "vicāraṃ"
+      ],
+      "meaning": [
+        "consideration; exploring, examination; pondering",
+        "(abhi) sustained application of attention"
+      ]
+    },
+    {
+      "lemma": "vitakka",
+      "variants": [
+        "vitakko",
+        "vitakkaṃ"
+      ],
+      "meaning": [
+        "thought; reflection; pondering",
+        "(abhi) application of mind; initial application of attention; (comm) mounting"
+      ]
+    },
+    {
+      "lemma": "amoha",
+      "variants": [
+        "amoho"
+      ],
+      "meaning": [
+        "wisdom; clear understanding; sanity; freedom from ignorance",
+        "free from delusion; with no ignorance"
+      ]
+    },
+    {
+      "lemma": "upādāya",
+      "variants": [
+        "upādāya"
+      ],
+      "meaning": [
+        "taking; taking up; grasping (onto); taking possession (of)",
+        "derived (from); dependent (on); based (on)",
+        "on account (of); because (of); with reference (to)",
+        "according (to)",
+        "compared (to); in comparison (with)"
+      ]
+    },
+    {
+      "lemma": "paritta",
+      "variants": [
+        "parittaṃ",
+        "parittāni",
+        "parittā",
+        "Paritte"
+      ],
+      "meaning": [
+        "little; small; tiny",
+        "small minded; mean; (comm) with few good qualities",
+        "limited; restricted; circumscribed",
+        "(of time or life) short; brief",
+        "(of water) shallow",
+        "few; small amount of",
+        "protection; safe-guarding (against); shielding (from)"
+      ]
+    },
+    {
+      "lemma": "appamāṇa",
+      "variants": [
+        "appamāṇaṃ",
+        "appamāṇāni",
+        "appamāṇā",
+        "Appamāṇe"
+      ],
+      "meaning": [
+        "immeasurable; unlimited; limitless; boundless"
+      ]
+    },
+    {
+      "lemma": "uppanna",
+      "variants": [
+        "uppannaṃ",
+        "uppannā",
+        "uppanno",
+        "uppannānaṃ"
+      ],
+      "meaning": [
+        "arisen; appeared; come into being (in)",
+        "born (in)"
+      ]
+    },
+    {
+      "lemma": "pañña",
+      "variants": [
+        "paññā"
+      ],
+      "meaning": [
+        "wise; intelligent; learned; knowledgeable; skilled"
+      ]
+    },
+    {
+      "lemma": "upacaya",
+      "variants": [
+        "upacayo"
+      ],
+      "meaning": [
+        "heap; accumulation",
+        "(abhi) growth of materiality"
+      ]
+    },
+    {
+      "lemma": "bahiddha",
+      "variants": [
+        "bahiddhā"
+      ],
+      "meaning": [
+        "external; outward"
+      ]
+    },
+    {
+      "lemma": "samatha",
+      "variants": [
+        "samatho",
+        "samathaṃ"
+      ],
+      "meaning": [
+        "stilling (of); serenity (of); calming (of); settling (of); peace (of); (comm) mental unification",
+        "(vinaya) settlement; deciding; appeasement; adjudication (of)",
+        "evenness; balance; equilibrium (of)"
+      ]
+    },
+    {
+      "lemma": "suññata",
+      "variants": [
+        "suññataṃ"
+      ],
+      "meaning": [
+        "empty; void; non-subjective",
+        "in reference to Suññatavagga, Vagga 13 of the Majjhima Nikāya (MN121-130)"
+      ]
+    },
+    {
+      "lemma": "ajjhatta",
+      "variants": [
+        "ajjhattaṃ",
+        "ajjhattā",
+        "Ajjhatte"
+      ],
+      "meaning": [
+        "inner; internal; personal; in oneself"
+      ]
+    },
+    {
+      "lemma": "bhāvanā",
+      "variants": [
+        "bhāvanāya",
+        "bhāvanā"
+      ],
+      "meaning": [
+        "developing; cultivating; meditating",
+        "honour; reverence; status; reputation",
+        "by developing; through cultivating",
+        "meditation; state of mind"
+      ]
+    },
+    {
+      "lemma": "lobha",
+      "variants": [
+        "lobho",
+        "lobhena",
+        "lobhaṃ"
+      ],
+      "meaning": [
+        "greed; wanting; desire"
+      ]
+    },
+    {
+      "lemma": "dassana",
+      "variants": [
+        "dassanena"
+      ],
+      "meaning": [
+        "sight; vision; appearance (of)",
+        "seeing; watching",
+        "insight; realization; spiritual vision",
+        "eye",
+        "showing; teaching",
+        "having vision; with insight",
+        "appearing; looking like; with a (certain kind of) appearance"
+      ]
+    },
+    {
+      "lemma": "ākāsadhātu",
+      "variants": [
+        "ākāsadhātu"
+      ],
+      "meaning": [
+        "space; space element"
+      ]
+    },
+    {
+      "lemma": "sati",
+      "variants": [
+        "sati"
+      ],
+      "meaning": [
+        "memory; remembering; recollection; keeping in mind",
+        "mindfulness; presence; recollection; awareness",
+        "when is; when exists",
+        "when there is; when there are; when (something) exists"
+      ]
+    },
+    {
+      "lemma": "ārammaṇa",
+      "variants": [
+        "ārammaṇaṃ",
+        "ārammaṇāni"
+      ],
+      "meaning": [
+        "base; basis; foundation; support",
+        "chance; opportunity",
+        "object; cause; reason",
+        "meditation object; theme of meditation",
+        "object of the senses; sense-object",
+        "based on; founded on; supported by; sustained by; taking as an object"
+      ]
+    },
+    {
+      "lemma": "pīti",
+      "variants": [
+        "pīti",
+        "pītiṃ",
+        "pītiyā"
+      ],
+      "meaning": [
+        "delight; heartfelt joy; pleasure; feeling of love",
+        "drinking"
+      ]
+    },
+    {
+      "lemma": "sāsava",
+      "variants": [
+        "sāsavā",
+        "sāsavaṃ"
+      ],
+      "meaning": [
+        "defiled; polluted; tainted"
+      ]
+    },
+    {
+      "lemma": "adosa",
+      "variants": [
+        "adoso"
+      ],
+      "meaning": [
+        "non-hatred; kindness",
+        "without hatred; with no malevolence",
+        "flawless; without defect; faultless"
+      ]
+    },
+    {
+      "lemma": "alobha",
+      "variants": [
+        "alobho"
+      ],
+      "meaning": [
+        "non-greed; absence of desire; moderation"
+      ]
+    },
+    {
+      "lemma": "avasesa",
+      "variants": [
+        "avasesā",
+        "avasesaṃ",
+        "Avaseso"
+      ],
+      "meaning": [
+        "remaining; rest of",
+        "remainder; rest"
+      ]
+    },
+    {
+      "lemma": "paññindriya",
+      "variants": [
+        "paññindriyaṃ"
+      ],
+      "meaning": [
+        "power of wisdom; faculty of understanding"
+      ]
+    },
+    {
+      "lemma": "upādiṇṇa",
+      "variants": [
+        "upādiṇṇaṃ",
+        "upādiṇṇā"
+      ],
+      "meaning": [
+        "grasped; clung to; attached to; taken as mine; taken possession (of)"
+      ]
+    },
+    {
+      "lemma": "atta",
+      "variants": [
+        "attānaṃ",
+        "attani",
+        "attato",
+        "attā"
+      ],
+      "meaning": [
+        "self; soul; spirit; essence",
+        "personal; related to oneself",
+        "taking up; accepting; seizing; grasping",
+        "taken up; accepted; seized; grasped",
+        "(gram) the negative prefix a"
+      ]
+    },
+    {
+      "lemma": "passati",
+      "variants": [
+        "passati",
+        "passissati"
+      ],
+      "meaning": [
+        "sees",
+        "understands; gets",
+        "finds; encounters; meets with",
+        "looks at; observes; examines; inspects"
+      ]
+    },
+    {
+      "lemma": "saṃyojana",
+      "variants": [
+        "saṃyojanā",
+        "saṃyojanāni",
+        "saṃyojane"
+      ],
+      "meaning": [
+        "fetter; chain; bond; thing which binds",
+        "connection; link",
+        "with a fetter; having a chain; about a bond; regarding a thing which binds"
+      ]
+    },
+    {
+      "lemma": "diṭṭhi",
+      "variants": [
+        "diṭṭhi",
+        "diṭṭhiyā"
+      ],
+      "meaning": [
+        "view; belief; opinion; concept; theory; attitude; philosophy; credo; creed; dogma",
+        "wrong view; incorrect belief",
+        "with a view; having a belief; holding an opinion; with a theory"
+      ]
+    },
+    {
+      "lemma": "viññāṇa",
+      "variants": [
+        "viññāṇaṃ",
+        "viññāṇasmiṃ",
+        "viññāṇehi"
+      ],
+      "meaning": [
+        "awareness; consciousness; cognition; mind; fifth of the five aggregates",
+        "knowing; understanding",
+        "with awareness; having consciousness"
+      ]
+    },
+    {
+      "lemma": "ṭhiti",
+      "variants": [
+        "ṭhiti",
+        "ṭhitiyā"
+      ],
+      "meaning": [
+        "stability; constancy; continuity; endurance; persistence; longevity",
+        "state; station; support",
+        "existence; happening; occurrence"
+      ]
+    },
+    {
+      "lemma": "aññāṇa",
+      "variants": [
+        "aññāṇaṃ"
+      ],
+      "meaning": [
+        "ignorance (of); lack of understanding (of); not knowing (about)",
+        "not knowing; ignorant; witless",
+        "knowing; understanding; finding out; learning"
+      ]
+    },
+    {
+      "lemma": "dosa",
+      "variants": [
+        "doso",
+        "dosena"
+      ],
+      "meaning": [
+        "aversion; ill-will; hate; hatred",
+        "fault; wrong; error",
+        "defect; corruption; problem",
+        "angry; wrathful; malicious; upset",
+        "nightfall; dusk; early evening",
+        "accusation; blame; reproach",
+        "(of the body) humour; elemental condition"
+      ]
+    },
+    {
+      "lemma": "mudutā",
+      "variants": [
+        "mudutā"
+      ],
+      "meaning": [
+        "softness; delicacy",
+        "(abhi) (of mind) elasticity; malleability; pliability"
+      ]
+    },
+    {
+      "lemma": "paggāha",
+      "variants": [
+        "paggāho"
+      ],
+      "meaning": [
+        "effort; exertion; striving"
+      ]
+    },
+    {
+      "lemma": "kammaññatā",
+      "variants": [
+        "kammaññatā"
+      ],
+      "meaning": [
+        "fitness for use; wieldiness; workability; usability"
+      ]
+    },
+    {
+      "lemma": "lahutā",
+      "variants": [
+        "lahutā"
+      ],
+      "meaning": [
+        "(abhi) lightness; buoyancy"
+      ]
+    },
+    {
+      "lemma": "āsava",
+      "variants": [
+        "āsavā",
+        "āsavo",
+        "āsave",
+        "āsavānaṃ"
+      ],
+      "meaning": [
+        "discharge from a sore; suppuration from a wound",
+        "discharge; suppuration; outflow; effluent; (comm) defilement",
+        "discharge; suppuration; outflow; effluent",
+        "extract; liquor; spirit"
+      ]
+    },
+    {
+      "lemma": "gantha",
+      "variants": [
+        "ganthā",
+        "gantho",
+        "ganthe"
+      ],
+      "meaning": [
+        "(mental) tie; knot; bond",
+        "book; text"
+      ]
+    },
+    {
+      "lemma": "paṇḍara",
+      "variants": [
+        "paṇḍaraṃ"
+      ],
+      "meaning": [
+        "pale; white",
+        "(comm) sense fields",
+        "name of a type of elephant",
+        "name of a religious sect"
+      ]
+    },
+    {
+      "lemma": "loka",
+      "variants": [
+        "loko",
+        "lokaṃ",
+        "loke"
+      ],
+      "meaning": [
+        "world; universe; cosmos",
+        "world; plane of existence",
+        "people (of the world); population",
+        "world of experience; (comm) world of aggregates, sense spheres and elements"
+      ]
+    },
+    {
+      "lemma": "majjhima",
+      "variants": [
+        "majjhimaṃ",
+        "majjhimā"
+      ],
+      "meaning": [
+        "middle; middling; medium; medium-sized; moderate",
+        "medium strength",
+        "(vinaya) monk of five to ten years standing",
+        "used; worn",
+        "medium height; medium size",
+        "Majjhima Nikāya",
+        "middle person; man in the middle"
+      ]
+    },
+    {
+      "lemma": "nīvaraṇa",
+      "variants": [
+        "nīvaraṇā",
+        "nīvaraṇāni",
+        "nīvaraṇaṃ",
+        "nīvaraṇe"
+      ],
+      "meaning": [
+        "obstacle; obstruction; barrier; hindrance"
+      ]
+    },
+    {
+      "lemma": "paṇīta",
+      "variants": [
+        "paṇītaṃ",
+        "paṇītā"
+      ],
+      "meaning": [
+        "(of food) fine; delicious; excellent",
+        "fine; refined; excellent; superior; sublime"
+      ]
+    },
+    {
+      "lemma": "upādāna",
+      "variants": [
+        "upādānā",
+        "upādānaṃ",
+        "upādānāni",
+        "upādāne"
+      ],
+      "meaning": [
+        "fuel (for fire)",
+        "grasping; clinging; acquiring; appropriating; taking possession; identifying",
+        "with fuel; having fuel"
+      ]
+    },
+    {
+      "lemma": "kho",
+      "variants": [
+        "kho"
+      ],
+      "meaning": [
+        "indeed; surely; certainly; truly",
+        "and now; but; and next; indeed"
+      ]
+    },
+    {
+      "lemma": "parāmāsa",
+      "variants": [
+        "parāmāsā",
+        "parāmāso",
+        "parāmāsaṃ"
+      ],
+      "meaning": [
+        "seizing; clutching; clinging tightly; attachment",
+        "seizing; clutching; clinging tightly; attaching"
+      ]
+    },
+    {
+      "lemma": "vedayita",
+      "variants": [
+        "vedayitaṃ"
+      ],
+      "meaning": [
+        "which is felt; felt experience; feeling"
+      ]
+    },
+    {
+      "lemma": "dhammadhātu",
+      "variants": [
+        "dhammadhātu"
+      ],
+      "meaning": [
+        "nature of reality; way things are",
+        "phenomena; element; mental phenomena"
+      ]
+    },
+    {
+      "lemma": "dhātu",
+      "variants": [
+        "dhātuyo",
+        "dhātuṃ"
+      ],
+      "meaning": [
+        "supporter; bearer, carrier; upholder"
+      ]
+    },
+    {
+      "lemma": "dukkha",
+      "variants": [
+        "dukkhaṃ",
+        "Dukkhe",
+        "dukkhā",
+        "dukkhāya",
+        "dukkhassa"
+      ],
+      "meaning": [
+        "uncomfortable; unpleasant",
+        "painful",
+        "discomfort; suffering; unease; unpleasantness; something unsatisfactory; trouble; a bummer; stress",
+        "pain; physical discomfort"
+      ]
+    },
+    {
+      "lemma": "nissāya",
+      "variants": [
+        "nissāya"
+      ],
+      "meaning": [
+        "leaning (on); depending (on); being supported (by)",
+        "supporting; helping",
+        "because; on account (of)",
+        "with the help; with the support (of)",
+        "nearby; near; at; on",
+        "depending on successive supports; relying on one thing after the next"
+      ]
+    },
+    {
+      "lemma": "uppajji",
+      "variants": [
+        "uppajji"
+      ],
+      "meaning": [
+        "appeared; arose; was born; took place"
+      ]
+    },
+    {
+      "lemma": "hi",
+      "variants": [
+        "hīnaṃ"
+      ],
+      "meaning": [
+        "indeed; certainly; truly; definitely",
+        "because; for",
+        "(gram) hi; verbal ending of imperative 2nd person singular"
+      ]
+    },
+    {
+      "lemma": "khandha",
+      "variants": [
+        "khandhā",
+        "khandhaṃ"
+      ],
+      "meaning": [
+        "mass; heap; pile; volume; aggregation",
+        "shoulder; back",
+        "aggregate; combination; conglomeration; bundle",
+        "(of plant or tree) trunk; stem",
+        "group; class; category",
+        "section; chapter",
+        "with a back; having shoulders"
+      ]
+    },
+    {
+      "lemma": "oḷārika",
+      "variants": [
+        "oḷārikaṃ"
+      ],
+      "meaning": [
+        "coarse; gross; substantial; physical; material",
+        "(of food) solid; heavy; substantial"
+      ]
+    },
+    {
+      "lemma": "santika",
+      "variants": [
+        "santike"
+      ],
+      "meaning": [
+        "near; close",
+        "vicinity (of); presence (of); near (to)",
+        "giving peace (to); pacifying; calming"
+      ]
+    },
+    {
+      "lemma": "uddhacca",
+      "variants": [
+        "uddhaccaṃ",
+        "uddhaccena"
+      ],
+      "meaning": [
+        "agitation; restlessness; distraction; excitement"
+      ]
+    },
+    {
+      "lemma": "adukkhamasukha",
+      "variants": [
+        "adukkhamasukhaṃ",
+        "adukkhamasukhā",
+        "adukkhamasukhāya"
+      ],
+      "meaning": [
+        "neutral; neither unpleasant nor pleasant; neither comfortable nor uncomfortable",
+        "neutral sensation; feeling which is neither unpleasant nor pleasant; neither comfortable nor uncomfortable sensation"
+      ]
+    },
+    {
+      "lemma": "cakkhuviññāṇa",
+      "variants": [
+        "cakkhuviññāṇassa",
+        "cakkhuviññāṇaṃ"
+      ],
+      "meaning": [
+        "seeing; eye consciousness; visual awareness"
+      ]
+    },
+    {
+      "lemma": "pajānana",
+      "variants": [
+        "pajānanā"
+      ],
+      "meaning": [
+        "knowing; understanding clearly"
+      ]
+    },
+    {
+      "lemma": "vūpasama",
+      "variants": [
+        "vūpasamā"
+      ],
+      "meaning": [
+        "peace; calming; subsiding; settling (of)",
+        "(vinaya) settling; appeasement; conciliation (of)"
+      ]
+    },
+    {
+      "lemma": "sanidassana",
+      "variants": [
+        "sanidassanaṃ",
+        "sanidassanā",
+        "sanidassanamhi"
+      ],
+      "meaning": [
+        "visible"
+      ]
+    },
+    {
+      "lemma": "sukhuma",
+      "variants": [
+        "sukhumaṃ"
+      ],
+      "meaning": [
+        "fine; subtle; refined",
+        "fine quality; exquisite"
+      ]
+    },
+    {
+      "lemma": "vicikicchā",
+      "variants": [
+        "vicikicchā",
+        "vicikicchāya"
+      ],
+      "meaning": [
+        "doubt; uncertainty; indecisiveness (about)"
+      ]
+    },
+    {
+      "lemma": "vipassanā",
+      "variants": [
+        "vipassanā"
+      ],
+      "meaning": [
+        "insight; penetrating internal vision; introspection"
+      ]
+    },
+    {
+      "lemma": "āghāta",
+      "variants": [
+        "āghāto"
+      ],
+      "meaning": [
+        "annoyance; irritation; repugnance; loathing"
+      ]
+    },
+    {
+      "lemma": "cakkhu",
+      "variants": [
+        "cakkhuṃ",
+        "cakkhu",
+        "cakkhunā",
+        "cakkhumhi"
+      ],
+      "meaning": [
+        "eye",
+        "eyesight; faculty of seeing",
+        "vision; insight; understanding",
+        "spiritual vision; divine eye"
+      ]
+    },
+    {
+      "lemma": "manoviññāṇadhātu",
+      "variants": [
+        "manoviññāṇadhātu"
+      ],
+      "meaning": [
+        "knowing; mind consciousness element; mental awareness"
+      ]
+    },
+    {
+      "lemma": "ārabbha",
+      "variants": [
+        "ārabbha"
+      ],
+      "meaning": [
+        "bringing forth; arousing; initiating",
+        "concerning; referring (to); regarding; at the expense (of); owing to"
+      ]
+    },
+    {
+      "lemma": "pasāda",
+      "variants": [
+        "pasādo"
+      ],
+      "meaning": [
+        "inspiration; faith; trust; confidence (in)",
+        "brightness; clarity; calmness; tranquillity (of)",
+        "sense faculty; sensitivity",
+        "makeup; facial beauty products"
+      ]
+    },
+    {
+      "lemma": "suñña",
+      "variants": [
+        "suñño"
+      ],
+      "meaning": [
+        "empty; devoid (of); without",
+        "empty; uninhabited"
+      ]
+    },
+    {
+      "lemma": "anattha",
+      "variants": [
+        "anatthaṃ"
+      ],
+      "meaning": [
+        "harm; misfortune; damage; injury; hurt",
+        "what is useless; what is unbeneficial; what is meaningless"
+      ]
+    },
+    {
+      "lemma": "jāyati",
+      "variants": [
+        "jāyati"
+      ],
+      "meaning": [
+        "is born (in); comes into being (from)",
+        "arises; is produced (for)"
+      ]
+    },
+    {
+      "lemma": "sampayutta",
+      "variants": [
+        "sampayuttā"
+      ],
+      "meaning": [
+        "associated; closely connected (with)",
+        "bound (onto); coupled; cojoined (with)"
+      ]
+    },
+    {
+      "lemma": "gāma",
+      "variants": [
+        "gāmo"
+      ],
+      "meaning": [
+        "village; hamlet",
+        "group; class; type; family",
+        "vulgar; common; crude"
+      ]
+    },
+    {
+      "lemma": "bala",
+      "variants": [
+        "balāni",
+        "balaṃ"
+      ],
+      "meaning": [
+        "strength; power; might",
+        "mental power; Dhamma strength",
+        "army; military force",
+        "financial ability; resources"
+      ]
+    },
+    {
+      "lemma": "hadaya",
+      "variants": [
+        "hadayaṃ"
+      ],
+      "meaning": [
+        "heart",
+        "centre; core; kernel",
+        "with a heart; having a heart; -hearted"
+      ]
+    },
+    {
+      "lemma": "mānasa",
+      "variants": [
+        "mānasaṃ"
+      ],
+      "meaning": [
+        "of such mind; with such a heart; having such intention",
+        "mind; heart; mentality; intention",
+        "idea; thought; notion",
+        "mental; mentally originated; mind-made"
+      ]
+    },
+    {
+      "lemma": "pāpaka",
+      "variants": [
+        "pāpakānaṃ",
+        "pāpakā"
+      ],
+      "meaning": [
+        "bad; wicked; evil; wrong; worthless; harmful",
+        "(of speech) rough; harsh; dirty",
+        "bad deeds; wickedness; evil actions; wrongdoing"
+      ]
+    },
+    {
+      "lemma": "samāpatti",
+      "variants": [
+        "samāpattiyā",
+        "samāpatti",
+        "samāpattīhi",
+        "samāpattīnaṃ"
+      ],
+      "meaning": [
+        "attainment; meditation attainment (of)",
+        "doing; perpetration; committing (of)"
+      ]
+    },
+    {
+      "lemma": "upekkhindriya",
+      "variants": [
+        "upekkhindriyaṃ"
+      ],
+      "meaning": [
+        "power of equipoise; faculty of equanimity"
+      ]
+    },
+    {
+      "lemma": "avaṭṭhiti",
+      "variants": [
+        "avaṭṭhiti"
+      ],
+      "meaning": [
+        "stability; fixity; constancy"
+      ]
+    },
+    {
+      "lemma": "gandha",
+      "variants": [
+        "gandho",
+        "gandhaṃ",
+        "gandhamhi"
+      ],
+      "meaning": [
+        "smell; scent; odour",
+        "perfume; fragrance; scent",
+        "name of a type of elephant"
+      ]
+    },
+    {
+      "lemma": "ghāna",
+      "variants": [
+        "ghānaṃ",
+        "ghānena",
+        "ghānamhi"
+      ],
+      "meaning": [
+        "nose"
+      ]
+    },
+    {
+      "lemma": "rasa",
+      "variants": [
+        "raso",
+        "rasaṃ",
+        "rasamhi"
+      ],
+      "meaning": [
+        "taste; flavour",
+        "juice; nectar",
+        "decoction; extract; concentrate",
+        "essential function",
+        "nutrients; fertilizer",
+        "flavour; taste"
+      ]
+    },
+    {
+      "lemma": "sadda",
+      "variants": [
+        "saddo",
+        "saddaṃ",
+        "saddamhi"
+      ],
+      "meaning": [
+        "sound; noise",
+        "word",
+        "voice",
+        "report; reputation; good estimation",
+        "(gram) word; part of a word; the word ' '",
+        "(gram) nominal stem"
+      ]
+    },
+    {
+      "lemma": "saṇṭhiti",
+      "variants": [
+        "saṇṭhiti"
+      ],
+      "meaning": [
+        "stability; steadiness; firm standing (of)"
+      ]
+    },
+    {
+      "lemma": "somanassindriya",
+      "variants": [
+        "somanassindriyaṃ"
+      ],
+      "meaning": [
+        "power of mental pleasure; faculty of happiness"
+      ]
+    },
+    {
+      "lemma": "sota",
+      "variants": [
+        "sotaṃ",
+        "sotena",
+        "sotamhi"
+      ],
+      "meaning": [
+        "stream; river; current",
+        "opening; aperture; channel; pathway",
+        "ear",
+        "faculty of hearing"
+      ]
+    },
+    {
+      "lemma": "kāyaviññeyya",
+      "variants": [
+        "kāyaviññeyyā",
+        "kāyaviññeyyaṃ"
+      ],
+      "meaning": [
+        "touchable; tangible; known by the body"
+      ]
+    },
+    {
+      "lemma": "para",
+      "variants": [
+        "paraṃ",
+        "paro"
+      ],
+      "meaning": [
+        "other; another (person)",
+        "next (world); next (life); after (life)",
+        "foreign; alien; not oneself",
+        "engrossed in; given to; aiming for",
+        "higher; greater; more (than)",
+        "(gram) next; following; last; after",
+        "(gram) next letter; following vowel"
+      ]
+    },
+    {
+      "lemma": "saṃyojaniya",
+      "variants": [
+        "saṃyojaniyā",
+        "saṃyojaniyaṃ"
+      ],
+      "meaning": [
+        "fettering; chaining; bonding; binding; obstructing",
+        "thing which fetters; something which chains"
+      ]
+    },
+    {
+      "lemma": "abyāpāda",
+      "variants": [
+        "abyāpādo"
+      ],
+      "meaning": [
+        "absence of ill-will; goodwill; kindness; friendliness; benevolence"
+      ]
+    },
+    {
+      "lemma": "anabhijjhā",
+      "variants": [
+        "anabhijjhā"
+      ],
+      "meaning": [
+        "absence of greed; not coveting"
+      ]
+    },
+    {
+      "lemma": "bhūri",
+      "variants": [
+        "bhūrī"
+      ],
+      "meaning": [
+        "vast; extensive; abundant",
+        "wisdom; discernment",
+        "earth; ground"
+      ]
+    },
+    {
+      "lemma": "cakkhuviññeyya",
+      "variants": [
+        "cakkhuviññeyyā",
+        "cakkhuviññeyyaṃ"
+      ],
+      "meaning": [
+        "visible; perceivable by the eye"
+      ]
+    },
+    {
+      "lemma": "cintā",
+      "variants": [
+        "cintā"
+      ],
+      "meaning": [
+        "thought; speculation; conjecture"
+      ]
+    },
+    {
+      "lemma": "ga",
+      "variants": [
+        "Ga"
+      ],
+      "meaning": [
+        "who goes; goes after; going; gone; having gone; being",
+        "3rd item in a numerical list"
+      ]
+    },
+    {
+      "lemma": "kosalla",
+      "variants": [
+        "kosallaṃ"
+      ],
+      "meaning": [
+        "skill; expertise; aptitude; proficiency (in)",
+        "intelligence; wisdom",
+        "name of a privately awakened Buddha"
+      ]
+    },
+    {
+      "lemma": "medha",
+      "variants": [
+        "medhā"
+      ],
+      "meaning": [
+        "sacrifice; offering to the gods"
+      ]
+    },
+    {
+      "lemma": "patoda",
+      "variants": [
+        "patodo"
+      ],
+      "meaning": [
+        "whip; goad; riding crop"
+      ]
+    },
+    {
+      "lemma": "paṇḍicca",
+      "variants": [
+        "paṇḍiccaṃ"
+      ],
+      "meaning": [
+        "wisdom; intelligence; erudition knowledgeability"
+      ]
+    },
+    {
+      "lemma": "vebhabyā",
+      "variants": [
+        "vebhabyā"
+      ],
+      "meaning": [
+        "discrimination; comprehension"
+      ]
+    },
+    {
+      "lemma": "vicaya",
+      "variants": [
+        "vicayo"
+      ],
+      "meaning": [
+        "investigation; examination; probing; analysis; discrimination"
+      ]
+    },
+    {
+      "lemma": "māna",
+      "variants": [
+        "māno",
+        "mānena"
+      ],
+      "meaning": [
+        "(gram) letter m; 31st letter of the alphabet; nasal consonant",
+        "(gram) ma; verbal ending of the present tense 1st person plural"
+      ]
+    },
+    {
+      "lemma": "sasaṅkhāra",
+      "variants": [
+        "sasaṅkhārena"
+      ],
+      "meaning": [
+        "conditioned; conditional",
+        "intentional; volitional; prompted"
+      ]
+    },
+    {
+      "lemma": "viññatti",
+      "variants": [
+        "viññatti"
+      ],
+      "meaning": [
+        "information; content; data; report",
+        "request; solicitation; appeal"
+      ]
+    },
+    {
+      "lemma": "animitta",
+      "variants": [
+        "animittaṃ"
+      ],
+      "meaning": [
+        "signless; featureless; free of mental images",
+        "without any sign of trouble; without cause for distress; not marked by danger",
+        "lacking genitals; without sexual organs",
+        "no mental note; no landmark"
+      ]
+    },
+    {
+      "lemma": "cakkhudhātu",
+      "variants": [
+        "cakkhudhātu"
+      ],
+      "meaning": [
+        "vision"
+      ]
+    },
+    {
+      "lemma": "dvāra",
+      "variants": [
+        "dvārā"
+      ],
+      "meaning": [
+        "door; entrance; gate; gateway",
+        "door of action; i.e. body, speech or mind",
+        "having sense-doors; with the six sense fields"
+      ]
+    },
+    {
+      "lemma": "hiri",
+      "variants": [
+        "hirī"
+      ],
+      "meaning": [
+        "conscience; sense of right and wrong; scruples; (comm) originating from inside",
+        "name of a daemon"
+      ]
+    },
+    {
+      "lemma": "khetta",
+      "variants": [
+        "khettaṃ"
+      ],
+      "meaning": [
+        "field; plot of land",
+        "place; location; grounds",
+        "field of kamma; plane of existence",
+        "domain; sphere; range"
+      ]
+    },
+    {
+      "lemma": "kāyadhātu",
+      "variants": [
+        "kāyadhātu"
+      ],
+      "meaning": [
+        "body"
+      ]
+    },
+    {
+      "lemma": "sabbaso",
+      "variants": [
+        "sabbaso"
+      ],
+      "meaning": [
+        "in every way; entirely; completely; altogether",
+        "all around; everywhere; from all sides"
+      ]
+    },
+    {
+      "lemma": "samudda",
+      "variants": [
+        "samuddo"
+      ],
+      "meaning": [
+        "sea; ocean"
+      ]
+    },
+    {
+      "lemma": "tathāgata",
+      "variants": [
+        "tathāgato"
+      ],
+      "meaning": [
+        "Such Become; realized; being in such a state; arrived at the truth; epithet of the Buddha"
+      ]
+    },
+    {
+      "lemma": "tīra",
+      "variants": [
+        "tīraṃ"
+      ],
+      "meaning": [
+        "shore; riverbank; beach"
+      ]
+    },
+    {
+      "lemma": "vīriya",
+      "variants": [
+        "vīriyaṃ"
+      ],
+      "meaning": [
+        "effort; energy; might; power; strength; vitality",
+        "willpower; determination",
+        "having effort; with energy"
+      ]
+    },
+    {
+      "lemma": "thina",
+      "variants": [
+        "thinaṃ",
+        "thinena"
+      ],
+      "meaning": [
+        "dullness; drowsiness; fuzziness; sluggishness",
+        "dull; drowsy; fuzzy; sluggish",
+        "stiff; rigid; immobile; inflexible"
+      ]
+    },
+    {
+      "lemma": "abhijjhā",
+      "variants": [
+        "abhijjhā"
+      ],
+      "meaning": [
+        "wishing; wanting; covetousness; greed"
+      ]
+    },
+    {
+      "lemma": "asāta",
+      "variants": [
+        "asātaṃ",
+        "asātā"
+      ],
+      "meaning": [
+        "disagreeable; unpleasant; unappealing",
+        "pain; suffering; unpleasantness"
+      ]
+    },
+    {
+      "lemma": "phoṭṭhabba",
+      "variants": [
+        "phoṭṭhabbaṃ",
+        "phoṭṭhabbo",
+        "phoṭṭhabbamhi"
+      ],
+      "meaning": [
+        "touch; physical sensation; tactile sensation"
+      ]
+    },
+    {
+      "lemma": "saṃkiliṭṭha",
+      "variants": [
+        "saṃkiliṭṭhā"
+      ],
+      "meaning": [
+        "(of an object) dirtied; stained; soiled (by)",
+        "(of mind) tarnished; defiled; tainted; corrupted (by)"
+      ]
+    },
+    {
+      "lemma": "sabba",
+      "variants": [
+        "sabbaṃ",
+        "sabbo",
+        "sabbe"
+      ],
+      "meaning": [
+        "all; every",
+        "everything; everyone; all",
+        "whole; entire; complete"
+      ]
+    },
+    {
+      "lemma": "ussoḷhi",
+      "variants": [
+        "ussoḷhī",
+        "ussoḷhi"
+      ],
+      "meaning": [
+        "active involvement; endurance; strenuous exertion"
+      ]
+    },
+    {
+      "lemma": "āyu",
+      "variants": [
+        "āyu",
+        "āyuno"
+      ],
+      "meaning": [
+        "life",
+        "life force; life energy",
+        "long life; longevity",
+        "age"
+      ]
+    },
+    {
+      "lemma": "cetas",
+      "variants": [
+        "cetaso"
+      ],
+      "meaning": [
+        "mind; thought; intention"
+      ]
+    },
+    {
+      "lemma": "dhiti",
+      "variants": [
+        "dhiti"
+      ],
+      "meaning": [
+        "resolution; determination; constancy; persistence",
+        "(of memory) persistence; lastingness; recall"
+      ]
+    },
+    {
+      "lemma": "kāyika",
+      "variants": [
+        "kāyikaṃ",
+        "kāyiko"
+      ],
+      "meaning": [
+        "bodily; physical; related to the body",
+        "belonging to a body; part of a group; one of the host (of)"
+      ]
+    },
+    {
+      "lemma": "manodhātu",
+      "variants": [
+        "manodhātu",
+        "manodhātuyo"
+      ],
+      "meaning": [
+        "mind; mind element; mentality"
+      ]
+    },
+    {
+      "lemma": "manokamma",
+      "variants": [
+        "manokammaṃ"
+      ],
+      "meaning": [
+        "mental action; thought; intention"
+      ]
+    },
+    {
+      "lemma": "nikkama",
+      "variants": [
+        "nikkamo"
+      ],
+      "meaning": [
+        "effort; endurance; endeavour; persistence",
+        "strong; firm; stable (in)"
+      ]
+    },
+    {
+      "lemma": "parakkama",
+      "variants": [
+        "parakkamo"
+      ],
+      "meaning": [
+        "continued effort; striving; perseverance; persistence"
+      ]
+    },
+    {
+      "lemma": "thāmas",
+      "variants": [
+        "thāmo"
+      ],
+      "meaning": [
+        "stamina; strength; steadfastness; resilience; fortitude",
+        "fixedness; rigidity; obstinance"
+      ]
+    },
+    {
+      "lemma": "ussāha",
+      "variants": [
+        "ussāho"
+      ],
+      "meaning": [
+        "effort; activity; perseverance; strenuous and continuous exertion; energy"
+      ]
+    },
+    {
+      "lemma": "uyyāma",
+      "variants": [
+        "uyyāmo"
+      ],
+      "meaning": [
+        "goes off; drives (something) off (from)"
+      ]
+    },
+    {
+      "lemma": "vacīkamma",
+      "variants": [
+        "vacīkammaṃ"
+      ],
+      "meaning": [
+        "verbal action; vocal act; speech"
+      ]
+    },
+    {
+      "lemma": "vāca",
+      "variants": [
+        "vācā",
+        "vācāya",
+        "vācaṃ"
+      ],
+      "meaning": [
+        "talking; speaking; of speech"
+      ]
+    },
+    {
+      "lemma": "vāyāma",
+      "variants": [
+        "vāyāmo"
+      ],
+      "meaning": [
+        "blows",
+        "smells; emits an odour (from)"
+      ]
+    },
+    {
+      "lemma": "attha",
+      "variants": [
+        "atthaṃ"
+      ],
+      "meaning": [
+        "meaning; sense; significance",
+        "benefit; profit; good; welfare",
+        "purpose; use; function; goal",
+        "matter; affair; legal case; lawsuit",
+        "for the purpose; for the sake; for the benefit (of)",
+        "matter; affair",
+        "need; want (for)"
+      ]
+    },
+    {
+      "lemma": "samatikkamma",
+      "variants": [
+        "samatikkamma"
+      ],
+      "meaning": [
+        "surpassing; overcoming; going beyond; transcending"
+      ]
+    },
+    {
+      "lemma": "saṅkhāra",
+      "variants": [
+        "saṅkhārā",
+        "saṅkhāre",
+        "saṅkhāresu"
+      ],
+      "meaning": [
+        "intention; volitional formation; choice; karmic activity",
+        "function; activity; process",
+        "mental formation; mental activity; thought processes; fourth of the five aggregates",
+        "condition; conditioned thing; construction; fabrication; concoction",
+        "having intention; with volition; having mental activity",
+        "constituency; construction; condition; state"
+      ]
+    },
+    {
+      "lemma": "vippayutta",
+      "variants": [
+        "vippayuttā"
+      ],
+      "meaning": [
+        "separated; detached; disconnected (from)"
+      ]
+    },
+    {
+      "lemma": "yāpana",
+      "variants": [
+        "yāpanā",
+        "yāpanāya"
+      ],
+      "meaning": [
+        "(of the body) sustenance; preservation; continuance; upkeep; support (of)"
+      ]
+    },
+    {
+      "lemma": "abhinivesa",
+      "variants": [
+        "abhiniveso"
+      ],
+      "meaning": [
+        "adherence; being attached (to); sticking (to); insistence; fixation"
+      ]
+    },
+    {
+      "lemma": "gāha",
+      "variants": [
+        "gāho"
+      ],
+      "meaning": [
+        "holding; taking hold (of); grabbing; clutching",
+        "capture; seizure; being caught (by)",
+        "idea; belief; conviction; standpoint",
+        "apprehension; perception; what is acquired",
+        "aquatic predator; crocodile, etc.",
+        "deep place",
+        "hideaway; lair"
+      ]
+    },
+    {
+      "lemma": "jīvita",
+      "variants": [
+        "jīvitaṃ"
+      ],
+      "meaning": [
+        "life; existence",
+        "livelihood; lifestyle; way of life"
+      ]
+    },
+    {
+      "lemma": "micchatta",
+      "variants": [
+        "micchattaṃ"
+      ],
+      "meaning": [
+        "wrongness; badness; imperfection"
+      ]
+    },
+    {
+      "lemma": "sacca",
+      "variants": [
+        "saccaṃ"
+      ],
+      "meaning": [
+        "true; correct; accurate; honest; reliable",
+        "truth; epithet of Nibbāna",
+        "related to memory; regarding mindfulness",
+        "in reference to MN141 Saccavibhaṅgasutta"
+      ]
+    },
+    {
+      "lemma": "vattana",
+      "variants": [
+        "vattanā"
+      ],
+      "meaning": [
+        "following; conforming to; going after",
+        "turning; revolving; setting in motion"
+      ]
+    },
+    {
+      "lemma": "yapana",
+      "variants": [
+        "yapanā"
+      ],
+      "meaning": [
+        "sustaining; preserving; continuing; supporting"
+      ]
+    },
+    {
+      "lemma": "aṭṭha",
+      "variants": [
+        "aṭṭhasu",
+        "aṭṭha"
+      ],
+      "meaning": [
+        "eight (8)",
+        "goal; purpose",
+        "meaning; sense",
+        "eight emancipations; eight liberations"
+      ]
+    },
+    {
+      "lemma": "paṭipada",
+      "variants": [
+        "paṭipadāya",
+        "paṭipadā"
+      ],
+      "meaning": [
+        "way; path of progress; path of practice",
+        "who is walking the path; who is practising the path; going along"
+      ]
+    },
+    {
+      "lemma": "saddha",
+      "variants": [
+        "saddhā"
+      ],
+      "meaning": [
+        "faithful; confident; believing; devoted; trusting",
+        "credulous; gullible",
+        "name of a monk",
+        "name of a monk; son of Sudatta",
+        "food offered to ancestors"
+      ]
+    },
+    {
+      "lemma": "suddhi",
+      "variants": [
+        "suddhi",
+        "suddhī"
+      ],
+      "meaning": [
+        "purity; purification; holiness; epithet of Nibbāna"
+      ]
+    },
+    {
+      "lemma": "anussati",
+      "variants": [
+        "anussati"
+      ],
+      "meaning": [
+        "memory; recollection (of)"
+      ]
+    },
+    {
+      "lemma": "aparanta",
+      "variants": [
+        "aparante",
+        "Aparantaṃ"
+      ],
+      "meaning": [
+        "future",
+        "end"
+      ]
+    },
+    {
+      "lemma": "byāpatti",
+      "variants": [
+        "byāpatti"
+      ],
+      "meaning": [
+        "failure; disaster; misfortune"
+      ]
+    },
+    {
+      "lemma": "kāya",
+      "variants": [
+        "kāyassa",
+        "kāyena",
+        "kāyamhi"
+      ],
+      "meaning": [
+        "who?; what?; which?",
+        "where?",
+        "1st item in a numerical list",
+        "water"
+      ]
+    },
+    {
+      "lemma": "pubbanta",
+      "variants": [
+        "pubbante",
+        "Pubbantaṃ"
+      ],
+      "meaning": [
+        "past",
+        "beginning"
+      ]
+    },
+    {
+      "lemma": "yoga",
+      "variants": [
+        "yogā",
+        "yogo"
+      ],
+      "meaning": [
+        "yoke; bond; attachment (to); (comm) which bind one to the round of cyclical existence",
+        "effort; exertion; undertaking; task",
+        "meditation; contemplation",
+        "drug; medical remedy",
+        "devoted; attached; making an effort (to)",
+        "fitness; suitability",
+        "(gram) syntactically dependent on; ruled by; governed by"
+      ]
+    },
+    {
+      "lemma": "āyatana",
+      "variants": [
+        "āyatanaṃ",
+        "āyatanānaṃ",
+        "āyatanāni",
+        "āyatanā"
+      ],
+      "meaning": [
+        "sense base; internal sense organ",
+        "external sense field; sense range",
+        "realm; sphere; dimension; range",
+        "support; basis; grounds",
+        "meditation object; meditation subject"
+      ]
+    },
+    {
+      "lemma": "acari",
+      "variants": [
+        "acari",
+        "acarī"
+      ],
+      "meaning": [
+        "acted; behaved; performed; did",
+        "lived; practised",
+        "walked around; wandered around"
+      ]
+    },
+    {
+      "lemma": "appanā",
+      "variants": [
+        "appanā"
+      ],
+      "meaning": [
+        "mental fixing; absorption; trance",
+        "concluding; ending"
+      ]
+    },
+    {
+      "lemma": "añña",
+      "variants": [
+        "aññaṃ",
+        "aññā"
+      ],
+      "meaning": [
+        "another; other; different; someone else; not oneself",
+        "something more; something further; something else",
+        "other (than); apart (from)",
+        "ignorant; foolish; stupid",
+        "one thing… another"
+      ]
+    },
+    {
+      "lemma": "pubbantāparanta",
+      "variants": [
+        "pubbantāparante"
+      ],
+      "meaning": [
+        "past and future",
+        "beginning and end"
+      ]
+    },
+    {
+      "lemma": "rūpī",
+      "variants": [
+        "rūpino",
+        "rūpīnaṃ",
+        "rūpī"
+      ],
+      "meaning": [
+        "material; physical; having form"
+      ]
+    },
+    {
+      "lemma": "samanupassati",
+      "variants": [
+        "samanupassati"
+      ],
+      "meaning": [
+        "sees; perceives",
+        "regards; considers; recognises; sees (as)"
+      ]
+    },
+    {
+      "lemma": "sañjānana",
+      "variants": [
+        "sañjānanā"
+      ],
+      "meaning": [
+        "recognizing; perceiving; cognising"
+      ]
+    },
+    {
+      "lemma": "saṅkappa",
+      "variants": [
+        "saṅkappo"
+      ],
+      "meaning": [
+        "intention; volition; purpose (of)",
+        "thought; notion; conception (of)"
+      ]
+    },
+    {
+      "lemma": "takka",
+      "variants": [
+        "takko"
+      ],
+      "meaning": [
+        "thought; thinking; reasoning; logic; speculation; conjecture",
+        "buttermilk"
+      ]
+    },
+    {
+      "lemma": "avijjā",
+      "variants": [
+        "avijjā",
+        "Avijjāya"
+      ],
+      "meaning": [
+        "ignorance; illusion; not knowing; not understanding"
+      ]
+    },
+    {
+      "lemma": "carati",
+      "variants": [
+        "carati"
+      ],
+      "meaning": [
+        "walks; wanders; goes around; travels; fares on",
+        "acts; practices; performs; does",
+        "lives; leads (one's life); conducts oneself",
+        "(of cattle) grazes (in)"
+      ]
+    },
+    {
+      "lemma": "jīva",
+      "variants": [
+        "jīvaṃ"
+      ],
+      "meaning": [
+        "soul; life force",
+        "life",
+        "living; existing; being",
+        "(comm) plant; plant life"
+      ]
+    },
+    {
+      "lemma": "pathavīdhātu",
+      "variants": [
+        "Pathavīdhātu"
+      ],
+      "meaning": [
+        "solids; solid state; earth element",
+        "earth; soil",
+        "(abhi) element of extension"
+      ]
+    },
+    {
+      "lemma": "sañcetanā",
+      "variants": [
+        "sañcetanā"
+      ],
+      "meaning": [
+        "wishing; intending; willing; making a choice"
+      ]
+    },
+    {
+      "lemma": "anantavant",
+      "variants": [
+        "anantavā"
+      ],
+      "meaning": [
+        "endless; infinite; unlimited"
+      ]
+    },
+    {
+      "lemma": "antavant",
+      "variants": [
+        "antavā"
+      ],
+      "meaning": [
+        "finite; limited"
+      ]
+    },
+    {
+      "lemma": "anuppanna",
+      "variants": [
+        "anuppannā",
+        "anuppannānaṃ"
+      ],
+      "meaning": [
+        "unborn; unarisen; not existing; nonexistent"
+      ]
+    },
+    {
+      "lemma": "byāpāda",
+      "variants": [
+        "byāpādo"
+      ],
+      "meaning": [
+        "dislike; ill-will; hatred; hostility; enmity; malevolence (towards)"
+      ]
+    },
+    {
+      "lemma": "dasa",
+      "variants": [
+        "dasa"
+      ],
+      "meaning": [
+        "ten (10)",
+        "seeing; understanding",
+        "with a fringe; tasselled; bordered; edged"
+      ]
+    },
+    {
+      "lemma": "gandhadhātu",
+      "variants": [
+        "gandhadhātu"
+      ],
+      "meaning": [
+        "smells"
+      ]
+    },
+    {
+      "lemma": "ghānadhātu",
+      "variants": [
+        "ghānadhātu"
+      ],
+      "meaning": [
+        "nose"
+      ]
+    },
+    {
+      "lemma": "jivhādhātu",
+      "variants": [
+        "jivhādhātu"
+      ],
+      "meaning": [
+        "tongue"
+      ]
+    },
+    {
+      "lemma": "niyata",
+      "variants": [
+        "niyatā"
+      ],
+      "meaning": [
+        "controlled; restrained",
+        "certain; decided; invariable; unavoidable; of fixed destiny",
+        "established; fixed; settled (in)"
+      ]
+    },
+    {
+      "lemma": "pariyāpanna",
+      "variants": [
+        "pariyāpannā",
+        "pariyāpannaṃ"
+      ],
+      "meaning": [
+        "comprehensive; thorough; complete",
+        "included (in); contained (in); part (of); belonging (to)",
+        "surrounded; enclosed; encircled"
+      ]
+    },
+    {
+      "lemma": "rasadhātu",
+      "variants": [
+        "rasadhātu"
+      ],
+      "meaning": [
+        "tastes"
+      ]
+    },
+    {
+      "lemma": "saddadhātu",
+      "variants": [
+        "saddadhātu"
+      ],
+      "meaning": [
+        "sounds"
+      ]
+    },
+    {
+      "lemma": "saṃvara",
+      "variants": [
+        "saṃvaraṃ",
+        "saṃvarāya",
+        "saṃvaro"
+      ],
+      "meaning": [
+        "control; restraint; holding back (according to)",
+        "control (over); restraint (of); holding back (of)"
+      ]
+    },
+    {
+      "lemma": "sotadhātu",
+      "variants": [
+        "sotadhātu"
+      ],
+      "meaning": [
+        "clairaudience",
+        "ear"
+      ]
+    },
+    {
+      "lemma": "vicikicchānīvaraṇa",
+      "variants": [
+        "vicikicchānīvaraṇaṃ",
+        "vicikicchānīvaraṇena"
+      ],
+      "meaning": [
+        "obstacle that is doubt; hindrance of uncertainty"
+      ]
+    },
+    {
+      "lemma": "viññeyya",
+      "variants": [
+        "viññeyyā",
+        "viññeyyaṃ"
+      ],
+      "meaning": [
+        "(of speech) understandable; intelligible; easy to make out; distinguishable",
+        "could be known; should be recognized"
+      ]
+    },
+    {
+      "lemma": "āruppa",
+      "variants": [
+        "āruppā"
+      ],
+      "meaning": [
+        "formless existence; immaterial state",
+        "formless; immaterial"
+      ]
+    },
+    {
+      "lemma": "bhavataṇhā",
+      "variants": [
+        "bhavataṇhā"
+      ],
+      "meaning": [
+        "craving for becoming; craving for existence; (or) craving (for something) to be"
+      ]
+    },
+    {
+      "lemma": "bhojana",
+      "variants": [
+        "bhojane"
+      ],
+      "meaning": [
+        "food; meal",
+        "eating; taking food",
+        "nourishment; nutrition",
+        "having food; with food to eat; regarding food",
+        "(vinaya) cooked food; staple food"
+      ]
+    },
+    {
+      "lemma": "kaci",
+      "variants": [
+        "kenaci"
+      ],
+      "meaning": [
+        "someone; something; anyone; anything; whoever"
+      ]
+    },
+    {
+      "lemma": "paṭigha",
+      "variants": [
+        "paṭighaṃ"
+      ],
+      "meaning": [
+        "aversion; repulsion; resistance; irritation; conflict",
+        "(sense) impression; impingement; impact; (comm) existence in the realm of sense desire"
+      ]
+    },
+    {
+      "lemma": "sotaviññāṇa",
+      "variants": [
+        "sotaviññāṇaṃ"
+      ],
+      "meaning": [
+        "hearing; ear consciousness; auditory awareness"
+      ]
+    },
+    {
+      "lemma": "sārāga",
+      "variants": [
+        "sārāgo"
+      ],
+      "meaning": [
+        "passion; infatuation; attachment to"
+      ]
+    },
+    {
+      "lemma": "thambhitatta",
+      "variants": [
+        "thambhitattaṃ"
+      ],
+      "meaning": [
+        "stifness; rigidity; inflexibility"
+      ]
+    },
+    {
+      "lemma": "yattha",
+      "variants": [
+        "Yattha"
+      ],
+      "meaning": [
+        "wherever; where; when; in which",
+        "anywhere whatsoever",
+        "where… there",
+        "wherever; wheresoever; in whichever place; in whatever context",
+        "wherever; wheresoever; anywhere whatsoever"
+      ]
+    },
+    {
+      "lemma": "abyāpajja",
+      "variants": [
+        "abyāpajjo"
+      ],
+      "meaning": [
+        "without ill will; kind; friendly",
+        "kindness; benevolence; good-heartedness; harmlessness",
+        "unafflicted; not distressed; untroubled"
+      ]
+    },
+    {
+      "lemma": "anattamanatā",
+      "variants": [
+        "anattamanatā"
+      ],
+      "meaning": [
+        "irritation; annoyance; displeasure"
+      ]
+    },
+    {
+      "lemma": "atīta",
+      "variants": [
+        "atītā",
+        "Atīte"
+      ],
+      "meaning": [
+        "past; what is past",
+        "past; gone past; bygone",
+        "transgressed; overstepped",
+        "surpassed; overcome; surmounted"
+      ]
+    },
+    {
+      "lemma": "cāra",
+      "variants": [
+        "cāro"
+      ],
+      "meaning": [
+        "behaviour; conduct; manner",
+        "moving; going; walking; travelling",
+        "walk; journey; trip",
+        "event; affair; occasion; party"
+      ]
+    },
+    {
+      "lemma": "dussana",
+      "variants": [
+        "dussanā"
+      ],
+      "meaning": [
+        "hating; disliking",
+        "being corrupt; being septic"
+      ]
+    },
+    {
+      "lemma": "sappaccaya",
+      "variants": [
+        "sappaccayā",
+        "sappaccayaṃ"
+      ],
+      "meaning": [
+        "conditioned; correlated; causally related"
+      ]
+    },
+    {
+      "lemma": "sineha",
+      "variants": [
+        "sineho"
+      ],
+      "meaning": [
+        "moisture; fluid; wetness",
+        "desire; love; affection"
+      ]
+    },
+    {
+      "lemma": "upavicāra",
+      "variants": [
+        "upavicāro"
+      ],
+      "meaning": [
+        "exploration; examination; probing; consideration",
+        "thinking about; contemplating"
+      ]
+    },
+    {
+      "lemma": "vicikicchāsaṃyojana",
+      "variants": [
+        "vicikicchāsaṃyojanaṃ",
+        "vicikicchāsaṃyojanena"
+      ],
+      "meaning": [
+        "bond of doubt; fetter of uncertainty"
+      ]
+    },
+    {
+      "lemma": "virodha",
+      "variants": [
+        "virodho"
+      ],
+      "meaning": [
+        "opposition; aversion; hostility"
+      ]
+    },
+    {
+      "lemma": "anāgata",
+      "variants": [
+        "anāgatā",
+        "Anāgate"
+      ],
+      "meaning": [
+        "not come; not arrived; not present",
+        "future"
+      ]
+    },
+    {
+      "lemma": "appaccaya",
+      "variants": [
+        "appaccayā",
+        "appaccayo"
+      ],
+      "meaning": [
+        "causeless; without condition; for no reason",
+        "not a cause; not a reason; not a supporting condition",
+        "indignation; outrage; bitterness"
+      ]
+    },
+    {
+      "lemma": "attamanatā",
+      "variants": [
+        "attamanatā"
+      ],
+      "meaning": [
+        "pleasure; delight; satisfaction; fulfilment"
+      ]
+    },
+    {
+      "lemma": "atthaṅgama",
+      "variants": [
+        "atthaṅgamā"
+      ],
+      "meaning": [
+        "disappearance; vanishing; settling down; subsiding; passing away (of)",
+        "(of the sun) setting; going down"
+      ]
+    },
+    {
+      "lemma": "bālya",
+      "variants": [
+        "bālyaṃ"
+      ],
+      "meaning": [
+        "foolishness; stupidity; childishness; ignorance"
+      ]
+    },
+    {
+      "lemma": "dummejjha",
+      "variants": [
+        "dummejjhaṃ"
+      ],
+      "meaning": [
+        "stupidity; foolishness; ignorance; lack of wisdom"
+      ]
+    },
+    {
+      "lemma": "ghāyati",
+      "variants": [
+        "ghāyati",
+        "ghāye",
+        "ghāyissati"
+      ],
+      "meaning": [
+        "smells"
+      ]
+    },
+    {
+      "lemma": "ita",
+      "variants": [
+        "Ito"
+      ],
+      "meaning": [
+        "come; gone"
+      ]
+    },
+    {
+      "lemma": "lokiya",
+      "variants": [
+        "lokiyā",
+        "lokiyaṃ"
+      ],
+      "meaning": [
+        "worldly; mundane; commonplace"
+      ]
+    },
+    {
+      "lemma": "nirutti",
+      "variants": [
+        "nirutti"
+      ],
+      "meaning": [
+        "language; speech",
+        "way of speaking; expression",
+        "(gram) grammar; etymology",
+        "(gram) interpretation"
+      ]
+    },
+    {
+      "lemma": "niṭṭhita",
+      "variants": [
+        "niṭṭhitaṃ",
+        "niṭṭhito",
+        "niṭṭhitā"
+      ],
+      "meaning": [
+        "finished; completed; accomplished",
+        "(of food) ready; prepared"
+      ]
+    },
+    {
+      "lemma": "paccuppanna",
+      "variants": [
+        "paccuppannā",
+        "Paccuppanne"
+      ],
+      "meaning": [
+        "present; presently arisen; existing; current",
+        "present; present time"
+      ]
+    },
+    {
+      "lemma": "pamoha",
+      "variants": [
+        "pamoho"
+      ],
+      "meaning": [
+        "bewilderment; bafflement; confusion"
+      ]
+    },
+    {
+      "lemma": "paññatti",
+      "variants": [
+        "paññatti"
+      ],
+      "meaning": [
+        "name; designation; concept; description (of); what is called",
+        "teaching; instruction; communication; making known"
+      ]
+    },
+    {
+      "lemma": "phusati",
+      "variants": [
+        "phusati",
+        "phuse",
+        "phusissati"
+      ],
+      "meaning": [
+        "touches; contacts; feels; experiences",
+        "affects; befalls; harms; impacts",
+        "(of meditation attainments or Nibbāna) experiences; reaches; attains; achieves",
+        "(of a mistake) performs; commits"
+      ]
+    },
+    {
+      "lemma": "sabbeva",
+      "variants": [
+        "Sabbeva"
+      ],
+      "meaning": [
+        "all just; one and all; everyone; everything"
+      ]
+    },
+    {
+      "lemma": "sammoha",
+      "variants": [
+        "sammoho"
+      ],
+      "meaning": [
+        "confusion; delusion; bewilderment"
+      ]
+    },
+    {
+      "lemma": "satthar",
+      "variants": [
+        "Satthari"
+      ],
+      "meaning": [
+        "master; teacher",
+        "name of a privately awakened Buddha"
+      ]
+    },
+    {
+      "lemma": "saṅkhata",
+      "variants": [
+        "saṅkhatā",
+        "saṅkhataṃ"
+      ],
+      "meaning": [
+        "created; constructed; conditioned; fabricated"
+      ]
+    },
+    {
+      "lemma": "sīla",
+      "variants": [
+        "sīlena"
+      ],
+      "meaning": [
+        "ethical conduct; ethics; virtue; moral integrity",
+        "behaviour; habit",
+        "with a kind of conduct; with a certain behaviour; having a habit",
+        "custom; rite; ritual",
+        "precept; rule; training rule"
+      ]
+    },
+    {
+      "lemma": "vata",
+      "variants": [
+        "vatena"
+      ],
+      "meaning": [
+        "oh!; oh no!; oh dear!; wow!",
+        "certainly; surely; indeed",
+        "religious duty; spiritual practice; ritual observance; vow",
+        "undertaking a religious practice; having a spiritual practice; performing a ritual observance"
+      ]
+    },
+    {
+      "lemma": "viññāpana",
+      "variants": [
+        "viññāpanā"
+      ],
+      "meaning": [
+        "teaching; instruction; communication (of)",
+        "expressive; instructive (of); informative; enlightning"
+      ]
+    },
+    {
+      "lemma": "akuṭilatā",
+      "variants": [
+        "akuṭilatā"
+      ],
+      "meaning": [
+        "fact of not being bent; non-crookedness; straightforwardness"
+      ]
+    },
+    {
+      "lemma": "amanāpa",
+      "variants": [
+        "amanāpassa"
+      ],
+      "meaning": [
+        "unpleasant; dislikeable; disagreeable; detestable",
+        "unpleasant experience; something disagreeable"
+      ]
+    },
+    {
+      "lemma": "appiya",
+      "variants": [
+        "appiyassa"
+      ],
+      "meaning": [
+        "not dear (to); unloved (by); disliked (by)",
+        "enemy; foe; opposition",
+        "unpleasant; disagreeable; offensive (to)"
+      ]
+    },
+    {
+      "lemma": "araṇa",
+      "variants": [
+        "araṇā"
+      ],
+      "meaning": [
+        "harmless; benign; peaceful; not conflicting; (comm) without defilement"
+      ]
+    },
+    {
+      "lemma": "ariya",
+      "variants": [
+        "ariyānaṃ",
+        "ariyā"
+      ],
+      "meaning": [
+        "noble; distinguished; of an awakened being; of the Buddha",
+        "ethically noble person; person of moral integrity",
+        "awakened being; enlightened one; arahant",
+        "name of a privately awakened Buddha",
+        "speaker of an Indo-Aryan language",
+        "(abhi) supra-mundane",
+        "noble silence; true silence"
+      ]
+    },
+    {
+      "lemma": "dveḷhaka",
+      "variants": [
+        "dveḷhakaṃ"
+      ],
+      "meaning": [
+        "ambiguity; doubt; uncertainty"
+      ]
+    },
+    {
+      "lemma": "hāsa",
+      "variants": [
+        "hāso"
+      ],
+      "meaning": [
+        "laughter; joke",
+        "happiness; joy"
+      ]
+    },
+    {
+      "lemma": "hīna",
+      "variants": [
+        "hīnā"
+      ],
+      "meaning": [
+        "low; inferior; deficient",
+        "defeated; refuted; worsted",
+        "fallen away; lost; strayed",
+        "something inferior; something worse",
+        "laylife; secular world",
+        "devoid (of); deficient (in); lacking (in)"
+      ]
+    },
+    {
+      "lemma": "kakkhaḷa",
+      "variants": [
+        "kakkhaḷaṃ"
+      ],
+      "meaning": [
+        "hard; solid",
+        "rough; harsh; unpleasant",
+        "cruel; fierce; violent"
+      ]
+    },
+    {
+      "lemma": "kodha",
+      "variants": [
+        "kodho"
+      ],
+      "meaning": [
+        "anger; wrath; rage; temper",
+        "who here"
+      ]
+    },
+    {
+      "lemma": "kopa",
+      "variants": [
+        "kopo"
+      ],
+      "meaning": [
+        "anger; wrath; rage; temper",
+        "disturbance; perturbation; agitation"
+      ]
+    },
+    {
+      "lemma": "kukkucca",
+      "variants": [
+        "kukkuccaṃ"
+      ],
+      "meaning": [
+        "fidgeting; fiddling",
+        "misbehaviour; misconduct",
+        "uneasiness; anxiety; worry; restlessness",
+        "remorse; regret; repentance"
+      ]
+    },
+    {
+      "lemma": "lohitaka",
+      "variants": [
+        "lohitakaṃ",
+        "lohitakāni"
+      ],
+      "meaning": [
+        "red; reddish",
+        "ruby"
+      ]
+    },
+    {
+      "lemma": "manopadosa",
+      "variants": [
+        "manopadoso"
+      ],
+      "meaning": [
+        "ill-will; aversion; hatred",
+        "mental corruption; dirt in the mind"
+      ]
+    },
+    {
+      "lemma": "manāpa",
+      "variants": [
+        "manāpassa"
+      ],
+      "meaning": [
+        "pleasant; likeable; attractive; agreeable",
+        "pleasant experience; something nice"
+      ]
+    },
+    {
+      "lemma": "maraṇa",
+      "variants": [
+        "maraṇā",
+        "maraṇaṃ"
+      ],
+      "meaning": [
+        "death; dying"
+      ]
+    },
+    {
+      "lemma": "middha",
+      "variants": [
+        "middhaṃ"
+      ],
+      "meaning": [
+        "drowsiness; sluggishness; lethargy",
+        "with drowsiness; having sluggishness; with lethargy"
+      ]
+    },
+    {
+      "lemma": "nāma",
+      "variants": [
+        "nāmaṃ"
+      ],
+      "meaning": [
+        "certainly; truly; for sure",
+        "called; means; by the name of; namely",
+        "name",
+        "mental objects of consciousness; mentality; mental factors of feeling, perception, intention, contact and attention",
+        "called; named",
+        "(gram) noun; substantive",
+        "(gram) nominal stem"
+      ]
+    },
+    {
+      "lemma": "nīla",
+      "variants": [
+        "nīlaṃ",
+        "nīlāni"
+      ],
+      "meaning": [
+        "dark blue; blue-black; indigo",
+        "blue colour; blue dye; indigo",
+        "green; dark green"
+      ]
+    },
+    {
+      "lemma": "odagya",
+      "variants": [
+        "odagyaṃ"
+      ],
+      "meaning": [
+        "elation; exulatation; rapture"
+      ]
+    },
+    {
+      "lemma": "odāta",
+      "variants": [
+        "odātaṃ",
+        "odātāni"
+      ],
+      "meaning": [
+        "white",
+        "fair-skinned; of light complexion"
+      ]
+    },
+    {
+      "lemma": "padosa",
+      "variants": [
+        "padoso"
+      ],
+      "meaning": [
+        "hatred; aversion"
+      ]
+    },
+    {
+      "lemma": "pakopa",
+      "variants": [
+        "pakopo"
+      ],
+      "meaning": [
+        "agitation; irritation; disturbance"
+      ]
+    },
+    {
+      "lemma": "pamodanā",
+      "variants": [
+        "pamodanā"
+      ],
+      "meaning": [
+        "delighting; being happy; being joyful"
+      ]
+    },
+    {
+      "lemma": "parisappanā",
+      "variants": [
+        "parisappanā"
+      ],
+      "meaning": [
+        "doubting; hesitating"
+      ]
+    },
+    {
+      "lemma": "paṭighasaññā",
+      "variants": [
+        "paṭighasaññānaṃ"
+      ],
+      "meaning": [
+        "recognition of sense impression; perception of sense impact",
+        "aversion; dislike; ill-will"
+      ]
+    },
+    {
+      "lemma": "paṭighāta",
+      "variants": [
+        "paṭighāto"
+      ],
+      "meaning": [
+        "warding off; repelling; driving off; keeping at bay (of)",
+        "resistance; repulsion; aversion (of)",
+        "(of disease) prevention (of)"
+      ]
+    },
+    {
+      "lemma": "piya",
+      "variants": [
+        "piyassa"
+      ],
+      "meaning": [
+        "dear (to); beloved (by); loved (by)",
+        "liked; pleasant; agreeable",
+        "friend; dear one; loved one",
+        "love; friendship",
+        "husband; lover; partner",
+        "dearly loved; liked and loved"
+      ]
+    },
+    {
+      "lemma": "pāmojja",
+      "variants": [
+        "pāmojjaṃ"
+      ],
+      "meaning": [
+        "joy; happiness; gladness; appreciation"
+      ]
+    },
+    {
+      "lemma": "sampadosa",
+      "variants": [
+        "sampadoso"
+      ],
+      "meaning": [
+        "hatred; malice; ill-will"
+      ]
+    },
+    {
+      "lemma": "saraṇa",
+      "variants": [
+        "saraṇā"
+      ],
+      "meaning": [
+        "shelter; refuge; help; epithet of Nibbāna",
+        "house; home; shelter",
+        "walking stick; staff",
+        "harmful; malign; unpeaceful; (comm) defiled"
+      ]
+    },
+    {
+      "lemma": "sauttara",
+      "variants": [
+        "sauttarā"
+      ],
+      "meaning": [
+        "inferior; surpassable; exceed-able"
+      ]
+    },
+    {
+      "lemma": "saṃsaya",
+      "variants": [
+        "saṃsayo"
+      ],
+      "meaning": [
+        "doubt; uncertainty; anxiety"
+      ]
+    },
+    {
+      "lemma": "vijjanta",
+      "variants": [
+        "vijjā"
+      ],
+      "meaning": [
+        "existing"
+      ]
+    },
+    {
+      "lemma": "vimati",
+      "variants": [
+        "vimati"
+      ],
+      "meaning": [
+        "doubt; uncertainty; confusion (about)"
+      ]
+    },
+    {
+      "lemma": "vitti",
+      "variants": [
+        "vitti"
+      ],
+      "meaning": [
+        "joy; happiness; pleasure"
+      ]
+    },
+    {
+      "lemma": "āsappanā",
+      "variants": [
+        "āsappanā"
+      ],
+      "meaning": [
+        "being indecisive; doubting; hesitating"
+      ]
+    },
+    {
+      "lemma": "abbha",
+      "variants": [
+        "abbhā"
+      ],
+      "meaning": [
+        "cloud; dark cloud; thundercloud"
+      ]
+    },
+    {
+      "lemma": "ambila",
+      "variants": [
+        "ambilaṃ"
+      ],
+      "meaning": [
+        "sour",
+        "sour taste; acidic taste"
+      ]
+    },
+    {
+      "lemma": "andhakāra",
+      "variants": [
+        "andhakāro"
+      ],
+      "meaning": [
+        "darkness; blackness; blindness",
+        "ignorance"
+      ]
+    },
+    {
+      "lemma": "asaṃvuta",
+      "variants": [
+        "asaṃvutaṃ"
+      ],
+      "meaning": [
+        "unenclosed; void",
+        "unrestrained; uncontrolled; unguarded (in)",
+        "open; uncovered; unconcealed"
+      ]
+    },
+    {
+      "lemma": "assutavant",
+      "variants": [
+        "assutavā"
+      ],
+      "meaning": [
+        "unlearned; untaught; uninitiated; untrained"
+      ]
+    },
+    {
+      "lemma": "aṇu",
+      "variants": [
+        "aṇuṃ"
+      ],
+      "meaning": [
+        "small; tiny; minute; minuscule",
+        "subtle; fine"
+      ]
+    },
+    {
+      "lemma": "aṭṭhaṃsa",
+      "variants": [
+        "aṭṭhaṃsaṃ"
+      ],
+      "meaning": [
+        "eight-sided; with eight facets; octagonal"
+      ]
+    },
+    {
+      "lemma": "bhava",
+      "variants": [
+        "bhavesu",
+        "bhavo"
+      ],
+      "meaning": [
+        "be!; you must be!",
+        "being; becoming; existence",
+        "state of existence; form of becoming",
+        "well-being; prosperity; development"
+      ]
+    },
+    {
+      "lemma": "bāla",
+      "variants": [
+        "bālā"
+      ],
+      "meaning": [
+        "foolish; ignorant; stupid; immature",
+        "fool; idiot; immature person",
+        "young; immature; childish"
+      ]
+    },
+    {
+      "lemma": "caturaṃsa",
+      "variants": [
+        "caturaṃsaṃ"
+      ],
+      "meaning": [
+        "four-sided; with four edges"
+      ]
+    },
+    {
+      "lemma": "chāya",
+      "variants": [
+        "chāyā"
+      ],
+      "meaning": [
+        "shady; providing shade"
+      ]
+    },
+    {
+      "lemma": "deva",
+      "variants": [
+        "deve"
+      ],
+      "meaning": [
+        "deity; god",
+        "king; lord",
+        "rain god; rain cloud",
+        "sky; heavens"
+      ]
+    },
+    {
+      "lemma": "dhūma",
+      "variants": [
+        "dhūmo"
+      ],
+      "meaning": [
+        "smoke"
+      ]
+    },
+    {
+      "lemma": "dovacassatā",
+      "variants": [
+        "dovacassatā"
+      ],
+      "meaning": [
+        "unruliness; contumacy; not being amenable to verbal correction"
+      ]
+    },
+    {
+      "lemma": "dīgha",
+      "variants": [
+        "dīghaṃ"
+      ],
+      "meaning": [
+        "long (in space or time); tall; deep",
+        "name of a daemon",
+        "(gram) long vowel; metrically more than one measure long"
+      ]
+    },
+    {
+      "lemma": "ekādasaka",
+      "variants": [
+        "Ekādasakaṃ"
+      ],
+      "meaning": [
+        "eleventh; related to eleven; consisting of eleven parts",
+        "group of eleven (discourses)"
+      ]
+    },
+    {
+      "lemma": "garuka",
+      "variants": [
+        "garukaṃ"
+      ],
+      "meaning": [
+        "heavy; onerous; weighty",
+        "serious; grave",
+        "respected; esteemed; given importance",
+        "(of an offence) serious; heavy; (comm) two classes of offences, i.e. pārājika and saṅghādisesa"
+      ]
+    },
+    {
+      "lemma": "gītasadda",
+      "variants": [
+        "gītasaddo"
+      ],
+      "meaning": [
+        "sound of a song; singing"
+      ]
+    },
+    {
+      "lemma": "hari",
+      "variants": [
+        "hari"
+      ],
+      "meaning": [
+        "carried away; took away (something from)",
+        "yellow; golden"
+      ]
+    },
+    {
+      "lemma": "janeti",
+      "variants": [
+        "janeti"
+      ],
+      "meaning": [
+        "generates; produces",
+        "gives birth (to)"
+      ]
+    },
+    {
+      "lemma": "jara",
+      "variants": [
+        "jarā"
+      ],
+      "meaning": [
+        "old",
+        "old age; growing old; decay",
+        "(gram) √jar (age)"
+      ]
+    },
+    {
+      "lemma": "kaṇha",
+      "variants": [
+        "kaṇhā"
+      ],
+      "meaning": [
+        "dark; black",
+        "bad; evil; wrong",
+        "dark one; black one; evil one; epithet of Māra",
+        "name of a privately awakened Buddha"
+      ]
+    },
+    {
+      "lemma": "kaṭuka",
+      "variants": [
+        "kaṭukaṃ"
+      ],
+      "meaning": [
+        "severe; sharp; painful",
+        "bitter; acerbic",
+        "bitterness; pain",
+        "bitter taste; pungent taste; acerbic taste",
+        "(of an elephant in rut) pungent excretion"
+      ]
+    },
+    {
+      "lemma": "khanti",
+      "variants": [
+        "khanti"
+      ],
+      "meaning": [
+        "patience; endurance; tolerance",
+        "preference; acceptance; receptivity; acquiescence"
+      ]
+    },
+    {
+      "lemma": "khārika",
+      "variants": [
+        "khārikaṃ"
+      ],
+      "meaning": [
+        "alkaline; caustic",
+        "of the khāri measure"
+      ]
+    },
+    {
+      "lemma": "kāḷaka",
+      "variants": [
+        "kāḷakaṃ"
+      ],
+      "meaning": [
+        "black; black in colour; (comm) naturally black or dyed black",
+        "stain; dirt; dirty mark",
+        "(of rice) small black grain",
+        "wrong; bad; evil"
+      ]
+    },
+    {
+      "lemma": "lahuka",
+      "variants": [
+        "lahukaṃ"
+      ],
+      "meaning": [
+        "(of time or life) brief; short-lived",
+        "light; light-weight",
+        "(of an offence) trifling; unimportant; negligible; (comm) five classes of offences",
+        "quick; fast; swift"
+      ]
+    },
+    {
+      "lemma": "loṇika",
+      "variants": [
+        "loṇikaṃ"
+      ],
+      "meaning": [
+        "salty"
+      ]
+    },
+    {
+      "lemma": "madhura",
+      "variants": [
+        "madhuraṃ"
+      ],
+      "meaning": [
+        "sweet; lovely",
+        "sweet taste",
+        "sweet smell; beautiful fragrance",
+        "of Madhurā"
+      ]
+    },
+    {
+      "lemma": "muduka",
+      "variants": [
+        "mudukaṃ"
+      ],
+      "meaning": [
+        "soft; delicate; refined"
+      ]
+    },
+    {
+      "lemma": "navaka",
+      "variants": [
+        "Navakaṃ"
+      ],
+      "meaning": [
+        "novice; newcomer; new monk; monastic of less than five years standing",
+        "ennead; group of nine",
+        "consisting of nine; with nine; ninth"
+      ]
+    },
+    {
+      "lemma": "nayana",
+      "variants": [
+        "nayanaṃ"
+      ],
+      "meaning": [
+        "eye",
+        "removing"
+      ]
+    },
+    {
+      "lemma": "netta",
+      "variants": [
+        "nettaṃ"
+      ],
+      "meaning": [
+        "guide; leader",
+        "eye",
+        "rein",
+        "with eyes; having (a certain kind of) eyes; -eyed"
+      ]
+    },
+    {
+      "lemma": "nigghosasadda",
+      "variants": [
+        "nigghosasaddo"
+      ],
+      "meaning": [
+        "sound of shouting; noise; racket"
+      ]
+    },
+    {
+      "lemma": "padahati",
+      "variants": [
+        "padahati"
+      ],
+      "meaning": [
+        "exerts oneself; strives; applies oneself; endeavours (with)"
+      ]
+    },
+    {
+      "lemma": "parimaṇḍala",
+      "variants": [
+        "parimaṇḍalaṃ"
+      ],
+      "meaning": [
+        "circular; round; in circumference",
+        "well-rounded; all-encompassing; all-embracing",
+        "well pronounced; good sounding; well rounded"
+      ]
+    },
+    {
+      "lemma": "passaddhi",
+      "variants": [
+        "passaddhi"
+      ],
+      "meaning": [
+        "calm; tranquillity; peace; stillness; serenity"
+      ]
+    },
+    {
+      "lemma": "paṇḍita",
+      "variants": [
+        "paṇḍitā"
+      ],
+      "meaning": [
+        "wise; intelligent; astute; learned; knowledgeable; skilled",
+        "sage; intelligent person; wise man; smart person"
+      ]
+    },
+    {
+      "lemma": "paṭipassambhana",
+      "variants": [
+        "paṭipassambhanā"
+      ],
+      "meaning": [
+        "stilling; subsiding; settling; calming"
+      ]
+    },
+    {
+      "lemma": "paṭisanthāra",
+      "variants": [
+        "paṭisanthāro",
+        "paṭisanthārā"
+      ],
+      "meaning": [
+        "friendly reception; kind welcome; hospitality"
+      ]
+    },
+    {
+      "lemma": "pharusa",
+      "variants": [
+        "pharusaṃ"
+      ],
+      "meaning": [
+        "(of speech) harsh; rough; rude; unkind",
+        "(of feeling) violent; severe; sharp"
+      ]
+    },
+    {
+      "lemma": "pītaka",
+      "variants": [
+        "pītakaṃ"
+      ],
+      "meaning": [
+        "yellow",
+        "yellow colour",
+        "drinking; sipping"
+      ]
+    },
+    {
+      "lemma": "raja",
+      "variants": [
+        "rajo"
+      ],
+      "meaning": [
+        "dusty; dirty; with dirt"
+      ]
+    },
+    {
+      "lemma": "rassa",
+      "variants": [
+        "rassaṃ"
+      ],
+      "meaning": [
+        "(gram) letter r; 35th letter of the alphabet; retroflex semi-vowel"
+      ]
+    },
+    {
+      "lemma": "rūpavant",
+      "variants": [
+        "rūpavantaṃ"
+      ],
+      "meaning": [
+        "material; physical; having material form; possessing form",
+        "beautiful; handsome"
+      ]
+    },
+    {
+      "lemma": "sappurisa",
+      "variants": [
+        "sappurisānaṃ"
+      ],
+      "meaning": [
+        "good man; moral man; virtuous man; superior man",
+        "arahant; awakened being"
+      ]
+    },
+    {
+      "lemma": "sattaka",
+      "variants": [
+        "Sattakaṃ"
+      ],
+      "meaning": [
+        "septet; group of seven",
+        "attached; bound; stuck (to)"
+      ]
+    },
+    {
+      "lemma": "saṅgha",
+      "variants": [
+        "saṅghe"
+      ],
+      "meaning": [
+        "community; fellowship; monastic order",
+        "group; crowd; mass; multitude; collection; entourage",
+        "name of a privately awakened Buddha"
+      ]
+    },
+    {
+      "lemma": "saṇha",
+      "variants": [
+        "saṇhaṃ"
+      ],
+      "meaning": [
+        "(of speech) smooth; soft; gentle; mild; polite",
+        "fine; delicate",
+        "smooth; polished; burnished",
+        "(of cloth) smooth; soft; gentle",
+        "type of bowstring made from bamboo",
+        "(of a person) polite; speaking politely; well-mannered"
+      ]
+    },
+    {
+      "lemma": "sikkhā",
+      "variants": [
+        "sikkhāya"
+      ],
+      "meaning": [
+        "learning; training (in); practicing"
+      ]
+    },
+    {
+      "lemma": "sovacassatā",
+      "variants": [
+        "sovacassatā"
+      ],
+      "meaning": [
+        "suavity; gentleness; courteousness",
+        "docility; obedience; amenability to instruction"
+      ]
+    },
+    {
+      "lemma": "sukka",
+      "variants": [
+        "sukkā"
+      ],
+      "meaning": [
+        "pure; bright",
+        "good; positive",
+        "star; planet Venus",
+        "semen; sperm",
+        "white"
+      ]
+    },
+    {
+      "lemma": "suṇāti",
+      "variants": [
+        "suṇissati",
+        "suṇāti"
+      ],
+      "meaning": [
+        "hears",
+        "listens (to)"
+      ]
+    },
+    {
+      "lemma": "sādu",
+      "variants": [
+        "sādu"
+      ],
+      "meaning": [
+        "sweet; delicious; tasty",
+        "delicious food; tasty food; savoury food"
+      ]
+    },
+    {
+      "lemma": "sāyati",
+      "variants": [
+        "sāyati",
+        "sāyissati"
+      ],
+      "meaning": [
+        "tastes; savours"
+      ]
+    },
+    {
+      "lemma": "thūla",
+      "variants": [
+        "thūlaṃ"
+      ],
+      "meaning": [
+        "massive; large",
+        "gross; coarse"
+      ]
+    },
+    {
+      "lemma": "tika",
+      "variants": [
+        "Tikaṃ"
+      ],
+      "meaning": [
+        "three-fold",
+        "triad; group of three"
+      ]
+    },
+    {
+      "lemma": "tittaka",
+      "variants": [
+        "tittakaṃ"
+      ],
+      "meaning": [
+        "bitter; sharp",
+        "sharp taste; bitter taste"
+      ]
+    },
+    {
+      "lemma": "tārakarūpa",
+      "variants": [
+        "tārakarūpānaṃ"
+      ],
+      "meaning": [
+        "starlight; twinkling of the stars"
+      ]
+    },
+    {
+      "lemma": "vaṭṭa",
+      "variants": [
+        "vaṭṭaṃ"
+      ],
+      "meaning": [
+        "round; circular; cylindrical",
+        "circle; round piece",
+        "cycle of existence"
+      ]
+    },
+    {
+      "lemma": "virāga",
+      "variants": [
+        "virāgā"
+      ],
+      "meaning": [
+        "fading of desire (for); dispassion (towards); detachment (from); indifference (to)",
+        "fading; disappearance; cessation; destruction (of)"
+      ]
+    },
+    {
+      "lemma": "vācasika",
+      "variants": [
+        "vācasiko"
+      ],
+      "meaning": [
+        "verbal; related to speech",
+        "verbal conduct"
+      ]
+    },
+    {
+      "lemma": "āloka",
+      "variants": [
+        "āloko"
+      ],
+      "meaning": [
+        "light; brightness; clarity"
+      ]
+    },
+    {
+      "lemma": "āpajjati",
+      "variants": [
+        "āpajjati"
+      ],
+      "meaning": [
+        "comes to; experiences; gets (pleasure); suffers (pain); meets (with)",
+        "arouses; exhibits; produces; brings into being",
+        "engages in",
+        "(of an offence) commits; falls into",
+        "causes; effects",
+        "enters into a state or condition; becomes",
+        "achieves; reaches; attains"
+      ]
+    },
+    {
+      "lemma": "āpas",
+      "variants": [
+        "āpo"
+      ],
+      "meaning": [
+        "water; liquid"
+      ]
+    },
+    {
+      "lemma": "ārabhati",
+      "variants": [
+        "ārabhati"
+      ],
+      "meaning": [
+        "begins; starts; undertakes; arouses oneself; makes an effort (to)",
+        "kills; slaughters"
+      ]
+    },
+    {
+      "lemma": "ātapa",
+      "variants": [
+        "ātapo"
+      ],
+      "meaning": [
+        "heat; heat of the sun; sunshine",
+        "sunshine"
+      ]
+    },
+    {
+      "lemma": "abhikkamanta",
+      "variants": [
+        "abhikkamantassa"
+      ],
+      "meaning": [
+        "going forward; proceeding; coming; coming out; approaching"
+      ]
+    },
+    {
+      "lemma": "abhilāpa",
+      "variants": [
+        "abhilāpo"
+      ],
+      "meaning": [
+        "expression; phrasing"
+      ]
+    },
+    {
+      "lemma": "adhipati",
+      "variants": [
+        "Adhipati",
+        "adhipatiṃ"
+      ],
+      "meaning": [
+        "lord; master; ruler (of)",
+        "(abhi) dominance; predominance"
+      ]
+    },
+    {
+      "lemma": "agha",
+      "variants": [
+        "aghaṃ"
+      ],
+      "meaning": [
+        "empty space; void; vacuum of space",
+        "trouble; misfortune; pain; misery"
+      ]
+    },
+    {
+      "lemma": "aghagata",
+      "variants": [
+        "aghagataṃ"
+      ],
+      "meaning": [
+        "hollow; empty; void; vacuous"
+      ]
+    },
+    {
+      "lemma": "ajjava",
+      "variants": [
+        "ajjavo"
+      ],
+      "meaning": [
+        "uprightness; rectitude; sincerity"
+      ]
+    },
+    {
+      "lemma": "ajjhosāna",
+      "variants": [
+        "ajjhosānaṃ"
+      ],
+      "meaning": [
+        "fixation; clinging; attachment (to); obsession (with)"
+      ]
+    },
+    {
+      "lemma": "anta",
+      "variants": [
+        "anto"
+      ],
+      "meaning": [
+        "end; limit; finish; conclusion (of)",
+        "end; side; extreme",
+        "ending up as; finishing in; resulting in",
+        "intestines; entrails",
+        "inside (of); within",
+        "the worst; the lowest (of)",
+        "(gram) final; ending with; finishing with"
+      ]
+    },
+    {
+      "lemma": "antara",
+      "variants": [
+        "antare"
+      ],
+      "meaning": [
+        "inside; inner; internal; within",
+        "space between; interval; distance",
+        "occasion; opportunity",
+        "difference; distinction"
+      ]
+    },
+    {
+      "lemma": "apekkha",
+      "variants": [
+        "apekkhā"
+      ],
+      "meaning": [
+        "looking; longing (for); wanting; desiring"
+      ]
+    },
+    {
+      "lemma": "asantuṭṭhitā",
+      "variants": [
+        "asantuṭṭhitā"
+      ],
+      "meaning": [
+        "dissatisfaction; non-content (with)"
+      ]
+    },
+    {
+      "lemma": "avūpasama",
+      "variants": [
+        "avūpasamo"
+      ],
+      "meaning": [
+        "agitation; anxiety (of)"
+      ]
+    },
+    {
+      "lemma": "bahu",
+      "variants": [
+        "bahūsu"
+      ],
+      "meaning": [
+        "many; much; lots; a lot (of); great; large"
+      ]
+    },
+    {
+      "lemma": "bandhana",
+      "variants": [
+        "bandhanaṃ"
+      ],
+      "meaning": [
+        "tie; rope; bond; fetter",
+        "attachment; connection",
+        "bondage; confinement; imprisonment; tying up",
+        "tying up; kidnapping",
+        "mend; repair; fix",
+        "stalk",
+        "name of an arahant monk"
+      ]
+    },
+    {
+      "lemma": "bhavajjhosāna",
+      "variants": [
+        "bhavajjhosānaṃ"
+      ],
+      "meaning": [
+        "clinging to being; attachment to existence"
+      ]
+    },
+    {
+      "lemma": "bheda",
+      "variants": [
+        "bhedo"
+      ],
+      "meaning": [
+        "breakup; dissolution; destruction (of)",
+        "death",
+        "schism; split; breakup; disunion",
+        "breaking; splitting; tearing",
+        "disturbing; upsetting; violating",
+        "like; type of; consisting of; having",
+        "variety; distinction; difference"
+      ]
+    },
+    {
+      "lemma": "byañjana",
+      "variants": [
+        "byañjanaṃ"
+      ],
+      "meaning": [
+        "letter; syllable",
+        "word; term; expression; phrase; name",
+        "detail; aspect; sign; mark; indication; characteristic",
+        "curry; sauce; (comm) side-dish",
+        "having curries; with sauces",
+        "(gram) consonant",
+        "(gram) having a consonant"
+      ]
+    },
+    {
+      "lemma": "catubbidha",
+      "variants": [
+        "catubbidhena"
+      ],
+      "meaning": [
+        "four kinds; fourfold"
+      ]
+    },
+    {
+      "lemma": "chādana",
+      "variants": [
+        "chādanaṃ"
+      ],
+      "meaning": [
+        "covering; concealing",
+        "clothing"
+      ]
+    },
+    {
+      "lemma": "dasavidha",
+      "variants": [
+        "dasavidhena"
+      ],
+      "meaning": [
+        "tenfold; of ten kinds"
+      ]
+    },
+    {
+      "lemma": "dinna",
+      "variants": [
+        "dinnaṃ"
+      ],
+      "meaning": [
+        "given; offered (to)",
+        "offering; gift (to)",
+        "paid; outlaid; expended"
+      ]
+    },
+    {
+      "lemma": "diṭṭha",
+      "variants": [
+        "diṭṭhaṃ",
+        "diṭṭhānaṃ"
+      ],
+      "meaning": [
+        "seen; found; visible",
+        "what is seen",
+        "sight; seeing; vision",
+        "foe; enemy; adversary",
+        "seen, heard and sensed; seen, heard and perceived"
+      ]
+    },
+    {
+      "lemma": "dukkhindriya",
+      "variants": [
+        "dukkhindriyaṃ"
+      ],
+      "meaning": [
+        "suffering; faculty of pain"
+      ]
+    },
+    {
+      "lemma": "eva",
+      "variants": [
+        "eva"
+      ],
+      "meaning": [
+        "only; just; merely; exclusively",
+        "still",
+        "even; too; as well",
+        "indeed; really; certainly; absolutely",
+        "as soon as"
+      ]
+    },
+    {
+      "lemma": "gedha",
+      "variants": [
+        "gedho"
+      ],
+      "meaning": [
+        "greed; desire; yearning (for)",
+        "thicket; dense bush; tangle; (comm) (or) bondage"
+      ]
+    },
+    {
+      "lemma": "girā",
+      "variants": [
+        "girā"
+      ],
+      "meaning": [
+        "speech"
+      ]
+    },
+    {
+      "lemma": "heṭṭhato",
+      "variants": [
+        "Heṭṭhato"
+      ],
+      "meaning": [
+        "below; underneath",
+        "(gram) previously in the text"
+      ]
+    },
+    {
+      "lemma": "heṭṭhima",
+      "variants": [
+        "heṭṭhimāni",
+        "Heṭṭhimesu"
+      ],
+      "meaning": [
+        "lower"
+      ]
+    },
+    {
+      "lemma": "huta",
+      "variants": [
+        "hutaṃ"
+      ],
+      "meaning": [
+        "oblation; offering; the thing sacrificed",
+        "offered"
+      ]
+    },
+    {
+      "lemma": "iccha",
+      "variants": [
+        "icchā"
+      ],
+      "meaning": [
+        "wishing (for); desiring; wanting"
+      ]
+    },
+    {
+      "lemma": "itthatta",
+      "variants": [
+        "itthattaṃ"
+      ],
+      "meaning": [
+        "present state; existence here; such an existence",
+        "womanhood; femaleness; femininity"
+      ]
+    },
+    {
+      "lemma": "itthi",
+      "variants": [
+        "itthiyā"
+      ],
+      "meaning": [
+        "woman; female"
+      ]
+    },
+    {
+      "lemma": "janika",
+      "variants": [
+        "janikā"
+      ],
+      "meaning": [
+        "producing; generating; causing; creating; giving birth"
+      ]
+    },
+    {
+      "lemma": "jappana",
+      "variants": [
+        "jappanā"
+      ],
+      "meaning": [
+        "wanting; desiring"
+      ]
+    },
+    {
+      "lemma": "jīraṇatā",
+      "variants": [
+        "jīraṇatā"
+      ],
+      "meaning": [
+        "old age; decrepitude; deterioration"
+      ]
+    },
+    {
+      "lemma": "khīra",
+      "variants": [
+        "khīraṃ"
+      ],
+      "meaning": [
+        "milk",
+        "(of trees) milky sap; white juice",
+        "related to milk; regarding milk"
+      ]
+    },
+    {
+      "lemma": "latā",
+      "variants": [
+        "latā"
+      ],
+      "meaning": [
+        "creeper; tendril; shoot",
+        "(of lightning) fork; streak; flash"
+      ]
+    },
+    {
+      "lemma": "maccha",
+      "variants": [
+        "maccho"
+      ],
+      "meaning": [
+        "fish"
+      ]
+    },
+    {
+      "lemma": "maddava",
+      "variants": [
+        "maddavo"
+      ],
+      "meaning": [
+        "withered; shrivelled",
+        "softness; mildness; gentleness; humility"
+      ]
+    },
+    {
+      "lemma": "madhu",
+      "variants": [
+        "madhu"
+      ],
+      "meaning": [
+        "honey",
+        "sweet; sugary",
+        "mead; honey wine",
+        "Butter tree; Mahua; Bassia latifolia"
+      ]
+    },
+    {
+      "lemma": "manas",
+      "variants": [
+        "manasā"
+      ],
+      "meaning": [
+        "mind; mental faculty; intellect"
+      ]
+    },
+    {
+      "lemma": "maṃsa",
+      "variants": [
+        "maṃsaṃ"
+      ],
+      "meaning": [
+        "meat; flesh",
+        "with meat; having flesh"
+      ]
+    },
+    {
+      "lemma": "mātar",
+      "variants": [
+        "mātā"
+      ],
+      "meaning": [
+        "mother"
+      ]
+    },
+    {
+      "lemma": "nandi",
+      "variants": [
+        "nandī"
+      ],
+      "meaning": [
+        "pleasure; enjoyment; relish; delight",
+        "was glad; found delight (in); liked; enjoyed"
+      ]
+    },
+    {
+      "lemma": "nikāmanā",
+      "variants": [
+        "nikāmanā"
+      ],
+      "meaning": [
+        "desiring; craving; longing (for)"
+      ]
+    },
+    {
+      "lemma": "nāmadheyya",
+      "variants": [
+        "nāmadheyyaṃ"
+      ],
+      "meaning": [
+        "name; title; appellation"
+      ]
+    },
+    {
+      "lemma": "nāmakamma",
+      "variants": [
+        "nāmakammaṃ"
+      ],
+      "meaning": [
+        "name; denomination (for)"
+      ]
+    },
+    {
+      "lemma": "odana",
+      "variants": [
+        "Odano"
+      ],
+      "meaning": [
+        "rice; boiled rice; food",
+        "with rice; having boiled rice; with food"
+      ]
+    },
+    {
+      "lemma": "padhāna",
+      "variants": [
+        "padhānaṃ",
+        "padhānasmiṃ"
+      ],
+      "meaning": [
+        "making effort; exerting; striving; trying (to)"
+      ]
+    },
+    {
+      "lemma": "pajappā",
+      "variants": [
+        "pajappā"
+      ],
+      "meaning": [
+        "desire; yearning; prayer (for)"
+      ]
+    },
+    {
+      "lemma": "paligedha",
+      "variants": [
+        "paligedho"
+      ],
+      "meaning": [
+        "greed; craving; obsession"
+      ]
+    },
+    {
+      "lemma": "paripāka",
+      "variants": [
+        "paripāko"
+      ],
+      "meaning": [
+        "decay; deterioration",
+        "perfection; refinement; purification",
+        "maturation; development"
+      ]
+    },
+    {
+      "lemma": "pariyanta",
+      "variants": [
+        "pariyantaṃ"
+      ],
+      "meaning": [
+        "surrounded; encircled; bounded (by)",
+        "end; limit",
+        "last; final",
+        "limited to",
+        "resulting in; ending with"
+      ]
+    },
+    {
+      "lemma": "pasārenta",
+      "variants": [
+        "pasārentassa"
+      ],
+      "meaning": [
+        "stretching out; straightening; extending"
+      ]
+    },
+    {
+      "lemma": "patthana",
+      "variants": [
+        "patthanā"
+      ],
+      "meaning": [
+        "intending; wishing; aspiring; praying; longing"
+      ]
+    },
+    {
+      "lemma": "paṅka",
+      "variants": [
+        "paṅko"
+      ],
+      "meaning": [
+        "dirt; mud; mire; swamp",
+        "defilement; waste; impurity"
+      ]
+    },
+    {
+      "lemma": "paṇidhi",
+      "variants": [
+        "paṇidhi"
+      ],
+      "meaning": [
+        "aspiration (for); intention (to); prayer (for); determination (to)",
+        "aspiration; intention; prayer; determination (to)"
+      ]
+    },
+    {
+      "lemma": "paṭivirati",
+      "variants": [
+        "paṭivirati"
+      ],
+      "meaning": [
+        "abstinence; abstention; desisting (from)"
+      ]
+    },
+    {
+      "lemma": "phala",
+      "variants": [
+        "phalaṃ"
+      ],
+      "meaning": [
+        "fruit; nut; berry",
+        "consequence; result",
+        "edible food",
+        "giving fruit; resulting in; having consequences; with (such) outcome",
+        "fruit; fruition; fulfilment",
+        "(of a weapon) blade; point",
+        "crystal"
+      ]
+    },
+    {
+      "lemma": "phāṇita",
+      "variants": [
+        "phāṇitaṃ"
+      ],
+      "meaning": [
+        "sugar treacle; jaggery; molasses"
+      ]
+    },
+    {
+      "lemma": "pitar",
+      "variants": [
+        "pitā"
+      ],
+      "meaning": [
+        "father"
+      ]
+    },
+    {
+      "lemma": "purisa",
+      "variants": [
+        "purisassa"
+      ],
+      "meaning": [
+        "man; male; person",
+        "servant; labourer",
+        "male; masculine",
+        "(gram) grammatical person; 3rd 2nd 1st person"
+      ]
+    },
+    {
+      "lemma": "pālicca",
+      "variants": [
+        "pāliccaṃ"
+      ],
+      "meaning": [
+        "hoariness; grey hair"
+      ]
+    },
+    {
+      "lemma": "rāga",
+      "variants": [
+        "rāgo"
+      ],
+      "meaning": [
+        "desire; passion; lust; greed (for); infatuation (with)",
+        "craving, aversion and delusion; lust, hatred and illusion"
+      ]
+    },
+    {
+      "lemma": "saddataṇhā",
+      "variants": [
+        "saddataṇhā"
+      ],
+      "meaning": [
+        "craving for sound"
+      ]
+    },
+    {
+      "lemma": "samaññā",
+      "variants": [
+        "samaññā"
+      ],
+      "meaning": [
+        "designation; label; name; appellation",
+        "common language; normal usage; general meaning",
+        "(gram) grammatical term; technical term",
+        "name arose; designation came about"
+      ]
+    },
+    {
+      "lemma": "sammaggata",
+      "variants": [
+        "sammaggatā"
+      ],
+      "meaning": [
+        "practicing correctly; going the right way; performing correctly",
+        "who has prcticed correctly; perfected; epithet of the Buddha and awakened beings"
+      ]
+    },
+    {
+      "lemma": "santhava",
+      "variants": [
+        "santhavo"
+      ],
+      "meaning": [
+        "intimacy; close association (with)"
+      ]
+    },
+    {
+      "lemma": "sappi",
+      "variants": [
+        "sappi"
+      ],
+      "meaning": [
+        "ghee; clarified butter"
+      ]
+    },
+    {
+      "lemma": "sarita",
+      "variants": [
+        "saritā"
+      ],
+      "meaning": [
+        "flowing; in motion; streaming",
+        "remembered; recollected",
+        "hurt; injured; afflicted"
+      ]
+    },
+    {
+      "lemma": "sassatadiṭṭhi",
+      "variants": [
+        "sassatadiṭṭhi"
+      ],
+      "meaning": [
+        "eternalism; doctrine of an everlasting soul"
+      ]
+    },
+    {
+      "lemma": "saya",
+      "variants": [
+        "sayaṃ"
+      ],
+      "meaning": [
+        "lying; resting; existing; residing (in)",
+        "one's own; oneself; self-"
+      ]
+    },
+    {
+      "lemma": "sañjananī",
+      "variants": [
+        "sañjananī"
+      ],
+      "meaning": [
+        "creating; producing; generating"
+      ]
+    },
+    {
+      "lemma": "saṃhāni",
+      "variants": [
+        "saṃhāni"
+      ],
+      "meaning": [
+        "decrease; dwindling; decay; weakening (of)"
+      ]
+    },
+    {
+      "lemma": "saṅga",
+      "variants": [
+        "saṅgo"
+      ],
+      "meaning": [
+        "tie; bond; snare; sticking point",
+        "stickiness; clinging; attachment; holding on"
+      ]
+    },
+    {
+      "lemma": "soracca",
+      "variants": [
+        "soraccaṃ"
+      ],
+      "meaning": [
+        "kindness; gentleness; compassion; (comm) good virtue"
+      ]
+    },
+    {
+      "lemma": "sutta",
+      "variants": [
+        "suttaṃ"
+      ],
+      "meaning": [
+        "scripture; discourse; sacred text",
+        "(vinaya) rule; regulation; precept",
+        "(gram) grammatical rule",
+        "thread; string",
+        "sleeping; asleep",
+        "lying down; sleeping"
+      ]
+    },
+    {
+      "lemma": "uparito",
+      "variants": [
+        "uparito"
+      ],
+      "meaning": [
+        "from above; from on top",
+        "above; overhead; on top (of)"
+      ]
+    },
+    {
+      "lemma": "uppāda",
+      "variants": [
+        "uppādāya"
+      ],
+      "meaning": [
+        "arising; appearance; coming into being (of)",
+        "sudden event; strange occurrence; comet; meteor; disaster"
+      ]
+    },
+    {
+      "lemma": "vacībheda",
+      "variants": [
+        "vacībhedo"
+      ],
+      "meaning": [
+        "breaking into speech; utterance"
+      ]
+    },
+    {
+      "lemma": "vana",
+      "variants": [
+        "vanaṃ"
+      ],
+      "meaning": [
+        "wood; forest; grove",
+        "desire; craving"
+      ]
+    },
+    {
+      "lemma": "vanatha",
+      "variants": [
+        "vanatho"
+      ],
+      "meaning": [
+        "underbrush; undergrowth",
+        "desire; craving"
+      ]
+    },
+    {
+      "lemma": "vaya",
+      "variants": [
+        "vayo"
+      ],
+      "meaning": [
+        "disintegration; decay; disappearance; dissolution; vanishing",
+        "loss; decline (of)"
+      ]
+    },
+    {
+      "lemma": "veramaṇī",
+      "variants": [
+        "veramaṇī"
+      ],
+      "meaning": [
+        "abstinence; abstention (from)"
+      ]
+    },
+    {
+      "lemma": "vikkhepa",
+      "variants": [
+        "vikkhepo"
+      ],
+      "meaning": [
+        "waving motion; moving to and fro",
+        "disjunction; disconnection",
+        "disturbance; confusion; derangement"
+      ]
+    },
+    {
+      "lemma": "virati",
+      "variants": [
+        "virati"
+      ],
+      "meaning": [
+        "stopping; abstinence (from); ending"
+      ]
+    },
+    {
+      "lemma": "visaṭa",
+      "variants": [
+        "visaṭā"
+      ],
+      "meaning": [
+        "dispersed; diffused; spread out; widespread",
+        "(of a gaze) glaring; (comm) crab-eyed"
+      ]
+    },
+    {
+      "lemma": "vivaragata",
+      "variants": [
+        "vivaragataṃ"
+      ],
+      "meaning": [
+        "open; hollow; spacious"
+      ]
+    },
+    {
+      "lemma": "yoniso",
+      "variants": [
+        "yoniso"
+      ],
+      "meaning": [
+        "properly; prudently; thoroughly; carefully; intelligently",
+        "radical attention; probing attention; paying proper attention; prudently applying the mind; wise reflection"
+      ]
+    },
+    {
+      "lemma": "ācaya",
+      "variants": [
+        "ācayo"
+      ],
+      "meaning": [
+        "increase; accumulation"
+      ]
+    },
+    {
+      "lemma": "ākāsa",
+      "variants": [
+        "ākāso"
+      ],
+      "meaning": [
+        "open space; vacuity",
+        "sky; air",
+        "open air",
+        "space",
+        "(comm) game played in the air with eight by eight or ten by ten rows",
+        "environment; atmosphere",
+        "name of a family clan"
+      ]
+    },
+    {
+      "lemma": "ākāsagata",
+      "variants": [
+        "ākāsagataṃ"
+      ],
+      "meaning": [
+        "empty; hollow; vacuous; spacious",
+        "atmospheric; relating to sky",
+        "travelling by air"
+      ]
+    },
+    {
+      "lemma": "ārati",
+      "variants": [
+        "ārati"
+      ],
+      "meaning": [
+        "abstinence; stopping; desisting; refraining (from)"
+      ]
+    },
+    {
+      "lemma": "āsa",
+      "variants": [
+        "āsā"
+      ],
+      "meaning": [
+        "it was",
+        "shooting; throwing; hurling",
+        "longing for; with desire for",
+        "food; meal"
+      ]
+    },
+    {
+      "lemma": "āvaraṇa",
+      "variants": [
+        "āvaraṇaṃ"
+      ],
+      "meaning": [
+        "obstructing; blocking; impeding",
+        "obstruction; obstacle; blockage; impediment"
+      ]
+    },
+    {
+      "lemma": "abhūta",
+      "variants": [
+        "abhūtā"
+      ],
+      "meaning": [
+        "not become; not happened",
+        "false; not true",
+        "lie; untruth; falsehood"
+      ]
+    },
+    {
+      "lemma": "ajāta",
+      "variants": [
+        "ajātā"
+      ],
+      "meaning": [
+        "unborn; uncreated; unproduced",
+        "unproductive (of plant life); barren",
+        "unnatural; artificial; not naturally occurring"
+      ]
+    },
+    {
+      "lemma": "anuṭṭhita",
+      "variants": [
+        "anuṭṭhitā"
+      ],
+      "meaning": [
+        "practised; established; (comm) repeatedly practised"
+      ]
+    },
+    {
+      "lemma": "asati",
+      "variants": [
+        "asati"
+      ],
+      "meaning": [
+        "when isn't; when not existing",
+        "not remembering; forgetfulness",
+        "lack of mindfulness; loss of awareness"
+      ]
+    },
+    {
+      "lemma": "asañjāta",
+      "variants": [
+        "asañjātā"
+      ],
+      "meaning": [
+        "unborn; unarisen; non-existent"
+      ]
+    },
+    {
+      "lemma": "bhatti",
+      "variants": [
+        "bhatti"
+      ],
+      "meaning": [
+        "association; connection",
+        "devotion; attachment; adherence (to)"
+      ]
+    },
+    {
+      "lemma": "bhūta",
+      "variants": [
+        "bhūtā"
+      ],
+      "meaning": [
+        "existing; born; living",
+        "true; correct; genuine; accurate",
+        "being; living being; entity",
+        "become; born",
+        "state; elemental state; element",
+        "plant",
+        "born being; animal; creature"
+      ]
+    },
+    {
+      "lemma": "dava",
+      "variants": [
+        "davāya"
+      ],
+      "meaning": [
+        "fun; joke; play; sport; pleasure",
+        "running; racing; sprinting",
+        "wildfire; forest fire"
+      ]
+    },
+    {
+      "lemma": "dhaja",
+      "variants": [
+        "dhajo"
+      ],
+      "meaning": [
+        "flag; banner",
+        "pride; arrogance"
+      ]
+    },
+    {
+      "lemma": "duka",
+      "variants": [
+        "Dukaṃ"
+      ],
+      "meaning": [
+        "pair; dyad; group of two"
+      ]
+    },
+    {
+      "lemma": "ekaka",
+      "variants": [
+        "Ekakaṃ"
+      ],
+      "meaning": [
+        "alone; solitary",
+        "group of one"
+      ]
+    },
+    {
+      "lemma": "ghosa",
+      "variants": [
+        "ghoso"
+      ],
+      "meaning": [
+        "sound; voice; utterance",
+        "rumour; report; fame; reputation",
+        "sound; cry; shout; roar",
+        "(gram) voiced (letter); sonant; g gh ṇ; j jh ñ; ḍa ḍh ṇ; d dh n; b bh m; y r l v h ḷ"
+      ]
+    },
+    {
+      "lemma": "jāta",
+      "variants": [
+        "jātā"
+      ],
+      "meaning": [
+        "born; born (in); born (from)",
+        "became; become",
+        "grown; arisen",
+        "happened; occurred; took place",
+        "natural; naturally produced; naturally occurring",
+        "in a state of; characteristic of; become",
+        "type; class; variety; kind of (of)"
+      ]
+    },
+    {
+      "lemma": "jāti",
+      "variants": [
+        "jāti"
+      ],
+      "meaning": [
+        "birth; rebirth; conception",
+        "class; caste; social status",
+        "age; years",
+        "type; kind; category (of)"
+      ]
+    },
+    {
+      "lemma": "lubbhana",
+      "variants": [
+        "lubbhanā"
+      ],
+      "meaning": [
+        "desiring; coveting; wanting; being greedy"
+      ]
+    },
+    {
+      "lemma": "līna",
+      "variants": [
+        "līnaṃ"
+      ],
+      "meaning": [
+        "sluggish; dull",
+        "hidden; secret; concealed"
+      ]
+    },
+    {
+      "lemma": "mada",
+      "variants": [
+        "madāya"
+      ],
+      "meaning": [
+        "excess; pleasure; indulgence",
+        "vanity; pride; conceit",
+        "intoxication; poisoning"
+      ]
+    },
+    {
+      "lemma": "muta",
+      "variants": [
+        "mutaṃ"
+      ],
+      "meaning": [
+        "sensed; perceived; (or) thought; (comm) smelled, tasted, touched",
+        "what is sensed; what is perceived; (or) what is thought"
+      ]
+    },
+    {
+      "lemma": "mūla",
+      "variants": [
+        "Mūla"
+      ],
+      "meaning": [
+        "(of a tree) root; base; foot",
+        "source; origin; root",
+        "money; cash; capital; moola",
+        "(vinaya) (of a legal action) beginning; start",
+        "original; first; primary",
+        "(of money) capital; principal",
+        "base; foundation; bottom part"
+      ]
+    },
+    {
+      "lemma": "nibbatta",
+      "variants": [
+        "nibbattā"
+      ],
+      "meaning": [
+        "produced; extracted; drawn (from)",
+        "rebirth; being reborn (in)",
+        "appeared; came out"
+      ]
+    },
+    {
+      "lemma": "paccatta",
+      "variants": [
+        "paccattaṃ"
+      ],
+      "meaning": [
+        "personal; single; for oneself",
+        "individual; separate; distinct",
+        "(gram) nominative case"
+      ]
+    },
+    {
+      "lemma": "paccaya",
+      "variants": [
+        "paccayā"
+      ],
+      "meaning": [
+        "support; requisite; necessity",
+        "cause; reason; supporting condition; requirement (for)",
+        "dependent (on); reliant (on); based (on); supported (by); founded (on)",
+        "name of an arahant monk",
+        "(gram) affix; suffix; verbal ending"
+      ]
+    },
+    {
+      "lemma": "passa",
+      "variants": [
+        "passe"
+      ],
+      "meaning": [
+        "drinking; who drinks",
+        "forward; towards; forth; actively",
+        "protecting; guarding",
+        "(gram) letter p; 29th letter of the alphabet; labial consonant"
+      ]
+    },
+    {
+      "lemma": "passi",
+      "variants": [
+        "passi"
+      ],
+      "meaning": [
+        "saw; observed",
+        "name of a privately awakened Buddha"
+      ]
+    },
+    {
+      "lemma": "phusi",
+      "variants": [
+        "phusi"
+      ],
+      "meaning": [
+        "experienced; reached; attained; achieved",
+        "rained on; sprinkled; showered"
+      ]
+    },
+    {
+      "lemma": "puggala",
+      "variants": [
+        "puggalā"
+      ],
+      "meaning": [
+        "person; individual"
+      ]
+    },
+    {
+      "lemma": "pātubhūta",
+      "variants": [
+        "pātubhūtā"
+      ],
+      "meaning": [
+        "appeared; manifested; became evident"
+      ]
+    },
+    {
+      "lemma": "sambhattī",
+      "variants": [
+        "sambhatti"
+      ],
+      "meaning": [
+        "associating; keeping company (with)"
+      ]
+    },
+    {
+      "lemma": "sampayuttaka",
+      "variants": [
+        "sampayuttakā"
+      ],
+      "meaning": [
+        "associated; closely connected (with)"
+      ]
+    },
+    {
+      "lemma": "samuppanna",
+      "variants": [
+        "samuppannā"
+      ],
+      "meaning": [
+        "sprung up together; arisen; originated; happened; occurred"
+      ]
+    },
+    {
+      "lemma": "samuṭṭhita",
+      "variants": [
+        "samuṭṭhitā"
+      ],
+      "meaning": [
+        "arisen; originated (from)",
+        "full (of); laden (with)"
+      ]
+    },
+    {
+      "lemma": "samāpanna",
+      "variants": [
+        "samāpannassa"
+      ],
+      "meaning": [
+        "entered; reached; attained; achieved",
+        "undertaken; engaged in"
+      ]
+    },
+    {
+      "lemma": "sarīra",
+      "variants": [
+        "sarīraṃ"
+      ],
+      "meaning": [
+        "body",
+        "dead body; corpse",
+        "physical remains; mortal remains; relics",
+        "with a body; having a body"
+      ]
+    },
+    {
+      "lemma": "sañjāta",
+      "variants": [
+        "sañjātā"
+      ],
+      "meaning": [
+        "arisen; appeared; become",
+        "full-grown; fully-formed; completely developed",
+        "of the same birth; familial"
+      ]
+    },
+    {
+      "lemma": "saṃvigga",
+      "variants": [
+        "saṃviggassa"
+      ],
+      "meaning": [
+        "agitated; terrified; in awe; awestruck; in shock"
+      ]
+    },
+    {
+      "lemma": "sevana",
+      "variants": [
+        "sevanā"
+      ],
+      "meaning": [
+        "associating; connecting; interacting (with)"
+      ]
+    },
+    {
+      "lemma": "soppa",
+      "variants": [
+        "soppaṃ"
+      ],
+      "meaning": [
+        "sleep; sleeping in"
+      ]
+    },
+    {
+      "lemma": "suta",
+      "variants": [
+        "sutaṃ"
+      ],
+      "meaning": [
+        "heard",
+        "learned",
+        "what is heard; something heard",
+        "learning; knowledge"
+      ]
+    },
+    {
+      "lemma": "sākhalya",
+      "variants": [
+        "sākhalyaṃ"
+      ],
+      "meaning": [
+        "friendliness; kindness; gentleness"
+      ]
+    },
+    {
+      "lemma": "sāyi",
+      "variants": [
+        "sāyi"
+      ],
+      "meaning": [
+        "tasted; savoured"
+      ]
+    },
+    {
+      "lemma": "tathārūpa",
+      "variants": [
+        "tathārūpiṃ"
+      ],
+      "meaning": [
+        "such; such kind; of such quality; so formed",
+        "suitable; appropriate; fitting"
+      ]
+    },
+    {
+      "lemma": "upapanna",
+      "variants": [
+        "upapannassa"
+      ],
+      "meaning": [
+        "arose; appeared (in or on)",
+        "reborn; re-arisen (in)",
+        "possessed (of); having; with a",
+        "(gram) achieved; accomplished"
+      ]
+    },
+    {
+      "lemma": "uṭṭhita",
+      "variants": [
+        "uṭṭhitā"
+      ],
+      "meaning": [
+        "arisen; appeared; come up"
+      ]
+    },
+    {
+      "lemma": "vigata",
+      "variants": [
+        "vigatā"
+      ],
+      "meaning": [
+        "gone; departed; stopped; ceased",
+        "without; free from; devoid of"
+      ]
+    },
+    {
+      "lemma": "vimokkha",
+      "variants": [
+        "vimokkhāni"
+      ],
+      "meaning": [
+        "release; emancipation; deliverance; freedom; salvation (of)",
+        "meditation attainment"
+      ]
+    },
+    {
+      "lemma": "vimutti",
+      "variants": [
+        "vimutti",
+        "vimuttiyo"
+      ],
+      "meaning": [
+        "release; liberation; deliverance; freedom; emancipation"
+      ]
+    },
+    {
+      "lemma": "viññāta",
+      "variants": [
+        "viññātaṃ"
+      ],
+      "meaning": [
+        "known; understood; cognised",
+        "what is known; which one is conscious of; what is perceived"
+      ]
+    },
+    {
+      "lemma": "viññāya",
+      "variants": [
+        "viññāya"
+      ],
+      "meaning": [
+        "knowing; understanding; being conscious (of)"
+      ]
+    },
+    {
+      "lemma": "ānantarika",
+      "variants": [
+        "ānantarikāni"
+      ],
+      "meaning": [
+        "immediate; without delay; with no interval; with immediate results"
+      ]
+    },
+    {
+      "lemma": "āsevana",
+      "variants": [
+        "āsevanā"
+      ],
+      "meaning": [
+        "practising; applying oneself"
+      ]
+    },
+    {
+      "lemma": "adhimutti",
+      "variants": [
+        "adhimutti"
+      ],
+      "meaning": [
+        "disposition; inclination; tendency; propensity (towards)",
+        "conviction; belief; theory (about)"
+      ]
+    },
+    {
+      "lemma": "akaniṭṭha",
+      "variants": [
+        "akaniṭṭhe"
+      ],
+      "meaning": [
+        "class of devas; ultimate; greatest",
+        "ultimate; greatest; epithet of a class of devas"
+      ]
+    },
+    {
+      "lemma": "amanāpiya",
+      "variants": [
+        "amanāpiyo"
+      ],
+      "meaning": [
+        "unpleasant; dislikeable; disagreeable; detestable"
+      ]
+    },
+    {
+      "lemma": "anavajjatā",
+      "variants": [
+        "anavajjatā"
+      ],
+      "meaning": [
+        "blamelessness; absence of sin"
+      ]
+    },
+    {
+      "lemma": "anaññāta",
+      "variants": [
+        "anaññātānaṃ"
+      ],
+      "meaning": [
+        "unknown; not understood"
+      ]
+    },
+    {
+      "lemma": "anicca",
+      "variants": [
+        "aniccaṃ"
+      ],
+      "meaning": [
+        "impermanent; inconstant; not lasting; discontinuous; disordered; unstable; unreliable; irregular",
+        "impermanence; inconstance; instability; irregularity",
+        "rare; irregular; unusual",
+        "(gram) optional; not mandatory"
+      ]
+    },
+    {
+      "lemma": "anāgataṃsa",
+      "variants": [
+        "anāgataṃsena"
+      ],
+      "meaning": [
+        "future"
+      ]
+    },
+    {
+      "lemma": "appassuta",
+      "variants": [
+        "appassutā"
+      ],
+      "meaning": [
+        "ignorant; uneducated; unlearned"
+      ]
+    },
+    {
+      "lemma": "appatta",
+      "variants": [
+        "appattānaṃ"
+      ],
+      "meaning": [
+        "not reached; not attained; not gained; not accomplished; not found",
+        "unattained; unaccomplished; which has not been reached"
+      ]
+    },
+    {
+      "lemma": "araha",
+      "variants": [
+        "arahato"
+      ],
+      "meaning": [
+        "worthy (of); entitled (to); deserving (of)",
+        "value; price; worth"
+      ]
+    },
+    {
+      "lemma": "asacchikata",
+      "variants": [
+        "asacchikatānaṃ"
+      ],
+      "meaning": [
+        "not experienced for oneself; not personally realized",
+        "unexperienced; unrealized; unattained"
+      ]
+    },
+    {
+      "lemma": "asammosa",
+      "variants": [
+        "asammosāya"
+      ],
+      "meaning": [
+        "not forgetting; non-confusion",
+        "maintenance; non-disappearance; non-dispersal"
+      ]
+    },
+    {
+      "lemma": "atthaṅgata",
+      "variants": [
+        "atthaṅgatā"
+      ],
+      "meaning": [
+        "(of the sun) set; gone down",
+        "disappeared; gone; vanished"
+      ]
+    },
+    {
+      "lemma": "atītaṃsa",
+      "variants": [
+        "atītaṃsena"
+      ],
+      "meaning": [
+        "past"
+      ]
+    },
+    {
+      "lemma": "avidita",
+      "variants": [
+        "aviditānaṃ"
+      ],
+      "meaning": [
+        "unknown; not realized"
+      ]
+    },
+    {
+      "lemma": "aṭṭhaṅgika",
+      "variants": [
+        "aṭṭhaṅgiko"
+      ],
+      "meaning": [
+        "with eight parts; eight-limbed; eightfold"
+      ]
+    },
+    {
+      "lemma": "bhiyyobhāva",
+      "variants": [
+        "bhiyyobhāvāya"
+      ],
+      "meaning": [
+        "growth; increase; multiplication (of)"
+      ]
+    },
+    {
+      "lemma": "bhāsita",
+      "variants": [
+        "bhāsitā"
+      ],
+      "meaning": [
+        "saying; speech; statement; utterance; talk; words",
+        "said; spoken; recited (by)",
+        "speaking; talking; saying",
+        "(gram) ?? word"
+      ]
+    },
+    {
+      "lemma": "bhāvayanta",
+      "variants": [
+        "bhāvayantassa"
+      ],
+      "meaning": [
+        "cultivating; developing"
+      ]
+    },
+    {
+      "lemma": "byādhi",
+      "variants": [
+        "byādhi"
+      ],
+      "meaning": [
+        "sickness; disease; illness"
+      ]
+    },
+    {
+      "lemma": "caturassa",
+      "variants": [
+        "caturassaṃ"
+      ],
+      "meaning": [
+        "clever; crafty; foxy; shrewd"
+      ]
+    },
+    {
+      "lemma": "cutūpapāta",
+      "variants": [
+        "cutūpapāte"
+      ],
+      "meaning": [
+        "falling and arising; death and rebirth"
+      ]
+    },
+    {
+      "lemma": "cāgavant",
+      "variants": [
+        "cāgavanto"
+      ],
+      "meaning": [
+        "generous; open-handed"
+      ]
+    },
+    {
+      "lemma": "duppañña",
+      "variants": [
+        "duppaññā"
+      ],
+      "meaning": [
+        "foolish; stupid; unintelligent; undiscerning",
+        "fool; idiot; foolish person"
+      ]
+    },
+    {
+      "lemma": "dussīla",
+      "variants": [
+        "dussīlā"
+      ],
+      "meaning": [
+        "unprincipled; immoral; of bad behaviour",
+        "unprincipled behaviour; unethical conduct",
+        "unethical person; immoral man"
+      ]
+    },
+    {
+      "lemma": "ekodibhāva",
+      "variants": [
+        "ekodibhāvaṃ"
+      ],
+      "meaning": [
+        "singleness; integration; unification"
+      ]
+    },
+    {
+      "lemma": "gopana",
+      "variants": [
+        "gopanā"
+      ],
+      "meaning": [
+        "guarding; protecting; preserving"
+      ]
+    },
+    {
+      "lemma": "itthitta",
+      "variants": [
+        "itthittaṃ"
+      ],
+      "meaning": [
+        "fact of being female; femininity; female state"
+      ]
+    },
+    {
+      "lemma": "kadariya",
+      "variants": [
+        "kadariyaṃ"
+      ],
+      "meaning": [
+        "miserly; stingy; niggardly",
+        "miserliness; stinginess; tight-fistedness",
+        "disagreeable; bad; terrible"
+      ]
+    },
+    {
+      "lemma": "kakkasa",
+      "variants": [
+        "kakkasā"
+      ],
+      "meaning": [
+        "rough; harsh; (comm) rotten",
+        "roughness; harshness; crudeness",
+        "(of a jewel) flaw; crack; defect"
+      ]
+    },
+    {
+      "lemma": "kakkhaḷatta",
+      "variants": [
+        "kakkhaḷattaṃ"
+      ],
+      "meaning": [
+        "harshness; unpleasantness; nastiness"
+      ]
+    },
+    {
+      "lemma": "kappiya",
+      "variants": [
+        "kappiye"
+      ],
+      "meaning": [
+        "allowable; suitable; appropriate",
+        "constructing ideas; fabricating concepts"
+      ]
+    },
+    {
+      "lemma": "kevala",
+      "variants": [
+        "kevalassa"
+      ],
+      "meaning": [
+        "all; whole lot; altogether; total; entire; complete",
+        "alone; single; mere",
+        "pure; whole; absolute; uncompounded",
+        "epithet of Nibbāna",
+        "completely and utterly; complete and utter; 100%"
+      ]
+    },
+    {
+      "lemma": "kharigata",
+      "variants": [
+        "kharigataṃ"
+      ],
+      "meaning": [
+        "hard; in a solid state; solidified"
+      ]
+    },
+    {
+      "lemma": "macchariya",
+      "variants": [
+        "macchariyāni"
+      ],
+      "meaning": [
+        "selfishness; stinginess; meanness; tight-fistedness (regarding)"
+      ]
+    },
+    {
+      "lemma": "maccharī",
+      "variants": [
+        "maccharino"
+      ],
+      "meaning": [
+        "selfish; stingy; covetous; envious",
+        "miser; cheapskate; stingy person"
+      ]
+    },
+    {
+      "lemma": "macchera",
+      "variants": [
+        "maccheraṃ"
+      ],
+      "meaning": [
+        "selfishness (for); stinginess (about); meanness; tight-fistedness"
+      ]
+    },
+    {
+      "lemma": "manāpiya",
+      "variants": [
+        "manāpiyo"
+      ],
+      "meaning": [
+        "likeable; pleasant; attractive"
+      ]
+    },
+    {
+      "lemma": "namas",
+      "variants": [
+        "Namo"
+      ],
+      "meaning": [
+        "reverence; veneration; homage (to)"
+      ]
+    },
+    {
+      "lemma": "niruddha",
+      "variants": [
+        "niruddhā"
+      ],
+      "meaning": [
+        "finished; stopped; ceased; ended"
+      ]
+    },
+    {
+      "lemma": "paccuppannaṃsa",
+      "variants": [
+        "paccuppannaṃsena"
+      ],
+      "meaning": [
+        "present; current time period"
+      ]
+    },
+    {
+      "lemma": "patta",
+      "variants": [
+        "pattānaṃ"
+      ],
+      "meaning": [
+        "bowl; alms bowl; begging bowl",
+        "wing",
+        "feather",
+        "leaf",
+        "petal",
+        "with leaves; with foliage",
+        "reached; attained; gained; accomplished; found"
+      ]
+    },
+    {
+      "lemma": "paññavant",
+      "variants": [
+        "paññavanto"
+      ],
+      "meaning": [
+        "wise; intelligent; discerning; insightful; percipient",
+        "in refrence to MN34 Cūḷagopālakasutta"
+      ]
+    },
+    {
+      "lemma": "paṭisaṃvedeti",
+      "variants": [
+        "paṭisaṃvedeti"
+      ],
+      "meaning": [
+        "personally experiences; undergoes; feels"
+      ]
+    },
+    {
+      "lemma": "pemanīya",
+      "variants": [
+        "pemanīyā"
+      ],
+      "meaning": [
+        "endearing; charming"
+      ]
+    },
+    {
+      "lemma": "porī",
+      "variants": [
+        "porī"
+      ],
+      "meaning": [
+        "urbane; polite; polished; refined"
+      ]
+    },
+    {
+      "lemma": "pīta",
+      "variants": [
+        "pītāni"
+      ],
+      "meaning": [
+        "drunk",
+        "drinking; sipping",
+        "(of a metal) quenched; hardened in water",
+        "(of medicine) taken; swallowed",
+        "soaked; steeped",
+        "yellow; golden"
+      ]
+    },
+    {
+      "lemma": "rūpiya",
+      "variants": [
+        "rūpiyaṃ"
+      ],
+      "meaning": [
+        "silver; silver coin; money; cash"
+      ]
+    },
+    {
+      "lemma": "sa",
+      "variants": [
+        "sato"
+      ],
+      "meaning": [
+        "that",
+        "(gram) letter t; 24th letter of the alphabet; dental sibilant",
+        "(gram) primary suffix used to form past participles and nouns"
+      ]
+    },
+    {
+      "lemma": "sambhavati",
+      "variants": [
+        "sambhavanti"
+      ],
+      "meaning": [
+        "comes to be; happens; occurs; takes place",
+        "is; exists (for)"
+      ]
+    },
+    {
+      "lemma": "sampasādana",
+      "variants": [
+        "sampasādanaṃ"
+      ],
+      "meaning": [
+        "calming; tranquillising; pacifying; settling"
+      ]
+    },
+    {
+      "lemma": "samudaya",
+      "variants": [
+        "samudayo"
+      ],
+      "meaning": [
+        "source; origination; arising; appearance (of)",
+        "revenue; income"
+      ]
+    },
+    {
+      "lemma": "santuṭṭhitā",
+      "variants": [
+        "santuṭṭhitā"
+      ],
+      "meaning": [
+        "contentment; satisfaction"
+      ]
+    },
+    {
+      "lemma": "sattama",
+      "variants": [
+        "Sattamaṃ"
+      ],
+      "meaning": [
+        "seventh (7th)",
+        "best; most excellent; highest"
+      ]
+    },
+    {
+      "lemma": "saṃvega",
+      "variants": [
+        "saṃvego"
+      ],
+      "meaning": [
+        "alarm; sense of urgency; jolt; dismay",
+        "dread; shock; awe"
+      ]
+    },
+    {
+      "lemma": "sīlavant",
+      "variants": [
+        "sīlavanto"
+      ],
+      "meaning": [
+        "virtuous; ethical; moral"
+      ]
+    },
+    {
+      "lemma": "teja",
+      "variants": [
+        "tejo"
+      ],
+      "meaning": [
+        "flame; fire; heat",
+        "keen; sharp; piercing",
+        "spiritual fire; inner fire"
+      ]
+    },
+    {
+      "lemma": "tejogata",
+      "variants": [
+        "tejogataṃ"
+      ],
+      "meaning": [
+        "fiery; hot"
+      ]
+    },
+    {
+      "lemma": "uddesa",
+      "variants": [
+        "Uddeso"
+      ],
+      "meaning": [
+        "proposition; synopsis; statement in brief; summary; introduction",
+        "recitation; chanting",
+        "indication; expression; characteristic; description; identification",
+        "rules; precepts; Pātimokkha",
+        "teaching; instruction",
+        "destined for",
+        "intended for; designated for"
+      ]
+    },
+    {
+      "lemma": "uparima",
+      "variants": [
+        "uparimaṃ"
+      ],
+      "meaning": [
+        "upper; higher; on top"
+      ]
+    },
+    {
+      "lemma": "uppādeti",
+      "variants": [
+        "uppādessāmi"
+      ],
+      "meaning": [
+        "produces; generates; causes; gives rise to"
+      ]
+    },
+    {
+      "lemma": "upādinna",
+      "variants": [
+        "upādinnā"
+      ],
+      "meaning": [
+        "grasped; clung to; attached to; taken as mine; taken possession (of)",
+        "(of a legal point) taken up",
+        "derived; dependent on; (comm) grasped",
+        "conscious; animate; organic"
+      ]
+    },
+    {
+      "lemma": "usumā",
+      "variants": [
+        "usumaṃ"
+      ],
+      "meaning": [
+        "heat; warmth; body heat"
+      ]
+    },
+    {
+      "lemma": "usūyā",
+      "variants": [
+        "usūyā"
+      ],
+      "meaning": [
+        "jealousy; envy"
+      ]
+    },
+    {
+      "lemma": "vajja",
+      "variants": [
+        "vajje"
+      ],
+      "meaning": [
+        "speaking; saying",
+        "you could say; you should tell",
+        "fault; error; mistake (of)"
+      ]
+    },
+    {
+      "lemma": "vidita",
+      "variants": [
+        "viditānaṃ"
+      ],
+      "meaning": [
+        "known; understood; experienced",
+        "found; discovered (by)"
+      ]
+    },
+    {
+      "lemma": "vijjā",
+      "variants": [
+        "Vijjāya"
+      ],
+      "meaning": [
+        "existing"
+      ]
+    },
+    {
+      "lemma": "vipariṇata",
+      "variants": [
+        "vipariṇatā"
+      ],
+      "meaning": [
+        "changed; altered",
+        "perverted; depraved; (comm) altered by lust"
+      ]
+    },
+    {
+      "lemma": "vippaṭisāra",
+      "variants": [
+        "vippaṭisāro"
+      ],
+      "meaning": [
+        "remorse; regret"
+      ]
+    },
+    {
+      "lemma": "viññāṇapaccayā",
+      "variants": [
+        "viññāṇapaccayā"
+      ],
+      "meaning": [
+        "dependent on consciousness; due to consciousness"
+      ]
+    },
+    {
+      "lemma": "vāya",
+      "variants": [
+        "vāyo"
+      ],
+      "meaning": [
+        "like; as",
+        "even; this very",
+        "as soon as",
+        "or",
+        "(gram) letter v; 37th letter of the alphabet; dento-labial semi-vowel"
+      ]
+    },
+    {
+      "lemma": "vāyogata",
+      "variants": [
+        "vāyogataṃ"
+      ],
+      "meaning": [
+        "airy; windy; gaseous"
+      ]
+    },
+    {
+      "lemma": "yeva",
+      "variants": [
+        "Yeva"
+      ],
+      "meaning": [
+        "only; just; merely; exclusively"
+      ]
+    },
+    {
+      "lemma": "ñāta",
+      "variants": [
+        "ñātānaṃ"
+      ],
+      "meaning": [
+        "known; recognized; understood",
+        "well-known; famous; recognised"
+      ]
+    },
+    {
+      "lemma": "ārakkha",
+      "variants": [
+        "ārakkho"
+      ],
+      "meaning": [
+        "guard; watchman; protector",
+        "protection; preservation; safe-keeping; safeguarding"
+      ]
+    },
+    {
+      "lemma": "ṭhāna",
+      "variants": [
+        "ṭhānesu"
+      ],
+      "meaning": [
+        "living (on); living (in); standing (on); situated (on); remaining (in)",
+        "standing; remaining; lasting (for)"
+      ]
+    }
+  ]
+}

@@ -224,8 +224,8 @@ if __name__ == "__main__":
 
     OUTPUT_DIR = Path(__file__).resolve().parent
 
-    #SOURCE_PATH = Path(r"D:\Work\OpenPecha\abhidhamma-rails\1-SOURCES\Translations\en-1-rhys_davids.md")  # <-- change this to your .md file path
-    SOURCE_PATH = Path(r"D:\Work\OpenPecha\abhidhamma-rails\1-SOURCES\Translations\en-1-ukyaw_khine.md")
+    #SOURCE_PATH = Path(r"C:\Users\geshe lobzang tseten\repos\abhidhamma-rails\1-SOURCES\Translations\en-1-rhys_davids.md")  # <-- change this to your .md file path
+    SOURCE_PATH = Path(r"C:\Users\geshe lobzang tseten\repos\abhidhamma-rails\1-SOURCES\Translations\en-1-ukyaw_khine.md")
     source_stem = SOURCE_PATH.stem
 
     with open(SOURCE_PATH, "r", encoding="utf-8") as f:
@@ -234,11 +234,11 @@ if __name__ == "__main__":
     extractor = KeywordExtractor(score_threshold=0.3)
 
     # Preview all scores first to tune threshold
-    extractor.preview_scores(SOURCE, OUTPUT_DIR / f"{source_stem}-preview.md")
+    extractor.preview_scores(SOURCE, OUTPUT_DIR / "output" / f"{source_stem}-preview.md")
 
     # Extract keywords
     keywords = extractor.extract(SOURCE)
 
     # Save outputs
-    extractor.save_json(keywords, OUTPUT_DIR / f"{source_stem}-raw.json", OUTPUT_DIR / f"{source_stem}-normalized.json")
-    extractor.save_md(keywords, OUTPUT_DIR / f"{source_stem}-keywords.md")
+    extractor.save_json(keywords, OUTPUT_DIR /"output"/ f"{source_stem}-raw.json", OUTPUT_DIR / "output" / f"{source_stem}-normalized.json")
+    extractor.save_md(keywords, OUTPUT_DIR/ "output" / f"{source_stem}-keywords.md")

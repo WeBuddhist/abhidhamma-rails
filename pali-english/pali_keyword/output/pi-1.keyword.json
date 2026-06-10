@@ -1,0 +1,9344 @@
+{
+  "source": "C:\\Users\\geshe lobzang tseten\\repos\\abhidhamma-rails\\pali-english\\pali_keyword\\output\\pi-1.words.json",
+  "pali_keyword": [
+    {
+      "lemma": "hoti",
+      "variants": [
+        "hoti",
+        "honti"
+      ]
+    },
+    {
+      "lemma": "dhamma",
+      "variants": [
+        "dhammā",
+        "dhammānaṃ",
+        "dhamme",
+        "dhammehi",
+        "dhammesu",
+        "dhammaṃ",
+        "dhammo"
+      ]
+    },
+    {
+      "lemma": "pa",
+      "variants": [
+        "pe"
+      ]
+    },
+    {
+      "lemma": "rūpa",
+      "variants": [
+        "rūpaṃ",
+        "rūpassa",
+        "rūpāni",
+        "rūpasmiṃ",
+        "rūpamhi",
+        "rūpā"
+      ]
+    },
+    {
+      "lemma": "samaya",
+      "variants": [
+        "samaye"
+      ]
+    },
+    {
+      "lemma": "ya",
+      "variants": [
+        "Yaṃ",
+        "Yasmiṃ",
+        "ye",
+        "Yā",
+        "Yo",
+        "yamhi",
+        "yāya",
+        "yena",
+        "yesaṃ",
+        "ya"
+      ]
+    },
+    {
+      "lemma": "ima",
+      "variants": [
+        "ime",
+        "Imāni",
+        "imesaṃ",
+        "imā",
+        "imassa"
+      ]
+    },
+    {
+      "lemma": "va",
+      "variants": [
+        "vā"
+      ]
+    },
+    {
+      "lemma": "na",
+      "variants": [
+        "na"
+      ]
+    },
+    {
+      "lemma": "ca",
+      "variants": [
+        "ca"
+      ]
+    },
+    {
+      "lemma": "kusala",
+      "variants": [
+        "kusalā",
+        "kusalaṃ",
+        "kusalato",
+        "kusalassa",
+        "kusalānaṃ",
+        "kusalesu"
+      ]
+    },
+    {
+      "lemma": "jhāna",
+      "variants": [
+        "jhānaṃ",
+        "jhānassa",
+        "jhāne"
+      ]
+    },
+    {
+      "lemma": "avikkhepa",
+      "variants": [
+        "avikkhepo"
+      ]
+    },
+    {
+      "lemma": "aya",
+      "variants": [
+        "ayaṃ"
+      ]
+    },
+    {
+      "lemma": "bhūmi",
+      "variants": [
+        "bhūmīsu",
+        "bhūmiyā"
+      ]
+    },
+    {
+      "lemma": "vipāka",
+      "variants": [
+        "vipāko",
+        "vipākato",
+        "vipākaṃ",
+        "vipākā",
+        "vipākesu"
+      ]
+    },
+    {
+      "lemma": "bhāveti",
+      "variants": [
+        "bhāveti"
+      ]
+    },
+    {
+      "lemma": "viharati",
+      "variants": [
+        "viharati",
+        "viharantaṃ"
+      ]
+    },
+    {
+      "lemma": "upasampajja",
+      "variants": [
+        "upasampajja"
+      ]
+    },
+    {
+      "lemma": "citta",
+      "variants": [
+        "cittaṃ",
+        "cittassa",
+        "cittā",
+        "cittena"
+      ]
+    },
+    {
+      "lemma": "bāhira",
+      "variants": [
+        "bāhiraṃ",
+        "bāhirā"
+      ]
+    },
+    {
+      "lemma": "viññāṇakkhandha",
+      "variants": [
+        "viññāṇakkhandho",
+        "viññāṇakkhandhaṃ",
+        "viññāṇakkhandhassa"
+      ]
+    },
+    {
+      "lemma": "magga",
+      "variants": [
+        "maggaṃ",
+        "maggā",
+        "maggo"
+      ]
+    },
+    {
+      "lemma": "ka",
+      "variants": [
+        "Ka",
+        "kāyo",
+        "kāyaṃ"
+      ]
+    },
+    {
+      "lemma": "āhāra",
+      "variants": [
+        "āhāro",
+        "āhārā",
+        "āhāraṃ"
+      ]
+    },
+    {
+      "lemma": "abyākata",
+      "variants": [
+        "abyākatā",
+        "abyākataṃ"
+      ]
+    },
+    {
+      "lemma": "lokuttara",
+      "variants": [
+        "lokuttaraṃ",
+        "lokuttarassa",
+        "lokuttarā"
+      ]
+    },
+    {
+      "lemma": "uppajjati",
+      "variants": [
+        "uppajjati",
+        "uppajjissati",
+        "uppajje",
+        "uppajjanti"
+      ]
+    },
+    {
+      "lemma": "vedanā",
+      "variants": [
+        "vedanā",
+        "vedanāya",
+        "vedanaṃ"
+      ]
+    },
+    {
+      "lemma": "pana",
+      "variants": [
+        "pana"
+      ]
+    },
+    {
+      "lemma": "kāma",
+      "variants": [
+        "kāmehi",
+        "kāmesu"
+      ]
+    },
+    {
+      "lemma": "ajjhattika",
+      "variants": [
+        "ajjhattikaṃ",
+        "ajjhattikā"
+      ]
+    },
+    {
+      "lemma": "kha",
+      "variants": [
+        "Kha"
+      ]
+    },
+    {
+      "lemma": "eka",
+      "variants": [
+        "ekā",
+        "eko",
+        "ekaṃ",
+        "ekato"
+      ]
+    },
+    {
+      "lemma": "kabaḷīkāra",
+      "variants": [
+        "kabaḷīkāro"
+      ]
+    },
+    {
+      "lemma": "kilesa",
+      "variants": [
+        "kileso",
+        "kilesā",
+        "kilese"
+      ]
+    },
+    {
+      "lemma": "anidassana",
+      "variants": [
+        "anidassano",
+        "anidassanaṃ",
+        "anidassanamhi",
+        "anidassanena",
+        "anidassanā",
+        "anidassanāya"
+      ]
+    },
+    {
+      "lemma": "arūpī",
+      "variants": [
+        "arūpino",
+        "arūpīnaṃ"
+      ]
+    },
+    {
+      "lemma": "sukha",
+      "variants": [
+        "sukhaṃ",
+        "sukhassa",
+        "sukhā",
+        "sukhāya"
+      ]
+    },
+    {
+      "lemma": "sañña",
+      "variants": [
+        "saññā",
+        "saññāya",
+        "saññaṃ"
+      ]
+    },
+    {
+      "lemma": "moha",
+      "variants": [
+        "moho",
+        "mohena",
+        "mohaṃ"
+      ]
+    },
+    {
+      "lemma": "saññākkhandha",
+      "variants": [
+        "saññākkhandho",
+        "saññākkhandhaṃ",
+        "saññākkhandhassa"
+      ]
+    },
+    {
+      "lemma": "diṭṭhigata",
+      "variants": [
+        "diṭṭhigatānaṃ",
+        "diṭṭhigataṃ"
+      ]
+    },
+    {
+      "lemma": "hetu",
+      "variants": [
+        "hetū",
+        "hetu"
+      ]
+    },
+    {
+      "lemma": "manindriya",
+      "variants": [
+        "manindriyaṃ",
+        "manindriye"
+      ]
+    },
+    {
+      "lemma": "kamma",
+      "variants": [
+        "kammassa",
+        "kammānaṃ",
+        "kammāni"
+      ]
+    },
+    {
+      "lemma": "asaṅkhata",
+      "variants": [
+        "asaṅkhatā",
+        "asaṅkhato"
+      ]
+    },
+    {
+      "lemma": "kiriya",
+      "variants": [
+        "kiriyato",
+        "kiriyā",
+        "kiriyaṃ",
+        "kiriyesu"
+      ]
+    },
+    {
+      "lemma": "vatthu",
+      "variants": [
+        "vatthu",
+        "vatthuṃ"
+      ]
+    },
+    {
+      "lemma": "cetasika",
+      "variants": [
+        "cetasikaṃ",
+        "cetasiko",
+        "cetasikā"
+      ]
+    },
+    {
+      "lemma": "upādā",
+      "variants": [
+        "upādā"
+      ]
+    },
+    {
+      "lemma": "patti",
+      "variants": [
+        "pattiyā"
+      ]
+    },
+    {
+      "lemma": "sāta",
+      "variants": [
+        "sātaṃ",
+        "sātā"
+      ]
+    },
+    {
+      "lemma": "indriya",
+      "variants": [
+        "indriyaṃ",
+        "indriyesu",
+        "indriyānaṃ",
+        "indriyāni"
+      ]
+    },
+    {
+      "lemma": "vicāra",
+      "variants": [
+        "vicāro",
+        "vicāraṃ"
+      ]
+    },
+    {
+      "lemma": "vitakka",
+      "variants": [
+        "vitakko",
+        "vitakkaṃ"
+      ]
+    },
+    {
+      "lemma": "amoha",
+      "variants": [
+        "amoho"
+      ]
+    },
+    {
+      "lemma": "upādāya",
+      "variants": [
+        "upādāya"
+      ]
+    },
+    {
+      "lemma": "paritta",
+      "variants": [
+        "parittaṃ",
+        "parittāni",
+        "parittā",
+        "Paritte"
+      ]
+    },
+    {
+      "lemma": "appamāṇa",
+      "variants": [
+        "appamāṇaṃ",
+        "appamāṇāni",
+        "appamāṇā",
+        "Appamāṇe"
+      ]
+    },
+    {
+      "lemma": "uppanna",
+      "variants": [
+        "uppannaṃ",
+        "uppannā",
+        "uppanno",
+        "uppannānaṃ"
+      ]
+    },
+    {
+      "lemma": "pañña",
+      "variants": [
+        "paññā"
+      ]
+    },
+    {
+      "lemma": "upacaya",
+      "variants": [
+        "upacayo"
+      ]
+    },
+    {
+      "lemma": "bahiddha",
+      "variants": [
+        "bahiddhā"
+      ]
+    },
+    {
+      "lemma": "samatha",
+      "variants": [
+        "samatho",
+        "samathaṃ"
+      ]
+    },
+    {
+      "lemma": "suññata",
+      "variants": [
+        "suññataṃ"
+      ]
+    },
+    {
+      "lemma": "ajjhatta",
+      "variants": [
+        "ajjhattaṃ",
+        "ajjhattā",
+        "Ajjhatte"
+      ]
+    },
+    {
+      "lemma": "bhāvanā",
+      "variants": [
+        "bhāvanāya",
+        "bhāvanā"
+      ]
+    },
+    {
+      "lemma": "lobha",
+      "variants": [
+        "lobho",
+        "lobhena",
+        "lobhaṃ"
+      ]
+    },
+    {
+      "lemma": "dassana",
+      "variants": [
+        "dassanena"
+      ]
+    },
+    {
+      "lemma": "ākāsadhātu",
+      "variants": [
+        "ākāsadhātu"
+      ]
+    },
+    {
+      "lemma": "sati",
+      "variants": [
+        "sati"
+      ]
+    },
+    {
+      "lemma": "ārammaṇa",
+      "variants": [
+        "ārammaṇaṃ",
+        "ārammaṇāni"
+      ]
+    },
+    {
+      "lemma": "pīti",
+      "variants": [
+        "pīti",
+        "pītiṃ",
+        "pītiyā"
+      ]
+    },
+    {
+      "lemma": "sāsava",
+      "variants": [
+        "sāsavā",
+        "sāsavaṃ"
+      ]
+    },
+    {
+      "lemma": "adosa",
+      "variants": [
+        "adoso"
+      ]
+    },
+    {
+      "lemma": "alobha",
+      "variants": [
+        "alobho"
+      ]
+    },
+    {
+      "lemma": "avasesa",
+      "variants": [
+        "avasesā",
+        "avasesaṃ",
+        "Avaseso"
+      ]
+    },
+    {
+      "lemma": "paññindriya",
+      "variants": [
+        "paññindriyaṃ"
+      ]
+    },
+    {
+      "lemma": "upādiṇṇa",
+      "variants": [
+        "upādiṇṇaṃ",
+        "upādiṇṇā"
+      ]
+    },
+    {
+      "lemma": "atta",
+      "variants": [
+        "attānaṃ",
+        "attani",
+        "attato",
+        "attā"
+      ]
+    },
+    {
+      "lemma": "passati",
+      "variants": [
+        "passati",
+        "passissati"
+      ]
+    },
+    {
+      "lemma": "saṃyojana",
+      "variants": [
+        "saṃyojanā",
+        "saṃyojanāni",
+        "saṃyojane"
+      ]
+    },
+    {
+      "lemma": "diṭṭhi",
+      "variants": [
+        "diṭṭhi",
+        "diṭṭhiyā"
+      ]
+    },
+    {
+      "lemma": "viññāṇa",
+      "variants": [
+        "viññāṇaṃ",
+        "viññāṇasmiṃ",
+        "viññāṇehi"
+      ]
+    },
+    {
+      "lemma": "ṭhiti",
+      "variants": [
+        "ṭhiti",
+        "ṭhitiyā"
+      ]
+    },
+    {
+      "lemma": "aññāṇa",
+      "variants": [
+        "aññāṇaṃ"
+      ]
+    },
+    {
+      "lemma": "dosa",
+      "variants": [
+        "doso",
+        "dosena"
+      ]
+    },
+    {
+      "lemma": "mudutā",
+      "variants": [
+        "mudutā"
+      ]
+    },
+    {
+      "lemma": "paggāha",
+      "variants": [
+        "paggāho"
+      ]
+    },
+    {
+      "lemma": "kammaññatā",
+      "variants": [
+        "kammaññatā"
+      ]
+    },
+    {
+      "lemma": "lahutā",
+      "variants": [
+        "lahutā"
+      ]
+    },
+    {
+      "lemma": "āsava",
+      "variants": [
+        "āsavā",
+        "āsavo",
+        "āsave",
+        "āsavānaṃ"
+      ]
+    },
+    {
+      "lemma": "gantha",
+      "variants": [
+        "ganthā",
+        "gantho",
+        "ganthe"
+      ]
+    },
+    {
+      "lemma": "paṇḍara",
+      "variants": [
+        "paṇḍaraṃ"
+      ]
+    },
+    {
+      "lemma": "loka",
+      "variants": [
+        "loko",
+        "lokaṃ",
+        "loke"
+      ]
+    },
+    {
+      "lemma": "majjhima",
+      "variants": [
+        "majjhimaṃ",
+        "majjhimā"
+      ]
+    },
+    {
+      "lemma": "nīvaraṇa",
+      "variants": [
+        "nīvaraṇā",
+        "nīvaraṇāni",
+        "nīvaraṇaṃ",
+        "nīvaraṇe"
+      ]
+    },
+    {
+      "lemma": "paṇīta",
+      "variants": [
+        "paṇītaṃ",
+        "paṇītā"
+      ]
+    },
+    {
+      "lemma": "upādāna",
+      "variants": [
+        "upādānā",
+        "upādānaṃ",
+        "upādānāni",
+        "upādāne"
+      ]
+    },
+    {
+      "lemma": "kho",
+      "variants": [
+        "kho"
+      ]
+    },
+    {
+      "lemma": "parāmāsa",
+      "variants": [
+        "parāmāsā",
+        "parāmāso",
+        "parāmāsaṃ"
+      ]
+    },
+    {
+      "lemma": "vedayita",
+      "variants": [
+        "vedayitaṃ"
+      ]
+    },
+    {
+      "lemma": "dhammadhātu",
+      "variants": [
+        "dhammadhātu"
+      ]
+    },
+    {
+      "lemma": "dhātu",
+      "variants": [
+        "dhātuyo",
+        "dhātuṃ"
+      ]
+    },
+    {
+      "lemma": "dukkha",
+      "variants": [
+        "dukkhaṃ",
+        "Dukkhe",
+        "dukkhā",
+        "dukkhāya",
+        "dukkhassa"
+      ]
+    },
+    {
+      "lemma": "nissāya",
+      "variants": [
+        "nissāya"
+      ]
+    },
+    {
+      "lemma": "uppajji",
+      "variants": [
+        "uppajji"
+      ]
+    },
+    {
+      "lemma": "hi",
+      "variants": [
+        "hīnaṃ"
+      ]
+    },
+    {
+      "lemma": "khandha",
+      "variants": [
+        "khandhā",
+        "khandhaṃ"
+      ]
+    },
+    {
+      "lemma": "oḷārika",
+      "variants": [
+        "oḷārikaṃ"
+      ]
+    },
+    {
+      "lemma": "santika",
+      "variants": [
+        "santike"
+      ]
+    },
+    {
+      "lemma": "uddhacca",
+      "variants": [
+        "uddhaccaṃ",
+        "uddhaccena"
+      ]
+    },
+    {
+      "lemma": "adukkhamasukha",
+      "variants": [
+        "adukkhamasukhaṃ",
+        "adukkhamasukhā",
+        "adukkhamasukhāya"
+      ]
+    },
+    {
+      "lemma": "cakkhuviññāṇa",
+      "variants": [
+        "cakkhuviññāṇassa",
+        "cakkhuviññāṇaṃ"
+      ]
+    },
+    {
+      "lemma": "pajānana",
+      "variants": [
+        "pajānanā"
+      ]
+    },
+    {
+      "lemma": "vūpasama",
+      "variants": [
+        "vūpasamā"
+      ]
+    },
+    {
+      "lemma": "sanidassana",
+      "variants": [
+        "sanidassanaṃ",
+        "sanidassanā",
+        "sanidassanamhi"
+      ]
+    },
+    {
+      "lemma": "sukhuma",
+      "variants": [
+        "sukhumaṃ"
+      ]
+    },
+    {
+      "lemma": "vicikicchā",
+      "variants": [
+        "vicikicchā",
+        "vicikicchāya"
+      ]
+    },
+    {
+      "lemma": "vipassanā",
+      "variants": [
+        "vipassanā"
+      ]
+    },
+    {
+      "lemma": "āghāta",
+      "variants": [
+        "āghāto"
+      ]
+    },
+    {
+      "lemma": "cakkhu",
+      "variants": [
+        "cakkhuṃ",
+        "cakkhu",
+        "cakkhunā",
+        "cakkhumhi"
+      ]
+    },
+    {
+      "lemma": "manoviññāṇadhātu",
+      "variants": [
+        "manoviññāṇadhātu"
+      ]
+    },
+    {
+      "lemma": "ārabbha",
+      "variants": [
+        "ārabbha"
+      ]
+    },
+    {
+      "lemma": "pasāda",
+      "variants": [
+        "pasādo"
+      ]
+    },
+    {
+      "lemma": "suñña",
+      "variants": [
+        "suñño"
+      ]
+    },
+    {
+      "lemma": "anattha",
+      "variants": [
+        "anatthaṃ"
+      ]
+    },
+    {
+      "lemma": "jāyati",
+      "variants": [
+        "jāyati"
+      ]
+    },
+    {
+      "lemma": "sampayutta",
+      "variants": [
+        "sampayuttā"
+      ]
+    },
+    {
+      "lemma": "gāma",
+      "variants": [
+        "gāmo"
+      ]
+    },
+    {
+      "lemma": "bala",
+      "variants": [
+        "balāni",
+        "balaṃ"
+      ]
+    },
+    {
+      "lemma": "hadaya",
+      "variants": [
+        "hadayaṃ"
+      ]
+    },
+    {
+      "lemma": "mānasa",
+      "variants": [
+        "mānasaṃ"
+      ]
+    },
+    {
+      "lemma": "pāpaka",
+      "variants": [
+        "pāpakānaṃ",
+        "pāpakā"
+      ]
+    },
+    {
+      "lemma": "samāpatti",
+      "variants": [
+        "samāpattiyā",
+        "samāpatti",
+        "samāpattīhi",
+        "samāpattīnaṃ"
+      ]
+    },
+    {
+      "lemma": "upekkhindriya",
+      "variants": [
+        "upekkhindriyaṃ"
+      ]
+    },
+    {
+      "lemma": "avaṭṭhiti",
+      "variants": [
+        "avaṭṭhiti"
+      ]
+    },
+    {
+      "lemma": "gandha",
+      "variants": [
+        "gandho",
+        "gandhaṃ",
+        "gandhamhi"
+      ]
+    },
+    {
+      "lemma": "ghāna",
+      "variants": [
+        "ghānaṃ",
+        "ghānena",
+        "ghānamhi"
+      ]
+    },
+    {
+      "lemma": "rasa",
+      "variants": [
+        "raso",
+        "rasaṃ",
+        "rasamhi"
+      ]
+    },
+    {
+      "lemma": "sadda",
+      "variants": [
+        "saddo",
+        "saddaṃ",
+        "saddamhi"
+      ]
+    },
+    {
+      "lemma": "saṇṭhiti",
+      "variants": [
+        "saṇṭhiti"
+      ]
+    },
+    {
+      "lemma": "somanassindriya",
+      "variants": [
+        "somanassindriyaṃ"
+      ]
+    },
+    {
+      "lemma": "sota",
+      "variants": [
+        "sotaṃ",
+        "sotena",
+        "sotamhi"
+      ]
+    },
+    {
+      "lemma": "kāyaviññeyya",
+      "variants": [
+        "kāyaviññeyyā",
+        "kāyaviññeyyaṃ"
+      ]
+    },
+    {
+      "lemma": "para",
+      "variants": [
+        "paraṃ",
+        "paro"
+      ]
+    },
+    {
+      "lemma": "saṃyojaniya",
+      "variants": [
+        "saṃyojaniyā",
+        "saṃyojaniyaṃ"
+      ]
+    },
+    {
+      "lemma": "abyāpāda",
+      "variants": [
+        "abyāpādo"
+      ]
+    },
+    {
+      "lemma": "anabhijjhā",
+      "variants": [
+        "anabhijjhā"
+      ]
+    },
+    {
+      "lemma": "bhūri",
+      "variants": [
+        "bhūrī"
+      ]
+    },
+    {
+      "lemma": "cakkhuviññeyya",
+      "variants": [
+        "cakkhuviññeyyā",
+        "cakkhuviññeyyaṃ"
+      ]
+    },
+    {
+      "lemma": "cintā",
+      "variants": [
+        "cintā"
+      ]
+    },
+    {
+      "lemma": "ga",
+      "variants": [
+        "Ga"
+      ]
+    },
+    {
+      "lemma": "kosalla",
+      "variants": [
+        "kosallaṃ"
+      ]
+    },
+    {
+      "lemma": "medha",
+      "variants": [
+        "medhā"
+      ]
+    },
+    {
+      "lemma": "patoda",
+      "variants": [
+        "patodo"
+      ]
+    },
+    {
+      "lemma": "paṇḍicca",
+      "variants": [
+        "paṇḍiccaṃ"
+      ]
+    },
+    {
+      "lemma": "vebhabyā",
+      "variants": [
+        "vebhabyā"
+      ]
+    },
+    {
+      "lemma": "vicaya",
+      "variants": [
+        "vicayo"
+      ]
+    },
+    {
+      "lemma": "māna",
+      "variants": [
+        "māno",
+        "mānena"
+      ]
+    },
+    {
+      "lemma": "sasaṅkhāra",
+      "variants": [
+        "sasaṅkhārena"
+      ]
+    },
+    {
+      "lemma": "viññatti",
+      "variants": [
+        "viññatti"
+      ]
+    },
+    {
+      "lemma": "animitta",
+      "variants": [
+        "animittaṃ"
+      ]
+    },
+    {
+      "lemma": "cakkhudhātu",
+      "variants": [
+        "cakkhudhātu"
+      ]
+    },
+    {
+      "lemma": "dvāra",
+      "variants": [
+        "dvārā"
+      ]
+    },
+    {
+      "lemma": "hiri",
+      "variants": [
+        "hirī"
+      ]
+    },
+    {
+      "lemma": "khetta",
+      "variants": [
+        "khettaṃ"
+      ]
+    },
+    {
+      "lemma": "kāyadhātu",
+      "variants": [
+        "kāyadhātu"
+      ]
+    },
+    {
+      "lemma": "sabbaso",
+      "variants": [
+        "sabbaso"
+      ]
+    },
+    {
+      "lemma": "samudda",
+      "variants": [
+        "samuddo"
+      ]
+    },
+    {
+      "lemma": "tathāgata",
+      "variants": [
+        "tathāgato"
+      ]
+    },
+    {
+      "lemma": "tīra",
+      "variants": [
+        "tīraṃ"
+      ]
+    },
+    {
+      "lemma": "vīriya",
+      "variants": [
+        "vīriyaṃ"
+      ]
+    },
+    {
+      "lemma": "thina",
+      "variants": [
+        "thinaṃ",
+        "thinena"
+      ]
+    },
+    {
+      "lemma": "abhijjhā",
+      "variants": [
+        "abhijjhā"
+      ]
+    },
+    {
+      "lemma": "asāta",
+      "variants": [
+        "asātaṃ",
+        "asātā"
+      ]
+    },
+    {
+      "lemma": "phoṭṭhabba",
+      "variants": [
+        "phoṭṭhabbaṃ",
+        "phoṭṭhabbo",
+        "phoṭṭhabbamhi"
+      ]
+    },
+    {
+      "lemma": "saṃkiliṭṭha",
+      "variants": [
+        "saṃkiliṭṭhā"
+      ]
+    },
+    {
+      "lemma": "sabba",
+      "variants": [
+        "sabbaṃ",
+        "sabbo",
+        "sabbe"
+      ]
+    },
+    {
+      "lemma": "ussoḷhi",
+      "variants": [
+        "ussoḷhī",
+        "ussoḷhi"
+      ]
+    },
+    {
+      "lemma": "āyu",
+      "variants": [
+        "āyu",
+        "āyuno"
+      ]
+    },
+    {
+      "lemma": "cetas",
+      "variants": [
+        "cetaso"
+      ]
+    },
+    {
+      "lemma": "dhiti",
+      "variants": [
+        "dhiti"
+      ]
+    },
+    {
+      "lemma": "kāyika",
+      "variants": [
+        "kāyikaṃ",
+        "kāyiko"
+      ]
+    },
+    {
+      "lemma": "manodhātu",
+      "variants": [
+        "manodhātu",
+        "manodhātuyo"
+      ]
+    },
+    {
+      "lemma": "manokamma",
+      "variants": [
+        "manokammaṃ"
+      ]
+    },
+    {
+      "lemma": "nikkama",
+      "variants": [
+        "nikkamo"
+      ]
+    },
+    {
+      "lemma": "parakkama",
+      "variants": [
+        "parakkamo"
+      ]
+    },
+    {
+      "lemma": "thāmas",
+      "variants": [
+        "thāmo"
+      ]
+    },
+    {
+      "lemma": "ussāha",
+      "variants": [
+        "ussāho"
+      ]
+    },
+    {
+      "lemma": "uyyāma",
+      "variants": [
+        "uyyāmo"
+      ]
+    },
+    {
+      "lemma": "vacīkamma",
+      "variants": [
+        "vacīkammaṃ"
+      ]
+    },
+    {
+      "lemma": "vāca",
+      "variants": [
+        "vācā",
+        "vācāya",
+        "vācaṃ"
+      ]
+    },
+    {
+      "lemma": "vāyāma",
+      "variants": [
+        "vāyāmo"
+      ]
+    },
+    {
+      "lemma": "attha",
+      "variants": [
+        "atthaṃ"
+      ]
+    },
+    {
+      "lemma": "samatikkamma",
+      "variants": [
+        "samatikkamma"
+      ]
+    },
+    {
+      "lemma": "saṅkhāra",
+      "variants": [
+        "saṅkhārā",
+        "saṅkhāre",
+        "saṅkhāresu"
+      ]
+    },
+    {
+      "lemma": "vippayutta",
+      "variants": [
+        "vippayuttā"
+      ]
+    },
+    {
+      "lemma": "yāpana",
+      "variants": [
+        "yāpanā",
+        "yāpanāya"
+      ]
+    },
+    {
+      "lemma": "abhinivesa",
+      "variants": [
+        "abhiniveso"
+      ]
+    },
+    {
+      "lemma": "gāha",
+      "variants": [
+        "gāho"
+      ]
+    },
+    {
+      "lemma": "jīvita",
+      "variants": [
+        "jīvitaṃ"
+      ]
+    },
+    {
+      "lemma": "micchatta",
+      "variants": [
+        "micchattaṃ"
+      ]
+    },
+    {
+      "lemma": "sacca",
+      "variants": [
+        "saccaṃ"
+      ]
+    },
+    {
+      "lemma": "vattana",
+      "variants": [
+        "vattanā"
+      ]
+    },
+    {
+      "lemma": "yapana",
+      "variants": [
+        "yapanā"
+      ]
+    },
+    {
+      "lemma": "aṭṭha",
+      "variants": [
+        "aṭṭhasu",
+        "aṭṭha"
+      ]
+    },
+    {
+      "lemma": "paṭipada",
+      "variants": [
+        "paṭipadāya",
+        "paṭipadā"
+      ]
+    },
+    {
+      "lemma": "saddha",
+      "variants": [
+        "saddhā"
+      ]
+    },
+    {
+      "lemma": "suddhi",
+      "variants": [
+        "suddhi",
+        "suddhī"
+      ]
+    },
+    {
+      "lemma": "anussati",
+      "variants": [
+        "anussati"
+      ]
+    },
+    {
+      "lemma": "aparanta",
+      "variants": [
+        "aparante",
+        "Aparantaṃ"
+      ]
+    },
+    {
+      "lemma": "byāpatti",
+      "variants": [
+        "byāpatti"
+      ]
+    },
+    {
+      "lemma": "kāya",
+      "variants": [
+        "kāyassa",
+        "kāyena",
+        "kāyamhi"
+      ]
+    },
+    {
+      "lemma": "pubbanta",
+      "variants": [
+        "pubbante",
+        "Pubbantaṃ"
+      ]
+    },
+    {
+      "lemma": "yoga",
+      "variants": [
+        "yogā",
+        "yogo"
+      ]
+    },
+    {
+      "lemma": "āyatana",
+      "variants": [
+        "āyatanaṃ",
+        "āyatanānaṃ",
+        "āyatanāni",
+        "āyatanā"
+      ]
+    },
+    {
+      "lemma": "acari",
+      "variants": [
+        "acari",
+        "acarī"
+      ]
+    },
+    {
+      "lemma": "appanā",
+      "variants": [
+        "appanā"
+      ]
+    },
+    {
+      "lemma": "añña",
+      "variants": [
+        "aññaṃ",
+        "aññā"
+      ]
+    },
+    {
+      "lemma": "pubbantāparanta",
+      "variants": [
+        "pubbantāparante"
+      ]
+    },
+    {
+      "lemma": "rūpī",
+      "variants": [
+        "rūpino",
+        "rūpīnaṃ",
+        "rūpī"
+      ]
+    },
+    {
+      "lemma": "samanupassati",
+      "variants": [
+        "samanupassati"
+      ]
+    },
+    {
+      "lemma": "sañjānana",
+      "variants": [
+        "sañjānanā"
+      ]
+    },
+    {
+      "lemma": "saṅkappa",
+      "variants": [
+        "saṅkappo"
+      ]
+    },
+    {
+      "lemma": "takka",
+      "variants": [
+        "takko"
+      ]
+    },
+    {
+      "lemma": "avijjā",
+      "variants": [
+        "avijjā",
+        "Avijjāya"
+      ]
+    },
+    {
+      "lemma": "carati",
+      "variants": [
+        "carati"
+      ]
+    },
+    {
+      "lemma": "jīva",
+      "variants": [
+        "jīvaṃ"
+      ]
+    },
+    {
+      "lemma": "pathavīdhātu",
+      "variants": [
+        "Pathavīdhātu"
+      ]
+    },
+    {
+      "lemma": "sañcetanā",
+      "variants": [
+        "sañcetanā"
+      ]
+    },
+    {
+      "lemma": "anantavant",
+      "variants": [
+        "anantavā"
+      ]
+    },
+    {
+      "lemma": "antavant",
+      "variants": [
+        "antavā"
+      ]
+    },
+    {
+      "lemma": "anuppanna",
+      "variants": [
+        "anuppannā",
+        "anuppannānaṃ"
+      ]
+    },
+    {
+      "lemma": "byāpāda",
+      "variants": [
+        "byāpādo"
+      ]
+    },
+    {
+      "lemma": "dasa",
+      "variants": [
+        "dasa"
+      ]
+    },
+    {
+      "lemma": "gandhadhātu",
+      "variants": [
+        "gandhadhātu"
+      ]
+    },
+    {
+      "lemma": "ghānadhātu",
+      "variants": [
+        "ghānadhātu"
+      ]
+    },
+    {
+      "lemma": "jivhādhātu",
+      "variants": [
+        "jivhādhātu"
+      ]
+    },
+    {
+      "lemma": "niyata",
+      "variants": [
+        "niyatā"
+      ]
+    },
+    {
+      "lemma": "pariyāpanna",
+      "variants": [
+        "pariyāpannā",
+        "pariyāpannaṃ"
+      ]
+    },
+    {
+      "lemma": "rasadhātu",
+      "variants": [
+        "rasadhātu"
+      ]
+    },
+    {
+      "lemma": "saddadhātu",
+      "variants": [
+        "saddadhātu"
+      ]
+    },
+    {
+      "lemma": "saṃvara",
+      "variants": [
+        "saṃvaraṃ",
+        "saṃvarāya",
+        "saṃvaro"
+      ]
+    },
+    {
+      "lemma": "sotadhātu",
+      "variants": [
+        "sotadhātu"
+      ]
+    },
+    {
+      "lemma": "vicikicchānīvaraṇa",
+      "variants": [
+        "vicikicchānīvaraṇaṃ",
+        "vicikicchānīvaraṇena"
+      ]
+    },
+    {
+      "lemma": "viññeyya",
+      "variants": [
+        "viññeyyā",
+        "viññeyyaṃ"
+      ]
+    },
+    {
+      "lemma": "āruppa",
+      "variants": [
+        "āruppā"
+      ]
+    },
+    {
+      "lemma": "bhavataṇhā",
+      "variants": [
+        "bhavataṇhā"
+      ]
+    },
+    {
+      "lemma": "bhojana",
+      "variants": [
+        "bhojane"
+      ]
+    },
+    {
+      "lemma": "kaci",
+      "variants": [
+        "kenaci"
+      ]
+    },
+    {
+      "lemma": "paṭigha",
+      "variants": [
+        "paṭighaṃ"
+      ]
+    },
+    {
+      "lemma": "sotaviññāṇa",
+      "variants": [
+        "sotaviññāṇaṃ"
+      ]
+    },
+    {
+      "lemma": "sārāga",
+      "variants": [
+        "sārāgo"
+      ]
+    },
+    {
+      "lemma": "thambhitatta",
+      "variants": [
+        "thambhitattaṃ"
+      ]
+    },
+    {
+      "lemma": "yattha",
+      "variants": [
+        "Yattha"
+      ]
+    },
+    {
+      "lemma": "abyāpajja",
+      "variants": [
+        "abyāpajjo"
+      ]
+    },
+    {
+      "lemma": "anattamanatā",
+      "variants": [
+        "anattamanatā"
+      ]
+    },
+    {
+      "lemma": "atīta",
+      "variants": [
+        "atītā",
+        "Atīte"
+      ]
+    },
+    {
+      "lemma": "cāra",
+      "variants": [
+        "cāro"
+      ]
+    },
+    {
+      "lemma": "dussana",
+      "variants": [
+        "dussanā"
+      ]
+    },
+    {
+      "lemma": "sappaccaya",
+      "variants": [
+        "sappaccayā",
+        "sappaccayaṃ"
+      ]
+    },
+    {
+      "lemma": "sineha",
+      "variants": [
+        "sineho"
+      ]
+    },
+    {
+      "lemma": "upavicāra",
+      "variants": [
+        "upavicāro"
+      ]
+    },
+    {
+      "lemma": "vicikicchāsaṃyojana",
+      "variants": [
+        "vicikicchāsaṃyojanaṃ",
+        "vicikicchāsaṃyojanena"
+      ]
+    },
+    {
+      "lemma": "virodha",
+      "variants": [
+        "virodho"
+      ]
+    },
+    {
+      "lemma": "anāgata",
+      "variants": [
+        "anāgatā",
+        "Anāgate"
+      ]
+    },
+    {
+      "lemma": "appaccaya",
+      "variants": [
+        "appaccayā",
+        "appaccayo"
+      ]
+    },
+    {
+      "lemma": "attamanatā",
+      "variants": [
+        "attamanatā"
+      ]
+    },
+    {
+      "lemma": "atthaṅgama",
+      "variants": [
+        "atthaṅgamā"
+      ]
+    },
+    {
+      "lemma": "bālya",
+      "variants": [
+        "bālyaṃ"
+      ]
+    },
+    {
+      "lemma": "dummejjha",
+      "variants": [
+        "dummejjhaṃ"
+      ]
+    },
+    {
+      "lemma": "ghāyati",
+      "variants": [
+        "ghāyati",
+        "ghāye",
+        "ghāyissati"
+      ]
+    },
+    {
+      "lemma": "ita",
+      "variants": [
+        "Ito"
+      ]
+    },
+    {
+      "lemma": "lokiya",
+      "variants": [
+        "lokiyā",
+        "lokiyaṃ"
+      ]
+    },
+    {
+      "lemma": "nirutti",
+      "variants": [
+        "nirutti"
+      ]
+    },
+    {
+      "lemma": "niṭṭhita",
+      "variants": [
+        "niṭṭhitaṃ",
+        "niṭṭhito",
+        "niṭṭhitā"
+      ]
+    },
+    {
+      "lemma": "paccuppanna",
+      "variants": [
+        "paccuppannā",
+        "Paccuppanne"
+      ]
+    },
+    {
+      "lemma": "pamoha",
+      "variants": [
+        "pamoho"
+      ]
+    },
+    {
+      "lemma": "paññatti",
+      "variants": [
+        "paññatti"
+      ]
+    },
+    {
+      "lemma": "phusati",
+      "variants": [
+        "phusati",
+        "phuse",
+        "phusissati"
+      ]
+    },
+    {
+      "lemma": "sabbeva",
+      "variants": [
+        "Sabbeva"
+      ]
+    },
+    {
+      "lemma": "sammoha",
+      "variants": [
+        "sammoho"
+      ]
+    },
+    {
+      "lemma": "satthar",
+      "variants": [
+        "Satthari"
+      ]
+    },
+    {
+      "lemma": "saṅkhata",
+      "variants": [
+        "saṅkhatā",
+        "saṅkhataṃ"
+      ]
+    },
+    {
+      "lemma": "sīla",
+      "variants": [
+        "sīlena"
+      ]
+    },
+    {
+      "lemma": "vata",
+      "variants": [
+        "vatena"
+      ]
+    },
+    {
+      "lemma": "viññāpana",
+      "variants": [
+        "viññāpanā"
+      ]
+    },
+    {
+      "lemma": "akuṭilatā",
+      "variants": [
+        "akuṭilatā"
+      ]
+    },
+    {
+      "lemma": "amanāpa",
+      "variants": [
+        "amanāpassa"
+      ]
+    },
+    {
+      "lemma": "appiya",
+      "variants": [
+        "appiyassa"
+      ]
+    },
+    {
+      "lemma": "araṇa",
+      "variants": [
+        "araṇā"
+      ]
+    },
+    {
+      "lemma": "ariya",
+      "variants": [
+        "ariyānaṃ",
+        "ariyā"
+      ]
+    },
+    {
+      "lemma": "dveḷhaka",
+      "variants": [
+        "dveḷhakaṃ"
+      ]
+    },
+    {
+      "lemma": "hāsa",
+      "variants": [
+        "hāso"
+      ]
+    },
+    {
+      "lemma": "hīna",
+      "variants": [
+        "hīnā"
+      ]
+    },
+    {
+      "lemma": "kakkhaḷa",
+      "variants": [
+        "kakkhaḷaṃ"
+      ]
+    },
+    {
+      "lemma": "kodha",
+      "variants": [
+        "kodho"
+      ]
+    },
+    {
+      "lemma": "kopa",
+      "variants": [
+        "kopo"
+      ]
+    },
+    {
+      "lemma": "kukkucca",
+      "variants": [
+        "kukkuccaṃ"
+      ]
+    },
+    {
+      "lemma": "lohitaka",
+      "variants": [
+        "lohitakaṃ",
+        "lohitakāni"
+      ]
+    },
+    {
+      "lemma": "manopadosa",
+      "variants": [
+        "manopadoso"
+      ]
+    },
+    {
+      "lemma": "manāpa",
+      "variants": [
+        "manāpassa"
+      ]
+    },
+    {
+      "lemma": "maraṇa",
+      "variants": [
+        "maraṇā",
+        "maraṇaṃ"
+      ]
+    },
+    {
+      "lemma": "middha",
+      "variants": [
+        "middhaṃ"
+      ]
+    },
+    {
+      "lemma": "nāma",
+      "variants": [
+        "nāmaṃ"
+      ]
+    },
+    {
+      "lemma": "nīla",
+      "variants": [
+        "nīlaṃ",
+        "nīlāni"
+      ]
+    },
+    {
+      "lemma": "odagya",
+      "variants": [
+        "odagyaṃ"
+      ]
+    },
+    {
+      "lemma": "odāta",
+      "variants": [
+        "odātaṃ",
+        "odātāni"
+      ]
+    },
+    {
+      "lemma": "padosa",
+      "variants": [
+        "padoso"
+      ]
+    },
+    {
+      "lemma": "pakopa",
+      "variants": [
+        "pakopo"
+      ]
+    },
+    {
+      "lemma": "pamodanā",
+      "variants": [
+        "pamodanā"
+      ]
+    },
+    {
+      "lemma": "parisappanā",
+      "variants": [
+        "parisappanā"
+      ]
+    },
+    {
+      "lemma": "paṭighasaññā",
+      "variants": [
+        "paṭighasaññānaṃ"
+      ]
+    },
+    {
+      "lemma": "paṭighāta",
+      "variants": [
+        "paṭighāto"
+      ]
+    },
+    {
+      "lemma": "piya",
+      "variants": [
+        "piyassa"
+      ]
+    },
+    {
+      "lemma": "pāmojja",
+      "variants": [
+        "pāmojjaṃ"
+      ]
+    },
+    {
+      "lemma": "sampadosa",
+      "variants": [
+        "sampadoso"
+      ]
+    },
+    {
+      "lemma": "saraṇa",
+      "variants": [
+        "saraṇā"
+      ]
+    },
+    {
+      "lemma": "sauttara",
+      "variants": [
+        "sauttarā"
+      ]
+    },
+    {
+      "lemma": "saṃsaya",
+      "variants": [
+        "saṃsayo"
+      ]
+    },
+    {
+      "lemma": "vijjanta",
+      "variants": [
+        "vijjā"
+      ]
+    },
+    {
+      "lemma": "vimati",
+      "variants": [
+        "vimati"
+      ]
+    },
+    {
+      "lemma": "vitti",
+      "variants": [
+        "vitti"
+      ]
+    },
+    {
+      "lemma": "āsappanā",
+      "variants": [
+        "āsappanā"
+      ]
+    },
+    {
+      "lemma": "abbha",
+      "variants": [
+        "abbhā"
+      ]
+    },
+    {
+      "lemma": "ambila",
+      "variants": [
+        "ambilaṃ"
+      ]
+    },
+    {
+      "lemma": "andhakāra",
+      "variants": [
+        "andhakāro"
+      ]
+    },
+    {
+      "lemma": "asaṃvuta",
+      "variants": [
+        "asaṃvutaṃ"
+      ]
+    },
+    {
+      "lemma": "assutavant",
+      "variants": [
+        "assutavā"
+      ]
+    },
+    {
+      "lemma": "aṇu",
+      "variants": [
+        "aṇuṃ"
+      ]
+    },
+    {
+      "lemma": "aṭṭhaṃsa",
+      "variants": [
+        "aṭṭhaṃsaṃ"
+      ]
+    },
+    {
+      "lemma": "bhava",
+      "variants": [
+        "bhavesu",
+        "bhavo"
+      ]
+    },
+    {
+      "lemma": "bāla",
+      "variants": [
+        "bālā"
+      ]
+    },
+    {
+      "lemma": "caturaṃsa",
+      "variants": [
+        "caturaṃsaṃ"
+      ]
+    },
+    {
+      "lemma": "chāya",
+      "variants": [
+        "chāyā"
+      ]
+    },
+    {
+      "lemma": "deva",
+      "variants": [
+        "deve"
+      ]
+    },
+    {
+      "lemma": "dhūma",
+      "variants": [
+        "dhūmo"
+      ]
+    },
+    {
+      "lemma": "dovacassatā",
+      "variants": [
+        "dovacassatā"
+      ]
+    },
+    {
+      "lemma": "dīgha",
+      "variants": [
+        "dīghaṃ"
+      ]
+    },
+    {
+      "lemma": "ekādasaka",
+      "variants": [
+        "Ekādasakaṃ"
+      ]
+    },
+    {
+      "lemma": "garuka",
+      "variants": [
+        "garukaṃ"
+      ]
+    },
+    {
+      "lemma": "gītasadda",
+      "variants": [
+        "gītasaddo"
+      ]
+    },
+    {
+      "lemma": "hari",
+      "variants": [
+        "hari"
+      ]
+    },
+    {
+      "lemma": "janeti",
+      "variants": [
+        "janeti"
+      ]
+    },
+    {
+      "lemma": "jara",
+      "variants": [
+        "jarā"
+      ]
+    },
+    {
+      "lemma": "kaṇha",
+      "variants": [
+        "kaṇhā"
+      ]
+    },
+    {
+      "lemma": "kaṭuka",
+      "variants": [
+        "kaṭukaṃ"
+      ]
+    },
+    {
+      "lemma": "khanti",
+      "variants": [
+        "khanti"
+      ]
+    },
+    {
+      "lemma": "khārika",
+      "variants": [
+        "khārikaṃ"
+      ]
+    },
+    {
+      "lemma": "kāḷaka",
+      "variants": [
+        "kāḷakaṃ"
+      ]
+    },
+    {
+      "lemma": "lahuka",
+      "variants": [
+        "lahukaṃ"
+      ]
+    },
+    {
+      "lemma": "loṇika",
+      "variants": [
+        "loṇikaṃ"
+      ]
+    },
+    {
+      "lemma": "madhura",
+      "variants": [
+        "madhuraṃ"
+      ]
+    },
+    {
+      "lemma": "muduka",
+      "variants": [
+        "mudukaṃ"
+      ]
+    },
+    {
+      "lemma": "navaka",
+      "variants": [
+        "Navakaṃ"
+      ]
+    },
+    {
+      "lemma": "nayana",
+      "variants": [
+        "nayanaṃ"
+      ]
+    },
+    {
+      "lemma": "netta",
+      "variants": [
+        "nettaṃ"
+      ]
+    },
+    {
+      "lemma": "nigghosasadda",
+      "variants": [
+        "nigghosasaddo"
+      ]
+    },
+    {
+      "lemma": "padahati",
+      "variants": [
+        "padahati"
+      ]
+    },
+    {
+      "lemma": "parimaṇḍala",
+      "variants": [
+        "parimaṇḍalaṃ"
+      ]
+    },
+    {
+      "lemma": "passaddhi",
+      "variants": [
+        "passaddhi"
+      ]
+    },
+    {
+      "lemma": "paṇḍita",
+      "variants": [
+        "paṇḍitā"
+      ]
+    },
+    {
+      "lemma": "paṭipassambhana",
+      "variants": [
+        "paṭipassambhanā"
+      ]
+    },
+    {
+      "lemma": "paṭisanthāra",
+      "variants": [
+        "paṭisanthāro",
+        "paṭisanthārā"
+      ]
+    },
+    {
+      "lemma": "pharusa",
+      "variants": [
+        "pharusaṃ"
+      ]
+    },
+    {
+      "lemma": "pītaka",
+      "variants": [
+        "pītakaṃ"
+      ]
+    },
+    {
+      "lemma": "raja",
+      "variants": [
+        "rajo"
+      ]
+    },
+    {
+      "lemma": "rassa",
+      "variants": [
+        "rassaṃ"
+      ]
+    },
+    {
+      "lemma": "rūpavant",
+      "variants": [
+        "rūpavantaṃ"
+      ]
+    },
+    {
+      "lemma": "sappurisa",
+      "variants": [
+        "sappurisānaṃ"
+      ]
+    },
+    {
+      "lemma": "sattaka",
+      "variants": [
+        "Sattakaṃ"
+      ]
+    },
+    {
+      "lemma": "saṅgha",
+      "variants": [
+        "saṅghe"
+      ]
+    },
+    {
+      "lemma": "saṇha",
+      "variants": [
+        "saṇhaṃ"
+      ]
+    },
+    {
+      "lemma": "sikkhā",
+      "variants": [
+        "sikkhāya"
+      ]
+    },
+    {
+      "lemma": "sovacassatā",
+      "variants": [
+        "sovacassatā"
+      ]
+    },
+    {
+      "lemma": "sukka",
+      "variants": [
+        "sukkā"
+      ]
+    },
+    {
+      "lemma": "suṇāti",
+      "variants": [
+        "suṇissati",
+        "suṇāti"
+      ]
+    },
+    {
+      "lemma": "sādu",
+      "variants": [
+        "sādu"
+      ]
+    },
+    {
+      "lemma": "sāyati",
+      "variants": [
+        "sāyati",
+        "sāyissati"
+      ]
+    },
+    {
+      "lemma": "thūla",
+      "variants": [
+        "thūlaṃ"
+      ]
+    },
+    {
+      "lemma": "tika",
+      "variants": [
+        "Tikaṃ"
+      ]
+    },
+    {
+      "lemma": "tittaka",
+      "variants": [
+        "tittakaṃ"
+      ]
+    },
+    {
+      "lemma": "tārakarūpa",
+      "variants": [
+        "tārakarūpānaṃ"
+      ]
+    },
+    {
+      "lemma": "vaṭṭa",
+      "variants": [
+        "vaṭṭaṃ"
+      ]
+    },
+    {
+      "lemma": "virāga",
+      "variants": [
+        "virāgā"
+      ]
+    },
+    {
+      "lemma": "vācasika",
+      "variants": [
+        "vācasiko"
+      ]
+    },
+    {
+      "lemma": "āloka",
+      "variants": [
+        "āloko"
+      ]
+    },
+    {
+      "lemma": "āpajjati",
+      "variants": [
+        "āpajjati"
+      ]
+    },
+    {
+      "lemma": "āpas",
+      "variants": [
+        "āpo"
+      ]
+    },
+    {
+      "lemma": "ārabhati",
+      "variants": [
+        "ārabhati"
+      ]
+    },
+    {
+      "lemma": "ātapa",
+      "variants": [
+        "ātapo"
+      ]
+    },
+    {
+      "lemma": "abhikkamanta",
+      "variants": [
+        "abhikkamantassa"
+      ]
+    },
+    {
+      "lemma": "abhilāpa",
+      "variants": [
+        "abhilāpo"
+      ]
+    },
+    {
+      "lemma": "adhipati",
+      "variants": [
+        "Adhipati",
+        "adhipatiṃ"
+      ]
+    },
+    {
+      "lemma": "agha",
+      "variants": [
+        "aghaṃ"
+      ]
+    },
+    {
+      "lemma": "aghagata",
+      "variants": [
+        "aghagataṃ"
+      ]
+    },
+    {
+      "lemma": "ajjava",
+      "variants": [
+        "ajjavo"
+      ]
+    },
+    {
+      "lemma": "ajjhosāna",
+      "variants": [
+        "ajjhosānaṃ"
+      ]
+    },
+    {
+      "lemma": "anta",
+      "variants": [
+        "anto"
+      ]
+    },
+    {
+      "lemma": "antara",
+      "variants": [
+        "antare"
+      ]
+    },
+    {
+      "lemma": "apekkha",
+      "variants": [
+        "apekkhā"
+      ]
+    },
+    {
+      "lemma": "asantuṭṭhitā",
+      "variants": [
+        "asantuṭṭhitā"
+      ]
+    },
+    {
+      "lemma": "avūpasama",
+      "variants": [
+        "avūpasamo"
+      ]
+    },
+    {
+      "lemma": "bahu",
+      "variants": [
+        "bahūsu"
+      ]
+    },
+    {
+      "lemma": "bandhana",
+      "variants": [
+        "bandhanaṃ"
+      ]
+    },
+    {
+      "lemma": "bhavajjhosāna",
+      "variants": [
+        "bhavajjhosānaṃ"
+      ]
+    },
+    {
+      "lemma": "bheda",
+      "variants": [
+        "bhedo"
+      ]
+    },
+    {
+      "lemma": "byañjana",
+      "variants": [
+        "byañjanaṃ"
+      ]
+    },
+    {
+      "lemma": "catubbidha",
+      "variants": [
+        "catubbidhena"
+      ]
+    },
+    {
+      "lemma": "chādana",
+      "variants": [
+        "chādanaṃ"
+      ]
+    },
+    {
+      "lemma": "dasavidha",
+      "variants": [
+        "dasavidhena"
+      ]
+    },
+    {
+      "lemma": "dinna",
+      "variants": [
+        "dinnaṃ"
+      ]
+    },
+    {
+      "lemma": "diṭṭha",
+      "variants": [
+        "diṭṭhaṃ",
+        "diṭṭhānaṃ"
+      ]
+    },
+    {
+      "lemma": "dukkhindriya",
+      "variants": [
+        "dukkhindriyaṃ"
+      ]
+    },
+    {
+      "lemma": "eva",
+      "variants": [
+        "eva"
+      ]
+    },
+    {
+      "lemma": "gedha",
+      "variants": [
+        "gedho"
+      ]
+    },
+    {
+      "lemma": "girā",
+      "variants": [
+        "girā"
+      ]
+    },
+    {
+      "lemma": "heṭṭhato",
+      "variants": [
+        "Heṭṭhato"
+      ]
+    },
+    {
+      "lemma": "heṭṭhima",
+      "variants": [
+        "heṭṭhimāni",
+        "Heṭṭhimesu"
+      ]
+    },
+    {
+      "lemma": "huta",
+      "variants": [
+        "hutaṃ"
+      ]
+    },
+    {
+      "lemma": "iccha",
+      "variants": [
+        "icchā"
+      ]
+    },
+    {
+      "lemma": "itthatta",
+      "variants": [
+        "itthattaṃ"
+      ]
+    },
+    {
+      "lemma": "itthi",
+      "variants": [
+        "itthiyā"
+      ]
+    },
+    {
+      "lemma": "janika",
+      "variants": [
+        "janikā"
+      ]
+    },
+    {
+      "lemma": "jappana",
+      "variants": [
+        "jappanā"
+      ]
+    },
+    {
+      "lemma": "jīraṇatā",
+      "variants": [
+        "jīraṇatā"
+      ]
+    },
+    {
+      "lemma": "khīra",
+      "variants": [
+        "khīraṃ"
+      ]
+    },
+    {
+      "lemma": "latā",
+      "variants": [
+        "latā"
+      ]
+    },
+    {
+      "lemma": "maccha",
+      "variants": [
+        "maccho"
+      ]
+    },
+    {
+      "lemma": "maddava",
+      "variants": [
+        "maddavo"
+      ]
+    },
+    {
+      "lemma": "madhu",
+      "variants": [
+        "madhu"
+      ]
+    },
+    {
+      "lemma": "manas",
+      "variants": [
+        "manasā"
+      ]
+    },
+    {
+      "lemma": "maṃsa",
+      "variants": [
+        "maṃsaṃ"
+      ]
+    },
+    {
+      "lemma": "mātar",
+      "variants": [
+        "mātā"
+      ]
+    },
+    {
+      "lemma": "nandi",
+      "variants": [
+        "nandī"
+      ]
+    },
+    {
+      "lemma": "nikāmanā",
+      "variants": [
+        "nikāmanā"
+      ]
+    },
+    {
+      "lemma": "nāmadheyya",
+      "variants": [
+        "nāmadheyyaṃ"
+      ]
+    },
+    {
+      "lemma": "nāmakamma",
+      "variants": [
+        "nāmakammaṃ"
+      ]
+    },
+    {
+      "lemma": "odana",
+      "variants": [
+        "Odano"
+      ]
+    },
+    {
+      "lemma": "padhāna",
+      "variants": [
+        "padhānaṃ",
+        "padhānasmiṃ"
+      ]
+    },
+    {
+      "lemma": "pajappā",
+      "variants": [
+        "pajappā"
+      ]
+    },
+    {
+      "lemma": "paligedha",
+      "variants": [
+        "paligedho"
+      ]
+    },
+    {
+      "lemma": "paripāka",
+      "variants": [
+        "paripāko"
+      ]
+    },
+    {
+      "lemma": "pariyanta",
+      "variants": [
+        "pariyantaṃ"
+      ]
+    },
+    {
+      "lemma": "pasārenta",
+      "variants": [
+        "pasārentassa"
+      ]
+    },
+    {
+      "lemma": "patthana",
+      "variants": [
+        "patthanā"
+      ]
+    },
+    {
+      "lemma": "paṅka",
+      "variants": [
+        "paṅko"
+      ]
+    },
+    {
+      "lemma": "paṇidhi",
+      "variants": [
+        "paṇidhi"
+      ]
+    },
+    {
+      "lemma": "paṭivirati",
+      "variants": [
+        "paṭivirati"
+      ]
+    },
+    {
+      "lemma": "phala",
+      "variants": [
+        "phalaṃ"
+      ]
+    },
+    {
+      "lemma": "phāṇita",
+      "variants": [
+        "phāṇitaṃ"
+      ]
+    },
+    {
+      "lemma": "pitar",
+      "variants": [
+        "pitā"
+      ]
+    },
+    {
+      "lemma": "purisa",
+      "variants": [
+        "purisassa"
+      ]
+    },
+    {
+      "lemma": "pālicca",
+      "variants": [
+        "pāliccaṃ"
+      ]
+    },
+    {
+      "lemma": "rāga",
+      "variants": [
+        "rāgo"
+      ]
+    },
+    {
+      "lemma": "saddataṇhā",
+      "variants": [
+        "saddataṇhā"
+      ]
+    },
+    {
+      "lemma": "samaññā",
+      "variants": [
+        "samaññā"
+      ]
+    },
+    {
+      "lemma": "sammaggata",
+      "variants": [
+        "sammaggatā"
+      ]
+    },
+    {
+      "lemma": "santhava",
+      "variants": [
+        "santhavo"
+      ]
+    },
+    {
+      "lemma": "sappi",
+      "variants": [
+        "sappi"
+      ]
+    },
+    {
+      "lemma": "sarita",
+      "variants": [
+        "saritā"
+      ]
+    },
+    {
+      "lemma": "sassatadiṭṭhi",
+      "variants": [
+        "sassatadiṭṭhi"
+      ]
+    },
+    {
+      "lemma": "saya",
+      "variants": [
+        "sayaṃ"
+      ]
+    },
+    {
+      "lemma": "sañjananī",
+      "variants": [
+        "sañjananī"
+      ]
+    },
+    {
+      "lemma": "saṃhāni",
+      "variants": [
+        "saṃhāni"
+      ]
+    },
+    {
+      "lemma": "saṅga",
+      "variants": [
+        "saṅgo"
+      ]
+    },
+    {
+      "lemma": "soracca",
+      "variants": [
+        "soraccaṃ"
+      ]
+    },
+    {
+      "lemma": "sutta",
+      "variants": [
+        "suttaṃ"
+      ]
+    },
+    {
+      "lemma": "uparito",
+      "variants": [
+        "uparito"
+      ]
+    },
+    {
+      "lemma": "uppāda",
+      "variants": [
+        "uppādāya"
+      ]
+    },
+    {
+      "lemma": "vacībheda",
+      "variants": [
+        "vacībhedo"
+      ]
+    },
+    {
+      "lemma": "vana",
+      "variants": [
+        "vanaṃ"
+      ]
+    },
+    {
+      "lemma": "vanatha",
+      "variants": [
+        "vanatho"
+      ]
+    },
+    {
+      "lemma": "vaya",
+      "variants": [
+        "vayo"
+      ]
+    },
+    {
+      "lemma": "veramaṇī",
+      "variants": [
+        "veramaṇī"
+      ]
+    },
+    {
+      "lemma": "vikkhepa",
+      "variants": [
+        "vikkhepo"
+      ]
+    },
+    {
+      "lemma": "virati",
+      "variants": [
+        "virati"
+      ]
+    },
+    {
+      "lemma": "visaṭa",
+      "variants": [
+        "visaṭā"
+      ]
+    },
+    {
+      "lemma": "vivaragata",
+      "variants": [
+        "vivaragataṃ"
+      ]
+    },
+    {
+      "lemma": "yoniso",
+      "variants": [
+        "yoniso"
+      ]
+    },
+    {
+      "lemma": "ācaya",
+      "variants": [
+        "ācayo"
+      ]
+    },
+    {
+      "lemma": "ākāsa",
+      "variants": [
+        "ākāso"
+      ]
+    },
+    {
+      "lemma": "ākāsagata",
+      "variants": [
+        "ākāsagataṃ"
+      ]
+    },
+    {
+      "lemma": "ārati",
+      "variants": [
+        "ārati"
+      ]
+    },
+    {
+      "lemma": "āsa",
+      "variants": [
+        "āsā"
+      ]
+    },
+    {
+      "lemma": "āvaraṇa",
+      "variants": [
+        "āvaraṇaṃ"
+      ]
+    },
+    {
+      "lemma": "abhūta",
+      "variants": [
+        "abhūtā"
+      ]
+    },
+    {
+      "lemma": "ajāta",
+      "variants": [
+        "ajātā"
+      ]
+    },
+    {
+      "lemma": "anuṭṭhita",
+      "variants": [
+        "anuṭṭhitā"
+      ]
+    },
+    {
+      "lemma": "asati",
+      "variants": [
+        "asati"
+      ]
+    },
+    {
+      "lemma": "asañjāta",
+      "variants": [
+        "asañjātā"
+      ]
+    },
+    {
+      "lemma": "bhatti",
+      "variants": [
+        "bhatti"
+      ]
+    },
+    {
+      "lemma": "bhūta",
+      "variants": [
+        "bhūtā"
+      ]
+    },
+    {
+      "lemma": "dava",
+      "variants": [
+        "davāya"
+      ]
+    },
+    {
+      "lemma": "dhaja",
+      "variants": [
+        "dhajo"
+      ]
+    },
+    {
+      "lemma": "duka",
+      "variants": [
+        "Dukaṃ"
+      ]
+    },
+    {
+      "lemma": "ekaka",
+      "variants": [
+        "Ekakaṃ"
+      ]
+    },
+    {
+      "lemma": "ghosa",
+      "variants": [
+        "ghoso"
+      ]
+    },
+    {
+      "lemma": "jāta",
+      "variants": [
+        "jātā"
+      ]
+    },
+    {
+      "lemma": "jāti",
+      "variants": [
+        "jāti"
+      ]
+    },
+    {
+      "lemma": "lubbhana",
+      "variants": [
+        "lubbhanā"
+      ]
+    },
+    {
+      "lemma": "līna",
+      "variants": [
+        "līnaṃ"
+      ]
+    },
+    {
+      "lemma": "mada",
+      "variants": [
+        "madāya"
+      ]
+    },
+    {
+      "lemma": "muta",
+      "variants": [
+        "mutaṃ"
+      ]
+    },
+    {
+      "lemma": "mūla",
+      "variants": [
+        "Mūla"
+      ]
+    },
+    {
+      "lemma": "nibbatta",
+      "variants": [
+        "nibbattā"
+      ]
+    },
+    {
+      "lemma": "paccatta",
+      "variants": [
+        "paccattaṃ"
+      ]
+    },
+    {
+      "lemma": "paccaya",
+      "variants": [
+        "paccayā"
+      ]
+    },
+    {
+      "lemma": "passa",
+      "variants": [
+        "passe"
+      ]
+    },
+    {
+      "lemma": "passi",
+      "variants": [
+        "passi"
+      ]
+    },
+    {
+      "lemma": "phusi",
+      "variants": [
+        "phusi"
+      ]
+    },
+    {
+      "lemma": "puggala",
+      "variants": [
+        "puggalā"
+      ]
+    },
+    {
+      "lemma": "pātubhūta",
+      "variants": [
+        "pātubhūtā"
+      ]
+    },
+    {
+      "lemma": "sambhattī",
+      "variants": [
+        "sambhatti"
+      ]
+    },
+    {
+      "lemma": "sampayuttaka",
+      "variants": [
+        "sampayuttakā"
+      ]
+    },
+    {
+      "lemma": "samuppanna",
+      "variants": [
+        "samuppannā"
+      ]
+    },
+    {
+      "lemma": "samuṭṭhita",
+      "variants": [
+        "samuṭṭhitā"
+      ]
+    },
+    {
+      "lemma": "samāpanna",
+      "variants": [
+        "samāpannassa"
+      ]
+    },
+    {
+      "lemma": "sarīra",
+      "variants": [
+        "sarīraṃ"
+      ]
+    },
+    {
+      "lemma": "sañjāta",
+      "variants": [
+        "sañjātā"
+      ]
+    },
+    {
+      "lemma": "saṃvigga",
+      "variants": [
+        "saṃviggassa"
+      ]
+    },
+    {
+      "lemma": "sevana",
+      "variants": [
+        "sevanā"
+      ]
+    },
+    {
+      "lemma": "soppa",
+      "variants": [
+        "soppaṃ"
+      ]
+    },
+    {
+      "lemma": "suta",
+      "variants": [
+        "sutaṃ"
+      ]
+    },
+    {
+      "lemma": "sākhalya",
+      "variants": [
+        "sākhalyaṃ"
+      ]
+    },
+    {
+      "lemma": "sāyi",
+      "variants": [
+        "sāyi"
+      ]
+    },
+    {
+      "lemma": "tathārūpa",
+      "variants": [
+        "tathārūpiṃ"
+      ]
+    },
+    {
+      "lemma": "upapanna",
+      "variants": [
+        "upapannassa"
+      ]
+    },
+    {
+      "lemma": "uṭṭhita",
+      "variants": [
+        "uṭṭhitā"
+      ]
+    },
+    {
+      "lemma": "vigata",
+      "variants": [
+        "vigatā"
+      ]
+    },
+    {
+      "lemma": "vimokkha",
+      "variants": [
+        "vimokkhāni"
+      ]
+    },
+    {
+      "lemma": "vimutti",
+      "variants": [
+        "vimutti",
+        "vimuttiyo"
+      ]
+    },
+    {
+      "lemma": "viññāta",
+      "variants": [
+        "viññātaṃ"
+      ]
+    },
+    {
+      "lemma": "viññāya",
+      "variants": [
+        "viññāya"
+      ]
+    },
+    {
+      "lemma": "ānantarika",
+      "variants": [
+        "ānantarikāni"
+      ]
+    },
+    {
+      "lemma": "āsevana",
+      "variants": [
+        "āsevanā"
+      ]
+    },
+    {
+      "lemma": "adhimutti",
+      "variants": [
+        "adhimutti"
+      ]
+    },
+    {
+      "lemma": "akaniṭṭha",
+      "variants": [
+        "akaniṭṭhe"
+      ]
+    },
+    {
+      "lemma": "amanāpiya",
+      "variants": [
+        "amanāpiyo"
+      ]
+    },
+    {
+      "lemma": "anavajjatā",
+      "variants": [
+        "anavajjatā"
+      ]
+    },
+    {
+      "lemma": "anaññāta",
+      "variants": [
+        "anaññātānaṃ"
+      ]
+    },
+    {
+      "lemma": "anicca",
+      "variants": [
+        "aniccaṃ"
+      ]
+    },
+    {
+      "lemma": "anāgataṃsa",
+      "variants": [
+        "anāgataṃsena"
+      ]
+    },
+    {
+      "lemma": "appassuta",
+      "variants": [
+        "appassutā"
+      ]
+    },
+    {
+      "lemma": "appatta",
+      "variants": [
+        "appattānaṃ"
+      ]
+    },
+    {
+      "lemma": "araha",
+      "variants": [
+        "arahato"
+      ]
+    },
+    {
+      "lemma": "asacchikata",
+      "variants": [
+        "asacchikatānaṃ"
+      ]
+    },
+    {
+      "lemma": "asammosa",
+      "variants": [
+        "asammosāya"
+      ]
+    },
+    {
+      "lemma": "atthaṅgata",
+      "variants": [
+        "atthaṅgatā"
+      ]
+    },
+    {
+      "lemma": "atītaṃsa",
+      "variants": [
+        "atītaṃsena"
+      ]
+    },
+    {
+      "lemma": "avidita",
+      "variants": [
+        "aviditānaṃ"
+      ]
+    },
+    {
+      "lemma": "aṭṭhaṅgika",
+      "variants": [
+        "aṭṭhaṅgiko"
+      ]
+    },
+    {
+      "lemma": "bhiyyobhāva",
+      "variants": [
+        "bhiyyobhāvāya"
+      ]
+    },
+    {
+      "lemma": "bhāsita",
+      "variants": [
+        "bhāsitā"
+      ]
+    },
+    {
+      "lemma": "bhāvayanta",
+      "variants": [
+        "bhāvayantassa"
+      ]
+    },
+    {
+      "lemma": "byādhi",
+      "variants": [
+        "byādhi"
+      ]
+    },
+    {
+      "lemma": "caturassa",
+      "variants": [
+        "caturassaṃ"
+      ]
+    },
+    {
+      "lemma": "cutūpapāta",
+      "variants": [
+        "cutūpapāte"
+      ]
+    },
+    {
+      "lemma": "cāgavant",
+      "variants": [
+        "cāgavanto"
+      ]
+    },
+    {
+      "lemma": "duppañña",
+      "variants": [
+        "duppaññā"
+      ]
+    },
+    {
+      "lemma": "dussīla",
+      "variants": [
+        "dussīlā"
+      ]
+    },
+    {
+      "lemma": "ekodibhāva",
+      "variants": [
+        "ekodibhāvaṃ"
+      ]
+    },
+    {
+      "lemma": "gopana",
+      "variants": [
+        "gopanā"
+      ]
+    },
+    {
+      "lemma": "itthitta",
+      "variants": [
+        "itthittaṃ"
+      ]
+    },
+    {
+      "lemma": "kadariya",
+      "variants": [
+        "kadariyaṃ"
+      ]
+    },
+    {
+      "lemma": "kakkasa",
+      "variants": [
+        "kakkasā"
+      ]
+    },
+    {
+      "lemma": "kakkhaḷatta",
+      "variants": [
+        "kakkhaḷattaṃ"
+      ]
+    },
+    {
+      "lemma": "kappiya",
+      "variants": [
+        "kappiye"
+      ]
+    },
+    {
+      "lemma": "kevala",
+      "variants": [
+        "kevalassa"
+      ]
+    },
+    {
+      "lemma": "kharigata",
+      "variants": [
+        "kharigataṃ"
+      ]
+    },
+    {
+      "lemma": "macchariya",
+      "variants": [
+        "macchariyāni"
+      ]
+    },
+    {
+      "lemma": "maccharī",
+      "variants": [
+        "maccharino"
+      ]
+    },
+    {
+      "lemma": "macchera",
+      "variants": [
+        "maccheraṃ"
+      ]
+    },
+    {
+      "lemma": "manāpiya",
+      "variants": [
+        "manāpiyo"
+      ]
+    },
+    {
+      "lemma": "namas",
+      "variants": [
+        "Namo"
+      ]
+    },
+    {
+      "lemma": "niruddha",
+      "variants": [
+        "niruddhā"
+      ]
+    },
+    {
+      "lemma": "paccuppannaṃsa",
+      "variants": [
+        "paccuppannaṃsena"
+      ]
+    },
+    {
+      "lemma": "patta",
+      "variants": [
+        "pattānaṃ"
+      ]
+    },
+    {
+      "lemma": "paññavant",
+      "variants": [
+        "paññavanto"
+      ]
+    },
+    {
+      "lemma": "paṭisaṃvedeti",
+      "variants": [
+        "paṭisaṃvedeti"
+      ]
+    },
+    {
+      "lemma": "pemanīya",
+      "variants": [
+        "pemanīyā"
+      ]
+    },
+    {
+      "lemma": "porī",
+      "variants": [
+        "porī"
+      ]
+    },
+    {
+      "lemma": "pīta",
+      "variants": [
+        "pītāni"
+      ]
+    },
+    {
+      "lemma": "rūpiya",
+      "variants": [
+        "rūpiyaṃ"
+      ]
+    },
+    {
+      "lemma": "sa",
+      "variants": [
+        "sato"
+      ]
+    },
+    {
+      "lemma": "sambhavati",
+      "variants": [
+        "sambhavanti"
+      ]
+    },
+    {
+      "lemma": "sampasādana",
+      "variants": [
+        "sampasādanaṃ"
+      ]
+    },
+    {
+      "lemma": "samudaya",
+      "variants": [
+        "samudayo"
+      ]
+    },
+    {
+      "lemma": "santuṭṭhitā",
+      "variants": [
+        "santuṭṭhitā"
+      ]
+    },
+    {
+      "lemma": "sattama",
+      "variants": [
+        "Sattamaṃ"
+      ]
+    },
+    {
+      "lemma": "saṃvega",
+      "variants": [
+        "saṃvego"
+      ]
+    },
+    {
+      "lemma": "sīlavant",
+      "variants": [
+        "sīlavanto"
+      ]
+    },
+    {
+      "lemma": "teja",
+      "variants": [
+        "tejo"
+      ]
+    },
+    {
+      "lemma": "tejogata",
+      "variants": [
+        "tejogataṃ"
+      ]
+    },
+    {
+      "lemma": "uddesa",
+      "variants": [
+        "Uddeso"
+      ]
+    },
+    {
+      "lemma": "uparima",
+      "variants": [
+        "uparimaṃ"
+      ]
+    },
+    {
+      "lemma": "uppādeti",
+      "variants": [
+        "uppādessāmi"
+      ]
+    },
+    {
+      "lemma": "upādinna",
+      "variants": [
+        "upādinnā"
+      ]
+    },
+    {
+      "lemma": "usumā",
+      "variants": [
+        "usumaṃ"
+      ]
+    },
+    {
+      "lemma": "usūyā",
+      "variants": [
+        "usūyā"
+      ]
+    },
+    {
+      "lemma": "vajja",
+      "variants": [
+        "vajje"
+      ]
+    },
+    {
+      "lemma": "vidita",
+      "variants": [
+        "viditānaṃ"
+      ]
+    },
+    {
+      "lemma": "vijjā",
+      "variants": [
+        "Vijjāya"
+      ]
+    },
+    {
+      "lemma": "vipariṇata",
+      "variants": [
+        "vipariṇatā"
+      ]
+    },
+    {
+      "lemma": "vippaṭisāra",
+      "variants": [
+        "vippaṭisāro"
+      ]
+    },
+    {
+      "lemma": "viññāṇapaccayā",
+      "variants": [
+        "viññāṇapaccayā"
+      ]
+    },
+    {
+      "lemma": "vāya",
+      "variants": [
+        "vāyo"
+      ]
+    },
+    {
+      "lemma": "vāyogata",
+      "variants": [
+        "vāyogataṃ"
+      ]
+    },
+    {
+      "lemma": "yeva",
+      "variants": [
+        "Yeva"
+      ]
+    },
+    {
+      "lemma": "ñāta",
+      "variants": [
+        "ñātānaṃ"
+      ]
+    },
+    {
+      "lemma": "ārakkha",
+      "variants": [
+        "ārakkho"
+      ]
+    },
+    {
+      "lemma": "ṭhāna",
+      "variants": [
+        "ṭhānesu"
+      ]
+    }
+  ],
+  "non_pali_keyword": [
+    {
+      "lemma": "ta",
+      "variants": [
+        "tasmiṃ",
+        "taṃ",
+        "te",
+        "tāni",
+        "Tehi",
+        "tesaṃ",
+        "so",
+        "sā",
+        "tassa",
+        "tāsaṃ",
+        "tāya",
+        "tāhi"
+      ]
+    },
+    {
+      "lemma": "katama",
+      "variants": [
+        "Katame",
+        "Katamaṃ",
+        "Katamā",
+        "Katamo",
+        "Katamāni"
+      ]
+    },
+    {
+      "lemma": "idaṃ",
+      "variants": [
+        "idaṃ"
+      ]
+    },
+    {
+      "lemma": "atthi",
+      "variants": [
+        "atthi"
+      ]
+    },
+    {
+      "lemma": "phassa",
+      "variants": [
+        "phasso",
+        "phassaṃ"
+      ]
+    },
+    {
+      "lemma": "catu",
+      "variants": [
+        "cattāro",
+        "catūsu",
+        "catunnaṃ",
+        "cattāri",
+        "catūhi"
+      ]
+    },
+    {
+      "lemma": "ceva",
+      "variants": [
+        "ceva"
+      ]
+    },
+    {
+      "lemma": "paṭhama",
+      "variants": [
+        "paṭhamaṃ",
+        "paṭhamāya",
+        "Paṭhamo"
+      ]
+    },
+    {
+      "lemma": "ahaṃ",
+      "variants": [
+        "no",
+        "me"
+      ]
+    },
+    {
+      "lemma": "ṭhapetvā",
+      "variants": [
+        "ṭhapetvā"
+      ]
+    },
+    {
+      "lemma": "vedanākkhandha",
+      "variants": [
+        "vedanākkhandho",
+        "vedanākkhandhaṃ",
+        "vedanākkhandhassa"
+      ]
+    },
+    {
+      "lemma": "akusala",
+      "variants": [
+        "akusalaṃ",
+        "akusalā",
+        "akusalānaṃ",
+        "akusalassa",
+        "akusalato",
+        "akusalesu",
+        "akusalehi",
+        "akusalāni"
+      ]
+    },
+    {
+      "lemma": "ti",
+      "variants": [
+        "tīsu",
+        "Tīṇi",
+        "tisso",
+        "ti",
+        "tīhi"
+      ]
+    },
+    {
+      "lemma": "vivicceva",
+      "variants": [
+        "vivicceva"
+      ]
+    },
+    {
+      "lemma": "peta",
+      "variants": [
+        "petaṃ"
+      ]
+    },
+    {
+      "lemma": "pesa",
+      "variants": [
+        "peso",
+        "pesā"
+      ]
+    },
+    {
+      "lemma": "sappaṭigha",
+      "variants": [
+        "sappaṭighaṃ",
+        "sappaṭigho",
+        "sappaṭighamhi",
+        "sappaṭighena",
+        "sappaṭighā",
+        "sappaṭighāya"
+      ]
+    },
+    {
+      "lemma": "mahābhūta",
+      "variants": [
+        "mahābhūtaṃ",
+        "mahābhūtānaṃ",
+        "mahābhūtā",
+        "mahābhūtehi"
+      ]
+    },
+    {
+      "lemma": "cakkhāyatana",
+      "variants": [
+        "Cakkhāyatanaṃ"
+      ]
+    },
+    {
+      "lemma": "dukkhapaṭipadā",
+      "variants": [
+        "dukkhapaṭipadaṃ"
+      ]
+    },
+    {
+      "lemma": "dandhābhiñña",
+      "variants": [
+        "dandhābhiññaṃ"
+      ]
+    },
+    {
+      "lemma": "jīvitindriya",
+      "variants": [
+        "jīvitindriyaṃ"
+      ]
+    },
+    {
+      "lemma": "tattha",
+      "variants": [
+        "Tattha"
+      ]
+    },
+    {
+      "lemma": "rūpāyatana",
+      "variants": [
+        "rūpāyatanaṃ"
+      ]
+    },
+    {
+      "lemma": "cetana",
+      "variants": [
+        "cetanā",
+        "cetanāya",
+        "cetanaṃ"
+      ]
+    },
+    {
+      "lemma": "saṅkhārakkhandha",
+      "variants": [
+        "saṅkhārakkhandho",
+        "saṅkhārakkhandhassa"
+      ]
+    },
+    {
+      "lemma": "vuccati",
+      "variants": [
+        "vuccati"
+      ]
+    },
+    {
+      "lemma": "paṭiccasamuppanna",
+      "variants": [
+        "paṭiccasamuppannā",
+        "paṭiccasamuppannesu"
+      ]
+    },
+    {
+      "lemma": "kāmāvacara",
+      "variants": [
+        "kāmāvacarā",
+        "kāmāvacare",
+        "kāmāvacarassa",
+        "kāmāvacaraṃ"
+      ]
+    },
+    {
+      "lemma": "katatta",
+      "variants": [
+        "katattā"
+      ]
+    },
+    {
+      "lemma": "apariyāpanna",
+      "variants": [
+        "apariyāpannā",
+        "apariyāpanne",
+        "apariyāpannaṃ"
+      ]
+    },
+    {
+      "lemma": "rūpāvacara",
+      "variants": [
+        "rūpāvacarā",
+        "rūpāvacare",
+        "rūpāvacaraṃ",
+        "rūpāvacarassa"
+      ]
+    },
+    {
+      "lemma": "phoṭṭhabbāyatana",
+      "variants": [
+        "phoṭṭhabbāyatanaṃ"
+      ]
+    },
+    {
+      "lemma": "sukhapaṭipadā",
+      "variants": [
+        "sukhapaṭipadaṃ"
+      ]
+    },
+    {
+      "lemma": "khippābhiñña",
+      "variants": [
+        "khippābhiññaṃ"
+      ]
+    },
+    {
+      "lemma": "pahāna",
+      "variants": [
+        "pahānāya",
+        "pahānā"
+      ]
+    },
+    {
+      "lemma": "kāyāyatana",
+      "variants": [
+        "kāyāyatanaṃ"
+      ]
+    },
+    {
+      "lemma": "arūpāvacara",
+      "variants": [
+        "arūpāvacarā",
+        "arūpāvacare",
+        "arūpāvacaraṃ",
+        "arūpāvacarassa"
+      ]
+    },
+    {
+      "lemma": "cittuppāda",
+      "variants": [
+        "cittuppādesu",
+        "cittuppādo",
+        "cittuppāde",
+        "cittuppādā"
+      ]
+    },
+    {
+      "lemma": "dhātar",
+      "variants": [
+        "dhātu",
+        "dhātūnaṃ"
+      ]
+    },
+    {
+      "lemma": "cittassekaggatā",
+      "variants": [
+        "cittassekaggatā"
+      ]
+    },
+    {
+      "lemma": "apacayagāmī",
+      "variants": [
+        "apacayagāmiṃ",
+        "apacayagāmino",
+        "apacayagāmi"
+      ]
+    },
+    {
+      "lemma": "catuttha",
+      "variants": [
+        "catutthaṃ",
+        "catutthassa",
+        "catutthāya",
+        "Catuttho"
+      ]
+    },
+    {
+      "lemma": "dvi",
+      "variants": [
+        "dve",
+        "dvīsu"
+      ]
+    },
+    {
+      "lemma": "sammādiṭṭhi",
+      "variants": [
+        "sammādiṭṭhi",
+        "sammādiṭṭhiṃ"
+      ]
+    },
+    {
+      "lemma": "niyyānika",
+      "variants": [
+        "niyyānikaṃ",
+        "niyyānikā"
+      ]
+    },
+    {
+      "lemma": "samādhindriya",
+      "variants": [
+        "samādhindriyaṃ"
+      ]
+    },
+    {
+      "lemma": "tayo",
+      "variants": [
+        "tayo"
+      ]
+    },
+    {
+      "lemma": "rasāyatana",
+      "variants": [
+        "rasāyatanaṃ"
+      ]
+    },
+    {
+      "lemma": "vīriyindriya",
+      "variants": [
+        "vīriyindriyaṃ"
+      ]
+    },
+    {
+      "lemma": "cetosamphassaja",
+      "variants": [
+        "cetosamphassajaṃ",
+        "cetosamphassajā"
+      ]
+    },
+    {
+      "lemma": "āpodhātu",
+      "variants": [
+        "āpodhātu"
+      ]
+    },
+    {
+      "lemma": "gandhāyatana",
+      "variants": [
+        "gandhāyatanaṃ"
+      ]
+    },
+    {
+      "lemma": "pathavīkasiṇa",
+      "variants": [
+        "pathavīkasiṇaṃ"
+      ]
+    },
+    {
+      "lemma": "upekkhāsahagata",
+      "variants": [
+        "upekkhāsahagatā",
+        "upekkhāsahagataṃ"
+      ]
+    },
+    {
+      "lemma": "dhammavicaya",
+      "variants": [
+        "dhammavicayo"
+      ]
+    },
+    {
+      "lemma": "paṭihaññati",
+      "variants": [
+        "paṭihaññati",
+        "paṭihaññe",
+        "paṭihaññissati"
+      ]
+    },
+    {
+      "lemma": "appaṇihita",
+      "variants": [
+        "appaṇihitaṃ"
+      ]
+    },
+    {
+      "lemma": "santati",
+      "variants": [
+        "santati"
+      ]
+    },
+    {
+      "lemma": "itthindriya",
+      "variants": [
+        "itthindriyaṃ"
+      ]
+    },
+    {
+      "lemma": "panaññampi",
+      "variants": [
+        "panaññampi"
+      ]
+    },
+    {
+      "lemma": "samādhibala",
+      "variants": [
+        "samādhibalaṃ"
+      ]
+    },
+    {
+      "lemma": "neva",
+      "variants": [
+        "neva"
+      ]
+    },
+    {
+      "lemma": "saddāyatana",
+      "variants": [
+        "saddāyatanaṃ"
+      ]
+    },
+    {
+      "lemma": "dutiya",
+      "variants": [
+        "dutiyaṃ",
+        "dutiyā",
+        "dutiyāya",
+        "Dutiyo",
+        "dutiye"
+      ]
+    },
+    {
+      "lemma": "kāyaviññatti",
+      "variants": [
+        "kāyaviññatti"
+      ]
+    },
+    {
+      "lemma": "mana",
+      "variants": [
+        "mano"
+      ]
+    },
+    {
+      "lemma": "siyā",
+      "variants": [
+        "siyā"
+      ]
+    },
+    {
+      "lemma": "appaṭigha",
+      "variants": [
+        "appaṭighaṃ",
+        "appaṭighā"
+      ]
+    },
+    {
+      "lemma": "vacīviññatti",
+      "variants": [
+        "vacīviññatti"
+      ]
+    },
+    {
+      "lemma": "vīriyabala",
+      "variants": [
+        "vīriyabalaṃ"
+      ]
+    },
+    {
+      "lemma": "tatiya",
+      "variants": [
+        "tatiyaṃ",
+        "tatiyāya",
+        "Tatiyo"
+      ]
+    },
+    {
+      "lemma": "appamāṇārammaṇa",
+      "variants": [
+        "appamāṇārammaṇaṃ",
+        "appamāṇārammaṇā"
+      ]
+    },
+    {
+      "lemma": "sammāvāyāma",
+      "variants": [
+        "sammāvāyāmo"
+      ]
+    },
+    {
+      "lemma": "vattabba",
+      "variants": [
+        "vattabbā",
+        "vattabbaṃ",
+        "vattabbo"
+      ]
+    },
+    {
+      "lemma": "anottappa",
+      "variants": [
+        "anottappaṃ",
+        "anottappena"
+      ]
+    },
+    {
+      "lemma": "anupādiṇṇa",
+      "variants": [
+        "anupādiṇṇaṃ",
+        "anupādiṇṇā"
+      ]
+    },
+    {
+      "lemma": "ahirika",
+      "variants": [
+        "ahirikaṃ",
+        "ahirikena"
+      ]
+    },
+    {
+      "lemma": "arūpasaññī",
+      "variants": [
+        "arūpasaññī"
+      ]
+    },
+    {
+      "lemma": "purisindriya",
+      "variants": [
+        "purisindriyaṃ"
+      ]
+    },
+    {
+      "lemma": "satindriya",
+      "variants": [
+        "satindriyaṃ"
+      ]
+    },
+    {
+      "lemma": "abhibhuyya",
+      "variants": [
+        "abhibhuyya"
+      ]
+    },
+    {
+      "lemma": "evarūpa",
+      "variants": [
+        "evarūpā",
+        "evarūpaṃ",
+        "evarūpo"
+      ]
+    },
+    {
+      "lemma": "jānāti",
+      "variants": [
+        "jānāmi"
+      ]
+    },
+    {
+      "lemma": "pahātabba",
+      "variants": [
+        "pahātabbā",
+        "pahātabbaṃ"
+      ]
+    },
+    {
+      "lemma": "kāmāvacarakusala",
+      "variants": [
+        "Kāmāvacarakusalato",
+        "kāmāvacarakusalassa",
+        "Kāmāvacarakusalaṃ"
+      ]
+    },
+    {
+      "lemma": "dhammāyatana",
+      "variants": [
+        "dhammāyatanaṃ"
+      ]
+    },
+    {
+      "lemma": "si",
+      "variants": [
+        "sī"
+      ]
+    },
+    {
+      "lemma": "aniccatā",
+      "variants": [
+        "aniccatā"
+      ]
+    },
+    {
+      "lemma": "pañcama",
+      "variants": [
+        "pañcamaṃ"
+      ]
+    },
+    {
+      "lemma": "manāyatana",
+      "variants": [
+        "manāyatanaṃ"
+      ]
+    },
+    {
+      "lemma": "vitakkavicārā",
+      "variants": [
+        "vitakkavicārānaṃ",
+        "vitakkavicāre"
+      ]
+    },
+    {
+      "lemma": "kāyaviññāṇa",
+      "variants": [
+        "kāyaviññāṇassa",
+        "kāyaviññāṇaṃ"
+      ]
+    },
+    {
+      "lemma": "saddhindriya",
+      "variants": [
+        "saddhindriyaṃ"
+      ]
+    },
+    {
+      "lemma": "tasseva",
+      "variants": [
+        "Tasseva"
+      ]
+    },
+    {
+      "lemma": "sammāsamādhi",
+      "variants": [
+        "sammāsamādhi"
+      ]
+    },
+    {
+      "lemma": "paññābala",
+      "variants": [
+        "paññābalaṃ"
+      ]
+    },
+    {
+      "lemma": "cakkhundriya",
+      "variants": [
+        "cakkhundriyaṃ",
+        "cakkhundriye"
+      ]
+    },
+    {
+      "lemma": "dūra",
+      "variants": [
+        "dūre"
+      ]
+    },
+    {
+      "lemma": "jaratā",
+      "variants": [
+        "jaratā"
+      ]
+    },
+    {
+      "lemma": "rūpārammaṇa",
+      "variants": [
+        "rūpārammaṇaṃ",
+        "rūpārammaṇā",
+        "rūpārammaṇo"
+      ]
+    },
+    {
+      "lemma": "cha",
+      "variants": [
+        "cha",
+        "chahi",
+        "channaṃ"
+      ]
+    },
+    {
+      "lemma": "sampajañña",
+      "variants": [
+        "sampajaññaṃ"
+      ]
+    },
+    {
+      "lemma": "cakkhusamphassa",
+      "variants": [
+        "cakkhusamphassassa",
+        "cakkhusamphasso"
+      ]
+    },
+    {
+      "lemma": "kaṅkhati",
+      "variants": [
+        "kaṅkhati"
+      ]
+    },
+    {
+      "lemma": "kāyasamphassa",
+      "variants": [
+        "kāyasamphassassa",
+        "kāyasamphasso"
+      ]
+    },
+    {
+      "lemma": "taṃsampayutta",
+      "variants": [
+        "taṃsampayutto"
+      ]
+    },
+    {
+      "lemma": "vaṇṇanibhā",
+      "variants": [
+        "vaṇṇanibhā"
+      ]
+    },
+    {
+      "lemma": "vicikicchati",
+      "variants": [
+        "vicikicchati"
+      ]
+    },
+    {
+      "lemma": "bhāvitatta",
+      "variants": [
+        "bhāvitattā"
+      ]
+    },
+    {
+      "lemma": "sotāyatana",
+      "variants": [
+        "sotāyatanaṃ"
+      ]
+    },
+    {
+      "lemma": "rūpasaṅgaha",
+      "variants": [
+        "rūpasaṅgaho"
+      ]
+    },
+    {
+      "lemma": "upekkha",
+      "variants": [
+        "upekkhā",
+        "upekkhaṃ"
+      ]
+    },
+    {
+      "lemma": "cittasamuṭṭhāna",
+      "variants": [
+        "cittasamuṭṭhānaṃ",
+        "cittasamuṭṭhānā"
+      ]
+    },
+    {
+      "lemma": "maggaṅga",
+      "variants": [
+        "maggaṅgaṃ",
+        "maggaṅgāni"
+      ]
+    },
+    {
+      "lemma": "sammāsati",
+      "variants": [
+        "sammāsati"
+      ]
+    },
+    {
+      "lemma": "satibala",
+      "variants": [
+        "satibalaṃ"
+      ]
+    },
+    {
+      "lemma": "sahetuka",
+      "variants": [
+        "sahetukā",
+        "sahetuko"
+      ]
+    },
+    {
+      "lemma": "satta",
+      "variants": [
+        "satta",
+        "sattānaṃ",
+        "sattā"
+      ]
+    },
+    {
+      "lemma": "ahetuka",
+      "variants": [
+        "ahetuke",
+        "ahetukā",
+        "ahetukaṃ"
+      ]
+    },
+    {
+      "lemma": "jivhāyatana",
+      "variants": [
+        "jivhāyatanaṃ"
+      ]
+    },
+    {
+      "lemma": "kāyindriya",
+      "variants": [
+        "kāyindriyaṃ"
+      ]
+    },
+    {
+      "lemma": "rūpakkhandha",
+      "variants": [
+        "rūpakkhandho"
+      ]
+    },
+    {
+      "lemma": "sāmaññaphala",
+      "variants": [
+        "sāmaññaphalāni"
+      ]
+    },
+    {
+      "lemma": "uddhaccasahagata",
+      "variants": [
+        "uddhaccasahagato",
+        "uddhaccasahagataṃ",
+        "uddhaccasahagatesu"
+      ]
+    },
+    {
+      "lemma": "dhammārammaṇa",
+      "variants": [
+        "dhammārammaṇaṃ",
+        "dhammārammaṇā"
+      ]
+    },
+    {
+      "lemma": "somanassasahagata",
+      "variants": [
+        "somanassasahagatā",
+        "somanassasahagataṃ"
+      ]
+    },
+    {
+      "lemma": "saddhābala",
+      "variants": [
+        "saddhābalaṃ"
+      ]
+    },
+    {
+      "lemma": "sammāsaṅkappa",
+      "variants": [
+        "sammāsaṅkappo"
+      ]
+    },
+    {
+      "lemma": "avisāhāra",
+      "variants": [
+        "avisāhāro"
+      ]
+    },
+    {
+      "lemma": "jivha",
+      "variants": [
+        "jivhā",
+        "jivhaṃ",
+        "jivhāya"
+      ]
+    },
+    {
+      "lemma": "kāyagantha",
+      "variants": [
+        "kāyagantho",
+        "kāyaganthena",
+        "kāyaganthaṃ"
+      ]
+    },
+    {
+      "lemma": "kāyasamphassaja",
+      "variants": [
+        "kāyasamphassajā",
+        "kāyasamphassajāya",
+        "kāyasamphassajaṃ"
+      ]
+    },
+    {
+      "lemma": "ñāṇa",
+      "variants": [
+        "ñāṇaṃ"
+      ]
+    },
+    {
+      "lemma": "avijjāsaṃyojana",
+      "variants": [
+        "avijjāsaṃyojanaṃ",
+        "avijjāsaṃyojanena"
+      ]
+    },
+    {
+      "lemma": "ganthaniya",
+      "variants": [
+        "ganthaniyā",
+        "ganthaniyaṃ"
+      ]
+    },
+    {
+      "lemma": "ghānāyatana",
+      "variants": [
+        "ghānāyatanaṃ"
+      ]
+    },
+    {
+      "lemma": "nīvaraṇiya",
+      "variants": [
+        "nīvaraṇiyā",
+        "nīvaraṇiyaṃ"
+      ]
+    },
+    {
+      "lemma": "parāmaṭṭha",
+      "variants": [
+        "parāmaṭṭhā",
+        "parāmaṭṭho",
+        "parāmaṭṭhaṃ"
+      ]
+    },
+    {
+      "lemma": "phoṭṭhabbadhātu",
+      "variants": [
+        "phoṭṭhabbadhātu"
+      ]
+    },
+    {
+      "lemma": "saṃkilesika",
+      "variants": [
+        "saṃkilesikā",
+        "saṃkilesikaṃ"
+      ]
+    },
+    {
+      "lemma": "upādāniya",
+      "variants": [
+        "upādāniyā",
+        "upādāniyaṃ"
+      ]
+    },
+    {
+      "lemma": "diṭṭhisaṃyojana",
+      "variants": [
+        "diṭṭhisaṃyojanaṃ",
+        "diṭṭhisaṃyojanena"
+      ]
+    },
+    {
+      "lemma": "evaṃ",
+      "variants": [
+        "Evaṃ"
+      ]
+    },
+    {
+      "lemma": "ghānaviññeyya",
+      "variants": [
+        "ghānaviññeyyā",
+        "ghānaviññeyyaṃ"
+      ]
+    },
+    {
+      "lemma": "jivhāviññeyya",
+      "variants": [
+        "jivhāviññeyyā",
+        "jivhāviññeyyaṃ"
+      ]
+    },
+    {
+      "lemma": "maggaphala",
+      "variants": [
+        "maggaphalāni"
+      ]
+    },
+    {
+      "lemma": "nepuñña",
+      "variants": [
+        "nepuññaṃ"
+      ]
+    },
+    {
+      "lemma": "pavicaya",
+      "variants": [
+        "pavicayo"
+      ]
+    },
+    {
+      "lemma": "paññāpajjota",
+      "variants": [
+        "paññāpajjoto"
+      ]
+    },
+    {
+      "lemma": "paññāpāsāda",
+      "variants": [
+        "paññāpāsādo"
+      ]
+    },
+    {
+      "lemma": "paññāsattha",
+      "variants": [
+        "paññāsatthaṃ"
+      ]
+    },
+    {
+      "lemma": "rūpadhātu",
+      "variants": [
+        "rūpadhātu"
+      ]
+    },
+    {
+      "lemma": "sallakkhaṇa",
+      "variants": [
+        "sallakkhaṇā"
+      ]
+    },
+    {
+      "lemma": "sotaviññeyya",
+      "variants": [
+        "sotaviññeyyā",
+        "sotaviññeyyaṃ"
+      ]
+    },
+    {
+      "lemma": "sīlabbataparāmāsa",
+      "variants": [
+        "sīlabbataparāmāso",
+        "sīlabbataparāmāsaṃ",
+        "sīlabbataparāmāsena"
+      ]
+    },
+    {
+      "lemma": "upalakkhaṇā",
+      "variants": [
+        "upalakkhaṇā"
+      ]
+    },
+    {
+      "lemma": "upaparikkhanta",
+      "variants": [
+        "upaparikkhā"
+      ]
+    },
+    {
+      "lemma": "natthi",
+      "variants": [
+        "natthi"
+      ]
+    },
+    {
+      "lemma": "hirīyati",
+      "variants": [
+        "hirīyati"
+      ]
+    },
+    {
+      "lemma": "micchādiṭṭhi",
+      "variants": [
+        "micchādiṭṭhi"
+      ]
+    },
+    {
+      "lemma": "micchāsamādhi",
+      "variants": [
+        "micchāsamādhi"
+      ]
+    },
+    {
+      "lemma": "micchāvāyāma",
+      "variants": [
+        "micchāvāyāmo"
+      ]
+    },
+    {
+      "lemma": "orima",
+      "variants": [
+        "orimaṃ"
+      ]
+    },
+    {
+      "lemma": "ottappati",
+      "variants": [
+        "ottappati"
+      ]
+    },
+    {
+      "lemma": "paṭihaññi",
+      "variants": [
+        "paṭihaññi"
+      ]
+    },
+    {
+      "lemma": "yañca",
+      "variants": [
+        "yañca"
+      ]
+    },
+    {
+      "lemma": "avijjānīvaraṇa",
+      "variants": [
+        "avijjānīvaraṇaṃ",
+        "avijjānīvaraṇena"
+      ]
+    },
+    {
+      "lemma": "caturaṅgika",
+      "variants": [
+        "caturaṅgiko",
+        "caturaṅgikaṃ"
+      ]
+    },
+    {
+      "lemma": "hiribala",
+      "variants": [
+        "hiribalaṃ"
+      ]
+    },
+    {
+      "lemma": "ottappabala",
+      "variants": [
+        "ottappabalaṃ"
+      ]
+    },
+    {
+      "lemma": "sukhasahagata",
+      "variants": [
+        "sukhasahagatā",
+        "sukhasahagataṃ"
+      ]
+    },
+    {
+      "lemma": "vīriyārambha",
+      "variants": [
+        "vīriyārambho"
+      ]
+    },
+    {
+      "lemma": "ñāṇavippayutta",
+      "variants": [
+        "ñāṇavippayuttaṃ",
+        "ñāṇavippayuttā",
+        "ñāṇavippayutte"
+      ]
+    },
+    {
+      "lemma": "akusalamūla",
+      "variants": [
+        "akusalamūlaṃ",
+        "akusalamūlāni"
+      ]
+    },
+    {
+      "lemma": "micchāsaṅkappa",
+      "variants": [
+        "micchāsaṅkappo"
+      ]
+    },
+    {
+      "lemma": "phusana",
+      "variants": [
+        "phusanā"
+      ]
+    },
+    {
+      "lemma": "pītisahagata",
+      "variants": [
+        "pītisahagatā",
+        "pītisahagataṃ"
+      ]
+    },
+    {
+      "lemma": "anikkhittadhuratā",
+      "variants": [
+        "anikkhittadhuratā"
+      ]
+    },
+    {
+      "lemma": "ottappa",
+      "variants": [
+        "ottappaṃ"
+      ]
+    },
+    {
+      "lemma": "phoṭṭhabbārammaṇa",
+      "variants": [
+        "phoṭṭhabbārammaṇaṃ",
+        "phoṭṭhabbārammaṇā"
+      ]
+    },
+    {
+      "lemma": "tadekaṭṭha",
+      "variants": [
+        "tadekaṭṭhā",
+        "Tadekaṭṭho"
+      ]
+    },
+    {
+      "lemma": "kammavipāka",
+      "variants": [
+        "kammavipākā",
+        "kammavipākaṃ"
+      ]
+    },
+    {
+      "lemma": "kusalamūla",
+      "variants": [
+        "kusalamūlaṃ",
+        "kusalamūlāni"
+      ]
+    },
+    {
+      "lemma": "kāyakamma",
+      "variants": [
+        "kāyakammaṃ"
+      ]
+    },
+    {
+      "lemma": "nākusala",
+      "variants": [
+        "nākusalā",
+        "nākusalaṃ"
+      ]
+    },
+    {
+      "lemma": "pañca",
+      "variants": [
+        "pañca"
+      ]
+    },
+    {
+      "lemma": "taṃsamuṭṭhāna",
+      "variants": [
+        "taṃsamuṭṭhānaṃ"
+      ]
+    },
+    {
+      "lemma": "ñāṇasampayutta",
+      "variants": [
+        "ñāṇasampayuttaṃ",
+        "ñāṇasampayuttā"
+      ]
+    },
+    {
+      "lemma": "cittamudutā",
+      "variants": [
+        "cittamudutā"
+      ]
+    },
+    {
+      "lemma": "cittapassaddhi",
+      "variants": [
+        "cittapassaddhi"
+      ]
+    },
+    {
+      "lemma": "kāyakammaññatā",
+      "variants": [
+        "kāyakammaññatā"
+      ]
+    },
+    {
+      "lemma": "kāyalahutā",
+      "variants": [
+        "kāyalahutā"
+      ]
+    },
+    {
+      "lemma": "kāyamudutā",
+      "variants": [
+        "kāyamudutā"
+      ]
+    },
+    {
+      "lemma": "kāyapassaddhi",
+      "variants": [
+        "kāyapassaddhi"
+      ]
+    },
+    {
+      "lemma": "nāsāta",
+      "variants": [
+        "nāsātaṃ"
+      ]
+    },
+    {
+      "lemma": "upacitatta",
+      "variants": [
+        "upacitattā"
+      ]
+    },
+    {
+      "lemma": "diṭṭhigahana",
+      "variants": [
+        "diṭṭhigahanaṃ"
+      ]
+    },
+    {
+      "lemma": "diṭṭhikantāra",
+      "variants": [
+        "diṭṭhikantāro"
+      ]
+    },
+    {
+      "lemma": "diṭṭhivipphandita",
+      "variants": [
+        "diṭṭhivipphanditaṃ"
+      ]
+    },
+    {
+      "lemma": "gandhārammaṇa",
+      "variants": [
+        "gandhārammaṇaṃ",
+        "gandhārammaṇā"
+      ]
+    },
+    {
+      "lemma": "iriyanā",
+      "variants": [
+        "iriyanā"
+      ]
+    },
+    {
+      "lemma": "kummagga",
+      "variants": [
+        "kummaggo"
+      ]
+    },
+    {
+      "lemma": "pālana",
+      "variants": [
+        "pālanā"
+      ]
+    },
+    {
+      "lemma": "rasārammaṇa",
+      "variants": [
+        "rasārammaṇaṃ",
+        "rasārammaṇā"
+      ]
+    },
+    {
+      "lemma": "saddārammaṇa",
+      "variants": [
+        "saddārammaṇaṃ",
+        "saddārammaṇā"
+      ]
+    },
+    {
+      "lemma": "sakkāyadiṭṭhi",
+      "variants": [
+        "sakkāyadiṭṭhi"
+      ]
+    },
+    {
+      "lemma": "titthāyatana",
+      "variants": [
+        "titthāyatanaṃ"
+      ]
+    },
+    {
+      "lemma": "aniyata",
+      "variants": [
+        "aniyatā",
+        "aniyataṃ"
+      ]
+    },
+    {
+      "lemma": "cittacetasika",
+      "variants": [
+        "cittacetasikā"
+      ]
+    },
+    {
+      "lemma": "domanassasahagata",
+      "variants": [
+        "domanassasahagatesu",
+        "domanassasahagataṃ"
+      ]
+    },
+    {
+      "lemma": "ghānindriya",
+      "variants": [
+        "ghānindriyaṃ"
+      ]
+    },
+    {
+      "lemma": "jivhindriya",
+      "variants": [
+        "jivhindriyaṃ"
+      ]
+    },
+    {
+      "lemma": "kusalahetu",
+      "variants": [
+        "kusalahetū",
+        "kusalahetu"
+      ]
+    },
+    {
+      "lemma": "sotindriya",
+      "variants": [
+        "sotindriyaṃ"
+      ]
+    },
+    {
+      "lemma": "apilāpanatā",
+      "variants": [
+        "apilāpanatā"
+      ]
+    },
+    {
+      "lemma": "arūpūpapatti",
+      "variants": [
+        "arūpūpapattiyā"
+      ]
+    },
+    {
+      "lemma": "cakkhusamphassaja",
+      "variants": [
+        "cakkhusamphassajāya",
+        "cakkhusamphassajā"
+      ]
+    },
+    {
+      "lemma": "ghānasamphassa",
+      "variants": [
+        "ghānasamphassassa",
+        "ghānasamphasso"
+      ]
+    },
+    {
+      "lemma": "jivhāsamphassa",
+      "variants": [
+        "jivhāsamphassassa",
+        "jivhāsamphasso"
+      ]
+    },
+    {
+      "lemma": "ogha",
+      "variants": [
+        "oghā",
+        "ogho"
+      ]
+    },
+    {
+      "lemma": "paṭissati",
+      "variants": [
+        "paṭissati"
+      ]
+    },
+    {
+      "lemma": "paṭivirodha",
+      "variants": [
+        "paṭivirodho"
+      ]
+    },
+    {
+      "lemma": "saraṇatā",
+      "variants": [
+        "saraṇatā"
+      ]
+    },
+    {
+      "lemma": "sotasamphassa",
+      "variants": [
+        "sotasamphassassa",
+        "sotasamphasso"
+      ]
+    },
+    {
+      "lemma": "abhiniropanā",
+      "variants": [
+        "abhiniropanā"
+      ]
+    },
+    {
+      "lemma": "apariyogāhana",
+      "variants": [
+        "apariyogāhanā"
+      ]
+    },
+    {
+      "lemma": "avijjāsava",
+      "variants": [
+        "avijjāsavo",
+        "avijjāsavena"
+      ]
+    },
+    {
+      "lemma": "byappanā",
+      "variants": [
+        "byappanā"
+      ]
+    },
+    {
+      "lemma": "dhammavicayasambojjhaṅga",
+      "variants": [
+        "dhammavicayasambojjhaṅgo"
+      ]
+    },
+    {
+      "lemma": "idappaccayatā",
+      "variants": [
+        "idappaccayatā"
+      ]
+    },
+    {
+      "lemma": "kusalākusala",
+      "variants": [
+        "Kusalākusalānaṃ",
+        "kusalākusalā"
+      ]
+    },
+    {
+      "lemma": "kāmupādāna",
+      "variants": [
+        "kāmupādānaṃ",
+        "kāmupādānena"
+      ]
+    },
+    {
+      "lemma": "pañcaṅgika",
+      "variants": [
+        "pañcaṅgikaṃ",
+        "pañcaṅgiko"
+      ]
+    },
+    {
+      "lemma": "abyākatahetu",
+      "variants": [
+        "abyākatahetū"
+      ]
+    },
+    {
+      "lemma": "aganthaniya",
+      "variants": [
+        "aganthaniyā"
+      ]
+    },
+    {
+      "lemma": "anupādāniya",
+      "variants": [
+        "anupādāniyā"
+      ]
+    },
+    {
+      "lemma": "anārammaṇa",
+      "variants": [
+        "anārammaṇā",
+        "anārammaṇaṃ"
+      ]
+    },
+    {
+      "lemma": "anāsava",
+      "variants": [
+        "anāsavā"
+      ]
+    },
+    {
+      "lemma": "anīvaraṇiya",
+      "variants": [
+        "anīvaraṇiyā"
+      ]
+    },
+    {
+      "lemma": "aparāmaṭṭha",
+      "variants": [
+        "aparāmaṭṭhā"
+      ]
+    },
+    {
+      "lemma": "asaṃkilesika",
+      "variants": [
+        "asaṃkilesikā"
+      ]
+    },
+    {
+      "lemma": "hiriyitabba",
+      "variants": [
+        "hiriyitabbena"
+      ]
+    },
+    {
+      "lemma": "idameva",
+      "variants": [
+        "idameva"
+      ]
+    },
+    {
+      "lemma": "moghamaññanti",
+      "variants": [
+        "moghamaññanti"
+      ]
+    },
+    {
+      "lemma": "avītikkama",
+      "variants": [
+        "avītikkamo"
+      ]
+    },
+    {
+      "lemma": "aññindriya",
+      "variants": [
+        "aññindriyaṃ"
+      ]
+    },
+    {
+      "lemma": "byāpādanīvaraṇa",
+      "variants": [
+        "byāpādanīvaraṇaṃ",
+        "byāpādanīvaraṇena"
+      ]
+    },
+    {
+      "lemma": "kāmacchandanīvaraṇa",
+      "variants": [
+        "kāmacchandanīvaraṇaṃ",
+        "kāmacchandanīvaraṇena"
+      ]
+    },
+    {
+      "lemma": "samaṇabrāhmaṇa",
+      "variants": [
+        "samaṇabrāhmaṇānaṃ",
+        "samaṇabrāhmaṇā"
+      ]
+    },
+    {
+      "lemma": "thinamiddhanīvaraṇa",
+      "variants": [
+        "thinamiddhanīvaraṇaṃ",
+        "thinamiddhanīvaraṇena"
+      ]
+    },
+    {
+      "lemma": "tīṇindriyāni",
+      "variants": [
+        "tīṇindriyāni"
+      ]
+    },
+    {
+      "lemma": "ācayagāmī",
+      "variants": [
+        "ācayagāmino",
+        "ācayagāmi"
+      ]
+    },
+    {
+      "lemma": "adassana",
+      "variants": [
+        "adassanaṃ"
+      ]
+    },
+    {
+      "lemma": "adassāvī",
+      "variants": [
+        "adassāvī"
+      ]
+    },
+    {
+      "lemma": "akovida",
+      "variants": [
+        "akovido"
+      ]
+    },
+    {
+      "lemma": "ariyadhamma",
+      "variants": [
+        "ariyadhammassa",
+        "ariyadhamme"
+      ]
+    },
+    {
+      "lemma": "asampajañña",
+      "variants": [
+        "asampajaññaṃ"
+      ]
+    },
+    {
+      "lemma": "avinīta",
+      "variants": [
+        "avinīto"
+      ]
+    },
+    {
+      "lemma": "avitakka",
+      "variants": [
+        "avitakkā",
+        "avitakkaṃ"
+      ]
+    },
+    {
+      "lemma": "diṭṭhāsava",
+      "variants": [
+        "diṭṭhāsavo",
+        "diṭṭhāsavena"
+      ]
+    },
+    {
+      "lemma": "dvādasa",
+      "variants": [
+        "Dvādasa"
+      ]
+    },
+    {
+      "lemma": "ekādasa",
+      "variants": [
+        "ekādasa"
+      ]
+    },
+    {
+      "lemma": "ghānaviññāṇa",
+      "variants": [
+        "ghānaviññāṇaṃ"
+      ]
+    },
+    {
+      "lemma": "jivhāviññāṇa",
+      "variants": [
+        "jivhāviññāṇaṃ"
+      ]
+    },
+    {
+      "lemma": "manovilekha",
+      "variants": [
+        "manovilekho"
+      ]
+    },
+    {
+      "lemma": "pañcindriyāni",
+      "variants": [
+        "pañcindriyāni"
+      ]
+    },
+    {
+      "lemma": "sappurisadhamma",
+      "variants": [
+        "sappurisadhammassa",
+        "sappurisadhamme"
+      ]
+    },
+    {
+      "lemma": "teva",
+      "variants": [
+        "Teva"
+      ]
+    },
+    {
+      "lemma": "viññāṇañcāyatana",
+      "variants": [
+        "viññāṇañcāyatanaṃ"
+      ]
+    },
+    {
+      "lemma": "ākiñcaññāyatana",
+      "variants": [
+        "ākiñcaññāyatanaṃ"
+      ]
+    },
+    {
+      "lemma": "ākāsānañcāyatana",
+      "variants": [
+        "ākāsānañcāyatanaṃ"
+      ]
+    },
+    {
+      "lemma": "adandhanatā",
+      "variants": [
+        "adandhanatā"
+      ]
+    },
+    {
+      "lemma": "adussanā",
+      "variants": [
+        "adussanā"
+      ]
+    },
+    {
+      "lemma": "adussitatta",
+      "variants": [
+        "adussitattaṃ"
+      ]
+    },
+    {
+      "lemma": "akusalacitta",
+      "variants": [
+        "akusalacittassa",
+        "akusalacittāni"
+      ]
+    },
+    {
+      "lemma": "alubbhana",
+      "variants": [
+        "alubbhanā"
+      ]
+    },
+    {
+      "lemma": "alubbhitatta",
+      "variants": [
+        "alubbhitattaṃ"
+      ]
+    },
+    {
+      "lemma": "asārāga",
+      "variants": [
+        "asārāgo"
+      ]
+    },
+    {
+      "lemma": "avitakkaavicāra",
+      "variants": [
+        "avitakkaavicārā",
+        "avitakkaavicāraṃ"
+      ]
+    },
+    {
+      "lemma": "avitakkavicāramatta",
+      "variants": [
+        "avitakkavicāramattā",
+        "avitakkavicāramattaṃ"
+      ]
+    },
+    {
+      "lemma": "bhavarāgasaṃyojana",
+      "variants": [
+        "bhavarāgasaṃyojanaṃ",
+        "bhavarāgasaṃyojanena"
+      ]
+    },
+    {
+      "lemma": "bhavāsava",
+      "variants": [
+        "bhavāsavo",
+        "bhavāsavena"
+      ]
+    },
+    {
+      "lemma": "byāpajjanā",
+      "variants": [
+        "byāpajjanā"
+      ]
+    },
+    {
+      "lemma": "caṇḍikka",
+      "variants": [
+        "caṇḍikkaṃ"
+      ]
+    },
+    {
+      "lemma": "diṭṭhadhammasukhavihāra",
+      "variants": [
+        "diṭṭhadhammasukhavihāraṃ",
+        "diṭṭhadhammasukhavihārassa"
+      ]
+    },
+    {
+      "lemma": "diṭṭhupādāna",
+      "variants": [
+        "diṭṭhupādānaṃ",
+        "diṭṭhupādānena"
+      ]
+    },
+    {
+      "lemma": "dukkhanirodha",
+      "variants": [
+        "dukkhanirodhe"
+      ]
+    },
+    {
+      "lemma": "dukkhanirodhagāmī",
+      "variants": [
+        "dukkhanirodhagāminiyā"
+      ]
+    },
+    {
+      "lemma": "dukkhasamudaya",
+      "variants": [
+        "dukkhasamudaye"
+      ]
+    },
+    {
+      "lemma": "idaṃsaccābhinivesa",
+      "variants": [
+        "idaṃsaccābhiniveso",
+        "idaṃsaccābhinivesena"
+      ]
+    },
+    {
+      "lemma": "karitvā",
+      "variants": [
+        "karitvā"
+      ]
+    },
+    {
+      "lemma": "kāmataṇhā",
+      "variants": [
+        "kāmataṇhā"
+      ]
+    },
+    {
+      "lemma": "kāmāsava",
+      "variants": [
+        "kāmāsavo",
+        "kāmāsavena"
+      ]
+    },
+    {
+      "lemma": "mettāsahagata",
+      "variants": [
+        "mettāsahagataṃ"
+      ]
+    },
+    {
+      "lemma": "mānasaṃyojana",
+      "variants": [
+        "mānasaṃyojanaṃ",
+        "mānasaṃyojanena"
+      ]
+    },
+    {
+      "lemma": "paṭighasaṃyojana",
+      "variants": [
+        "paṭighasaṃyojanaṃ",
+        "paṭighasaṃyojanena"
+      ]
+    },
+    {
+      "lemma": "savitakkasavicāra",
+      "variants": [
+        "savitakkasavicārā",
+        "savitakkasavicāraṃ"
+      ]
+    },
+    {
+      "lemma": "tejodhātu",
+      "variants": [
+        "tejodhātu"
+      ]
+    },
+    {
+      "lemma": "vāyodhātu",
+      "variants": [
+        "vāyodhātu"
+      ]
+    },
+    {
+      "lemma": "abhijjhākāyagantha",
+      "variants": [
+        "abhijjhākāyagantho",
+        "abhijjhākāyaganthena"
+      ]
+    },
+    {
+      "lemma": "abhippasāda",
+      "variants": [
+        "abhippasādo"
+      ]
+    },
+    {
+      "lemma": "abyākatacitta",
+      "variants": [
+        "abyākatacittassa"
+      ]
+    },
+    {
+      "lemma": "acetasika",
+      "variants": [
+        "acetasikā",
+        "acetasikaṃ"
+      ]
+    },
+    {
+      "lemma": "anabhisamaya",
+      "variants": [
+        "anabhisamayo"
+      ]
+    },
+    {
+      "lemma": "ananubodha",
+      "variants": [
+        "ananubodho"
+      ]
+    },
+    {
+      "lemma": "anidassanaappaṭigha",
+      "variants": [
+        "anidassanaappaṭighā",
+        "anidassanaappaṭighaṃ"
+      ]
+    },
+    {
+      "lemma": "anidassanasappaṭigha",
+      "variants": [
+        "anidassanasappaṭighā",
+        "anidassanasappaṭighaṃ"
+      ]
+    },
+    {
+      "lemma": "aniyyānika",
+      "variants": [
+        "aniyyānikā",
+        "aniyyānikaṃ"
+      ]
+    },
+    {
+      "lemma": "apaccakkhakamma",
+      "variants": [
+        "apaccakkhakammaṃ"
+      ]
+    },
+    {
+      "lemma": "appaṭivedha",
+      "variants": [
+        "appaṭivedho"
+      ]
+    },
+    {
+      "lemma": "asamapekkhana",
+      "variants": [
+        "asamapekkhanā"
+      ]
+    },
+    {
+      "lemma": "asambodha",
+      "variants": [
+        "asambodho"
+      ]
+    },
+    {
+      "lemma": "asaṃgāhana",
+      "variants": [
+        "asaṃgāhanā"
+      ]
+    },
+    {
+      "lemma": "asaṃkiliṭṭha",
+      "variants": [
+        "asaṃkiliṭṭhā"
+      ]
+    },
+    {
+      "lemma": "attavādupādāna",
+      "variants": [
+        "attavādupādānaṃ",
+        "attavādupādānena"
+      ]
+    },
+    {
+      "lemma": "avicāra",
+      "variants": [
+        "avicārā",
+        "avicāraṃ"
+      ]
+    },
+    {
+      "lemma": "avijjogha",
+      "variants": [
+        "avijjogho"
+      ]
+    },
+    {
+      "lemma": "avijjānusaya",
+      "variants": [
+        "avijjānusayo"
+      ]
+    },
+    {
+      "lemma": "avijjāyoga",
+      "variants": [
+        "avijjāyogo"
+      ]
+    },
+    {
+      "lemma": "catasso",
+      "variants": [
+        "Catasso"
+      ]
+    },
+    {
+      "lemma": "cittaja",
+      "variants": [
+        "cittajaṃ"
+      ]
+    },
+    {
+      "lemma": "dukkhasamphassa",
+      "variants": [
+        "dukkhasamphassaṃ",
+        "dukkhasamphasso"
+      ]
+    },
+    {
+      "lemma": "issāsaṃyojana",
+      "variants": [
+        "issāsaṃyojanaṃ",
+        "issāsaṃyojanena"
+      ]
+    },
+    {
+      "lemma": "jappa",
+      "variants": [
+        "jappā"
+      ]
+    },
+    {
+      "lemma": "khaya",
+      "variants": [
+        "khaye",
+        "khayo"
+      ]
+    },
+    {
+      "lemma": "kusalacitta",
+      "variants": [
+        "kusalacittassa"
+      ]
+    },
+    {
+      "lemma": "macchariyasaṃyojana",
+      "variants": [
+        "macchariyasaṃyojanaṃ",
+        "macchariyasaṃyojanena"
+      ]
+    },
+    {
+      "lemma": "mahaggata",
+      "variants": [
+        "mahaggatā",
+        "Mahaggate"
+      ]
+    },
+    {
+      "lemma": "nevasekkhanāsekkha",
+      "variants": [
+        "nevasekkhanāsekkhā",
+        "nevasekkhanāsekkhaṃ"
+      ]
+    },
+    {
+      "lemma": "nevavipākanavipākadhammadhamma",
+      "variants": [
+        "nevavipākanavipākadhammadhammā",
+        "nevavipākanavipākadhammadhammaṃ"
+      ]
+    },
+    {
+      "lemma": "okappana",
+      "variants": [
+        "okappanā"
+      ]
+    },
+    {
+      "lemma": "rūpataṇhā",
+      "variants": [
+        "rūpataṇhā"
+      ]
+    },
+    {
+      "lemma": "saddahana",
+      "variants": [
+        "saddahanā"
+      ]
+    },
+    {
+      "lemma": "samādhisambojjhaṅga",
+      "variants": [
+        "samādhisambojjhaṅgo"
+      ]
+    },
+    {
+      "lemma": "sassa",
+      "variants": [
+        "Sassato"
+      ]
+    },
+    {
+      "lemma": "savicāra",
+      "variants": [
+        "savicārā",
+        "savicāraṃ"
+      ]
+    },
+    {
+      "lemma": "savitakka",
+      "variants": [
+        "savitakkā",
+        "savitakkaṃ"
+      ]
+    },
+    {
+      "lemma": "sukhasamphassa",
+      "variants": [
+        "sukhasamphassaṃ",
+        "sukhasamphasso"
+      ]
+    },
+    {
+      "lemma": "sīlabbata",
+      "variants": [
+        "sīlabbatena"
+      ]
+    },
+    {
+      "lemma": "sīlabbatupādāna",
+      "variants": [
+        "sīlabbatupādānaṃ",
+        "sīlabbatupādānena"
+      ]
+    },
+    {
+      "lemma": "tivaṅgika",
+      "variants": [
+        "tivaṅgiko",
+        "tivaṅgikaṃ"
+      ]
+    },
+    {
+      "lemma": "ajimhatā",
+      "variants": [
+        "ajimhatā"
+      ]
+    },
+    {
+      "lemma": "ajjhattabahiddhā",
+      "variants": [
+        "ajjhattabahiddhā"
+      ]
+    },
+    {
+      "lemma": "akusalahetu",
+      "variants": [
+        "akusalahetū"
+      ]
+    },
+    {
+      "lemma": "amanasikāra",
+      "variants": [
+        "amanasikārā"
+      ]
+    },
+    {
+      "lemma": "anuttara",
+      "variants": [
+        "anuttarā"
+      ]
+    },
+    {
+      "lemma": "apaccavekkhaṇā",
+      "variants": [
+        "apaccavekkhaṇā"
+      ]
+    },
+    {
+      "lemma": "asassata",
+      "variants": [
+        "asassato"
+      ]
+    },
+    {
+      "lemma": "asekkha",
+      "variants": [
+        "asekkhā"
+      ]
+    },
+    {
+      "lemma": "avaṅkata",
+      "variants": [
+        "avaṅkatā"
+      ]
+    },
+    {
+      "lemma": "aṭṭhāna",
+      "variants": [
+        "aṭṭhāne"
+      ]
+    },
+    {
+      "lemma": "bojjhaṅga",
+      "variants": [
+        "bojjhaṅgaṃ",
+        "bojjhaṅgā"
+      ]
+    },
+    {
+      "lemma": "diṭṭhiparāmāsa",
+      "variants": [
+        "diṭṭhiparāmāso"
+      ]
+    },
+    {
+      "lemma": "duvaṅgika",
+      "variants": [
+        "duvaṅgikaṃ",
+        "duvaṅgiko"
+      ]
+    },
+    {
+      "lemma": "dvedhāpatha",
+      "variants": [
+        "dvedhāpatho"
+      ]
+    },
+    {
+      "lemma": "idha",
+      "variants": [
+        "Idha"
+      ]
+    },
+    {
+      "lemma": "idhekacca",
+      "variants": [
+        "Idhekacco"
+      ]
+    },
+    {
+      "lemma": "kaṅkhā",
+      "variants": [
+        "kaṅkhā"
+      ]
+    },
+    {
+      "lemma": "kaṅkhāyanā",
+      "variants": [
+        "kaṅkhāyanā"
+      ]
+    },
+    {
+      "lemma": "kujjhana",
+      "variants": [
+        "kujjhanā"
+      ]
+    },
+    {
+      "lemma": "micchattaniyata",
+      "variants": [
+        "micchattaniyatā"
+      ]
+    },
+    {
+      "lemma": "nibbāna",
+      "variants": [
+        "Nibbānaṃ"
+      ]
+    },
+    {
+      "lemma": "nānattasaññā",
+      "variants": [
+        "nānattasaññānaṃ"
+      ]
+    },
+    {
+      "lemma": "oghaniya",
+      "variants": [
+        "oghaniyā",
+        "oghaniyaṃ"
+      ]
+    },
+    {
+      "lemma": "pahāsa",
+      "variants": [
+        "pahāso"
+      ]
+    },
+    {
+      "lemma": "paṭiggāha",
+      "variants": [
+        "paṭiggāho"
+      ]
+    },
+    {
+      "lemma": "rūpasaññā",
+      "variants": [
+        "rūpasaññānaṃ"
+      ]
+    },
+    {
+      "lemma": "samatikkama",
+      "variants": [
+        "samatikkamā"
+      ]
+    },
+    {
+      "lemma": "sammattaniyata",
+      "variants": [
+        "sammattaniyatā"
+      ]
+    },
+    {
+      "lemma": "sammākammanta",
+      "variants": [
+        "sammākammanto"
+      ]
+    },
+    {
+      "lemma": "sammāvāca",
+      "variants": [
+        "sammāvācā"
+      ]
+    },
+    {
+      "lemma": "sammāājīva",
+      "variants": [
+        "sammāājīvo"
+      ]
+    },
+    {
+      "lemma": "sampakopa",
+      "variants": [
+        "sampakopo"
+      ]
+    },
+    {
+      "lemma": "sanidassanasappaṭigha",
+      "variants": [
+        "sanidassanasappaṭighā"
+      ]
+    },
+    {
+      "lemma": "sappītika",
+      "variants": [
+        "sappītikā"
+      ]
+    },
+    {
+      "lemma": "saṅgahita",
+      "variants": [
+        "saṅgahitā"
+      ]
+    },
+    {
+      "lemma": "sekkha",
+      "variants": [
+        "sekkhā"
+      ]
+    },
+    {
+      "lemma": "sārammaṇa",
+      "variants": [
+        "sārammaṇā"
+      ]
+    },
+    {
+      "lemma": "āmodanā",
+      "variants": [
+        "āmodanā"
+      ]
+    },
+    {
+      "lemma": "abhijjhādomanassa",
+      "variants": [
+        "abhijjhādomanassā"
+      ]
+    },
+    {
+      "lemma": "amanussasadda",
+      "variants": [
+        "amanussasaddo"
+      ]
+    },
+    {
+      "lemma": "amattaññutā",
+      "variants": [
+        "amattaññutā"
+      ]
+    },
+    {
+      "lemma": "anaññātaññassāmītindriya",
+      "variants": [
+        "anaññātaññassāmītindriyaṃ"
+      ]
+    },
+    {
+      "lemma": "anvāssavati",
+      "variants": [
+        "anvāssaveyyuṃ"
+      ]
+    },
+    {
+      "lemma": "ariyamagga",
+      "variants": [
+        "Ariyamaggaṃ",
+        "ariyamaggesu",
+        "ariyamaggā"
+      ]
+    },
+    {
+      "lemma": "ariyamaggasamaṅgī",
+      "variants": [
+        "Ariyamaggasamaṅgissa"
+      ]
+    },
+    {
+      "lemma": "asādu",
+      "variants": [
+        "asādu"
+      ]
+    },
+    {
+      "lemma": "atapanīya",
+      "variants": [
+        "atapanīyā"
+      ]
+    },
+    {
+      "lemma": "aṭṭhaka",
+      "variants": [
+        "Aṭṭhakaṃ"
+      ]
+    },
+    {
+      "lemma": "bherisadda",
+      "variants": [
+        "bherisaddo"
+      ]
+    },
+    {
+      "lemma": "candamaṇḍala",
+      "variants": [
+        "candamaṇḍalassa"
+      ]
+    },
+    {
+      "lemma": "catukka",
+      "variants": [
+        "Catukkaṃ"
+      ]
+    },
+    {
+      "lemma": "chakka",
+      "variants": [
+        "Chakkaṃ"
+      ]
+    },
+    {
+      "lemma": "chanda",
+      "variants": [
+        "chandaṃ"
+      ]
+    },
+    {
+      "lemma": "chaḷaṃsa",
+      "variants": [
+        "chaḷaṃsaṃ"
+      ]
+    },
+    {
+      "lemma": "dasaka",
+      "variants": [
+        "Dasakaṃ"
+      ]
+    },
+    {
+      "lemma": "dhātukusalatā",
+      "variants": [
+        "dhātukusalatā"
+      ]
+    },
+    {
+      "lemma": "diṭṭhisampadā",
+      "variants": [
+        "diṭṭhisampadā"
+      ]
+    },
+    {
+      "lemma": "diṭṭhivipatti",
+      "variants": [
+        "diṭṭhivipatti"
+      ]
+    },
+    {
+      "lemma": "duggandha",
+      "variants": [
+        "duggandho"
+      ]
+    },
+    {
+      "lemma": "ghānasamphassaja",
+      "variants": [
+        "ghānasamphassajā"
+      ]
+    },
+    {
+      "lemma": "idampi",
+      "variants": [
+        "Idampi"
+      ]
+    },
+    {
+      "lemma": "idañca",
+      "variants": [
+        "idañca"
+      ]
+    },
+    {
+      "lemma": "iddhipāda",
+      "variants": [
+        "iddhipādaṃ"
+      ]
+    },
+    {
+      "lemma": "jivhāsamphassaja",
+      "variants": [
+        "jivhāsamphassajā"
+      ]
+    },
+    {
+      "lemma": "jātarūparajata",
+      "variants": [
+        "jātarūparajatassa"
+      ]
+    },
+    {
+      "lemma": "kasāva",
+      "variants": [
+        "kasāvo"
+      ]
+    },
+    {
+      "lemma": "kāmacchanda",
+      "variants": [
+        "kāmacchando"
+      ]
+    },
+    {
+      "lemma": "kāmajjhosāna",
+      "variants": [
+        "kāmajjhosānaṃ"
+      ]
+    },
+    {
+      "lemma": "kāmamucchā",
+      "variants": [
+        "kāmamucchā"
+      ]
+    },
+    {
+      "lemma": "kāmanandī",
+      "variants": [
+        "kāmanandī"
+      ]
+    },
+    {
+      "lemma": "kāmapariḷāha",
+      "variants": [
+        "kāmapariḷāho"
+      ]
+    },
+    {
+      "lemma": "kāmarāga",
+      "variants": [
+        "kāmarāgo"
+      ]
+    },
+    {
+      "lemma": "kāyikavācasika",
+      "variants": [
+        "kāyikavācasiko"
+      ]
+    },
+    {
+      "lemma": "mahikā",
+      "variants": [
+        "mahikā"
+      ]
+    },
+    {
+      "lemma": "manasikārakusalatā",
+      "variants": [
+        "manasikārakusalatā"
+      ]
+    },
+    {
+      "lemma": "manosañcetanāhāra",
+      "variants": [
+        "manosañcetanāhāro"
+      ]
+    },
+    {
+      "lemma": "manussasadda",
+      "variants": [
+        "manussasaddo"
+      ]
+    },
+    {
+      "lemma": "mattaññutā",
+      "variants": [
+        "mattaññutā"
+      ]
+    },
+    {
+      "lemma": "mañjiṭṭhaka",
+      "variants": [
+        "mañjiṭṭhakaṃ"
+      ]
+    },
+    {
+      "lemma": "mudiṅgasadda",
+      "variants": [
+        "mudiṅgasaddo"
+      ]
+    },
+    {
+      "lemma": "mātika",
+      "variants": [
+        "Mātikā"
+      ]
+    },
+    {
+      "lemma": "mūlagandha",
+      "variants": [
+        "mūlagandho"
+      ]
+    },
+    {
+      "lemma": "nava",
+      "variants": [
+        "nava"
+      ]
+    },
+    {
+      "lemma": "nimittaggāhī",
+      "variants": [
+        "nimittaggāhī"
+      ]
+    },
+    {
+      "lemma": "ninna",
+      "variants": [
+        "ninnaṃ"
+      ]
+    },
+    {
+      "lemma": "paggaṇhāti",
+      "variants": [
+        "paggaṇhāti"
+      ]
+    },
+    {
+      "lemma": "paguṇatā",
+      "variants": [
+        "paguṇatā"
+      ]
+    },
+    {
+      "lemma": "passambhanā",
+      "variants": [
+        "passambhanā"
+      ]
+    },
+    {
+      "lemma": "pattagandha",
+      "variants": [
+        "pattagandho"
+      ]
+    },
+    {
+      "lemma": "pattarasa",
+      "variants": [
+        "pattaraso"
+      ]
+    },
+    {
+      "lemma": "pañcaka",
+      "variants": [
+        "Pañcakaṃ"
+      ]
+    },
+    {
+      "lemma": "paṇavasadda",
+      "variants": [
+        "paṇavasaddo"
+      ]
+    },
+    {
+      "lemma": "paṭipajjati",
+      "variants": [
+        "paṭipajjati"
+      ]
+    },
+    {
+      "lemma": "paṭipassaddhi",
+      "variants": [
+        "paṭipassaddhi"
+      ]
+    },
+    {
+      "lemma": "phalagandha",
+      "variants": [
+        "phalagandho"
+      ]
+    },
+    {
+      "lemma": "phassāhāra",
+      "variants": [
+        "phassāhāro"
+      ]
+    },
+    {
+      "lemma": "pupphagandha",
+      "variants": [
+        "pupphagandho"
+      ]
+    },
+    {
+      "lemma": "puppharasa",
+      "variants": [
+        "puppharaso"
+      ]
+    },
+    {
+      "lemma": "puthujjana",
+      "variants": [
+        "puthujjano"
+      ]
+    },
+    {
+      "lemma": "pāṇisadda",
+      "variants": [
+        "pāṇisaddo"
+      ]
+    },
+    {
+      "lemma": "pītisukha",
+      "variants": [
+        "pītisukhaṃ"
+      ]
+    },
+    {
+      "lemma": "rakkhati",
+      "variants": [
+        "rakkhati"
+      ]
+    },
+    {
+      "lemma": "sammappadhāna",
+      "variants": [
+        "sammappadhānaṃ"
+      ]
+    },
+    {
+      "lemma": "sammasadda",
+      "variants": [
+        "sammasaddo"
+      ]
+    },
+    {
+      "lemma": "samāpattikusalatā",
+      "variants": [
+        "samāpattikusalatā"
+      ]
+    },
+    {
+      "lemma": "satipaṭṭha",
+      "variants": [
+        "satipaṭṭhānaṃ"
+      ]
+    },
+    {
+      "lemma": "satisambojjhaṅga",
+      "variants": [
+        "satisambojjhaṅgo"
+      ]
+    },
+    {
+      "lemma": "saṅkhasadda",
+      "variants": [
+        "saṅkhasaddo"
+      ]
+    },
+    {
+      "lemma": "sotasamphassaja",
+      "variants": [
+        "sotasamphassajā"
+      ]
+    },
+    {
+      "lemma": "sugandha",
+      "variants": [
+        "sugandho"
+      ]
+    },
+    {
+      "lemma": "suvaṇṇadubbaṇṇa",
+      "variants": [
+        "suvaṇṇadubbaṇṇāni"
+      ]
+    },
+    {
+      "lemma": "sāragandha",
+      "variants": [
+        "sāragandho"
+      ]
+    },
+    {
+      "lemma": "sīlasampadā",
+      "variants": [
+        "sīlasampadā"
+      ]
+    },
+    {
+      "lemma": "sīlavipatti",
+      "variants": [
+        "sīlavipatti"
+      ]
+    },
+    {
+      "lemma": "sīlavisuddhi",
+      "variants": [
+        "sīlavisuddhi"
+      ]
+    },
+    {
+      "lemma": "sūriyamaṇḍala",
+      "variants": [
+        "sūriyamaṇḍalassa"
+      ]
+    },
+    {
+      "lemma": "tacagandha",
+      "variants": [
+        "tacagandho"
+      ]
+    },
+    {
+      "lemma": "tapanīya",
+      "variants": [
+        "tapanīyā"
+      ]
+    },
+    {
+      "lemma": "thala",
+      "variants": [
+        "thalaṃ"
+      ]
+    },
+    {
+      "lemma": "uddhaccakukkuccanīvaraṇa",
+      "variants": [
+        "uddhaccakukkuccanīvaraṇaṃ"
+      ]
+    },
+    {
+      "lemma": "ujukatā",
+      "variants": [
+        "ujukatā"
+      ]
+    },
+    {
+      "lemma": "ujutā",
+      "variants": [
+        "ujutā"
+      ]
+    },
+    {
+      "lemma": "uppādī",
+      "variants": [
+        "uppādino"
+      ]
+    },
+    {
+      "lemma": "veviccha",
+      "variants": [
+        "vevicchaṃ"
+      ]
+    },
+    {
+      "lemma": "vissagandha",
+      "variants": [
+        "vissagandho"
+      ]
+    },
+    {
+      "lemma": "viññāṇavant",
+      "variants": [
+        "viññāṇavantaṃ"
+      ]
+    },
+    {
+      "lemma": "viññāṇāhāra",
+      "variants": [
+        "viññāṇāhāro"
+      ]
+    },
+    {
+      "lemma": "vāyamati",
+      "variants": [
+        "vāyamati"
+      ]
+    },
+    {
+      "lemma": "vīriyasambojjhaṅga",
+      "variants": [
+        "vīriyasambojjhaṅgo"
+      ]
+    },
+    {
+      "lemma": "vīsati",
+      "variants": [
+        "Vīsati"
+      ]
+    },
+    {
+      "lemma": "yatvādhikaraṇamenaṃ",
+      "variants": [
+        "Yatvādhikaraṇamenaṃ"
+      ]
+    },
+    {
+      "lemma": "āpatti",
+      "variants": [
+        "āpattiyo",
+        "āpattīhi",
+        "āpattīnaṃ"
+      ]
+    },
+    {
+      "lemma": "āpattikusalatā",
+      "variants": [
+        "āpattikusalatā"
+      ]
+    },
+    {
+      "lemma": "āpogata",
+      "variants": [
+        "āpogataṃ"
+      ]
+    },
+    {
+      "lemma": "āyatanakusalatā",
+      "variants": [
+        "āyatanakusalatā"
+      ]
+    },
+    {
+      "lemma": "abhijappa",
+      "variants": [
+        "abhijappā"
+      ]
+    },
+    {
+      "lemma": "abhiñña",
+      "variants": [
+        "abhiññā"
+      ]
+    },
+    {
+      "lemma": "adhammarāga",
+      "variants": [
+        "adhammarāgo"
+      ]
+    },
+    {
+      "lemma": "adhivacana",
+      "variants": [
+        "adhivacanā"
+      ]
+    },
+    {
+      "lemma": "aguttadvāratā",
+      "variants": [
+        "aguttadvāratā"
+      ]
+    },
+    {
+      "lemma": "akallatā",
+      "variants": [
+        "akallatā"
+      ]
+    },
+    {
+      "lemma": "akammaññatā",
+      "variants": [
+        "akammaññatā"
+      ]
+    },
+    {
+      "lemma": "akaraṇa",
+      "variants": [
+        "akaraṇaṃ"
+      ]
+    },
+    {
+      "lemma": "akiriya",
+      "variants": [
+        "akiriyā"
+      ]
+    },
+    {
+      "lemma": "anajjhāpatti",
+      "variants": [
+        "anajjhāpatti"
+      ]
+    },
+    {
+      "lemma": "antaradhāna",
+      "variants": [
+        "antaradhānaṃ"
+      ]
+    },
+    {
+      "lemma": "anubyañjanaggāhī",
+      "variants": [
+        "anubyañjanaggāhī"
+      ]
+    },
+    {
+      "lemma": "anunaya",
+      "variants": [
+        "anunayo"
+      ]
+    },
+    {
+      "lemma": "anuppāda",
+      "variants": [
+        "anuppāde",
+        "anuppādāya"
+      ]
+    },
+    {
+      "lemma": "anurodha",
+      "variants": [
+        "anurodho"
+      ]
+    },
+    {
+      "lemma": "anusaya",
+      "variants": [
+        "anusayo"
+      ]
+    },
+    {
+      "lemma": "aparantānudiṭṭhi",
+      "variants": [
+        "aparantānudiṭṭhi"
+      ]
+    },
+    {
+      "lemma": "arūpataṇhā",
+      "variants": [
+        "arūpataṇhā"
+      ]
+    },
+    {
+      "lemma": "asamphuṭṭha",
+      "variants": [
+        "asamphuṭṭhaṃ"
+      ]
+    },
+    {
+      "lemma": "aññātāvindriya",
+      "variants": [
+        "aññātāvindriyaṃ"
+      ]
+    },
+    {
+      "lemma": "aṭṭhavidha",
+      "variants": [
+        "aṭṭhavidhena"
+      ]
+    },
+    {
+      "lemma": "aṭṭhānakusalatā",
+      "variants": [
+        "aṭṭhānakusalatā"
+      ]
+    },
+    {
+      "lemma": "bhantatta",
+      "variants": [
+        "bhantattaṃ"
+      ]
+    },
+    {
+      "lemma": "bhavadiṭṭhi",
+      "variants": [
+        "bhavadiṭṭhi"
+      ]
+    },
+    {
+      "lemma": "bhavanetti",
+      "variants": [
+        "bhavanetti"
+      ]
+    },
+    {
+      "lemma": "bhavati",
+      "variants": [
+        "bhavissati"
+      ]
+    },
+    {
+      "lemma": "bhāvanābala",
+      "variants": [
+        "bhāvanābalaṃ"
+      ]
+    },
+    {
+      "lemma": "byappatha",
+      "variants": [
+        "byappatho"
+      ]
+    },
+    {
+      "lemma": "chabbidha",
+      "variants": [
+        "chabbidhena"
+      ]
+    },
+    {
+      "lemma": "dadhi",
+      "variants": [
+        "dadhi"
+      ]
+    },
+    {
+      "lemma": "dhammataṇhā",
+      "variants": [
+        "dhammataṇhā"
+      ]
+    },
+    {
+      "lemma": "dhanāsā",
+      "variants": [
+        "dhanāsā"
+      ]
+    },
+    {
+      "lemma": "diṭṭhivisuddhi",
+      "variants": [
+        "diṭṭhivisuddhi"
+      ]
+    },
+    {
+      "lemma": "domanassindriya",
+      "variants": [
+        "domanassindriyaṃ"
+      ]
+    },
+    {
+      "lemma": "dukkhamūla",
+      "variants": [
+        "dukkhamūlaṃ"
+      ]
+    },
+    {
+      "lemma": "dukkhanidāna",
+      "variants": [
+        "dukkhanidānaṃ"
+      ]
+    },
+    {
+      "lemma": "duvidha",
+      "variants": [
+        "duvidhena"
+      ]
+    },
+    {
+      "lemma": "eja",
+      "variants": [
+        "ejā"
+      ]
+    },
+    {
+      "lemma": "ekādasavidha",
+      "variants": [
+        "ekādasavidhena"
+      ]
+    },
+    {
+      "lemma": "eta",
+      "variants": [
+        "etasmiṃ"
+      ]
+    },
+    {
+      "lemma": "ettha",
+      "variants": [
+        "ettha"
+      ]
+    },
+    {
+      "lemma": "gandhataṇhā",
+      "variants": [
+        "gandhataṇhā"
+      ]
+    },
+    {
+      "lemma": "guttadvāratā",
+      "variants": [
+        "guttadvāratā"
+      ]
+    },
+    {
+      "lemma": "imañca",
+      "variants": [
+        "imañca"
+      ]
+    },
+    {
+      "lemma": "iti",
+      "variants": [
+        "Iti"
+      ]
+    },
+    {
+      "lemma": "itthibhāva",
+      "variants": [
+        "itthibhāvo"
+      ]
+    },
+    {
+      "lemma": "itthikutta",
+      "variants": [
+        "itthikuttaṃ"
+      ]
+    },
+    {
+      "lemma": "itthiliṅga",
+      "variants": [
+        "itthiliṅgaṃ"
+      ]
+    },
+    {
+      "lemma": "itthinimitta",
+      "variants": [
+        "itthinimittaṃ"
+      ]
+    },
+    {
+      "lemma": "itthākappa",
+      "variants": [
+        "itthākappo"
+      ]
+    },
+    {
+      "lemma": "janapada",
+      "variants": [
+        "janapade"
+      ]
+    },
+    {
+      "lemma": "jālinī",
+      "variants": [
+        "jālinī"
+      ]
+    },
+    {
+      "lemma": "jīvitāsā",
+      "variants": [
+        "jīvitāsā"
+      ]
+    },
+    {
+      "lemma": "kalyāṇamittatā",
+      "variants": [
+        "kalyāṇamittatā"
+      ]
+    },
+    {
+      "lemma": "khaṇḍicca",
+      "variants": [
+        "khaṇḍiccaṃ"
+      ]
+    },
+    {
+      "lemma": "kummāsa",
+      "variants": [
+        "kummāso"
+      ]
+    },
+    {
+      "lemma": "kusalavipāka",
+      "variants": [
+        "Kusalavipākā"
+      ]
+    },
+    {
+      "lemma": "kāyaviññāṇadhātu",
+      "variants": [
+        "kāyaviññāṇadhātu"
+      ]
+    },
+    {
+      "lemma": "loluppa",
+      "variants": [
+        "loluppaṃ"
+      ]
+    },
+    {
+      "lemma": "lābhāsā",
+      "variants": [
+        "lābhāsā"
+      ]
+    },
+    {
+      "lemma": "mucchanta",
+      "variants": [
+        "mucchā"
+      ]
+    },
+    {
+      "lemma": "mārapāsa",
+      "variants": [
+        "mārapāso"
+      ]
+    },
+    {
+      "lemma": "māravisaya",
+      "variants": [
+        "māravisayo"
+      ]
+    },
+    {
+      "lemma": "māya",
+      "variants": [
+        "māyā"
+      ]
+    },
+    {
+      "lemma": "nandīrāga",
+      "variants": [
+        "nandīrāgo"
+      ]
+    },
+    {
+      "lemma": "navanīta",
+      "variants": [
+        "navanītaṃ"
+      ]
+    },
+    {
+      "lemma": "navavidha",
+      "variants": [
+        "navavidhena"
+      ]
+    },
+    {
+      "lemma": "nevasaññānāsaññāyatana",
+      "variants": [
+        "nevasaññānāsaññāyatanaṃ"
+      ]
+    },
+    {
+      "lemma": "nikanti",
+      "variants": [
+        "nikanti"
+      ]
+    },
+    {
+      "lemma": "nirodhataṇhā",
+      "variants": [
+        "nirodhataṇhā"
+      ]
+    },
+    {
+      "lemma": "ojā",
+      "variants": [
+        "ojāya"
+      ]
+    },
+    {
+      "lemma": "opapātika",
+      "variants": [
+        "opapātikā"
+      ]
+    },
+    {
+      "lemma": "parañca",
+      "variants": [
+        "parañca"
+      ]
+    },
+    {
+      "lemma": "paribhedi",
+      "variants": [
+        "paribhedo"
+      ]
+    },
+    {
+      "lemma": "pariyuṭṭha",
+      "variants": [
+        "pariyuṭṭhānaṃ"
+      ]
+    },
+    {
+      "lemma": "pañcakanaya",
+      "variants": [
+        "Pañcakanayo",
+        "pañcakanaye"
+      ]
+    },
+    {
+      "lemma": "pañcavidha",
+      "variants": [
+        "pañcavidhena"
+      ]
+    },
+    {
+      "lemma": "paṭhamabhāṇavāra",
+      "variants": [
+        "paṭhamabhāṇavāro"
+      ]
+    },
+    {
+      "lemma": "paṭiccasamuppādakusalatā",
+      "variants": [
+        "paṭiccasamuppādakusalatā"
+      ]
+    },
+    {
+      "lemma": "paṭikkamanta",
+      "variants": [
+        "paṭikkamantassa"
+      ]
+    },
+    {
+      "lemma": "phoṭṭhabbataṇhā",
+      "variants": [
+        "phoṭṭhabbataṇhā"
+      ]
+    },
+    {
+      "lemma": "pubbantānudiṭṭhi",
+      "variants": [
+        "pubbantānudiṭṭhi"
+      ]
+    },
+    {
+      "lemma": "purisakutta",
+      "variants": [
+        "purisakuttaṃ"
+      ]
+    },
+    {
+      "lemma": "purisaliṅga",
+      "variants": [
+        "purisaliṅgaṃ"
+      ]
+    },
+    {
+      "lemma": "purisatta",
+      "variants": [
+        "purisattaṃ"
+      ]
+    },
+    {
+      "lemma": "purisākappa",
+      "variants": [
+        "purisākappo"
+      ]
+    },
+    {
+      "lemma": "pāpamittatā",
+      "variants": [
+        "pāpamittatā"
+      ]
+    },
+    {
+      "lemma": "rasataṇhā",
+      "variants": [
+        "rasataṇhā"
+      ]
+    },
+    {
+      "lemma": "sacchikatvā",
+      "variants": [
+        "sacchikatvā"
+      ]
+    },
+    {
+      "lemma": "samiñjenta",
+      "variants": [
+        "samiñjentassa"
+      ]
+    },
+    {
+      "lemma": "sammāpaṭipanna",
+      "variants": [
+        "sammāpaṭipannā"
+      ]
+    },
+    {
+      "lemma": "samādhija",
+      "variants": [
+        "samādhijaṃ"
+      ]
+    },
+    {
+      "lemma": "samāpattivuṭṭhānakusalatā",
+      "variants": [
+        "samāpattivuṭṭhānakusalatā"
+      ]
+    },
+    {
+      "lemma": "santhambhana",
+      "variants": [
+        "santhambhanā"
+      ]
+    },
+    {
+      "lemma": "sattar",
+      "variants": [
+        "sattu"
+      ]
+    },
+    {
+      "lemma": "sattavidha",
+      "variants": [
+        "sattavidhena"
+      ]
+    },
+    {
+      "lemma": "saṅkha",
+      "variants": [
+        "saṅkhā"
+      ]
+    },
+    {
+      "lemma": "setughāta",
+      "variants": [
+        "setughāto"
+      ]
+    },
+    {
+      "lemma": "sibbini",
+      "variants": [
+        "sibbinī"
+      ]
+    },
+    {
+      "lemma": "sukatadukkaṭa",
+      "variants": [
+        "sukatadukkaṭānaṃ"
+      ]
+    },
+    {
+      "lemma": "sukhindriya",
+      "variants": [
+        "sukhindriyaṃ"
+      ]
+    },
+    {
+      "lemma": "sādhukamyatā",
+      "variants": [
+        "sādhukamyatā"
+      ]
+    },
+    {
+      "lemma": "sīlasaṃvara",
+      "variants": [
+        "sīlasaṃvaro"
+      ]
+    },
+    {
+      "lemma": "taṇhājāla",
+      "variants": [
+        "taṇhājālaṃ"
+      ]
+    },
+    {
+      "lemma": "tela",
+      "variants": [
+        "telaṃ"
+      ]
+    },
+    {
+      "lemma": "thambhanā",
+      "variants": [
+        "thambhanā"
+      ]
+    },
+    {
+      "lemma": "tividha",
+      "variants": [
+        "tividhena"
+      ]
+    },
+    {
+      "lemma": "ucchedadiṭṭhi",
+      "variants": [
+        "ucchedadiṭṭhi"
+      ]
+    },
+    {
+      "lemma": "udīraṇa",
+      "variants": [
+        "udīraṇaṃ"
+      ]
+    },
+    {
+      "lemma": "upakkilesa",
+      "variants": [
+        "upakkileso"
+      ]
+    },
+    {
+      "lemma": "vajirūpama",
+      "variants": [
+        "vajirūpamā"
+      ]
+    },
+    {
+      "lemma": "valittacatā",
+      "variants": [
+        "valittacatā"
+      ]
+    },
+    {
+      "lemma": "velāanatikkama",
+      "variants": [
+        "velāanatikkamo"
+      ]
+    },
+    {
+      "lemma": "vibhavadiṭṭhi",
+      "variants": [
+        "vibhavadiṭṭhi"
+      ]
+    },
+    {
+      "lemma": "vibhavataṇhā",
+      "variants": [
+        "vibhavataṇhā"
+      ]
+    },
+    {
+      "lemma": "vijjūpama",
+      "variants": [
+        "vijjūpamā"
+      ]
+    },
+    {
+      "lemma": "vilokenta",
+      "variants": [
+        "vilokentassa"
+      ]
+    },
+    {
+      "lemma": "visamalobha",
+      "variants": [
+        "visamalobho"
+      ]
+    },
+    {
+      "lemma": "visattika",
+      "variants": [
+        "visattikā"
+      ]
+    },
+    {
+      "lemma": "vivari",
+      "variants": [
+        "vivaro"
+      ]
+    },
+    {
+      "lemma": "vohāra",
+      "variants": [
+        "vohāro"
+      ]
+    },
+    {
+      "lemma": "vītikkama",
+      "variants": [
+        "vītikkamo"
+      ]
+    },
+    {
+      "lemma": "yiṭṭha",
+      "variants": [
+        "yiṭṭhaṃ"
+      ]
+    },
+    {
+      "lemma": "yāpeti",
+      "variants": [
+        "yāpenti"
+      ]
+    },
+    {
+      "lemma": "āpattivuṭṭhānakusalatā",
+      "variants": [
+        "āpattivuṭṭhānakusalatā"
+      ]
+    },
+    {
+      "lemma": "ṭhānakusalatā",
+      "variants": [
+        "ṭhānakusalatā"
+      ]
+    },
+    {
+      "lemma": "abhibhāyatana",
+      "variants": [
+        "abhibhāyatanāni"
+      ]
+    },
+    {
+      "lemma": "abhidhamma",
+      "variants": [
+        "abhidhamma"
+      ]
+    },
+    {
+      "lemma": "abhidhammapiṭaka",
+      "variants": [
+        "Abhidhammapiṭaka",
+        "Abhidhammapiṭake"
+      ]
+    },
+    {
+      "lemma": "abhinibbatta",
+      "variants": [
+        "abhinibbattā"
+      ]
+    },
+    {
+      "lemma": "adhivacanapatha",
+      "variants": [
+        "adhivacanapathā"
+      ]
+    },
+    {
+      "lemma": "akusalavipāka",
+      "variants": [
+        "Akusalavipākā"
+      ]
+    },
+    {
+      "lemma": "anibbatta",
+      "variants": [
+        "anibbattā"
+      ]
+    },
+    {
+      "lemma": "appaṭisaṅkhā",
+      "variants": [
+        "appaṭisaṅkhā"
+      ]
+    },
+    {
+      "lemma": "appaṭivānitā",
+      "variants": [
+        "appaṭivānitā"
+      ]
+    },
+    {
+      "lemma": "apātubhūta",
+      "variants": [
+        "apātubhūtā"
+      ]
+    },
+    {
+      "lemma": "arahattaphala",
+      "variants": [
+        "arahattaphalaṃ"
+      ]
+    },
+    {
+      "lemma": "asamuppanna",
+      "variants": [
+        "asamuppannā"
+      ]
+    },
+    {
+      "lemma": "aññamañña",
+      "variants": [
+        "aññamaññaṃ"
+      ]
+    },
+    {
+      "lemma": "bahulīkamma",
+      "variants": [
+        "bahulīkammaṃ"
+      ]
+    },
+    {
+      "lemma": "bhajana",
+      "variants": [
+        "bhajanā"
+      ]
+    },
+    {
+      "lemma": "bhavamucchā",
+      "variants": [
+        "bhavamucchā"
+      ]
+    },
+    {
+      "lemma": "bhavanandī",
+      "variants": [
+        "bhavanandī"
+      ]
+    },
+    {
+      "lemma": "bhavapariḷāha",
+      "variants": [
+        "bhavapariḷāho"
+      ]
+    },
+    {
+      "lemma": "bhavarāga",
+      "variants": [
+        "bhavarāgo"
+      ]
+    },
+    {
+      "lemma": "cakkhuviññāṇadhātu",
+      "variants": [
+        "cakkhuviññāṇadhātu"
+      ]
+    },
+    {
+      "lemma": "catukkanaya",
+      "variants": [
+        "Catukkanayo"
+      ]
+    },
+    {
+      "lemma": "dhammapaṭisanthāra",
+      "variants": [
+        "dhammapaṭisanthārena",
+        "dhammapaṭisanthāro"
+      ]
+    },
+    {
+      "lemma": "disvā",
+      "variants": [
+        "disvā"
+      ]
+    },
+    {
+      "lemma": "dutiyabhāṇavāra",
+      "variants": [
+        "dutiyabhāṇavāro"
+      ]
+    },
+    {
+      "lemma": "dutiyajjhāna",
+      "variants": [
+        "dutiyajjhānaṃ",
+        "dutiyajjhāne"
+      ]
+    },
+    {
+      "lemma": "ekavidha",
+      "variants": [
+        "ekavidhena"
+      ]
+    },
+    {
+      "lemma": "ghāyi",
+      "variants": [
+        "ghāyi"
+      ]
+    },
+    {
+      "lemma": "ghāyitvā",
+      "variants": [
+        "ghāyitvā"
+      ]
+    },
+    {
+      "lemma": "hīnohamasmīti",
+      "variants": [
+        "hīnohamasmīti"
+      ]
+    },
+    {
+      "lemma": "karuṇāsahagata",
+      "variants": [
+        "karuṇāsahagataṃ"
+      ]
+    },
+    {
+      "lemma": "ketukamyatā",
+      "variants": [
+        "ketukamyatā"
+      ]
+    },
+    {
+      "lemma": "kilesavatthu",
+      "variants": [
+        "kilesavatthūni"
+      ]
+    },
+    {
+      "lemma": "kāyaduccarita",
+      "variants": [
+        "Kāyaduccaritaṃ",
+        "kāyaduccaritehi"
+      ]
+    },
+    {
+      "lemma": "līyana",
+      "variants": [
+        "līyanā"
+      ]
+    },
+    {
+      "lemma": "manoviññeyya",
+      "variants": [
+        "manoviññeyyaṃ"
+      ]
+    },
+    {
+      "lemma": "maññanā",
+      "variants": [
+        "maññanā"
+      ]
+    },
+    {
+      "lemma": "maṇḍana",
+      "variants": [
+        "maṇḍanāya"
+      ]
+    },
+    {
+      "lemma": "muditāsahagata",
+      "variants": [
+        "muditāsahagataṃ"
+      ]
+    },
+    {
+      "lemma": "muṭṭhasacca",
+      "variants": [
+        "muṭṭhasaccaṃ"
+      ]
+    },
+    {
+      "lemma": "niruttipatha",
+      "variants": [
+        "niruttipathā"
+      ]
+    },
+    {
+      "lemma": "nisevana",
+      "variants": [
+        "nisevanā"
+      ]
+    },
+    {
+      "lemma": "olīyanā",
+      "variants": [
+        "olīyanā"
+      ]
+    },
+    {
+      "lemma": "passaddhisambojjhaṅga",
+      "variants": [
+        "passaddhisambojjhaṅgo"
+      ]
+    },
+    {
+      "lemma": "paññattipatha",
+      "variants": [
+        "paññattipathā"
+      ]
+    },
+    {
+      "lemma": "paṭighasampayutta",
+      "variants": [
+        "paṭighasampayuttaṃ"
+      ]
+    },
+    {
+      "lemma": "paṭisaṅkhā",
+      "variants": [
+        "paṭisaṅkhā"
+      ]
+    },
+    {
+      "lemma": "paṭisaṅkhānabala",
+      "variants": [
+        "paṭisaṅkhānabalaṃ"
+      ]
+    },
+    {
+      "lemma": "phusitvā",
+      "variants": [
+        "phusitvā"
+      ]
+    },
+    {
+      "lemma": "pāṭipuggalika",
+      "variants": [
+        "pāṭipuggalikā"
+      ]
+    },
+    {
+      "lemma": "sacchikiriyā",
+      "variants": [
+        "sacchikiriyāya"
+      ]
+    },
+    {
+      "lemma": "sadisohamasmīti",
+      "variants": [
+        "sadisohamasmīti"
+      ]
+    },
+    {
+      "lemma": "sahadhammika",
+      "variants": [
+        "Sahadhammike"
+      ]
+    },
+    {
+      "lemma": "sallīyanā",
+      "variants": [
+        "sallīyanā"
+      ]
+    },
+    {
+      "lemma": "samathanimitta",
+      "variants": [
+        "samathanimittaṃ"
+      ]
+    },
+    {
+      "lemma": "sampaggāha",
+      "variants": [
+        "sampaggāho"
+      ]
+    },
+    {
+      "lemma": "sasaṅkhārika",
+      "variants": [
+        "sasaṅkhārikesu"
+      ]
+    },
+    {
+      "lemma": "saṃsevanā",
+      "variants": [
+        "saṃsevanā"
+      ]
+    },
+    {
+      "lemma": "saṃvejaniya",
+      "variants": [
+        "Saṃvejaniyaṃ",
+        "saṃvejaniyesu"
+      ]
+    },
+    {
+      "lemma": "seyyohamasmīti",
+      "variants": [
+        "Seyyohamasmīti"
+      ]
+    },
+    {
+      "lemma": "sutvā",
+      "variants": [
+        "sutvā"
+      ]
+    },
+    {
+      "lemma": "suṇa",
+      "variants": [
+        "suṇe"
+      ]
+    },
+    {
+      "lemma": "suṇi",
+      "variants": [
+        "suṇi"
+      ]
+    },
+    {
+      "lemma": "sārajjanā",
+      "variants": [
+        "sārajjanā"
+      ]
+    },
+    {
+      "lemma": "sāya",
+      "variants": [
+        "sāye"
+      ]
+    },
+    {
+      "lemma": "sāyitvā",
+      "variants": [
+        "sāyitvā"
+      ]
+    },
+    {
+      "lemma": "tanubhāva",
+      "variants": [
+        "tanubhāvāya"
+      ]
+    },
+    {
+      "lemma": "unnama",
+      "variants": [
+        "unnamo"
+      ]
+    },
+    {
+      "lemma": "unnati",
+      "variants": [
+        "unnati"
+      ]
+    },
+    {
+      "lemma": "upekkhaka",
+      "variants": [
+        "upekkhako"
+      ]
+    },
+    {
+      "lemma": "vacīduccarita",
+      "variants": [
+        "vacīduccaritaṃ",
+        "vacīduccaritehi"
+      ]
+    },
+    {
+      "lemma": "vibhūsana",
+      "variants": [
+        "vibhūsanāya"
+      ]
+    },
+    {
+      "lemma": "vicāramatta",
+      "variants": [
+        "vicāramattaṃ"
+      ]
+    },
+    {
+      "lemma": "vuccamāna",
+      "variants": [
+        "vuccamāne"
+      ]
+    },
+    {
+      "lemma": "yathādiṭṭhi",
+      "variants": [
+        "yathādiṭṭhissa"
+      ]
+    },
+    {
+      "lemma": "āhāreti",
+      "variants": [
+        "āhāreti"
+      ]
+    },
+    {
+      "lemma": "āmisapaṭisanthāra",
+      "variants": [
+        "āmisapaṭisanthārena",
+        "āmisapaṭisanthāro"
+      ]
+    },
+    {
+      "lemma": "āpattikkhandha",
+      "variants": [
+        "āpattikkhandhā"
+      ]
+    },
+    {
+      "lemma": "acaṇḍikka",
+      "variants": [
+        "acaṇḍikkaṃ"
+      ]
+    },
+    {
+      "lemma": "adhāraṇatā",
+      "variants": [
+        "adhāraṇatā"
+      ]
+    },
+    {
+      "lemma": "adiṭṭha",
+      "variants": [
+        "adiṭṭhānaṃ"
+      ]
+    },
+    {
+      "lemma": "agopanā",
+      "variants": [
+        "agopanā"
+      ]
+    },
+    {
+      "lemma": "agutti",
+      "variants": [
+        "agutti"
+      ]
+    },
+    {
+      "lemma": "agāravatā",
+      "variants": [
+        "agāravatā"
+      ]
+    },
+    {
+      "lemma": "ahirīka",
+      "variants": [
+        "ahirīkaṃ"
+      ]
+    },
+    {
+      "lemma": "akappiya",
+      "variants": [
+        "Akappiye"
+      ]
+    },
+    {
+      "lemma": "akappiyasaññitā",
+      "variants": [
+        "akappiyasaññitā"
+      ]
+    },
+    {
+      "lemma": "amu",
+      "variants": [
+        "usmā"
+      ]
+    },
+    {
+      "lemma": "anukampanta",
+      "variants": [
+        "anukampā"
+      ]
+    },
+    {
+      "lemma": "anādariya",
+      "variants": [
+        "anādariyaṃ"
+      ]
+    },
+    {
+      "lemma": "anārakkha",
+      "variants": [
+        "anārakkho"
+      ]
+    },
+    {
+      "lemma": "apaccavekkhanā",
+      "variants": [
+        "apaccavekkhanā"
+      ]
+    },
+    {
+      "lemma": "appaṭissati",
+      "variants": [
+        "appaṭissati"
+      ]
+    },
+    {
+      "lemma": "appaṭissavatā",
+      "variants": [
+        "appaṭissavatā"
+      ]
+    },
+    {
+      "lemma": "arahattamagga",
+      "variants": [
+        "arahattamagge"
+      ]
+    },
+    {
+      "lemma": "arūpajjhāna",
+      "variants": [
+        "arūpajjhānāni"
+      ]
+    },
+    {
+      "lemma": "asamādhisaṃvattanika",
+      "variants": [
+        "asamādhisaṃvattanikā"
+      ]
+    },
+    {
+      "lemma": "asantuṭṭha",
+      "variants": [
+        "asantuṭṭhassa"
+      ]
+    },
+    {
+      "lemma": "asaṃvara",
+      "variants": [
+        "asaṃvaro"
+      ]
+    },
+    {
+      "lemma": "assaddha",
+      "variants": [
+        "assaddhā"
+      ]
+    },
+    {
+      "lemma": "asubhajjhāna",
+      "variants": [
+        "asubhajjhānaṃ"
+      ]
+    },
+    {
+      "lemma": "atthuddhāra",
+      "variants": [
+        "Atthuddhāro"
+      ]
+    },
+    {
+      "lemma": "avajja",
+      "variants": [
+        "avajje"
+      ]
+    },
+    {
+      "lemma": "avicārabhūmi",
+      "variants": [
+        "Avicārabhūmiyaṃ"
+      ]
+    },
+    {
+      "lemma": "avijjāpaccayā",
+      "variants": [
+        "Avijjāpaccayā"
+      ]
+    },
+    {
+      "lemma": "avipakkavipāka",
+      "variants": [
+        "avipakkavipākānaṃ"
+      ]
+    },
+    {
+      "lemma": "avitakkāvicāra",
+      "variants": [
+        "avitakkāvicārā"
+      ]
+    },
+    {
+      "lemma": "ayoniso",
+      "variants": [
+        "ayoniso"
+      ]
+    },
+    {
+      "lemma": "aññātāvī",
+      "variants": [
+        "aññātāvīnaṃ"
+      ]
+    },
+    {
+      "lemma": "aṇḍaka",
+      "variants": [
+        "aṇḍakā"
+      ]
+    },
+    {
+      "lemma": "aṭṭhama",
+      "variants": [
+        "Aṭṭhamaṃ"
+      ]
+    },
+    {
+      "lemma": "aṭṭhamabhāṇavāra",
+      "variants": [
+        "Aṭṭhamabhāṇavāro"
+      ]
+    },
+    {
+      "lemma": "aṭṭhikasaññāsahagata",
+      "variants": [
+        "aṭṭhikasaññāsahagataṃ"
+      ]
+    },
+    {
+      "lemma": "aṭṭhārasa",
+      "variants": [
+        "Aṭṭhārasa"
+      ]
+    },
+    {
+      "lemma": "bahujanakanta",
+      "variants": [
+        "bahujanakantā"
+      ]
+    },
+    {
+      "lemma": "bahujanamanāpa",
+      "variants": [
+        "bahujanamanāpā"
+      ]
+    },
+    {
+      "lemma": "bahussuta",
+      "variants": [
+        "bahussutā"
+      ]
+    },
+    {
+      "lemma": "bhagavato",
+      "variants": [
+        "bhagavato"
+      ]
+    },
+    {
+      "lemma": "bhavapaccayā",
+      "variants": [
+        "bhavapaccayā"
+      ]
+    },
+    {
+      "lemma": "bhikkhu",
+      "variants": [
+        "bhikkhu"
+      ]
+    },
+    {
+      "lemma": "bhiyyokamyatā",
+      "variants": [
+        "bhiyyokamyatā"
+      ]
+    },
+    {
+      "lemma": "brahmacariyānuggaha",
+      "variants": [
+        "brahmacariyānuggahāya"
+      ]
+    },
+    {
+      "lemma": "brahmaloka",
+      "variants": [
+        "brahmalokaṃ"
+      ]
+    },
+    {
+      "lemma": "byādhibhaya",
+      "variants": [
+        "byādhibhayaṃ"
+      ]
+    },
+    {
+      "lemma": "catutthajjhāna",
+      "variants": [
+        "catutthajjhānaṃ"
+      ]
+    },
+    {
+      "lemma": "chaṭṭha",
+      "variants": [
+        "Chaṭṭhaṃ"
+      ]
+    },
+    {
+      "lemma": "cittappassaddhi",
+      "variants": [
+        "cittappassaddhi"
+      ]
+    },
+    {
+      "lemma": "cittujjukatā",
+      "variants": [
+        "cittujjukatā"
+      ]
+    },
+    {
+      "lemma": "dhammamacchariya",
+      "variants": [
+        "dhammamacchariyaṃ"
+      ]
+    },
+    {
+      "lemma": "dukkhakkhandha",
+      "variants": [
+        "dukkhakkhandhassa"
+      ]
+    },
+    {
+      "lemma": "dukkhāpaṭipadā",
+      "variants": [
+        "dukkhāpaṭipadaṃ"
+      ]
+    },
+    {
+      "lemma": "dussilya",
+      "variants": [
+        "dussilyaṃ"
+      ]
+    },
+    {
+      "lemma": "evametassa",
+      "variants": [
+        "evametassa"
+      ]
+    },
+    {
+      "lemma": "ghānaviññāṇadhātu",
+      "variants": [
+        "ghānaviññāṇadhātu"
+      ]
+    },
+    {
+      "lemma": "gutti",
+      "variants": [
+        "gutti"
+      ]
+    },
+    {
+      "lemma": "hadayaṅgama",
+      "variants": [
+        "hadayaṅgamā"
+      ]
+    },
+    {
+      "lemma": "hitesitā",
+      "variants": [
+        "hitesitā"
+      ]
+    },
+    {
+      "lemma": "issa",
+      "variants": [
+        "issā"
+      ]
+    },
+    {
+      "lemma": "jarābhaya",
+      "variants": [
+        "jarābhayaṃ"
+      ]
+    },
+    {
+      "lemma": "jarāmaraṇa",
+      "variants": [
+        "jarāmaraṇaṃ"
+      ]
+    },
+    {
+      "lemma": "jivhāviññāṇadhātu",
+      "variants": [
+        "jivhāviññāṇadhātu"
+      ]
+    },
+    {
+      "lemma": "jātibhaya",
+      "variants": [
+        "jātibhayaṃ"
+      ]
+    },
+    {
+      "lemma": "jātipaccayā",
+      "variants": [
+        "jātipaccayā"
+      ]
+    },
+    {
+      "lemma": "kappiyasaññitā",
+      "variants": [
+        "kappiyasaññitā"
+      ]
+    },
+    {
+      "lemma": "kaṇṇasukha",
+      "variants": [
+        "kaṇṇasukhā"
+      ]
+    },
+    {
+      "lemma": "kharagata",
+      "variants": [
+        "kharagataṃ"
+      ]
+    },
+    {
+      "lemma": "kodhasāmanta",
+      "variants": [
+        "kodhasāmantā"
+      ]
+    },
+    {
+      "lemma": "kulamacchariya",
+      "variants": [
+        "kulamacchariyaṃ"
+      ]
+    },
+    {
+      "lemma": "kāmūpādāna",
+      "variants": [
+        "kāmūpādānaṃ"
+      ]
+    },
+    {
+      "lemma": "kāyappassaddhi",
+      "variants": [
+        "kāyappassaddhi"
+      ]
+    },
+    {
+      "lemma": "kāyasucarita",
+      "variants": [
+        "Kāyasucaritaṃ"
+      ]
+    },
+    {
+      "lemma": "kāyujjukatā",
+      "variants": [
+        "kāyujjukatā"
+      ]
+    },
+    {
+      "lemma": "lohitakanibhāsa",
+      "variants": [
+        "lohitakanibhāsāni"
+      ]
+    },
+    {
+      "lemma": "lohitakanidassana",
+      "variants": [
+        "lohitakanidassanāni"
+      ]
+    },
+    {
+      "lemma": "lohitakasiṇa",
+      "variants": [
+        "lohitakasiṇaṃ"
+      ]
+    },
+    {
+      "lemma": "lohitakavaṇṇa",
+      "variants": [
+        "lohitakavaṇṇāni"
+      ]
+    },
+    {
+      "lemma": "lābhamacchariya",
+      "variants": [
+        "lābhamacchariyaṃ"
+      ]
+    },
+    {
+      "lemma": "manoduccarita",
+      "variants": [
+        "manoduccaritaṃ"
+      ]
+    },
+    {
+      "lemma": "manosucarita",
+      "variants": [
+        "manosucaritaṃ"
+      ]
+    },
+    {
+      "lemma": "maraṇabhaya",
+      "variants": [
+        "maraṇabhayaṃ"
+      ]
+    },
+    {
+      "lemma": "mañjeṭṭhaka",
+      "variants": [
+        "mañjeṭṭhakaṃ"
+      ]
+    },
+    {
+      "lemma": "metti",
+      "variants": [
+        "metti"
+      ]
+    },
+    {
+      "lemma": "mettāyanā",
+      "variants": [
+        "mettāyanā"
+      ]
+    },
+    {
+      "lemma": "micchāājīva",
+      "variants": [
+        "micchāājīvā"
+      ]
+    },
+    {
+      "lemma": "nandirāga",
+      "variants": [
+        "nandirāgo"
+      ]
+    },
+    {
+      "lemma": "nevasekkhānāsekkha",
+      "variants": [
+        "nevasekkhānāsekkhā"
+      ]
+    },
+    {
+      "lemma": "niyoga",
+      "variants": [
+        "Niyogā"
+      ]
+    },
+    {
+      "lemma": "nāmarūpa",
+      "variants": [
+        "nāmarūpaṃ"
+      ]
+    },
+    {
+      "lemma": "nāmarūpapaccayā",
+      "variants": [
+        "nāmarūpapaccayā"
+      ]
+    },
+    {
+      "lemma": "nānubyañjanaggāhī",
+      "variants": [
+        "nānubyañjanaggāhī"
+      ]
+    },
+    {
+      "lemma": "nīlakasiṇa",
+      "variants": [
+        "nīlakasiṇaṃ"
+      ]
+    },
+    {
+      "lemma": "nīlanibhāsa",
+      "variants": [
+        "nīlanibhāsāni"
+      ]
+    },
+    {
+      "lemma": "nīlanidassana",
+      "variants": [
+        "nīlanidassanāni"
+      ]
+    },
+    {
+      "lemma": "nīlavaṇṇa",
+      "variants": [
+        "nīlavaṇṇāni"
+      ]
+    },
+    {
+      "lemma": "odātakasiṇa",
+      "variants": [
+        "odātakasiṇaṃ"
+      ]
+    },
+    {
+      "lemma": "odātanibhāsa",
+      "variants": [
+        "odātanibhāsāni"
+      ]
+    },
+    {
+      "lemma": "odātanidassana",
+      "variants": [
+        "odātanidassanāni"
+      ]
+    },
+    {
+      "lemma": "odātavaṇṇa",
+      "variants": [
+        "odātavaṇṇāni"
+      ]
+    },
+    {
+      "lemma": "onāha",
+      "variants": [
+        "onāho"
+      ]
+    },
+    {
+      "lemma": "pacalāyikā",
+      "variants": [
+        "pacalāyikā"
+      ]
+    },
+    {
+      "lemma": "padabhājanīya",
+      "variants": [
+        "Padabhājanīyaṃ"
+      ]
+    },
+    {
+      "lemma": "pahāya",
+      "variants": [
+        "pahāya"
+      ]
+    },
+    {
+      "lemma": "parakaṭuka",
+      "variants": [
+        "parakaṭukā"
+      ]
+    },
+    {
+      "lemma": "paralābhasakkāragarukāramānanavandanapūjanā",
+      "variants": [
+        "paralābhasakkāragarukāramānanavandanapūjanāsu"
+      ]
+    },
+    {
+      "lemma": "paranimmitavasavattī",
+      "variants": [
+        "paranimmitavasavattī"
+      ]
+    },
+    {
+      "lemma": "parapuggala",
+      "variants": [
+        "parapuggalānaṃ"
+      ]
+    },
+    {
+      "lemma": "parasatta",
+      "variants": [
+        "parasattānaṃ"
+      ]
+    },
+    {
+      "lemma": "pariyonāha",
+      "variants": [
+        "pariyonāho"
+      ]
+    },
+    {
+      "lemma": "parābhisajjana",
+      "variants": [
+        "parābhisajjanī"
+      ]
+    },
+    {
+      "lemma": "pañcakkhandha",
+      "variants": [
+        "Pañcakkhandhā"
+      ]
+    },
+    {
+      "lemma": "pañcaviññāṇāni",
+      "variants": [
+        "pañcaviññāṇāni"
+      ]
+    },
+    {
+      "lemma": "paṭhamajjhāna",
+      "variants": [
+        "paṭhamajjhānaṃ"
+      ]
+    },
+    {
+      "lemma": "paṭihaṅkhati",
+      "variants": [
+        "paṭihaṅkhāmi"
+      ]
+    },
+    {
+      "lemma": "paṭippassaddhi",
+      "variants": [
+        "paṭippassaddhi"
+      ]
+    },
+    {
+      "lemma": "paṭippassambhanā",
+      "variants": [
+        "paṭippassambhanā"
+      ]
+    },
+    {
+      "lemma": "paṭisanthāraka",
+      "variants": [
+        "paṭisanthārako"
+      ]
+    },
+    {
+      "lemma": "phassapaccaya",
+      "variants": [
+        "phassapaccayā"
+      ]
+    },
+    {
+      "lemma": "phāsuvihāra",
+      "variants": [
+        "phāsuvihāro"
+      ]
+    },
+    {
+      "lemma": "pi",
+      "variants": [
+        "pi"
+      ]
+    },
+    {
+      "lemma": "pubbenivāsānussati",
+      "variants": [
+        "pubbenivāsānussati"
+      ]
+    },
+    {
+      "lemma": "pubbeva",
+      "variants": [
+        "pubbeva"
+      ]
+    },
+    {
+      "lemma": "pāripūri",
+      "variants": [
+        "pāripūriyā"
+      ]
+    },
+    {
+      "lemma": "pītakasiṇa",
+      "variants": [
+        "pītakasiṇaṃ"
+      ]
+    },
+    {
+      "lemma": "pītanibhāsa",
+      "variants": [
+        "pītanibhāsāni"
+      ]
+    },
+    {
+      "lemma": "pītanidassana",
+      "variants": [
+        "pītanidassanāni"
+      ]
+    },
+    {
+      "lemma": "pītavaṇṇa",
+      "variants": [
+        "pītavaṇṇāni"
+      ]
+    },
+    {
+      "lemma": "pītisambojjhaṅga",
+      "variants": [
+        "pītisambojjhaṅgo"
+      ]
+    },
+    {
+      "lemma": "sacchikata",
+      "variants": [
+        "sacchikatānaṃ"
+      ]
+    },
+    {
+      "lemma": "saccānulomikañāṇa",
+      "variants": [
+        "saccānulomikañāṇaṃ"
+      ]
+    },
+    {
+      "lemma": "sagāravatā",
+      "variants": [
+        "sagāravatā"
+      ]
+    },
+    {
+      "lemma": "samaggatā",
+      "variants": [
+        "samaggatā"
+      ]
+    },
+    {
+      "lemma": "sammāsambuddha",
+      "variants": [
+        "sammāsambuddhassa"
+      ]
+    },
+    {
+      "lemma": "sampajāna",
+      "variants": [
+        "sampajāno"
+      ]
+    },
+    {
+      "lemma": "satima",
+      "variants": [
+        "satimā"
+      ]
+    },
+    {
+      "lemma": "sañcetayitatta",
+      "variants": [
+        "sañcetayitattaṃ"
+      ]
+    },
+    {
+      "lemma": "saññāvant",
+      "variants": [
+        "saññāvantaṃ"
+      ]
+    },
+    {
+      "lemma": "saḷāyatana",
+      "variants": [
+        "saḷāyatanaṃ"
+      ]
+    },
+    {
+      "lemma": "saḷāyatanapaccayā",
+      "variants": [
+        "saḷāyatanapaccayā"
+      ]
+    },
+    {
+      "lemma": "saṃvejanīya",
+      "variants": [
+        "saṃvejanīyaṃ"
+      ]
+    },
+    {
+      "lemma": "saṅkhārapaccayā",
+      "variants": [
+        "saṅkhārapaccayā"
+      ]
+    },
+    {
+      "lemma": "saṅkhāravant",
+      "variants": [
+        "saṅkhāravantaṃ"
+      ]
+    },
+    {
+      "lemma": "sibbanī",
+      "variants": [
+        "sibbanī"
+      ]
+    },
+    {
+      "lemma": "sokaparidevadukkhadomanassupāyāsā",
+      "variants": [
+        "sokaparidevadukkhadomanassupāyāsā"
+      ]
+    },
+    {
+      "lemma": "somanassadomanassa",
+      "variants": [
+        "somanassadomanassānaṃ"
+      ]
+    },
+    {
+      "lemma": "sotaviññāṇadhātu",
+      "variants": [
+        "sotaviññāṇadhātu"
+      ]
+    },
+    {
+      "lemma": "sukhavihārī",
+      "variants": [
+        "sukhavihārī"
+      ]
+    },
+    {
+      "lemma": "sukhāpaṭipadā",
+      "variants": [
+        "sukhāpaṭipadaṃ"
+      ]
+    },
+    {
+      "lemma": "supana",
+      "variants": [
+        "supanā"
+      ]
+    },
+    {
+      "lemma": "suriyamaṇḍala",
+      "variants": [
+        "suriyamaṇḍalassa"
+      ]
+    },
+    {
+      "lemma": "sveva",
+      "variants": [
+        "Sveva"
+      ]
+    },
+    {
+      "lemma": "tadubhaya",
+      "variants": [
+        "Tadubhayaṃ"
+      ]
+    },
+    {
+      "lemma": "tatiyajjhāna",
+      "variants": [
+        "tatiyajjhānaṃ"
+      ]
+    },
+    {
+      "lemma": "taṇha",
+      "variants": [
+        "taṇhā"
+      ]
+    },
+    {
+      "lemma": "taṇhāpaccaya",
+      "variants": [
+        "taṇhāpaccayā"
+      ]
+    },
+    {
+      "lemma": "tejokasiṇa",
+      "variants": [
+        "tejokasiṇaṃ"
+      ]
+    },
+    {
+      "lemma": "thapetvā",
+      "variants": [
+        "thapetvā"
+      ]
+    },
+    {
+      "lemma": "ucchijjati",
+      "variants": [
+        "Ucchijjissati"
+      ]
+    },
+    {
+      "lemma": "uddhaccasampayutta",
+      "variants": [
+        "uddhaccasampayuttaṃ"
+      ]
+    },
+    {
+      "lemma": "upekkhāsatipārisuddhi",
+      "variants": [
+        "upekkhāsatipārisuddhiṃ"
+      ]
+    },
+    {
+      "lemma": "uppajjitvā",
+      "variants": [
+        "uppajjitvā"
+      ]
+    },
+    {
+      "lemma": "upādānapaccayā",
+      "variants": [
+        "upādānapaccayā"
+      ]
+    },
+    {
+      "lemma": "usūyanā",
+      "variants": [
+        "usūyanā"
+      ]
+    },
+    {
+      "lemma": "uṇṇati",
+      "variants": [
+        "uṇṇati"
+      ]
+    },
+    {
+      "lemma": "vacīsucarita",
+      "variants": [
+        "vacīsucaritaṃ"
+      ]
+    },
+    {
+      "lemma": "vaṇṇamacchariya",
+      "variants": [
+        "vaṇṇamacchariyaṃ"
+      ]
+    },
+    {
+      "lemma": "vedanāpaccayā",
+      "variants": [
+        "vedanāpaccayā"
+      ]
+    },
+    {
+      "lemma": "vedanāvant",
+      "variants": [
+        "vedanāvantaṃ"
+      ]
+    },
+    {
+      "lemma": "vepulla",
+      "variants": [
+        "vepullāya"
+      ]
+    },
+    {
+      "lemma": "vihiṃsūparati",
+      "variants": [
+        "vihiṃsūparatiyā"
+      ]
+    },
+    {
+      "lemma": "viriyabala",
+      "variants": [
+        "viriyabalaṃ"
+      ]
+    },
+    {
+      "lemma": "viriyindriya",
+      "variants": [
+        "viriyindriyaṃ"
+      ]
+    },
+    {
+      "lemma": "viriyārambha",
+      "variants": [
+        "viriyārambho"
+      ]
+    },
+    {
+      "lemma": "vivekaja",
+      "variants": [
+        "vivekajaṃ"
+      ]
+    },
+    {
+      "lemma": "vivicca",
+      "variants": [
+        "vivicca"
+      ]
+    },
+    {
+      "lemma": "vāyokasiṇa",
+      "variants": [
+        "vāyokasiṇaṃ"
+      ]
+    },
+    {
+      "lemma": "vīmaṃsanta",
+      "variants": [
+        "vīmaṃsaṃ"
+      ]
+    },
+    {
+      "lemma": "yātrā",
+      "variants": [
+        "yātrā"
+      ]
+    },
+    {
+      "lemma": "yāvadeva",
+      "variants": [
+        "yāvadeva"
+      ]
+    },
+    {
+      "lemma": "ācikkhati",
+      "variants": [
+        "ācikkhanti"
+      ]
+    },
+    {
+      "lemma": "āpokasiṇa",
+      "variants": [
+        "āpokasiṇaṃ"
+      ]
+    },
+    {
+      "lemma": "āsiṃsanā",
+      "variants": [
+        "āsiṃsanā"
+      ]
+    },
+    {
+      "lemma": "āvāsamacchariya",
+      "variants": [
+        "āvāsamacchariyaṃ"
+      ]
+    }
+  ]
+}
