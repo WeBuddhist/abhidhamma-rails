@@ -27,7 +27,17 @@ Examples:
 * Jhāna
 * Kamma
 
-Use canonical translations for most technical terms.
+For all other technical terms, use the **Translation** column from `pali-english/audience_requirments/termbase/termbase-pi-1-audience_practicing_buddhists.md`, keyed by **Sense Tag**. Use the same wording every time the same Sense Tag occurs.
+
+Examples (lemma, Sense Tag → Canonical Translation):
+
+* vedanā, `feeling_aggregate` → feeling
+* citta, `mind` → mind
+* sati, `mindfulness` → mindfulness
+* upādāna, `clinging` → clinging
+* nīvaraṇa, `hindrance` → hindrance
+* saṅkhāra, `volitional_formations` → formations
+* vipassanā, `insight` → insight (or retain as "vipassanā" if more familiar to the practice community)
 
 ---
 
