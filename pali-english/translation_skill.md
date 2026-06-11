@@ -78,7 +78,7 @@ Do **not** use bare `auto-1`, `auto-2` without an audience slug. One audience pe
 
 If the user supplies an explicit filename, use it; otherwise derive the name from the pattern above.
 
-**Termbase naming:** `termbase-` + source filename (in `pali-english/`). Example: source `pi-1.md` → `termbase-pi-1.md`. Reuse the existing file when the same source already has a suitable termbase; extend it in place when vocabulary grows.
+**Termbase naming:** per-audience termbases live in `pali-english/audience_requirments/termbase/` and are named `termbase-` + source filename + `-audience_<audience-slug>.md`. Example: source `pi-1.md`, audience `grade3` → `termbase-pi-1-audience_grade3.md`. Reuse the existing per-audience file when the same source already has a suitable termbase; extend it in place when vocabulary grows.
 
 ---
 
@@ -122,12 +122,13 @@ Always load requirement files first.
 
 Locations:
 
-* \pali-english\audience_scholarly.md
-* \pali-english\audience_practicing_buddhists.md
-* \pali-english\audience_general_readers.md
-* \pali-english\audience_beginner_buddhist.md
-* \pali-english\audience_grade8.md
-* \pali-english\audience_grade3.md
+* \pali-english\audience_requirments\skills\audience_scholarly.md
+* \pali-english\audience_requirments\skills\audience_translation_study.md
+* \pali-english\audience_requirments\skills\audience_practicing_buddhists.md
+* \pali-english\audience_requirments\skills\audience_general_readers.md
+* \pali-english\audience_requirments\skills\audience_beginner_buddhist.md
+* \pali-english\audience_requirments\skills\audience_grade8.md
+* \pali-english\audience_requirments\skills\audience_grade3.md
 
 Purpose:
 
@@ -137,6 +138,8 @@ Purpose:
 * stylistic adaptation
 
 Only one audience profile should be active during translation.
+
+Each audience profile references its own per-audience termbase under `pali-english/audience_requirments/termbase/termbase-pi-1-audience_<audience-slug>.md` (see [Audience Termbase Files](#audience-termbase-files)). Loading the active audience profile and its paired termbase together is required before translation begins.
 
 ---
 
@@ -192,15 +195,15 @@ The extraction skill produces termbases containing:
 * sense tags
 * domain information
 
-The generated termbase becomes an authoritative translation reference.
+The generated termbase becomes an authoritative translation reference, and is in turn split into the per-audience termbases described below.
 
 ---
 
 # Termbase Generation
 
-Before translation begins, determine whether a suitable termbase already exists for the source text.
+Before translation begins, determine whether a suitable per-audience termbase already exists for the source text and the active audience.
 
-If no termbase exists:
+If no termbase exists for the source at all:
 
 1. Load the source Pāli file.
 2. Apply:
@@ -209,32 +212,46 @@ If no termbase exists:
 Pāli Termbase Extraction Prompt.md
 ```
 
-3. Generate a termbase.
-4. Save the termbase in `pali-english/` (same directory as `translation_skill.md`).
-5. Name the file `termbase-` + the source filename (e.g. source `pi-1.md` → `termbase-pi-1.md`).
-6. Do not create a second termbase file for the same source unless the user asks; extend the existing `termbase-<filename>.md` instead.
-7. Reuse existing termbases whenever possible.
+3. Generate a draft termbase covering all audiences.
+4. Split the draft into one 6-column termbase per audience (see [Audience Termbase Files](#audience-termbase-files)) and save each under `pali-english/audience_requirments/termbase/`.
+5. Name each file `termbase-` + the source filename + `-audience_<audience-slug>.md` (e.g. source `pi-1.md`, audience `scholarly` → `termbase-pi-1-audience_scholarly.md`).
+6. Do not create a second termbase file for the same source + audience unless the user asks; extend the existing `termbase-<source>-audience_<audience-slug>.md` instead.
+7. Reuse existing per-audience termbases whenever possible.
+
+If new vocabulary appears mid-translation, add the new lemma/sense row to **all 7** per-audience termbase files (Translation column wording adapted per audience, per [Audience Termbase Files](#audience-termbase-files)), so Sense Tags stay consistent across audiences.
 
 ---
 
-## Generated Termbase Locations
+## Audience Termbase Files
 
 Location:
 
-`pali-english/` (same directory as `translation_skill.md`, `requirements.md`, and translation outputs). Do **not** save termbases under `1-SOURCES/`.
+`pali-english/audience_requirments/termbase/` — one file per audience, named `termbase-pi-1-audience_<audience-slug>.md`:
 
-The generated termbase must follow this schema:
+* termbase-pi-1-audience_scholarly.md
+* termbase-pi-1-audience_translation_study.md
+* termbase-pi-1-audience_practicing_buddhists.md
+* termbase-pi-1-audience_general_readers.md
+* termbase-pi-1-audience_beginner_buddhist.md
+* termbase-pi-1-audience_grade8.md
+* termbase-pi-1-audience_grade3.md
 
-| Common Surface Forms | Lemma | Domain | Sense | Canonical Translation | Sense Tag |
-| -------------------- | ----- | ------ | ----- | --------------------- | --------- |
+Do **not** save termbases under `1-SOURCES/`.
 
-Example:
+Each per-audience termbase follows this schema:
 
-| Common Surface Forms            | Lemma  | Domain     | Sense                    | Canonical Translation | Sense Tag     |
-| ------------------------------- | ------ | ---------- | ------------------------ | --------------------- | ------------- |
-| dhammo, dhammaṃ, dhammā, dhamme | dhamma | Abhidhamma | Phenomenon, state, thing | phenomenon            | phenomenon    |
-|                                 |        | Abhidhamma | Mental object            | mental object         | mental_object |
-|                                 |        | Sutta      | Buddha's teaching        | Dhamma                | teaching      |
+| Common Surface Forms | Lemma | Domain | Sense | Translation | Sense Tag |
+| -------------------- | ----- | ------ | ----- | ----------- | --------- |
+
+Example (scholarly):
+
+| Common Surface Forms            | Lemma  | Domain     | Sense                    | Translation | Sense Tag     |
+| -------------------------------- | ------ | ---------- | ------------------------ | ----------- | ------------- |
+| dhammo, dhammaṃ, dhammā, dhamme | dhamma | Abhidhamma | Phenomenon, state, thing | phenomenon  | phenomenon    |
+|                                  |        | Abhidhamma | Mental object            | mental object | mental_object |
+|                                  |        | Sutta      | Buddha's teaching        | Dhamma      | teaching      |
+
+For translation, only load the **one** termbase file matching the active audience profile. Translation is keyed by **Sense Tag**: the same Sense Tag must always receive the same Translation wording within a given audience's output.
 
 ---
 
@@ -309,17 +326,17 @@ Summaries must never appear in the output.
 
 ## Termbase Files
 
-The generated termbase is authoritative for terminology.
+The per-audience termbase matching the active audience profile is authoritative for terminology.
 
 For each significant Pāli term:
 
 1. Identify the surface form.
 2. Identify the lemma.
-3. Retrieve available senses.
+3. Retrieve available senses (rows) for that lemma in the active audience's termbase.
 4. Determine the correct sense.
-5. Select the corresponding Canonical Translation.
-6. Apply audience adaptation.
-7. Produce the final rendering.
+5. Select the corresponding Translation for that sense's Sense Tag.
+6. Produce the final rendering — Translation values in the per-audience termbase are already audience-adapted, so no further register adjustment should be needed.
+7. If the lemma/sense is not yet in the termbase, choose a clear rendering consistent with the audience profile and reuse it for that sense everywhere.
 
 Never assume a lemma has only one meaning.
 
@@ -333,16 +350,17 @@ Context determines sense selection.
 
 Before translation:
 
-1. Check whether a suitable termbase already exists.
-2. If none exists:
+1. Determine the active audience profile.
+2. Check whether a suitable per-audience termbase already exists at `pali-english/audience_requirments/termbase/termbase-<source-filename>-audience_<audience-slug>.md`.
+3. If no termbase exists for this source at all:
 
    * Run `Pāli Termbase Extraction Prompt.md`
-   * Generate a termbase
-   * Save it in `pali-english/` as `termbase-<source-filename>.md`
-3. Load the generated termbase.
-4. Continue with translation.
+   * Generate a draft termbase
+   * Split it into the 7 per-audience termbases under `pali-english/audience_requirments/termbase/`
+4. Load the per-audience termbase matching the active audience.
+5. Continue with translation.
 
-Termbase generation normally occurs once per source text.
+Termbase generation normally occurs once per source text (then split per audience).
 
 ---
 
@@ -351,10 +369,10 @@ Termbase generation normally occurs once per source text.
 Load:
 
 1. requirement.md
-2. active audience profile
+2. active audience profile (`pali-english/audience_requirments/skills/audience_<audience-slug>.md`)
 3. commentary files
 4. summary files
-5. generated termbase files
+5. the per-audience termbase matching the active audience profile (`pali-english/audience_requirments/termbase/termbase-<source-filename>-audience_<audience-slug>.md`)
 
 ---
 
@@ -462,14 +480,14 @@ When conflicts occur:
 
 1. Source Pāli Text
 2. requirement.md
-3. generated termbase(s)
+3. active audience's per-audience termbase
 4. commentary.md
 5. summary.md
 6. audience profile
 
 Meaning comes from the source text.
 
-Terminology comes from the termbase.
+Terminology comes from the per-audience termbase.
 
 Interpretation comes from commentary.
 
@@ -484,7 +502,7 @@ Expression comes from the audience profile.
 * Determine meaning before selecting a rendering.
 * Use commentary to resolve ambiguity.
 * Use summaries to establish context.
-* Use Canonical Translation as the semantic foundation.
+* Use the active audience's termbase Translation (keyed by Sense Tag) as the semantic foundation.
 * Audience profiles may adapt wording but must not change meaning.
 * Preserve doctrinal distinctions.
 * Preserve analytical structures.
