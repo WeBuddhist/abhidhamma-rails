@@ -35,9 +35,11 @@ from datetime import date
 # ---------------------------------------------------------------------------
 # Paths
 # ---------------------------------------------------------------------------
-HERE = pathlib.Path(__file__).parent
-OUT_PKL = HERE / "idf_corpus.pkl"
-OUT_PY  = HERE / "idf_corpus.py"
+SCRIPT_DIR = pathlib.Path(__file__).resolve().parent
+OUT_DIR = SCRIPT_DIR / "output"
+OUT_DIR.mkdir(parents=True, exist_ok=True)
+OUT_PKL = OUT_DIR / "idf_corpus.pkl"
+OUT_PY  = OUT_DIR / "idf_corpus.py"
 
 
 # ---------------------------------------------------------------------------
@@ -45,7 +47,7 @@ OUT_PY  = HERE / "idf_corpus.py"
 # ---------------------------------------------------------------------------
 
 def build_idf(top_n: int | None = None) -> dict[str, float]:
-    """Return a mapping of token → IDF value from the Reuters corpus."""
+    """Return a mapping of token -> IDF value from the Reuters corpus."""
     try:
         import nltk
         from nltk.corpus import reuters
@@ -57,25 +59,24 @@ def build_idf(top_n: int | None = None) -> dict[str, float]:
     except ImportError:
         sys.exit("scikit-learn is not installed.  Run:  pip install scikit-learn")
 
-    # Ensure the corpus data is present
     try:
         reuters.fileids()
     except LookupError:
-        print("Downloading Reuters corpus …")
+        print("Downloading Reuters corpus ...")
         nltk.download("reuters", quiet=True)
 
     fileids = reuters.fileids()
     print(f"Reuters corpus: {len(fileids):,} documents")
 
-    print("Loading document texts …")
+    print("Loading document texts ...")
     documents = [reuters.raw(fid) for fid in fileids]
 
-    print("Fitting TF-IDF vectorizer …")
+    print("Fitting TF-IDF vectorizer ...")
     vectorizer = TfidfVectorizer(
         lowercase=True,
-        stop_words=None,       # keep everything — caller can filter later
-        token_pattern=r"(?u)\b[a-zA-Z][a-zA-Z\-']+[a-zA-Z]\b",  # 3+ char alphabetic
-        smooth_idf=True,       # log((1+N)/(1+df)) + 1  — avoids division by zero
+        stop_words=None,
+        token_pattern=r"(?u)\b[a-zA-Z][a-zA-Z\-']+[a-zA-Z]\b",
+        smooth_idf=True,
         sublinear_tf=False,
     )
     vectorizer.fit(documents)
@@ -89,7 +90,6 @@ def build_idf(top_n: int | None = None) -> dict[str, float]:
     }
 
     if top_n is not None:
-        # Keep the top_n terms sorted by ascending IDF (most common first)
         sorted_items = sorted(corpus.items(), key=lambda kv: kv[1])
         corpus = dict(sorted_items[:top_n])
 
@@ -103,17 +103,17 @@ def build_idf(top_n: int | None = None) -> dict[str, float]:
 
 def write_pickle(corpus: dict[str, float], path: pathlib.Path) -> None:
     path.write_bytes(pickle.dumps(corpus, protocol=pickle.HIGHEST_PROTOCOL))
-    print(f"Written pickle → {path}  ({path.stat().st_size / 1024:.1f} KB)")
+    print(f"Written pickle -> {path}  ({path.stat().st_size / 1024:.1f} KB)")
 
 
 def write_python_module(corpus: dict[str, float], path: pathlib.Path) -> None:
     """Write a self-contained Python module with the IDF dict as a literal."""
     today = date.today().isoformat()
-    n_docs = 10_788   # Reuters-21578 document count (fixed, for the docstring)
+    n_docs = 10_788
 
     lines: list[str] = [
         '"""',
-        "idf_corpus.py — General-English IDF reference built from Reuters-21578.",
+        "idf_corpus.py -- General-English IDF reference built from Reuters-21578.",
         "",
         f"Generated : {today}",
         f"Corpus    : NLTK Reuters-21578  ({n_docs:,} newswire documents)",
@@ -123,7 +123,7 @@ def write_python_module(corpus: dict[str, float], path: pathlib.Path) -> None:
         "",
         "from __future__ import annotations",
         "",
-        f"IDF_CORPUS: dict[str, float] = {{",
+        "IDF_CORPUS: dict[str, float] = {",
     ]
 
     for word, idf in sorted(corpus.items(), key=lambda kv: kv[1]):
@@ -133,7 +133,7 @@ def write_python_module(corpus: dict[str, float], path: pathlib.Path) -> None:
     lines += ["}", ""]
     path.write_text("\n".join(lines), encoding="utf-8")
     size_kb = path.stat().st_size / 1024
-    print(f"Written module → {path}  ({size_kb:.0f} KB)")
+    print(f"Written module -> {path}  ({size_kb:.0f} KB)")
 
 
 # ---------------------------------------------------------------------------
@@ -146,7 +146,7 @@ def print_samples(corpus: dict[str, float]) -> None:
     print("\nSample IDF values:")
     for w in samples:
         v = corpus.get(w)
-        tag = f"{v:.4f}" if v is not None else "— not in corpus"
+        tag = f"{v:.4f}" if v is not None else "-- not in corpus"
         print(f"  {w:20s} {tag}")
 
 
@@ -155,20 +155,22 @@ def print_samples(corpus: dict[str, float]) -> None:
 # ---------------------------------------------------------------------------
 
 def main() -> None:
-    parser = argparse.ArgumentParser(description=__doc__,
-                                     formatter_class=argparse.RawDescriptionHelpFormatter)
+    parser = argparse.ArgumentParser(
+        description=__doc__,
+        formatter_class=argparse.RawDescriptionHelpFormatter,
+    )
     parser.add_argument(
         "--top", type=int, default=None, metavar="N",
         help="Keep only the top N terms by ascending IDF (most common first). "
-             "Default: keep all (~45 000 terms)."
+             "Default: keep all (~45,000 terms).",
     )
     parser.add_argument(
         "--no-pickle", action="store_true",
-        help="Skip writing the .pkl file (write only the .py module)."
+        help="Skip writing the .pkl file (write only the .py module).",
     )
     parser.add_argument(
         "--no-module", action="store_true",
-        help="Skip writing the .py module (write only the .pkl file)."
+        help="Skip writing the .py module (write only the .pkl file).",
     )
     args = parser.parse_args()
 

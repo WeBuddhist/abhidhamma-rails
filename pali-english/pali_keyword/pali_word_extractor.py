@@ -25,9 +25,10 @@ WORD_PATTERN = re.compile(
 STRIP_CHARS = ".,;:!?\"'()[]{}«»—–-…।॥"
 
 SCRIPT_DIR = Path(__file__).resolve().parent
+REPO_ROOT = SCRIPT_DIR.parent.parent
 
 # Set to a file path to run without a CLI argument; leave empty to pass input on the command line.
-SOURCE = Path(r"C:\Users\geshe lobzang tseten\repos\abhidhamma-rails\1-SOURCES\Text\pi-1.md")
+SOURCE = REPO_ROOT / "1-SOURCES" / "Text" / "pi-1.md"
 
 
 def normalize_token(token: str) -> str:
@@ -91,7 +92,9 @@ def main() -> None:
     text = input_path.read_text(encoding="utf-8")
     words = extract_words(text, min_length=args.min_length)
 
-    out = args.output or (SCRIPT_DIR / "output" / f"{input_path.stem}.words.json")
+    output_dir = SCRIPT_DIR / "output"
+    output_dir.mkdir(parents=True, exist_ok=True)
+    out = args.output or (output_dir / f"{input_path.stem}.words.json")
     payload = {
         "source": str(input_path),
         "distinct_count": len(words),

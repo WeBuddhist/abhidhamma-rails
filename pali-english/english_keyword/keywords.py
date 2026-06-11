@@ -222,23 +222,26 @@ class KeywordExtractor:
 
 if __name__ == "__main__":
 
-    OUTPUT_DIR = Path(__file__).resolve().parent
+    SCRIPT_DIR = Path(__file__).resolve().parent
+    REPO_ROOT = SCRIPT_DIR.parent.parent
+    OUTPUT_DIR = SCRIPT_DIR / "output"
+    OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
 
-    #SOURCE_PATH = Path(r"C:\Users\geshe lobzang tseten\repos\abhidhamma-rails\1-SOURCES\Translations\en-1-rhys_davids.md")  # <-- change this to your .md file path
-    SOURCE_PATH = Path(r"C:\Users\geshe lobzang tseten\repos\abhidhamma-rails\1-SOURCES\Translations\en-1-ukyaw_khine.md")
-    source_stem = SOURCE_PATH.stem
-
-    with open(SOURCE_PATH, "r", encoding="utf-8") as f:
-        SOURCE = f.read()
+    SOURCES = [
+        REPO_ROOT / "1-SOURCES" / "Translations" / "en-1-rhys_davids.md",
+        REPO_ROOT / "1-SOURCES" / "Translations" / "en-1-ukyaw_khine.md",
+    ]
 
     extractor = KeywordExtractor(score_threshold=0.3)
 
-    # Preview all scores first to tune threshold
-    extractor.preview_scores(SOURCE, OUTPUT_DIR / "output" / f"{source_stem}-preview.md")
+    for SOURCE_PATH in SOURCES:
+        print(f"\n--- Processing {SOURCE_PATH.name} ---")
+        source_stem = SOURCE_PATH.stem
 
-    # Extract keywords
-    keywords = extractor.extract(SOURCE)
+        with open(SOURCE_PATH, "r", encoding="utf-8") as f:
+            SOURCE = f.read()
 
-    # Save outputs
-    extractor.save_json(keywords, OUTPUT_DIR /"output"/ f"{source_stem}-raw.json", OUTPUT_DIR / "output" / f"{source_stem}-normalized.json")
-    extractor.save_md(keywords, OUTPUT_DIR/ "output" / f"{source_stem}-keywords.md")
+        extractor.preview_scores(SOURCE, OUTPUT_DIR / f"{source_stem}-preview.md")
+        keywords = extractor.extract(SOURCE)
+        extractor.save_json(keywords, OUTPUT_DIR / f"{source_stem}-raw.json", OUTPUT_DIR / f"{source_stem}-normalized.json")
+        extractor.save_md(keywords, OUTPUT_DIR / f"{source_stem}-keywords.md")

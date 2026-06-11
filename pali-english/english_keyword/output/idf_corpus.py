@@ -1,7 +1,7 @@
 """
-idf_corpus.py — General-English IDF reference built from Reuters-21578.
+idf_corpus.py -- General-English IDF reference built from Reuters-21578.
 
-Generated : 2026-06-05
+Generated : 2026-06-10
 Corpus    : NLTK Reuters-21578  (10,788 newswire documents)
 Vectorizer: sklearn TfidfVectorizer(smooth_idf=True, lowercase=True)
 Formula   : idf(t) = log((1 + N) / (1 + df(t))) + 1

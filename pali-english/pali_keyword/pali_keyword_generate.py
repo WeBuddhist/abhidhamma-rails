@@ -5,44 +5,33 @@ from pathlib import Path
 
 SCRIPT_DIR = Path(__file__).resolve().parent
 EN_KEYWORD_DIR = SCRIPT_DIR.parent / "english_keyword" / "output"
-OUTPUT_DIR = SCRIPT_DIR / "output"
 
+RHYS_DAVIDS_RAW_PATH = EN_KEYWORD_DIR / "en-1-rhys_davids-raw.json"
+RHYS_DAVIDS_NORMALIZED_PATH = EN_KEYWORD_DIR / "en-1-rhys_davids-normalized.json"
 UKYAW_KHINE_RAW_PATH = EN_KEYWORD_DIR / "en-1-ukyaw_khine-raw.json"
 UKYAW_KHINE_NORMALIZED_PATH = EN_KEYWORD_DIR / "en-1-ukyaw_khine-normalized.json"
-TERMBASE_PATH = EN_KEYWORD_DIR / "en-1-rhys_davids_vs_en-1-ukyaw_khine_termbase.json"
-
+SINGULAR_KEYWORDS_PATH = EN_KEYWORD_DIR / "singular_keywords.json"
+PLURAL_KEYWORDS_PATH = EN_KEYWORD_DIR / "plural_keywords.json"
+OUTPUT_DIR = SCRIPT_DIR / "output"
+OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
 PALI_WORDS_PATH = OUTPUT_DIR / "pi-1.words.json"
 KEYWORD_OUTPUT_PATH = OUTPUT_DIR / PALI_WORDS_PATH.name.replace(".words.json", ".keyword.json")
 
-# Only phrases with more than 2 words (i.e. 3+ word n-grams) are taken from the
-# English keyword dicts. Single-word meanings are instead checked against the
-# combined termbase word list.
-MIN_PHRASE_NGRAM = 3
+
+def load_map(path: Path) -> dict[str, float]:
+    with open(path, encoding="utf-8") as f:
+        return json.load(f)
+
+
+def load_word_list(path: Path) -> set[str]:
+    """Load a {"words": [...]} JSON file into a set for fast lookup."""
+    data = json.loads(path.read_text(encoding="utf-8"))
+    return set(data.get("words", []))
 
 
 def load_words(path: Path) -> list[dict]:
     data = json.loads(path.read_text(encoding="utf-8"))
     return data["words"]
-
-
-def load_phrase_keywords(*paths: Path) -> set[str]:
-    """
-    Load multi-word (>2 token / 3+ n-gram) keys from one or more
-    {phrase: score} JSON dictionaries, lower-cased for matching.
-    """
-    phrases: set[str] = set()
-    for path in paths:
-        data = json.loads(path.read_text(encoding="utf-8"))
-        for phrase in data:
-            if len(phrase.split()) >= MIN_PHRASE_NGRAM:
-                phrases.add(phrase.strip().lower())
-    return phrases
-
-
-def load_single_words(path: Path) -> set[str]:
-    """Load single English words from the combined termbase JSON ({"word": [...]})."""
-    data = json.loads(path.read_text(encoding="utf-8"))
-    return {w.strip().lower() for w in data.get("word", [])}
 
 
 def fetch_meanings(lookup, word: str) -> tuple[str, list[str]] | None:
@@ -60,31 +49,29 @@ def fetch_meanings(lookup, word: str) -> tuple[str, list[str]] | None:
     return lemma, meanings
 
 
-def meaning_in_keywords(
-    meaning: str,
-    phrase_keywords: set[str],
-    single_words: set[str],
-) -> bool:
-    cleaned = meaning.strip().lower()
-    n = len(cleaned.split())
-    if n == 1:
-        return cleaned in single_words
-    if n >= MIN_PHRASE_NGRAM:
-        return cleaned in phrase_keywords
-    # 2-word (bigram) meanings are neither phrase keywords nor single words —
-    # not considered a match.
-    return False
-
-
 def is_technical_term(
     meanings: list[str],
-    phrase_keywords: set[str],
-    single_words: set[str],
+    singular_words: set[str],
+    plural_words: set[str],
+    phrase_dicts: tuple[dict[str, float], ...],
 ) -> bool:
-    return any(
-        meaning_in_keywords(meaning, phrase_keywords, single_words)
-        for meaning in meanings
-    )
+    """
+    For each meaning (split from meaning_1 by ';'):
+      - Single word  -> check singular_keywords and plural_keywords
+      - Multi-word   -> check YAKE raw/normalized phrase dicts
+    Returns True if any meaning matches.
+    """
+    for meaning in meanings:
+        parts = meaning.strip().split(" ")
+        if len(parts) == 1:
+            word = parts[0]
+            if word in singular_words or word in plural_words:
+                return True
+        else:
+            for d in phrase_dicts:
+                if meaning in d:
+                    return True
+    return False
 
 
 def build_keyword_entries(
@@ -116,11 +103,21 @@ def main() -> None:
     from db_query.connect_db import DBConnection
     from db_query.lookup import PaliLookup
 
-    phrase_keywords = load_phrase_keywords(
-        UKYAW_KHINE_RAW_PATH,
-        UKYAW_KHINE_NORMALIZED_PATH,
+    rhys_davids_raw = load_map(RHYS_DAVIDS_RAW_PATH)
+    rhys_davids_normalized = load_map(RHYS_DAVIDS_NORMALIZED_PATH)
+    ukyaw_khine_raw = load_map(UKYAW_KHINE_RAW_PATH)
+    ukyaw_khine_normalized = load_map(UKYAW_KHINE_NORMALIZED_PATH)
+
+    # singular / plural keyword sets — used as additional lookup dicts
+    singular_words = load_word_list(SINGULAR_KEYWORDS_PATH)
+    plural_words = load_word_list(PLURAL_KEYWORDS_PATH)
+
+    phrase_dicts = (
+        rhys_davids_raw,
+        rhys_davids_normalized,
+        ukyaw_khine_raw,
+        ukyaw_khine_normalized,
     )
-    single_words = load_single_words(TERMBASE_PATH)
 
     pali_words = load_words(PALI_WORDS_PATH)
     lookup = PaliLookup()
@@ -139,7 +136,7 @@ def main() -> None:
             if lemma not in groups:
                 groups[lemma] = {
                     "variants": {},
-                    "is_technical": is_technical_term(meanings, phrase_keywords, single_words),
+                    "is_technical": is_technical_term(meanings, singular_words, plural_words, phrase_dicts),
                 }
 
             groups[lemma]["variants"][word] = frequency
