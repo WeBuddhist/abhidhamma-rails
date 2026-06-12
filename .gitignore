@@ -14,5 +14,9 @@
 .claude/worktrees/
 
 
-pali-english\db_query\dpd.db\dpd.db
+pali-english/db_query/dpd.db/
 .venv/
+
+# Python
+__pycache__/
+*.py[cod]
