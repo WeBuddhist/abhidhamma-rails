@@ -147,4 +147,17 @@ Alphabetical by Pāli lemma. New rows are appended by the `daily-tipitaka-day` s
 | uddhacca | _restlessness_ | `3-TRANSFORMATIONS/Translations/en-Contemporary-English-Abhidhamma/termbase.md` (BB curated) | draft |
 | vicikicchā | _doubt_ | `3-TRANSFORMATIONS/Translations/en-Contemporary-English-Abhidhamma/termbase.md` (BB curated) | draft |
 
+### Terms appearing in days 31–37 §1 / §5 (candidate / draft — needs reviewer confirmation)
+
+| Pāli | English (Contemporary) | Used in | Source / Note | Status |
+|---|---|---|---|---|
+| animitta | _signless_ | day-031 §1, §5; day-032 §1 | Day-031 §5 headword. Translation track wording (v.518 "signless"). Completes the three-doors set with suññatā (emptiness) and appaṇihita (undirected). | draft |
+| aññātāvindriya | _faculty of final knowledge_ | day-035 §1, §5 | Summary-rail term (aññātāvī = one whose knowing of the four truths is finished, standing in arahattaphala). Plain-English rendering; reviewer to confirm against day-019's anaññātaññassāmītindriya row. | candidate |
+| arahant | _arahant_ (Pāli retained; first-use gloss: _a fully freed one_) | day-036 §5; day-037 §1 | Standard Anglicised form, parallel to the Buddha/Dhamma/Saṅgha retention rule in the translation track requirements §1.3. | candidate |
+| bhāvanā | _cultivation_ (verb _bhāveti_: _one cultivates_) | day-032 §1, §5 | Day-032 §5 headword. Translation track verb wording throughout vv. 509–550 ("cultivates"). | draft |
+| dukkhindriya | _pain faculty_ | day-035 §5 | Translation track wording (v.560 "the pain faculty"). | draft |
+| indriya | _faculty_ | day-035 §1, §5 | Day-035 §5 headword. Translation track wording (vv. 560, 571, 572 "faculty"). | draft |
+| kiriya | _functional_ (with plain-English unwrap "mere doing") | day-036 §1, §5; day-037 §1 | Day-036 §5 headword. Translation track wording (v.582 "functional"). Commentary image (cut-root tree's flower) cited in §1/§5. | draft |
+| phala | _fruit_ | day-031 §1; day-034 §1, §5 | Day-034 §5 headword. Translation track v.519 renders "resultant (fruition)"; "fruit" follows day-030's published §1/§5 usage. Reviewer to confirm "fruit" vs "fruition". | candidate |
+
 (Extend this table as new terms appear. Keep main-table entries alphabetical by Pāli. Move `candidate` rows into the main table once a reviewer confirms them.)
