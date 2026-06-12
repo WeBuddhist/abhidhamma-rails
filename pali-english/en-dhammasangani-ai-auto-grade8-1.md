@@ -372,8 +372,8 @@ Group on Holding On Tightly. ^1-0b-74
 
 ##### Group on Harmful Habits ^1-0b-12-0
 
-75. (A) things that are a harmful habit of mind.
-(B) things that are not a harmful habit of mind. ^1-0b-75
+75. (A) things that are harmful habits of the mind.
+(B) things that are not harmful habits of the mind. ^1-0b-75
 
 76. (A) things that can stain the mind.
 (B) things that cannot stain the mind. ^1-0b-76
@@ -381,8 +381,8 @@ Group on Holding On Tightly. ^1-0b-74
 77. (A) stained things.
 (B) unstained things. ^1-0b-77
 
-78. (A) things associated with a harmful habit of mind.
-(B) things not associated with a harmful habit of mind. ^1-0b-78
+78. (A) things associated with harmful habits of mind.
+(B) things not associated with harmful habits of mind. ^1-0b-78
 
 79. (A) things that are harmful habits and can stain the mind.
 (B) things that can stain the mind but are not harmful habits. ^1-0b-79
@@ -3302,7 +3302,7 @@ These things are deep bad habits of the mind. ^1-1106
 
 1113. Which things are defiled but are not deep bad habits of the mind? Except those deep bad habits of the mind, the remaining defiled things good for the mind, bad for the mind, and neither good nor bad for the mind at the sense-desire level, form level, and formless level; aggregate of materiality…pe… aggregate of consciousness — these things are defiled but are not deep bad habits of the mind. ^1-1113
 
-1114. Which things are both deep bad habits of the mind and associated with deep bad habits of the mind? The deep bad habit of the mind — sense desire is both a deep bad habit of the mind and associated with the deep bad habit of the mind — ignorance as a deep bad habit of the mind; the deep bad habit of the mind — ignorance is both a deep bad habit of the mind and associated with the deep bad habit of the mind — sense desire as a deep bad habit of the mind; the deep bad habit of the mind — becoming is both a deep bad habit of the mind and associated with the deep bad habit of the mind — ignorance as a deep bad habit of the mind; the deep bad habit of the mind — ignorance is both a deep bad habit of the mind and associated with the deep bad habit of the mind — becoming as a deep bad habit of the mind; the deep bad habit of the mind — views is both a deep bad habit of the mind and associated with the deep bad habit of the mind — ignorance as a deep bad habit of the mind; the deep bad habit of the mind — ignorance is both a deep bad habit of the mind and associated with the deep bad habit of the mind — views as a deep bad habit of the mind — these things are both deep bad habits of the mind and associated with deep bad habits of the mind. ^1-1114
+1114. Which things are both deep bad habits of the mind and associated with deep bad habits of the mind? The deep bad habit of the mind — sense desire is both a deep bad habit of the mind and associated with the deep bad habit of the mind — ignorance as taint; the deep bad habit of the mind — ignorance is both a deep bad habit of the mind and associated with the deep bad habit of the mind — sense desire as taint; the deep bad habit of the mind — becoming is both a deep bad habit of the mind and associated with the deep bad habit of the mind — ignorance as taint; the deep bad habit of the mind — ignorance is both a deep bad habit of the mind and associated with the deep bad habit of the mind — becoming as taint; the deep bad habit of the mind — views is both a deep bad habit of the mind and associated with the deep bad habit of the mind — ignorance as taint; the deep bad habit of the mind — ignorance is both a deep bad habit of the mind and associated with the deep bad habit of the mind — views as taint — these things are both deep bad habits of the mind and associated with deep bad habits of the mind. ^1-1114
 
 1115. Which things are associated with deep bad habits of the mind but are not deep bad habits of the mind? Except those deep bad habits of the mind, aggregate of feeling…pe… aggregate of consciousness — these things are associated with deep bad habits of the mind but are not deep bad habits of the mind. ^1-1115
 
