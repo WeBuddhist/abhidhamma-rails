@@ -161,3 +161,15 @@ Alphabetical by Pāli lemma. New rows are appended by the `daily-tipitaka-day` s
 | phala | _fruit_ | day-031 §1; day-034 §1, §5 | Day-034 §5 headword. Translation track v.519 renders "resultant (fruition)"; "fruit" follows day-030's published §1/§5 usage. Reviewer to confirm "fruit" vs "fruition". | candidate |
 
 (Extend this table as new terms appear. Keep main-table entries alphabetical by Pāli. Move `candidate` rows into the main table once a reviewer confirms them.)
+
+### Terms appearing in days 38–42 §1 / §5 (Rūpakaṇḍaṃ — candidate, needs reviewer confirmation)
+
+| Pāli | English (Contemporary) | Used in | Source / Note | Status |
+|---|---|---|---|---|
+| rūpa | _material form_ (the physical side of experience) | day-038 §1, §5; day-040 §1; day-041 §1; day-042 §1 | Day-038 §5 headword. Matches schedule's "Material Form" and translation track "form". Commentary gloss *ruppati* ("is afflicted") cited in §5. | candidate |
+| mahābhūta | _great element_ (the four: earth, water, fire, wind) | day-040 §1, §5 | Day-040 §5 headword. Track termbase (`termbase-ai-rūpakaṇḍaṃ.md`) renders "great-primary-elements"; §-prose uses plain "great elements". Reviewer to confirm. | candidate |
+| upādā-rūpa | _derived material form_ | day-041 §1; day-042 §1 | Practice/summary-rail term (*upādārūpa*); commentary gloss "depending on the four great elements". Plain-English rendering. | candidate |
+| suñño gāmo | _empty village_ | day-041 §1, §5 | Day-041 §5 headword. Verbatim commentary image (`atthakatha #^1-1557`), unwrapped as "activity with no owner". | candidate |
+| indriyasaṃvara | _guarding the senses_ (also _sense-restraint_) | day-039 §5; day-042 §1, §5 | Day-042 §5 headword. Standard rendering; ties the sense-base verses to daily practice. | candidate |
+| diṭṭha-suta-muta-viññāta | _seen, heard, sensed, cognized_ | day-039 §1, §5 | Day-039 §5 headword. Verbatim from root-text v.586 (*diṭṭhaṃ sutaṃ mutaṃ viññātaṃ*) and translation track. | candidate |
+| abyākata | _indeterminate_ (plain-English unwrap: "neither wholesome nor unwholesome") | day-038 §1 | Reaffirms the day-026 row (BB "kammically indeterminate"); day-038 §1 unwrap for the casual register. | draft |
