@@ -97,6 +97,7 @@ status: draft
     - [[#Ekakaniddeso]] ^toc-2-3-1
     - [[#Dukaniddeso]] ^toc-2-3-2
     - [[#Upādābhājanīyaṃ]] ^toc-2-3-3
+    - [[#Tikaniddeso]] ^toc-2-3-3b
     - [[#Catukkaṃ (Vibhatti)]] ^toc-2-3-4
     - [[#Pañcakaṃ (Vibhatti)]] ^toc-2-3-5
     - [[#Chakkaṃ (Vibhatti)]] ^toc-2-3-6
@@ -1042,3 +1043,14 @@ Upādābhājanīye tevīsati upādārūpāni — cakkhādayo pañca pasādā, r�
 [[1-SOURCES/Commentaries/pi-dhammasangani-atthakatha.md#^1-1554]]
 [[1-SOURCES/Commentaries/pi-dhammasangani-atthakatha.md#^1-1557]]
 [[1-SOURCES/Commentaries/pi-dhammasangani-atthakatha.md#^1-1581]]
+
+---
+
+#### Tikaniddeso
+
+[[#^toc-2-3-3b|↑↑↑]]
+
+Tikaniddese rūpaṃ tividhasaṅgahena vibhajiyati — ajjhattikadukaṃ sesehi dukehi yojetvā terasa pakiṇṇakatikā, tato sesatikā ca ṭhapitā. "Ajjhatta"nti niyakajjhattaṃ, attano santāne pavattaṃ; "bahiddhā"ti parasantāragataṃ bāhiraṃ. Aṭṭhakathāyaṃ vuttaṃ — "sarīraṭṭhakaṃ upādiṇṇaṃ vā hotu anupādiṇṇaṃ vā, ādinnagahitaparāmaṭṭhavasena sabbaṃ upādiṇṇameva nāmā"ti; yaṃ "ahaṃ mamā"ti gahitaṃ parāmaṭṭhaṃ, taṃ sabbaṃ upādiṇṇaṃ. Tasmā yoginā ajjhattikaṃ rūpaṃ "etaṃ mamā"ti gahaṇato, bāhirañca "parassa lokassā"ti gahaṇato muñcitvā, ajjhattabahiddhā rūpe samānadassinā hutvā, upādānaggāhaṃ paṭinissajjitvā anattānupassanā bhāvetabbā; evaṃ rūpe nibbindanto cittaṃ pariyodāpeti.
+
+[[1-SOURCES/Commentaries/pi-dhammasangani-atthakatha.md#^1-1541]]
+[[1-SOURCES/Commentaries/pi-dhammasangani-atthakatha.md#^1-1661]]
