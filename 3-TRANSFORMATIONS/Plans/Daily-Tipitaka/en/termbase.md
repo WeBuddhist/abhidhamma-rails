@@ -173,3 +173,15 @@ Alphabetical by Pāli lemma. New rows are appended by the `daily-tipitaka-day` s
 | indriyasaṃvara | _guarding the senses_ (also _sense-restraint_) | day-039 §5; day-042 §1, §5 | Day-042 §5 headword. Standard rendering; ties the sense-base verses to daily practice. | candidate |
 | diṭṭha-suta-muta-viññāta | _seen, heard, sensed, cognized_ | day-039 §1, §5 | Day-039 §5 headword. Verbatim from root-text v.586 (*diṭṭhaṃ sutaṃ mutaṃ viññātaṃ*) and translation track. | candidate |
 | abyākata | _indeterminate_ (plain-English unwrap: "neither wholesome nor unwholesome") | day-038 §1 | Reaffirms the day-026 row (BB "kammically indeterminate"); day-038 §1 unwrap for the casual register. | draft |
+
+### Terms appearing in days 43–48 §1 / §5 (Rūpakaṇḍaṃ — candidate, needs reviewer confirmation)
+
+| Pāli | English (Contemporary) | Used in | Source / Note | Status |
+|---|---|---|---|---|
+| phoṭṭhabba | _the tangible_ (object of touch) | day-043 §1, §5 | Day-043 §5 headword. Track termbase renders *phoṭṭhabbāyatanaṃ* "tangible-base"; §-prose uses "the tangible". Root text v.648 lists it as earth/fire/wind. | candidate |
+| jīvitindriya | _the life faculty_ | day-044 §1, §5 | Day-044 §5 headword. Track termbase (`termbase-ai-rūpakaṇḍaṃ.md`) "life-faculty"; matches root-text v.751. | candidate |
+| kāyaviññatti | _bodily intimation_ | day-045 §1, §5 | Day-045 §5 headword. Track termbase "bodily-intimation"; translation v.720 "bodily intimation". | candidate |
+| aniccatā | _impermanence_ (of matter; *rūpassa aniccatā*) | day-046 §1, §5 | Day-046 §5 headword. Track termbase "impermanence"; translation v.752 "impermanence of matter". | candidate |
+| ajjhatta | _internal_ (one's own body) | day-046 §1; day-047 §1, §5 | Day-047 §5 headword. Commentary gloss *niyakajjhattaṃ* (`atthakatha #^1-1661`); BB standard "internal". | candidate |
+| bahiddhā | _external_ (the world outside) | day-047 §1, §5; day-048 §1, §5 | Day-048 §5 headword. Commentary gloss *bāhiraṃ* (`atthakatha #^1-1661`); BB standard "external". | candidate |
+| upādiṇṇa | _grasped-at_ (clung-to) | day-046 §4; day-047 §1 | Commentary *ādinnagahitaparāmaṭṭhavasena sabbaṃ upādiṇṇameva* (`atthakatha #^1-1661`); translation v.751 "clung-to". Day-047 §1 unwraps as "grasped". | candidate |
