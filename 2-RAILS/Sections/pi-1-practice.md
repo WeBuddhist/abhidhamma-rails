@@ -1054,3 +1054,14 @@ Tikaniddese rūpaṃ tividhasaṅgahena vibhajiyati — ajjhattikadukaṃ sesehi
 
 [[1-SOURCES/Commentaries/pi-dhammasangani-atthakatha.md#^1-1541]]
 [[1-SOURCES/Commentaries/pi-dhammasangani-atthakatha.md#^1-1661]]
+
+---
+
+#### Catukkaṃ (Vibhatti)
+
+[[#^toc-2-3-4|↑↑↑]]
+
+Catukkaniddese rūpaṃ catubbidhasaṅgahena vitthārato vibhajiyati; avasāne ca diṭṭhādivasena vavatthāpitaṃ — "rūpāyatanaṃ diṭṭhaṃ, saddāyatanaṃ sutaṃ, gandharasaphoṭṭhabbā mutā, sabbaṃ pana rūpaṃ manasā viññāta"nti. Rūpaṃ cakkhunā oloketvā "diṭṭha"nti jānāti; saddo sotena "suta"nti; gandharasaphoṭṭhabbā ghānajivhākāyehi patvā "muta"nti; sabbaṃ manoviññāṇena "viññāta"nti. Tasmā yoginā imaṃ catukkaṃ anussarantena "diṭṭhe diṭṭhamattaṃ, sute sutamattaṃ, mute mutamattaṃ, viññāte viññātamatta"nti chasu dvāresu satiṃ ṭhapetvā, nimittānubyañjanaggāho vāretvā, indriyasaṃvaro pūretabbo; evaṃ pāpakā akusalā dhammā cittaṃ nānvāssavanti, rūpe ca nibbidā vaḍḍhati.
+
+[[1-SOURCES/Commentaries/pi-dhammasangani-atthakatha.md#^1-1543]]
+[[1-SOURCES/Commentaries/pi-dhammasangani-atthakatha.md#^1-1660]]

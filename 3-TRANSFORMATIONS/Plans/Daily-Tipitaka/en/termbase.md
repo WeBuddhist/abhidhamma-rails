@@ -185,3 +185,14 @@ Alphabetical by Pāli lemma. New rows are appended by the `daily-tipitaka-day` s
 | ajjhatta | _internal_ (one's own body) | day-046 §1; day-047 §1, §5 | Day-047 §5 headword. Commentary gloss *niyakajjhattaṃ* (`atthakatha #^1-1661`); BB standard "internal". | candidate |
 | bahiddhā | _external_ (the world outside) | day-047 §1, §5; day-048 §1, §5 | Day-048 §5 headword. Commentary gloss *bāhiraṃ* (`atthakatha #^1-1661`); BB standard "external". | candidate |
 | upādiṇṇa | _grasped-at_ (clung-to) | day-046 §4; day-047 §1 | Commentary *ādinnagahitaparāmaṭṭhavasena sabbaṃ upādiṇṇameva* (`atthakatha #^1-1661`); translation v.751 "clung-to". Day-047 §1 unwraps as "grasped". | candidate |
+
+### Terms appearing in days 49–53 §1 / §5 (Rūpakaṇḍaṃ niddesa — candidate, needs reviewer confirmation)
+
+| Pāli | English (Contemporary) | Used in | Source / Note | Status |
+|---|---|---|---|---|
+| vacīviññatti | _verbal intimation_ | day-049 §1, §5 | Day-049 §5 headword. Track termbase "vocal/verbal-intimation"; translation v.752 "vocal intimation". Paired with day-045 *kāyaviññatti*. | candidate |
+| santati | _continuity_ (of matter; *rūpassa santati*) | day-050 §1, §5 | Day-050 §5 headword. Track/translation "continuity of matter" (v.751–752). | candidate |
+| kammaja | _born of kamma_ (matter produced by past action; *kammassa katattā*) | day-051 §1, §5 | Day-051 §5 headword. Translation v.882 "kamma-produced / produced by kamma"; *kammaja* is the standard derived form. | candidate |
+| āpodhātu | _water element_ (cohesion) | day-052 §1, §5 | Day-052 §5 headword. Track termbase (`termbase-ai-rūpakaṇḍaṃ.md`) "water_element"; gloss "cohesion" per commentary. | candidate |
+| dūre | _far_ (subtle, hard-to-discern matter) | day-053 §1, §5 | Day-053 §5 headword. Track termbase "far"; translation v.964 "remote". Abhidhamma sense = subtle, not spatial. | candidate |
+| santike | _near_ (coarse, easily-noticed matter) | day-053 §1, §5 | Day-053 §5 headword (paired with *dūre*). Abhidhamma sense = gross/obvious, not spatial. | candidate |
