@@ -1065,3 +1065,76 @@ Catukkaniddese rūpaṃ catubbidhasaṅgahena vitthārato vibhajiyati; avasāne 
 
 [[1-SOURCES/Commentaries/pi-dhammasangani-atthakatha.md#^1-1543]]
 [[1-SOURCES/Commentaries/pi-dhammasangani-atthakatha.md#^1-1660]]
+
+---
+
+#### Pañcakaṃ (Vibhatti)
+
+[[#^toc-2-3-5|↑↑↑]]
+
+Pañcakaniddese cattāro mahābhūtā sabhāvato niddiṭṭhā — "kakkhaḷaṃ kharagataṃ" pathavīdhātu, "sineho bandhanattaṃ" āpodhātu, "usmā usumagataṃ" tejodhātu, "thambhitattaṃ" vāyodhātu — upādārūpañca pañcamaṃ. Imāni cattāri bhūtāni "ajjhattaṃ vā bahiddhā vā" sabbattha vijjanti. Tasmā yoginā imaṃ kāyaṃ kakkhaḷādivasena dhātuso vavatthapetvā, "dhātumattamidaṃ, na satto na puggalo"ti catudhātuvavatthānaṃ bhāvetvā, sattasaññaṃ pajahitvā cittaṃ pariyodāpetabbaṃ.
+
+[[1-SOURCES/Commentaries/pi-dhammasangani-atthakatha.md#^1-1663]]
+
+---
+
+#### Chakkaṃ (Vibhatti)
+
+[[#^toc-2-3-6|↑↑↑]]
+
+Chakkaniddese rūpaṃ chahi viññāṇehi viññeyyavasena dassitaṃ — rūpāyatanaṃ cakkhuviññeyyaṃ…pe… sabbaṃ rūpaṃ manoviññeyyaṃ. Yaṃ kiñci rūpaṃ, taṃ aññatarena dvārena viññāyati. Tasmā channaṃ dvārānaṃ vasena rūpaṃ paṭivijjhanto, chasu dvāresu satiṃ ṭhapetvā, iṭṭhāniṭṭhesu ārammaṇesu rāgapaṭighaṃ vāretvā, indriyasaṃvaraṃ pūreti.
+
+[[1-SOURCES/Commentaries/pi-dhammasangani-atthakatha.md#^1-1664]]
+[[1-SOURCES/Commentaries/pi-dhammasangani-atthakatha.md#^1-1665]]
+
+---
+
+#### Sattakaṃ (Vibhatti)
+
+[[#^toc-2-3-7|↑↑↑]]
+
+Sattakaniddese manodhātumanoviññāṇadhātuvasena rūpaṃ vibhattaṃ. Yathā rūpaṃ nānāviññāṇānaṃ visayo hoti, evaṃ "rūpaṃ ārabbha viññāṇaṃ, viññāṇapaccayā phasso, phassapaccayā vedanā"ti paṭiccasamuppādaṃ anussaranto, ārammaṇe paṭihaññamāne taṇhāya anuppādanaṃ sikkhati.
+
+[[1-SOURCES/Commentaries/pi-dhammasangani-atthakatha.md#^1-1664]]
+
+---
+
+#### Aṭṭhakaṃ (Vibhatti)
+
+[[#^toc-2-3-8|↑↑↑]]
+
+Aṭṭhakaniddese phoṭṭhabbaṃ "manāpiyo sukhasamphasso, amanāpiyo dukkhasamphasso"ti vibhattaṃ. Kāyasamphasse sukhe dukkhe ca uppajjamāne, "sukhasamphasso sukhavedanāpaṭilābhapaccayo, dukkhasamphasso dukkhavedanāpaṭilābhapaccayo"ti ñatvā, "sukhāya vedanāya rāgānusayo, dukkhāya paṭighānusayo"ti vedanaṃ aniccato passanto anusaye samugghāteti.
+
+[[1-SOURCES/Commentaries/pi-dhammasangani-atthakatha.md#^1-1664]]
+[[1-SOURCES/Commentaries/pi-dhammasangani-atthakatha.md#^1-1666]]
+
+---
+
+#### Navakaṃ (Vibhatti)
+
+[[#^toc-2-3-9|↑↑↑]]
+
+Navakaniddese indriyarūpāni dassitāni; tattha jīvitindriyaṃ "rūpīnaṃ dhammānaṃ āyu ṭhiti yapanā pālanā jīvita"nti niddiṭṭhaṃ. Jīvitindriyaṃ rūpakāyaṃ anupāleti, na ca attā. Tasmā indriyānaṃ paccayanibbattataṃ aniccatañca passanto, "indriyabaddhaṃ idaṃ rūpa"nti gahetvā, indriyesu "ahaṃ mamā"ti gāhaṃ pajahati.
+
+[[1-SOURCES/Commentaries/pi-dhammasangani-atthakatha.md#^1-1666]]
+
+---
+
+#### Dasakaṃ (Vibhatti)
+
+[[#^toc-2-3-10|↑↑↑]]
+
+Dasakaniddese tāneva indriyāni sappaṭighaappaṭighavasena na-indriyarūpena saddhiṃ vibhattāni. Aṭṭhakathāyaṃ ca rūpaṃ samuṭṭhānavasena gaṇitaṃ — kammacittautuāhārehi samuṭṭhitaṃ. Iti yoginā "paccayehi samuṭṭhitaṃ idaṃ rūpaṃ, sappaccayaṃ saṅkhata"nti passantena, oḷārike rūpe nibbidā vaḍḍhetabbā.
+
+[[1-SOURCES/Commentaries/pi-dhammasangani-atthakatha.md#^1-1666]]
+
+---
+
+#### Ekādasakaṃ (Vibhatti)
+
+[[#^toc-2-3-11|↑↑↑]]
+
+Ekādasakaniddesena rūpamātikā samattā; aḍḍhekādasa āyatanāni vibhattāni. Aṭṭhakathāyaṃ rūpāni gaṇitāni — samodhānato pañcavīsati (vatthurūpena saddhiṃ chabbīsati); tesu pannarasa parinipphannāni, dasa aparinipphannāni. Imaṃ sakalaṃ rūpasaṅgahaṃ "sabbaṃ aniccaṃ jarābhibhūtaṃ anattā"ti samanupassanto, ghanasaññaṃ bhinditvā, rūpe nibbidāvirāgāya vipassanaṃ paripūreti.
+
+[[1-SOURCES/Commentaries/pi-dhammasangani-atthakatha.md#^1-1666]]
+[[1-SOURCES/Commentaries/pi-dhammasangani-atthakatha.md#^1-1679]]

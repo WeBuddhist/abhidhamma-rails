@@ -196,3 +196,9 @@ Alphabetical by Pāli lemma. New rows are appended by the `daily-tipitaka-day` s
 | āpodhātu | _water element_ (cohesion) | day-052 §1, §5 | Day-052 §5 headword. Track termbase (`termbase-ai-rūpakaṇḍaṃ.md`) "water_element"; gloss "cohesion" per commentary. | candidate |
 | dūre | _far_ (subtle, hard-to-discern matter) | day-053 §1, §5 | Day-053 §5 headword. Track termbase "far"; translation v.964 "remote". Abhidhamma sense = subtle, not spatial. | candidate |
 | santike | _near_ (coarse, easily-noticed matter) | day-053 §1, §5 | Day-053 §5 headword (paired with *dūre*). Abhidhamma sense = gross/obvious, not spatial. | candidate |
+
+### Term appearing in day-054 §1 / §5 (Rūpakaṇḍaṃ close — candidate, needs reviewer confirmation)
+
+| Pāli | English (Contemporary) | Used in | Source / Note | Status |
+|---|---|---|---|---|
+| parinipphanna | _concretely produced_ (matter formed by causes; opp. *aparinipphanna*, modes/marks) | day-054 §5 | Day-054 §5 headword. Commentary count *pannarasa rūpāni parinipphannāni* (`atthakatha #^1-1679`). Standard rendering "concretely produced / produced". | candidate |
