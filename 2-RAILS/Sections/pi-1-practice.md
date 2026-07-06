@@ -1138,3 +1138,76 @@ Ekādasakaniddesena rūpamātikā samattā; aḍḍhekādasa āyatanāni vibhatt
 
 [[1-SOURCES/Commentaries/pi-dhammasangani-atthakatha.md#^1-1666]]
 [[1-SOURCES/Commentaries/pi-dhammasangani-atthakatha.md#^1-1679]]
+
+---
+
+## Nikkhepakaṇḍaṃ
+
+[[#^toc-3|↑↑↑]]
+
+Nikkhepakaṇḍe tikadukamātikaṃ puna gahetvā ekeko dhammakoṭṭhāso "katame dhammā kusalā"tiādinā pucchāvasena vavatthapiyati, mūlakhandhadvārabhūmiatthadhammādivasena nikkhipitvā desito. Ayaṃ kaṇḍo sādhakassa "ime dhammā bhāvetabbā, ime pahātabbā"ti paṭipattimaggaṃ pākaṭaṃ karoti. Tasmā yoginā imasmiṃ nikkhepe kusalākusalābyākate dhamme yathāvato ñatvā, akusale pajahitvā, kusale bhāvetvā, cittaṃ pariyodāpetabbaṃ.
+
+[[1-SOURCES/Commentaries/pi-dhammasangani-atthakatha.md#^1-1682]]
+[[1-SOURCES/Commentaries/pi-dhammasangani-atthakatha.md#^1-1684]]
+
+---
+
+### Tikanikkhepaṃ
+
+[[#^toc-3-1|↑↑↑]]
+
+Tikanikkhepe paṭhamaṃ kusalattikaṃ nikkhittaṃ — "katame dhammā kusalā? Tīṇi kusalamūlāni alobho adoso amoho"ti. Alobho dānassa, adoso mettāsīlassa, amoho paññābhāvanāya mūlaṃ; tabbiparītā lobhadosamohā akusalamūlāni. Aparo tiko "dassanena pahātabbā, bhāvanāya pahātabbā, neva dassanena na bhāvanāya pahātabbā"ti pahānabhūmiṃ dasseti. Tasmā yoginā tīṇi akusalamūlāni pahānāya, tīṇi kusalamūlāni upasampadāya ca ussahitvā, dassanena bhāvanāya ca pahātabbe kilese kamena samugghātetuṃ maggo bhāvetabbo; evaṃ cittaṃ pariyodāpeti.
+
+[[1-SOURCES/Commentaries/pi-dhammasangani-atthakatha.md#^1-1682]]
+[[1-SOURCES/Commentaries/pi-dhammasangani-atthakatha.md#^1-1690]]
+
+---
+
+### Dukanikkhepaṃ
+
+[[#^toc-3-2|↑↑↑]]
+
+Dukanikkhepe dhammā dvidhā vavatthapiyanti; ādimhi hetuduko. Adosaniddese "metti anuddā hitesitā anukampā"ti adoso mettāvasena dassito; lobhaniddese "rāgo sārāgo anunayo nandī nandirāgo taṇhā"ti lobhassa nānābhedā; dosaniddese "āghāto paṭighaṃ kopo doso"ti. Iti yoginā lobhadosānaṃ nānāmukhāni ñatvā, tesaṃ paṭipakkhe alobhaadose (dānamettā) bhāvetvā, akusalapakkhaṃ pahāya, cittaṃ pariyodāpeti.
+
+[[1-SOURCES/Commentaries/pi-dhammasangani-atthakatha.md#^1-1743]]
+[[1-SOURCES/Commentaries/pi-dhammasangani-atthakatha.md#^1-1757]]
+
+---
+
+#### Hetugocchakaṃ (Nikkhepa)
+
+[[#^toc-3-2-1|↑↑↑]]
+
+Hetugocchake dhammā sahetukā ahetukā, hetū na hetū cāti vavatthapiyanti. Tayo kusalahetū (alobhādayo), tayo akusalahetū (lobhādayo) ca vaṭṭavivaṭṭassa mūlaṃ. Yathā rukkho mūle chinne patati, evaṃ akusalamūlesu samugghātitesu sabbe akusalā dhammā na pavattanti. Tasmā yoginā "kiṃmūlako ayaṃ dhammo"ti hetuṃ pariggahetvā, akusalahetumūlaṃ paññāya chinditvā, kusalahetumūlaṃ vaḍḍhetvā, cittaṃ pariyodāpetabbaṃ.
+
+[[1-SOURCES/Commentaries/pi-dhammasangani-atthakatha.md#^1-1758]]
+
+---
+
+#### Cūḷantaradukaṃ (Nikkhepa)
+
+[[#^toc-3-2-2|↑↑↑]]
+
+Cūḷantaradukanikkhepe sappaccaya-appaccaya, saṅkhata-asaṅkhata, sanidassana-anidassanādayo dukā nikkhittā. Yaṃ sappaccayaṃ, taṃ saṅkhataṃ, tañca aniccaṃ; ekāva asaṅkhatā dhātu (nibbānaṃ) appaccayā accutā santā. Tasmā yoginā sabbaṃ saṅkhataṃ "aniccaṃ dukkha"nti passitvā, saṅkhatesu nibbindanto, asaṅkhataṃ santipadaṃ ninnacittena adhimuccati.
+
+[[1-SOURCES/Commentaries/pi-dhammasangani-atthakatha.md#^1-1759]]
+
+---
+
+#### Āsavagocchakaṃ (Nikkhepa)
+
+[[#^toc-3-2-3|↑↑↑]]
+
+Āsavagocchake cattāro āsavā nikkhittā — kāmāsavo (pañcakāmaguṇiko rāgo), bhavāsavo (rūpārūpabhavesu chandarāgo), diṭṭhāsavo (dvāsaṭṭhi diṭṭhiyo), avijjāsavo (aṭṭhaṭṭhāniko aññāṇaṃ). Ete "cirapārivāsiyaṭṭhena" cittaṃ madayamānā satte vaṭṭe saṃsārenti. Tasmā yoginā āsave yathāvato ñatvā, kāmesu bhavesu ca chandarāgaṃ, micchādiṭṭhiṃ, avijjañca satisampajaññena maggabhāvanāya khepetuṃ vāyamitabbaṃ; khīṇāsavo hi arahā vuccati.
+
+[[1-SOURCES/Commentaries/pi-dhammasangani-atthakatha.md#^1-1762]]
+
+---
+
+#### Saṃyojanagocchakaṃ (Nikkhepa)
+
+[[#^toc-3-2-4|↑↑↑]]
+
+Saṃyojanagocchake dasa saṃyojanāni nikkhittāni, yehi sattā vaṭṭasmiṃ saṃyujjanti. Kāmarāgapaṭighamānadiṭṭhivicikicchāsīlabbataparāmāsabhavarāgaissāmacchariyaavijjāvasena tāni ekato uppajjanti. Ariyamaggo pana tāni kamena chindati — sotāpanno sakkāyadiṭṭhivicikicchāsīlabbataparāmāse pajahati…pe… arahā sabbāni. Tasmā yoginā saṃyojanāni bandhanato passitvā, tesaṃ pahānāya maggo bhāvetabbo; saṃyojanakkhayā hi santaṃ nibbānaṃ.
+
+[[1-SOURCES/Commentaries/pi-dhammasangani-atthakatha.md#^1-1930]]
