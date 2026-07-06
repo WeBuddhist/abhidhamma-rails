@@ -202,3 +202,15 @@ Alphabetical by Pāli lemma. New rows are appended by the `daily-tipitaka-day` s
 | Pāli | English (Contemporary) | Used in | Source / Note | Status |
 |---|---|---|---|---|
 | parinipphanna | _concretely produced_ (matter formed by causes; opp. *aparinipphanna*, modes/marks) | day-054 §5 | Day-054 §5 headword. Commentary count *pannarasa rūpāni parinipphannāni* (`atthakatha #^1-1679`). Standard rendering "concretely produced / produced". | candidate |
+
+### Terms appearing in days 55–59 §1 / §5 (Nikkhepakaṇḍaṃ — candidate, needs reviewer confirmation)
+
+| Pāli | English (Contemporary) | Used in | Source / Note | Status |
+|---|---|---|---|---|
+| nikkhepa | _laying out_ (setting each state in its place) | day-055 §1 | Chapter name unwrap. Commentary *nikkhipitvā desitattā* (`atthakatha #^1-1682`). | candidate |
+| kusalamūla | _wholesome root_ (the three: *alobha*, *adosa*, *amoha*) | day-055 §1, §5 | Day-055 §5 headword. Translation v.985 "wholesome roots"; commentary ties each to giving/mettā/wisdom (`atthakatha #^1-1690`). | candidate |
+| alobha / adosa / amoha | _non-greed / non-hate / non-delusion_ | day-055 §1, §5 | The three wholesome roots. Translation v.985 wording. | candidate |
+| pahātabba | _to be abandoned_ (*dassanena* by seeing / *bhāvanāya* by development) | day-055 §1; day-056 §1, §5 | Day-056 §5 headword. Translation vv.1010–1011 "abandoned by seeing / by development". | candidate |
+| hetu | _root_ (also _cause_); the six roots | day-057 §1, §5 | Day-057 §5 headword. Translation v.1078 "roots"; commentary tree-root image (`atthakatha #^1-1758`). Distinct from day-058 *sahetuka*. | candidate |
+| āsava | _taint_ (also _outflow, canker_); the four: sensual, existence, views, ignorance | day-058 §1, §5 | Day-058 §5 headword. Translation renders "canker"; §-prose uses "taint" with unwrap. Commentary four-āsava list (`atthakatha #^1-1762`). Reviewer to confirm "taint" vs translation-track "canker". | candidate |
+| saṃyojana | _fetter_ (the ten bonds to rebirth) | day-059 §1, §5 | Day-059 §5 headword. Translation v.1135 "fetter"; commentary co-arising + stage-wise cutting (`atthakatha #^1-1930`). | candidate |
