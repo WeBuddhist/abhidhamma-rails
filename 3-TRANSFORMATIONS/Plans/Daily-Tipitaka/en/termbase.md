@@ -214,3 +214,15 @@ Alphabetical by Pāli lemma. New rows are appended by the `daily-tipitaka-day` s
 | hetu | _root_ (also _cause_); the six roots | day-057 §1, §5 | Day-057 §5 headword. Translation v.1078 "roots"; commentary tree-root image (`atthakatha #^1-1758`). Distinct from day-058 *sahetuka*. | candidate |
 | āsava | _taint_ (also _outflow, canker_); the four: sensual, existence, views, ignorance | day-058 §1, §5 | Day-058 §5 headword. Translation renders "canker"; §-prose uses "taint" with unwrap. Commentary four-āsava list (`atthakatha #^1-1762`). Reviewer to confirm "taint" vs translation-track "canker". | candidate |
 | saṃyojana | _fetter_ (the ten bonds to rebirth) | day-059 §1, §5 | Day-059 §5 headword. Translation v.1135 "fetter"; commentary co-arising + stage-wise cutting (`atthakatha #^1-1930`). | candidate |
+
+### Terms appearing in days 60–64 §1 / §5 (Nikkhepakaṇḍaṃ gocchakas — candidate, needs reviewer confirmation)
+
+| Pāli | English (Contemporary) | Used in | Source / Note | Status |
+|---|---|---|---|---|
+| ogha | _flood_ | day-060 §1, §5 | Day-060 §5 headword. Reaffirms the locked main-table row (*ogha* = flood); §1 uses the four floods (kāma/bhava/diṭṭhi/avijjā). | draft |
+| gantha | _knot_ | day-060 §1 | Reaffirms locked row. Four *kāyagantha* per `atthakatha #^1-1687`. | draft |
+| yoga | _yoke_ | day-060 §1 | Reaffirms locked row. Four yokes; §1 ox-and-cart image. | draft |
+| nīvaraṇa | _hindrance_ | day-061 §1, §5 | Day-061 §5 headword. Reaffirms locked row. Six hindrances + antidotes (`atthakatha #^1-1931`). | draft |
+| parāmāsa | _misapprehension_ | day-062 §1, §5 | Day-062 §5 headword. Reaffirms locked row. *aparāmaṭṭha* = beyond its grip (`atthakatha #^1-1691/1692`). | draft |
+| upādāna | _clinging_ | day-063 §1, §5 | Day-063 §5 headword. Reaffirms locked row. Four clingings; "fuel" gloss (`atthakatha #^1-1691`). | draft |
+| kilesa | _defilement_ (what stains/torments the mind; the ten) | day-064 §1, §5 | Day-064 §5 headword. Translation v.1257 "defilement"; commentary ten-*kilesa* co-arising (`atthakatha #^1-1932/1934`). | candidate |
