@@ -1211,3 +1211,89 @@ Cūḷantaradukanikkhepe sappaccaya-appaccaya, saṅkhata-asaṅkhata, sanidassa
 Saṃyojanagocchake dasa saṃyojanāni nikkhittāni, yehi sattā vaṭṭasmiṃ saṃyujjanti. Kāmarāgapaṭighamānadiṭṭhivicikicchāsīlabbataparāmāsabhavarāgaissāmacchariyaavijjāvasena tāni ekato uppajjanti. Ariyamaggo pana tāni kamena chindati — sotāpanno sakkāyadiṭṭhivicikicchāsīlabbataparāmāse pajahati…pe… arahā sabbāni. Tasmā yoginā saṃyojanāni bandhanato passitvā, tesaṃ pahānāya maggo bhāvetabbo; saṃyojanakkhayā hi santaṃ nibbānaṃ.
 
 [[1-SOURCES/Commentaries/pi-dhammasangani-atthakatha.md#^1-1930]]
+
+---
+
+#### Ganthagocchakaṃ (Nikkhepa)
+
+[[#^toc-3-2-5|↑↑↑]]
+
+Ganthagocchake cattāro kāyaganthā nikkhittā — abhijjhā kāyagantho, byāpādo kāyagantho, sīlabbataparāmāso kāyagantho, idaṃsaccābhiniveso kāyagantho. Ete nāmakāyaṃ vaṭṭasmiṃ ganthenti bandhanti; tayo akusalamūlā (lobhadosamohā) tadekaṭṭhā ca kilesā tesaṃ mūlaṃ. Tasmā yoginā ganthe bandhanato passitvā, abhijjhābyāpāde satisampajaññena vūpasametvā, diṭṭhisīlabbataparāmāsañca paññāya vinodetvā, ganthapahānāya vāyamitabbaṃ.
+
+[[1-SOURCES/Commentaries/pi-dhammasangani-atthakatha.md#^1-1685]]
+[[1-SOURCES/Commentaries/pi-dhammasangani-atthakatha.md#^1-1687]]
+
+---
+
+#### Oghagocchakaṃ (Nikkhepa)
+
+[[#^toc-3-2-6|↑↑↑]]
+
+Oghagocchake cattāro oghā nikkhittā — kāmogho, bhavogho, diṭṭhogho, avijjogho. Yathā mahogho satte samuddaṃ vahati, evaṃ ete satte vaṭṭadukkhe osīdenti. Tasmā yoginā "ogho maṃ vahatī"ti disvā, kāmesu bhave ca chandarāgaṃ, micchādiṭṭhiṃ, avijjañca maggabhāvanāya taritvā, thale patiṭṭhātuṃ vāyamitabbaṃ; ariyo hi oghaṃ tarati.
+
+[[1-SOURCES/Commentaries/pi-dhammasangani-atthakatha.md#^1-1685]]
+[[1-SOURCES/Commentaries/pi-dhammasangani-atthakatha.md#^1-1687]]
+
+---
+
+#### Yogagocchakaṃ (Nikkhepa)
+
+[[#^toc-3-2-7|↑↑↑]]
+
+Yogagocchake cattāro yogā nikkhittā — kāmayogo, bhavayogo, diṭṭhiyogo, avijjāyogo. Ete satte vaṭṭe yojenti, gone yuge viya. Tasmā yoginā "yogena yutto vaṭṭe āvaṭṭāmī"ti ñatvā, tesaṃ visaṃyogāya — kāmabhavadiṭṭhiavijjāyogānaṃ pahānāya — maggo bhāvetabbo; yogakkhemo hi nibbānaṃ.
+
+[[1-SOURCES/Commentaries/pi-dhammasangani-atthakatha.md#^1-1684]]
+[[1-SOURCES/Commentaries/pi-dhammasangani-atthakatha.md#^1-1685]]
+
+---
+
+#### Nīvaraṇagocchakaṃ (Nikkhepa)
+
+[[#^toc-3-2-8|↑↑↑]]
+
+Nīvaraṇagocchake cha nīvaraṇā nikkhittā — kāmacchando byāpādo thinamiddhaṃ uddhaccakukkuccaṃ vicikicchā avijjā ca. Ete cittaṃ nīvaranti pariyonandhanti, samādhissa ca paññāya ca paripanthā honti. Tasmā yoginā bhāvanākāle nīvaraṇe satiyā vikkhambhetvā — kāmacchandaṃ asubhena, byāpādaṃ mettāya, thinamiddhaṃ ālokasaññāya, uddhaccakukkuccaṃ samathena, vicikicchaṃ dhammavavatthānena vinodetvā — cittaṃ vūpasametabbaṃ, samādhi ca paṭiladdhabbo.
+
+[[1-SOURCES/Commentaries/pi-dhammasangani-atthakatha.md#^1-1931]]
+
+---
+
+#### Parāmāsagocchakaṃ (Nikkhepa)
+
+[[#^toc-3-2-9|↑↑↑]]
+
+Parāmāsagocchake parāmāso nikkhitto — "idameva saccaṃ moghamañña"nti sabhāvaṃ atikkamitvā aññathā diṭṭhivasena āmasanaṃ. Yaṃ maggaphalanibbānaṃ, taṃ aparāmaṭṭhaṃ, taṇhāmānadiṭṭhīnaṃ agocaro. Tasmā yoginā diṭṭhiparāmāsaṃ "aniccā anattā saṅkhārā"ti passanto pahāya, kismiñci saṅkhāre "etaṃ mama, eso me attā"ti aggahetvā, aparāmaṭṭhena cittena viharitabbaṃ.
+
+[[1-SOURCES/Commentaries/pi-dhammasangani-atthakatha.md#^1-1691]]
+[[1-SOURCES/Commentaries/pi-dhammasangani-atthakatha.md#^1-1692]]
+
+---
+
+#### Mahantaradukaṃ (Nikkhepa)
+
+[[#^toc-3-2-10|↑↑↑]]
+
+Mahantaraduke "kenaci viññeyyā kenaci na viññeyyā"tiādinā vīsati dukā nikkhittā — rūpaṃ cakkhuviññeyyaṃ na sotaviññeyyaṃ, saddo sotaviññeyyo na cakkhuviññeyyoti. Iti dhammā nānāviññāṇehi nānāgocarā. Tasmā yoginā channaṃ dvārānaṃ visaye yathāvato ñatvā, ekekasmiṃ dvāre "idha diṭṭhaṃ, idha suta"nti sallakkhetvā, indriyasaṃvaraṃ pūretvā, saṅkhāre "anattā"ti passitabbaṃ.
+
+[[1-SOURCES/Commentaries/pi-dhammasangani-atthakatha.md#^1-1760]]
+[[1-SOURCES/Commentaries/pi-dhammasangani-atthakatha.md#^1-1761]]
+
+---
+
+#### Upādānagocchakaṃ (Nikkhepa)
+
+[[#^toc-3-2-11|↑↑↑]]
+
+Upādānagocchake cattāri upādānāni nikkhittāni — kāmupādānaṃ, diṭṭhupādānaṃ, sīlabbatupādānaṃ, attavādupādānaṃ. Ete taṇhādiṭṭhivasena ārammaṇaṃ daḷhaṃ gaṇhanti, punabbhavassa ca indhanaṃ honti. Tasmā yoginā "kiṃ upādiyāmī"ti disvā, visesena attavādupādānaṃ "sabbe dhammā anattā"ti paññāya sithilaṃ katvā, upādānakkhayāya paṭipajjitabbaṃ; anupādāya hi cittaṃ vimuccati.
+
+[[1-SOURCES/Commentaries/pi-dhammasangani-atthakatha.md#^1-1691]]
+
+---
+
+#### Kilesagocchakaṃ (Nikkhepa)
+
+[[#^toc-3-2-12|↑↑↑]]
+
+Kilesagocchake dasa kilesavatthūni nikkhittāni — lobho doso moho māno diṭṭhi vicikicchā thinaṃ uddhaccaṃ ahirikaṃ anottappaṃ. Ete cittaṃ kilissanti saṃkilesenti; tehi ekato uppajjamānehi cittaṃ malinaṃ hoti. Tasmā yoginā kilese uppattikkhaṇeyeva satiyā pariggahetvā, sīlena vikkhambhetvā, samādhinā tanukatvā, paññāya samugghātetvā, cittaṃ pariyodāpetabbaṃ; cittavodānā hi visuddhi.
+
+[[1-SOURCES/Commentaries/pi-dhammasangani-atthakatha.md#^1-1932]]
+[[1-SOURCES/Commentaries/pi-dhammasangani-atthakatha.md#^1-1934]]
