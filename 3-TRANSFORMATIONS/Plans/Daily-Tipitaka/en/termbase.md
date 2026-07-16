@@ -226,3 +226,20 @@ Alphabetical by Pāli lemma. New rows are appended by the `daily-tipitaka-day` s
 | parāmāsa | _misapprehension_ | day-062 §1, §5 | Day-062 §5 headword. Reaffirms locked row. *aparāmaṭṭha* = beyond its grip (`atthakatha #^1-1691/1692`). | draft |
 | upādāna | _clinging_ | day-063 §1, §5 | Day-063 §5 headword. Reaffirms locked row. Four clingings; "fuel" gloss (`atthakatha #^1-1691`). | draft |
 | kilesa | _defilement_ (what stains/torments the mind; the ten) | day-064 §1, §5 | Day-064 §5 headword. Translation v.1257 "defilement"; commentary ten-*kilesa* co-arising (`atthakatha #^1-1932/1934`). | candidate |
+
+### Terms appearing in days 65–69 §1 / §5 (Nikkhepakaṇḍaṃ close: Piṭṭhidukaṃ + Suttantikadukanikkhepaṃ — candidate, needs reviewer confirmation)
+
+| Pāli | English (Contemporary) | Used in | Source / Note | Status |
+|---|---|---|---|---|
+| saṃyojana | _fetter_ | day-065 §1, §5 | Day-065 §5 headword. Reaffirms day-059 candidate row. The three "abandoned by seeing": sakkāyadiṭṭhi, vicikicchā, sīlabbataparāmāsa (translation v.1261–1264). | candidate |
+| sakkāyadiṭṭhi | _identity view_ (the sense of a fixed self) | day-065 §1, §5 | Translation v.1262 "identity view". First of the three fetters. Plain-English unwrap "fixed sense of self" added for casual register. | candidate |
+| sīlabbataparāmāsa | _clinging to rites and rituals_ | day-065 §5 | Translation v.1264/v.1271 "clinging to rites and rituals". Third of the three fetters. | candidate |
+| bhāvanā | _cultivation_ (verb _bhāveti_: _one cultivates_) | day-066 §1, §5 | Day-066 §5 headword. Reaffirms day-032 draft row. "Abandoned by cultivation" = the higher-path work on remaining lobha/dosa/moha (translation v.1266, commentary `atthakatha #^1-1729`). | draft |
+| vijjā | _true knowing_ (also _knowledge_) | day-067 §1, §5 | Day-067 §5 headword. Translation v.1303 "partaking of knowledge"; paired against locked *avijjā* = ignorance. Lightning/diamond similes per commentary (`atthakatha #^1-1816/1818`). Reviewer to confirm "true knowing" vs "knowledge". | candidate |
+| kalyāṇamittatā | _good friendship_ | day-068 §1, §5 | Day-068 §5 headword. Translation v.1335 "good friendship"; set against *pāpamittatā* (bad friendship, v.1333). | candidate |
+| hiri | _moral shame_ | day-068 §1 | Translation v.1330 "moral shame"; paired with *ottappa*. One of the two "guardian" wholesome factors. Plan termbase has *hiribalaṃ* TODO — reviewer to confirm "moral shame" as the standing rendering. | candidate |
+| ottappa | _fear of wrongdoing_ | day-068 §1 | BB curated (track termbase); translation v.1331. Paired with *hiri*. | candidate |
+| sati | _mindfulness_ | day-069 §1, §5 | Day-069 §5 headword. Translation v.1358 "mindfulness"; set against *muṭṭhasacca* (forgetfulness, v.1356). Named as faculty, power, and path factor. | candidate |
+| samatha | _calm_ | day-069 §1 | Reaffirms day-020 candidate row. Translation v.1362 "tranquility"; §-prose uses "calm" paired with *vipassanā*. | candidate |
+| vipassanā | _insight_ | day-069 §1 | Reaffirms day-021 candidate row. Translation v.1363 "insight". | candidate |
+| saṃvega | _a sense of urgency_ (spiritual urgency) | day-069 §1 | Translation v.1376 "spiritual urgency" (fear of birth/aging/sickness/death). §1 unwraps as "a sense of urgency — waking up to aging, sickness, and death". Reviewer to confirm. | candidate |

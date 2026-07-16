@@ -1313,7 +1313,7 @@ Piṭṭhiduke dassanena bhāvanāya ca pahātabbā, tesañca hetū, micchattani
 
 ---
 
-#### Suttantikadukanikkhepaṃ
+### Suttantikadukanikkhepaṃ
 
 [[#^toc-3-3|↑↑↑]]
 
