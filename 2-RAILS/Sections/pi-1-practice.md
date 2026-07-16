@@ -1297,3 +1297,30 @@ Kilesagocchake dasa kilesavatthūni nikkhittāni — lobho doso moho māno diṭ
 
 [[1-SOURCES/Commentaries/pi-dhammasangani-atthakatha.md#^1-1932]]
 [[1-SOURCES/Commentaries/pi-dhammasangani-atthakatha.md#^1-1934]]
+
+---
+
+#### Piṭṭhidukaṃ (Nikkhepa)
+
+[[#^toc-3-2-13|↑↑↑]]
+
+Piṭṭhiduke dassanena bhāvanāya ca pahātabbā, tesañca hetū, micchattaniyatā sammattaniyatā aniyatā cāti piṭṭhibhūtā dukā nikkhittā. Tattha tīṇi saṃyojanāni — sakkāyadiṭṭhi vicikicchā sīlabbataparāmāso — tadekaṭṭhā ca kilesā dassanena pahātabbā, sesā rāgadosamohādayo bhāvanāya. Ānantarikāni pana kammāni anantarāyena phaladāyakattā aññena kusalakammena appaṭibāhiyāni, niyatā ca micchādiṭṭhi ahetuka-akiriya-natthikavādabhedā buddhasatenapi abodhanīyā. Tasmā yoginā ānantarikakammā ceva niyatamicchādiṭṭhito ca accantaṃ viramitvā, sammādiṭṭhiṃ purakkhatvā, sotāpattimaggena tīṇi saṃyojanāni uparimaggehi ca sesakilese anukkamena samucchindantena cittaṃ pariyodāpetabbaṃ.
+
+[[1-SOURCES/Commentaries/pi-dhammasangani-atthakatha.md#^1-1727]]
+[[1-SOURCES/Commentaries/pi-dhammasangani-atthakatha.md#^1-1728]]
+[[1-SOURCES/Commentaries/pi-dhammasangani-atthakatha.md#^1-1729]]
+[[1-SOURCES/Commentaries/pi-dhammasangani-atthakatha.md#^1-1731]]
+
+---
+
+#### Suttantikadukanikkhepaṃ
+
+[[#^toc-3-3|↑↑↑]]
+
+Suttantikadukesu vijjābhāgi-avijjābhāgi-bāla-paṇḍita-kaṇha-sukka-tapanīya-atapanīyādayo dvācattālīsa dukā nikkhittā. Tattha ahirikānottappāni bālabhāvassa mūlāni, kāyaduccaritādīni ca katattā pacchā tapanīyāni; hiri-ottappā pana paṇḍitakarā, kāyasucaritādīni ca akatattā atapanīyāni. Tasmā yoginā ahirikānottappe pahāya hiri-ottappe patiṭṭhāya, kaṇhe tapanīye ca dhamme vajjetvā sukke atapanīye ca dhamme sampādetabbā. Vijjābhāgiyā ca vipassanā bhāvetabbā — yathā meghandhakāre vijju niccharitvā maggaṃ pakāseti, evameva sotāpatti-sakadāgāmi-anāgāmimaggobhāsā saccacchādakatamaṃ vinodenti; yathā ca vajiraṃ sabbaṃ vinivijjhati, evaṃ arahattamaggo asesato sabbakilese samucchindati, tena ca pahīnā kilesā puna na paccudāvattanti. Iti anukkamena vaḍḍhentena cittaṃ accantaṃ pariyodāpetabbaṃ.
+
+[[1-SOURCES/Commentaries/pi-dhammasangani-atthakatha.md#^1-1816]]
+[[1-SOURCES/Commentaries/pi-dhammasangani-atthakatha.md#^1-1817]]
+[[1-SOURCES/Commentaries/pi-dhammasangani-atthakatha.md#^1-1818]]
+[[1-SOURCES/Commentaries/pi-dhammasangani-atthakatha.md#^1-1819]]
+[[1-SOURCES/Commentaries/pi-dhammasangani-atthakatha.md#^1-1820]]
