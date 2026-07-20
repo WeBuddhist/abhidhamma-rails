@@ -247,3 +247,13 @@ Alphabetical by Pāli lemma. New rows are appended by the `daily-tipitaka-day` s
 | asekha | _adept_ (one beyond training; sekha = _learner_) | day-071 §1, §5 | Day-071 §5 headword. Translation v.1415 "perfected"/Arahantship; sekha rendered "learner" (v.1414). | candidate |
 | saṅkhata | _conditioned_ (made from causes; asaṅkhata = _unconditioned_, i.e. Nibbāna) | day-072 §1, §5 | Day-072 §5 headword. Cūḷantaradukaṃ; conditioned is impermanent, only Nibbāna unconditioned (`atthakatha #^1-1759`). | candidate |
 | gocchaka | _cluster_ (a bunch/family of related states; the chapter's organizing unit) | day-073 §1, §5 | Day-073 §5 headword. Section intro image "gocchakaṃ gocchakaṃ katvā" (`atthakatha #^1-1885`). | candidate |
+| parāmāsa | _misapprehension_ (wrong grasping; esp. clinging to a view as the only truth) | day-074 §1, §5 | Day-074 §5 headword. Parāmāsagocchakaṃ; the single gantha/gocchaka item (`atthakatha #^1-1692/1693`). | candidate |
+| mahantaraduka | _the great middle pairs_ (dyads sorting states by relation to consciousness) | day-074 §1 | Structural label for Mahantaradukaṃ. Day-074 §1. | candidate |
+| ajjhattika | _internal_ (the six inner bases: eye…mind; vs bāhira, external) | day-075 §1 | Translation v.1547 "internal". Mahantaraduka pair. | candidate |
+| upādāna | _clinging_ (also _fuel_); the four: sense-pleasures, views, rites, self-doctrine | day-075 §1, §5 | Day-075 §5 headword. Upādānagocchakaṃ (`atthakatha #^1-1889/1929`). Fire/fuel image. | candidate |
+| saṃkilesika | _subject to defilement_ (liable to be stained; distinct from kilesa itself) | day-076 §1, §5 | Day-076 §5 headword. Translation v.1574 "defiling"; §-prose "liable to defilement". Kilesagocchakaṃ. | candidate |
+| piṭṭhiduka | _the back pairs_ (the final supplementary dyads closing the book) | day-076 §1 | Structural label for Piṭṭhidukaṃ. Day-076 §1. | candidate |
+| pīti | _rapture_ (also _joy_); the jhāna/awakening factor | day-076 §1 | Translation v.1596 "rapture". The pīti/sukha/upekkhā feeling pairs. | candidate |
+| sukha | _happiness_ (pleasant feeling; the feeling-accompaniment pair) | day-077 §1 | Translation v.1597 "happiness". Counterpart to day-025 *dukkha*. | candidate |
+| anuttara | _unsurpassed_ (the four paths, four fruits, and Nibbāna) | day-077 §1 | Translation v.1614 "unsurpassed". Piṭṭhiduka sa-uttara/anuttara pair. | candidate |
+| araṇa | _conflict-free_ (at peace; free of the defilements' inner war; vs saraṇa, with conflict) | day-077 §1, §5 | Day-077 §5 headword. The book's final pair saraṇa/araṇa; ties to Piṭṭhiduka "purify the mind" close. | candidate |
