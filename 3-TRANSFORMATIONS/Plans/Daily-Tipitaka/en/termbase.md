@@ -243,3 +243,7 @@ Alphabetical by Pāli lemma. New rows are appended by the `daily-tipitaka-day` s
 | samatha | _calm_ | day-069 §1 | Reaffirms day-020 candidate row. Translation v.1362 "tranquility"; §-prose uses "calm" paired with *vipassanā*. | candidate |
 | vipassanā | _insight_ | day-069 §1 | Reaffirms day-021 candidate row. Translation v.1363 "insight". | candidate |
 | saṃvega | _a sense of urgency_ (spiritual urgency) | day-069 §1 | Translation v.1376 "spiritual urgency" (fear of birth/aging/sickness/death). §1 unwraps as "a sense of urgency — waking up to aging, sickness, and death". Reviewer to confirm. | candidate |
+| atthuddhāra | _drawing out the meaning_ (the method of the fourth chapter: showing where each state arises) | day-070 §1, §5 | Day-070 §5 headword. Section intro (`atthakatha #^1-1885/1888`); names the whole Aṭṭhakathākaṇḍa method. | candidate |
+| asekha | _adept_ (one beyond training; sekha = _learner_) | day-071 §1, §5 | Day-071 §5 headword. Translation v.1415 "perfected"/Arahantship; sekha rendered "learner" (v.1414). | candidate |
+| saṅkhata | _conditioned_ (made from causes; asaṅkhata = _unconditioned_, i.e. Nibbāna) | day-072 §1, §5 | Day-072 §5 headword. Cūḷantaradukaṃ; conditioned is impermanent, only Nibbāna unconditioned (`atthakatha #^1-1759`). | candidate |
+| gocchaka | _cluster_ (a bunch/family of related states; the chapter's organizing unit) | day-073 §1, §5 | Day-073 §5 headword. Section intro image "gocchakaṃ gocchakaṃ katvā" (`atthakatha #^1-1885`). | candidate |
