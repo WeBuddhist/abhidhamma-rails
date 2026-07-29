@@ -181,6 +181,52 @@ Saññākkhandhaniddese cakkhusamphassajādivasena cha saññā vuttā — purim
 
 ---
 
-## English translation
+## English translation (from `AI_translation/english/khandhavibhango-english-plain.md`)
 
-No translation file found for Book II (Vibhaṅga) — the `en-Contemporary-English-Abhidhamma` track covers Dhammasaṅgaṇī (`^1-`) only. Per skill Rule 10, §4 (Reading for Meaning) must be a **one-line gloss** of the first and last verses drawn from the section summary + practice rail — NOT a fresh translation from the Pāli. Flag for the translation track to add Vibhaṅga coverage.
+1. The five aggregates: the aggregate of form, the aggregate of feeling, the aggregate of perception, the aggregate of formations, the aggregate of consciousness. ^2-1
+
+##### The Aggregate of Form ^2-1-1-1-0
+
+2. What is the aggregate of form? Whatever form there is — internal or external, gross or subtle, inferior or superior, far or near — taken together as a single whole: this is called the aggregate of form. ^2-2
+
+3. What is past form? Form that has ceased, passed, changed, vanished, come to an end — having arisen and then passed, called past, included in the past division: the four great elements and form derived from the four great elements — this is called past form.
+What is future form? Form that is not yet born, not yet come to be, not yet produced, not yet manifested, not arisen, not yet come into being, called future, included in the future division: the four great elements and form derived from the four great elements — this is called future form.
+What is present form? Form that is born, come to be, produced, manifested, arisen, come into being, called present, included in the present division: the four great elements and form derived from the four great elements — this is called present form. ^2-3
+
+4. What is internal form? Form belonging internally, individually, to this or that being — particular to that one, appropriated by it: the four great elements and form derived from the four great elements — this is called internal form.
+What is external form? Form belonging internally, individually, to this or that other being or other person — particular to that one, appropriated by it: the four great elements and form derived from the four great elements — this is called external form. ^2-4
+
+5. What is gross form? The eye … up to … the tangible-object base — this is called gross form.
+What is subtle form? The femininity faculty … up to … edible food — this is called subtle form. ^2-5
+
+6. What is inferior form? Form that is looked down upon, disdained, treated with scorn, held in low regard, agreed to be inferior, unwelcome, unattractive, not agreeable to the mind — visible forms, sounds, odors, flavors, tangibles — this is called inferior form.
+What is superior form? Form that is not looked down upon, not disdained, not treated with scorn, held in high regard, agreed to be superior, welcome, attractive, agreeable to the mind — visible forms, sounds, flavors, tangibles — this is called superior form. But form is inferior or superior only relative to this or that other form. ^2-6
+
+7. What is far form? The femininity faculty … up to … edible food, and whatever other form there is that is not close by, not near, far, not nearby — this is called far form.
+What is near form? The eye … up to … the tangible-object base, and whatever other form there is that is close by, near, not far, nearby — this is called near form. But form is far or near only relative to this or that other form. ^2-7
+
+##### The Aggregate of Feeling ^2-1-1-2-0
+
+8. What is the aggregate of feeling? Whatever feeling there is — internal or external, gross or subtle, inferior or superior, far or near — taken together as a single whole: this is called the aggregate of feeling. ^2-8
+
+9. What is past feeling? Feeling that has ceased, passed, changed, vanished, come to an end — having arisen and then passed, called past, included in the past division: pleasant feeling, painful feeling, neutral feeling — this is called past feeling.
+What is future feeling? Feeling that is not yet born … called future, included in the future division: pleasant feeling, painful feeling, neutral feeling — this is called future feeling.
+What is present feeling? Feeling that is born … called present, included in the present division: pleasant feeling, painful feeling, neutral feeling — this is called present feeling. ^2-9
+
+10. What is internal feeling? Feeling belonging internally, individually, to this or that being — particular to that one, appropriated by it: pleasant feeling, painful feeling, neutral feeling — this is called internal feeling.
+What is external feeling? Feeling belonging internally, individually, to this or that other being or other person — particular to that one, appropriated by it: pleasant feeling, painful feeling, neutral feeling — this is called external feeling. ^2-10
+
+11. What is gross or subtle feeling? Unwholesome feeling is gross; wholesome-and-indeterminate feeling is subtle. Wholesome-and-unwholesome feeling is gross; indeterminate feeling is subtle. Painful feeling is gross; pleasant and neutral feeling is subtle. Pleasant-and-painful feeling is gross; neutral feeling is subtle. The feeling of one who has not attained absorption is gross; the feeling of one who has attained absorption is subtle. Feeling affected by taints is gross; feeling unaffected by taints is subtle. But feeling is gross or subtle only relative to this or that other feeling. ^2-11
+
+12. What is inferior or superior feeling? Unwholesome feeling is inferior; wholesome-and-indeterminate feeling is superior. Wholesome-and-unwholesome feeling is inferior; indeterminate feeling is superior. Painful feeling is inferior; pleasant and neutral feeling is superior. Pleasant-and-painful feeling is inferior; neutral feeling is superior. The feeling of one who has not attained absorption is inferior; the feeling of one who has attained absorption is superior. Feeling affected by taints is inferior; feeling unaffected by taints is superior. But feeling is inferior or superior only relative to this or that other feeling. ^2-12
+
+13. What is far feeling? Unwholesome feeling is far from wholesome-and-indeterminate feeling; wholesome-and-indeterminate feeling is far from unwholesome feeling; wholesome feeling is far from unwholesome-and-indeterminate feeling; unwholesome-and-indeterminate feeling is far from wholesome feeling; indeterminate feeling is far from wholesome-and-unwholesome feeling; wholesome-and-unwholesome feeling is far from indeterminate feeling. Painful feeling is far from pleasant and neutral feeling; pleasant and neutral feeling is far from painful feeling; pleasant feeling is far from painful and neutral feeling; painful and neutral feeling is far from pleasant feeling; neutral feeling is far from pleasant-and-painful feeling; pleasant-and-painful feeling is far from neutral feeling. The feeling of one who has not attained absorption is far from the feeling of one who has attained absorption, and the feeling of one who has attained absorption is far from the feeling of one who has not. Feeling affected by taints is far from feeling unaffected by taints, and feeling unaffected by taints is far from feeling affected by taints — this is called far feeling.
+What is near feeling? Unwholesome feeling is near unwholesome feeling; wholesome feeling is near wholesome feeling; indeterminate feeling is near indeterminate feeling. Painful feeling is near painful feeling; pleasant feeling is near pleasant feeling; neutral feeling is near neutral feeling. The feeling of one who has not attained absorption is near the feeling of one who has not, and the feeling of one who has attained absorption is near the feeling of one who has. Feeling affected by taints is near feeling affected by taints, and feeling unaffected by taints is near feeling unaffected by taints. This is called near feeling. But feeling is far or near only relative to this or that other feeling. ^2-13
+
+##### The Aggregate of Perception ^2-1-1-3-0
+
+14. What is the aggregate of perception? Whatever perception there is — internal or external, gross or subtle, inferior or superior, far or near — taken together as a single whole: this is called the aggregate of perception. ^2-14
+
+15. What is past perception? Perception that has ceased … called past, included in the past division: perception born of eye-contact, perception born of ear-contact, perception born of nose-contact, perception born of tongue-contact, perception born of body-contact, perception born of mind-contact — this is called past perception.
+What is future perception? Perception that is not yet born … called future, included in the future division: perception born of eye-contact … perception born of mind-contact — this is called future perception.
+What is present perception? Perception that is born … called present, included in the present division: perception born of eye-contact … perception born of mind-contact — this is called present perception. ^2-15

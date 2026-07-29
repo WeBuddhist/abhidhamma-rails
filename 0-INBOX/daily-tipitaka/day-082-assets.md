@@ -121,6 +121,71 @@ Abhidhammabhājanīye vedanākkhandho ekavidhena phassasampayuttato, duvidhena s
 
 ---
 
-## English translation
+## English translation (from `AI_translation/english/khandhavibhango-english-plain.md`)
 
-No translation file found for Book II (Vibhaṅga) — the `en-Contemporary-English-Abhidhamma` track covers Dhammasaṅgaṇī (`^1-`) only. Per skill Rule 10, §4 (Reading for Meaning) must be a **one-line gloss** of the first and last verses drawn from the section summary + practice rail — NOT a fresh translation from the Pāli. Flag for the translation track to add Vibhaṅga coverage.
+As three categories: there is feeling that a result; feeling that productive of a result; feeling that neither a result nor productive of a result; feeling that clung to and capable of being clung to; feeling that not clung to but capable of being clung to; feeling that neither clung to nor capable of being clung to; feeling that defiled and productive of defilement; feeling that undefiled but productive of defilement; feeling that neither defiled nor productive of defilement; feeling that with applied and sustained thought; feeling that without applied thought but with sustained thought only; feeling that without either applied or sustained thought; feeling that to be abandoned by seeing; feeling that to be abandoned by development; feeling that to be abandoned neither by seeing nor by development; feeling that having as root-cause what is abandoned by seeing; feeling that having as root-cause what is abandoned by development; feeling that having as root-cause what is abandoned neither by seeing nor by development; feeling that leading to accumulation; feeling that leading to dispersal; feeling that leading neither to accumulation nor to dispersal; feeling that belonging to one still in training; feeling that belonging to one beyond training; feeling that belonging to neither; feeling that limited; feeling that exalted; feeling that measureless; feeling that having a limited object; feeling that having an exalted object; feeling that having a measureless object; feeling that inferior; feeling that middling; feeling that superior; feeling that fixed in wrongness; feeling that fixed in rightness; feeling that undetermined; feeling that having the path as object; feeling that having the path as root-cause; feeling that having the path as ruling condition; feeling that arisen; feeling that not yet arisen; feeling that bound to arise; feeling that past; feeling that future; feeling that present; feeling that having a past object; feeling that having a future object; feeling that having a present object; feeling that internal; feeling that external; feeling that both internal and external; feeling that having an internal object; feeling that having an external object; and feeling that having both an internal and an external object. Thus, as ten categories, this is the aggregate of feeling. ^2-41
+
+42. As a single category: Feeling is associated with contact.
+As two categories: there is feeling that is associated with a root-cause, feeling that is dissociated from a root-cause … up to … feeling that is with strife, and feeling that is without strife.
+As three categories: there is feeling that having an internal object; feeling that having an external object; and feeling that having both an internal and an external object. Thus, as ten categories, this is the aggregate of feeling.
+[End of] the triad-rooted section. ^2-42
+
+43. As a single category: Feeling is associated with contact.
+As two categories: there is feeling that has a root-cause, and feeling that is without a root-cause.
+As three categories: there is feeling that wholesome; feeling that unwholesome; and feeling that indeterminate. Thus, as ten categories, this is the aggregate of feeling. ^2-43
+
+44. As a single category: Feeling is associated with contact.
+As two categories: there is feeling that associated with a root-cause, and feeling that dissociated from a root-cause.
+As three categories: there is feeling that a result; feeling that productive of a result; and feeling that neither a result nor productive of a result. Thus, as ten categories, this is the aggregate of feeling. ^2-44
+
+45. As a single category: Feeling is associated with contact.
+As two categories: there is feeling that is not a root-cause but has one, and feeling that is not a root-cause and is without one.
+As three categories: there is feeling that clung to and capable of being clung to; feeling that not clung to but capable of being clung to; and feeling that neither clung to nor capable of being clung to. Thus, as ten categories, this is the aggregate of feeling. ^2-45
+
+46. As a single category: Feeling is associated with contact.
+As two categories: there is feeling that mundane, and feeling that supramundane.
+As three categories: there is feeling that defiled and productive of defilement; feeling that undefiled but productive of defilement; and feeling that neither defiled nor productive of defilement. Thus, as ten categories, this is the aggregate of feeling. ^2-46
+
+47. As a single category: Feeling is associated with contact.
+As two categories: there is feeling that cognizable by some [consciousness], and feeling that not cognizable by some [consciousness].
+As three categories: there is feeling that with applied and sustained thought; feeling that without applied thought but with sustained thought only; and feeling that without either applied or sustained thought. Thus, as ten categories, this is the aggregate of feeling. ^2-47
+
+48. As a single category: Feeling is associated with contact.
+As two categories: there is feeling that affected by taints, and feeling that unaffected by taints.
+As three categories: there is feeling that to be abandoned by seeing; feeling that to be abandoned by development; and feeling that to be abandoned neither by seeing nor by development. Thus, as ten categories, this is the aggregate of feeling. ^2-48
+
+49. As a single category: Feeling is associated with contact.
+As two categories: there is feeling that associated with taints, and feeling that dissociated from taints.
+As three categories: there is feeling that having as root-cause what is abandoned by seeing; feeling that having as root-cause what is abandoned by development; and feeling that having as root-cause what is abandoned neither by seeing nor by development. Thus, as ten categories, this is the aggregate of feeling. ^2-49
+
+50. As a single category: Feeling is associated with contact.
+As two categories: there is feeling that dissociated from taints yet still affected by them, and feeling that dissociated from taints and unaffected by them.
+As three categories: there is feeling that leading to accumulation; feeling that leading to dispersal; and feeling that leading neither to accumulation nor to dispersal. Thus, as ten categories, this is the aggregate of feeling. ^2-50
+
+51. As a single category: Feeling is associated with contact.
+As two categories: there is feeling that capable of being fettered, and feeling that not capable of being fettered.
+As three categories: there is feeling that belonging to one still in training; feeling that belonging to one beyond training; and feeling that belonging to neither. Thus, as ten categories, this is the aggregate of feeling. ^2-51
+
+52. As a single category: Feeling is associated with contact.
+As two categories: there is feeling that associated with fetters, and feeling that dissociated from fetters.
+As three categories: there is feeling that limited; feeling that exalted; and feeling that measureless. Thus, as ten categories, this is the aggregate of feeling. ^2-52
+
+53. As a single category: Feeling is associated with contact.
+As two categories: there is feeling that dissociated from fetters yet still capable of being fettered, and feeling that dissociated from fetters and not capable of being fettered.
+As three categories: there is feeling that having a limited object; feeling that having an exalted object; and feeling that having a measureless object. Thus, as ten categories, this is the aggregate of feeling. ^2-53
+
+54. As a single category: Feeling is associated with contact.
+As two categories: there is feeling that capable of being tied, and feeling that not capable of being tied.
+As three categories: there is feeling that inferior; feeling that middling; and feeling that superior. Thus, as ten categories, this is the aggregate of feeling. ^2-54
+
+55. As a single category: Feeling is associated with contact.
+As two categories: there is feeling that associated with ties, and feeling that dissociated from ties.
+As three categories: there is feeling that fixed in wrongness; feeling that fixed in rightness; and feeling that undetermined. Thus, as ten categories, this is the aggregate of feeling. ^2-55
+
+56. As a single category: Feeling is associated with contact.
+As two categories: there is feeling that dissociated from ties yet still capable of being tied, and feeling that dissociated from ties and not capable of being tied.
+As three categories: there is feeling that having the path as object; feeling that having the path as root-cause; and feeling that having the path as ruling condition. Thus, as ten categories, this is the aggregate of feeling. ^2-56
+
+57. As a single category: Feeling is associated with contact.
+As two categories: there is feeling that capable of flooding, and feeling that not capable of flooding.
+As three categories: there is feeling that arisen; feeling that not yet arisen; and feeling that bound to arise. Thus, as ten categories, this is the aggregate of feeling. ^2-57
