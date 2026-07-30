@@ -9,7 +9,7 @@ termbase: 3-TRANSFORMATIONS/Translations/en-Plain-English-Abhidhamma/termbase.md
 audience_profile: 3-TRANSFORMATIONS/Translations/en-Plain-English-Abhidhamma/audience.md
 status: draft
 provenance_note: >
-  Relocated from AI_translation/english/khandhavibhango-english-plain.md into a
+  Relocated from 3-TRANSFORMATIONS/Translations/en-Plain-English-Abhidhamma/en-vibhanga-khandhavibhanga-plain.md into a
   proper translation track. Original frontmatter pointed to three files that
   were never in the vault (pali-english-termbase-plain.md,
   audience_profile/plain.md, pi-2_split_chapters/1-khandhavibhango.md); the

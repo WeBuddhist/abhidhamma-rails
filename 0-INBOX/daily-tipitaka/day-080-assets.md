@@ -123,7 +123,7 @@ Abhidhammabhājanīye rūpakkhandhaniddeso dhammasaṅgaṇiyaṃ rūpakaṇḍe
 
 ---
 
-## English translation (from `AI_translation/english/khandhavibhango-english-plain.md`)
+## English translation (from `3-TRANSFORMATIONS/Translations/en-Plain-English-Abhidhamma/en-vibhanga-khandhavibhanga-plain.md`)
 
 26. What is the aggregate of consciousness? Whatever consciousness there is — internal or external, gross or subtle, inferior or superior, far or near — taken together as a single whole: this is called the aggregate of consciousness. ^2-26
 

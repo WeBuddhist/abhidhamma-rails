@@ -94,7 +94,7 @@ Saṅkhārakkhandhaniddese "cetanā"ti heṭṭhimakoṭiyā padhānasaṅkhāra
 
 ---
 
-## English translation (from `AI_translation/english/khandhavibhango-english-plain.md`)
+## English translation (from `3-TRANSFORMATIONS/Translations/en-Plain-English-Abhidhamma/en-vibhanga-khandhavibhanga-plain.md`)
 
 What is external perception? Perception belonging internally, individually, to this or that other being or other person: perception born of eye-contact … perception born of mind-contact — this is called external perception. ^2-16
 

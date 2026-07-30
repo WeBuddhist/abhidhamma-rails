@@ -17,7 +17,8 @@ For the category-wide convention (what `requirements.md` and `termbase.md` must 
 
 ## Current tracks
 
-- **`en-Contemporary-English-Abhidhamma/`** — English, modelled on the NIV translation philosophy: optimal equivalence + reader-accessible English + committee review. Requirements in English.
+- **`en-Contemporary-English-Abhidhamma/`** — English, modelled on the NIV translation philosophy: optimal equivalence + reader-accessible English + committee review. Requirements in English. Covers Book I (Dhammasaṅgaṇī).
+- **`en-Plain-English-Abhidhamma/`** — English for readers with English as a second or third language: same terminology as the Contemporary track, but shorter sentences and a lower reading level (Flesch-Kincaid ≤ 9). Covers Book II (Vibhaṅga), Khandhavibhaṅga so far. **Status: scaffold** — its `requirements.md`, `termbase.md`, and `audience.md` were reconstructed after the fact from a single delivered translation file; see the open questions in each before relying on them. Whether this track should remain separate from the Contemporary track is still undecided.
 - **`bn-Contemporary-Bengali-Abhidhamma/`** — Bengali, same NIV-derived approach, adapted to Bengali. Requirements in Bengali.
 - **`si-Contemporary-Sinhala-Abhidhamma/`** — Sinhala, same NIV-derived approach, adapted to Sinhala. Requirements in Sinhala.
 

@@ -80,7 +80,16 @@ Currently scaffolded: **day-001 through day-010** in each language. The remainin
 
 Adding a new language is a matter of creating a new `<tag>/days/` folder and copying the day files from `en/days/_template/`. The Pāli chanting in Step 6 is **identical across every language track** — it is the same chant in every language, just glossed differently in the surrounding steps.
 
-The Reading for Meaning (Step 4) in each language is generated using the translation requirements that govern that target language — for English, see `../Translations/en-Contemporary-English-Abhidhamma/requirements.md`. As other-language translation requirements come online, they sit next to that one.
+The Reading for Meaning (Step 4) in each language is generated using the translation requirements that govern that target language. As other-language translation requirements come online, they sit next to those below.
+
+For English, the governing track depends on which book the day falls in:
+
+| Days | Book | Translation track |
+|---|---|---|
+| 001–077 | Book I — Dhammasaṅgaṇī | [`../Translations/en-Contemporary-English-Abhidhamma/requirements.md`](../../Translations/en-Contemporary-English-Abhidhamma/requirements.md) |
+| 078– | Book II — Vibhaṅga | [`../Translations/en-Plain-English-Abhidhamma/requirements.md`](../../Translations/en-Plain-English-Abhidhamma/requirements.md) |
+
+**This split is provisional, not a design decision.** It arose because Book II arrived with a separately-produced "plain audience" translation rather than a continuation of the Contemporary track. A reviewer should decide whether to (a) keep both tracks and make the per-book split deliberate, or (b) merge them, since the two currently agree on terminology (*aggregate*, *perception*, *volition*) and differ mainly in register. See the open questions in `../Translations/en-Plain-English-Abhidhamma/audience.md`.
 
 ## 6. The 200-Day Schedule — Plans of a Few Days Each
 

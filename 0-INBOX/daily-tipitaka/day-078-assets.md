@@ -181,7 +181,7 @@ Saññākkhandhaniddese cakkhusamphassajādivasena cha saññā vuttā — purim
 
 ---
 
-## English translation (from `AI_translation/english/khandhavibhango-english-plain.md`)
+## English translation (from `3-TRANSFORMATIONS/Translations/en-Plain-English-Abhidhamma/en-vibhanga-khandhavibhanga-plain.md`)
 
 1. The five aggregates: the aggregate of form, the aggregate of feeling, the aggregate of perception, the aggregate of formations, the aggregate of consciousness. ^2-1
 
