@@ -257,7 +257,7 @@ Alphabetical by Pāli lemma. New rows are appended by the `daily-tipitaka-day` s
 | sukha | _happiness_ (pleasant feeling; the feeling-accompaniment pair) | day-077 §1 | Translation v.1597 "happiness". Counterpart to day-025 *dukkha*. | candidate |
 | anuttara | _unsurpassed_ (the four paths, four fruits, and Nibbāna) | day-077 §1 | Translation v.1614 "unsurpassed". Piṭṭhiduka sa-uttara/anuttara pair. | candidate |
 | araṇa | _conflict-free_ (at peace; free of the defilements' inner war; vs saraṇa, with conflict) | day-077 §1, §5 | Day-077 §5 headword. The book's final pair saraṇa/araṇa; ties to Piṭṭhiduka "purify the mind" close. | candidate |
-| khandha | _aggregate_ (plain-English image: _a heap_) | day-078 §1, §5 | Day-078 §5 headword. **BB curated** "aggregate" per translation-track termbase; §1/§5 use "heap" only as the commentary's own plain image (rāsi/koṭṭhāsa, great-mass-of-water simile, `vibhanga-atthakatha #^2-5`). Matches `3-TRANSFORMATIONS/Translations/en-Plain-English-Abhidhamma/en-vibhanga-khandhavibhanga-plain.md`. | draft |
+| khandha | _aggregate_ (plain-English image: _a heap_) | day-078 §1, §5 | Day-078 §5 headword. **BB curated** "aggregate" per translation-track termbase; §1/§5 use "heap" only as the commentary's own plain image (rāsi/koṭṭhāsa, great-mass-of-water simile, `vibhanga-atthakatha #^2-5`). Matches `3-TRANSFORMATIONS/Translations/en-Contemporary-English-Abhidhamma/en-vibhanga-ai.md`. | draft |
 | rūpakkhandha | _the aggregate of form_; *rūpa* = _material form_ (reaffirms day-038 row) | day-078 §1; day-080 §1 | Translation renders "aggregate of form"; plan termbase locked *rūpa* = _material form_ at day-038. Earlier "body-heap" draft corrected. | draft |
 | saññā | _perception_ (recognising, labelling) | day-078 §1; day-079 §1 | **BB curated** "perception" per translation-track termbase. Commentary: born of contact at the six doors (`vibhanga-atthakatha #^2-59`). | draft |
 | saṅkhārakkhandha | _the aggregate of formations_; *saṅkhāra* = _formations_ | day-079 §1 | Translation wording "aggregate of formations". The heap is *named* by *cetanā* (volition) per commentary (`vibhanga-atthakatha #^2-64`), but the heap itself renders "formations". Distinct from *saṅkhata* (day-072). | draft |
@@ -267,3 +267,16 @@ Alphabetical by Pāli lemma. New rows are appended by the `daily-tipitaka-day` s
 | parivaṭṭa | _turning_ (one full pass over the material; the three of Khandhavibhaṅga) | day-082 §1, §5 | Day-082 §5 headword. Commentary "tayo parivaṭṭe nīharitvā" (`vibhanga-atthakatha #^2-148`). | candidate |
 | suttantabhājanīyaṃ | _the discourse method_ (first turning) | day-078 §1; day-080 §1 | Structural label, Vibhaṅga's three-section pattern. | candidate |
 | abhidhammabhājanīyaṃ | _the Abhidhamma method_ (second turning) | day-080 §1; day-081 §1 | Structural label. Commentary four mahāvārā (`vibhanga-atthakatha #^2-121`). | candidate |
+
+## Known §1/§5 ↔ §4 wording divergences (Book II)
+
+`en-vibhanga-ai.md` was drafted against a termbase that was never committed, and three of its renderings differ both from the BB-curated track termbase and from rows locked above. **§1/§5 keep the locked rendering; §4 stays verbatim from the translation.** Both sides are individually correct, so these are not day-file bugs — but they are reader-visible, and the clean fix is to revise the *translation* rather than bend §1 away from a locked term.
+
+| Pāli | Locked here (used in §1/§5) | `en-vibhanga-ai.md` (appears in §4) | Seen in |
+|---|---|---|---|
+| hetu | _root_ (day-057) | "root-cause" | day-081 §1 |
+| vitakka / vicāra | _thinking_ / _holding the thought_ (day-013) | "applied and sustained thought" | day-082 §1 vs §4 |
+| sekha / asekha | _learner_ / _adept_ (day-071) | "one still in training" / "one beyond training" | day-082 §1 vs §4 |
+| samāpatti | — (not yet locked) | "absorption" | day-079 §4 |
+
+Tracked in the translation's `known_issues` frontmatter. A reviewer should either revise the translation to BB or record a deliberate override; until then, do not change §1/§5 to match §4.

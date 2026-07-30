@@ -162,6 +162,8 @@ Full day-by-day detail lives in the source spreadsheet (`0-INBOX/ITCC_2026_Bodhg
 | day-068 | 20 Jul (Tue) | 3. Nikkhepakaṇḍaṃ | 1329–1352 |
 | day-069 | 21 Jul (Wed) | 3. Nikkhepakaṇḍaṃ | 1353–1379 |
 
+> **Note — vv. 1380–1383 are intentionally absent from this table.** They close Nikkhepakaṇḍaṃ (the three knowledges *vijjā*, the two liberations *vimutti*, knowledge of destruction, knowledge of non-arising, and the closing line `Nikkhepakaṇḍaṃ niṭṭhitaṃ`), and sit between day-069's range and day-070's. **This is handled in the WeBuddhist app, not in the vault** — no day file covers them, and none should be added. Please don't "fix" this gap here.
+
 ### Plan 5 — Days 70–77 · Commentary (22–29 Jul)
 
 | Day | Date | Section | Verses |
@@ -196,6 +198,14 @@ Full day-by-day detail lives in the source spreadsheet (`0-INBOX/ITCC_2026_Bodhg
 | day-092 | 13 Aug (Fri) | 1. Khandhavibhaṅgo | 150–152 |
 | day-093 | 14 Aug (Sat) | 1. Khandhavibhaṅgo | 153     |
 | day-094 | 15 Aug (Sun) | 1. Khandhavibhaṅgo | —       |
+
+> ⚠️ **Content pipeline stops after day-094.** Days 001–094 can be built; **day-095 onward cannot yet.** Three prerequisites are missing:
+>
+> 1. **Translation** — `en-Contemporary-English-Abhidhamma/en-vibhanga-ai.md` covers `^2-1` – `^2-153` only (through day-093; day-094 has no verses). Day-095 needs `^2-154` onward from `Āyatanavibhaṅgo`.
+> 2. **Rails** — `2-RAILS/Sections/pi-2-summaries.md` and `pi-2-practice.md` cover `Khandhavibhaṅgo` only. Each further vibhaṅga needs its entries built from `1-SOURCES/Commentaries/pi-vibhanga-atthakatha.md`.
+> 3. **Book III sources** — days 179–200 need `1-SOURCES/Text/pi-3.md` (Dhātukathā) plus its commentary; neither is in the vault.
+>
+> Materials for these are not ready yet. See `../../Translations/en-Contemporary-English-Abhidhamma/requirements.md` §4.1 for the full coverage table.
 
 ### Plan 7 — Days 95–97 · Analysis of the Sense Bases (16–18 Aug)
 

@@ -81,7 +81,7 @@ Abhidhammabhājanīye vedanākkhandho ekavidhena phassasampayuttato, duvidhena s
 
 ---
 
-## English translation (from `3-TRANSFORMATIONS/Translations/en-Plain-English-Abhidhamma/en-vibhanga-khandhavibhanga-plain.md`)
+## English translation (from `3-TRANSFORMATIONS/Translations/en-Contemporary-English-Abhidhamma/en-vibhanga-ai.md`)
 
 As ten categories: feeling born of eye-contact, ear-contact, nose-contact, tongue-contact, and body-contact — the last being either pleasant or painful — together with feeling born of mind-element-contact and mind-consciousness-element-contact, each being wholesome, unwholesome, or indeterminate. Thus, as ten categories, this is the aggregate of feeling. ^2-34
 

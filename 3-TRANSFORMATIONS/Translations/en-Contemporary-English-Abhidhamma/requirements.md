@@ -115,6 +115,21 @@ Translation files produced under these requirements sit directly in this folder,
 - `status:` — `draft` / `partial` / `complete`
 - `reviewers:` — names of the Pāli reviewer and readability reviewer once each has signed off
 
+### 4.1 Coverage and outstanding gaps
+
+This track is the **single English source for §4 (Reading for Meaning) of every Daily Tipitaka day**, across all three books. There is deliberately no second English track — see `../../Plans/Daily-Tipitaka/en/requirements.md` §5.
+
+| Book | Section | File | Verses | Daily Tipitaka days | Status |
+|---|---|---|---|---|---|
+| I — Dhammasaṅgaṇī | all | `en-dhammasangani-ai.md` | `^1-1` – `^1-1616` | 001–077 | draft |
+| II — Vibhaṅga | 1. Khandhavibhaṅgo | `en-vibhanga-ai.md` | `^2-1` – `^2-153` | 078–094 | draft |
+| II — Vibhaṅga | 2. Āyatanavibhaṅgo onward | **missing** | `^2-154` – `^2-1044` | **095–178** | **not started** |
+| III — Dhātukathā | all | **missing** | — | **179–200** | **not started** |
+
+**Blocking dependency.** The Vibhaṅga translation stops at `^2-153`, which is the last verse of day-093 (day-094 carries no verses). **Day-095 is the first day that cannot be built**: it needs `^2-154` – `^2-165` from `Āyatanavibhaṅgo`, which is untranslated. Days 095–200 are blocked on this, i.e. slightly over half the journey.
+
+Note that the rails are blocked too, not just the translation: `2-RAILS/Sections/pi-2-summaries.md` and `pi-2-practice.md` currently cover `Khandhavibhaṅgo` only. Each new vibhaṅga needs its rail entries built from `1-SOURCES/Commentaries/pi-vibhanga-atthakatha.md` before its day files can be composed. Book III needs a root text (`pi-3.md`) and commentary as well — neither is in the vault yet.
+
 ---
 
 ## 5. Why model on the NIV
