@@ -13,21 +13,29 @@ Template: `4-SYSTEM/Templates/audience.md`.
 
 ---
 
+> **Inferred starting points (2026-07-30).** The sections below are still largely
+> `TODO`. Where a value can be inferred from `requirements.md` (which mandates a
+> 7th–8th grade reading level and 12–20 word sentences) or from the downstream
+> Daily Tipitaka audience profile
+> (`../../Plans/Daily-Tipitaka/en/audience.md`), it is marked **(inferred)** and
+> needs a reviewer to confirm or replace it. Nothing here has been confirmed with
+> real readers.
+
 ## 1. Demographics and Region
 
 - **Age range:** TODO
-- **Geography (primary and secondary regions):** TODO
-- **Language background:** TODO
+- **Geography (primary and secondary regions):** **(inferred)** International; the Daily Tipitaka profile names Kolkata, Nagpur, and Sankisa as primary, alongside diaspora English speakers.
+- **Language background:** **(inferred)** English as a **second or third language** for a large share of readers. This is the most load-bearing assumption in the track — it is the stated reason `requirements.md` sets a 7th–8th grade ceiling, and it is why grammatical completeness matters more here than in a scholarly translation.
 - **Monastic / lay / mixed:** TODO
 - **Gender mix:** TODO
 - **Other:** TODO
 
 ## 2. Prior Knowledge and Reading Level
 
-- **Buddhist background:** TODO
-- **Familiarity with Pāli:** TODO
+- **Buddhist background:** **(inferred)** Casual to committed lay practitioners; not Pāli readers, not academics.
+- **Familiarity with Pāli:** **(inferred)** Low. Technical Pāli is **not** retained in the running translation; English renderings are used throughout per `termbase.md`. Pāli surfaces only in the Daily Tipitaka layer above, where it is always glossed on first use.
 - **Familiarity with the Abhidhamma:** TODO
-- **General education level / target reading grade:** TODO
+- **General education level / target reading grade:** **(inferred)** Flesch-Kincaid ≤ 9, per `requirements.md` §"Sentence-level reading".
 - **Comfortable with footnotes, diacritics, transliteration?** TODO
 
 ## 3. Use Cases and Reading Settings

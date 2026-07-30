@@ -1,31 +1,49 @@
 ---
-track: en-Plain-English-Abhidhamma
+title: Vibhaṅga — AI-assisted translation
+language: English
+script: Roman
+file_type: translation
+lang_tag: en-ai
+verse_id_format: book-verse
+pitaka: abhidhamma
+track: en-Contemporary-English-Abhidhamma
 target_language: en
-source_text: 1-SOURCES/Text/pi-2.md
+root_text: 1-SOURCES/Text/pi-2.md
 source_section: "Khandhavibhaṅgo ^2-1-0 (verses ^2-1 – ^2-153)"
 chapter: Khandhavibhaṅga (Analysis of the Aggregates)
-requirements: 3-TRANSFORMATIONS/Translations/en-Plain-English-Abhidhamma/requirements.md
-termbase: 3-TRANSFORMATIONS/Translations/en-Plain-English-Abhidhamma/termbase.md
-audience_profile: 3-TRANSFORMATIONS/Translations/en-Plain-English-Abhidhamma/audience.md
+requirements: 3-TRANSFORMATIONS/Translations/en-Contemporary-English-Abhidhamma/requirements.md
+termbase: 3-TRANSFORMATIONS/Translations/en-Contemporary-English-Abhidhamma/termbase.md
+audience_profile: 3-TRANSFORMATIONS/Translations/en-Contemporary-English-Abhidhamma/audience.md
 status: draft
+translator: AI (CSCD-aligned, tipitaka.org Mūla edition)
+translation_basis: Segment-aligned AI translation of the Pāli Vibhaṅga (tipitaka.org Mūla / CSCD)
 provenance_note: >
-  Relocated from 3-TRANSFORMATIONS/Translations/en-Plain-English-Abhidhamma/en-vibhanga-khandhavibhanga-plain.md into a
-  proper translation track. Original frontmatter pointed to three files that
-  were never in the vault (pali-english-termbase-plain.md,
-  audience_profile/plain.md, pi-2_split_chapters/1-khandhavibhango.md); the
-  first two are now scaffolded in this folder, and the source now cites the
-  canonical root text directly.
+  Arrived as AI_translation/english/khandhavibhango-english-plain.md, outside the
+  Translations tree, with frontmatter citing three files that were never in the
+  vault (pali-english-termbase-plain.md, audience_profile/plain.md,
+  pi-2_split_chapters/1-khandhavibhango.md). Its "plain audience" label was
+  briefly taken to imply a separate track; on comparison, this track's
+  requirements.md already mandates the same 7th–8th grade reading level and
+  12–20 word sentences, so there was no distinction to preserve. Filed here as
+  the Book II counterpart to en-dhammasangani-ai.md. Governing files are now
+  this track's requirements.md, termbase.md, and audience.md.
 known_issues: >
-  Dropped copulas in the threefold-list segments — e.g. "feeling that
-  wholesome", "feeling that a result" should read "feeling that IS wholesome /
-  IS a result". Affects ^2-40, ^2-41, ^2-57 and neighbouring threefold blocks.
-  Flagged for reviewer; Daily Tipitaka days 081–082 quote these verbatim in §4.
+  (1) Dropped copulas in the threefold-list segments — "feeling that wholesome",
+  "feeling that a result" should read "feeling that IS wholesome / IS a result".
+  Affects ^2-40, ^2-41, ^2-57 and neighbouring threefold blocks. Daily Tipitaka
+  days 081–082 quote these verbatim in §4, so the error is user-visible.
+  (2) Three renderings diverge from this track's BB-curated termbase, because
+  the file was drafted against a termbase that was never committed:
+  hetu = "root-cause" (BB: "root"); samāpatti = "absorption" (BB: "(meditative)
+  attainment"); vitakka/vicāra = "applied/sustained thought" (BB:
+  "initial/sustained application"). Reviewer to either revise the translation to
+  BB or record a deliberate override.
 translation_approach: >
   Fresh rails-style translation composed segment by segment directly from the
-  Pali source, using the locked plain-audience termbase as a fixed
-  terminology reference. Not adapted or reused from any prior zeroshot
-  translation. Per-segment line structure mirrors the source exactly; exactly
-  one blank line separates segments.
+  Pali source, using a locked termbase as a fixed terminology reference. Not
+  adapted or reused from any prior zeroshot translation. Per-segment line
+  structure mirrors the source exactly; exactly one blank line separates
+  segments.
 segment_id_coverage: 169 of 169 segments (^2-1 through ^2-153, including all
   nested sub-segment IDs), full parity verified against source line counts.
 ---
