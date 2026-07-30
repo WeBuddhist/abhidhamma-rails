@@ -1,8 +1,25 @@
 ---
-source: AI_translation/pi-2_split_chapters/1-khandhavibhango.md
+track: en-Plain-English-Abhidhamma
+target_language: en
+source_text: 1-SOURCES/Text/pi-2.md
+source_section: "Khandhavibhaṅgo ^2-1-0 (verses ^2-1 – ^2-153)"
 chapter: Khandhavibhaṅga (Analysis of the Aggregates)
-termbase: AI_translation/pali-english-termbase-plain.md
-audience_profile: AI_translation/audience_profile/plain.md
+requirements: 3-TRANSFORMATIONS/Translations/en-Plain-English-Abhidhamma/requirements.md
+termbase: 3-TRANSFORMATIONS/Translations/en-Plain-English-Abhidhamma/termbase.md
+audience_profile: 3-TRANSFORMATIONS/Translations/en-Plain-English-Abhidhamma/audience.md
+status: draft
+provenance_note: >
+  Relocated from AI_translation/english/khandhavibhango-english-plain.md into a
+  proper translation track. Original frontmatter pointed to three files that
+  were never in the vault (pali-english-termbase-plain.md,
+  audience_profile/plain.md, pi-2_split_chapters/1-khandhavibhango.md); the
+  first two are now scaffolded in this folder, and the source now cites the
+  canonical root text directly.
+known_issues: >
+  Dropped copulas in the threefold-list segments — e.g. "feeling that
+  wholesome", "feeling that a result" should read "feeling that IS wholesome /
+  IS a result". Affects ^2-40, ^2-41, ^2-57 and neighbouring threefold blocks.
+  Flagged for reviewer; Daily Tipitaka days 081–082 quote these verbatim in §4.
 translation_approach: >
   Fresh rails-style translation composed segment by segment directly from the
   Pali source, using the locked plain-audience termbase as a fixed
