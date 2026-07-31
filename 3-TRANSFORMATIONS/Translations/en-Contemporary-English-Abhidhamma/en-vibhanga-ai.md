@@ -49,20 +49,37 @@ known_issues: >
   Affects ^2-40, ^2-41, ^2-57 and neighbouring threefold blocks. Daily Tipitaka
   days 081–082 quote these verbatim in §4, so the error is user-visible.
 
-  (2) Four renderings in the text diverge from the plain termbase it was drafted
-  against (`drafted_against_termbase` above). In each case the termbase entry
-  also matches this track's BB-curated termbase, so the running text is the
-  outlier on all four:
-    hetu — text "root-cause" (64×); termbase "root"; BB "root"
-    samāpatti — text "absorption" (17×); termbase "attainment"; BB "(meditative) attainment"
+  (2) Terminology divergence. Read the dates before reading the table: this
+  track's BB-curated termbase was committed 2026-05-17 and the Daily Tipitaka
+  plan termbase 2026-05-20; the pipeline termbase this file was drafted against
+  (`drafted_against_termbase`) was committed 2026-07-30, roughly ten weeks later
+  and after 82 day files had already published from the earlier two. So where
+  they disagree, the **May termbases are the established lock** and the July one
+  is the newcomer:
+    hetu — text "root-cause" (64×); pipeline "root"; BB "root"
+      → text is the outlier; both termbases agree.
+    samāpatti — text "absorption" (17×); pipeline "attainment"; BB "attainment"
+      → text is the outlier; both termbases agree.
     vitakka / vicāra — text "applied and sustained thought" (11×);
-      termbase "thought" / "examination"; BB "initial / sustained application"
-    cetanā — text "volition" (16×); termbase "intention"; BB "volition"
-  The *cetanā* row is the one to settle first: the pipeline termbase says
-  "intention" while the text and BB both say "volition", and Daily Tipitaka
-  day-079 §5 publishes "volition" as its headword. Reviewer to revise the text to
-  the termbase or record a deliberate override — and note that an earlier version
-  of this list cited BB as the sole yardstick and omitted *cetanā* entirely.
+      pipeline "thought" / "examination"; BB "initial / sustained application"
+      → text is the outlier; the two termbases differ from each other too.
+    cetanā — text "volition" (16×); pipeline "intention"; BB "volition"
+      → the **pipeline termbase** is the outlier here. "volition" was BB-locked
+      on 2026-05-17 and is what Daily Tipitaka day-079 §5 publishes as its
+      headword. Nothing in the published corpus needs changing.
+  Reviewer to revise the text on the first three, or record a deliberate
+  override. Note that an earlier version of this list cited BB as the sole
+  yardstick, omitted *cetanā*, and then described the pipeline termbase as the
+  authority — which inverted the actual chronology on *cetanā*.
+
+  (3) Systemic cause, now fixed upstream. `AI_translation/skills/termbase-builder.md`
+  was written to be source-agnostic: it derived terminology from a sense-tagged
+  keyword file plus an audience profile, with no instruction to seed from
+  termbases the project had already locked. Run on Book II it therefore
+  re-derived terms the vault had settled in May, and diverged wherever a second
+  reading was defensible — which is exactly what happened with *cetanā*. A
+  seeding step has been added to that skill so later books inherit the existing
+  locks instead of re-deciding them.
 translation_approach: >
   Fresh rails-style translation composed segment by segment directly from the
   Pali source, using a locked termbase as a fixed terminology reference. Not

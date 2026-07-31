@@ -278,17 +278,27 @@ Alphabetical by Pāli lemma. New rows are appended by the `daily-tipitaka-day` s
 | vitakka / vicāra | _thinking_ / _holding the thought_ (day-013) | "applied and sustained thought" | day-082 §1 vs §4 |
 | sekha / asekha | _learner_ / _adept_ (day-071) | "one still in training" / "one beyond training" | day-082 §1 vs §4 |
 | samāpatti | — (not yet locked) | "absorption" | day-079 §4 |
-| cetanā | _volition_ (day-079) | "volition" — **agrees**; but the pipeline termbase says _intention_ | day-079 §1, §5 |
+| cetanā | _volition_ (day-079) | "volition" — **agrees** | day-079 §1, §5 |
 
 Tracked in the translation's `known_issues` frontmatter. A reviewer should either revise the translation or record a deliberate override; until then, do not change §1/§5 to match §4.
 
-**Correction (2026-07-31) — the yardstick was wrong.** This table was first written against the BB-curated track termbase, on the belief that the termbase `en-vibhanga-ai.md` was actually drafted against had never been committed. It had been: `AI_translation/english/pi-2-english-termbase-plain.md` (commit fe5eaea). Checked against it, the picture is simpler than stated above — the running text is the outlier in every case, because the pipeline termbase agrees with BB on all four:
+**Correction (2026-07-31) — chronology, and which file is authoritative.** This table was first written against the BB-curated track termbase, on the belief that the termbase `en-vibhanga-ai.md` was drafted against had never been committed. It had been: `AI_translation/english/pi-2-english-termbase-plain.md` (commit fe5eaea). A first correction then over-swung, treating that file as the authority — which inverts the real order:
 
-| Pāli | pipeline termbase | BB curated | text in `en-vibhanga-ai.md` |
-|---|---|---|---|
-| hetu | root | root | "root-cause" (64×) |
-| samāpatti | attainment | (meditative) attainment | "absorption" (17×) |
-| vitakka / vicāra | thought / examination | initial / sustained application | "applied and sustained thought" (11×) |
-| cetanā | **intention** | volition | "volition" (16×) |
+| Termbase | First committed |
+|---|---|
+| `en-Contemporary-English-Abhidhamma/termbase.md` (BB-curated) | **2026-05-17** |
+| `Daily-Tipitaka/en/termbase.md` (this file) | **2026-05-20** |
+| `AI_translation/.../pi-2-english-termbase-plain.md` | **2026-07-30** |
 
-*cetanā* is the live disagreement: the pipeline termbase says _intention_, while the text, BB, and day-079 §5's published headword all say _volition_. Day-079 was drafted as "intention", then changed to "volition" on BB's authority without knowing the pipeline termbase existed. If the reviewer settles on _intention_, day-079 §1/§5 and the row above both need revising.
+The May files are the established lock, with 82 published day files behind them; the July file is the newcomer. Against that:
+
+| Pāli | this file / BB (May) | pipeline (July) | text in `en-vibhanga-ai.md` | outlier |
+|---|---|---|---|---|
+| hetu | root | root | "root-cause" (64×) | the text |
+| samāpatti | — / attainment | attainment | "absorption" (17×) | the text |
+| vitakka / vicāra | thinking / holding the thought | thought / examination | "applied and sustained thought" (11×) | the text (all three differ) |
+| cetanā | **volition** | intention | "volition" (16×) | **the pipeline termbase** |
+
+So *cetanā* needs no action here: _volition_ was BB-locked on 17 May, this file follows it, and day-079 §5 publishes it. The July termbase is what diverges.
+
+**Root cause, fixed upstream.** `AI_translation/skills/termbase-builder.md` had no instruction to seed from termbases the project had already locked, so run on Book II it re-derived terminology settled in May and diverged where a second reading was defensible. A seeding step has been added to that skill; later books should inherit these locks rather than re-decide them.
