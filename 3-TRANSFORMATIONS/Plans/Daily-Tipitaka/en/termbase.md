@@ -333,3 +333,23 @@ Two follow-ups for the human contributor, since neither is the skill's to do:
 | dukamūlaka | _the dyad-rooted section_ | day-086 §1 | Structural marker closing the first of the four *mahāvārā* (`vibhanga-atthakatha #^2-121`). | candidate |
 
 **Note on `bhāvanā`.** Day-085 §1 says "developing" / "development" rather than the plan-termbase lock _cultivation_, because §4 quotes the translation's "abandoned by development" in the same breath and the two reading differently within one screen would confuse more than the term drift does. BB gives "meditation, development (of the eightfold path…)", so "development" is within BB's range. Flagged rather than resolved — if the reviewer prefers _cultivation_ throughout, day-085 §1 needs a small edit.
+
+## Terms added by days 088–093
+
+| Pāli | English | Where | Note | Status |
+|---|---|---|---|---|
+| sekha | _learner_ (one still in training) | day-088 §1, §5 | Day-088 §5 headword. Reaffirms the day-071 row (*asekha* = adept). No BB row; plan lock stands. | candidate |
+| phassa | _contact_ | day-089 §1, §5 | Day-089 §5 headword. **BB-curated** "contact". Why the consciousness heap is "associated with contact" while formations are "associated with mind". | draft |
+| tikamūlaka | _the triad-rooted pass_ | day-090 §1, §5 | Day-090 §5 headword. Second of the four *mahāvārā*; parallel to *dukamūlaka* (day-086). `vibhanga-atthakatha #^2-121`. | candidate |
+| pañhāpucchaka | _the question method_ | day-092 §1, §5 | Day-092 §5 headword. The chapter's third turning. `vibhanga-atthakatha #^2-143`. | candidate |
+| ārammaṇa | _object_ | day-093 §1, §5 | Day-093 §5 headword. **BB-curated** "object". Form is *anārammaṇa* (without object); the four mental heaps always have one. | draft |
+
+## Translation error found — `^2-120` (2026-07-31)
+
+`en-vibhanga-ai.md` renders v120's opening as **"A formation is associated with contact."** The Pāli reads `Ekavidhena saṅkhārakkhandho – cittasampayutto` — *associated with **mind***, not contact. This is not a terminology preference; it reverses the point the commentary makes at `^2-141`, that the formations heap is named by mind precisely *because* contact sits inside it (see day-086 §5).
+
+Day-088 §4 quotes the line verbatim, so the error is user-visible. Two consequences:
+- the singular "A formation" is also inconsistent with every neighbouring verse ("Formations is/are…"), which itself wobbles between *is* and *are*;
+- once the translation is corrected, day-088's §4 last entry needs regenerating.
+
+Added to the translation's `known_issues`. Not fixed here — §4 must stay verbatim (Rule 16), and the translation is the reviewer's to change.

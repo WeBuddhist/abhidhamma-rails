@@ -72,7 +72,23 @@ known_issues: >
   yardstick, omitted *cetanā*, and then described the pipeline termbase as the
   authority — which inverted the actual chronology on *cetanā*.
 
-  (3) Systemic cause, now fixed upstream. `AI_translation/skills/termbase-builder.md`
+  (3) FIXED 2026-07-31 — mistranslation at ^2-120. The line read "A formation is
+  associated with contact." The Pāli is `Ekavidhena saṅkhārakkhandho –
+  cittasampayutto` — associated with *mind*, not contact — and the error reversed
+  the commentary's point at ^2-141, that the formations heap is named by mind
+  precisely because contact sits inside it. Corrected to "Formations are
+  associated with mind." Daily Tipitaka day-088 §4 quoted the line verbatim and
+  has been regenerated to match. Checked across ^2-1 – ^2-153: this was the only
+  citta-/phassa- confusion in the file.
+
+  (3a) OPEN — grammatical consistency of the same opener. The corrected line now
+  reads "Formations are", while 24 other verses read "Formations is" and one
+  reads "formations are". "Formations is" is not English; the majority spelling
+  is the wrong one, so matching it was not an option. Left as-is rather than
+  silently rewriting 25 lines of someone else's translation — see (1), which is
+  the same class of problem at larger scale.
+
+  (4) Systemic cause, now fixed upstream. `AI_translation/skills/termbase-builder.md`
   was written to be source-agnostic: it derived terminology from a sense-tagged
   keyword file plus an audience profile, with no instruction to seed from
   termbases the project had already locked. Run on Book II it therefore
@@ -609,7 +625,7 @@ As three categories: there is formations that having a past object; formations t
 As two categories: there is formations that dissociated from fetters yet still capable of being fettered, and formations that dissociated from fetters and not capable of being fettered.
 As three categories: there is formations that internal; formations that external; and formations that both internal and external. Thus, as ten categories, this is the aggregate of formations. ^2-119
 
-120. As a single category: A formation is associated with contact.
+120. As a single category: Formations are associated with mind.
 As two categories: there is a formation that is a tie, and a formation that is not a tie.
 As three categories: there is a formation with an internal object, a formation with an external object, and a formation with both an internal and an external object. Thus, as ten categories, this is the aggregate of formations.
 (This covers both directions of expansion.)
