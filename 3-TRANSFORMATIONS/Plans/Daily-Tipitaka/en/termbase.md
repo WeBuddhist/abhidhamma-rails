@@ -302,3 +302,34 @@ The May files are the established lock, with 82 published day files behind them;
 So *cetanā* needs no action here: _volition_ was BB-locked on 17 May, this file follows it, and day-079 §5 publishes it. The July termbase is what diverges.
 
 **Root cause, fixed upstream.** `AI_translation/skills/termbase-builder.md` had no instruction to seed from termbases the project had already locked, so run on Book II it re-derived terminology settled in May and diverged where a second reading was defensible. A seeding step has been added to that skill; later books should inherit these locks rather than re-decide them.
+
+## Reviewer ruling — *pīti* is not "zest" (2026-07-31)
+
+The BB-curated track termbase (`../../Translations/en-Contemporary-English-Abhidhamma/termbase.md`) renders `pīti` as **_zest_**. Evan has ruled that wrong. Three renderings were in play:
+
+| Source | Rendering |
+|---|---|
+| BB-curated track termbase (17 May) | _zest_ ← **ruled out** |
+| Daily Tipitaka plan termbase, row below (day-076) | _rapture_ (also _joy_) |
+| `en-dhammasangani-ai.md` (Book I, v.1596) | "rapture" |
+| `en-vibhanga-ai.md` (Book II, v.77) | "joy" |
+
+**Standing rendering: _rapture_, with _joy_ acceptable where the surrounding sentence reads better for it** — which is what the existing plan-termbase row already says, and what days 076 and 084 publish. No published day needs changing.
+
+Two follow-ups for the human contributor, since neither is the skill's to do:
+1. The BB row itself still says "zest" and should be corrected at source, or explicitly marked superseded — otherwise the next term-lock lookup that reaches step 2 will pick it up again.
+2. This is the second BB row found questionable for the casual register (*cetanā* was confirmed correct; *pīti* was not). Worth a pass over the BB rows the plan actually uses, rather than catching them one at a time.
+
+## Terms added by days 083–087
+
+| Pāli | English | Where | Note | Status |
+|---|---|---|---|---|
+| saññā | _perception_ | day-083 §1, §5 | Day-083 §5 headword. BB-curated and plan termbase agree; reaffirms the day-078 row. | draft |
+| upekkhā | _equanimity_ | day-084 §1, §5 | Day-084 §5 headword. **BB-curated** "equanimity"; plan row already existed. Reaffirmed. | draft |
+| dassana | _seeing_ | day-085 §1, §5 | Day-085 §5 headword. **BB-curated** "seeing". The *dassanena pahātabba* / *bhāvanāya pahātabba* pair (v.78). | draft |
+| saṅkhāra | _formations_ | day-086 §1, §5; day-087 §1 | Day-086 §5 headword. BB row is `<TODO>`; both translations say "formations". Reviewer to fill the BB row. | candidate |
+| cittasampayutta | _associated with mind_ | day-086 §1, §5 | Translation wording (v.92). Why the formations heap is named by mind, not by contact (`vibhanga-atthakatha #^2-141`). | candidate |
+| ācayagāmī / apacayagāmī | _leading to accumulation_ / _leading to dispersal_ | day-087 §1, §5 | Day-087 §5 headword. No row in either termbase; translation wording (v.109). Reviewer to confirm. | candidate |
+| dukamūlaka | _the dyad-rooted section_ | day-086 §1 | Structural marker closing the first of the four *mahāvārā* (`vibhanga-atthakatha #^2-121`). | candidate |
+
+**Note on `bhāvanā`.** Day-085 §1 says "developing" / "development" rather than the plan-termbase lock _cultivation_, because §4 quotes the translation's "abandoned by development" in the same breath and the two reading differently within one screen would confuse more than the term drift does. BB gives "meditation, development (of the eightfold path…)", so "development" is within BB's range. Flagged rather than resolved — if the reviewer prefers _cultivation_ throughout, day-085 §1 needs a small edit.
