@@ -205,6 +205,8 @@ Full day-by-day detail lives in the source spreadsheet (`0-INBOX/ITCC_2026_Bodhg
 > 2. **Rails** — `2-RAILS/Sections/pi-2-summaries.md` and `pi-2-practice.md` cover `Khandhavibhaṅgo` only. Each further vibhaṅga needs its entries built from `1-SOURCES/Commentaries/pi-vibhanga-atthakatha.md`.
 > 3. **Book III sources** — days 179–200 need `1-SOURCES/Text/pi-3.md` (Dhātukathā) plus its commentary; neither is in the vault.
 >
+> **Do not substitute `AI_translation/english/pi-2-english-plain-zeroshot.md`.** It does cover the whole of Book II (`^2-0` – `^2-1044`), so it looks like it closes gap 1. It does not. By its own pipeline's definition (`AI_translation/skills/zeroshot-translator.md`) a zeroshot pass uses **no termbase at all** and is "useful for a first draft"; the publication-grade path is `rails-verse-translator`, run one chapter at a time with a review gate. The two passes also disagree on terminology — zeroshot says "aggregate of **material** form" and "**mental** formations" where the rails pass (already published in days 078–082) says "aggregate of form" and "formations" — so days built on it would shift vocabulary mid-journey. Decision, 2026-07-31: **wait for the rails pass on each chapter.** The termbase for chapters 2–18 now exists, so that pass is unblocked.
+>
 > Materials for these are not ready yet. See `../../Translations/en-Contemporary-English-Abhidhamma/requirements.md` §4.1 for the full coverage table.
 
 ### Plan 7 — Days 95–97 · Analysis of the Sense Bases (16–18 Aug)

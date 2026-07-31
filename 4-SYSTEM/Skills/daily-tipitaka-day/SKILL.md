@@ -230,7 +230,16 @@ The plan crosses book boundaries (Book I ends at day-077; Book II runs 078–178
 | Commentary | `1-SOURCES/Commentaries/pi-<book>-atthakatha.md` (also `-mulatiika`, `-anutiika`) | **Hard stop for rail-building.** The rails are grounded in commentary; without it, do not write rail prose. |
 | Summaries rail | `2-RAILS/Sections/pi-<book>-summaries.md` | Buildable. Grounded in the aṭṭhakathā layer. |
 | Practice rail | `2-RAILS/Sections/pi-<book>-practice.md` | Buildable — use the `practice-summaries` skill, which owns the format (Pāli prose weaving the three pillars, TOC block with `^toc-N` anchors, `[[#^toc-N\|↑↑↑]]` backlink under each heading, commentary back-citations beneath each entry). |
-| Translation | the language's single track, one file per book (see Rule 15) | Not a hard stop — Rule 11 allows a one-line gloss fallback — but say so plainly in the run report, because a whole plan cannot ship on glosses. |
+| Translation | the language's single track, one file per book (see Rule 15) | Not a hard stop — Rule 11 allows a one-line gloss fallback — but say so plainly in the run report, because a whole plan cannot ship on glosses. **Do not substitute draft-grade material to close the gap** — see below. |
+
+**Never substitute draft-grade material for a missing asset.** A vault under active development accumulates intermediates that *look* like the thing you need: zeroshot or first-pass translations, scaffolded termbases, partial rails, audience profiles someone stubbed out. Reaching for one to unblock a batch is the wrong trade. A missing day is recoverable — someone builds it next week. A published day drafted from draft-grade material has to be found and redone, and if the draft used different terminology, it breaks voice for every reader who reaches that point in the journey.
+
+Two tells that material is not ready:
+
+- **The pipeline says so.** Check the producing skill's own description. A path documented as "no termbase", "first draft", "quick or exploratory", "fast path" is not the deliverable, however complete its coverage looks. Coverage is not grade.
+- **It disagrees with what is already published.** Spot-check two or three recurring terms against the day files already shipped. If a candidate source says "aggregate of material form" where published days say "aggregate of form", adopting it changes vocabulary mid-journey.
+
+When you find only draft-grade material, halt the batch and report precisely: which asset is missing, what draft exists, why it does not qualify, and what would have to be produced. That report is more useful than a day file that has to be withdrawn.
 
 Two things to check when a rail already exists but is new to you:
 

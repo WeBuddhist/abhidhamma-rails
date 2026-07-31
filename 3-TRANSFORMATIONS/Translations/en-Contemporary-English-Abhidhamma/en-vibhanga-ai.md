@@ -14,30 +14,55 @@ chapter: Khandhavibhaṅga (Analysis of the Aggregates)
 requirements: 3-TRANSFORMATIONS/Translations/en-Contemporary-English-Abhidhamma/requirements.md
 termbase: 3-TRANSFORMATIONS/Translations/en-Contemporary-English-Abhidhamma/termbase.md
 audience_profile: 3-TRANSFORMATIONS/Translations/en-Contemporary-English-Abhidhamma/audience.md
+drafted_against_termbase: AI_translation/english/pi-2-english-termbase-plain.md
+drafted_against_audience: AI_translation/audience_profile/plain.md
+drafted_from_source_split: AI_translation/pi-2_split_chapters/1-khandhavibhango.md
 status: draft
 translator: AI (CSCD-aligned, tipitaka.org Mūla edition)
 translation_basis: Segment-aligned AI translation of the Pāli Vibhaṅga (tipitaka.org Mūla / CSCD)
 provenance_note: >
-  Arrived as AI_translation/english/khandhavibhango-english-plain.md, outside the
-  Translations tree, with frontmatter citing three files that were never in the
-  vault (pali-english-termbase-plain.md, audience_profile/plain.md,
-  pi-2_split_chapters/1-khandhavibhango.md). Its "plain audience" label was
-  briefly taken to imply a separate track; on comparison, this track's
-  requirements.md already mandates the same 7th–8th grade reading level and
-  12–20 word sentences, so there was no distinction to preserve. Filed here as
-  the Book II counterpart to en-dhammasangani-ai.md. Governing files are now
-  this track's requirements.md, termbase.md, and audience.md.
+  Produced by the `AI_translation/` pipeline (see its `skills/` and `scripts/`)
+  and originally written to AI_translation/english/khandhavibhango-english-plain.md.
+  Relocated here on 2026-07-30 and renamed as the Book II counterpart to
+  en-dhammasangani-ai.md.
+
+  CORRECTION (2026-07-31): an earlier version of this note claimed the three
+  files its original frontmatter cited "were never in the vault". That was
+  wrong. All three exist — added in commit fe5eaea, 2026-07-30 — and are now
+  recorded in the `drafted_against_*` keys above. They were simply absent from
+  the working copy at the moment the relocation was done, and their absence was
+  reported as fact rather than as a stale checkout. The pipeline's own audience
+  profile is real ("readers with little or no Buddhist background"; clear,
+  modern, natural language).
+
+  OPEN QUESTION — whether this file belongs in this track at all. The relocation
+  reasoning was that a "plain audience" label implied nothing this track's
+  requirements.md does not already mandate (7th–8th grade reading level, 12–20
+  word sentences). That may still hold, but it was decided without the pipeline's
+  audience profile in hand, and the move means `AI_translation/english/` no
+  longer contains the file its own pipeline wrote there. The pipeline owner
+  should confirm the relocation, or move it back and have the Daily Tipitaka plan
+  read it in place.
 known_issues: >
   (1) Dropped copulas in the threefold-list segments — "feeling that wholesome",
   "feeling that a result" should read "feeling that IS wholesome / IS a result".
   Affects ^2-40, ^2-41, ^2-57 and neighbouring threefold blocks. Daily Tipitaka
   days 081–082 quote these verbatim in §4, so the error is user-visible.
-  (2) Three renderings diverge from this track's BB-curated termbase, because
-  the file was drafted against a termbase that was never committed:
-  hetu = "root-cause" (BB: "root"); samāpatti = "absorption" (BB: "(meditative)
-  attainment"); vitakka/vicāra = "applied/sustained thought" (BB:
-  "initial/sustained application"). Reviewer to either revise the translation to
-  BB or record a deliberate override.
+
+  (2) Four renderings in the text diverge from the plain termbase it was drafted
+  against (`drafted_against_termbase` above). In each case the termbase entry
+  also matches this track's BB-curated termbase, so the running text is the
+  outlier on all four:
+    hetu — text "root-cause" (64×); termbase "root"; BB "root"
+    samāpatti — text "absorption" (17×); termbase "attainment"; BB "(meditative) attainment"
+    vitakka / vicāra — text "applied and sustained thought" (11×);
+      termbase "thought" / "examination"; BB "initial / sustained application"
+    cetanā — text "volition" (16×); termbase "intention"; BB "volition"
+  The *cetanā* row is the one to settle first: the pipeline termbase says
+  "intention" while the text and BB both say "volition", and Daily Tipitaka
+  day-079 §5 publishes "volition" as its headword. Reviewer to revise the text to
+  the termbase or record a deliberate override — and note that an earlier version
+  of this list cited BB as the sole yardstick and omitted *cetanā* entirely.
 translation_approach: >
   Fresh rails-style translation composed segment by segment directly from the
   Pali source, using a locked termbase as a fixed terminology reference. Not

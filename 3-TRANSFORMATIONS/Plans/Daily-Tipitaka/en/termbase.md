@@ -270,7 +270,7 @@ Alphabetical by Pāli lemma. New rows are appended by the `daily-tipitaka-day` s
 
 ## Known §1/§5 ↔ §4 wording divergences (Book II)
 
-`en-vibhanga-ai.md` was drafted against a termbase that was never committed, and three of its renderings differ both from the BB-curated track termbase and from rows locked above. **§1/§5 keep the locked rendering; §4 stays verbatim from the translation.** Both sides are individually correct, so these are not day-file bugs — but they are reader-visible, and the clean fix is to revise the *translation* rather than bend §1 away from a locked term.
+`en-vibhanga-ai.md` was drafted against `AI_translation/english/pi-2-english-termbase-plain.md`, and several of its renderings differ from that termbase, from the BB-curated track termbase, and from rows locked above. **§1/§5 keep the locked rendering; §4 stays verbatim from the translation.** Both sides are individually correct, so these are not day-file bugs — but they are reader-visible, and the clean fix is to revise the *translation* rather than bend §1 away from a locked term.
 
 | Pāli | Locked here (used in §1/§5) | `en-vibhanga-ai.md` (appears in §4) | Seen in |
 |---|---|---|---|
@@ -278,5 +278,17 @@ Alphabetical by Pāli lemma. New rows are appended by the `daily-tipitaka-day` s
 | vitakka / vicāra | _thinking_ / _holding the thought_ (day-013) | "applied and sustained thought" | day-082 §1 vs §4 |
 | sekha / asekha | _learner_ / _adept_ (day-071) | "one still in training" / "one beyond training" | day-082 §1 vs §4 |
 | samāpatti | — (not yet locked) | "absorption" | day-079 §4 |
+| cetanā | _volition_ (day-079) | "volition" — **agrees**; but the pipeline termbase says _intention_ | day-079 §1, §5 |
 
-Tracked in the translation's `known_issues` frontmatter. A reviewer should either revise the translation to BB or record a deliberate override; until then, do not change §1/§5 to match §4.
+Tracked in the translation's `known_issues` frontmatter. A reviewer should either revise the translation or record a deliberate override; until then, do not change §1/§5 to match §4.
+
+**Correction (2026-07-31) — the yardstick was wrong.** This table was first written against the BB-curated track termbase, on the belief that the termbase `en-vibhanga-ai.md` was actually drafted against had never been committed. It had been: `AI_translation/english/pi-2-english-termbase-plain.md` (commit fe5eaea). Checked against it, the picture is simpler than stated above — the running text is the outlier in every case, because the pipeline termbase agrees with BB on all four:
+
+| Pāli | pipeline termbase | BB curated | text in `en-vibhanga-ai.md` |
+|---|---|---|---|
+| hetu | root | root | "root-cause" (64×) |
+| samāpatti | attainment | (meditative) attainment | "absorption" (17×) |
+| vitakka / vicāra | thought / examination | initial / sustained application | "applied and sustained thought" (11×) |
+| cetanā | **intention** | volition | "volition" (16×) |
+
+*cetanā* is the live disagreement: the pipeline termbase says _intention_, while the text, BB, and day-079 §5's published headword all say _volition_. Day-079 was drafted as "intention", then changed to "volition" on BB's authority without knowing the pipeline termbase existed. If the reviewer settles on _intention_, day-079 §1/§5 and the row above both need revising.
