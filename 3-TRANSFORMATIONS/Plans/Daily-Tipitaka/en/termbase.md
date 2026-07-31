@@ -344,12 +344,14 @@ Two follow-ups for the human contributor, since neither is the skill's to do:
 | pañhāpucchaka | _the question method_ | day-092 §1, §5 | Day-092 §5 headword. The chapter's third turning. `vibhanga-atthakatha #^2-143`. | candidate |
 | ārammaṇa | _object_ | day-093 §1, §5 | Day-093 §5 headword. **BB-curated** "object". Form is *anārammaṇa* (without object); the four mental heaps always have one. | draft |
 
-## Translation error found — `^2-120` (2026-07-31)
+## Translation error at `^2-120` — FIXED (2026-07-31)
 
-`en-vibhanga-ai.md` renders v120's opening as **"A formation is associated with contact."** The Pāli reads `Ekavidhena saṅkhārakkhandho – cittasampayutto` — *associated with **mind***, not contact. This is not a terminology preference; it reverses the point the commentary makes at `^2-141`, that the formations heap is named by mind precisely *because* contact sits inside it (see day-086 §5).
+`en-vibhanga-ai.md` rendered v120's opening as **"A formation is associated with contact."** The Pāli reads `Ekavidhena saṅkhārakkhandho – cittasampayutto` — *associated with **mind***, not contact. This is not a terminology preference; it reverses the point the commentary makes at `^2-141`, that the formations heap is named by mind precisely *because* contact sits inside it (see day-086 §5).
 
 Day-088 §4 quotes the line verbatim, so the error is user-visible. Two consequences:
 - the singular "A formation" is also inconsistent with every neighbouring verse ("Formations is/are…"), which itself wobbles between *is* and *are*;
 - once the translation is corrected, day-088's §4 last entry needs regenerating.
 
-Added to the translation's `known_issues`. Not fixed here — §4 must stay verbatim (Rule 16), and the translation is the reviewer's to change.
+**Fixed.** With Evan's go-ahead the line was corrected in `en-vibhanga-ai.md` to "Formations are associated with mind.", and day-088 §4 was regenerated to match. A sweep of `^2-1` – `^2-153` confirmed this was the only citta-/phassa- confusion in the file.
+
+Still open, same class at larger scale: 24 verses read "Formations is associated…" (not English), and the dropped copulas in the threefold lists ("perception that wholesome"). Both are systematic rewrites of a collaborator's translation, so they wait on the pipeline owner rather than being patched here.

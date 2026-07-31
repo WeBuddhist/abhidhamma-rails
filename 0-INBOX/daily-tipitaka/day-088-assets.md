@@ -139,7 +139,7 @@ As three categories: there is formations that having a past object; formations t
 As two categories: there is formations that dissociated from fetters yet still capable of being fettered, and formations that dissociated from fetters and not capable of being fettered.
 As three categories: there is formations that internal; formations that external; and formations that both internal and external. Thus, as ten categories, this is the aggregate of formations. ^2-119
 
-120. As a single category: A formation is associated with contact.
+120. As a single category: Formations are associated with mind.
 As two categories: there is a formation that is a tie, and a formation that is not a tie.
 As three categories: there is a formation with an internal object, a formation with an external object, and a formation with both an internal and an external object. Thus, as ten categories, this is the aggregate of formations.
 (This covers both directions of expansion.)
