@@ -355,3 +355,17 @@ Day-088 §4 quotes the line verbatim, so the error is user-visible. Two conseque
 **Fixed.** With Evan's go-ahead the line was corrected in `en-vibhanga-ai.md` to "Formations are associated with mind.", and day-088 §4 was regenerated to match. A sweep of `^2-1` – `^2-153` confirmed this was the only citta-/phassa- confusion in the file.
 
 Still open, same class at larger scale: 24 verses read "Formations is associated…" (not English), and the dropped copulas in the threefold lists ("perception that wholesome"). Both are systematic rewrites of a collaborator's translation, so they wait on the pipeline owner rather than being patched here.
+| āyatana | _base_ | day-094 §1, §5; day-095 §1 | Day-094 §5 headword. **BB-curated** "base" in the translation track termbase — never "sense base". Twelve: six inner doors + the six objects they meet. | draft |
+| anicca | _impermanent_ | day-094 §1, §5 | Adjectival partner to the day-046 row *aniccatā* → "impermanence". Translation v.154 renders the formula "impermanent, suffering, not-self, and subject to change". | draft |
+| anattā | _not-self_ | day-094 §1 | Translation v.154 wording. Not in the track termbase; taken from the published §4 rendering per the term-lock lookup order. | candidate |
+| vipariṇāmadhamma | _subject to change_ | day-094 §1 | Translation v.154 wording, fourth item of the formula. | candidate |
+| dhammāyatana | _the mind-object base_ | day-095 §1, §5 | Track termbase row is `<TODO>`; rendering taken from the published §4 translation of vv. 154–171. Widest of the twelve — subtle matter, mental factors, and the unconstructed element. | candidate |
+| manāyatana | _the mind base_ | day-095 §1, §5 | Track termbase row is `<TODO>`; rendering taken from the published §4 translation of vv. 154–171. | candidate |
+| asaṅkhatā dhātu | _the unconstructed element_ | day-095 §1 | Track termbase has `asaṅkhata` as `<TODO>` and explicitly defers to a reviewer. Rendering taken from the published §4 translation of v. 167. The commentary reads it as a name for *nibbāna*. | candidate |
+| nibbāna | _nibbāna_ (left untranslated) | day-095 §1 | Not in either termbase. Left in Pāli in §1 rather than glossed, since the commentary treats *rāgakkhaya/dosakkhaya/mohakkhaya* as three names for it and any single English gloss would pick a side. | candidate |
+
+### Added 2026-08-05 (days 094–095, Āyatanavibhaṅgo)
+
+Eight rows above. Four are `candidate` because the translation-track termbase carries `<TODO>` for them (`asaṅkhata`, `manāyatana`, `dhammāyatana`) or no row at all (`anattā`, `vipariṇāmadhamma`, `nibbāna`), so the rendering was taken from the published §4 translation rather than from a curated source — step 3 of the term-lock lookup. A reviewer should confirm these before they harden.
+
+`dukkha` and `abyākata` were already locked and were used verbatim: day-094 §1 originally read "painful (*dukkha*)" and was corrected to the locked "suffering". `āyatana` and `anicca` trace to curated sources and are `draft`.
