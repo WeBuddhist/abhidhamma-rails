@@ -210,6 +210,14 @@ Full day-by-day detail lives in the source spreadsheet (`0-INBOX/ITCC_2026_Bodhg
 >
 > See `../../Translations/en-Contemporary-English-Abhidhamma/requirements.md` §4.1 for the full coverage table.
 
+> 🔁 **Override, 2026-08-05 — days 096–103 built on the zeroshot pass.** On Evan's direction, days 096–103 (`^2-172` – `^2-218`, Dhātuvibhaṅgo + Saccavibhaṅgo) were drafted with §4 sourced from `AI_translation/english/pi-2-english-plain-zeroshot.md`, overriding the 2026-07-31 decision above. Each day file records this in its `translation_source` / `translation_source_note` frontmatter.
+>
+> **Scope of the vocabulary risk, measured.** Across the full range vv. 172–218 the zeroshot text contains 8 occurrences of "mental formations" and 1 of "aggregate of material form". But §4 prints only the **first and last verse** of each day's range — 15 verses across the 8 days — and only **two** of those carry a conflicting term (vv. 182 and 184, both "mental formations"). Both were normalised in day-097 §4 to the locked day-079 rendering "formations". The remaining 13 boundary verses were conflict-free against the plan termbase.
+>
+> **What still needs doing when the rails pass reaches this range:** regenerate §4 in days 096–103 from `en-vibhanga-ai.md`, and reconcile the nine `candidate` termbase rows added 2026-08-05 — especially *nirodha* → _ending_, where the conventional rendering is _cessation_ and the zeroshot wording was inherited rather than chosen.
+>
+> Days 104+ remain blocked: rails stop at day-103.
+
 ### Plan 7 — Days 94–95 · Analysis of the Sense Bases (15–16 Aug)
 
 | Day | Date | Section | Verses |

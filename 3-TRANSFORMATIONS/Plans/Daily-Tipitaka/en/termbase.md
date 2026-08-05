@@ -369,3 +369,23 @@ Still open, same class at larger scale: 24 verses read "Formations is associated
 Eight rows above. Four are `candidate` because the translation-track termbase carries `<TODO>` for them (`asaṅkhata`, `manāyatana`, `dhammāyatana`) or no row at all (`anattā`, `vipariṇāmadhamma`, `nibbāna`), so the rendering was taken from the published §4 translation rather than from a curated source — step 3 of the term-lock lookup. A reviewer should confirm these before they harden.
 
 `dukkha` and `abyākata` were already locked and were used verbatim: day-094 §1 originally read "painful (*dukkha*)" and was corrected to the locked "suffering". `āyatana` and `anicca` trace to curated sources and are `draft`.
+
+### Added 2026-08-05 (days 096–103, Dhātuvibhaṅgo + Saccavibhaṅgo)
+
+| Pāli | English (Contemporary) | Used in | Bilingual Glossary / Sense | Status |
+|---|---|---|---|---|
+| ariyasacca | _noble truth_ | day-100 §1, §5 | Day-100 §5 headword. Zeroshot §4 v. 189 "noble truth". Commentary: noble because the *ariyā* penetrate them, true because *tacchāviparītabhūta* (`vibhanga-atthakatha #^2-275`). | candidate |
+| assāda | _relishing_ | day-103 §1, §5 | Day-103 §5 headword. Not in either termbase; taken from the practice rail's *assādanavasena … samudayapakkhaṃ bhajati* (`pi-2-practice.md`, Pañhāpucchakaṃ (Sacca)). | candidate |
+| avihiṃsā | _harmlessness_ | day-096 §1 | Zeroshot §4 v. 181. Practice rail glosses it as a name for *karuṇā* (locked day-017 = _compassion_). | candidate |
+| dhātu | _element_ | day-096 §1, §5; day-097 §1; day-098 §1; day-099 §1 | Day-096 §5 headword. Zeroshot §4 vv. 172–188 throughout. Commentary gloss *nijjīvamattassetaṃ adhivacanaṃ* — a word for what has no life in it (`vibhanga-atthakatha #^2-253`). | candidate |
+| nekkhamma | _renunciation_ | day-096 §1 | Zeroshot §4 v. 181. Practice rail: *nekkhammaṃ sabbassāpi kusalassa* — a name for all that is wholesome. | candidate |
+| nirodha | _ending_ | day-101 §1, §5; day-103 §1 | Day-101 §5 headword. Zeroshot §4 v. 204 renders *dukkhanirodha* "the ending of suffering". **Note for reviewer:** the conventional rendering is _cessation_; "ending" is inherited from the zeroshot pass and should be reconciled when the rails pass covers `^2-172`+. | candidate |
+| samudaya | _origin_ | day-100 §1; day-102 §1, §5; day-103 §1 | Day-102 §5 headword. Zeroshot §4 vv. 203, 206–212 "the origin of suffering". | candidate |
+| taṇhā | _craving_ | day-100 §1; day-101 §1, §5; day-102 §1 | Zeroshot §4 vv. 203–204 "craving". Three kinds: *kāma-*, *bhava-*, *vibhava-taṇhā*. | candidate |
+| vitakka | _thought_ | day-097 §1, §5 | Day-097 §5 headword. Zeroshot §4 v. 182 "thought" in the *takko vitakko saṅkappo* string. Distinct from the jhāna-factor sense (applied thought) used in Book I. | candidate |
+
+**Nine rows above, all `candidate`.** Every one was taken from the **zeroshot** §4 rendering (`AI_translation/english/pi-2-english-plain-zeroshot.md`) rather than from a curated source, because the rails pass (`en-vibhanga-ai.md`) stops at `^2-171` and neither termbase carries these terms. Per the zeroshot pipeline's own description it uses no termbase at all, so these renderings carry less authority than a normal step-3 lookup. **A reviewer should confirm all nine before they harden** — `nirodha` most of all.
+
+**Locked rows used verbatim, unchanged:** *vedanā* → feeling (day-081), *hetu* → root / root-cause (day-057, day-081), *kilesa* → defilement (day-064), *byāpāda* → ill will (day-025), *abyākata* → indeterminate (day-026), *kusala* → wholesome, *ārammaṇa* → object (day-093), *mettā* → loving-kindness and *karuṇā* → compassion (day-017), *dukkha* → suffering (day-025), *nibbāna* → left untranslated (day-095), *magga* → path (day-019), *āyatana* → base (day-094).
+
+**One normalisation applied:** zeroshot renders *saṅkhārakkhandha* as "mental formations" in vv. 182 and 184, against the locked day-079 rendering "formations". Both occurrences were corrected in day-097 §4. The other 13 boundary verses in this batch were free of conflicts with locked rows.
