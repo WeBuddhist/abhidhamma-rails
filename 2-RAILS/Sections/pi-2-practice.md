@@ -38,6 +38,9 @@ status: draft
         - [[#Maggasaccaṃ]] ^toc-4-1-4
     - [[#Abhidhammabhājanīyaṃ (Sacca)]] ^toc-4-2
     - [[#Pañhāpucchakaṃ (Sacca)]] ^toc-4-3
+- [[#Indriyavibhaṅgo]] ^toc-5
+    - [[#Abhidhammabhājanīyaṃ (Indriya)]] ^toc-5-1
+    - [[#Pañhāpucchakaṃ (Indriya)]] ^toc-5-2
 
 ## Khandhavibhaṅgo
 
@@ -324,3 +327,33 @@ Pañhāpucchake catunnampi saccānaṃ khandhavibhaṅge vuttanayānusāreneva k
 
 [[1-SOURCES/Commentaries/pi-vibhanga-atthakatha.md#^2-437]]
 [[1-SOURCES/Commentaries/pi-vibhanga-atthakatha.md#^2-438]]
+
+## Indriyavibhaṅgo
+
+[[#^toc-5|↑↑↑]]
+
+Indriyavibhaṅge bāvīsati indriyāni anūnāni anadhikāni desitāni. "Indaṭṭhaṃ kāretī"ti indriyaṃ — cakkhudvāre cakkhundriyaṃ, vijānanalakkhaṇe manindriyaṃ, anupālanalakkhaṇe jīvitindriyaṃ, adhimokkhalakkhaṇe saddhindriyaṃ, paggahalakkhaṇe vīriyindriyaṃ, upaṭṭhānalakkhaṇe satindriyaṃ, avikkhepalakkhaṇe samādhindriyaṃ, dassanalakkhaṇe paññindriyanti. Ādhipaccasaṅkhātena issariyaṭṭhenāpi etāni indriyāni; cakkhādīsu hi tikkhesu tikkhattā, mandesu mandattā, cakkhuviññāṇādidhammā attano ākāraṃ anuvattanti. Yathā ca indo attano vijite issariyaṃ kāreti, evaṃ ekamekaṃ indriyaṃ attano visaye. Tasmā yoginā "asāminikāni me indriyānī"ti maññanaṃ indriyesu asaṃvutabhāvañca pahāya, indriyasaṃvaraṃ saddhāvīriyasatisamādhipaññindriyānañca bhāvanaṃ upasampādetvā, "saṃvegabahulo bhikkhu, ṭhito indriyasaṃvare; indriyāni pariññāya, dukkhassantaṃ nigacchatī"ti vuttanayena cittaṃ pariyodāpetabbaṃ.
+
+[[1-SOURCES/Commentaries/pi-vibhanga-atthakatha.md#^2-441]]
+[[1-SOURCES/Commentaries/pi-vibhanga-atthakatha.md#^2-445]]
+[[1-SOURCES/Commentaries/pi-vibhanga-atthakatha.md#^2-451]]
+
+### Abhidhammabhājanīyaṃ (Indriya)
+
+[[#^toc-5-1|↑↑↑]]
+
+Abhidhammabhājanīye ekamekassa indriyassa kiccaṃ dassitaṃ. Cakkhundriyādīnaṃ tāva attano tikkhamandādibhāvena cakkhuviññāṇādidhammānaṃ attākārānuvattāpanaṃ kiccaṃ; manindriyassa sahajātadhammānaṃ attano vasavattāpanaṃ; jīvitindriyassa sahajātadhammānupālanaṃ; sukhadukkhasomanassadomanassindriyānaṃ sahajātadhamme abhibhavitvā yathāsakaṃ oḷārikākārānupāpanaṃ; upekkhindriyassa santapaṇītamajjhattākārānupāpanaṃ; saddhādīnaṃ paṭipakkhābhibhavanaṃ sampayuttadhammānañca pasannākārādibhāvasampāpanaṃ; anaññātaññassāmītindriyassa saṃyojanattayappahānaṃ; aññindriyassa kāmarāgabyāpādādītanukaraṇapahānaṃ; aññātāvindriyassa sabbakiccesu ussukkappahānanti. Desanākkamopi paṭipattiṃ dasseti — attabhāvapariyāpannehi cakkhādīhi ārabhitvā, "yaṃ kiñci vedayitaṃ sabbaṃ taṃ sukhadukkha"nti ñāpetvā, taṃnirodhatthaṃ bhāvetabbāti saddhādīni desitāni, ante ca paramassāsabhūtaṃ aññātāvindriyaṃ. Tasmā yoginā sukhadukkhasomanassadomanassindriyānaṃ oḷārikākārena vasavattitaṃ pahāya, saddhāvīriyasatisamādhipaññindriyānaṃ paṭipakkhābhibhavanakiccaṃ upasampādetvā, "imāya paṭipattiyā esa dhammo paṭhamaṃ attani pātubhavatī"ti passanto cittaṃ pariyodāpetabbaṃ.
+
+[[1-SOURCES/Commentaries/pi-vibhanga-atthakatha.md#^2-447]]
+[[1-SOURCES/Commentaries/pi-vibhanga-atthakatha.md#^2-449]]
+[[1-SOURCES/Commentaries/pi-vibhanga-atthakatha.md#^2-450]]
+
+### Pañhāpucchakaṃ (Indriya)
+
+[[#^toc-5-2|↑↑↑]]
+
+Pañhāpucchake bāvīsatindriyānaṃ kusalākusalābyākatabhāvo ārammaṇādivibhāgo ca pāḷinayānusārena veditabbo. Tattha satta rūpindriyāni anārammaṇāni; sukhadukkhadvayaṃ ekantaparittārammaṇaṃ; domanassindriyaṃ kāmāvacaradhamme ārabbha parittārammaṇaṃ, mahaggate ārabbha mahaggatārammaṇaṃ, paññattiṃ ārabbha navattabbārammaṇaṃ; tīṇi lokuttarindriyāni bahiddhārammaṇāni. Bhūmito ca dasindriyāni kāmāvacarāni, tīṇi lokuttarāni, nava pana lokiyalokuttaramissakāni — manindriyajīvitindriyasomanassindriyaupekkhindriyāni ceva saddhāvīriyasatisamādhipaññindriyapañcakañca. Tasmā yoginā "aññāni me lokiyakāle indriyāni, aññāni lokuttarakāle"ti vikappaṃ pahāya, tesuyeva navasu missakindriyesu — visesato saddhādipañcake — nirantarabhāvanaṃ upasampādetvā, "yeheva ajja appamatto kusalaṃ upasampādemi, teheva parato dukkhassantaṃ nigacchāmī"ti sallakkhento cittaṃ pariyodāpetabbaṃ.
+
+[[1-SOURCES/Commentaries/pi-vibhanga-atthakatha.md#^2-455]]
+[[1-SOURCES/Commentaries/pi-vibhanga-atthakatha.md#^2-457]]
+[[1-SOURCES/Commentaries/pi-vibhanga-atthakatha.md#^2-458]]

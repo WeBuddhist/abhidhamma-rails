@@ -37,6 +37,9 @@ status: draft
         - [[#Maggasaccaṃ]] ^toc-4-1-4
     - [[#Abhidhammabhājanīyaṃ (Sacca)]] ^toc-4-2
     - [[#Pañhāpucchakaṃ (Sacca)]] ^toc-4-3
+- [[#Indriyavibhaṅgo]] ^toc-5
+    - [[#Abhidhammabhājanīyaṃ (Indriya)]] ^toc-5-1
+    - [[#Pañhāpucchakaṃ (Indriya)]] ^toc-5-2
 
 ## Khandhavibhaṅgo
 
@@ -310,3 +313,33 @@ Pañhāpucchake catunnampi saccānaṃ khandhavibhaṅge vuttanayānusāreneva k
 
 [[1-SOURCES/Commentaries/pi-vibhanga-atthakatha#^2-437]]
 [[1-SOURCES/Commentaries/pi-vibhanga-atthakatha#^2-438]]
+
+## Indriyavibhaṅgo
+
+[[#^toc-5|↑↑↑]]
+
+Saccavibhaṅgassa anantaro pañcamo indriyavibhaṅgo. Tattha bāvīsatīti gaṇanaparicchedo, indriyānīti paricchinnadhammanidassanaṃ. Cakkhudvāre indaṭṭhaṃ kāretīti cakkhundriyaṃ; eteneva nayena sotaghānajivhākāyadvāresu tāni cattāri, vijānanalakkhaṇe manindriyaṃ, itthipurisabhāvesu itthindriyaṃ purisindriyañca, anupālanalakkhaṇe jīvitindriyaṃ, sukhadukkhasomanassadomanassupekkhālakkhaṇesu pañca vedanindriyāni, adhimokkhapaggahupaṭṭhānāvikkhepadassanalakkhaṇesu saddhāvīriyasatisamādhipaññindriyāni, avasāne ca tīṇi lokuttarindriyānīti veditabbāni. Idha suttantabhājanīyaṃ nāma na gahitaṃ; kasmā? Suttante imāya paṭipāṭiyā bāvīsatiyā indriyānaṃ anāgatattā — suttantasmiñhi katthaci dve indriyāni kathitāni, katthaci tīṇi, katthaci pañca, evaṃ pana nirantaraṃ dvāvīsati āgatāni nāma natthi. Ko panesa indriyaṭṭho nāma? Indaliṅgaṭṭho indadesitaṭṭho indadiṭṭhaṭṭho indasiṭṭhaṭṭho indajuṭṭhaṭṭhoti so sabbopi idha yathāyogaṃ yujjati; bhagavā hi sammāsambuddho paramissariyabhāvato indo, kammasañjanitāni ca indriyāni kusalākusalakammaṃ ulliṅgenti. Apica ādhipaccasaṅkhātena issariyaṭṭhenāpi etāni indriyāni — cakkhuviññāṇādippavattiyañhi cakkhādīnaṃ siddhamādhipaccaṃ, tasmiṃ tikkhe tikkhattā mande ca mandattāti. Atthato lakkhaṇādīhi kamato bhedābhedā kiccā bhūmito cāti chahākārehi cettha vinicchayo veditabbo.
+
+[[1-SOURCES/Commentaries/pi-vibhanga-atthakatha#^2-441]]
+[[1-SOURCES/Commentaries/pi-vibhanga-atthakatha#^2-442]]
+[[1-SOURCES/Commentaries/pi-vibhanga-atthakatha#^2-445]]
+
+### Abhidhammabhājanīyaṃ (Indriya)
+
+[[#^toc-5-1|↑↑↑]]
+
+Abhidhammabhājanīye paṭhamaṃ bāvīsati indriyāni uddisitvā "tattha katamaṃ cakkhundriya"nti niddesavāro āraddho. Tattha "yaṃ cakkhu catunnaṃ mahābhūtānaṃ upādāya pasādo"tiādi sabbaṃ dhammasaṅgaṇiyaṃ padabhājane vuttanayeneva veditabbaṃ. Vīriyindriyasamādhindriyaniddesādīsu ca sammāvāyāmo micchāvāyāmo sammāsamādhi micchāsamādhīti ādīni na vuttāni; kasmā? Sabbasaṅgāhakattā — sabbasaṅgāhakāni hi idha indriyāni kathitāni. Desanākkamo cettha evaṃ veditabbo: ajjhattadhammaṃ pariññāya ariyabhūmipaṭilābho hotīti attabhāvapariyāpannāni cakkhundriyādīni paṭhamaṃ desitāni; yaṃ dhammaṃ upādāya itthīti vā purisoti vā saṅkhaṃ gacchati, tassa nidassanatthaṃ tato itthindriyaṃ purisindriyañca; so duvidhopi jīvitindriyapaṭibaddhavuttīti ñāpanatthaṃ tato jīvitindriyaṃ; yaṃ kiñci vedayitaṃ sabbaṃ taṃ sukhadukkhanti ñāpanatthaṃ tato sukhindriyādīni; taṃnirodhatthaṃ pana ete dhammā bhāvetabbāti paṭipattidassanatthaṃ tato saddhādīni; paṭipattiyā amoghabhāvadassanatthaṃ tato anaññātaññassāmītindriyaṃ, tasseva phalattā tato aññindriyaṃ, ante ca paramassāsabhūtaṃ aññātāvindriyaṃ desitaṃ. Bhedo cettha jīvitindriyasseva — taṃ hi rūpajīvitindriyaṃ arūpajīvitindriyanti duvidhaṃ hoti, sesānaṃ abhedo. Kiccato ca cakkhundriyassa attano tikkhamandādibhāvena cakkhuviññāṇādidhammānaṃ attākārānuvattāpanaṃ kiccaṃ, manindriyassa sahajātadhammānaṃ attano vasavattāpanaṃ, jīvitindriyassa sahajātadhammānupālanaṃ, saddhādīnaṃ paṭipakkhābhibhavanaṃ, aññātāvindriyassa sabbakiccesu ussukkappahānanti. Bhūmito pana dasa indriyāni lokiyāni kāmāvacarāneva, tīṇi lokuttarāni, nava lokiyalokuttaramissakānīti niddesavāre siddhaṃ.
+
+[[1-SOURCES/Commentaries/pi-vibhanga-atthakatha#^2-447]]
+[[1-SOURCES/Commentaries/pi-vibhanga-atthakatha#^2-449]]
+[[1-SOURCES/Commentaries/pi-vibhanga-atthakatha#^2-452]]
+
+### Pañhāpucchakaṃ (Indriya)
+
+[[#^toc-5-2|↑↑↑]]
+
+Pañhāpucchake sabbesampi indriyānaṃ kusalākusalābyākatādivibhāgo pāḷinayānusāreneva veditabbo. Ārammaṇattikesu pana "sattindriyā anārammaṇā"ti cakkhusotaghānajivhākāyaitthipurisindriyāni sandhāya vuttaṃ; jīvitindriyaṃ pana arūpamissakattā idha anābhaṭaṃ. "Dvindriyā"ti sukhadukkhadvayaṃ sandhāya vuttaṃ — taṃ hi ekantaparittārammaṇaṃ. Domanassindriyaṃ kāmāvacaradhamme ārabbha pavattikāle parittārammaṇaṃ hoti, rūpāvacarārūpāvacare ārabbha pavattikāle mahaggatārammaṇaṃ, paññattiṃ ārabbha pavattikāle navattabbārammaṇaṃ. "Navindriyā siyā parittārammaṇā"ti manindriyajīvitindriyasomanassindriyaupekkhindriyāni ceva saddhādipañcakañca sandhāya vuttaṃ. "Cattāri indriyānī"ti sukhadukkhadomanassaaññātāvindriyāni — tāni hi maggārammaṇattike na bhajanti; maggahetukanti ca sahajātahetuṃ sandhāya vuttaṃ, vīriyavīmaṃsājeṭṭhakakāle siyā maggādhipati, chandacittajeṭṭhakakāle siyā navattabbā. "Dasindriyā siyā uppannā, siyā uppādino"ti satta rūpindriyāni tīṇi ca vipākindriyāni sandhāya vuttaṃ; "tīṇindriyāni bahiddhārammaṇānī"ti tīṇi lokuttarindriyāni. Iti imasmimpi pañhāpucchake dasindriyāni kāmāvacarāni, tīṇi lokuttarāni, nava lokiyalokuttaramissakāneva kathitāni; ayampi abhidhammabhājanīyena saddhiṃ ekaparicchedova hoti. Evamayaṃ indriyavibhaṅgo dveparivaṭṭaṃ nīharitvā bhājetvā dassitoti.
+
+[[1-SOURCES/Commentaries/pi-vibhanga-atthakatha#^2-455]]
+[[1-SOURCES/Commentaries/pi-vibhanga-atthakatha#^2-457]]
+[[1-SOURCES/Commentaries/pi-vibhanga-atthakatha#^2-458]]
