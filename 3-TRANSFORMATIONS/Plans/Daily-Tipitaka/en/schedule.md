@@ -200,10 +200,10 @@ Full day-by-day detail lives in the source spreadsheet (`0-INBOX/ITCC_2026_Bodhg
 | day-092 | 13 Aug (Fri) | 1. Khandhavibhaṅgo | 150–152 |
 | day-093 | 14 Aug (Sat) | 1. Khandhavibhaṅgo | 153     |
 
-> ⚠️ **Content pipeline currently reaches day-095.** Days 001–095 can be built; **day-096 onward is still blocked on translation.** Status as of 2026-08-05:
+> ⚠️ **Status as of 2026-08-05 — the translation gate here has since been lifted; see the 🔁 and 🔓 blocks below.** At the time of writing, days 001–095 could be built and day-096 onward was blocked on translation:
 >
 > 1. **Translation** — `en-Contemporary-English-Abhidhamma/en-vibhanga-ai.md` now covers `^2-1` – `^2-171` (Khandhavibhaṅgo + Āyatanavibhaṅgo), i.e. through day-095. Day-096 needs `^2-172` onward from `Dhātuvibhaṅgo`. Per `AI_translation/skills/rails-verse-translator.md` the pass runs **one chapter per turn with a human review gate between chapters**, so Dhātuvibhaṅgo starts only after the Āyatanavibhaṅgo chapter is signed off.
-> 2. **Rails** — ✅ `2-RAILS/Sections/pi-2-summaries.md` and `pi-2-practice.md` now cover `Khandhavibhaṅgo`, `Āyatanavibhaṅgo`, `Dhātuvibhaṅgo` and `Saccavibhaṅgo` (through day-103). Chapters 5–18 still need entries built from `1-SOURCES/Commentaries/pi-vibhanga-atthakatha.md`. Rail prose still needs a native Pāli reviewer before the days built on it are published.
+> 2. **Rails** — ✅ `2-RAILS/Sections/pi-2-summaries.md` and `pi-2-practice.md` cover `Khandhavibhaṅgo`, `Āyatanavibhaṅgo`, `Dhātuvibhaṅgo`, `Saccavibhaṅgo` and `Indriyavibhaṅgo` (through day-105; Indriyavibhaṅgo added 2026-08-24). Chapters 6–18 still need entries built from `1-SOURCES/Commentaries/pi-vibhanga-atthakatha.md`. Rail prose still needs a native Pāli reviewer before the days built on it are published.
 > 3. **Book III sources** — days 174–195 need `1-SOURCES/Text/pi-3.md` (Dhātukathā) plus its commentary; neither is in this working copy.
 >
 > **Do not substitute `AI_translation/english/pi-2-english-plain-zeroshot.md`.** It does cover the whole of Book II (`^2-0` – `^2-1044`), so it looks like it closes gap 1. It does not. By its own pipeline's definition (`AI_translation/skills/zeroshot-translator.md`) a zeroshot pass uses **no termbase at all** and is "useful for a first draft"; the publication-grade path is `rails-verse-translator`, run one chapter at a time with a review gate. The two passes also disagree on terminology — zeroshot says "aggregate of **material** form" and "**mental** formations" where the rails pass (already published in days 078–082) says "aggregate of form" and "formations" — so days built on it would shift vocabulary mid-journey. Decision, 2026-07-31: **wait for the rails pass on each chapter.**
@@ -216,7 +216,17 @@ Full day-by-day detail lives in the source spreadsheet (`0-INBOX/ITCC_2026_Bodhg
 >
 > **What still needs doing when the rails pass reaches this range:** regenerate §4 in days 096–103 from `en-vibhanga-ai.md`, and reconcile the nine `candidate` termbase rows added 2026-08-05 — especially *nirodha* → _ending_, where the conventional rendering is _cessation_ and the zeroshot wording was inherited rather than chosen.
 >
-> Days 104+ remain blocked: rails stop at day-103.
+> Days 104–105 were built the same way on 2026-08-24; see the 🔓 block below.
+
+> 🔓 **Standing rule, 2026-08-24 — translation is no longer the gate. Rails are, and they get built as we go.**
+>
+> On Evan's direction, §4 draws from the one-shot pass (`AI_translation/english/pi-2-english-plain-zeroshot.md`), which covers the whole of Book II (`^2-0` – `^2-1044`). **No day in Book II is blocked on translation any more**, and the 2026-07-31 "wait for the rails pass on each chapter" decision above no longer holds. Regenerating §4 from `en-vibhanga-ai.md` once the curated pass catches up remains desirable, not blocking.
+>
+> **What each new batch does still require:** the day's chapter must have entries in `2-RAILS/Sections/pi-2-summaries.md` and `pi-2-practice.md` before its day files can be drafted. Those entries are built from `1-SOURCES/Commentaries/pi-vibhanga-atthakatha.md` **as each batch comes up** — not stockpiled in advance. A batch whose chapter has no rail entries halts until they are written (`daily-tipitaka-day` SKILL.md Rule 2). Chapter 6 (`Paṭiccasamuppādavibhaṅgo`, days 106–118) is the next one to need building.
+>
+> **Two obligations travel with every batch built this way.** (1) New rail prose needs a native Pāli reviewer before the days resting on it are published — recorded in each day file's `rail_provenance` frontmatter. (2) Where the one-shot wording conflicts with a locked plan-termbase row, the conflict is normalised in §4 and recorded in `termbase.md`; see the note under "Added 2026-08-24" for the open question of whether normalise-or-record should be the standing rule.
+>
+> **Still genuinely blocked:** days 174–195 need `1-SOURCES/Text/pi-3.md` (Dhātukathā) and its commentary. Neither is in this working copy.
 
 ### Plan 7 — Days 94–95 · Analysis of the Sense Bases (15–16 Aug)
 
