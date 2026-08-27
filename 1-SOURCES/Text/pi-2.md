@@ -1305,9 +1305,8 @@ Tattha katamo avijjāpaccayā saṅkhāro? Yā cetanā sañcetanā sañcetayitat
 Tattha katamaṃ saṅkhārapaccayā viññāṇaṃ? Yaṃ cittaṃ mano mānasaṃ…pe… tajjāmanoviññāṇadhātu – idaṃ vuccati "saṅkhārapaccayā viññāṇaṃ".
 Tattha katamaṃ viññāṇapaccayā nāmaṃ? Vedanākkhandho, saññākkhandho, saṅkhārakkhandho – idaṃ vuccati "viññāṇapaccayā nāmaṃ".
 Nāmapaccayā phassoti. Tattha katamaṃ nāmaṃ? Ṭhapetvā phassaṃ, vedanākkhandho saññākkhandho saṅkhārakkhandho viññāṇakkhandho – idaṃ vuccati "nāmaṃ".
-Tattha katamo nāmapaccayā phasso? Yo phasso phusanā samphusanā samphusitattaṃ – ayaṃ vuccati "nāmapaccayā phasso"…pe… tena vuccati "evametassa kevalassa dukkhakkhandhassa samudayo hotī"ti. ^2-251
-
-252. Tasmiṃ samaye avijjāpaccayā saṅkhāro, saṅkhārapaccayā viññāṇaṃ, viññāṇapaccayā nāmarūpaṃ, nāmarūpapaccayā chaṭṭhāyatanaṃ, chaṭṭhāyatanapaccayā phasso, phassapaccayā vedanā, vedanāpaccayā taṇhā, taṇhāpaccayā upādānaṃ, upādānapaccayā bhavo, bhavapaccayā jāti, jātipaccayā jarāmaraṇaṃ. Evametassa kevalassa dukkhakkhandhassa samudayo hoti. ^2-252
+Tattha katamo nāmapaccayā phasso? Yo phasso phusanā samphusanā samphusitattaṃ – ayaṃ vuccati "nāmapaccayā phasso"…pe… tena vuccati "evametassa kevalassa dukkhakkhandhassa samudayo hotī"ti.
+Tasmiṃ samaye avijjāpaccayā saṅkhāro, saṅkhārapaccayā viññāṇaṃ, viññāṇapaccayā nāmarūpaṃ, nāmarūpapaccayā chaṭṭhāyatanaṃ, chaṭṭhāyatanapaccayā phasso, phassapaccayā vedanā, vedanāpaccayā taṇhā, taṇhāpaccayā upādānaṃ, upādānapaccayā bhavo, bhavapaccayā jāti, jātipaccayā jarāmaraṇaṃ. Evametassa kevalassa dukkhakkhandhassa samudayo hoti. ^2-251
 
 Tattha katamā avijjā? Yaṃ aññāṇaṃ adassanaṃ…pe… avijjālaṅgī moho akusalamūlaṃ – ayaṃ vuccati "avijjā".
 Tattha katamo avijjāpaccayā saṅkhāro? Yā cetanā sañcetanā sañcetayitattaṃ – ayaṃ vuccati "avijjāpaccayā saṅkhāro".
@@ -1559,9 +1558,8 @@ Katame dhammā kusalā? Yasmiṃ samaye kāmāvacaraṃ kusalaṃ cittaṃ uppan
 
 Tattha katame kusalamūlā? Alobho, adoso, amoho – ime vuccanti "kusalamūlā".
 Tattha katamo kusalamūlapaccayā saṅkhāro? Yā cetanā sañcetanā sañcetayitattaṃ – ayaṃ vuccati "kusalamūlapaccayā saṅkhāro"…pe… ayaṃ vuccati – "chaṭṭhāyatanapaccayā phasso".
-Tattha katamā phassapaccayā vedanā? Yaṃ cetasikaṃ neva sātaṃ nāsātaṃ cetosamphassajaṃ adukkhamasukhaṃ vedayitaṃ cetosamphassajā adukkhamasukhā vedanā – ayaṃ vuccati "phassapaccayā vedanā"…pe… tena vuccati "evametassa kevalassa dukkhakkhandhassa samudayo hotī"ti. ^2-297
-
-298. Katame dhammā kusalā? Yasmiṃ samaye kāmāvacaraṃ kusalaṃ cittaṃ uppannaṃ hoti upekkhāsahagataṃ ñāṇavippayuttaṃ rūpārammaṇaṃ vā…pe… upekkhāsahagataṃ ñāṇavippayuttaṃ sasaṅkhārena rūpārammaṇaṃ vā saddārammaṇaṃ vā gandhārammaṇaṃ vā rasārammaṇaṃ vā phoṭṭhabbārammaṇaṃ vā dhammārammaṇaṃ vā yaṃ yaṃ vā panārabbha, tasmiṃ samaye kusalamūlapaccayā saṅkhāro, saṅkhārapaccayā viññāṇaṃ, viññāṇapaccayā nāmaṃ, nāmapaccayā chaṭṭhāyatanaṃ, chaṭṭhāyatanapaccayā phasso, phassapaccayā vedanā, vedanāpaccayā pasādo, pasādapaccayā adhimokkho, adhimokkhapaccayā bhavo, bhavapaccayā jāti, jātipaccayā jarāmaraṇaṃ. Evametassa kevalassa dukkhakkhandhassa samudayo hoti. ^2-298
+Tattha katamā phassapaccayā vedanā? Yaṃ cetasikaṃ neva sātaṃ nāsātaṃ cetosamphassajaṃ adukkhamasukhaṃ vedayitaṃ cetosamphassajā adukkhamasukhā vedanā – ayaṃ vuccati "phassapaccayā vedanā"…pe… tena vuccati "evametassa kevalassa dukkhakkhandhassa samudayo hotī"ti.
+Katame dhammā kusalā? Yasmiṃ samaye kāmāvacaraṃ kusalaṃ cittaṃ uppannaṃ hoti upekkhāsahagataṃ ñāṇavippayuttaṃ rūpārammaṇaṃ vā…pe… upekkhāsahagataṃ ñāṇavippayuttaṃ sasaṅkhārena rūpārammaṇaṃ vā saddārammaṇaṃ vā gandhārammaṇaṃ vā rasārammaṇaṃ vā phoṭṭhabbārammaṇaṃ vā dhammārammaṇaṃ vā yaṃ yaṃ vā panārabbha, tasmiṃ samaye kusalamūlapaccayā saṅkhāro, saṅkhārapaccayā viññāṇaṃ, viññāṇapaccayā nāmaṃ, nāmapaccayā chaṭṭhāyatanaṃ, chaṭṭhāyatanapaccayā phasso, phassapaccayā vedanā, vedanāpaccayā pasādo, pasādapaccayā adhimokkho, adhimokkhapaccayā bhavo, bhavapaccayā jāti, jātipaccayā jarāmaraṇaṃ. Evametassa kevalassa dukkhakkhandhassa samudayo hoti. ^2-297
 
 Tattha katame kusalamūlā? Alobho, adoso – ime vuccanti "kusalamūlā".
 Tattha katamo kusalamūlapaccayā saṅkhāro? Yā cetanā sañcetanā sañcetayitattaṃ – ayaṃ vuccati "kusalamūlapaccayā saṅkhāro"…pe… tena vuccati "evametassa kevalassa dukkhakkhandhassa samudayo hotī"ti. ^2-299
