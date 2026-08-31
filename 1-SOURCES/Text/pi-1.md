@@ -8,7 +8,7 @@ verse_id_format: book-verse
 pitaka: abhidhamma
 layer: mula
 license: cc0
-category_id: JD5ULLPAV1cxg7RSb7L3q
+category_id: MZUUxphQ0yFwLBon3Vng8
 source_description: Tipitaka.org Mūla edition export. Mūla > Abhidhammapiṭaka > Dhammasaṅgaṇīpāḷi; 2436 segments in source.
 source_filename: book/abh01m.mul.html
 source: https://tipitaka.org/romn/cscd/abh01m.mul.xml

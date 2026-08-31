@@ -9,7 +9,7 @@ pitaka: abhidhamma
 layer: mula
 copyright: Public domain
 license: cc0
-category_id: JD5ULLPAV1cxg7RSb7L3q
+category_id: MZUUxphQ0yFwLBon3Vng8
 source_description: Tipitaka.org Mūla edition export. Mūla > Abhidhammapiṭaka > Vibhaṅgapāḷi; 3427 segments in source. Text verified paragraph-by-paragraph against the WeBuddhist backend record for this book (pecha_text_id 3HyZUpbWixfrK8H7AuvNJ); the two agree except that the backend hoists three summary gāthās above the prose they close.
 source_filename: book/abh02m.mul.html
 source: "https://tipitaka.org/romn/cscd/abh02m.mul.xml"

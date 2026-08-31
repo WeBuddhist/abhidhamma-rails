@@ -9,7 +9,7 @@ pitaka: abhidhamma
 root_text: 1-SOURCES/Text/pi-1.md
 translator: AI (CSCD-aligned, tipitaka.org Mūla edition)
 translation_basis: Segment-aligned AI translation of the Pāli Dhammasaṅgaṇī (tipitaka.org Mūla / CSCD)
-category_id: JD5ULLPAV1cxg7RSb7L3q
+category_id: MZUUxphQ0yFwLBon3Vng8
 license: public
 source: https://webuddhist.com
 translation_of: BzOXhiRUQM4MOT6affzmO

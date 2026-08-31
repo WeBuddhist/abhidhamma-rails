@@ -8,7 +8,7 @@ audience: Readers with little or no Buddhist background
 translated_by: Claude (Cowork), sequential per-chapter subagents, one chapter at a time with segment-ID and line-count verification after each chapter and across the merged whole
 segment_id_coverage: 1470 segment/heading IDs (^0, ^2-0 through the full ^2-NNN sequence), verified to match the source exactly in set, order, and per-segment line count, both chapter-by-chapter and across the full merged document
 chapters_translated: 18 (Khandhavibhaṅgo through Dhammahadayavibhaṅgo) plus preamble
-category_id: JD5ULLPAV1cxg7RSb7L3q
+category_id: MZUUxphQ0yFwLBon3Vng8
 license: public
 source: https://webuddhist.com
 translation_of: Bkcft6D0nQCPZNb4Kkuf4
