@@ -17,7 +17,7 @@ A root text is the primary source — the original Sanskrit, Tibetan, Pali, or o
 | `file_type`              | Must be `root-text`                                                                                                                                 | `file_type: root-text`                |
 | `title`                  | Title in the source language                                                                                                                        | `title: bodhisattvacaryāvatāra`       |
 | `language` or `lang_tag` | Full language name **or** BCP47 code — at least one required. Both recommended.                                                                     | `language: Sanskrit` / `lang_tag: sa` |
-| `category_id`            | Unique ID for this work in the API                                                                                                                  | `category_id: JD5ULLPAV1cxg7RSb7L3q`  |
+| `category_id`            | Unique ID for this work in the API                                                                                                                  | `category_id: MZUUxphQ0yFwLBon3Vng8`  |
 | `license`                | Copyright status                                                                                                                                    | `license: public`                     |
 | `author`                 | Author name(s), separated by semicolons. Attach a BDRC or OpenPecha ID using `[bdrc:ID]` or `[op:ID]`. Names in parentheses are treated as aliases. | `author: Śāntideva [bdrc:P1583]`      |
 | `source`                 | URL of the source edition used                                                                                                                      | `source: https://webuddhist.com/`     |
@@ -47,7 +47,7 @@ author: Śāntideva
 language: Sanskrit
 lang_tag: sa
 file_type: root-text
-category_id: JD5ULLPAV1cxg7RSb7L3q
+category_id: MZUUxphQ0yFwLBon3Vng8
 bdrc_work_id: WA19740
 source: https://webuddhist.com/
 license: public
@@ -70,7 +70,7 @@ A translation file renders the root text in another language. The root text file
 | `title` | Title in the translation language | `title: ཀུན་དཔལ་སྤྱོད་འཇུག` |
 | `language` | Full language name | `language: Tibetan` |
 | `lang_tag` | BCP47 code for the translation language | `lang_tag: bo` |
-| `category_id` | Copy from the root text | `category_id: JD5ULLPAV1cxg7RSb7L3q` |
+| `category_id` | Copy from the root text | `category_id: MZUUxphQ0yFwLBon3Vng8` |
 | `license` | Copyright status | `license: public` |
 | `translator` | Translator name(s), separated by semicolons. Attach a BDRC or OpenPecha ID using `[bdrc:ID]` or `[op:ID]`. Names in parentheses are treated as aliases. For AI translations, use the model name with an OpenPecha ID. | `translator: Blo ldan shes rab [bdrc:P5678]; David Karma (bhikshu Karma Lodrö Choephel) [bdrc:P1234]; Claude Opus 4 [op:OP_ABC123]` |
 | `source` | URL of the source translation used | `source: https://webuddhist.com/` |
@@ -107,7 +107,7 @@ language: Tibetan
 lang_tag: bo
 file_type: translation
 root_text: 1-SOURCES/Text/sk-dev.md
-category_id: JD5ULLPAV1cxg7RSb7L3q
+category_id: MZUUxphQ0yFwLBon3Vng8
 bdrc_work_id: WA00KG0545
 source: https://webuddhist.com/
 license: public
@@ -130,7 +130,7 @@ A commentary is a separate authored work that explains or expands on a root text
 | `title` | Title of this commentary | `title: Bodhicaryāvatārapañjikā` |
 | `language` | Full language name | `language: Sanskrit` |
 | `lang_tag` | BCP47 language code | `lang_tag: sa` |
-| `category_id` | Copy from the root text | `category_id: JD5ULLPAV1cxg7RSb7L3q` |
+| `category_id` | Copy from the root text | `category_id: MZUUxphQ0yFwLBon3Vng8` |
 | `license` | Copyright status | `license: public` |
 | `author` | Author(s), separated by semicolons. Attach a BDRC or OpenPecha ID using `[bdrc:ID]` or `[op:ID]`. | `author: Prajñākaramati [bdrc:P1234]` |
 | `source` | URL of the source edition | `source: https://...` |

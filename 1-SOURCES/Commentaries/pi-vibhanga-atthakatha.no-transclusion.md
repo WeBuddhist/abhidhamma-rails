@@ -686,6 +686,7 @@ Abhidhammabhājanīyavaṇṇanā. ^2-271
 
 #### Pañhāpucchakavaṇṇanā ^2-3-3-0
 
+
 ![[1-SOURCES/Text/pi-2.md#^2-186]]
 
 Pañhāpucchake aṭṭhārasannaṃ dhātūnaṃ heṭṭhā vuttanayānusāreneva kusalādibhāvo veditabbo. Ārammaṇattikesu pana cha dhātuyo parittārammaṇāti idaṃ pana pañcannaṃ cakkhuviññāṇādīnaṃ manodhātuyā ca ekantena pañcasu rūpārammaṇādīsu pavattiṃ sandhāya vuttaṃ. Dve dhātuyoti vuttānaṃ pana dhammadhātumanoviññāṇadhātūnaṃ manāyatanadhammāyatanesu vuttanayeneva parittārammaṇāditā veditabbā. Iti imasmimpi pañhāpucchake soḷasa dhātuyo kāmāvacarā, dve catubhūmikā lokiyalokuttaramissakā kathitā. Evamayaṃ dhātuvibhaṅgopi teparivaṭṭaṃ nīharitvāva bhājetvā desitoti. ^2-272
@@ -2125,6 +2126,7 @@ Bhavaniddese ca yasmā upādānaṃ saṅkhārakkhandhe saṅgahaṃ gacchati, t
 
 Evaṃ paṭhamavāraṃ niṭṭhapetvā puna dutiyavāre yasmiṃ samaye paṭhamavārena paccayākāro dassito, tasmiṃyeva samaye aparenapi nayena paccayākāraṃ dassetuṃ visuṃ samayavavatthānavāraṃ avatvā tasmiṃ samaye avijjāpaccayā saṅkhārotiādināva nayena desanā katā. Tattha ṭhapetvā phassanti idaṃ yasmā phassopi nāmapariyāpanno, tasmā phassassa nāmato nīharaṇatthaṃ vuttaṃ. ^2-833
 
+
 ![[1-SOURCES/Text/pi-2.md#^2-253]]
 
 Tatiyavāre yassa cittasamuṭṭhānarūpassa viññāṇaṃ paccayo, tasmiṃ pavattamāne yasmā tenupatthaddhānaṃ cakkhāyatanādīnaṃ upacitattaṃ paññāyati, tasmā cakkhāyatanassa upacayotiādi vuttaṃ. Yasmā ca kammajarūpassapi tasmiṃ samaye vattamānassa viññāṇaṃ pacchājātapaccayena paccayo hoti, tasmāpi evaṃ vuttaṃ. Tattha kiñcāpi kammajaṃ cittasamuṭṭhānanti dveva santatiyo gahitā, itarāpi pana dve santatiyo gahetabbā. Tāsampi hi viññāṇaṃ paccayo hotiyeva. ^2-834
@@ -2136,6 +2138,7 @@ Catutthavāre pana yasmā ekacittakkhaṇepi mahābhūtarūpapaccayā cakkhāyat
 ![[1-SOURCES/Text/pi-2.md#^2-256]]
 
 Dutiyacatukke sabbaṃ uttānameva. ^2-836
+
 
 ![[1-SOURCES/Text/pi-2.md#^2-268]]
 ![[1-SOURCES/Text/pi-2.md#^2-269]]
@@ -5164,4 +5167,3 @@ Yāva buddhoti nāmampi, suddhacittassa tādino;
 Lokamhi lokajeṭṭhassa, pavattati mahesinoti. ^2-1979
 
 Sammohavinodanī nāma vibhaṅga-aṭṭhakathā niṭṭhitā. ^2-1980
-

@@ -1240,8 +1240,7 @@ Mātikāvaṇṇanā niṭṭhitā. ^2-482
 
 Tanti diṭṭhupādānaṃ. Itarassāti kāmupādānassa. Taṇhāgahaṇenāti "taṇhāpaccayā"ti ettha taṇhāgahaṇena gahitattā. Yadi evaṃ nāmaggahaṇena gahitā taṇhā kasmā puna vuttāti āha "nāme viya visesapaccayattābhāvā"ti. "Nāmapaccayā chaṭṭhāyatana"nti ettha hi kāmataṇhāpi nāme saṅgahitāti nāmassa yathārahaṃ chaṭṭhāyatanassa paccayabhāvo vuttoti atthi tattha visesapaccayattaṃ, upādānassa pana bhavasaṅgahopi atthīti "taṇhāpaccayā upādāna"nti etena "kāmupādānapaccayā bhavo"ti etassa nattheva visesoti vuttaṃ "nāme viya visesapaccayattābhāvā"ti. Taṇhā etissā paccayoti taṇhāpaccayā, diṭṭhi . Bhavassa paccayabhūtāti duvidhassapi bhavassa kāraṇabhūtā. Ubhayenapi upādānassa bhavaniddese ṭhapetabbataṃyeva vibhāveti. Paccayuppannaṃ paccayo ca ekamevāti "taṇhāpaccayā upādāna"nti ettha vuttapaccayuppannaṃ, "upādānapaccayā bhavo"ti ettha vuttapaccayo ca eko evattho, tasmā paccayo visuṃ paccayuppannato bhinnaṃ katvā na vibhatto. ^2-483
 
-%% TODO: broken transclusion — block ^2-252 does not exist in pi-2.md or pi-2-blockid.md (numbering skips 251→253); verify intended source segment %%
-![[1-SOURCES/Text/pi-2.md#^2-252]]
+![[1-SOURCES/Text/pi-2.md#^2-253]]
 
 Upatthambhakasamuṭṭhāpanapacchājātapaccayavasenāti upatthambhakassa cittasamuṭṭhānarūpassa samuṭṭhāpanavasena, pacchājātapaccayavasena ca. ^2-484
 
@@ -1249,8 +1248,8 @@ Upatthambhakasamuṭṭhāpanapacchājātapaccayavasenāti upatthambhakassa citt
 
 Pañcannanti cakkhāyatanādīnaṃ pañcannaṃ. Sahajātādipaccayoti sahajātanissayaatthiavigatādipaccayo. Vatthusaṅkhātaṃ rūpaṃ. Purejātādipaccayoti purejātanissayavippayuttaatthiavigatapaccayo. Pacchājātādipaccayoti pacchājātavippayuttaatthiavigatapaccayo. Chaṭṭhassa sahajātādīti ādi-saddena aññamaññanissayasampayuttaatthiavigatādayo gahitā. ^2-485
 
-%% TODO: broken transclusion — block ^2-264 does not exist in pi-2.md or pi-2-blockid.md (numbering skips 263→265); verify intended source segment %%
-![[1-SOURCES/Text/pi-2.md#^2-264]]
+![[1-SOURCES/Text/pi-2.md#^2-268]]
+![[1-SOURCES/Text/pi-2.md#^2-269]]
 
 Yassāti "yassa ca hotī"ti ettha vuttaṃ "yassā"ti padaṃ sandhāya vuttaṃ. Tenāha "hotīti yojetabba"nti. ^2-486
 
