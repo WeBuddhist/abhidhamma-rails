@@ -12,12 +12,18 @@ root_text: 1-SOURCES/Text/pi-2.md
 covers_verses: 2-1–2-1044
 copyright: Public domain
 license: CC0
-source_description: Tipitaka.org Atthakatha/Tika edition export. Aṭṭhakathā > Abhidhammapiṭaka (aṭṭhakathā) > Vibhaṅga-aṭṭhakathā; 2346 segments in source. Cross-checked against the WeBuddhist backend copy. Backend record 'Sammohavinodanī-aṭṭhakathā (Commentary)'.
-source_filename: book/abh02a.att.html
-source_url: "https://tipitaka.org/romn/cscd/abh02a.att.html"
+source_description: "Tipitaka.org Atthakatha/Tika edition export. Aṭṭhakathā > Abhidhammapiṭaka (aṭṭhakathā) > Vibhaṅga-aṭṭhakathā; 2346 segments in source. Cross-checked against the WeBuddhist backend copy. Backend record 'Sammohavinodanī-aṭṭhakathā (Commentary)'.
+source_filename: book/abh02a.att.html"
+source: "https://tipitaka.org/romn/cscd/abh02a.att.html"
 other_ids:
   - tipitaka.org: abh02a
   - webuddhist_text_id: 476d09f1-9b21-4926-b77f-ca8778b3eddb
+license: cc0
+category_id: MZUUxphQ0yFwLBon3Vng8
+commentary_of: Bkcft6D0nQCPZNb4Kkuf4
+text_id: jzjFqxJ1SRgcATHZVQESs
+edition_id: 0IaO2jkm0341RQub4y4uY
+toc_id: PmZJjLTMkFaH5yxPMqvNf
 ---
 
 Namo tassa bhagavato arahato sammāsambuddhassa ^T-1

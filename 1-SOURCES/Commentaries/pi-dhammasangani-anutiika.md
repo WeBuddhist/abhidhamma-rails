@@ -10,9 +10,16 @@ layer: other
 root_text: 1-SOURCES/Text/pi-1.md
 source_description: Tipitaka.org Atthakatha/Tika edition export. Tīkā > Abhidhammapiṭaka (ṭīkā) > Dhammasaṅgaṇī-anuṭīkā; 725 segments in source.
 source_filename: book/abh04t.nrf.html
-source_url: "https://tipitaka.org/romn/cscd/abh04t.nrf.html"
+source: "https://tipitaka.org/romn/cscd/abh04t.nrf.html"
 other_ids:
   - tipitaka.org: abh04t
+license: cc0
+category_id: MZUUxphQ0yFwLBon3Vng8
+commentary_of: BzOXhiRUQM4MOT6affzmO
+text_id: eLzvzZSSmJxKDmGinH6Vp
+edition_id: JktO6yswFRoRHcUFerzia
+toc_id: MyM6F3X5jObGLU4cOgOx7
+
 ---
 
 Namo tassa bhagavato arahato sammāsambuddhassa ^T-1

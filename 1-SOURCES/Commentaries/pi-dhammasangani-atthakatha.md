@@ -10,10 +10,15 @@ layer: atthakatha
 root_text: 1-SOURCES/Text/pi-1.md
 source_description: Tipitaka.org Atthakatha edition export. Aṭṭhakathā > Abhidhammapiṭaka (aṭṭhakathā) > Dhammasaṅgaṇi-aṭṭhakathā; 2489 segments in source.
 source_filename: book/abh01a.att.html
-source_url: "https://tipitaka.org/romn/cscd/abh01a.att.xml"
+source: "https://tipitaka.org/romn/cscd/abh01a.att.xml"
 other_ids:
   - tipitaka.org: abh01a
+license: cc0
 category_id: MZUUxphQ0yFwLBon3Vng8
+commentary_of: BzOXhiRUQM4MOT6affzmO
+text_id: uHWsHi5ow5AATMDRaqn6E
+edition_id: FcUMpPJEec1GAjFaWAZ6m
+toc_id: 6TNf6hPY5DGUAgVeL4IQ2
 ---
 
 Namo tassa bhagavato arahato sammāsambuddhassa ^T-1
