@@ -494,3 +494,22 @@ Eight rows above. Four are `candidate` because the translation-track termbase ca
 **Chapters 8, 9 and 10 are complete.** Days 122–127 cover `Sammappadhānavibhaṅgo` vv. 390–430, `Iddhipādavibhaṅgo` vv. 431–465 and `Bojjhaṅgavibhaṅgo` vv. 466–485, end to end. Both rails now carry all twelve of their entries, built 2026-09-09 from `pi-vibhanga-atthakatha.md` ^2-1121 – ^2-1219, following the commentary's own three-node structure — the aṭṭhakathā treats the four iddhipādas under one node and says so explicitly (`#^2-1170`), so each rail carries one combined entry per bhājanīya rather than four stubs. Rail prose is new and still needs a native Pāli reviewer before these days are published.
 
 **Two verse ranges were corrected in `schedule.md` on 2026-09-09** (Evan's direction), because `^2-430` and `^2-485` are the closing blocks of chapters 8 and 10 and had been scheduled into the following chapter's first day: day-123 is now 413–430, day-124 is now 431–446, day-127 is now 475–485, day-128 becomes 486–495. These were the only two straddles among the 93 Book II days. The source spreadsheet still carries the old split. Chapter 11 (`Maggaṅgavibhaṅgo`, days 128–129) has no rail entries in this working copy.
+
+### Added 2026-09-17 (days 128–138, chapters 11–13)
+
+| Pāli | English (Contemporary) | Used in | Bilingual Glossary / Sense | Status |
+|---|---|---|---|---|
+| maggaṅga | _path factor_ | day-128 §5, §1 | Day-128 §5 headword. Root text lists the eight; the commentary treats them as the limbs of the *ariyo aṭṭhaṅgiko maggo* (`vibhanga-atthakatha #^2-1220`). One-shot §4 wording "path factor". | candidate |
+| sammādiṭṭhi | _right view_ | day-129 §5; day-128 §1 | Day-129 §5 headword. The first path factor and, per the pañhāpucchaka, the one factor that is a *hetu* (`#^2-1240`). One-shot §4 wording "right view". | candidate |
+| sīla | _moral discipline_ | day-130 §5, §1 | Day-130 §5 headword. The *pubbabhāga* foundation the Jhāna Suttantabhājanīya opens with — sense-restraint, moderation, wakefulness (`#^2-1247`). | candidate |
+| vicikicchā | _doubt_ | day-132 §1 | The fifth hindrance, set down before the first jhāna. One-shot §4 wording "doubt" (v. 557). | candidate |
+| appamaññā | _measureless state_ | day-136 §1; day-137 §5 | Day-137 §5 headword. Chapter 13's four brahmavihāras, "measureless" by boundless pervasion (`#^2-1438`). Aligns with the locked *appamāṇa* → measureless (day-127). | candidate |
+
+**Locked rows used verbatim, unchanged:** *jhāna* → jhāna, Pāli retained with gloss "meditative absorption" (day-013) — day-134 §5 headword; *kusala* → wholesome, *akusala* → unwholesome (day-023); *upekkhā* → equanimity (day-084) — day-133 §5 headword; *pīti* → rapture (day-076) — day-132 §5 headword; *sati* → mindfulness (day-069) — day-131 §5 headword; *mettā* → loving-kindness and *karuṇā* → compassion (day-017) — day-136/day-138 §5 headwords; *muditā* → sympathetic joy (day-017); *magga* → path (day-019); *hetu* → root / root-cause (day-057, day-081); *arūpāvacara* → formless sphere (day-018) — day-135 §5 headword; *rūpāvacara* → fine-material sphere; *kāmāvacara* → sense sphere; *nibbāna* → left untranslated (day-095).
+
+**Chapters 11, 12 and 13 are complete.** Days 128–138 cover `Maggaṅgavibhaṅgo` vv. 486–507, `Jhānavibhaṅgo` vv. 508–641 and `Appamaññāvibhaṅgo` vv. 642–702, end to end. Both rails now carry all nine of their entries (three nodes per chapter), built 2026-09-17 from `pi-vibhanga-atthakatha.md` ^2-1220 – ^2-1453, following the commentary's own three-node structure. Rail prose is new and still needs a native Pāli reviewer before these days are published.
+
+**New §1 convention (Evan's direction, 2026-09-17): §1 no longer names verse numbers**, because the WeBuddhist library uses a different numbering system. Days 128–138 keep verse numbers out of the Today's Chanting Guide entirely (they remain in §4 and §6 for the plan-importer). Earlier days' §1 still name verses.
+
+**⚠️ Reviewer: *sammappadhāna* / *sammāvāyāma* → "right effort" recurs.** The one-shot §4 renders *sammāvāyāma* as "right effort" inside the eightfold/fivefold path lists (vv. 486, 496), the same English it uses for *sammappadhāna* in chapter 8. Left un-normalised, as on days 122–123; a reviewer should settle both.
+
