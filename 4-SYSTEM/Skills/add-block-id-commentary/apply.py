@@ -195,6 +195,25 @@ def parse_frontmatter_arg(argv):
     return fm_text, args
 
 
+def bold_heading_warnings(lines):
+    """Headings of level 1-6 that carry `**`.
+
+    Obsidian renders six heading levels, so bold inside one of them is
+    redundant and ends up in the TOC title.
+    """
+    found = []
+    for i, line in enumerate(lines):
+        m = HEADING.match(line)
+        if m and len(m.group(1)) <= 6 and "**" in m.group(2):
+            found.append((i + 1, strip_id(line).strip()))
+    return found
+
+
+def print_bold_heading_warnings(lines):
+    for lineno, text in bold_heading_warnings(lines):
+        print(f'  WARN L{lineno}: heading contains ** — "{text[:70]}"')
+
+
 def cmd_audit(path: Path, frontmatter_text=None):
     lines = read_file(path)
     book = detect_book(lines)
@@ -245,6 +264,13 @@ def cmd_audit(path: Path, frontmatter_text=None):
     else:
         print(f"Heading blocks (→ hierarchical ^{book}-…-0, plain Arabic — no --frontmatter given): {heading_blocks}")
     print(f"Content blocks (→ continuous ^{book}-N, always Arabic): {content_blocks}")
+
+    bold = bold_heading_warnings(lines)
+    if bold:
+        print()
+        print(f"Bold in headings of level 1-6 ({len(bold)}) — bold is redundant there "
+              "and ends up in the TOC title:")
+        print_bold_heading_warnings(lines)
     print()
     print(f'>>> python apply.py apply "{path}"' + (f' --frontmatter "{frontmatter_text}"' if frontmatter_text else ""))
 
@@ -270,6 +296,8 @@ def cmd_apply(path: Path, frontmatter_text=None):
     lines = read_file(path)
     book = detect_book(lines)
     blocks = segment_blocks(lines)
+
+    print_bold_heading_warnings(lines)
 
     ids = {}  # line_idx -> id string
     t_k = 0

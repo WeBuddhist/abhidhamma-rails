@@ -11,6 +11,13 @@ from pathlib import Path
 
 OUTPUT_DIR = Path(__file__).parent / "output"
 
+
+def _out_dir(stem):
+    """Each source file gets its own folder: output/<stem>/<stem>.<kind>.json."""
+    out_dir = OUTPUT_DIR / stem
+    out_dir.mkdir(parents=True, exist_ok=True)
+    return out_dir
+
 YAML_PROPS_RE = re.compile(r"\A---\r?\n(.*?)\r?\n---\r?\n?", re.DOTALL)
 # Headers: ^n, ^n-n, ^n-n-n, ^n-n-n-… (any depth). Content: max ^n-n-n (3 parts).
 REF_RE = re.compile(r'(\^[A-Za-z0-9]+(?:-[A-Za-z0-9]+)*)\s*$')
@@ -20,6 +27,29 @@ VERSE_X_RE = re.compile(r'\d+[xX]\d+')
 TRANSCLUSION_RE = re.compile(r'^\s*!\[\[.*?#\^.*?\]\]\s*$')
 _TRANS_REF_RE = re.compile(r'!\[\[.*?#\^([A-Za-z0-9]+(?:-[A-Za-z0-9]+)*)\]\]')
 _WYLIE_RE = re.compile(r"'[a-zA-Z]")
+NBSP = "\u00a0"
+ZERO_WIDTH = "\u200b\u200c\u200d\u2060\ufeff"
+_SMALL_TAG_RE = re.compile(r"</?small>", re.IGNORECASE)
+_BLANK_CHARS = " \t\r" + NBSP + ZERO_WIDTH
+
+
+def _clean_text(text):
+    """Clean the parsed copy of a source file. Source files are never modified.
+
+    Drops <small> tags (the gloss text stays) and turns non-breaking spaces
+    into ordinary spaces.
+    """
+    return _SMALL_TAG_RE.sub("", text).replace(NBSP, " ")
+
+
+def _is_blank(line):
+    """True when a line holds nothing but spacing, including zero-width marks."""
+    return not line.strip(_BLANK_CHARS)
+
+
+def _rstrip_line(line):
+    """Trailing spacing off, zero-width marks included."""
+    return line.rstrip(_BLANK_CHARS)
 
 
 def _ref_part_count(ref):
@@ -60,7 +90,9 @@ def _read_source(path):
         import yaml
     except ImportError as exc:
         raise SystemExit("PyYAML is required: pip install pyyaml") from exc
-    text = path.read_bytes().replace(b'\x00', b'').decode("utf-8", errors="replace")
+    text = _clean_text(
+        path.read_bytes().replace(b'\x00', b'').decode("utf-8", errors="replace")
+    )
     m = YAML_PROPS_RE.match(text)
     if not m:
         raise ValueError("no YAML properties found")
@@ -83,13 +115,21 @@ def _resolve_root_text_path(val, source_path):
     return None
 
 
-def _extract_blocks(body):
+def _extract_blocks(body, warn=True):
     blocks = []
     for raw in re.split(r'\r?\n[ \t]*\r?\n', body.strip()):
         block = raw.strip()
         if not block:
             continue
         lines = [l.rstrip('\r') for l in block.split('\n')]
+        # A line of zero-width characters only looks empty but does not split
+        # the block. Keep the block whole and say so.
+        if warn and any(_is_blank(l) and l.strip() for l in lines):
+            print(
+                f"  WARN block {len(blocks) + 1}: a line holds only zero-width characters — "
+                "block kept whole; its parts may each need their own block ID",
+                file=sys.stderr,
+            )
         is_header = lines[0].lstrip().startswith('#')
         ref = None
         for line in reversed(lines):
@@ -103,18 +143,10 @@ def _extract_blocks(body):
     return blocks
 
 
-def _extract_header_levels(body):
-    result = {}
-    for line in body.split('\n'):
-        stripped = line.rstrip('\r').rstrip()
-        if not stripped.startswith('#'):
-            continue
-        level = len(stripped) - len(stripped.lstrip('#'))
-        text_with_ref = stripped.lstrip('#').strip()
-        m = REF_RE.search(text_with_ref)
-        if m:
-            result[m.group(1).lstrip('^')] = level
-    return result
+def _heading_level(line):
+    """Number of leading '#' characters of a heading line."""
+    stripped = line.lstrip()
+    return len(stripped) - len(stripped.lstrip('#'))
 
 
 def _infer_segment_type(ref_no_caret, doc_default):
@@ -148,7 +180,7 @@ def _infer_segment_type(ref_no_caret, doc_default):
 # Function 1: extract text_input
 # ---------------------------------------------------------------------------
 
-def extract_text_input(lint_path):
+def extract_text_input(lint_path, source_path=None):
     data = json.loads(
         lint_path.read_bytes().replace(b'\x00', b'').decode("utf-8", errors="replace")
     )
@@ -196,11 +228,16 @@ def extract_text_input(lint_path):
                     file=sys.stderr,
                 )
 
-    stem = lint_path.stem
-    if stem.endswith(".lint"):
-        stem = stem[:-len(".lint")]
-    out_path = OUTPUT_DIR / f"{stem}.text.json"
-    OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
+    # Named after the source file, not the lint file.
+    if source_path is not None:
+        stem = source_path.stem
+    else:
+        stem = lint_path.stem
+        if stem.endswith(".lint.errors"):
+            stem = stem[: -len(".lint.errors")]
+        elif stem.endswith(".lint"):
+            stem = stem[: -len(".lint")]
+    out_path = _out_dir(stem) / f"{stem}.text.json"
     out_path.write_text(json.dumps(clean, ensure_ascii=False, indent=2), encoding="utf-8")
     return out_path
 
@@ -212,6 +249,7 @@ def extract_text_input(lint_path):
 def _build_content_and_segmentation(blocks, doc_default):
     parts = []
     seg_list = []
+    headings = []
     pos = 0
 
     for block_num, block in enumerate(blocks, start=1):
@@ -221,13 +259,32 @@ def _build_content_and_segmentation(blocks, doc_default):
 
         content_lines = [l for l in raw_lines if not TRANSCLUSION_RE.match(l)]
         # Pure transclusion block — silently skip, used for alignment only
-        if not any(l.strip() for l in content_lines):
+        if all(_is_blank(l) for l in content_lines):
             continue
 
         if not ref:
             print(f"  WARN block {block_num}: no reference marker — skipped", file=sys.stderr)
             continue
-        if not is_header and _ref_part_count(ref) > VERSE_REF_MAX_PARTS:
+        ref_no_caret = ref[1:] if ref.startswith("^") else ref
+
+        if is_header:
+            # Headings are not part of the edition: no segment, no text in
+            # content. They are recorded only to build the TOC.
+            text = raw_lines[0].lstrip().lstrip('#').strip()
+            ref_idx = text.rfind(ref)
+            if ref_idx != -1:
+                text = text[:ref_idx].rstrip()
+            if not text:
+                continue
+            headings.append({
+                "level": _heading_level(raw_lines[0]),
+                "title": text,
+                "reference": ref_no_caret,
+                "offset": pos,
+            })
+            continue
+
+        if _ref_part_count(ref) > VERSE_REF_MAX_PARTS:
             print(
                 f"  WARN block {block_num}: reference {ref!r} has {_ref_part_count(ref)} parts; "
                 f"verses allow at most ^n-n-n ({VERSE_REF_MAX_PARTS} parts) — skipped",
@@ -235,43 +292,28 @@ def _build_content_and_segmentation(blocks, doc_default):
             )
             continue
 
-        ref_no_caret = ref[1:] if ref.startswith("^") else ref
-
-        if is_header:
-            text = raw_lines[0].lstrip('#').strip()
-            ref_idx = text.rfind(ref)
-            if ref_idx != -1:
-                text = text[:ref_idx].rstrip()
+        last_nonempty_idx = -1
+        for i in range(len(content_lines) - 1, -1, -1):
+            if not _is_blank(content_lines[i]):
+                last_nonempty_idx = i
+                break
+        line_spans = []
+        for i, raw_line in enumerate(content_lines):
+            text = _rstrip_line(raw_line)
+            if i == last_nonempty_idx:
+                ref_idx = text.rfind(ref)
+                if ref_idx != -1:
+                    text = text[:ref_idx].rstrip()
             if not text:
                 continue
             start = pos
             parts.append(text)
             pos += len(text)
-            line_spans = [{"start": start, "end": start + len(text)}]
-            seg_list.append({"lines": line_spans, "type": "title", "reference": ref_no_caret})
-        else:
-            last_nonempty_idx = -1
-            for i in range(len(content_lines) - 1, -1, -1):
-                if content_lines[i].rstrip():
-                    last_nonempty_idx = i
-                    break
-            line_spans = []
-            for i, raw_line in enumerate(content_lines):
-                text = raw_line.rstrip()
-                if i == last_nonempty_idx:
-                    ref_idx = text.rfind(ref)
-                    if ref_idx != -1:
-                        text = text[:ref_idx].rstrip()
-                if not text:
-                    continue
-                start = pos
-                parts.append(text)
-                pos += len(text)
-                line_spans.append({"start": start, "end": start + len(text)})
-            seg_type = _infer_segment_type(ref_no_caret, doc_default)
-            seg_list.append({"lines": line_spans, "type": seg_type, "reference": ref_no_caret})
+            line_spans.append({"start": start, "end": start + len(text)})
+        seg_type = _infer_segment_type(ref_no_caret, doc_default)
+        seg_list.append({"lines": line_spans, "type": seg_type, "reference": ref_no_caret})
 
-    return "".join(parts), seg_list
+    return "".join(parts), seg_list, headings
 
 
 def build_edition(source_path, lint_path):
@@ -294,12 +336,13 @@ def build_edition(source_path, lint_path):
     else:
         doc_default = "paragraph" if fm.get("commentary_of") else "verse"
 
-    content_str, seg_list = _build_content_and_segmentation(blocks, doc_default)
+    content_str, seg_list, headings = _build_content_and_segmentation(blocks, doc_default)
 
     edition_type = fm.get("edition_type", "critical")
+    # `source_url` is read as an alias of `source`; the payload key is `source`
     source_url = (
-        fm.get("source") or fm.get("gretil_url") or fm.get("dsbc_url")
-        or fm.get("suttacentral_id") or ""
+        fm.get("source") or fm.get("source_url") or fm.get("gretil_url")
+        or fm.get("dsbc_url") or fm.get("suttacentral_id") or ""
     )
     metadata = {"type": edition_type, "source": source_url}
 
@@ -310,47 +353,46 @@ def build_edition(source_path, lint_path):
     }
 
     stem = source_path.stem
-    out_path = OUTPUT_DIR / f"{stem}.edition.json"
-    OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
+    out_path = _out_dir(stem) / f"{stem}.edition.json"
     out_path.write_text(json.dumps(out, ensure_ascii=False, indent=2), encoding="utf-8")
-    return out_path, out
+    return out_path, out, headings
 
 
 # ---------------------------------------------------------------------------
 # Function 3: build TOC
 # ---------------------------------------------------------------------------
 
-def build_toc(source_path, edition_result):
-    fm, body = _read_source(source_path)
+def build_toc(source_path, edition_result, headings):
+    """Build the TOC from heading records (headings are not edition segments).
+
+    A section starts at its heading's offset in content and ends at the offset
+    of the next heading with level <= its own, else at the end of content. A
+    heading followed directly by such a heading gets an empty span.
+    """
+    fm, _ = _read_source(source_path)
     lang_tag = fm.get("lang_tag") or "en"
 
-    content = edition_result["content"]
-    segments = edition_result["segmentation"]["segments"]
-    content_len = len(content)
-    header_levels = _extract_header_levels(body)
+    content_len = len(edition_result["content"])
 
     title_nodes = []
-    for seg in segments:
-        if seg.get("type") != "title":
-            continue
-        ref = seg.get("reference", "")
-        level = header_levels.get(ref, 1)
-        char_start = seg["lines"][0]["start"]
-        char_end = seg["lines"][0]["end"]
-        title_text = _wylie_to_unicode(content[char_start:char_end], lang_tag)
+    for heading in headings:
+        title = heading["title"]
+        if heading["level"] > 6:
+            # Obsidian renders six heading levels; deeper ones are often bolded
+            # to look like headings. That bold is not part of the title.
+            title = title.replace("**", "").strip()
         title_nodes.append({
-            "level": level,
-            "title_char_start": char_start,
-            "span_start": char_end,
-            "title": title_text,
-            "ref": ref,
+            "level": heading["level"],
+            "span_start": heading["offset"],
+            "title": _wylie_to_unicode(title, lang_tag),
+            "ref": heading["reference"],
         })
 
     for i, node in enumerate(title_nodes):
         span_end = content_len
         for j in range(i + 1, len(title_nodes)):
             if title_nodes[j]["level"] <= node["level"]:
-                span_end = title_nodes[j]["title_char_start"]
+                span_end = title_nodes[j]["span_start"]
                 break
         node["span_end"] = span_end
 
@@ -379,11 +421,8 @@ def build_toc(source_path, edition_result):
 
     out = {"sections": sections}
 
-
-
     stem = source_path.stem
-    out_path = OUTPUT_DIR / f"{stem}.toc.json"
-    OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
+    out_path = _out_dir(stem) / f"{stem}.toc.json"
     out_path.write_text(json.dumps(out, ensure_ascii=False, indent=2), encoding="utf-8")
     return out_path, out
 
@@ -391,6 +430,50 @@ def build_toc(source_path, edition_result):
 # ---------------------------------------------------------------------------
 # Function 4: build alignment (translation/commentary only)
 # ---------------------------------------------------------------------------
+
+def _root_heading_refs(fm, source_path):
+    """Return heading IDs (caret stripped) of the file named in ``root_text``.
+
+    Headings are not edition segments, so transclusions pointing at them
+    cannot be aligned.
+    """
+    root_val = fm.get("root_text")
+    if not root_val:
+        return set()
+    resolved = _resolve_root_text_path(str(root_val), source_path)
+    if not resolved:
+        print(
+            f"  WARN alignment: root_text {root_val!r} not found — "
+            "heading targets not filtered",
+            file=sys.stderr,
+        )
+        return set()
+    try:
+        _, root_body = _read_source(resolved)
+    except (ValueError, OSError) as exc:
+        print(
+            f"  WARN alignment: cannot read root_text {root_val!r} ({exc}) — "
+            "heading targets not filtered",
+            file=sys.stderr,
+        )
+        return set()
+    return {
+        b["ref"].lstrip("^")
+        for b in _extract_blocks(root_body, warn=False)
+        if b["is_header"] and b["ref"]
+    }
+
+
+def _warn_heading_targets(skipped):
+    if not skipped:
+        return
+    uniq = list(dict.fromkeys(skipped))
+    print(
+        f"  WARN alignment: {len(uniq)} transclusion target(s) are root-text "
+        f"headings, not segments — skipped: {', '.join(uniq)}",
+        file=sys.stderr,
+    )
+
 
 def build_alignment(source_path):
     fm, body = _read_source(source_path)
@@ -402,16 +485,40 @@ def build_alignment(source_path):
 
     alignments = []
     seen_pairs = set()
-    blocks = _extract_blocks(body)
+    blocks = _extract_blocks(body, warn=False)
+    heading_refs = _root_heading_refs(fm, source_path)
+    skipped_heading_targets = []
     pending_targets = []
+    prev_was_transclusion_block = False
 
     for block in blocks:
         lines = block["lines"]
-        trans_refs = [_TRANS_REF_RE.search(l).group(1)
-                      for l in lines if _TRANS_REF_RE.search(l)]
+        # A block of transclusions only. Back-to-back ones form a single
+        # group; anything else between them starts a new group.
+        is_transclusion_block = all(
+            TRANSCLUSION_RE.match(l) for l in lines if not _is_blank(l)
+        ) and any(not _is_blank(l) for l in lines)
+        raw_refs = [_TRANS_REF_RE.search(l).group(1)
+                    for l in lines if _TRANS_REF_RE.search(l)]
+        trans_refs = []
+        for target_ref in raw_refs:
+            if target_ref in heading_refs:
+                skipped_heading_targets.append(target_ref)
+            else:
+                trans_refs.append(target_ref)
+
+        # Headings are not segments: they take no alignment, and pending
+        # transclusions do not carry over past them.
+        if block["is_header"]:
+            pending_targets = []
+            prev_was_transclusion_block = False
+            continue
 
         if trans_refs and not block["ref"]:
-            pending_targets.extend(trans_refs)
+            if prev_was_transclusion_block:
+                pending_targets.extend(trans_refs)
+            else:
+                pending_targets = list(trans_refs)
         elif block["ref"]:
             source_ref = block["ref"].lstrip("^")
             pending_targets.extend(trans_refs)
@@ -425,10 +532,12 @@ def build_alignment(source_path):
                     })
             pending_targets = []
 
+        prev_was_transclusion_block = is_transclusion_block
+
+    _warn_heading_targets(skipped_heading_targets)
     out = {"alignments": alignments}
     stem = source_path.stem
-    out_path = OUTPUT_DIR / f"{stem}.alignment.json"
-    OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
+    out_path = _out_dir(stem) / f"{stem}.alignment.json"
     out_path.write_text(json.dumps(out, ensure_ascii=False, indent=2), encoding="utf-8")
     return out_path, out
 
@@ -464,15 +573,16 @@ def main(argv=None):
         sys.exit(1)
 
     try:
-        text_out = extract_text_input(lint_path)
+        text_out = extract_text_input(lint_path, source_path)
         print(f"OK    {lint_path}  ->  {text_out}")
     except Exception as exc:
         print(f"ERROR text_input: {exc}", file=sys.stderr)
         had_error = True
 
     edition_result = None
+    headings = []
     try:
-        edition_out, edition_result = build_edition(source_path, lint_path)
+        edition_out, edition_result, headings = build_edition(source_path, lint_path)
         segs = edition_result["segmentation"]["segments"]
         content_len = len(edition_result["content"])
         by_type = {}
@@ -483,13 +593,14 @@ def main(argv=None):
         print(f"  segments         : {len(segs)}")
         for t, n in sorted(by_type.items()):
             print(f"    {t}: {n}")
+        print(f"  headings (toc)   : {len(headings)}")
     except Exception as exc:
         print(f"ERROR edition: {exc}", file=sys.stderr)
         had_error = True
 
     if edition_result is not None:
         try:
-            toc_out, toc_result = build_toc(source_path, edition_result)
+            toc_out, toc_result = build_toc(source_path, edition_result, headings)
             sections = toc_result["sections"]
 
             def _toc_stats(nodes, depth=0):

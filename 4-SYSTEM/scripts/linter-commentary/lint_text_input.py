@@ -87,6 +87,35 @@ def _frontmatter_has(path, field):
     return val is not None and str(val).strip() != ""
 
 
+def normalize_source_field(path, doc_info):
+    """Rename a `source_url` frontmatter field to `source` (payload uses `source`).
+
+    Leaves the file alone when `source` is already present; then `source_url`
+    is only reported so it can be removed by hand.
+    """
+    if not doc_info or not doc_info.get("source_url"):
+        return []
+    value = doc_info["source_url"]
+    if doc_info.get("source"):
+        print(
+            f"  WARN source_url: both `source` and `source_url` are set — using `source`",
+            file=sys.stderr,
+        )
+        return []
+    text = path.read_text(encoding="utf-8", errors="replace")
+    match = YAML_PROPS_RE.match(text)
+    if not match:
+        return []
+    block = match.group(1)
+    new_block, count = re.subn(r'^source_url(\s*:)', r'source\1', block, count=1, flags=re.MULTILINE)
+    if not count:
+        return []
+    path.write_text(text[:4] + new_block + text[4 + len(block):], encoding="utf-8", errors="replace")
+    doc_info["source"] = value
+    doc_info.pop("source_url", None)
+    return [f"source_url -> source ({value!r})"]
+
+
 def _resolve_root_text_path(val, source_path):
     val_path = Path(val)
     for base in [source_path.parent, *source_path.parents]:
@@ -129,6 +158,9 @@ def main(argv=None):
             print(f"ERROR {path}: no YAML properties block found", file=sys.stderr)
             had_errors = True
             continue
+
+        for change in normalize_source_field(path, doc_info):
+            print(f"  INFO source file updated: {change}")
 
         file_type = doc_info.get("file_type", "")
         if file_type and file_type != "commentary":
@@ -184,7 +216,7 @@ def main(argv=None):
         items = validate_text_input(doc_info)
         items += validate_edition(doc_info, body)
         items += validate_toc(doc_info, body)
-        out_path, person_warnings, resolved_author = \
+        out_path, person_warnings = \
             write_edition_output(path, doc_info, items)
         errors = [(l, m) for l, m in items if l == "ERROR"]
         infos  = [(l, m) for l, m in items if l == "INFO"]
@@ -201,13 +233,6 @@ def main(argv=None):
                 patches["lang_tag"] = code
         elif vault_tag and vault_tag in LANGUAGE_VALUES:
             patches["language"] = LANGUAGE_CODE_TO_NAME[vault_tag]
-        raw_author = (
-            doc_info.get("author")
-            or doc_info.get("author in English")
-            or doc_info.get("author_in_english")
-        )
-        if resolved_author and raw_author and resolved_author.strip() != str(raw_author).strip():
-            patches["author"] = resolved_author
         if doc_info.get("commentary_of") and not _frontmatter_has(path, "commentary_of"):
             patches["commentary_of"] = doc_info["commentary_of"]
         if doc_info.get("category_id") and not _frontmatter_has(path, "category_id"):

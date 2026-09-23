@@ -45,6 +45,16 @@ def extract_doc_info(path):
     return data, body
 
 
+def _frontmatter_has(path, field):
+    """True if the YAML frontmatter already holds a non-empty value for field."""
+    text = path.read_text(encoding="utf-8", errors="replace")
+    match = YAML_PROPS_RE.match(text)
+    if not match:
+        return False
+    found = re.search(r'^' + re.escape(field) + r'\s*:(.*)$', match.group(1), re.MULTILINE)
+    return bool(found and found.group(1).strip())
+
+
 def patch_source_file(path, updates):
     text = path.read_text(encoding="utf-8", errors="replace")
     match = YAML_PROPS_RE.match(text)
@@ -70,6 +80,35 @@ def patch_source_file(path, updates):
     new_text = text[:block_start] + new_block + text[block_start + len(block):]
     path.write_text(new_text, encoding="utf-8", errors="replace")
     return changes
+
+
+def normalize_source_field(path, doc_info):
+    """Rename a `source_url` frontmatter field to `source` (payload uses `source`).
+
+    Leaves the file alone when `source` is already present; then `source_url`
+    is only reported so it can be removed by hand.
+    """
+    if not doc_info or not doc_info.get("source_url"):
+        return []
+    value = doc_info["source_url"]
+    if doc_info.get("source"):
+        print(
+            f"  WARN source_url: both `source` and `source_url` are set — using `source`",
+            file=sys.stderr,
+        )
+        return []
+    text = path.read_text(encoding="utf-8", errors="replace")
+    match = YAML_PROPS_RE.match(text)
+    if not match:
+        return []
+    block = match.group(1)
+    new_block, count = re.subn(r'^source_url(\s*:)', r'source\1', block, count=1, flags=re.MULTILINE)
+    if not count:
+        return []
+    path.write_text(text[:4] + new_block + text[4 + len(block):], encoding="utf-8", errors="replace")
+    doc_info["source"] = value
+    doc_info.pop("source_url", None)
+    return [f"source_url -> source ({value!r})"]
 
 
 def _resolve_root_text_path(val, source_path):
@@ -115,6 +154,9 @@ def main(argv=None):
             had_errors = True
             continue
 
+        for change in normalize_source_field(path, doc_info):
+            print(f"  INFO source file updated: {change}")
+
         file_type = doc_info.get("file_type", "")
 
         # For translations: resolve root_text -> translation_of, category_id before validation
@@ -150,7 +192,7 @@ def main(argv=None):
             items = validate_text_input(doc_info)
             items += validate_edition(doc_info, body)
             items += validate_toc(doc_info, body)
-            out_path, person_warnings, resolved_author = \
+            out_path, person_warnings = \
                 write_edition_output(path, doc_info, items)
             errors = [(l, m) for l, m in items if l == "ERROR"]
             infos  = [(l, m) for l, m in items if l == "INFO"]
@@ -167,13 +209,10 @@ def main(argv=None):
                     patches["lang_tag"] = code
             elif vault_tag and vault_tag in LANGUAGE_VALUES:
                 patches["language"] = LANGUAGE_CODE_TO_NAME[vault_tag]
-            raw_author = (
-                doc_info.get("author")
-                or doc_info.get("author in English")
-                or doc_info.get("author_in_english")
-            )
-            if resolved_author and raw_author and resolved_author.strip() != str(raw_author).strip():
-                patches["author"] = resolved_author
+            if doc_info.get("translation_of") and not _frontmatter_has(path, "translation_of"):
+                patches["translation_of"] = doc_info["translation_of"]
+            if doc_info.get("category_id") and not _frontmatter_has(path, "category_id"):
+                patches["category_id"] = doc_info["category_id"]
             source_changes = patch_source_file(path, patches)
 
             if errors:
@@ -194,7 +233,7 @@ def main(argv=None):
                     print(f"  WARN {w}")
         else:
             items = validate_text_input(doc_info)
-            out_path, person_warnings, resolved_author = \
+            out_path, person_warnings = \
                 write_output(path, doc_info, items)
 
             errors = [(l, m) for l, m in items if l == "ERROR"]
@@ -212,13 +251,10 @@ def main(argv=None):
                     patches["lang_tag"] = code
             elif vault_tag and vault_tag in LANGUAGE_VALUES:
                 patches["language"] = LANGUAGE_CODE_TO_NAME[vault_tag]
-            raw_author = (
-                doc_info.get("author")
-                or doc_info.get("author in English")
-                or doc_info.get("author_in_english")
-            )
-            if resolved_author and raw_author and resolved_author.strip() != str(raw_author).strip():
-                patches["author"] = resolved_author
+            if doc_info.get("translation_of") and not _frontmatter_has(path, "translation_of"):
+                patches["translation_of"] = doc_info["translation_of"]
+            if doc_info.get("category_id") and not _frontmatter_has(path, "category_id"):
+                patches["category_id"] = doc_info["category_id"]
             source_changes = patch_source_file(path, patches)
 
             if errors:

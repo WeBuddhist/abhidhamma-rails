@@ -88,7 +88,7 @@ Helper: `apply.py` next to this `SKILL.md`.
 python "<this-skill-dir>/apply.py" audit "<path-to-file.md>" [--frontmatter "<heading text>"]
 ```
 
-Prints (no writes): detected book number, the full heading tree, counts of pre-title / heading / content blocks. Ignore existing `^` IDs — they are stripped and fully reassigned on apply. If a section of the file looks like genuine front matter (see above), re-run audit with `--frontmatter "<exact heading text>"` to preview which heading it would attach to before committing to it in apply — the audit output flags the matched heading, or warns if the text didn't match anything.
+Prints (no writes): detected book number, the full heading tree, counts of pre-title / heading / content blocks, and a warning for every heading of level 1–6 that contains `**` (with its line number) — bold is redundant at those levels and ends up in the TOC title. The same warning is printed on apply. Ignore existing `^` IDs — they are stripped and fully reassigned on apply. If a section of the file looks like genuine front matter (see above), re-run audit with `--frontmatter "<exact heading text>"` to preview which heading it would attach to before committing to it in apply — the audit output flags the matched heading, or warns if the text didn't match anything.
 
 ### 2 — Apply
 
@@ -119,6 +119,7 @@ After applying, confirm:
 - **DO** number ordinary headings by 1-based sibling position under their parent, independently per level, in **Arabic** — same rule as `add-block-id-root-text`.
 - **DO** use `--frontmatter "<exact heading text>"` only for a heading that genuinely precedes and stands apart from the substantive commentary body — never to mark a section merely because it reads as introductory. This is a judgment call, the same one `add-block-id-root-text` makes for its `M`-zone (block-id-spec.md §6) — not something the script infers on its own.
 - **DON'T** render content-block IDs as Roman — content stays Arabic always, front matter or not.
+- **DON'T** leave `**` inside a heading of level 1–6 — the heading already renders as a heading, and the bold ends up in the parser's TOC title. Only headings deeper than level 6 need it, and the parser strips it there.
 - **DON'T** mark more than one front-matter section per file — `apply.py` supports exactly zero or one.
 - **DON'T** assign IDs to `![[...]]` transclusions or to YAML frontmatter.
 - **DO** re-run freely — every existing `^id` is stripped and regenerated from scratch each time.

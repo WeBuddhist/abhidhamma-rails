@@ -5,7 +5,6 @@ from datetime import datetime, timezone
 from pathlib import Path
 
 from constants import SCHEMA_FIELDS, LANG_TAG_MAP, LANGUAGE_VALUES
-from lookup import lookup_person
 from validate import validate_text_input, resolve_language
 
 OUTPUT_DIR = Path(__file__).parent / "output"
@@ -21,16 +20,23 @@ def _relative_source(path):
     except ValueError:
         return Path(path).as_posix()
 
-# Title/alt_titles script tags (may differ from language code).
-# Sanskrit content is IAST; language field stays "sa".
-_TITLE_LANG_KEYS = {
-    "sa": "sa-x-iast",
-}
 
+def _title_lang_key(data):
+    """Plain language code used to key title/alt_titles (e.g. sa, pi, bo).
 
-def _title_lang_key(vault_tag):
-    base = LANG_TAG_MAP.get(vault_tag, vault_tag) or "default"
-    return _TITLE_LANG_KEYS.get(base, base)
+    Uses lang_tag, or the resolved `language` when lang_tag is not set. Titles
+    are kept in whatever script they are written in.
+    """
+    vault_tag = data.get("lang_tag") or ""
+    if vault_tag:
+        return LANG_TAG_MAP.get(vault_tag, vault_tag)
+    raw_lang = data.get("language")
+    if isinstance(raw_lang, str) and raw_lang.strip():
+        code, _ = resolve_language(raw_lang)
+        if code:
+            return code
+    return "default"
+
 
 def _wylie_to_unicode(text, lang_tag):
     if lang_tag != "bo":
@@ -50,16 +56,37 @@ def _wylie_to_unicode(text, lang_tag):
     return text
 
 
+def _base_lang_key(key):
+    """Reduce a script-suffixed key of a known language to its base code.
+
+    sa-x-iast -> sa, pi-x-iast -> pi. Keys that are themselves known codes, or
+    whose base is not a known language, are returned unchanged.
+    """
+    if not isinstance(key, str) or "-" not in key or key in LANGUAGE_VALUES:
+        return key
+    base = key.split("-", 1)[0]
+    return base if base in LANGUAGE_VALUES else key
+
+
 def _convert_bo_entry(entry):
-    """Convert bo-x-ewts or bo keys in a title/alt_title dict to Tibetan Unicode."""
+    """Normalize a title/alt_title dict.
+
+    Converts bo-x-ewts / bo Wylie values to Tibetan Unicode (key "bo") and
+    reduces script-suffixed keys of a known language to the base code.
+    """
     if not isinstance(entry, dict):
         return entry
     new_entry = {}
     for k, v in entry.items():
         if k in ("bo-x-ewts", "bo") and isinstance(v, str):
             new_entry["bo"] = _wylie_to_unicode(v, "bo")
-        else:
+            continue
+        base = _base_lang_key(k)
+        if base != k and base in entry:
+            # An explicit base-code entry wins; keep the suffixed one as-is.
             new_entry[k] = v
+        else:
+            new_entry[base] = v
     return new_entry
 
 
@@ -77,7 +104,7 @@ def build_text_input(data):
             title_obj = {}
             raw = data.get("title")
             if isinstance(raw, str) and raw.strip():
-                lang_key = _title_lang_key(vault_tag)
+                lang_key = _title_lang_key(data)
                 title_obj[lang_key] = raw
             elif isinstance(raw, dict):
                 title_obj = dict(raw)
@@ -91,9 +118,9 @@ def build_text_input(data):
             # Accepted YAML forms:
             #   alt_titles: "one title"
             #   alt_titles: ["variant a", "variant b"]
-            # Both are wrapped with the title script tag (sa → sa-x-iast).
+            # Both are keyed with the plain language code (sa, pi, …).
             alt = data.get("alt_titles")
-            lang_key = _title_lang_key(vault_tag)
+            lang_key = _title_lang_key(data)
             if isinstance(alt, str) and alt.strip():
                 raw_alts = [{lang_key: alt.strip()}]
             elif isinstance(alt, list):
@@ -106,7 +133,7 @@ def build_text_input(data):
                         raw_alts.append(item)
             else:
                 raw_alts = alt
-            # Convert bo-x-ewts Wylie entries to Unicode and normalize key to "bo"
+            # Convert bo-x-ewts Wylie to Unicode and reduce script-suffixed keys
             if isinstance(raw_alts, list):
                 payload["alt_titles"] = [_convert_bo_entry(e) for e in raw_alts]
             else:
@@ -169,26 +196,12 @@ def build_text_input(data):
                         entry["bdrc_id"] = id_value
                     else:
                         entry["id"] = id_value
-                else:
-                    person, warns = lookup_person(clean_name)
-                    person_warnings.extend(warns)
-                    resolved_author = None
-                    if person and person.get("names"):
-                        names = person["names"]
-                        doc_lang = LANG_TAG_MAP.get(vault_tag, vault_tag)
-                        resolved_author = names.get(doc_lang) or names.get("en") or next(iter(names.values()), None)
-                    if person:
-                        if person.get("bdrc_id"):
-                            entry["bdrc_id"] = person["bdrc_id"]
-                        elif person.get("id"):
-                            entry["id"] = person["id"]
-                    if resolved_author and "_resolved_author" not in payload:
-                        payload["_resolved_author"] = resolved_author
-
+                # No API name lookups: an id must be given in the frontmatter
+                # as [bdrc:ID] or [op:ID].
                 if not entry.get("id") and not entry.get("bdrc_id"):
                     label = clean_name or name
                     person_warnings.append(
-                        f"{role} {label!r} not found (no id) — skipped"
+                        f"{role} {label!r} has no [bdrc:ID] or [op:ID] — skipped"
                     )
                     continue
 
@@ -215,7 +228,6 @@ def write_output(path, doc_info, items):
     timestamp = datetime.now(timezone.utc).isoformat()
     built = build_text_input(doc_info)
     person_warnings = built.pop("_person_warnings", [])
-    resolved_author = built.pop("_resolved_author", None)
 
     if not built.get("alt_titles"):
         items.append(("WARN", "alt_titles: missing — ignored for now"))
@@ -248,7 +260,7 @@ def write_output(path, doc_info, items):
         }
 
     out_path.write_text(json.dumps(result, ensure_ascii=False, indent=2), encoding="utf-8")
-    return out_path, person_warnings, resolved_author
+    return out_path, person_warnings
 
 
 def write_edition_output(path, doc_info, items):
@@ -258,7 +270,6 @@ def write_edition_output(path, doc_info, items):
 
     built = build_text_input(doc_info)
     person_warnings = built.pop("_person_warnings", [])
-    resolved_author = built.pop("_resolved_author", None)
 
     if not built.get("alt_titles"):
         items.append(("WARN", "alt_titles: missing — ignored for now"))
@@ -290,4 +301,4 @@ def write_edition_output(path, doc_info, items):
             "resolved": built,
         }
     out_path.write_text(json.dumps(result, ensure_ascii=False, indent=2), encoding="utf-8")
-    return out_path, person_warnings, resolved_author
+    return out_path, person_warnings

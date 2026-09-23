@@ -1,5 +1,6 @@
 from __future__ import annotations
 import json
+import os
 import urllib.request
 from datetime import datetime, timezone
 from pathlib import Path
@@ -43,8 +44,12 @@ SCHEMA_FIELDS = (
     "contributions", "tag_ids",
 )
 
-PERSONS_API = "http://13.250.189.160/v2/persons"
-LANGUAGES_API = "http://13.250.189.160/v2/languages"
+# API base for the library. Override with the VAULT_API_BASE env variable.
+DEFAULT_API_BASE = "https://library.webuddhist.com/v2/"
+API_BASE = (os.environ.get("VAULT_API_BASE") or DEFAULT_API_BASE).rstrip("/") + "/"
+
+PERSONS_API = API_BASE + "persons"
+LANGUAGES_API = API_BASE + "languages"
 BDRC_SEARCH = "https://autocomplete.bdrc.io/msearch"
 
 BDRC_LABEL_LANGS = {

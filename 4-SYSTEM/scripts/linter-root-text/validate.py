@@ -1,6 +1,7 @@
 from __future__ import annotations
 
 import re
+import unicodedata
 
 from constants import (
     LICENSE_VALUES, ROLE_VALUES, LANGUAGE_VALUES, LANGUAGE_NAME_MAP,
@@ -14,7 +15,6 @@ EDITION_TYPES = frozenset({"diplomatic", "critical", "collated"})
 REF_RE = re.compile(r'(\^[A-Za-z0-9]+(?:-[A-Za-z0-9]+)*)\s*$')
 VERSE_REF_MAX_PARTS = 3
 TRANSCLUSION_RE = re.compile(r'^\s*!\[\[.*?#\^.*?\]\]\s*$')
-DEVANAGARI_RE = re.compile(r'[\u0900-\u097F]')
 
 
 def _ref_part_count(ref):
@@ -70,40 +70,53 @@ def _resolved_lang_code(data):
     return None
 
 
-def _assert_iast_not_devanagari(text, field, items):
-    if isinstance(text, str) and DEVANAGARI_RE.search(text):
+def _non_latin_letters(text):
+    """Letters in text whose Unicode name is not LATIN (marks/digits ignored)."""
+    return sorted({
+        ch for ch in text
+        if ch.isalpha() and "LATIN" not in unicodedata.name(ch, "")
+    })
+
+
+def _assert_roman(text, field, items):
+    if not isinstance(text, str):
+        return
+    bad = _non_latin_letters(text)
+    if bad:
         items.append((
             "ERROR",
-            f"{field}: Sanskrit titles must be IAST (sa-x-iast), not Devanagari",
+            f"{field}: Pali titles must be in Roman script; "
+            f"non-Latin letters found: {''.join(bad)!r}",
         ))
 
 
-def _validate_sanskrit_iast_titles(data, items):
-    """When language is sa, title/alt_titles must be Latin/IAST, not Devanagari."""
-    if _resolved_lang_code(data) != "sa":
+def _validate_pali_roman_titles(data, items):
+    """When language is pi, title/alt_titles letters must all be Latin."""
+    if _resolved_lang_code(data) != "pi":
         return
+
+    def _is_pi_key(key):
+        return isinstance(key, str) and key.startswith("pi")
 
     title = data.get("title")
     if isinstance(title, str):
-        _assert_iast_not_devanagari(title, "title", items)
+        _assert_roman(title, "title", items)
     elif isinstance(title, dict):
         for key, val in title.items():
-            if key == "en":
-                continue
-            _assert_iast_not_devanagari(val, f"title.{key}", items)
+            if _is_pi_key(key):
+                _assert_roman(val, f"title.{key}", items)
 
     alt = data.get("alt_titles")
     if isinstance(alt, str):
-        _assert_iast_not_devanagari(alt, "alt_titles", items)
+        _assert_roman(alt, "alt_titles", items)
     elif isinstance(alt, list):
         for i, item in enumerate(alt):
             if isinstance(item, str):
-                _assert_iast_not_devanagari(item, f"alt_titles[{i}]", items)
+                _assert_roman(item, f"alt_titles[{i}]", items)
             elif isinstance(item, dict):
                 for key, val in item.items():
-                    if key == "en":
-                        continue
-                    _assert_iast_not_devanagari(val, f"alt_titles[{i}].{key}", items)
+                    if _is_pi_key(key):
+                        _assert_roman(val, f"alt_titles[{i}].{key}", items)
 
 
 def validate_contribution(value, field, index, items):
@@ -310,11 +323,13 @@ def _extract_headers(body):
 def validate_edition(data, body):
     items = []
 
-    URL_SOURCE_FIELDS = ("source", "gretil_url", "dsbc_url", "suttacentral_id")
+    # source_url is accepted as an alias; the linter rewrites it to `source`
+    URL_SOURCE_FIELDS = ("source", "source_url", "gretil_url", "dsbc_url", "suttacentral_id")
     matched_url = next((f for f in URL_SOURCE_FIELDS if data.get(f)), None)
     if not matched_url:
         items.append(("ERROR",
-            "source: required; add a `source` field with the text's URL (e.g. source: https://...)"))
+            "source: required; add a `source` (or `source_url`) field with the text's URL "
+            "(e.g. source: https://...)"))
     else:
         val = str(data[matched_url]).strip()
         if not (val.startswith("http://") or val.startswith("https://")):
@@ -426,7 +441,7 @@ def validate_text_input(data):
         else:
             items.append(("ERROR", "alt_titles: expected string or list of strings"))
 
-    _validate_sanskrit_iast_titles(data, items)
+    _validate_pali_roman_titles(data, items)
 
     vault_tag = data.get("lang_tag")
     if "language" not in data:
