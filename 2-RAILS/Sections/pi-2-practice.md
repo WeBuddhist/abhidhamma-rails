@@ -86,6 +86,13 @@ status: draft
     - [[#Suttantabhājanīyaṃ (Appamaññā)]] ^toc-13-1
     - [[#Abhidhammabhājanīyaṃ (Appamaññā)]] ^toc-13-2
     - [[#Pañhāpucchakaṃ (Appamaññā)]] ^toc-13-3
+- [[#Sikkhāpadavibhaṅgo]] ^toc-14
+    - [[#Abhidhammabhājanīyaṃ (Sikkhāpada)]] ^toc-14-1
+    - [[#Pañhāpucchakaṃ (Sikkhāpada)]] ^toc-14-2
+- [[#Paṭisambhidāvibhaṅgo]] ^toc-15
+    - [[#Suttantabhājanīyaṃ (Paṭisambhidā)]] ^toc-15-1
+    - [[#Abhidhammabhājanīyaṃ (Paṭisambhidā)]] ^toc-15-2
+    - [[#Pañhāpucchakaṃ (Paṭisambhidā)]] ^toc-15-3
 
 ## Khandhavibhaṅgo
 
@@ -863,3 +870,73 @@ Abhidhammabhājanīye appamaññāyo kusalatopi vipākatopi kiriyatopi cittuppā
 Pañhāpucchake mettādayo pāḷianusārena kusalādibhāvena, navatabbārammaṇā, lokiyā eva ekaparicchedā ca vuttā. Tasmā yoginā etā appamaññāyo lokiyāti ñatvā, sattārammaṇe pariggahe byāpādaṃ pahāya, averaṃ appamāṇaṃ kusalacittaṃ upasampādetvā, teparivaṭṭavasena bhāvento cittaṃ pariyodāpetabbaṃ.
 
 [[1-SOURCES/Commentaries/pi-vibhanga-atthakatha.md#^2-1451]]
+
+## Sikkhāpadavibhaṅgo
+
+[[#^toc-14|↑↑↑]]
+
+Sikkhāpadavibhaṅge pañca sikkhāpadāni sabbesaṃ kusalānaṃ sikkhānaṃ patiṭṭhānaṭṭhena padanti vuttāni, lokiyāneva ca kathitāni. Tasmā yoginā "sīlaṃ nāma bāhirakiriyāmattaṃ, cittena asambandha"nti gāhaṃ pahāya, pāṇātipātā adinnādānā kāmesumicchācārā musāvādā surāmerayamajjapamādaṭṭhānā ca veramaṇiyo sabbesaṃ uparikusalānaṃ patiṭṭhaṃ katvā upasampādetvā, pamādakāraṇaṃ majjaṃ parivajjento cittaṃ pariyodāpetabbaṃ.
+
+[[1-SOURCES/Commentaries/pi-vibhanga-atthakatha.md#^2-1454]]
+[[1-SOURCES/Commentaries/pi-vibhanga-atthakatha.md#^2-1476]]
+
+### Abhidhammabhājanīyaṃ (Sikkhāpada)
+
+[[#^toc-14-1|↑↑↑]]
+
+Abhidhammabhājanīye virati nippariyāyasikkhāpadaṃ, cetanā ceva cetanāsampayuttā dhammā ca pariyāyasikkhāpadanti dassitaṃ; vītikkamakāle hi veracetanā dussīlyaṃ nāma, guṇavantatarasmiñca vatthusmiṃ vītikkamo mahāsāvajjataro. Tasmā yoginā "appamattakaṃ idaṃ pāpa"nti appasāvajjagāhaṃ pahāya, vītikkamitabbavatthuṃ ārammaṇaṃ katvā veracetanāhi viramanto, ñāṇasampayuttacittena alobhaadosaamohamūlaṃ viratiṃ upasampādetvā, khaṇḍite ca sīle "puna evarūpaṃ na karissāmī"ti punadeva samādiyanto cittaṃ pariyodāpetabbaṃ.
+
+[[1-SOURCES/Commentaries/pi-vibhanga-atthakatha.md#^2-1456]]
+[[1-SOURCES/Commentaries/pi-vibhanga-atthakatha.md#^2-1464]]
+[[1-SOURCES/Commentaries/pi-vibhanga-atthakatha.md#^2-1469]]
+[[1-SOURCES/Commentaries/pi-vibhanga-atthakatha.md#^2-1472]]
+
+### Pañhāpucchakaṃ (Sikkhāpada)
+
+[[#^toc-14-2|↑↑↑]]
+
+Pañhāpucchake sikkhāpadāni sampattavirativasena niddiṭṭhāni, parittārammaṇāni paccuppannārammaṇāni bahiddhārammaṇāni ca vuttāni. Tasmā yoginā "pacchā viramissāmī"ti kālaparihāragāhaṃ pahāya, sampattavatthusmiṃyeva idāni viramanto paccuppanne vītikkamitabbavatthusmiṃ viratiṃ upasampādetvā, idaṃ lokiyaṃ sīlaṃ sabbesaṃ kusalānaṃ patiṭṭhaṃ katvā cittaṃ pariyodāpetabbaṃ.
+
+[[1-SOURCES/Commentaries/pi-vibhanga-atthakatha.md#^2-1475]]
+[[1-SOURCES/Commentaries/pi-vibhanga-atthakatha.md#^2-1476]]
+
+## Paṭisambhidāvibhaṅgo
+
+[[#^toc-15|↑↑↑]]
+
+Paṭisambhidāvibhaṅge catasso paṭisambhidā ñāṇasseva pabhedāti vuttā, adhigamena pariyattiyā savanena paripucchāya pubbayogena cāti pañcahi kāraṇehi visadā honti. Tasmā yoginā "bahussutabhāvamatteneva paṭisambhidā hotī"ti gāhaṃ pahāya, buddhavacanaṃ uggaṇhanto, sakkaccaṃ dhammaṃ suṇanto, uggahitapāḷiyā atthaṃ paripucchanto, pubbayogena saṅkhārasammasanañca upasampādetvā cittaṃ pariyodāpetabbaṃ.
+
+[[1-SOURCES/Commentaries/pi-vibhanga-atthakatha.md#^2-1479]]
+[[1-SOURCES/Commentaries/pi-vibhanga-atthakatha.md#^2-1487]]
+[[1-SOURCES/Commentaries/pi-vibhanga-atthakatha.md#^2-1489]]
+
+### Suttantabhājanīyaṃ (Paṭisambhidā)
+
+[[#^toc-15-1|↑↑↑]]
+
+Suttantabhājanīye attho hetuphalaṃ, dhammo paccayo, nirutti sabhāvanirutti, paṭibhānaṃ ñāṇesu ñāṇanti dassitaṃ; yasmā ca bhāsitaṃ ñatvā tassattho ñāyati, tasmā bhāsitaṃ paṭhamaṃ vuttaṃ. Tasmā yoginā bhāsitassa savanamatteneva santuṭṭhiṃ pahāya, "ayaṃ imassa bhāsitassa attho"ti bhāsitaṃ bhāsitatthañca paccavekkhanto, paccayaṃ disvā paccayuppannaṃ, phalaṃ disvā hetuṃ sallakkhento, sakkaccaṃ dhammassavanaṃ paripucchañca upasampādetvā cittaṃ pariyodāpetabbaṃ.
+
+[[1-SOURCES/Commentaries/pi-vibhanga-atthakatha.md#^2-1480]]
+[[1-SOURCES/Commentaries/pi-vibhanga-atthakatha.md#^2-1481]]
+[[1-SOURCES/Commentaries/pi-vibhanga-atthakatha.md#^2-1488]]
+[[1-SOURCES/Commentaries/pi-vibhanga-atthakatha.md#^2-1492]]
+
+### Abhidhammabhājanīyaṃ (Paṭisambhidā)
+
+[[#^toc-15-2|↑↑↑]]
+
+Abhidhammabhājanīye paṭibhānapaṭisambhidā itarāsaṃ kiccaṃ jānāti, sayaṃ pana taṃ kātuṃ na sakkoti, bahussuto mandassaro viya sarasampannassa appassutassa; sekkhānañca kusalacittesu, asekkhānaṃ kiriyacittesu paṭisambhidā uppajjanti. Tasmā yoginā "sarasampattiyā kathanamattena tipiṭakadharo"ti vā "jānanamatteneva kiccaṃ kata"nti vā vipallāsagāhaṃ pahāya, jānanasamatthatañca karaṇasamatthatañca pāṭiyekkaṃ sallakkhetvā, ñāṇasampayuttehi kusalacittehi dhammaṃ paccavekkhanaṃ upasampādento cittaṃ pariyodāpetabbaṃ.
+
+[[1-SOURCES/Commentaries/pi-vibhanga-atthakatha.md#^2-1498]]
+[[1-SOURCES/Commentaries/pi-vibhanga-atthakatha.md#^2-1499]]
+[[1-SOURCES/Commentaries/pi-vibhanga-atthakatha.md#^2-1500]]
+
+### Pañhāpucchakaṃ (Paṭisambhidā)
+
+[[#^toc-15-3|↑↑↑]]
+
+Pañhāpucchake niruttipaṭisambhidā paccuppannaṃ saddameva ārammaṇaṃ karoti, itarā pana ajjhattampi bahiddhāpi atītādibhedampi atthaṃ dhammaṃ ñāṇañca paccavekkhanti. Tasmā yoginā "saddamattameva dhammo"ti vā "bahiddhāva dhammā"ti vā gāhaṃ pahāya, ajjhattañca bahiddhā ca kusalākusalaṃ paccayadhammaṃ paccavekkhanto, maggaṃ garuṃ katvā paccavekkhaṇaṃ upasampādetvā cittaṃ pariyodāpetabbaṃ.
+
+[[1-SOURCES/Commentaries/pi-vibhanga-atthakatha.md#^2-1503]]
+[[1-SOURCES/Commentaries/pi-vibhanga-atthakatha.md#^2-1504]]
+[[1-SOURCES/Commentaries/pi-vibhanga-atthakatha.md#^2-1506]]

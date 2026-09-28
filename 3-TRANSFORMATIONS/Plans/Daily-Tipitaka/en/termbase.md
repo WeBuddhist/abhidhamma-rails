@@ -513,3 +513,21 @@ Eight rows above. Four are `candidate` because the translation-track termbase ca
 
 **⚠️ Reviewer: *sammappadhāna* / *sammāvāyāma* → "right effort" recurs.** The one-shot §4 renders *sammāvāyāma* as "right effort" inside the eightfold/fivefold path lists (vv. 486, 496), the same English it uses for *sammappadhāna* in chapter 8. Left un-normalised, as on days 122–123; a reviewer should settle both.
 
+### Added 2026-09-28 (days 139–143, chapters 14–15)
+
+| Pāli | English (Contemporary) | Used in | Bilingual Glossary / Sense | Status |
+|---|---|---|---|---|
+| attha (in *atthapaṭisambhidā*) | _meaning_ (here: the result, what follows from a cause) | day-142 §5 | Day-142 §5 headword. One-shot §4 wording "analytical knowledge of meaning" (v. 718). Commentary: *saṅkhepato hetuphalaṃ*, five kinds (`vibhanga-atthakatha #^2-1480`). Track termbase row is `<TODO>`. | draft |
+| paṭibhāna | _ready understanding_ | day-143 §1, §5 | Day-143 §5 headword. One-shot §4 wording (v. 718). Commentary: *ñāṇesu ñāṇaṃ*, knows the others' work but cannot do it (`#^2-1486`, `#^2-1498`). | draft |
+| paṭisambhidā | _analytical knowledge_ | day-141 §1, §5 | Day-141 §5 headword. One-shot §4 wording throughout vv. 718–750. Commentary: *ñāṇasseva pabhedā* (`#^2-1479`). **See the ⚠️ note below.** | draft |
+| sikkhāpada | _training rule_ | day-139 §1, §5 | Day-139 §5 headword. One-shot §4 wording throughout vv. 703–717. Commentary: *sikkhānaṃ patiṭṭhānaṭṭhena padaṃ* (`#^2-1454`). **See the ⚠️ note below.** | draft |
+| virati | _abstinence_ | day-140 §1, §5 | Day-140 §5 headword. **BB curated** in the translation-track termbase, headword `virati`. Commentary: the precept in the strict sense (*nippariyāyasikkhāpadaṃ*), against *cetanā* as the precept in the loose sense (`#^2-1456`). | draft |
+
+**Locked rows used verbatim, unchanged:** *kusala* → wholesome; *cetanā* → volition (day-079) — day-140 §1; *vipāka* → resultant / result (day-026) — day-142 §1; *kiriya* → functional (day-036) — day-143 §1; *nibbāna* → left untranslated (day-095). The day-130 *sīla* row (moral discipline) was not needed: this chapter's own word is *sikkhāpada*.
+
+**Chapters 14 and 15 are complete.** Days 139–143 cover `Sikkhāpadavibhaṅgo` vv. 703–717 and `Paṭisambhidāvibhaṅgo` vv. 718–750, end to end. Both rails now carry their entries, built 2026-09-28 from `pi-vibhanga-atthakatha.md` ^2-1454 – ^2-1509 — two nodes for Sikkhāpada, because the commentary (like the root text) gives it no Suttantabhājanīya, and three for Paṭisambhidā. Rail prose is new and still needs a native Pāli reviewer before these days are published.
+
+**⚠️ Reviewer: the schedule's plan headings disagree with §4 for both chapters.** Plan 19 says "Analysis of the Training Precepts" and Plan 20 says "Analysis of the Discriminations"; the one-shot says "training rules" and "analytical knowledges" throughout. §1 and §5 follow §4. This is the same pattern as *iddhipāda* (Plan 14). Settle the rendering and push it back into `schedule.md` and the source spreadsheet.
+
+**⚠️ Reviewer: *dhamma* in *dhammapaṭisambhidā* is "principles" in §4.** That is right for this chapter, where *dhamma* means cause or condition (`#^2-1481`), but it sits beside the locked technical row *dhamma* → phenomenon. §1 day-141 uses "principles" only in English, inside the name of the knowledge, and does not add a row.
+
