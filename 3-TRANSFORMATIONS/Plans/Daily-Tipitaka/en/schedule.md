@@ -364,7 +364,9 @@ Full day-by-day detail lives in the source spreadsheet (`0-INBOX/ITCC_2026_Bodhg
 | day-149 | 9 Oct (Sat) | 16. Ñāṇavibhaṅgo | 788–800 |
 | day-150 | 10 Oct (Sun) | 16. Ñāṇavibhaṅgo | 801–809 |
 | day-151 | 11 Oct (Mon) | 16. Ñāṇavibhaṅgo | 810–815 |
-| day-152 | 12 Oct (Tue) | 16. Ñāṇavibhaṅgo | 816–830 |
+| day-152 | 12 Oct (Tue) | 16. Ñāṇavibhaṅgo | 816–831 |
+
+> ⚙️ **Boundary correction, 2026-09-29 — day-152.** `^2-831` sat in no scheduled day: day-152 ended at 830 and day-153 opens chapter 17 at 832. The block is not a bare colophon — it is the tenth power of the Tathāgata (*āsavānaṃ khayaṃ yathābhūtaṃ ñāṇaṃ*), then `Dasakaṃ.` and `Ñāṇavibhaṅgo niṭṭhito.` — so the gap dropped real content. Corrected on the standing 2026-09-09 rule that each day sits inside one chapter: **day-152 is now 816–831** (was 816–830). Found by `4-SYSTEM/scripts/check-schedule-boundaries.py`. The source spreadsheet needs this edit too.
 
 ### Plan 22 — Days 153–165 · Analysis of Minor Subjects (13–25 Oct)
 
