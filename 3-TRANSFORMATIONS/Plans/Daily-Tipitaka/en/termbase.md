@@ -531,3 +531,25 @@ Eight rows above. Four are `candidate` because the translation-track termbase ca
 
 **⚠️ Reviewer: *dhamma* in *dhammapaṭisambhidā* is "principles" in §4.** That is right for this chapter, where *dhamma* means cause or condition (`#^2-1481`), but it sits beside the locked technical row *dhamma* → phenomenon. §1 day-141 uses "principles" only in English, inside the name of the knowledge, and does not add a row.
 
+### Added 2026-09-29 (days 144–152, chapter 16)
+
+| Pāli | English (Contemporary) | Used in | Bilingual Glossary / Sense | Status |
+|---|---|---|---|---|
+| adhimutti | _inclination_ | day-151 §1, §5 | Day-151 §5 headword. One-shot §4 wording (v. 813, v. 818). The fifth power; *ajjhāsayadhātu* draws like to like (`vibhanga-atthakatha #^2-1699`). | draft |
+| anusaya | _underlying tendency_ | day-152 §1, §5 | Day-152 §5 headword. One-shot §4 wording (v. 816), the seven named. Neither termbase carries it. | draft |
+| bala | _power_ (in *tathāgatabala*: _Tathāgata-power_) | day-146 §1, §5 | Day-146 §5 headword. **BB curated** in the translation-track termbase. Commentary: *akampiyaṭṭhena upatthambhakaṭṭhena* (`#^2-1519`). | draft |
+| kammassakatā (*kammassakatañāṇa*) | _knowledge that action is one's own_ (heading: _owning one's actions_) | day-145 §1, §5; day-149 §1 | Day-145 §5 headword. One-shot §4 wording (v. 754, v. 793). Commentary `#^2-1584`. | draft |
+| kosalla | _skill_ (*āya-*, *apāya-*, *upāya-*: _in gain, in loss, in means_) | day-148 §1, §5 | Day-148 §5 headword. One-shot §4 wording (v. 771). Commentary `#^2-1582`. | draft |
+| ñāṇavatthu | _ground of knowledge_ | day-144 §1, §5 | Day-144 §5 headword. One-shot §4 wording throughout vv. 751–760. Commentary: *ñāṇañca taṃ vatthu ca … sampattīnaṃ* (`#^2-1511`). | draft |
+| nibbidā | _disenchantment_ | day-149 §1, §5 | Day-149 §5 headword. One-shot §4 wording (v. 798). | draft |
+| paññā | _wisdom_ | day-144 §1; day-147 §1, §5 | Day-147 §5 headword. **BB curated** in the translation-track termbase; no plan row until now. | draft |
+| paṭipadā | _mode of practice_ (the four: difficult/easy × slow/quick) | day-150 §1, §5 | Day-150 §5 headword. One-shot §4 wording (v. 801). Commentary `#^2-1593`. | draft |
+
+**Locked rows used verbatim, unchanged:** *indriya* → faculty (day-035); *āsava* → taint (day-058) — day-147, day-152 §1; *viññāṇa* → consciousness (day-080); *nibbāna* → left untranslated (day-095). *ñāṇa* is used in §1 as plain "knowledge" with no row of its own.
+
+**Chapter 16 is complete.** Days 144–152 cover `Ñāṇavibhaṅgo` vv. 751–831, end to end. Both rails now carry its eleven entries (chapter intro plus ten nodes), built 2026-09-29 from `pi-vibhanga-atthakatha.md` ^2-1510 – ^2-1738, following the commentary's own structure rather than the root text's one-heading-per-mātikā layout. Rail prose is new and still needs a native Pāli reviewer before these days are published.
+
+**Schedule correction, 2026-09-29:** `^2-831` (the tenth power plus the chapter colophon) sat in no day; day-152 is now 816–831. See the boundary-correction note in `schedule.md`. The source spreadsheet still needs the edit.
+
+**⚠️ Reviewer: *āsava* is "mental taint" in the one-shot §4**, where the locked row is _taint_. Left as the translation has it; §1 uses the locked form.
+
