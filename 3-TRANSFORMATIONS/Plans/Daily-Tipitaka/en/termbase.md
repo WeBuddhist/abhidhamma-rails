@@ -553,3 +553,28 @@ Eight rows above. Four are `candidate` because the translation-track termbase ca
 
 **⚠️ Reviewer: *āsava* is "mental taint" in the one-shot §4**, where the locked row is _taint_. Left as the translation has it; §1 uses the locked form.
 
+
+### Added 2026-10-12 (days 153–165, chapter 17)
+
+| Pāli | English (Contemporary) | Used in | Bilingual Glossary / Sense | Status |
+|---|---|---|---|---|
+| agati | _going astray_ | day-160 §1, §5 | Day-160 §5 headword. One-shot §4 wording (v. 939 range, "four ways of going astray"). Commentary's judge example (`vibhanga-atthakatha #^2-1875`). | draft |
+| agārava | _disrespect_ | day-161 §1, §5 | Day-161 §5 headword. One-shot §4 wording ("six kinds of disrespect"). Commentary `#^2-1900`. | draft |
+| aggi | _fire_ (*rāgaggi* etc.: _the fire of lust / hate / delusion_) | day-157 §1, §5 | Day-157 §5 headword. One-shot §4 wording (`^2-U5`, "the fire of lust, the fire of hate, the fire of delusion"). Commentary: *anudahanaṭṭhena aggi* (`#^2-1863`). *rāga* stays "lust" as in §4; the locked _greed_ row is for *lobha*. | draft |
+| dovacassatā | _being hard to correct_ | day-156 §1, §5 | Day-156 §5 headword. One-shot §4 wording (v. 901). | draft |
+| kusītavatthu | _ground of laziness_ | day-162 §1, §5 | Day-162 §5 headword. One-shot §4 wording (v. 953). Commentary: *‘handāhaṃ nipajjāmī’ti osīdanaṃ* (`#^2-1911`). | draft |
+| lokadhamma | _worldly condition_ (the eight) | day-163 §1, §5 | Day-163 §5 headword. One-shot §4 wording (v. 954). Commentary: *buddhānampi honti eva* (`#^2-1913`). | draft |
+| mada | _intoxication_ (pride that makes the mind drunk) | day-153 §1, §5 | Day-153 §5 headword. One-shot §4 wording throughout vv. 832–845. Commentary: *majjanākārappavatto māno* (`#^2-1740`). | draft |
+| māna | _conceit_ (three shapes: _"I am better / equal / worse"_) | day-154 §1, §5; day-155 §1; day-162 §1 | Day-154 §5 headword. One-shot §4 wording (vv. 866–884). Already the rendering inside the locked *anusaya* list (day-152). | draft |
+| micchāñāṇa | _wrong knowledge_ | day-164 §1, §5 | Day-164 §5 headword. One-shot §4 wording (v. 970, the ten wrongnesses). Commentary `#^2-1925`. | draft |
+| pamāda | _heedlessness_ | day-153 §1; day-158 §1, §5 | Day-158 §5 headword. One-shot §4 wording (v. 846, v. 928). Commentary: the chameleon simile (`#^2-1762`). | draft |
+| papañca | _proliferation_ (plain unwrap: _endless mental chatter_) | day-161 §1 | One-shot §4 wording (v. 946, "delight in proliferation"). Neither termbase carries it. | candidate |
+| taṇhāvicarita | _wandering of craving_ | day-164 §1; day-165 §1, §5 | Day-165 §5 headword. One-shot §4 wording (vv. 842, 973–976). | draft |
+| upanāha | _resentment_ | day-155 §1, §5 | Day-155 §5 headword. One-shot §4 wording (v. 891). ⚠️ The one-shot also renders *āghāta* (in *āghātavatthu*, vv. 960, 967) as "resentment"; day-163/164 §1 follow §4 there. Two Pāli terms now share one English word — reviewer may want *āghāta* → _ill-will / grudge_ in a later pass. | draft |
+| upārambha | _fault-finding_ | day-159 §1, §5 | Day-159 §5 headword. One-shot §4 wording (`^2-U24` range, "a fault-finding mind"). Commentary: the tailor simile (`#^2-1870`). | draft |
+
+**Locked rows used verbatim, unchanged:** *kilesa* → defilement; *āsava* → taint (day-157, day-159 §1; the one-shot says "mental taint"); *upādāna* → clinging; *anusaya* → underlying tendency; *saṃyojana* → fetter; *nīvaraṇa* → hindrance; *jhāna* (Pāli retained, gloss _meditative absorption_); *nibbāna* (untranslated); *taṇhā* → craving.
+
+**Chapter 17 is complete.** Days 153–165 cover `Khuddakavatthuvibhaṅgo` vv. 832–977 plus the unnumbered blocks `^2-U1`–`U72`. Both rails now carry its thirteen entries (chapter intro plus twelve nodes), built 2026-10-12 from `pi-vibhanga-atthakatha.md` ^2-1739 – ^2-1942. Rail prose still needs a native Pāli reviewer.
+
+**Schedule correction, 2026-10-12:** 18 unnumbered blocks fell between days; days 157–161 now end on `^2-U7`, `U23`, `U39`, `U59`, `U68`. See the boundary-correction note in `schedule.md`. The source spreadsheet still needs the edit.

@@ -4,6 +4,7 @@ language: en
 plan: 22
 section: "17. Khuddakavatthuvibhaṅgo"
 verses: "914–924"
+verses_extended: "914–924 + U1–U7"
 book_source: 1-SOURCES/Text/pi-2.md
 summary_rail: 2-RAILS/Sections/pi-2-summaries.md
 practice_rail: 2-RAILS/Sections/pi-2-practice.md
@@ -21,7 +22,9 @@ status: assets-gathered
 |---|---|---|---|
 | day-157 | 17 Oct (Sun) | 17. Khuddakavatthuvibhaṅgo | 914–924 |
 
-**Subsection note.** vv. 914–924 → `### Tikaniddeso (Khuddaka)`. Root-text subsections in range: (6) Tayo āsavā, (7) Tīṇi saṃyojanāni, (8) Tisso taṇhā, (9) Aparāpi tisso taṇhā, (10) Aparāpi tisso taṇhā, (11) Tisso esanā, (12) Tisso vidhā, (13) Tīṇi bhayāni, (14) Tīṇi tamāni, (15) Tīṇi titthāyatanāni, (16) Tayo kiñcanā. Matched to the rails by the commentary's nodes, since the rail headings follow the commentary, not the root text.
+**Subsection note.** vv. 914–924 → `### Tikaniddeso (Khuddaka)`. Root-text subsections in range: (6) Tayo āsavā, (7) Tīṇi saṃyojanāni, (8) Tisso taṇhā, (9) Aparāpi tisso taṇhā, (10) Aparāpi tisso taṇhā, (11) Tisso esanā, (12) Tisso vidhā, (13) Tīṇi bhayāni, (14) Tīṇi tamāni, (15) Tīṇi titthāyatanāni, (16) Tayo kiñcanā, (17) Tīṇi aṅgaṇāni, (18) Tīṇi malāni, (19) Tīṇi visamāni, (20) Aparānipi tīṇi visamāni, (21) Tayo aggī, (22) Tayo kasāvā, (23) Aparepi tayo kasāvā. Matched to the rails by the commentary's nodes, since the rail headings follow the commentary, not the root text.
+
+**Boundary correction, 2026-10-12.** Unnumbered blocks ^2-U1–U7 sat between v. 924 and the next day's first verse, in no scheduled day. They finish this day's item, so this day now runs **914–924 + U1–U7** and its last block is `^2-U7`. See the boundary-correction note in `schedule.md`.
 
 **Rail provenance.** The `Khuddakavatthuvibhaṅgo` entries in both rails were built 2026-10-12 from `1-SOURCES/Commentaries/pi-vibhanga-atthakatha.md` ^2-1739 – ^2-1942, following the commentary's own nodes (`Ekakamātikādivaṇṇanā`, then one `…niddesavaṇṇanā` per number, with `Taṇhāvicarita-` and `Diṭṭhigataniddesavaṇṇanā` combined under the root's single Taṇhāvicaritaniddeso heading). Rail prose is new and still needs a native Pāli reviewer before the days built on it are published.
 
@@ -96,6 +99,34 @@ Tattha katamāni tīṇi titthāyatanāni? Idhekacco samaṇo vā brāhmaṇo v�
 ##### (16) Tayo kiñcanā ^2-17-4-16-0
 
 Tattha katame tayo kiñcanā [katamāni tīṇi kiñcanāni (?) dī. ni. 3.305]? Rāgo kiñcanaṃ, doso kiñcanaṃ, moho kiñcanaṃ – ime tayo kiñcanā. ^2-924
+
+##### (17) Tīṇi aṅgaṇāni ^2-17-4-17-0
+
+Tattha katamāni tīṇi aṅgaṇāni? Rāgo aṅgaṇaṃ, doso aṅgaṇaṃ, moho aṅgaṇaṃ – imāni tīṇi aṅgaṇāni. ^2-U1
+
+##### (18) Tīṇi malāni ^2-17-4-18-0
+
+Tattha katamāni tīṇi malāni? Rāgo malaṃ, doso malaṃ, moho malaṃ – imāni tīṇi malāni. ^2-U2
+
+##### (19) Tīṇi visamāni ^2-17-4-19-0
+
+Tattha katamāni tīṇi visamāni? Rāgo visamaṃ, doso visamaṃ, moho visamaṃ – imāni tīṇi visamāni. ^2-U3
+
+##### (20) Aparānipi tīṇi visamāni ^2-17-4-20-0
+
+Tattha katamāni aparānipi tīṇi visamāni? Kāyavisamaṃ, vacīvisamaṃ, manovisamaṃ – imāni tīṇi visamāni. ^2-U4
+
+##### (21) Tayo aggī ^2-17-4-21-0
+
+Tattha katame tayo aggī? Rāgaggi, dosaggi, mohaggi – ime tayo aggī. ^2-U5
+
+##### (22) Tayo kasāvā ^2-17-4-22-0
+
+Tattha katame tayo kasāvā? Rāgakasāvo, dosakasāvo, mohakasāvo – ime tayo kasāvā. ^2-U6
+
+##### (23) Aparepi tayo kasāvā ^2-17-4-23-0
+
+Tattha katame aparepi tayo kasāvā? Kāyakasāvo, vacīkasāvo, manokasāvo – ime tayo kasāvā. ^2-U7
 
 ## Section summary (from `2-RAILS/Sections/pi-2-summaries.md`)
 
@@ -228,3 +259,45 @@ Therein, what are the three sectarian grounds? Here some ascetic or brahmin spea
 ![[1-SOURCES/Text/pi-2.md#^2-924]]
 
 Therein, what are the three impediments? Lust is an impediment, hate is an impediment, delusion is an impediment — these are the three impediments. ^2-924
+
+##### (17) The three blemishes ^2-17-4-17-0
+
+![[1-SOURCES/Text/pi-2.md#^2-U1]]
+
+Therein, what are the three blemishes? Lust is a blemish, hate is a blemish, delusion is a blemish — these are the three blemishes. ^2-U1
+
+##### (18) The three stains ^2-17-4-18-0
+
+![[1-SOURCES/Text/pi-2.md#^2-U2]]
+
+Therein, what are the three stains? Lust is a stain, hate is a stain, delusion is a stain — these are the three stains. ^2-U2
+
+##### (19) The three unevennesses ^2-17-4-19-0
+
+![[1-SOURCES/Text/pi-2.md#^2-U3]]
+
+Therein, what are the three unevennesses? Lust is unevenness, hate is unevenness, delusion is unevenness — these are the three unevennesses. ^2-U3
+
+##### (20) Another three unevennesses ^2-17-4-20-0
+
+![[1-SOURCES/Text/pi-2.md#^2-U4]]
+
+Therein, what are another three unevennesses? Bodily unevenness, verbal unevenness, mental unevenness — these are the three unevennesses. ^2-U4
+
+##### (21) The three fires ^2-17-4-21-0
+
+![[1-SOURCES/Text/pi-2.md#^2-U5]]
+
+Therein, what are the three fires? The fire of lust, the fire of hate, the fire of delusion — these are the three fires. ^2-U5
+
+##### (22) The three corruptions ^2-17-4-22-0
+
+![[1-SOURCES/Text/pi-2.md#^2-U6]]
+
+Therein, what are the three corruptions? The corruption of lust, the corruption of hate, the corruption of delusion — these are the three corruptions. ^2-U6
+
+##### (23) Another three corruptions ^2-17-4-23-0
+
+![[1-SOURCES/Text/pi-2.md#^2-U7]]
+
+Therein, what are another three corruptions? Bodily corruption, verbal corruption, mental corruption — these are the three corruptions. ^2-U7

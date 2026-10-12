@@ -4,6 +4,7 @@ language: en
 plan: 22
 section: "17. Khuddakavatthuvibhaṅgo"
 verses: "943–947"
+verses_extended: "943–947 + U67–U68"
 book_source: 1-SOURCES/Text/pi-2.md
 summary_rail: 2-RAILS/Sections/pi-2-summaries.md
 practice_rail: 2-RAILS/Sections/pi-2-practice.md
@@ -22,7 +23,9 @@ status: assets-gathered
 |---|---|---|---|
 | day-161 | 21 Oct (Thu) | 17. Khuddakavatthuvibhaṅgo | 943–947 |
 
-**Subsection note.** vv. 943–947 → `### Pañcakaniddeso (Khuddaka)`, `### Chakkaniddeso (Khuddaka)`. Root-text subsections in range: (15) Pañca diṭṭhadhammanibbānavādā, (1) Cha vivādamūlāni, (2) Cha chandarāgā, (3) Cha virodhavatthūni, (4) Cha taṇhākāyā, (5) Cha agāravā, (6) Cha parihāniyā dhammā, (7) Aparepi cha parihāniyā dhammā, (8) Cha somanassupavicārā, (9) Cha domanassupavicārā, (10) Cha upekkhupavicārā, (11) Cha gehasitāni somanassāni. Matched to the rails by the commentary's nodes, since the rail headings follow the commentary, not the root text.
+**Subsection note.** vv. 943–947 → `### Pañcakaniddeso (Khuddaka)`, `### Chakkaniddeso (Khuddaka)`. Root-text subsections in range: (15) Pañca diṭṭhadhammanibbānavādā, (1) Cha vivādamūlāni, (2) Cha chandarāgā, (3) Cha virodhavatthūni, (4) Cha taṇhākāyā, (5) Cha agāravā, (6) Cha parihāniyā dhammā, (7) Aparepi cha parihāniyā dhammā, (8) Cha somanassupavicārā, (9) Cha domanassupavicārā, (10) Cha upekkhupavicārā, (11) Cha gehasitāni somanassāni, (12) Cha gehasitāni domanassāni, (13) Cha gehasitā upekkhā. Matched to the rails by the commentary's nodes, since the rail headings follow the commentary, not the root text.
+
+**Boundary correction, 2026-10-12.** Unnumbered blocks ^2-U67–U68 sat between v. 947 and the next day's first verse, in no scheduled day. They finish this day's item, so this day now runs **943–947 + U67–U68** and its last block is `^2-U68`. See the boundary-correction note in `schedule.md`.
 
 **Rail provenance.** The `Khuddakavatthuvibhaṅgo` entries in both rails were built 2026-10-12 from `1-SOURCES/Commentaries/pi-vibhanga-atthakatha.md` ^2-1739 – ^2-1942, following the commentary's own nodes (`Ekakamātikādivaṇṇanā`, then one `…niddesavaṇṇanā` per number, with `Taṇhāvicarita-` and `Diṭṭhigataniddesavaṇṇanā` combined under the root's single Taṇhāvicaritaniddeso heading). Rail prose is new and still needs a native Pāli reviewer before the days built on it are published.
 
@@ -83,6 +86,14 @@ Tattha katame cha upekkhupavicārā? Cakkhunā rūpaṃ disvā upekkhāṭṭhā
 ##### (11) Cha gehasitāni somanassāni ^2-17-7-11-0
 
 Tattha katamāni cha gehasitāni somanassāni? Manāpiyesu rūpesu gehasitaṃ cetasikaṃ sātaṃ cetasikaṃ sukhaṃ cetosamphassajaṃ sātaṃ sukhaṃ vedayitaṃ cetosamphassajā sātā sukhā vedanā, manāpiyesu saddesu…pe… manāpiyesu gandhesu…pe… manāpiyesu rasesu…pe… manāpiyesu phoṭṭhabbesu…pe… manāpiyesu dhammesu gehasitaṃ cetasikaṃ sātaṃ cetasikaṃ sukhaṃ cetosamphassajaṃ sātaṃ sukhaṃ vedayitaṃ cetosamphassajā sātā sukhā vedanā – imāni cha gehasitāni somanassāni. ^2-947
+
+##### (12) Cha gehasitāni domanassāni ^2-17-7-12-0
+
+Tattha katamāni cha gehasitāni domanassāni? Amanāpiyesu rūpesu gehasitaṃ cetasikaṃ asātaṃ cetasikaṃ dukkhaṃ cetosamphassajaṃ asātaṃ dukkhaṃ vedayitaṃ cetosamphassajā asātā dukkhā vedanā, amanāpiyesu saddesu…pe… amanāpiyesu gandhesu…pe… amanāpiyesu rasesu…pe… amanāpiyesu phoṭṭhabbesu…pe… amanāpiyesu dhammesu gehasitaṃ cetasikaṃ asātaṃ cetasikaṃ dukkhaṃ cetosamphassajaṃ asātaṃ dukkhaṃ vedayitaṃ cetosamphassajā asātā dukkhā vedanā – imāni cha gehasitāni domanassāni. ^2-U67
+
+##### (13) Cha gehasitā upekkhā ^2-17-7-13-0
+
+Tattha katamā cha gehasitā upekkhā? Upekkhāṭṭhāniyesu rūpesu gehasitaṃ cetasikaṃ neva sātaṃ nāsātaṃ cetosamphassajaṃ adukkhamasukhaṃ vedayitaṃ cetosamphassajā adukkhamasukhā vedanā, upekkhāṭṭhāniyesu saddesu…pe… upekkhāṭṭhāniyesu gandhesu…pe… upekkhāṭṭhāniyesu rasesu…pe… upekkhāṭṭhāniyesu phoṭṭhabbesu…pe… upekkhāṭṭhāniyesu dhammesu gehasitaṃ cetasikaṃ neva sātaṃ nāsātaṃ cetosamphassajaṃ adukkhamasukhaṃ vedayitaṃ cetosamphassajā adukkhamasukhā vedanā – imā cha gehasitā upekkhā. ^2-U68
 
 ## Section summary (from `2-RAILS/Sections/pi-2-summaries.md`)
 
@@ -225,3 +236,15 @@ Therein, what are the six explorations with equanimity? Having seen a sight with
 ![[1-SOURCES/Text/pi-2.md#^2-947]]
 
 Therein, what are the six kinds of household joy? Concerning pleasing sights: the mental comfort connected with the household life, the mental happiness, the comfortable happy experience born of mind-contact, the comfortable happy feeling born of mind-contact; concerning pleasing sounds… concerning pleasing smells… concerning pleasing tastes… concerning pleasing tangible things… concerning pleasing mental objects: the mental comfort connected with the household life, the mental happiness, the comfortable happy experience born of mind-contact, the comfortable happy feeling born of mind-contact — these are the six kinds of household joy. ^2-947
+
+##### (12) The six kinds of household grief ^2-17-7-12-0
+
+![[1-SOURCES/Text/pi-2.md#^2-U67]]
+
+Therein, what are the six kinds of household grief? Concerning displeasing sights: the mental discomfort connected with the household life, the mental pain, the uncomfortable painful experience born of mind-contact, the uncomfortable painful feeling born of mind-contact; concerning displeasing sounds… concerning displeasing smells… concerning displeasing tastes… concerning displeasing tangible things… concerning displeasing mental objects: the mental discomfort connected with the household life, the mental pain, the uncomfortable painful experience born of mind-contact, the uncomfortable painful feeling born of mind-contact — these are the six kinds of household grief. ^2-U67
+
+##### (13) The six kinds of household equanimity ^2-17-7-13-0
+
+![[1-SOURCES/Text/pi-2.md#^2-U68]]
+
+Therein, what are the six kinds of household equanimity? Concerning sights that are a basis for equanimity: the mental experience connected with the household life that is neither comfortable nor uncomfortable, the neither-painful-nor-pleasant experience born of mind-contact, the neither-painful-nor-pleasant feeling born of mind-contact; concerning sounds that are a basis for equanimity… concerning smells that are a basis for equanimity… concerning tastes that are a basis for equanimity… concerning tangible things that are a basis for equanimity… concerning mental objects that are a basis for equanimity: the mental experience connected with the household life that is neither comfortable nor uncomfortable, the neither-painful-nor-pleasant experience born of mind-contact, the neither-painful-nor-pleasant feeling born of mind-contact — these are the six kinds of household equanimity. ^2-U68

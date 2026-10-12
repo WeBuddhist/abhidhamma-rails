@@ -4,6 +4,7 @@ language: en
 plan: 22
 section: "17. Khuddakavatthuvibhaṅgo"
 verses: "925–932"
+verses_extended: "925–932 + U22–U23"
 book_source: 1-SOURCES/Text/pi-2.md
 summary_rail: 2-RAILS/Sections/pi-2-summaries.md
 practice_rail: 2-RAILS/Sections/pi-2-practice.md
@@ -21,7 +22,9 @@ status: assets-gathered
 |---|---|---|---|
 | day-158 | 18 Oct (Mon) | 17. Khuddakavatthuvibhaṅgo | 925–932 |
 
-**Subsection note.** vv. 925–932 → `### Tikaniddeso (Khuddaka)`. Root-text subsections in range: (24. Ka) assādadiṭṭhi, (Kha) attānudiṭṭhi, (Ga) micchādiṭṭhi, (25. Ka) arati, (Kha) vihesā, (Ga) adhammacariyā, (26. Ka) dovacassatā, (Kha) pāpamittatā, (Ga) nānattasaññā, (27. Ka) uddhaccaṃ, (Kha) kosajjaṃ, (Ga) pamādo, (28. Ka) asantuṭṭhitā, (Kha) asampajaññatā, (Ga) mahicchatā, (29. Ka) ahirikaṃ, (Kha) anottappaṃ, (Ga) pamādo, (30. Ka) anādariyaṃ, (Kha) dovacassatā, (Ga) pāpamittatā, (31. Ka) assaddhiyaṃ. Matched to the rails by the commentary's nodes, since the rail headings follow the commentary, not the root text.
+**Subsection note.** vv. 925–932 → `### Tikaniddeso (Khuddaka)`. Root-text subsections in range: (24. Ka) assādadiṭṭhi, (Kha) attānudiṭṭhi, (Ga) micchādiṭṭhi, (25. Ka) arati, (Kha) vihesā, (Ga) adhammacariyā, (26. Ka) dovacassatā, (Kha) pāpamittatā, (Ga) nānattasaññā, (27. Ka) uddhaccaṃ, (Kha) kosajjaṃ, (Ga) pamādo, (28. Ka) asantuṭṭhitā, (Kha) asampajaññatā, (Ga) mahicchatā, (29. Ka) ahirikaṃ, (Kha) anottappaṃ, (Ga) pamādo, (30. Ka) anādariyaṃ, (Kha) dovacassatā, (Ga) pāpamittatā, (31. Ka) assaddhiyaṃ, (Kha) avadaññutā, (Ga) kosajjaṃ. Matched to the rails by the commentary's nodes, since the rail headings follow the commentary, not the root text.
+
+**Boundary correction, 2026-10-12.** Unnumbered blocks ^2-U22–U23 sat between v. 932 and the next day's first verse, in no scheduled day. They finish this day's item, so this day now runs **925–932 + U22–U23** and its last block is `^2-U23`. See the boundary-correction note in `schedule.md`.
 
 **Rail provenance.** The `Khuddakavatthuvibhaṅgo` entries in both rails were built 2026-10-12 from `1-SOURCES/Commentaries/pi-vibhanga-atthakatha.md` ^2-1739 – ^2-1942, following the commentary's own nodes (`Ekakamātikādivaṇṇanā`, then one `…niddesavaṇṇanā` per number, with `Taṇhāvicarita-` and `Diṭṭhigataniddesavaṇṇanā` combined under the root's single Taṇhāvicaritaniddeso heading). Rail prose is new and still needs a native Pāli reviewer before the days built on it are published.
 
@@ -114,6 +117,14 @@ Tattha katamā pāpamittatā? Ye te puggalā assaddhā dussīlā appassutā macc
 ##### (31. Ka) assaddhiyaṃ ^2-17-4-45-0
 
 Tattha katamaṃ assaddhiyaṃ? Idhekacco assaddho hoti, na saddahati buddhaṃ vā dhammaṃ vā saṅghaṃ vā, yaṃ evarūpaṃ assaddhiyaṃ assaddahanā anokappanā anabhippasādo – idaṃ vuccati "assaddhiyaṃ". ^2-932
+
+##### (Kha) avadaññutā ^2-17-4-46-0
+
+Tattha katamā avadaññutā? Pañca macchariyāni – āvāsamacchariyaṃ, kulamacchariyaṃ, lābhamacchariyaṃ, vaṇṇamacchariyaṃ, dhammamacchariyaṃ. Yaṃ evarūpaṃ maccheraṃ maccharāyanā maccharāyitattaṃ vevicchaṃ kadariyaṃ kaṭukañcukatā aggahitattaṃ cittassa – ayaṃ vuccati "avadaññutā". ^2-U22
+
+##### (Ga) kosajjaṃ ^2-17-4-47-0
+
+Tattha katamaṃ kosajjaṃ? Kāyaduccarite vā vacīduccarite vā manoduccarite vā pañcasu vā kāmaguṇesu cittassa vossaggo, vossaggānuppadānaṃ kusalānaṃ dhammānaṃ, bhāvanāya asakkaccakiriyatā asātaccakiriyatā anaṭṭhitakiriyatā olīnavuttitā nikkhittachandatā nikkhittadhuratā anāsevanā abhāvanā abahulīkammaṃ anadhiṭṭhānaṃ ananuyogo pamādo – idaṃ vuccati "kosajjaṃ". ^2-U23
 
 ## Section summary (from `2-RAILS/Sections/pi-2-summaries.md`)
 
@@ -286,3 +297,15 @@ Therein, what is evil friendship? Those persons who are without confidence, of b
 ![[1-SOURCES/Text/pi-2.md#^2-932]]
 
 Therein, what is lack of confidence? Here someone is without confidence: he does not have confidence in the Buddha, or the teaching, or the Order; whatever lack of confidence of this kind there is, absence of trusting, absence of reliance, absence of full confidence — this is called "lack of confidence". ^2-932
+
+##### (b) Uncharitableness ^2-17-4-46-0
+
+![[1-SOURCES/Text/pi-2.md#^2-U22]]
+
+Therein, what is uncharitableness? The five kinds of stinginess: stinginess about dwellings, stinginess about families, stinginess about gains, stinginess about praise, stinginess about the teaching. Whatever stinginess of this kind there is, being stingy, the state of stinginess; meanness, miserliness, tight-fistedness, the ungenerous grip of the mind — this is called "uncharitableness". ^2-U22
+
+##### (c) Laziness ^2-17-4-47-0
+
+![[1-SOURCES/Text/pi-2.md#^2-U23]]
+
+Therein, what is laziness? Letting the mind loose in bodily misconduct, verbal misconduct, mental misconduct, or the five strands of sense pleasure, and repeatedly letting it loose; acting without respect for the development of wholesome things, acting without perseverance, acting inconstantly, sluggish behaviour, putting down desire, putting down the responsibility, non-practice, non-development, non-cultivation, non-resolution, non-application, heedlessness — this is called "laziness". ^2-U23

@@ -386,6 +386,8 @@ Full day-by-day detail lives in the source spreadsheet (`0-INBOX/ITCC_2026_Bodhg
 | day-164 | 24 Oct (Sun) | 17. Khuddakavatthuvibhaṅgo | 966–974 |
 | day-165 | 25 Oct (Mon) | 17. Khuddakavatthuvibhaṅgo | 975–977 |
 
+> ⚙️ **Boundary correction, 2026-10-12 — days 157–161.** Chapter 17's root text carries 72 unnumbered content blocks (`^2-U1`–`^2-U72`, no printed verse number). The rows above go by verse number, so 18 of these sat between one day's last verse and the next day's first and fell into no day: `^2-U1`–`U7` (Threes items 17–23: blemishes, stains, unevennesses, fires, corruptions) between v.924 and v.925; `U22`–`U23` (avadaññutā, kosajjaṃ) between 932 and 933; `U36`–`U39` (the four kinds of clinging) between 938 and 939; `U57`–`U59` (five losses, five dangers of impatience, five fears) between 942 and 943; `U67`–`U68` (household grief and equanimity) between 947 and 948. Each finishes the preceding day's item, so on Evan's call each now joins the day before: **day-157 = 914–924 + U1–U7, day-158 = 925–932 + U22–U23, day-159 = 933–938 + U36–U39, day-160 = 939–942 + U57–U59, day-161 = 943–947 + U67–U68.** The verse column keeps the numbered range so `4-SYSTEM/scripts/check-schedule-boundaries.py` still parses it; that script ignores `U` blocks, which is why it did not catch this. The source spreadsheet needs this edit too.
+
 ### Plan 23 — Days 166–173 · Analysis of the Heart of the Doctrine (26 Oct–2 Nov)
 
 | Day | Date | Section | Verses |

@@ -4,6 +4,7 @@ language: en
 plan: 22
 section: "17. Khuddakavatthuvibhaṅgo"
 verses: "933–938"
+verses_extended: "933–938 + U36–U39"
 book_source: 1-SOURCES/Text/pi-2.md
 summary_rail: 2-RAILS/Sections/pi-2-summaries.md
 practice_rail: 2-RAILS/Sections/pi-2-practice.md
@@ -22,7 +23,9 @@ status: assets-gathered
 |---|---|---|---|
 | day-159 | 19 Oct (Tue) | 17. Khuddakavatthuvibhaṅgo | 933–938 |
 
-**Subsection note.** vv. 933–938 → `### Tikaniddeso (Khuddaka)`, `### Catukkaniddeso (Khuddaka)`. Root-text subsections in range: (32. Ka) uddhaccaṃ, (Kha) asaṃvaro, (Ga) dussīlyaṃ, (33. Ka) ariyānaṃ adassanakamyatā, (Kha) saddhammaṃ asotukamyatā, (Ga) upārambhacittatā, (34. Ka) muṭṭhassaccaṃ, (Kha) asampajaññaṃ, (Ga) cetaso vikkhepo, (35. Ka) ayoniso manasikāro, (Kha) kummaggasevanā, (Ga) cetaso ca līnattaṃ, (1) Cattāro āsavā, (Ka) kāmāsavo, (Kha) bhavāsavo, (Ga) diṭṭhāsavo, (Gha) avijjāsavo, (2-5) Cattāro ganthādī. Matched to the rails by the commentary's nodes, since the rail headings follow the commentary, not the root text.
+**Subsection note.** vv. 933–938 → `### Tikaniddeso (Khuddaka)`, `### Catukkaniddeso (Khuddaka)`. Root-text subsections in range: (32. Ka) uddhaccaṃ, (Kha) asaṃvaro, (Ga) dussīlyaṃ, (33. Ka) ariyānaṃ adassanakamyatā, (Kha) saddhammaṃ asotukamyatā, (Ga) upārambhacittatā, (34. Ka) muṭṭhassaccaṃ, (Kha) asampajaññaṃ, (Ga) cetaso vikkhepo, (35. Ka) ayoniso manasikāro, (Kha) kummaggasevanā, (Ga) cetaso ca līnattaṃ, (1) Cattāro āsavā, (Ka) kāmāsavo, (Kha) bhavāsavo, (Ga) diṭṭhāsavo, (Gha) avijjāsavo, (2-5) Cattāro ganthādī, (Ka) kāmupādānaṃ, (Kha) diṭṭhupādānaṃ, (Ga) sīlabbatupādānaṃ, (Gha) attavādupādānaṃ. Matched to the rails by the commentary's nodes, since the rail headings follow the commentary, not the root text.
+
+**Boundary correction, 2026-10-12.** Unnumbered blocks ^2-U36–U39 sat between v. 938 and the next day's first verse, in no scheduled day. They finish this day's item, so this day now runs **933–938 + U36–U39** and its last block is `^2-U39`. See the boundary-correction note in `schedule.md`.
 
 **Rail provenance.** The `Khuddakavatthuvibhaṅgo` entries in both rails were built 2026-10-12 from `1-SOURCES/Commentaries/pi-vibhanga-atthakatha.md` ^2-1739 – ^2-1942, following the commentary's own nodes (`Ekakamātikādivaṇṇanā`, then one `…niddesavaṇṇanā` per number, with `Taṇhāvicarita-` and `Diṭṭhigataniddesavaṇṇanā` combined under the root's single Taṇhāvicaritaniddeso heading). Rail prose is new and still needs a native Pāli reviewer before the days built on it are published.
 
@@ -102,6 +105,22 @@ Tattha katamo avijjāsavo? Dukkhe aññāṇaṃ, dukkhasamudaye aññāṇaṃ,
 ##### (2-5) Cattāro ganthādī ^2-17-5-6-0
 
 Tattha katame cattāro ganthā …pe… cattāro oghā…pe… cattāro yogā…pe… cattāri upādānāni? Kāmupādānaṃ, diṭṭhupādānaṃ, sīlabbatupādānaṃ, attavādupādānaṃ. ^2-938
+
+##### (Ka) kāmupādānaṃ ^2-17-5-7-0
+
+Tattha katamaṃ kāmupādānaṃ? Yo kāmesu kāmacchando…pe… kāmajjhosānaṃ – idaṃ vuccati "kāmupādānaṃ". ^2-U36
+
+##### (Kha) diṭṭhupādānaṃ ^2-17-5-8-0
+
+Tattha katamaṃ diṭṭhupādānaṃ? "Natthi dinnaṃ, natthi yiṭṭhaṃ…pe… ye imañca lokaṃ parañca lokaṃ sayaṃ abhiññā sacchikatvā pavedentī"ti. Yā evarūpā diṭṭhi diṭṭhigataṃ…pe… vipariyāsaggāho – idaṃ vuccati "diṭṭhupādānaṃ". Ṭhapetvā sīlabbatupādānañca attavādupādānañca sabbāpi micchādiṭṭhi diṭṭhupādānaṃ. ^2-U37
+
+##### (Ga) sīlabbatupādānaṃ ^2-17-5-9-0
+
+Tattha katamaṃ sīlabbatupādānaṃ? Ito bahiddhā samaṇabrāhmaṇānaṃ sīlena suddhi vatena suddhi sīlabbatena suddhīti. Yā evarūpā diṭṭhi diṭṭhigataṃ…pe… vipariyāsaggāho – idaṃ vuccati "sīlabbatupādānaṃ". ^2-U38
+
+##### (Gha) attavādupādānaṃ ^2-17-5-10-0
+
+Tattha katamaṃ attavādupādānaṃ? Idha assutavā puthujjano ariyānaṃ adassāvī ariyadhammassa akovido ariyadhamme avinīto, sappurisānaṃ adassāvī sappurisadhammassa akovido sappurisadhamme avinīto – rūpaṃ attato samanupassati rūpavantaṃ vā attānaṃ attani vā rūpaṃ rūpasmiṃ vā attānaṃ. Vedanaṃ…pe… saññaṃ…pe… saṅkhāre…pe… viññāṇaṃ attato samanupassati viññāṇavantaṃ vā attānaṃ attani vā viññāṇaṃ viññāṇasmiṃ vā attānaṃ. Yā evarūpā diṭṭhi diṭṭhigataṃ…pe… vipariyāsaggāho – idaṃ vuccati "attavādupādānaṃ". Imāni cattāri upādānāni. ^2-U39
 
 ## Section summary (from `2-RAILS/Sections/pi-2-summaries.md`)
 
@@ -280,3 +299,27 @@ Therein, what is the taint of ignorance? Not knowing suffering, not knowing the 
 ![[1-SOURCES/Text/pi-2.md#^2-938]]
 
 Therein, what are the four ties… the four floods… the four yokes… the four kinds of clinging? Clinging to sense pleasures, clinging to views, clinging to rules and observances, clinging to a doctrine of self. ^2-938
+
+##### (a) Clinging to sense pleasures ^2-17-5-7-0
+
+![[1-SOURCES/Text/pi-2.md#^2-U36]]
+
+Therein, what is clinging to sense pleasures? The desire for sense pleasures with regard to sense pleasures… the holding fast to sense pleasures — this is called "clinging to sense pleasures". ^2-U36
+
+##### (b) Clinging to views ^2-17-5-8-0
+
+![[1-SOURCES/Text/pi-2.md#^2-U37]]
+
+Therein, what is clinging to views? "There is nothing given, there is nothing offered… who declare this world and the other world, having realised them for themselves by direct knowledge." Whatever view of this kind there is, resort to views… the distorted grip — this is called "clinging to views". Setting aside clinging to rules and observances and clinging to a doctrine of self, all wrong view is clinging to views. ^2-U37
+
+##### (c) Clinging to rules and observances ^2-17-5-9-0
+
+![[1-SOURCES/Text/pi-2.md#^2-U38]]
+
+Therein, what is clinging to rules and observances? "Purity comes through virtue, purity comes through observances, purity comes through virtue-and-observances of ascetics and brahmins outside this teaching." Whatever view of this kind there is, resort to views… the distorted grip — this is called "clinging to rules and observances". ^2-U38
+
+##### (d) Clinging to a doctrine of self ^2-17-5-10-0
+
+![[1-SOURCES/Text/pi-2.md#^2-U39]]
+
+Therein, what is clinging to a doctrine of self? Here an unlearned ordinary person — who has no regard for the noble ones, is unskilled in the teaching of the noble ones, untrained in the teaching of the noble ones; who has no regard for good people, is unskilled in the teaching of good people, untrained in the teaching of good people — regards material form as self, or self as possessing material form, or material form as in self, or self as in material form. He regards feeling… perception… formations… consciousness as self, or self as possessing consciousness, or consciousness as in self, or self as in consciousness. Whatever view of this kind there is, resort to views… the distorted grip — this is called "clinging to a doctrine of self". These are the four kinds of clinging. ^2-U39

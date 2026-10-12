@@ -4,6 +4,7 @@ language: en
 plan: 22
 section: "17. Khuddakavatthuvibhaṅgo"
 verses: "939–942"
+verses_extended: "939–942 + U57–U59"
 book_source: 1-SOURCES/Text/pi-2.md
 summary_rail: 2-RAILS/Sections/pi-2-summaries.md
 practice_rail: 2-RAILS/Sections/pi-2-practice.md
@@ -22,7 +23,9 @@ status: assets-gathered
 |---|---|---|---|
 | day-160 | 20 Oct (Wed) | 17. Khuddakavatthuvibhaṅgo | 939–942 |
 
-**Subsection note.** vv. 939–942 → `### Catukkaniddeso (Khuddaka)`, `### Pañcakaniddeso (Khuddaka)`. Root-text subsections in range: (6) Cattāro taṇhuppādā, (7) Cattāri agatigamanāni, (8) Cattāro vipariyāsā, (9) Cattāro anariyavohārā, (10) Aparepi cattāro anariyavohārā, (11) Cattāri duccaritāni, (12) Aparānipi cattāri duccaritāni, (13) Cattāri bhayāni, (14) Aparānipi cattāri bhayāni, (15) Catasso diṭṭhiyo, (1) Pañcorambhāgiyāni saṃyojanāni, (2) Pañcuddhambhāgiyāni saṃyojanāni, (3) Pañca macchariyāni, (4) Pañca saṅgā, (5) Pañca sallā, (6) Pañca cetokhilā, (7) Pañca cetaso vinibandhā, (8) Pañca nīvaraṇāni, (9) Pañca kammāni ānantarikāni, (10) Pañca diṭṭhiyo, (11) Pañca verā. Matched to the rails by the commentary's nodes, since the rail headings follow the commentary, not the root text.
+**Subsection note.** vv. 939–942 → `### Catukkaniddeso (Khuddaka)`, `### Pañcakaniddeso (Khuddaka)`. Root-text subsections in range: (6) Cattāro taṇhuppādā, (7) Cattāri agatigamanāni, (8) Cattāro vipariyāsā, (9) Cattāro anariyavohārā, (10) Aparepi cattāro anariyavohārā, (11) Cattāri duccaritāni, (12) Aparānipi cattāri duccaritāni, (13) Cattāri bhayāni, (14) Aparānipi cattāri bhayāni, (15) Catasso diṭṭhiyo, (1) Pañcorambhāgiyāni saṃyojanāni, (2) Pañcuddhambhāgiyāni saṃyojanāni, (3) Pañca macchariyāni, (4) Pañca saṅgā, (5) Pañca sallā, (6) Pañca cetokhilā, (7) Pañca cetaso vinibandhā, (8) Pañca nīvaraṇāni, (9) Pañca kammāni ānantarikāni, (10) Pañca diṭṭhiyo, (11) Pañca verā, (12) Pañca byasanā, (13) Pañca akkhantiyā ādīnavā, (14) Pañca bhayāni. Matched to the rails by the commentary's nodes, since the rail headings follow the commentary, not the root text.
+
+**Boundary correction, 2026-10-12.** Unnumbered blocks ^2-U57–U59 sat between v. 942 and the next day's first verse, in no scheduled day. They finish this day's item, so this day now runs **939–942 + U57–U59** and its last block is `^2-U59`. See the boundary-correction note in `schedule.md`.
 
 **Rail provenance.** The `Khuddakavatthuvibhaṅgo` entries in both rails were built 2026-10-12 from `1-SOURCES/Commentaries/pi-vibhanga-atthakatha.md` ^2-1739 – ^2-1942, following the commentary's own nodes (`Ekakamātikādivaṇṇanā`, then one `…niddesavaṇṇanā` per number, with `Taṇhāvicarita-` and `Diṭṭhigataniddesavaṇṇanā` combined under the root's single Taṇhāvicaritaniddeso heading). Rail prose is new and still needs a native Pāli reviewer before the days built on it are published.
 
@@ -116,6 +119,18 @@ Tattha katamā pañca diṭṭhiyo? "Saññī attā hoti arogo paraṃ maraṇā
 ##### (11) Pañca verā ^2-17-6-11-0
 
 Tattha katame pañca verā? Pāṇātipāto, adinnādānaṃ, kāmesumicchācāro, musāvādo, surāmerayamajjapamādaṭṭhānā – ime pañca verā. ^2-942
+
+##### (12) Pañca byasanā ^2-17-6-12-0
+
+Tattha katame pañca byasanā? Ñātibyasanaṃ, bhogabyasanaṃ, rogabyasanaṃ, sīlabyasanaṃ, diṭṭhibyasanaṃ – ime pañca byasanā. ^2-U57
+
+##### (13) Pañca akkhantiyā ādīnavā ^2-17-6-13-0
+
+Tattha katame pañca akkhantiyā ādīnavā? Bahuno janassa appiyo hoti amanāpo, verabahulo ca hoti, vajjabahulo ca, sammūḷho kālaṅkaroti, kāyassa bhedā paraṃ maraṇā apāyaṃ duggatiṃ vinipātaṃ nirayaṃ upapajjati – ime pañca akkhantiyā ādīnavā. ^2-U58
+
+##### (14) Pañca bhayāni ^2-17-6-14-0
+
+Tattha katamāni pañca bhayāni? Ājīvakabhayaṃ, asilokabhayaṃ, parisasārajjabhayaṃ, maraṇabhayaṃ, duggatibhayaṃ – imāni pañca bhayāni. ^2-U59
 
 ## Section summary (from `2-RAILS/Sections/pi-2-summaries.md`)
 
@@ -309,3 +324,21 @@ Therein, what are the five views? Some declare, "The self is percipient and unim
 ![[1-SOURCES/Text/pi-2.md#^2-942]]
 
 Therein, what are the five hostilities? Killing living beings, taking what is not given, sexual misconduct, false speech, wine, spirits, and intoxicants that cause heedlessness — these are the five hostilities. ^2-942
+
+##### (12) The five losses ^2-17-6-12-0
+
+![[1-SOURCES/Text/pi-2.md#^2-U57]]
+
+Therein, what are the five losses? Loss of relatives, loss of wealth, loss through illness, loss of virtue, loss of view — these are the five losses. ^2-U57
+
+##### (13) The five dangers of impatience ^2-17-6-13-0
+
+![[1-SOURCES/Text/pi-2.md#^2-U58]]
+
+Therein, what are the five dangers of impatience? One is disliked and displeasing to many people; one has much hostility; one has many faults; one dies confused; with the breakup of the body after death one is reborn in a state of loss, a bad destination, a place of ruin, hell — these are the five dangers of impatience. ^2-U58
+
+##### (14) The five fears ^2-17-6-14-0
+
+![[1-SOURCES/Text/pi-2.md#^2-U59]]
+
+Therein, what are the five fears? The fear about livelihood, the fear of disrepute, the fear of timidity in assemblies, the fear of death, the fear of a bad destination — these are the five fears. ^2-U59
