@@ -578,3 +578,27 @@ Eight rows above. Four are `candidate` because the translation-track termbase ca
 **Chapter 17 is complete.** Days 153–165 cover `Khuddakavatthuvibhaṅgo` vv. 832–977 plus the unnumbered blocks `^2-U1`–`U72`. Both rails now carry its thirteen entries (chapter intro plus twelve nodes), built 2026-10-12 from `pi-vibhanga-atthakatha.md` ^2-1739 – ^2-1942. Rail prose still needs a native Pāli reviewer.
 
 **Schedule correction, 2026-10-12:** 18 unnumbered blocks fell between days; days 157–161 now end on `^2-U7`, `U23`, `U39`, `U59`, `U68`. See the boundary-correction note in `schedule.md`. The source spreadsheet still needs the edit.
+
+
+### Added 2026-10-23 (days 166–173, chapter 18)
+
+| Pāli | English (Contemporary) | Used in | Bilingual Glossary / Sense | Status |
+|---|---|---|---|---|
+| apariyāpanna | _not included_ (in any world); opposite *pariyāpanna* → _included_ | day-167 §1, §5 | Day-167 §5 headword. One-shot §4 wording (vv. 997–1005). Commentary: *bhavavasena okāsavasena ca paricchinnā / aparicchinnā* (`vibhanga-atthakatha #^2-1946`). Track termbase has `apariyāpanna` as `<TODO>`. | draft |
+| arūpadhātu | _immaterial element_ (plain unwrap: _the formless world_) | day-167 §1; day-169 §1 | One-shot §4 wording (v. 995, v. 1018). ⚠️ The locked *arūpāvacara* row is _formless sphere_; §1 uses "formless world" only as the plain unwrap. | draft |
+| asaññasatta | _non-percipient being_ | day-169 §1 | One-shot §4 says "non-percipient gods" (v. 1017, v. 1027). Commentary `#^2-1957`. | draft |
+| dāna | _giving_ | day-170 §1 | One-shot §4 wording (v. 1021, "having given gifts"). Neither termbase carries it. | candidate |
+| deva | _god_ (three kinds: _by convention_, _by rebirth_, _by purity_) | day-170 §1, §5 | One-shot §4 wording (v. 1021). Commentary `#^2-1948`. | draft |
+| kāmadhātu | _sense-pleasure element_ (plain unwrap: _the world of the five senses_) | day-166 §1 | One-shot §4 wording (vv. 991–1014). ⚠️ The locked *kāmāvacara* row is _sense sphere_ — different Pāli word, so no conflict, but the two read close. | draft |
+| kappa | _eon_ (plain unwrap: _world-age_) | day-170 §1; day-171 §1 | One-shot §4 wording (vv. 1024–1028). | draft |
+| koṭṭhāsa | _portion_ | day-166 §5 | Day-166 §5 headword. Commentary: *khandhādīnaṃ dvādasannaṃ koṭṭhāsānaṃ vasena* (`#^2-1943`). Not in either termbase; "portion" follows day-009's §5 heading ("Analyzing by Portion"). | candidate |
+| ñāṇasampayutta | _associated with knowledge_ | day-169 §1, §5 | Day-169 §5 headword. One-shot §4 wording (vv. 1012–1013). | draft |
+| pariññā | _full understanding_ (three: knowing, weighing up, abandoning) | day-173 §5 | Day-173 §5 headword. One-shot §4 "fully understood" (v. 1031). Commentary: *ñātatīraṇapahānapariññā* (`#^2-1964`). | draft |
+| rūpadhātu | _material-form element_ | day-166 §1 | One-shot §4 wording (vv. 993–994). Track termbase `<TODO>`; consolidated glossary leaves it untranslated. ⚠️ Locked *rūpāvacara* is _fine-material sphere_. | candidate |
+| upapatti | _rebirth_ (*upapattikkhaṇa*: _moment of rebirth_) | day-168 §1, §5; day-169 §1 | Day-168 §5 headword. One-shot §4 wording (vv. 1007–1019). Kept distinct from locked *paṭisandhi* → _rebirth-linking_. | draft |
+| uposatha | _observance day_ | day-170 §1, §5 | One-shot §4 wording (v. 1021). Commentary: *aṭṭhaṅgasamannāgataṃ uposathaṃ upavasitvā* (`#^2-1949`). | draft |
+| visuddhideva | _god by purity_ (= the arahants) | day-170 §5 | Day-170 §5 headword. One-shot §4 wording (v. 1021). Commentary: *sabbesaṃ devānaṃ pūjārahā sabbakilesavisuddhiyā devā* (`#^2-1948`). | draft |
+
+**Locked rows used verbatim, unchanged:** *khandha* → aggregate; *āyatana* → base (the one-shot says "sense-field"); *dhātu* → element; *indriya* → faculty; *dukkha* → suffering; *samudaya* → origin; *nirodha* → ending; *magga* → path; *alobha / adosa / amoha* → non-greed / non-hate / non-delusion; *sīla* → moral discipline; *jhāna* (meditative absorption); *kāmāvacara* → sense sphere; *rūpāvacara* → fine-material sphere; *arūpāvacara* → formless sphere (the one-shot says "immaterial sphere"); *asaṅkhatā dhātu* → the unconstructed element (the one-shot says "unconditioned element"); *arahant* (a fully freed one); *paññā* → wisdom; *sampayutta* → associated with; *bhava* → becoming (the one-shot v. 1029 says "existence"); *ārammaṇa* → object; *pamāda* → heedlessness; *kusala / akusala / abyākata* → wholesome / unwholesome / indeterminate; *vipāka* → result; *vitakka* → thought; *diṭṭha-suta-muta-viññāta* → seen, heard, sensed, cognized (the one-shot says "known"); *lokiya* → mundane; *lokuttara* → supramundane (the one-shot says "beyond the world").
+
+**Chapter 18 and Book II are complete.** Days 166–173 cover `Dhammahadayavibhaṅgo` vv. 978–1044, the last chapter of the Vibhaṅga. Both rails now carry its nine entries (chapter intro plus six commentary nodes, one with two sub-nodes), built 2026-10-23 from `pi-vibhanga-atthakatha.md` ^2-1943 – ^2-1967. Rail prose still needs a native Pāli reviewer.
