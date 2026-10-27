@@ -15,6 +15,12 @@ source_filename: book/abh05t.nrf.html
 source: "https://tipitaka.org/romn/cscd/abh05t.nrf.html"
 other_ids:
   - tipitaka.org: abh05t (chapter 1-1 of combined Pañcapakaraṇa-anuṭīkā)
+license: cc0
+commentary_of: Us3yilUt8Q4I8m3JuCOhk
+category_id: MZUUxphQ0yFwLBon3Vng8
+text_id: T4Uer0hGJtpVqRgDG0NgT
+edition_id: mQyOlxuV5aV1H843OTCFL
+toc_id: saoIBb1lo7jbCsuQWW5vA
 ---
 
 Namo tassa bhagavato arahato sammāsambuddhassa ^T-1

@@ -15,6 +15,12 @@ source_filename: book/abh03t.tik.html
 source: "https://tipitaka.org/romn/cscd/abh03t.tik.html"
 other_ids:
   - tipitaka.org: abh03t (chapter 0-0 of combined Pañcapakaraṇa-mūlaṭīkā)
+license: cc0
+commentary_of: Us3yilUt8Q4I8m3JuCOhk
+category_id: MZUUxphQ0yFwLBon3Vng8
+text_id: b4vc11kZyxZVfecDI9ceu
+edition_id: 2oJnftFTKwOk7pknJkSH7
+toc_id: CZjCm58EAKP7S55nCKnT8
 ---
 
 Namo tassa bhagavato arahato sammāsambuddhassa ^T-1

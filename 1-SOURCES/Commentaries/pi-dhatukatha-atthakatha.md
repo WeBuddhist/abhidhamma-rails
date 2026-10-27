@@ -14,6 +14,12 @@ source_filename: book/abh03a.att.html
 source: "https://tipitaka.org/romn/cscd/abh03a.att.html"
 other_ids:
   - tipitaka.org: abh03a (chapters 0-2 of combined Pañcapakaraṇa-aṭṭhakathā)
+commentary_of: Us3yilUt8Q4I8m3JuCOhk
+category_id: MZUUxphQ0yFwLBon3Vng8
+license: cc0
+text_id: hqf6D6eEe5EeABJPwXsqB
+edition_id: qQPsOSEH9pElqiymd34Ut
+toc_id: lH0eJOXMB5SXo94sG6Z5Y
 ---
 
 Namo tassa bhagavato arahato sammāsambuddhassa ^T-1
