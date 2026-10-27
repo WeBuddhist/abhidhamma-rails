@@ -13,6 +13,7 @@ source: "https://tipitaka.org/romn/cscd/abh03m1.mul.xml"
 other_ids:
   - tipitaka.org: abh03m1
 license: cc0
+tag_ids: [296WZOr8MXWteSqBBI7pl]
 category_id: MZUUxphQ0yFwLBon3Vng8
 text_id: Us3yilUt8Q4I8m3JuCOhk
 edition_id: ygJ9vnhenIaGvUeIfRJ9i

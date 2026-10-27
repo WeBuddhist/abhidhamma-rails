@@ -16,6 +16,7 @@ source: "https://tipitaka.org/romn/cscd/abh05t.nrf.html"
 other_ids:
   - tipitaka.org: abh05t (chapter 1-1 of combined Pañcapakaraṇa-anuṭīkā)
 license: cc0
+tag_ids: [296WZOr8MXWteSqBBI7pl]
 commentary_of: Us3yilUt8Q4I8m3JuCOhk
 category_id: MZUUxphQ0yFwLBon3Vng8
 text_id: T4Uer0hGJtpVqRgDG0NgT

@@ -14,6 +14,7 @@ source: "https://tipitaka.org/romn/cscd/abh01t.tik.html"
 other_ids:
   - tipitaka.org: abh01t
 license: cc0
+tag_ids: [296WZOr8MXWteSqBBI7pl]
 category_id: MZUUxphQ0yFwLBon3Vng8
 commentary_of: BzOXhiRUQM4MOT6affzmO
 text_id: r5Gp8Wq2SrBFfjFtv67Rf

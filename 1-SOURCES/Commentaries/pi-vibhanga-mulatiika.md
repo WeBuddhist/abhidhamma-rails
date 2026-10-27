@@ -18,6 +18,7 @@ other_ids:
   - tipitaka.org: abh02t
   - webuddhist_text_id: e2a8f0d7-243d-43d3-8629-4c1734ac70ec
 license: cc0
+tag_ids: [296WZOr8MXWteSqBBI7pl]
 category_id: MZUUxphQ0yFwLBon3Vng8
 commentary_of: Bkcft6D0nQCPZNb4Kkuf4
 text_id: aqbe2JF9WA5FSacKxfEpV
