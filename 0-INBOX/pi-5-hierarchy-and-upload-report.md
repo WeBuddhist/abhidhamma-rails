@@ -81,20 +81,20 @@ Each numbered paragraph has one `![[1-SOURCES/Text/pi-5.md#^5-N]]` line per root
 
 | | Numbered paragraphs | Transclusion lines | Distinct root targets |
 |---|---|---|---|
-| aṭṭhakathā | 388 | 692 | 690 |
+| aṭṭhakathā | 388 | 892 | 890 |
 | mūlaṭīkā | 223 | 433 | 433 |
-| anuṭīkā | 208 | 409 | 409 |
+| anuṭīkā | 208 | 505 | 505 |
 
-- Every target exists in `pi-5.md`, and every linked range sits in the root section the commentary heading names.
-- Aligned with the source: each paragraph links to the root passage it comments on.
+- Every target exists in `pi-5.md`.
+- Aligned with the source: each paragraph links to the root verses its printed citation names, exactly as on tipitaka.app, including the three irregular citations below.
 
 Irregular citations (as printed in CST / tipitaka.app; see `4-SYSTEM/Guidelines/known-source-irregularities.md`):
 
 | Block | Printed | Linked to |
 |---|---|---|
-| aṭṭhakathā `^5-544` | `618-820.` | `^5-618`…`^5-620` (Idaṃ dukkhantikathā) |
-| aṭṭhakathā `^5-568` | `541-545.` | `^5-641`…`^5-645` (Sattakkhattuparamakathā) |
-| anuṭīkā `^5-381` | `706-608.` | `^5-706`…`^5-708` (Abyākatakathā) |
+| aṭṭhakathā `^5-544` | `618-820.` | `^5-618`…`^5-820` (as printed) |
+| aṭṭhakathā `^5-568` | `541-545.` | `^5-541`…`^5-545` (as printed) |
+| anuṭīkā `^5-381` | `706-608.` | `^5-608`…`^5-706` (as printed, low to high) |
 | mūlaṭīkā `^5-270` | `557-8.` → `557-558.` | `^5-557`, `^5-558` |
 | mūlaṭīkā `^5-281` | `571-2.` → `571-572.` | `^5-571`, `^5-572` |
 
@@ -107,7 +107,7 @@ Irregular citations (as printed in CST / tipitaka.app; see `4-SYSTEM/Guidelines/
 | Content (characters) | 264,111 | 76,777 | 142,897 |
 | Segments | 816 | 454 | 492 |
 | TOC nodes | 278 | 211 | 206 |
-| Alignment pairs | 1,441 | 903 | 932 |
+| Alignment pairs | 1,841 | 903 | 1,124 |
 
 Titles: `Kathāvatthu-aṭṭhakathā`, `Kathāvatthu-mūlaṭīkā`, `Kathāvatthu-anuṭīkā`.
 
