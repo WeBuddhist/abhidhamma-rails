@@ -1172,7 +1172,7 @@ Anusayāanārammaṇātikathāvaṇṇanā niṭṭhitā. ^5-269
 ![[1-SOURCES/Text/pi-5.md#^5-557]]
 ![[1-SOURCES/Text/pi-5.md#^5-558]]
 
-557-8. Tassa ñāṇassāti maggañāṇassāti vadanti. ^5-270
+557-558. Tassa ñāṇassāti maggañāṇassāti vadanti. ^5-270
 
 Ñāṇaṃanārammaṇantikathāvaṇṇanā niṭṭhitā. ^5-271
 
@@ -1219,7 +1219,7 @@ Navamavaggavaṇṇanā niṭṭhitā. ^5-280
 ![[1-SOURCES/Text/pi-5.md#^5-571]]
 ![[1-SOURCES/Text/pi-5.md#^5-572]]
 
-571-2. Bhavaṅgacittassa bhaṅgakkhaṇena sahevātiādiṃ vadantena kiriyakhandhānaṃ bhaṅgakkhaṇena saha upapattesiyā khandhā uppajjantīti ca vattabbaṃ, tathā upapattesiyānaṃ bhaṅgakkhaṇena saha upapattesiyā, kiriyānaṃ bhaṅgakkhaṇena saha kiriyāti. Cakkhuviññāṇādīnaṃ kiriyācatukkhandhaggahaṇena gahaṇaṃ. Ñāṇanti maggañāṇaṃ yuttaṃ. ^5-281
+571-572. Bhavaṅgacittassa bhaṅgakkhaṇena sahevātiādiṃ vadantena kiriyakhandhānaṃ bhaṅgakkhaṇena saha upapattesiyā khandhā uppajjantīti ca vattabbaṃ, tathā upapattesiyānaṃ bhaṅgakkhaṇena saha upapattesiyā, kiriyānaṃ bhaṅgakkhaṇena saha kiriyāti. Cakkhuviññāṇādīnaṃ kiriyācatukkhandhaggahaṇena gahaṇaṃ. Ñāṇanti maggañāṇaṃ yuttaṃ. ^5-281
 
 Nirodhakathāvaṇṇanā niṭṭhitā. ^5-282
 
