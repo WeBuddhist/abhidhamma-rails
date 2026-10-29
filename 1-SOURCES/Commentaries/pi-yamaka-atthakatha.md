@@ -424,7 +424,7 @@ Mātikāṭhapanavaṇṇanā. ^6-161
 
 #### Niddeso ^6-8-2-0
 
-#### Puggalavāravaṇṇanā ^6-8-3-0
+##### Puggalavāravaṇṇanā ^6-8-2-1-0
 
 63. Idāni ṭhapitānukkamena mātikaṃ vissajjetuṃ yassa cittaṃ uppajjati na nirujjhatītiādi āraddhaṃ. Tattha uppajjatīti uppādakkhaṇasamaṅgitāya uppajjati na nirujjhatīti nirodhakkhaṇaṃ appattatāya na nirujjhati. Tassa cittanti tassa puggalassa tato paṭṭhāya cittaṃ nirujjhissati nuppajjissatīti pucchati. Tesaṃ cittanti yesaṃ paricchinnavaṭṭadukkhānaṃ khīṇāsavānaṃ sabbapacchimassa cuticittassa uppādakkhaṇo vattati, etesaṃ tadeva cuticittaṃ uppādappattatāya uppajjati nāma, bhaṅgaṃ appattatāya na nirujjhati. Idāni pana bhaṅgaṃ patvā taṃ tesaṃ cittaṃ nirujjhissati, tato appaṭisandhikattā aññaṃ nuppajjissati. Itaresanti pacchimacittasamaṅgiṃ khīṇāsavaṃ ṭhapetvā avasesānaṃ sekkhāsekkhaputhujjanānaṃ nirujjhissati ceva uppajjissati cāti yaṃ taṃ uppādakkhaṇappattaṃ taṃ nirujjhissateva. Aññaṃ pana tasmiṃ vā aññasmiṃ vā attabhāve uppajjissati ceva nirujjhissati ca. Dutiyapucchāvissajjanepi tathārūpasseva khīṇāsavassa cittaṃ sandhāya ‘āmantā’ti vuttaṃ. Nuppajjati nirujjhatīti bhaṅgakkhaṇe arahato pacchimacittampi sesānaṃ bhijjamānacittampi. Tato paṭṭhāya pana arahato cittaṃ na nirujjhissatīti sakkā vattuṃ uppajjissatīti pana na sakkā. Sesānaṃ uppajjissatīti sakkā vattuṃ, na nirujjhissatīti na sakkā. Tasmā ‘no’ti paṭisedho kato. Dutiyapañhe yassa cittaṃ na nirujjhissati, uppajjissatīti so puggaloyeva natthi, tasmā natthīti paṭikkhepo kato. ^6-162
 
@@ -494,7 +494,7 @@ Pariññāvāravaṇṇanā. ^6-187
 
 Indriyayamakavaṇṇanā niṭṭhitā. ^6-188
 
-#### Nigamanakathā ^6-10-3-0
+### Nigamanakathā ^6-11-0
 
 Ettāvatā ca – ^6-189
 
