@@ -41,7 +41,7 @@ Hetupaccayo, ārammaṇapaccayo, adhipatipaccayo, anantarapaccayo, samanantarapa
 
 ### (2) Paccayaniddeso ^7-2-0
 
-Hetupaccayoti – hetū hetusampayuttakānaṃ dhammānaṃ taṃsamuṭṭhānānañca rūpānaṃ hetupaccayena paccayo [paccayoti (syā.)]. ^7-1-1
+Hetupaccayoti – hetū hetusampayuttakānaṃ dhammānaṃ taṃsamuṭṭhānānañca rūpānaṃ hetupaccayena paccayo {paccayoti (syā.)}. ^7-1-1
 
 Ārammaṇapaccayoti – rūpāyatanaṃ cakkhuviññāṇadhātuyā taṃsampayuttakānañca dhammānaṃ ārammaṇapaccayena paccayo. Saddāyatanaṃ sotaviññāṇadhātuyā taṃsampayuttakānañca dhammānaṃ ārammaṇapaccayena paccayo. Gandhāyatanaṃ ghānaviññāṇadhātuyā taṃsampayuttakānañca dhammānaṃ ārammaṇapaccayena paccayo. Rasāyatanaṃ jivhāviññāṇadhātuyā taṃsampayuttakānañca dhammānaṃ ārammaṇapaccayena paccayo. Phoṭṭhabbāyatanaṃ kāyaviññāṇadhātuyā taṃsampayuttakānañca dhammānaṃ ārammaṇapaccayena paccayo. Rūpāyatanaṃ saddāyatanaṃ gandhāyatanaṃ rasāyatanaṃ phoṭṭhabbāyatanaṃ manodhātuyā taṃsampayuttakānañca dhammānaṃ ārammaṇapaccayena paccayo. Sabbe dhammā manoviññāṇadhātuyā taṃsampayuttakānañca dhammānaṃ ārammaṇapaccayena paccayo.
 Yaṃ yaṃ dhammaṃ ārabbha ye ye dhammā uppajjanti cittacetasikā dhammā, te te dhammā tesaṃ tesaṃ dhammānaṃ ārammaṇapaccayena paccayo. ^7-1-2
@@ -69,7 +69,7 @@ Purimā purimā akusalā dhammā pacchimānaṃ pacchimānaṃ akusalānaṃ dha
 Purimā purimā abyākatā dhammā pacchimānaṃ pacchimānaṃ abyākatānaṃ dhammānaṃ samanantarapaccayena paccayo. Purimā purimā abyākatā dhammā pacchimānaṃ pacchimānaṃ kusalānaṃ dhammānaṃ samanantarapaccayena paccayo. Purimā purimā abyākatā dhammā pacchimānaṃ pacchimānaṃ akusalānaṃ dhammānaṃ samanantarapaccayena paccayo.
 Yesaṃ yesaṃ dhammānaṃ samanantarā ye ye dhammā uppajjanti cittacetasikā dhammā, te te dhammā tesaṃ tesaṃ dhammānaṃ samanantarapaccayena paccayo. ^7-1-5
 
-Sahajātapaccayoti – cattāro khandhā arūpino aññamaññaṃ sahajātapaccayena paccayo. Cattāro mahābhūtā aññamaññaṃ sahajātapaccayena paccayo. Okkantikkhaṇe nāmarūpaṃ aññamaññaṃ sahajātapaccayena paccayo. Cittacetasikā dhammā cittasamuṭṭhānānaṃ rūpānaṃ sahajātapaccayena paccayo. Mahābhūtā upādārūpānaṃ sahajātapaccayena paccayo. Rūpino dhammā arūpīnaṃ dhammānaṃ kiñci kāle [kañci kālaṃ (syā.)] sahajātapaccayena paccayo, kiñci kāle na sahajātapaccayena paccayo. ^7-1-6
+Sahajātapaccayoti – cattāro khandhā arūpino aññamaññaṃ sahajātapaccayena paccayo. Cattāro mahābhūtā aññamaññaṃ sahajātapaccayena paccayo. Okkantikkhaṇe nāmarūpaṃ aññamaññaṃ sahajātapaccayena paccayo. Cittacetasikā dhammā cittasamuṭṭhānānaṃ rūpānaṃ sahajātapaccayena paccayo. Mahābhūtā upādārūpānaṃ sahajātapaccayena paccayo. Rūpino dhammā arūpīnaṃ dhammānaṃ kiñci kāle {kañci kālaṃ (syā.)} sahajātapaccayena paccayo, kiñci kāle na sahajātapaccayena paccayo. ^7-1-6
 
 Aññamaññapaccayoti – cattāro khandhā arūpino aññamaññapaccayena paccayo. Cattāro mahābhūtā aññamaññapaccayena paccayo. Okkantikkhaṇe nāmarūpaṃ aññamaññapaccayena paccayo. ^7-1-7
 
@@ -93,7 +93,7 @@ Kammapaccayoti – kusalākusalaṃ kammaṃ vipākānaṃ khandhānaṃ kaṭat
 
 Vipākapaccayoti – vipākā cattāro khandhā arūpino aññamaññaṃ vipākapaccayena paccayo. ^7-1-14
 
-Āhārapaccayoti – kabaḷīkāro [kabaḷiṅkāro (ka. sī. syā.)] āhāro imassa kāyassa āhārapaccayena paccayo. Arūpino āhārā sampayuttakānaṃ dhammānaṃ taṃsamuṭṭhānānañca rūpānaṃ āhārapaccayena paccayo. ^7-1-15
+Āhārapaccayoti – kabaḷīkāro {kabaḷiṅkāro (ka. sī. syā.)} āhāro imassa kāyassa āhārapaccayena paccayo. Arūpino āhārā sampayuttakānaṃ dhammānaṃ taṃsamuṭṭhānānañca rūpānaṃ āhārapaccayena paccayo. ^7-1-15
 
 Indriyapaccayoti – cakkhundriyaṃ cakkhuviññāṇadhātuyā taṃsampayuttakānañca dhammānaṃ indriyapaccayena paccayo. Sotindriyaṃ sotaviññāṇadhātuyā taṃsampayuttakānañca dhammānaṃ indriyapaccayena paccayo. Ghānindriyaṃ ghānaviññāṇadhātuyā taṃsampayuttakānañca dhammānaṃ indriyapaccayena paccayo. Jivhindriyaṃ jivhāviññāṇadhātuyā taṃsampayuttakānañca dhammānaṃ indriyapaccayena paccayo. Kāyindriyaṃ kāyaviññāṇadhātuyā taṃsampayuttakānañca dhammānaṃ indriyapaccayena paccayo. Rūpajīvitindriyaṃ kaṭattārūpānaṃ indriyapaccayena paccayo.
 Arūpino indriyā sampayuttakānaṃ dhammānaṃ taṃsamuṭṭhānānañca rūpānaṃ indriyapaccayena paccayo. ^7-1-16
@@ -2032,7 +2032,7 @@ Abyākataṃ dhammaṃ saṃsaṭṭho abyākato dhammo uppajjati nahetupaccayā
 
 ##### Naadhipatiādipaccayā ^7-4-37-2-0
 
-Kusalaṃ dhammaṃ saṃsaṭṭho kusalo dhammo uppajjati naadhipatipaccayā… napurejātapaccayā – arūpe [āruppe (sabbattha)] kusalaṃ ekaṃ khandhaṃ saṃsaṭṭhā tayo khandhā…pe… dve khandhe saṃsaṭṭhā dve khandhā. Akusalaṃ dhammaṃ…pe… abyākataṃ dhammaṃ…pe…. ^7-2-352
+Kusalaṃ dhammaṃ saṃsaṭṭho kusalo dhammo uppajjati naadhipatipaccayā… napurejātapaccayā – arūpe {āruppe (sabbattha)} kusalaṃ ekaṃ khandhaṃ saṃsaṭṭhā tayo khandhā…pe… dve khandhe saṃsaṭṭhā dve khandhā. Akusalaṃ dhammaṃ…pe… abyākataṃ dhammaṃ…pe…. ^7-2-352
 
 ##### Napacchājāta-naāsevanapaccayā ^7-4-37-3-0
 
@@ -2490,7 +2490,7 @@ Kusalo dhammo abyākatassa dhammassa ārammaṇapaccayena paccayo – arahā mag
 
 Akusalo dhammo akusalassa dhammassa ārammaṇapaccayena paccayo – rāgaṃ assādeti abhinandati; taṃ ārabbha rāgo uppajjati, diṭṭhi uppajjati, vicikicchā uppajjati, uddhaccaṃ uppajjati, domanassaṃ uppajjati. Diṭṭhiṃ assādeti abhinandati; taṃ ārabbha rāgo uppajjati, diṭṭhi uppajjati, vicikicchā uppajjati, uddhaccaṃ uppajjati, domanassaṃ uppajjati. Vicikicchaṃ ārabbha vicikicchā uppajjati, diṭṭhi uppajjati, uddhaccaṃ uppajjati, domanassaṃ uppajjati. Uddhaccaṃ ārabbha uddhaccaṃ uppajjati, diṭṭhi uppajjati, vicikicchā uppajjati, domanassaṃ uppajjati. Domanassaṃ ārabbha domanassaṃ uppajjati, diṭṭhi uppajjati, vicikicchā uppajjati, uddhaccaṃ uppajjati. (1) ^7-2-407
 
-Akusalo dhammo kusalassa dhammassa ārammaṇapaccayena paccayo – sekkhā pahīne kilese [pahīnakilese (syā.)] paccavekkhanti, vikkhambhite kilese [vikkhambhitakilese (syā.)] paccavekkhanti, pubbe samudāciṇṇe kilese jānanti, sekkhā vā puthujjanā vā akusalaṃ aniccato dukkhato anattato vipassanti, cetopariyañāṇena akusalacittasamaṅgissa cittaṃ jānanti. Akusalā khandhā cetopariyañāṇassa, pubbenivāsānussatiñāṇassa, yathākammūpagañāṇassa anāgataṃsañāṇassa ārammaṇapaccayena paccayo. (2) ^7-2-408
+Akusalo dhammo kusalassa dhammassa ārammaṇapaccayena paccayo – sekkhā pahīne kilese {pahīnakilese (syā.)} paccavekkhanti, vikkhambhite kilese {vikkhambhitakilese (syā.)} paccavekkhanti, pubbe samudāciṇṇe kilese jānanti, sekkhā vā puthujjanā vā akusalaṃ aniccato dukkhato anattato vipassanti, cetopariyañāṇena akusalacittasamaṅgissa cittaṃ jānanti. Akusalā khandhā cetopariyañāṇassa, pubbenivāsānussatiñāṇassa, yathākammūpagañāṇassa anāgataṃsañāṇassa ārammaṇapaccayena paccayo. (2) ^7-2-408
 
 Akusalo dhammo abyākatassa dhammassa ārammaṇapaccayena paccayo – arahā pahīne kilese paccavekkhati, pubbe samudāciṇṇe kilese jānāti, akusalaṃ aniccato dukkhato anattato vipassati, cetopariyañāṇena akusalacittasamaṅgissa cittaṃ jānāti, sekkhā vā puthujjanā vā akusalaṃ aniccato dukkhato anattato vipassanti, kusale niruddhe vipāko tadārammaṇatā uppajjati. Akusalaṃ assādeti abhinandati; taṃ ārabbha rāgo uppajjati, diṭṭhi uppajjati, vicikicchā uppajjati, uddhaccaṃ uppajjati, domanassaṃ uppajjati. Akusale niruddhe vipāko tadārammaṇatā uppajjati. Akusalā khandhā cetopariyañāṇassa pubbenivāsānussatiñāṇassa yathākammūpagañāṇassa anāgataṃsañāṇassa āvajjanāya ārammaṇapaccayena paccayo. (3) ^7-2-409
 
@@ -2635,7 +2635,7 @@ Abyākato dhammo abyākatassa dhammassa āsevanapaccayena paccayo – purimā pu
 ##### Kammapaccayo ^7-4-52-14-0
 
 Kusalo dhammo kusalassa dhammassa kammapaccayena paccayo – kusalā cetanā sampayuttakānaṃ khandhānaṃ kammapaccayena paccayo. (1)
-Kusalo dhammo abyākatassa dhammassa kammapaccayena paccayo – sahajātā, nānākkhaṇikā [nānākhaṇikā (ka.)]. Sahajātā – kusalā cetanā cittasamuṭṭhānānaṃ rūpānaṃ kammapaccayena paccayo.
+Kusalo dhammo abyākatassa dhammassa kammapaccayena paccayo – sahajātā, nānākkhaṇikā {nānākhaṇikā (ka.)}. Sahajātā – kusalā cetanā cittasamuṭṭhānānaṃ rūpānaṃ kammapaccayena paccayo.
 Nānākkhaṇikā – kusalā cetanā vipākānaṃ khandhānaṃ kaṭattā ca rūpānaṃ kammapaccayena paccayo. (2)
 Kusalo dhammo kusalassa ca abyākatassa ca dhammassa kammapaccayena paccayo – kusalā cetanā sampayuttakānaṃ khandhānaṃ cittasamuṭṭhānānañca rūpānaṃ kammapaccayena paccayo. (3)
 Akusalo dhammo akusalassa dhammassa kammapaccayena paccayo – akusalā cetanā sampayuttakānaṃ khandhānaṃ kammapaccayena paccayo. (1)
@@ -4376,7 +4376,7 @@ Naindriyapaccayā hetuyā satta, ārammaṇe nava…pe… avigate terasa…pe…
 
 ##### Bāvīsakaṃ ^7-4-57-127-0
 
-Naindriyapaccayā nahetupaccayā naārammaṇapaccayā (mūlakaṃ saṃkhittaṃ) navipākapaccayā najhānapaccayā namaggapaccayā nasampayuttapaccayā navippayuttapaccayā nonatthipaccayā novigatapaccayā āhāre ekaṃ, atthiyā ekaṃ, avigate ekaṃ (yathā nahetumūlakaṃ [nahetumūlake (syā.)]. Saṃkhittaṃ).
+Naindriyapaccayā nahetupaccayā naārammaṇapaccayā (mūlakaṃ saṃkhittaṃ) navipākapaccayā najhānapaccayā namaggapaccayā nasampayuttapaccayā navippayuttapaccayā nonatthipaccayā novigatapaccayā āhāre ekaṃ, atthiyā ekaṃ, avigate ekaṃ (yathā nahetumūlakaṃ {nahetumūlake (syā.)}. Saṃkhittaṃ).
 Naindriyamūlakaṃ. ^7-U209
 
 ##### Najhānadukaṃ ^7-4-57-128-0
@@ -4843,7 +4843,7 @@ Pakatūpanissayo – sukhāya vedanāya sampayuttaṃ saddhaṃ upanissāya sukh
 Sukhāya vedanāya sampayutto dhammo dukkhāya vedanāya sampayuttassa dhammassa upanissayapaccayena paccayo.
 Pakatūpanissayo – sukhāya vedanāya sampayuttaṃ saddhaṃ upanissāya attānaṃ ātāpeti paritāpeti, pariyiṭṭhimūlakaṃ dukkhaṃ paccanubhoti. Sukhāya vedanāya sampayuttaṃ sīlaṃ… sutaṃ… cāgaṃ… paññaṃ upanissāya attānaṃ ātāpeti paritāpeti, pariyiṭṭhimūlakaṃ dukkhaṃ paccanubhoti. Sukhāya vedanāya sampayuttaṃ rāgaṃ… mohaṃ… mānaṃ… diṭṭhiṃ… patthanaṃ… sukhasahagataṃ kāyaviññāṇaṃ upanissāya pāṇaṃ hanati. Dukkhāya vedanāya sampayuttena cittena adinnaṃ ādiyati, musā bhaṇati, pisuṇaṃ bhaṇati, pharusaṃ bhaṇati, samphaṃ palapati, sandhiṃ chindati, nillopaṃ harati, ekāgārikaṃ karoti, paripanthe tiṭṭhati, paradāraṃ gacchati, gāmaghātaṃ karoti, nigamaghātaṃ karoti, mātaraṃ jīvitā voropeti, pitaraṃ jīvitā voropeti, arahantaṃ jīvitā voropeti, duṭṭhena cittena tathāgatassa lohitaṃ uppādeti, saṅghaṃ bhindati. Sukhāya vedanāya sampayuttā saddhā… sīlaṃ… sutaṃ… cāgo… paññā… rāgo… moho… māno… diṭṭhi… patthanā… sukhasahagataṃ kāyaviññāṇaṃ dosassa… mohassa… dukkhasahagatassa kāyaviññāṇassa… dukkhāya vedanāya sampayuttakānaṃ khandhānaṃ upanissayapaccayena paccayo. (2)
 Sukhāya vedanāya sampayutto dhammo adukkhamasukhāya vedanāya sampayuttassa dhammassa upanissayapaccayena paccayo – ārammaṇūpanissayo, anantarūpanissayo, pakatūpanissayo…pe….
-Pakatūpanissayo – sukhāya vedanāya sampayuttaṃ saddhaṃ upanissāya adukkhamasukhāya vedanāya sampayuttena cittena dānaṃ deti, sīlaṃ samādiyati, uposathakammaṃ karoti, adukkhamasukhāya vedanāya sampayuttaṃ jhānaṃ uppādeti, vipassanaṃ uppādeti, maggaṃ uppādeti, abhiññaṃ uppādeti, samāpattiṃ uppādeti, mānaṃ jappeti, diṭṭhiṃ gaṇhāti. Sukhāya vedanāya sampayuttaṃ sīlaṃ… sutaṃ… cāgaṃ… paññaṃ… rāgaṃ… mohaṃ… mānaṃ… diṭṭhiṃ… patthanaṃ… sukhasahagataṃ kāyaviññāṇaṃ upanissāya adukkhamasukhāya vedanāya sampayuttena cittena dānaṃ deti…pe… samāpattiṃ uppādeti. Adukkhamasukhāya vedanāya sampayuttena cittena adinnaṃ ādiyati, musā bhaṇati, pisuṇaṃ bhaṇati, samphaṃ palapati [pharusaṃ bhaṇati, samphaṃ palapati (sī. syā.)], sandhiṃ chindati, nillopaṃ harati, ekāgārikaṃ karoti, paripanthe tiṭṭhati, paradāraṃ gacchati, gāmaghātaṃ karoti, nigamaghātaṃ karoti. Sukhāya vedanāya sampayuttā saddhā… sīlaṃ… sutaṃ… cāgo… paññā… rāgo… moho… māno… diṭṭhi… patthanā… sukhasahagataṃ kāyaviññāṇaṃ adukkhamasukhāya vedanāya sampayuttāya saddhāya… sīlassa… sutassa… cāgassa… paññāya… rāgassa… mohassa… mānassa… diṭṭhiyā… patthanāya… adukkhamasukhāya vedanāya sampayuttakānaṃ khandhānaṃ upanissayapaccayena paccayo. (3) ^7-3-53
+Pakatūpanissayo – sukhāya vedanāya sampayuttaṃ saddhaṃ upanissāya adukkhamasukhāya vedanāya sampayuttena cittena dānaṃ deti, sīlaṃ samādiyati, uposathakammaṃ karoti, adukkhamasukhāya vedanāya sampayuttaṃ jhānaṃ uppādeti, vipassanaṃ uppādeti, maggaṃ uppādeti, abhiññaṃ uppādeti, samāpattiṃ uppādeti, mānaṃ jappeti, diṭṭhiṃ gaṇhāti. Sukhāya vedanāya sampayuttaṃ sīlaṃ… sutaṃ… cāgaṃ… paññaṃ… rāgaṃ… mohaṃ… mānaṃ… diṭṭhiṃ… patthanaṃ… sukhasahagataṃ kāyaviññāṇaṃ upanissāya adukkhamasukhāya vedanāya sampayuttena cittena dānaṃ deti…pe… samāpattiṃ uppādeti. Adukkhamasukhāya vedanāya sampayuttena cittena adinnaṃ ādiyati, musā bhaṇati, pisuṇaṃ bhaṇati, samphaṃ palapati {pharusaṃ bhaṇati, samphaṃ palapati (sī. syā.)}, sandhiṃ chindati, nillopaṃ harati, ekāgārikaṃ karoti, paripanthe tiṭṭhati, paradāraṃ gacchati, gāmaghātaṃ karoti, nigamaghātaṃ karoti. Sukhāya vedanāya sampayuttā saddhā… sīlaṃ… sutaṃ… cāgo… paññā… rāgo… moho… māno… diṭṭhi… patthanā… sukhasahagataṃ kāyaviññāṇaṃ adukkhamasukhāya vedanāya sampayuttāya saddhāya… sīlassa… sutassa… cāgassa… paññāya… rāgassa… mohassa… mānassa… diṭṭhiyā… patthanāya… adukkhamasukhāya vedanāya sampayuttakānaṃ khandhānaṃ upanissayapaccayena paccayo. (3) ^7-3-53
 
 Dukkhāya vedanāya sampayutto dhammo dukkhāya vedanāya sampayuttassa dhammassa upanissayapaccayena paccayo – anantarūpanissayo, pakatūpanissayo…pe….
 Pakatūpanissayo – dosaṃ upanissāya pāṇaṃ hanati, dukkhāya vedanāya sampayuttena cittena adinnaṃ ādiyati…pe… saṅghaṃ bhindati. Mohaṃ, dukkhasahagataṃ kāyaviññāṇaṃ upanissāya pāṇaṃ hanati, dukkhāya vedanāya sampayuttena cittena adinnaṃ ādiyati…pe… saṅghaṃ bhindati. Doso… moho… dukkhasahagataṃ kāyaviññāṇaṃ dosassa… mohassa… dukkhasahagatassa kāyaviññāṇassa… dukkhāya vedanāya sampayuttakānaṃ khandhānaṃ upanissayapaccayena paccayo. (1)
@@ -4867,7 +4867,7 @@ Adukkhamasukhāya vedanāya sampayutto dhammo adukkhamasukhāya vedanāya sampay
 
 ##### Kammapaccayo ^7-5-13-10-0
 
-Sukhāya vedanāya sampayutto dhammo sukhāya vedanāya sampayuttassa dhammassa kammapaccayena paccayo – sahajātā, nānākkhaṇikā [nānākhaṇikā (ka.)]. Sahajātā – sukhāya vedanāya sampayuttā cetanā sampayuttakānaṃ khandhānaṃ kammapaccayena paccayo. Paṭisandhikkhaṇe…pe…. Nānākkhaṇikā – sukhāya vedanāya sampayuttā cetanā vipākānaṃ sukhāya vedanāya sampayuttakānaṃ khandhānaṃ kammapaccayena paccayo. (1)
+Sukhāya vedanāya sampayutto dhammo sukhāya vedanāya sampayuttassa dhammassa kammapaccayena paccayo – sahajātā, nānākkhaṇikā {nānākhaṇikā (ka.)}. Sahajātā – sukhāya vedanāya sampayuttā cetanā sampayuttakānaṃ khandhānaṃ kammapaccayena paccayo. Paṭisandhikkhaṇe…pe…. Nānākkhaṇikā – sukhāya vedanāya sampayuttā cetanā vipākānaṃ sukhāya vedanāya sampayuttakānaṃ khandhānaṃ kammapaccayena paccayo. (1)
 Sukhāya vedanāya sampayutto dhammo dukkhāya vedanāya sampayuttassa dhammassa kammapaccayena paccayo. Nānākkhaṇikā – sukhāya vedanāya sampayuttā cetanā vipākānaṃ dukkhāya vedanāya sampayuttakānaṃ khandhānaṃ kammapaccayena paccayo. (2)
 Sukhāya vedanāya sampayutto dhammo adukkhamasukhāya vedanāya sampayuttassa dhammassa kammapaccayena paccayo. Nānākkhaṇikā – sukhāya vedanāya sampayuttā cetanā vipākānaṃ adukkhamasukhāya vedanāya sampayuttakānaṃ khandhānaṃ kammapaccayena paccayo. (3) ^7-3-57
 
@@ -5084,7 +5084,7 @@ Nahetupaccayā naārammaṇapaccayā…pe… naupanissayapaccayā napurejātapac
 
 ##### Nahetumūlakaṃ. ^7-5-17-5-0
 
-(Yathā kusalattikassa paccanīyagaṇanā gaṇitā, evaṃ idampi asammuyhantena sabbaṃ mūlakaṃ gaṇetabbaṃ [gahetabbaṃ (syā.)].)
+(Yathā kusalattikassa paccanīyagaṇanā gaṇitā, evaṃ idampi asammuyhantena sabbaṃ mūlakaṃ gaṇetabbaṃ {gahetabbaṃ (syā.)}.)
 Paccanīyaṃ. ^7-U258
 
 #### Paccayānulomapaccanīyaṃ ^7-5-18-0
@@ -5795,7 +5795,7 @@ Pakatūpanissayo – arahā kāyikaṃ sukhaṃ upanissāya anuppannaṃ kiriyas
 Vipākadhammadhammo vipākadhammadhammassa upanissayapaccayena paccayo – ārammaṇūpanissayo, anantarūpanissayo, pakatūpanissayo…pe….
 Pakatūpanissayo – saddhaṃ upanissāya dānaṃ deti…pe… mānaṃ jappeti… diṭṭhiṃ gaṇhāti. Sīlaṃ… sutaṃ… cāgaṃ… paññaṃ upanissāya dānaṃ deti…pe… diṭṭhiṃ gaṇhāti. Rāgaṃ… dosaṃ… mohaṃ… mānaṃ… diṭṭhiṃ… patthanaṃ upanissāya dānaṃ deti…pe… samāpattiṃ uppādeti, pāṇaṃ hanati…pe… saṅghaṃ bhindati…pe… saddhā…pe… patthanā saddhāya… sīlassa…pe… patthanāya upanissayapaccayena paccayo. Paṭhamassa jhānassa parikammaṃ paṭhamassa…pe… nevasaññānāsaññāyatanassa parikammaṃ nevasaññānāsaññāyatanassa…pe… paṭhamaṃ jhānaṃ dutiyassa…pe… ākiñcaññāyatanaṃ nevasaññānāsaññāyatanassa…pe… paṭhamassa maggassa parikammaṃ paṭhamassa…pe… catutthassa maggassa parikammaṃ catutthassa…pe… paṭhamo maggo dutiyassa…pe… tatiyo maggo catutthassa maggassa upanissayapaccayena paccayo. Sekkhā maggaṃ upanissāya anuppannaṃ kusalasamāpattiṃ uppādenti…pe… maggo sekkhānaṃ atthappaṭisambhidāya…pe… ṭhānāṭhānakosallassa upanissayapaccayena paccayo. Pāṇātipāto pāṇātipātassa…pe… micchādiṭṭhiyā upanissayapaccayena paccayo…pe… micchādiṭṭhi micchādiṭṭhiyā…pe… byāpādassa…pe… mātughātikammaṃ mātughātikammassa…pe… niyatamicchādiṭṭhiyā…pe… niyatamicchādiṭṭhi niyatamicchādiṭṭhiyā…pe… saṅghabhedakakammassa upanissayapaccayena paccayo. (1)
 Vipākadhammadhammo vipākassa dhammassa upanissayapaccayena paccayo – anantarūpanissayo, pakatūpanissayo…pe….
-Pakatūpanissayo – saddhaṃ upanissāya attānaṃ ātāpeti paritāpeti, pariyiṭṭhimūlakaṃ dukkhaṃ paccanubhoti…pe… patthanaṃ upanissāya attānaṃ ātāpeti paritāpeti …pe… saddhā…pe… patthanā kāyikassa sukhassa, kāyikassa dukkhassa, phalasamāpattiyā upanissayapaccayena paccayo. Kusalākusalaṃ kammaṃ vipākassa [kammavipākassa (syā.)] upanissayapaccayena paccayo. Maggo phalasamāpattiyā upanissayapaccayena paccayo. (2)
+Pakatūpanissayo – saddhaṃ upanissāya attānaṃ ātāpeti paritāpeti, pariyiṭṭhimūlakaṃ dukkhaṃ paccanubhoti…pe… patthanaṃ upanissāya attānaṃ ātāpeti paritāpeti …pe… saddhā…pe… patthanā kāyikassa sukhassa, kāyikassa dukkhassa, phalasamāpattiyā upanissayapaccayena paccayo. Kusalākusalaṃ kammaṃ vipākassa {kammavipākassa (syā.)} upanissayapaccayena paccayo. Maggo phalasamāpattiyā upanissayapaccayena paccayo. (2)
 Vipākadhammadhammo nevavipākanavipākadhammadhammassa upanissayapaccayena paccayo – ārammaṇūpanissayo, pakatūpanissayo…pe….
 Pakatūpanissayo – arahā maggaṃ upanissāya anuppannaṃ kiriyasamāpattiṃ uppādeti, uppannaṃ samāpajjati, saṅkhāre aniccato dukkhato anattato vipassati. Maggo arahato atthappaṭisambhidāya…pe… ṭhānāṭhānakosallassa upanissayapaccayena paccayo. (3) ^7-4-103
 
@@ -5803,7 +5803,7 @@ Nevavipākanavipākadhammadhammo nevavipākanavipākadhammadhammassa upanissayap
 Pakatūpanissayo – arahā utuṃ… bhojanaṃ… senāsanaṃ upanissāya anuppannaṃ kiriyasamāpattiṃ uppādeti…pe…. (1)
 Nevavipākanavipākadhammadhammo vipākassa dhammassa upanissayapaccayena paccayo – ārammaṇūpanissayo, anantarūpanissayo, pakatūpanissayo…pe….
 Pakatūpanissayo – utu… bhojanaṃ… senāsanaṃ, kāyikassa sukhassa, kāyikassa dukkhassa, phalasamāpattiyā upanissayapaccayena paccayo. (2)
-Nevavipākanavipākadhammadhammo vipākadhammadhammassa upanissayapaccayena paccayo – ārammaṇūpanissayo, anantarūpanissayo, pakatūpanissayo…pe….
+Nevavipākanavipākadhammadhammo vipākadhammadhammassa upanissayapaccayena paccayo – ārammaṇūpanissayo, anantarūpanissayo, pakatūpanissayo …pe….
 Pakatūpanissayo – utuṃ upanissāya dānaṃ deti…pe… saṅghaṃ bhindati. Bhojanaṃ… senāsanaṃ upanissāya dānaṃ deti…pe… saṅghaṃ bhindati. Utu… bhojanaṃ… senāsanaṃ saddhāya…pe… patthanāya upanissayapaccayena paccayo. (3) ^7-4-104
 
 ##### Purejātapaccayo ^7-6-40-10-0
@@ -5853,7 +5853,7 @@ Nevavipākanavipākadhammadhammo nevavipākanavipākadhammadhammassa āhārapacc
 
 ##### Indriyapaccayo ^7-6-40-16-0
 
-Vipāko dhammo vipākassa dhammassa indriyapaccayena paccayo… tīṇi (paṭisandhi kātabbā [kātabbaṃ (sī.)].) Vipākadhammadhammo vipākadhammadhammassa indriyapaccayena paccayo… tīṇi.
+Vipāko dhammo vipākassa dhammassa indriyapaccayena paccayo… tīṇi (paṭisandhi kātabbā {kātabbaṃ (sī.)}.) Vipākadhammadhammo vipākadhammadhammassa indriyapaccayena paccayo… tīṇi.
 Nevavipākanavipākadhammadhammo nevavipākanavipākadhammadhammassa indriyapaccayena paccayo – nevavipākanavipākadhammadhammā indriyā sampayuttakānaṃ khandhānaṃ cittasamuṭṭhānānañca rūpānaṃ indriyapaccayena paccayo; rūpajīvitindriyaṃ kaṭattārūpānaṃ indriyapaccayena paccayo. (1)
 Nevavipākanavipākadhammadhammo vipākassa dhammassa indriyapaccayena paccayo – cakkhundriyaṃ cakkhuviññāṇassa indriyapaccayena paccayo; kāyindriyaṃ…pe…. (2)
 Vipāko ca nevavipākanavipākadhammadhammo ca dhammā vipākassa dhammassa indriyapaccayena paccayo – cakkhundriyañca cakkhuviññāṇañca cakkhuviññāṇasahagatānaṃ khandhānaṃ indriyapaccayena paccayo…pe… kāyindriyañca kāyaviññāṇañca kāyaviññāṇasahagatānaṃ khandhānaṃ indriyapaccayena paccayo. (1) ^7-4-111
@@ -6789,7 +6789,7 @@ Asaṃkiliṭṭhaasaṃkilesiko dhammo asaṃkiliṭṭhasaṃkilesikassa dhamm
 
 ##### Samanantarapaccayādi ^7-8-10-5-0
 
-Saṃkiliṭṭhasaṃkilesiko dhammo saṃkiliṭṭhasaṃkilesikassa dhammassa samanantarapaccayena paccayo…pe… sahajātapaccayena paccayo… aññamaññapaccayena paccayo… nissayapaccayena paccayo… upanissayapaccayena paccayo – ārammaṇūpanissayo, anantarūpanissayo, pakatūpanissayo…pe…. Pakatūpanissayo – rāgaṃ upanissāya pāṇaṃ hanati…pe… saṅghaṃ bhindati…pe… dosaṃ upanissāya pāṇaṃ hanati…pe… saṅghaṃ bhindati. Rāgo…pe… patthanā rāgassa…pe… patthanāya upanissayapaccayena paccayo. Pāṇātipāto pāṇātipātassa upanissayapaccayena paccayo…pe… niyatamicchādiṭṭhi niyatamicchādiṭṭhiyā upanissayapaccayena paccayo…pe…. (1)
+Saṃkiliṭṭhasaṃkilesiko dhammo saṃkiliṭṭhasaṃkilesikassa dhammassa samanantarapaccayena paccayo…pe… sahajātapaccayena paccayo… aññamaññapaccayena paccayo… nissayapaccayena paccayo… upanissayapaccayena paccayo – ārammaṇūpanissayo, anantarūpanissayo, pakatūpanissayo …pe…. Pakatūpanissayo – rāgaṃ upanissāya pāṇaṃ hanati…pe… saṅghaṃ bhindati…pe… dosaṃ upanissāya pāṇaṃ hanati…pe… saṅghaṃ bhindati. Rāgo…pe… patthanā rāgassa…pe… patthanāya upanissayapaccayena paccayo. Pāṇātipāto pāṇātipātassa upanissayapaccayena paccayo…pe… niyatamicchādiṭṭhi niyatamicchādiṭṭhiyā upanissayapaccayena paccayo…pe…. (1)
 Saṃkiliṭṭhasaṃkilesiko dhammo asaṃkiliṭṭhasaṃkilesikassa dhammassa upanissayapaccayena paccayo – anantarūpanissayo, pakatūpanissayo…pe…. Pakatūpanissayo – rāgaṃ upanissāya dānaṃ deti, sīlaṃ samādiyati, uposathakammaṃ karoti, jhānaṃ… vipassanaṃ… abhiññaṃ uppādeti, samāpattiṃ uppādeti…pe… patthanaṃ upanissāya dānaṃ deti…pe… samāpattiṃ uppādeti. Rāgo…pe… patthanā saddhāya…pe… kāyikassa sukhassa, kāyikassa dukkhassa upanissayapaccayena paccayo. Pāṇaṃ hantvā tassa paṭighātatthāya dānaṃ deti, sīlaṃ samādiyati, uposathakammaṃ karoti, jhānaṃ uppādeti, vipassanaṃ uppādeti, abhiññaṃ uppādeti, samāpattiṃ uppādeti…pe… saṅghaṃ bhinditvā tassa paṭighātatthāya dānaṃ deti, sīlaṃ samādiyati, uposathakammaṃ karoti. Akusalaṃ kammaṃ vipākassa upanissayapaccayena paccayo. (2)
 Saṃkiliṭṭhasaṃkilesiko dhammo asaṃkiliṭṭhaasaṃkilesikassa dhammassa upanissayapaccayena paccayo. Pakatūpanissayo – rāgaṃ upanissāya maggaṃ uppādeti, phalasamāpattiṃ samāpajjati. Dosaṃ…pe… patthanaṃ upanissāya maggaṃ uppādeti, phalasamāpattiṃ samāpajjati. Rāgo…pe… patthanā maggassa… phalasamāpattiyā upanissayapaccayena paccayo. (3) ^7-6-14
 
@@ -7322,7 +7322,7 @@ Avitakkavicāramattañca avitakkaavicārañca dhammaṃ paccayā avitakkavicāra
 
 ##### Naanantarapaccayādi ^7-9-17-2-0
 
-Naanantarampi [naanantarepi (ka.)] nasamanantarampi naaññamaññampi naupanissayampi satta pañhā rūpaṃyeva. Napurejāte sattatiṃsa paṭiccavārapaccanīyasadisaṃ. Napacchājāte sattatiṃsa, naāsevanepi sadisaṃ. Yattha avitakkavicāramattopi āgacchati, tattha vipākā kātabbā. ^7-7-53
+Naanantarampi {naanantarepi (ka.)} nasamanantarampi naaññamaññampi naupanissayampi satta pañhā rūpaṃyeva. Napurejāte sattatiṃsa paṭiccavārapaccanīyasadisaṃ. Napacchājāte sattatiṃsa, naāsevanepi sadisaṃ. Yattha avitakkavicāramattopi āgacchati, tattha vipākā kātabbā. ^7-7-53
 
 ##### Nakammapaccayo ^7-9-17-3-0
 
@@ -7639,12 +7639,12 @@ Avitakkavicāramatto dhammo savitakkasavicārassa ca avitakkavicāramattassa ca 
 
 Avitakkaavicāro dhammo avitakkaavicārassa dhammassa upanissayapaccayena paccayo – ārammaṇūpanissayo, anantarūpanissayo, pakatūpanissayo…pe…. Pakatūpanissayo – avitakkaavicāraṃ saddhaṃ upanissāya avitakkaavicāraṃ jhānaṃ uppādeti, maggaṃ…pe… abhiññaṃ…pe… samāpattiṃ uppādeti. Avitakkaavicāraṃ sīlaṃ… sutaṃ… cāgaṃ… paññaṃ… vicāraṃ… kāyikaṃ sukhaṃ… kāyikaṃ dukkhaṃ… utuṃ… bhojanaṃ… senāsanaṃ upanissāya avitakkaavicāraṃ jhānaṃ uppādeti, maggaṃ…pe… abhiññaṃ…pe… samāpattiṃ uppādeti. Avitakkaavicārā saddhā… sīlaṃ… sutaṃ… cāgo… paññā… vicāro… kāyikaṃ sukhaṃ… kāyikaṃ dukkhaṃ… utu… bhojanaṃ… senāsanaṃ avitakkaavicārāya saddhāya… sīlassa… sutassa… cāgassa… paññāya… vicārassa… kāyikassa sukhassa kāyikassa dukkhassa upanissayapaccayena paccayo. (1)
 Avitakkaavicāro dhammo savitakkasavicārassa dhammassa upanissayapaccayena paccayo – ārammaṇūpanissayo, anantarūpanissayo, pakatūpanissayo…pe…. Pakatūpanissayo – avitakkaavicāraṃ saddhaṃ upanissāya dānaṃ deti, sīlaṃ samādiyati, uposathakammaṃ karoti, savitakkasavicāraṃ jhānaṃ uppādeti, vipassanaṃ…pe… maggaṃ…pe… samāpattiṃ uppādeti, mānaṃ jappeti, diṭṭhiṃ gaṇhāti. Avitakkaavicāraṃ sīlaṃ… sutaṃ… cāgaṃ… paññaṃ… vicāraṃ… kāyikaṃ sukhaṃ… kāyikaṃ dukkhaṃ… utuṃ… bhojanaṃ… senāsanaṃ upanissāya dānaṃ deti, sīlaṃ samādiyati, uposathakammaṃ karoti, savitakkasavicāraṃ jhānaṃ uppādeti, vipassanaṃ…pe… maggaṃ…pe… samāpattiṃ uppādeti, pāṇaṃ hanati…pe… saṅghaṃ bhindati. Avitakkaavicārā saddhā…pe… senāsanaṃ savitakkasavicārāya saddhāya… sīlassa…pe… patthanāya upanissayapaccayena paccayo. (2)
-Avitakkaavicāro dhammo avitakkavicāramattassa dhammassa upanissayapaccayena paccayo – ārammaṇūpanissayo, anantarūpanissayo, pakatūpanissayo…pe…. Pakatūpanissayo – avitakkaavicāraṃ saddhaṃ upanissāya avitakkavicāramattaṃ jhānaṃ uppādeti, vipassanaṃ…pe… maggaṃ…pe… samāpattiṃ uppādeti. Avitakkaavicāraṃ sīlaṃ…pe… senāsanaṃ upanissāya avitakkavicāramattaṃ jhānaṃ uppādeti, vipassanaṃ…pe… maggaṃ…pe… samāpattiṃ uppādeti. Avitakkaavicārā saddhā…pe… senāsanaṃ avitakkavicāramattāya saddhāya… sīlassa… sutassa… cāgassa… paññāya vitakkassa ca upanissayapaccayena paccayo. (3)
+Avitakkaavicāro dhammo avitakkavicāramattassa dhammassa upanissayapaccayena paccayo – ārammaṇūpanissayo, anantarūpanissayo, pakatūpanissayo …pe…. Pakatūpanissayo – avitakkaavicāraṃ saddhaṃ upanissāya avitakkavicāramattaṃ jhānaṃ uppādeti, vipassanaṃ…pe… maggaṃ…pe… samāpattiṃ uppādeti. Avitakkaavicāraṃ sīlaṃ…pe… senāsanaṃ upanissāya avitakkavicāramattaṃ jhānaṃ uppādeti, vipassanaṃ…pe… maggaṃ…pe… samāpattiṃ uppādeti. Avitakkaavicārā saddhā…pe… senāsanaṃ avitakkavicāramattāya saddhāya… sīlassa… sutassa… cāgassa… paññāya vitakkassa ca upanissayapaccayena paccayo. (3)
 Avitakkaavicāro dhammo avitakkavicāramattassa ca avitakkaavicārassa ca dhammassa upanissayapaccayena paccayo – ārammaṇūpanissayo, anantarūpanissayo, pakatūpanissayo…pe…. Pakatūpanissayo – avitakkaavicārā saddhā…pe… senāsanaṃ avitakkavicāramattāya saddhāya… sīlassa… sutassa… cāgassa… paññāya vicārassa ca upanissayapaccayena paccayo. (4)
 Avitakkaavicāro dhammo savitakkasavicārassa ca avitakkavicāramattassa ca dhammassa upanissayapaccayena paccayo – ārammaṇūpanissayo, anantarūpanissayo, pakatūpanissayo…pe…. Pakatūpanissayo – avitakkaavicārā saddhā…pe… senāsanaṃ savitakkasavicārāya saddhāya… sīlassa…pe… patthanāya vitakkassa ca upanissayapaccayena paccayo. (5) ^7-7-104
 
 Avitakkavicāramatto ca avitakkaavicāro ca dhammā savitakkasavicārassa dhammassa upanissayapaccayena paccayo – ārammaṇūpanissayo, anantarūpanissayo, pakatūpanissayo…pe…. Pakatūpanissayo – avitakkavicāramattā saddhā… sīlaṃ… sutaṃ… cāgo… paññā vicāro ca savitakkasavicārāya saddhāya…pe… patthanāya upanissayapaccayena paccayo. (1)
-Avitakkavicāramatto ca avitakkaavicāro ca dhammā avitakkavicāramattassa dhammassa upanissayapaccayena paccayo – ārammaṇūpanissayo, anantarūpanissayo, pakatūpanissayo…pe…. Pakatūpanissayo – avitakkavicāramattā saddhā… sīlaṃ… sutaṃ… cāgo… paññā vicāro ca avitakkavicāramattāya saddhāya… sīlassa… sutassa… cāgassa… paññāya vitakkassa ca upanissayapaccayena paccayo. (2)
+Avitakkavicāramatto ca avitakkaavicāro ca dhammā avitakkavicāramattassa dhammassa upanissayapaccayena paccayo – ārammaṇūpanissayo, anantarūpanissayo, pakatūpanissayo …pe…. Pakatūpanissayo – avitakkavicāramattā saddhā… sīlaṃ… sutaṃ… cāgo… paññā vicāro ca avitakkavicāramattāya saddhāya… sīlassa… sutassa… cāgassa… paññāya vitakkassa ca upanissayapaccayena paccayo. (2)
 Avitakkavicāramatto ca avitakkaavicāro ca dhammā avitakkaavicārassa dhammassa upanissayapaccayena paccayo – anantarūpanissayo, pakatūpanissayo…pe…. Pakatūpanissayo – avitakkavicāramattā saddhā… sīlaṃ… sutaṃ… cāgo… paññā vicāro ca avitakkaavicārāya saddhāya… sīlassa… sutassa… cāgassa… paññāya vicārassa ca… kāyikassa sukhassa kāyikassa dukkhassa upanissayapaccayena paccayo. (3)
 Avitakkavicāramatto ca avitakkaavicāro ca dhammā avitakkavicāramattassa ca avitakkaavicārassa ca dhammassa upanissayapaccayena paccayo – anantarūpanissayo, pakatūpanissayo…pe…. Pakatūpanissayo – avitakkavicāramattā saddhā… sīlaṃ… sutaṃ… cāgo… paññā vicāro ca avitakkavicāramattāya saddhāya… sīlassa… sutassa… cāgassa… paññāya vicārassa ca upanissayapaccayena paccayo. (4)
 Avitakkavicāramatto ca avitakkaavicāro ca dhammā savitakkasavicārassa ca avitakkavicāramattassa ca dhammassa upanissayapaccayena paccayo – ārammaṇūpanissayo, anantarūpanissayo, pakatūpanissayo…pe…. Pakatūpanissayo – avitakkavicāramattā saddhā… sīlaṃ… sutaṃ… cāgo… paññā vicāro ca savitakkasavicārāya saddhāya… sīlassa… sutassa… cāgassa… paññāya… rāgassa… dosassa… mohassa… mānassa… diṭṭhiyā… patthanāya vitakkassa ca upanissayapaccayena paccayo. (5) ^7-7-105
@@ -8088,7 +8088,7 @@ Upekkhāsahagato dhammo pītisahagatassa ca sukhasahagatassa ca dhammassa adhipa
 Pītisahagato ca sukhasahagato ca dhammā pītisahagatassa dhammassa adhipatipaccayena paccayo – ārammaṇādhipati, sahajātādhipati…pe…. Sahajātādhipati – pītisahagatā ca sukhasahagatā ca adhipati sampayuttakānaṃ pītisahagatānaṃ khandhānaṃ adhipatipaccayena paccayo. (1)
 Pītisahagato ca sukhasahagato ca dhammā sukhasahagatassa dhammassa adhipatipaccayena paccayo – ārammaṇādhipati, sahajātādhipati…pe…. Sahajātādhipati – pītisahagatā ca sukhasahagatā ca adhipati sampayuttakānaṃ sukhasahagatānaṃ khandhānaṃ adhipatipaccayena paccayo. (2)
 Pītisahagato ca sukhasahagato ca dhammā upekkhāsahagatassa dhammassa adhipatipaccayena paccayo – ārammaṇādhipati (saṃkhittaṃ). (3)
-Pītisahagato ca sukhasahagato ca dhammā pītisahagatassa ca sukhasahagatassa ca dhammassa adhipatipaccayena paccayo – ārammaṇādhipati, sahajātādhipati…pe…. Sahajātādhipati – pītisahagatā ca sukhasahagatā ca adhipati sampayuttakānaṃ pītisahagatānañca sukhasahagatānañca khandhānaṃ adhipatipaccayena paccayo. (4) ^7-8-25
+Pītisahagato ca sukhasahagato ca dhammā pītisahagatassa ca sukhasahagatassa ca dhammassa adhipatipaccayena paccayo – ārammaṇādhipati, sahajātādhipati …pe…. Sahajātādhipati – pītisahagatā ca sukhasahagatā ca adhipati sampayuttakānaṃ pītisahagatānañca sukhasahagatānañca khandhānaṃ adhipatipaccayena paccayo. (4) ^7-8-25
 
 ##### Anantarapaccayo ^7-10-15-4-0
 
@@ -8157,7 +8157,7 @@ Pītisahagato ca sukhasahagato ca dhammā pītisahagatassa dhammassa…pe… suk
 
 ##### Kammapaccayo ^7-10-15-10-0
 
-Pītisahagato dhammo pītisahagatassa dhammassa kammapaccayena paccayo – sahajātā, nānākkhaṇikā [nānākhaṇikā (syā. ka.)]. Sahajātā – pītisahagatā cetanā sampayuttakānaṃ khandhānaṃ kammapaccayena paccayo. Paṭisandhikkhaṇe pītisahagatā cetanā sampayuttakānaṃ khandhānaṃ kammapaccayena paccayo. Nānākkhaṇikā – pītisahagatā cetanā vipākānaṃ pītisahagatānaṃ khandhānaṃ kammapaccayena paccayo. (1)
+Pītisahagato dhammo pītisahagatassa dhammassa kammapaccayena paccayo – sahajātā, nānākkhaṇikā {nānākhaṇikā (syā. ka.)}. Sahajātā – pītisahagatā cetanā sampayuttakānaṃ khandhānaṃ kammapaccayena paccayo. Paṭisandhikkhaṇe pītisahagatā cetanā sampayuttakānaṃ khandhānaṃ kammapaccayena paccayo. Nānākkhaṇikā – pītisahagatā cetanā vipākānaṃ pītisahagatānaṃ khandhānaṃ kammapaccayena paccayo. (1)
 Pītisahagato dhammo sukhasahagatassa dhammassa kammapaccayena paccayo – sahajātā, nānākkhaṇikā. Sahajātā – pītisahagatā cetanā sampayuttakānaṃ sukhasahagatānaṃ khandhānaṃ kammapaccayena paccayo. Paṭisandhikkhaṇe pītisahagatā cetanā sampayuttakānaṃ sukhasahagatānaṃ khandhānaṃ kammapaccayena paccayo. Nānākkhaṇikā – pītisahagatā cetanā vipākānaṃ sukhasahagatānaṃ khandhānaṃ kammapaccayena paccayo. (2)
 Pītisahagato dhammo upekkhāsahagatassa dhammassa kammapaccayena paccayo. Nānākkhaṇikā – pītisahagatā cetanā vipākānaṃ upekkhāsahagatānaṃ khandhānaṃ kammapaccayena paccayo. (3)
 Pītisahagato dhammo pītisahagatassa ca sukhasahagatassa ca dhammassa kammapaccayena paccayo – sahajātā, nānākkhaṇikā. Sahajātā – pītisahagatā cetanā sampayuttakānaṃ pītisahagatānañca sukhasahagatānañca khandhānaṃ kammapaccayena paccayo. Paṭisandhikkhaṇe …pe…. Nānākkhaṇikā – pītisahagatā cetanā vipākānaṃ pītisahagatānañca sukhasahagatānañca khandhānaṃ kammapaccayena paccayo. (4) ^7-8-40
@@ -9874,7 +9874,7 @@ Saṃsaṭṭhavāro. ^7-11-44
 
 ##### Hetupaccayo ^7-13-38-1-0
 
-Ācayagāmī [ācayagāmi (sī. syā.) evamuparipi] dhammo ācayagāmissa dhammassa hetupaccayena paccayo – ācayagāmī hetū sampayuttakānaṃ khandhānaṃ hetupaccayena paccayo. (1)
+Ācayagāmī {ācayagāmi (sī. syā.) evamuparipi} dhammo ācayagāmissa dhammassa hetupaccayena paccayo – ācayagāmī hetū sampayuttakānaṃ khandhānaṃ hetupaccayena paccayo. (1)
 Ācayagāmī dhammo nevācayagāmināpacayagāmissa dhammassa hetupaccayena paccayo – ācayagāmī hetū cittasamuṭṭhānānaṃ rūpānaṃ hetupaccayena paccayo. (2)
 Ācayagāmī dhammo ācayagāmissa ca nevācayagāmināpacayagāmissa ca dhammassa hetupaccayena paccayo – ācayagāmī hetū sampayuttakānaṃ khandhānaṃ cittasamuṭṭhānānañca rūpānaṃ hetupaccayena paccayo. (3)
 Apacayagāmī dhammo apacayagāmissa dhammassa hetupaccayena paccayo… tīṇi.
@@ -10059,7 +10059,7 @@ Paccanīyānulomaṃ.
 ##### Hetupaccayo ^7-14-3-1-0
 
 Sekkhaṃ dhammaṃ paṭicca sekkho dhammo uppajjati hetupaccayā – sekkhaṃ ekaṃ khandhaṃ paṭicca tayo khandhā…pe… dve khandhe…pe…. (1)
-Sekkhaṃ dhammaṃ paṭicca nevasekkhanāsekkho [nevasekhānāsekho (sī.), nevasekkhānāsekkho (syā. ka.)] dhammo uppajjati hetupaccayā – sekkhe khandhe paṭicca cittasamuṭṭhānaṃ rūpaṃ. (2)
+Sekkhaṃ dhammaṃ paṭicca nevasekkhanāsekkho {nevasekhānāsekho (sī.), nevasekkhānāsekkho (syā. ka.)} dhammo uppajjati hetupaccayā – sekkhe khandhe paṭicca cittasamuṭṭhānaṃ rūpaṃ. (2)
 Sekkhaṃ dhammaṃ paṭicca sekkho ca nevasekkhanāsekkho ca dhammā uppajjanti hetupaccayā – sekkhaṃ ekaṃ khandhaṃ paṭicca tayo khandhā cittasamuṭṭhānañca rūpaṃ…pe… dve khandhe…pe…. (3) ^7-12-1
 
 Asekkhaṃ dhammaṃ paṭicca asekkho dhammo uppajjati hetupaccayā – asekkhaṃ ekaṃ khandhaṃ paṭicca tayo khandhā…pe…. (1)
@@ -11007,7 +11007,7 @@ Appamāṇo dhammo parittassa dhammassa pacchājātapaccayena paccayo – pacch�
 ##### Āsevanapaccayo ^7-15-29-11-0
 
 Paritto dhammo parittassa dhammassa āsevanapaccayena paccayo – purimā purimā parittā khandhā pacchimānaṃ pacchimānaṃ parittānaṃ khandhānaṃ…pe… anulomaṃ gotrabhussa, anulomaṃ vodānassa āsevanapaccayena paccayo. (1)
-Paritto dhammo mahaggatassa dhammassa āsevanapaccayena paccayo – paṭhamassa jhānassa parikammaṃ tasseva [paṭhamassa jhānassa (?)] āsevanapaccayena paccayo…pe… nevasaññānāsaññāyatanassa parikammaṃ tasseva [nevasaññānāsaññāyatanassa (?) aññesu tikesu oloketabbaṃ] āsevanapaccayena paccayo. Dibbassa cakkhussa parikammaṃ…pe… anāgataṃsañāṇassa parikammaṃ anāgataṃsañāṇassa āsevanapaccayena paccayo. (2)
+Paritto dhammo mahaggatassa dhammassa āsevanapaccayena paccayo – paṭhamassa jhānassa parikammaṃ tasseva {paṭhamassa jhānassa (?)} āsevanapaccayena paccayo…pe… nevasaññānāsaññāyatanassa parikammaṃ tasseva {nevasaññānāsaññāyatanassa (?) aññesu tikesu oloketabbaṃ} āsevanapaccayena paccayo. Dibbassa cakkhussa parikammaṃ…pe… anāgataṃsañāṇassa parikammaṃ anāgataṃsañāṇassa āsevanapaccayena paccayo. (2)
 Paritto dhammo appamāṇassa dhammassa āsevanapaccayena paccayo – gotrabhu maggassa… vodānaṃ maggassa āsevanapaccayena paccayo. (3)
 Mahaggato dhammo mahaggatassa dhammassa āsevanapaccayena paccayo – purimā purimā mahaggatā khandhā pacchimānaṃ pacchimānaṃ mahaggatānaṃ khandhānaṃ…pe… āsevanapaccayena paccayo. (1) ^7-13-77
 
@@ -13515,7 +13515,7 @@ Hetu dhammo hetussa dhammassa ārammaṇapaccayena paccayo – hetuṃ ārabbha 
 Hetu dhammo nahetussa dhammassa ārammaṇapaccayena paccayo – hetuṃ ārabbha nahetū khandhā uppajjanti. (2)
 Hetu dhammo hetussa ca nahetussa ca dhammassa ārammaṇapaccayena paccayo – hetuṃ ārabbha hetū ca sampayuttakā ca khandhā uppajjanti. (3) ^7-24-18
 
-Nahetu dhammo nahetussa dhammassa ārammaṇapaccayena paccayo – dānaṃ datvā sīlaṃ…pe… uposathakammaṃ katvā taṃ paccavekkhati, pubbe suciṇṇāni paccavekkhati. Jhānā vuṭṭhahitvā…pe… ariyā maggā vuṭṭhahitvā maggaṃ paccavekkhanti, phalaṃ…pe… nibbānaṃ…pe… nibbānaṃ gotrabhussa, vodānassa, maggassa, phalassa, āvajjanāya ārammaṇapaccayena paccayo. Ariyā nahetū pahīne kilese paccavekkhanti, vikkhambhite kilese paccavekkhanti, pubbe samudāciṇṇe kilese jānanti, cakkhuṃ…pe… vatthuṃ, nahetū khandhe aniccato…pe… domanassaṃ uppajjati; dibbena cakkhunā rūpaṃ passati, dibbāya sotadhātuyā saddaṃ suṇāti, cetopariyañāṇena nahetucittasamaṅgissa cittaṃ jānāti. Ākāsānañcāyatanaṃ [ākāsānañcāyatanakiriyaṃ (syā.) evamuparipi tīsu ṭhānesu] viññāṇañcāyatanassa…pe… ākiñcaññāyatanaṃ nevasaññānāsaññāyatanassa…pe… rūpāyatanaṃ cakkhuviññāṇassa…pe… phoṭṭhabbāyatanaṃ kāyaviññāṇassa …pe… nahetū khandhā iddhividhañāṇassa, cetopariyañāṇassa, pubbenivāsānussatiñāṇassa, yathākammūpagañāṇassa, anāgataṃsañāṇassa, āvajjanāya ārammaṇapaccayena paccayo. (1)
+Nahetu dhammo nahetussa dhammassa ārammaṇapaccayena paccayo – dānaṃ datvā sīlaṃ…pe… uposathakammaṃ katvā taṃ paccavekkhati, pubbe suciṇṇāni paccavekkhati. Jhānā vuṭṭhahitvā…pe… ariyā maggā vuṭṭhahitvā maggaṃ paccavekkhanti, phalaṃ…pe… nibbānaṃ…pe… nibbānaṃ gotrabhussa, vodānassa, maggassa, phalassa, āvajjanāya ārammaṇapaccayena paccayo. Ariyā nahetū pahīne kilese paccavekkhanti, vikkhambhite kilese paccavekkhanti, pubbe samudāciṇṇe kilese jānanti, cakkhuṃ…pe… vatthuṃ, nahetū khandhe aniccato…pe… domanassaṃ uppajjati; dibbena cakkhunā rūpaṃ passati, dibbāya sotadhātuyā saddaṃ suṇāti, cetopariyañāṇena nahetucittasamaṅgissa cittaṃ jānāti. Ākāsānañcāyatanaṃ {ākāsānañcāyatanakiriyaṃ (syā.) evamuparipi tīsu ṭhānesu} viññāṇañcāyatanassa…pe… ākiñcaññāyatanaṃ nevasaññānāsaññāyatanassa…pe… rūpāyatanaṃ cakkhuviññāṇassa…pe… phoṭṭhabbāyatanaṃ kāyaviññāṇassa …pe… nahetū khandhā iddhividhañāṇassa, cetopariyañāṇassa, pubbenivāsānussatiñāṇassa, yathākammūpagañāṇassa, anāgataṃsañāṇassa, āvajjanāya ārammaṇapaccayena paccayo. (1)
 Nahetu dhammo hetussa dhammassa ārammaṇapaccayena paccayo – dānaṃ datvā (paṭhamagamanaṃyeva, āvajjanā natthi. Rūpāyatanaṃ cakkhuviññāṇassa…pe… phoṭṭhabbāyatanaṃ kāyaviññāṇassāti idaṃ natthi). (2)
 Nahetu dhammo hetussa ca nahetussa ca dhammassa ārammaṇapaccayena paccayo – dānaṃ datvā sīlaṃ…pe… uposathakammaṃ katvā taṃ paccavekkhati, taṃ ārabbha hetū ca sampayuttakā ca khandhā uppajjanti (tattha tattha ṭhitena imaṃ kātabbaṃ dutiyagamanasadisaṃ). (3) ^7-24-19
 
@@ -16458,7 +16458,7 @@ Nahetuyā dve, naadhipatiyā cha, napurejāte cha, napacchājāte cha, naāsevan
 Āsavavippayutto dhammo āsavasampayuttassa dhammassa upanissayapaccayena paccayo – ārammaṇūpanissayo, anantarūpanissayo, pakatūpanissayo…pe…. Pakatūpanissayo – saddhaṃ upanissāya mānaṃ jappeti, diṭṭhiṃ gaṇhāti; sīlaṃ…pe… paññaṃ… kāyikaṃ sukhaṃ… kāyikaṃ dukkhaṃ… utuṃ… bhojanaṃ… senāsanaṃ… mohaṃ upanissāya pāṇaṃ hanati…pe… saṅghaṃ bhindati; saddhā…pe… moho ca rāgassa…pe… patthanāya upanissayapaccayena paccayo. (2)
 Āsavavippayutto dhammo āsavasampayuttassa ca āsavavippayuttassa ca dhammassa upanissayapaccayena paccayo – anantarūpanissayo, pakatūpanissayo…pe…. Pakatūpanissayo – saddhā… sīlaṃ…pe… moho domanassasahagatānaṃ vicikicchāsahagatānaṃ uddhaccasahagatānaṃ khandhānaṃ mohassa ca upanissayapaccayena paccayo. (3) ^7-26-87
 
-Āsavasampayutto ca āsavavippayutto ca dhammā āsavasampayuttassa dhammassa upanissayapaccayena paccayo – anantarūpanissayo, pakatūpanissayo…pe…. Pakatūpanissayo – domanassasahagatā vicikicchāsahagatā uddhaccasahagatā khandhā ca moho ca āsavasampayuttakānaṃ khandhānaṃ upanissayapaccayena paccayo. (Pucchitabbaṃ mūlaṃ) domanassasahagatā vicikicchāsahagatā uddhaccasahagatā khandhā ca moho ca āsavasampayuttakānaṃ khandhānaṃ upanissayapaccayena paccayo. (1)
+Āsavasampayutto ca āsavavippayutto ca dhammā āsavasampayuttassa dhammassa upanissayapaccayena paccayo – anantarūpanissayo, pakatūpanissayo …pe…. Pakatūpanissayo – domanassasahagatā vicikicchāsahagatā uddhaccasahagatā khandhā ca moho ca āsavasampayuttakānaṃ khandhānaṃ upanissayapaccayena paccayo. (Pucchitabbaṃ mūlaṃ) domanassasahagatā vicikicchāsahagatā uddhaccasahagatā khandhā ca moho ca āsavasampayuttakānaṃ khandhānaṃ upanissayapaccayena paccayo. (1)
 Āsavasampayutto ca āsavavippayutto ca dhammā āsavasampayuttassa ca āsavavippayuttassa ca dhammassa upanissayapaccayena paccayo – anantarūpanissayo, pakatūpanissayo…pe…. Pakatūpanissayo – domanassasahagatā vicikicchāsahagatā uddhaccasahagatā khandhā ca moho ca domanassasahagatānaṃ vicikicchāsahagatānaṃ uddhaccasahagatānaṃ khandhānaṃ mohassa ca upanissayapaccayena paccayo. (2) ^7-26-88
 
 ##### Purejātapaccayo ^7-28-59-7-0
@@ -18223,7 +18223,7 @@ Oghayogagocchakaṃ niṭṭhitaṃ. ^7-29-2
 
 ##### Hetupaccayo ^7-32-4-1-0
 
-Nīvaraṇaṃ dhammaṃ paṭicca nīvaraṇo dhammo uppajjati hetupaccayā – kāmacchandanīvaraṇaṃ paṭicca thinamiddhanīvaraṇaṃ [thīnamiddhanīvaraṇaṃ (syā.)] uddhaccanīvaraṇaṃ avijjānīvaraṇaṃ, kāmacchandanīvaraṇaṃ paṭicca uddhaccanīvaraṇaṃ avijjānīvaraṇaṃ, byāpādanīvaraṇaṃ paṭicca thinamiddhanīvaraṇaṃ uddhaccanīvaraṇaṃ avijjānīvaraṇaṃ, byāpādanīvaraṇaṃ paṭicca uddhaccanīvaraṇaṃ avijjānīvaraṇaṃ, byāpādanīvaraṇaṃ paṭicca thinamiddhanīvaraṇaṃ uddhaccanīvaraṇaṃ kukkuccanīvaraṇaṃ avijjānīvaraṇaṃ, byāpādanīvaraṇaṃ paṭicca uddhaccanīvaraṇaṃ kukkuccanīvaraṇaṃ avijjānīvaraṇaṃ, vicikicchānīvaraṇaṃ paṭicca uddhaccanīvaraṇaṃ, uddhaccanīvaraṇaṃ paṭicca avijjānīvaraṇaṃ. (1)
+Nīvaraṇaṃ dhammaṃ paṭicca nīvaraṇo dhammo uppajjati hetupaccayā – kāmacchandanīvaraṇaṃ paṭicca thinamiddhanīvaraṇaṃ {thīnamiddhanīvaraṇaṃ (syā.)} uddhaccanīvaraṇaṃ avijjānīvaraṇaṃ, kāmacchandanīvaraṇaṃ paṭicca uddhaccanīvaraṇaṃ avijjānīvaraṇaṃ, byāpādanīvaraṇaṃ paṭicca thinamiddhanīvaraṇaṃ uddhaccanīvaraṇaṃ avijjānīvaraṇaṃ, byāpādanīvaraṇaṃ paṭicca uddhaccanīvaraṇaṃ avijjānīvaraṇaṃ, byāpādanīvaraṇaṃ paṭicca thinamiddhanīvaraṇaṃ uddhaccanīvaraṇaṃ kukkuccanīvaraṇaṃ avijjānīvaraṇaṃ, byāpādanīvaraṇaṃ paṭicca uddhaccanīvaraṇaṃ kukkuccanīvaraṇaṃ avijjānīvaraṇaṃ, vicikicchānīvaraṇaṃ paṭicca uddhaccanīvaraṇaṃ, uddhaccanīvaraṇaṃ paṭicca avijjānīvaraṇaṃ. (1)
 Nīvaraṇaṃ dhammaṃ paṭicca nonīvaraṇo dhammo uppajjati hetupaccayā – nīvaraṇe paṭicca sampayuttakā khandhā cittasamuṭṭhānañca rūpaṃ. (2)
 Nīvaraṇaṃ dhammaṃ paṭicca nīvaraṇo ca nonīvaraṇo ca dhammā uppajjanti hetupaccayā – kāmacchandanīvaraṇaṃ paṭicca thinamiddhanīvaraṇaṃ uddhaccanīvaraṇaṃ avijjānīvaraṇaṃ sampayuttakā ca khandhā cittasamuṭṭhānañca rūpaṃ (cakkaṃ). (3) ^7-30-1
 
@@ -20546,7 +20546,7 @@ Cittasampayutto dhammo cittasampayuttassa dhammassa anantarapaccayena paccayo �
 
 ##### Upanissayapaccayo ^7-34-139-5-0
 
-Cittasampayutto dhammo cittasampayuttassa dhammassa upanissayapaccayena paccayo – ārammaṇūpanissayo, anantarūpanissayo, pakatūpanissayo…pe…. Pakatūpanissayo – saddhaṃ upanissāya dānaṃ deti…pe… mānaṃ jappeti, diṭṭhiṃ gaṇhāti; sīlaṃ…pe… patthanaṃ kāyikaṃ sukhaṃ… kāyikaṃ dukkhaṃ upanissāya dānaṃ deti…pe… pāṇaṃ hanati…pe… saṅghaṃ bhindati; saddhā…pe… kāyikaṃ dukkhaṃ saddhāya…pe… maggassa, phalasamāpattiyā upanissayapaccayena paccayo. (1)
+Cittasampayutto dhammo cittasampayuttassa dhammassa upanissayapaccayena paccayo – ārammaṇūpanissayo, anantarūpanissayo, pakatūpanissayo …pe…. Pakatūpanissayo – saddhaṃ upanissāya dānaṃ deti…pe… mānaṃ jappeti, diṭṭhiṃ gaṇhāti; sīlaṃ…pe… patthanaṃ kāyikaṃ sukhaṃ… kāyikaṃ dukkhaṃ upanissāya dānaṃ deti…pe… pāṇaṃ hanati…pe… saṅghaṃ bhindati; saddhā…pe… kāyikaṃ dukkhaṃ saddhāya…pe… maggassa, phalasamāpattiyā upanissayapaccayena paccayo. (1)
 Cittavippayutto dhammo cittasampayuttassa dhammassa upanissayapaccayena paccayo – ārammaṇūpanissayo, pakatūpanissayo…pe…. Pakatūpanissayo – utuṃ… bhojanaṃ… senāsanaṃ upanissāya dānaṃ deti…pe… saṅghaṃ bhindati; utu… bhojanaṃ… senāsanaṃ saddhāya…pe… phalasamāpattiyā upanissayapaccayena paccayo. (1) ^7-32-169
 
 ##### Purejātapaccayo ^7-34-139-6-0
@@ -23215,7 +23215,7 @@ Tatiyo bhāgo niṭṭhito. ^7-33-116
 
 ##### Hetupaccayo ^7-36-6-1-0
 
-Kilesaṃ dhammaṃ paṭicca kileso dhammo uppajjati hetupaccayā – lobhaṃ paṭicca moho diṭṭhi thinaṃ [thīnaṃ (sī. syā.)] uddhaccaṃ ahirikaṃ anottappaṃ, lobhaṃ paṭicca moho diṭṭhi uddhaccaṃ ahirikaṃ anottappaṃ, lobhaṃ paṭicca moho māno thinaṃ uddhaccaṃ ahirikaṃ anottappaṃ, lobhaṃ paṭicca moho māno uddhaccaṃ ahirikaṃ anottappaṃ, lobhaṃ paṭicca moho thinaṃ uddhaccaṃ ahirikaṃ anottappaṃ, lobhaṃ paṭicca moho uddhaccaṃ ahirikaṃ anottappaṃ; dosaṃ paṭicca moho thinaṃ uddhaccaṃ ahirikaṃ anottappaṃ, dosaṃ paṭicca moho uddhaccaṃ ahirikaṃ anottappaṃ; vicikicchaṃ paṭicca moho uddhaccaṃ ahirikaṃ anottappaṃ; uddhaccaṃ paṭicca moho ahirikaṃ anottappaṃ. (1)
+Kilesaṃ dhammaṃ paṭicca kileso dhammo uppajjati hetupaccayā – lobhaṃ paṭicca moho diṭṭhi thinaṃ {thīnaṃ (sī. syā.)} uddhaccaṃ ahirikaṃ anottappaṃ, lobhaṃ paṭicca moho diṭṭhi uddhaccaṃ ahirikaṃ anottappaṃ, lobhaṃ paṭicca moho māno thinaṃ uddhaccaṃ ahirikaṃ anottappaṃ, lobhaṃ paṭicca moho māno uddhaccaṃ ahirikaṃ anottappaṃ, lobhaṃ paṭicca moho thinaṃ uddhaccaṃ ahirikaṃ anottappaṃ, lobhaṃ paṭicca moho uddhaccaṃ ahirikaṃ anottappaṃ; dosaṃ paṭicca moho thinaṃ uddhaccaṃ ahirikaṃ anottappaṃ, dosaṃ paṭicca moho uddhaccaṃ ahirikaṃ anottappaṃ; vicikicchaṃ paṭicca moho uddhaccaṃ ahirikaṃ anottappaṃ; uddhaccaṃ paṭicca moho ahirikaṃ anottappaṃ. (1)
 Kilesaṃ dhammaṃ paṭicca nokileso dhammo uppajjati hetupaccayā – kilesaṃ paṭicca sampayuttakā khandhā cittasamuṭṭhānañca rūpaṃ. (2)
 Kilesaṃ dhammaṃ paṭicca kileso ca nokileso ca dhammā uppajjanti hetupaccayā – lobhaṃ paṭicca moho diṭṭhi thinaṃ uddhaccaṃ ahirikaṃ anottappaṃ sampayuttakā ca khandhā cittasamuṭṭhānañca rūpaṃ (cakkaṃ). (3) ^7-34-1
 
@@ -38985,7 +38985,7 @@ Nanevavipākanavipākadhammadhammaṃ naabyākataṃ dhammaṃ paṭicca…. ^7-
 
 #### 4-1. Upādinnattika-kusalattikaṃ ^7-63-16-0
 
-Naupādinnupādāniyaṃ nakusalaṃ [ito paṭṭhāya yāva ajjhattārammaṇattikā sabbapotthakesu akusalābyākatapadāni na dissanti, vedanāttika sanidassanattikesu viya nanu tehipi bhavitabbaṃ] dhammaṃ paṭicca…pe… naanupādinnupādāniyaṃ nakusalaṃ dhammaṃ paṭicca…pe… naanupādinnaanupādāniyaṃ nakusalaṃ dhammaṃ paṭicca…. ^7-61-45
+Naupādinnupādāniyaṃ nakusalaṃ {ito paṭṭhāya yāva ajjhattārammaṇattikā sabbapotthakesu akusalābyākatapadāni na dissanti, vedanāttika sanidassanattikesu viya nanu tehipi bhavitabbaṃ} dhammaṃ paṭicca…pe… naanupādinnupādāniyaṃ nakusalaṃ dhammaṃ paṭicca…pe… naanupādinnaanupādāniyaṃ nakusalaṃ dhammaṃ paṭicca…. ^7-61-45
 
 #### 5-1. Saṃkiliṭṭhattika-kusalattikaṃ ^7-63-17-0
 
@@ -39878,7 +39878,7 @@ Hetuyā nava. (Sabbattha vitthāro.) ^7-64-13
 ##### 1-7. Paṭiccavārādi ^7-66-14-1-0
 
 Lokiyaṃ dhammaṃ paṭicca nalokuttaro dhammo uppajjati hetupaccayā. (1)
-Lokuttaraṃ dhammaṃ paṭicca nalokuttaro dhammo uppajjati hetupaccayā. Lokuttaraṃ dhammaṃ paṭicca nalokiyo dhammo uppajjati hetupaccayā. (Lokuttaraṃ dhammaṃ paṭicca nalokiyo ca nalokuttaro ca dhammā uppajjanti hetupaccayā.) [ayaṃ saṅkhyā vicāretabbā, nalokiyanalokuttaradhammo nāma natthi] (3)
+Lokuttaraṃ dhammaṃ paṭicca nalokuttaro dhammo uppajjati hetupaccayā. Lokuttaraṃ dhammaṃ paṭicca nalokiyo dhammo uppajjati hetupaccayā. (Lokuttaraṃ dhammaṃ paṭicca nalokiyo ca nalokuttaro ca dhammā uppajjanti hetupaccayā.) {ayaṃ saṅkhyā vicāretabbā, nalokiyanalokuttaradhammo nāma natthi} (3)
 Lokiyañca lokuttarañca dhammaṃ paṭicca nalokuttaro dhammo uppajjati hetupaccayā. (1) (Saṃkhittaṃ.)
 Hetuyā pañca. (Sabbattha pañca.) ^7-64-14
 
@@ -41030,7 +41030,7 @@ Savitakkasavicāraṃ nahetuṃ dhammaṃ paṭicca naavitakkavicāramatto nanah
 #### 7-1. Pītittika-hetudukaṃ ^7-68-34-0
 
 Pītisahagataṃ hetuṃ dhammaṃ paṭicca napītisahagato nahetu dhammo uppajjati hetupaccayā… hetuyā aṭṭhavīsa.
-Pītisahagataṃ nahetuṃ dhammaṃ paṭicca naupekkhāsahagato nanahetu dhammo uppajjati hetupaccayā… hetuyā aṭṭhārasa [hetuyā aṭṭha?]. ^7-66-73
+Pītisahagataṃ nahetuṃ dhammaṃ paṭicca naupekkhāsahagato nanahetu dhammo uppajjati hetupaccayā… hetuyā aṭṭhārasa {hetuyā aṭṭha?}. ^7-66-73
 
 #### 8-1. Dassanattika-hetudukaṃ ^7-68-35-0
 
@@ -41075,7 +41075,7 @@ Micchattaniyataṃ nahetuṃ dhammaṃ paṭicca nasammattaniyato nanahetu dhamm
 #### 16-1. Maggārammaṇattika-hetudukaṃ ^7-68-43-0
 
 Maggārammaṇaṃ hetuṃ dhammaṃ paṭicca namaggārammaṇo nahetu dhammo uppajjati hetupaccayā… hetuyā pañcavīsa.
-Maggārammaṇaṃ nahetuṃ dhammaṃ paṭicca namaggahetuko nanahetu dhammo uppajjati hetupaccayā… hetuyā terasa [hetuyā aṭṭha?]. ^7-66-82
+Maggārammaṇaṃ nahetuṃ dhammaṃ paṭicca namaggahetuko nanahetu dhammo uppajjati hetupaccayā… hetuyā terasa {hetuyā aṭṭha?}. ^7-66-82
 
 #### 17-1. Uppannattika-hetudukaṃ ^7-68-44-0
 
@@ -42132,7 +42132,7 @@ Nahīnaṃ dhammaṃ paṭicca majjhimo dhammo uppajjati hetupaccayā… hetuyā
 
 Namicchattaniyataṃ dhammaṃ paṭicca sammattaniyato dhammo uppajjati hetupaccayā… hetuyā aṭṭhārasa. ^7-69-23
 
-Namaggārammaṇaṃ dhammaṃ paṭicca maggahetuko dhammo uppajjati hetupaccayā… hetuyā dasa [hetuyā aṭṭha?]. ^7-69-24
+Namaggārammaṇaṃ dhammaṃ paṭicca maggahetuko dhammo uppajjati hetupaccayā… hetuyā dasa {hetuyā aṭṭha?}. ^7-69-24
 
 #### Uppannattikaṃ ^7-71-17-0
 
