@@ -1,5 +1,5 @@
 ---
-title: Yamaka-aṭṭhakathā
+title: Yamakappakaraṇa-aṭṭhakathā
 language: Pali
 script: Roman (PTS diacritics)
 file_type: commentary

@@ -1,17 +1,15 @@
 # Yamaka (`pi-6`) commentaries — structure, content, and upload
 
 **Date:** 2026-10-29  
-**Scope:** the three pi-6 commentaries only:
+**Scope:** the three pi-6 commentaries, checked against their root text:
 
 - `1-SOURCES/Commentaries/pi-yamaka-atthakatha.md`
 - `1-SOURCES/Commentaries/pi-yamaka-mulatiika.md`
 - `1-SOURCES/Commentaries/pi-yamaka-anutiika.md`
 
-Root `1-SOURCES/Text/pi-6.md` was read for transclusion targets only and not edited.
+**Root text (reference):** `1-SOURCES/Text/pi-6.md` (Yamakapāḷi). Every transclusion target, every linked range and every commentary section was checked against it. It was read only, not edited.
 
-**Checked against:** `4-SYSTEM/Guidelines/block-id-spec.md`, the live tipitaka.app data (`/api/children` and `/api/text`), `4-SYSTEM/scripts/linter-commentary/` and `parser-commentary/`.
-
-**Nothing is committed. Nothing is uploaded** (the user uploads by hand).
+**Checked against:** the root text `pi-6.md`, `4-SYSTEM/Guidelines/block-id-spec.md`, the live tipitaka.app data (`/api/children` and `/api/text`), `4-SYSTEM/scripts/linter-commentary/` and `parser-commentary/`.
 
 ---
 
@@ -19,13 +17,13 @@ Root `1-SOURCES/Text/pi-6.md` was read for transclusion targets only and not edi
 
 | Part | Result |
 |---|---|
-| A. Vault hierarchy (parent / child / siblings, IDs) | PASS |
-| B. tipitaka.app tree, titles and order | PASS |
+| A. Vault hierarchy (parent / child / siblings, IDs) | matches the block-ID spec |
+| B. tipitaka.app tree, titles and order | match the site |
 | C. Intentional differences | flagged, not changed |
-| D. Text quality (glued words) | PASS after 41 fixes; body text identical to the site word for word |
+| D. Text quality (glued words) | 41 glued words fixed; body text identical to the site word for word |
 | E. Root-verse transclusions | added, aligned with the printed citations |
-| F. Linter and parser | PASS (after adding `license: cc0`, `tag_ids` and clean titles) |
-| Upload | not done; to be done by hand |
+| F. Linter and parser | lint OK, parse OK (after adding `license: cc0`, `tag_ids` and titles) |
+| Upload | done for all three; IDs in frontmatter |
 
 ---
 
@@ -104,7 +102,7 @@ Each numbered paragraph has one `![[1-SOURCES/Text/pi-6.md#^6-{yamaka}-{N}]]` li
 
 ## F. Linter and parser
 
-`license: cc0`, `tag_ids: [296WZOr8MXWteSqBBI7pl]` and clean titles were added: `Yamaka-aṭṭhakathā`, `Yamaka-mūlaṭīkā`, `Yamaka-anuṭīkā` (the pi-5 pattern). The linter patched `commentary_of: IZ74xHeWa9xortlOhL6cc` and `category_id: MZUUxphQ0yFwLBon3Vng8` from `pi-6.md`. All three lint OK and parse OK. `languages.py` was restored with `git checkout`.
+`license: cc0`, `tag_ids: [296WZOr8MXWteSqBBI7pl]` and titles were added: `Yamakappakaraṇa-aṭṭhakathā`, `Yamakapakaraṇa-mūlaṭīkā`, `Yamakapakaraṇa-anuṭīkā`. Titles are the book headings as printed in the source; tipitaka.app uses the same names. The linter patched `commentary_of: IZ74xHeWa9xortlOhL6cc` and `category_id: MZUUxphQ0yFwLBon3Vng8` from `pi-6.md`. All three lint OK and parse OK. `languages.py` was restored with `git checkout`.
 
 Outputs: `4-SYSTEM/scripts/linter-commentary/output/pi-yamaka-*.lint.json` and `4-SYSTEM/scripts/parser-commentary/output/pi-yamaka-*/` (text, edition, toc and alignment JSON).
 
@@ -123,9 +121,20 @@ Warnings (none block): author/translator missing, `alt_titles` missing.
 
 - **The anuṭīkā Khandhayamaka has two "Paṇṇattivāro" headings** (`^6-3-1-0` › Uddesavāravaṇṇanā, `^6-3-2-0` › Niddesavāravaṇṇanā). The site prints "1. Paṇṇattivāro" twice (https://tipitaka.app/latn/tika2-ap-pp-5-4 and https://tipitaka.app/latn/tika2-ap-pp-5-5), so the vault keeps both. The mūlaṭīkā source prints it once, and the vault follows that too.
 
-## Upload (by hand)
+## Upload
 
-Per file: `POST /v2/texts`, `POST /v2/texts/{id}/editions`, `PUT /v2/editions/{root_edition}/alignments/{edition}`, `POST /v2/editions/{edition}/table-of-contents`. Root edition: `vYtNelE9z5AWQ0jAv82cC` (`pi-6.md`). Afterwards save `text_id`, `edition_id` and `toc_id` in each file's frontmatter.
+Root edition: `vYtNelE9z5AWQ0jAv82cC` (`pi-6.md`).
+
+| | text_id | edition_id | toc_id |
+|---|---|---|---|
+| aṭṭhakathā | `cUpbK3Y0ljPyLDcAirNbP` | `kocWHwHRuH3lc5Odf6Xfy` | `uO0m1mTDQ4fPsefPOPQxC` |
+| mūlaṭīkā | `mTZwGbmllr9P0WOwBj6DI` | `2GNMKB0g0zr1YzbBosLuE` | `IWi4VypR4Mb369LOT6sJr` |
+| anuṭīkā | `1dUcj3Ct12ccgItOuslPV` | `GwnGsBoL586jz6lrD0Va6` | `zr3RFZ2uHXESixIYIXGAf` |
+
+IDs are saved in each file's frontmatter. Live alignments were re-checked on 2026-10-30 and match the files pair for pair (6,517 / 5,499 / 6,162). There is no alignment between layers (mūlaṭīkā to aṭṭhakathā, anuṭīkā to mūlaṭīkā), as for pi-3 to pi-5.
+
+**Titles in the library:** the mūlaṭīkā and anuṭīkā titles and the aṭṭhakathā title were changed to the source names after upload. They were updated in the library with `PATCH /v2/texts/{text_id}` on 2026-10-30; the live titles match the files.
+
 
 ## Files to commit (when ready)
 

@@ -1,5 +1,5 @@
 ---
-title: Yamaka-anuṭīkā
+title: Yamakapakaraṇa-anuṭīkā
 language: Pali
 script: Roman (PTS diacritics)
 file_type: commentary

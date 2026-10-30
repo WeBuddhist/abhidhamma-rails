@@ -1,15 +1,15 @@
 # Kathāvatthu (`pi-5`) commentaries — structure, content, and upload
 
 **Date:** 2026-10-29  
-**Scope:** the three pi-5 commentaries only:
+**Scope:** the three pi-5 commentaries, checked against their root text:
 
 - `1-SOURCES/Commentaries/pi-kathavatthu-atthakatha.md`
 - `1-SOURCES/Commentaries/pi-kathavatthu-mulatiika.md`
 - `1-SOURCES/Commentaries/pi-kathavatthu-anutiika.md`
 
-Root `1-SOURCES/Text/pi-5.md` was read for transclusion targets only and not edited.
+**Root text (reference):** `1-SOURCES/Text/pi-5.md` (Kathāvatthupāḷi). Every transclusion target, every linked range and every commentary section was checked against it. It was read only, not edited.
 
-**Checked against:** `4-SYSTEM/Guidelines/block-id-spec.md`, the live tipitaka.app data, `4-SYSTEM/scripts/linter-commentary/` and `parser-commentary/`.
+**Checked against:** the root text `pi-5.md`, `4-SYSTEM/Guidelines/block-id-spec.md`, the live tipitaka.app data, `4-SYSTEM/scripts/linter-commentary/` and `parser-commentary/`.
 
 ---
 
@@ -17,12 +17,12 @@ Root `1-SOURCES/Text/pi-5.md` was read for transclusion targets only and not edi
 
 | Part | Result |
 |---|---|
-| A. Vault hierarchy (parent / child / siblings, IDs) | PASS |
-| B. tipitaka.app tree, titles and order | PASS |
+| A. Vault hierarchy (parent / child / siblings, IDs) | matches the block-ID spec |
+| B. tipitaka.app tree, titles and order | match the site |
 | C. Intentional differences | flagged, not changed |
-| D. Text quality (glued words) | PASS after 93 fixes |
+| D. Text quality (glued words) | 93 glued words fixed |
 | E. Root-verse transclusions | added, aligned with the source |
-| F. Linter and parser | PASS |
+| F. Linter and parser | lint OK, parse OK |
 | Upload | done for all three; IDs in frontmatter |
 
 ---
@@ -100,7 +100,7 @@ Irregular citations (as printed in CST / tipitaka.app; see `4-SYSTEM/Guidelines/
 
 ## F. Linter and parser
 
-`license: cc0`, `tag_ids: [296WZOr8MXWteSqBBI7pl]` and clean titles were added; the linter patched `commentary_of` and `category_id` from `pi-5.md`. All three lint OK and parse OK.
+`license: cc0`, `tag_ids: [296WZOr8MXWteSqBBI7pl]` and titles were added; the linter patched `commentary_of` and `category_id` from `pi-5.md`. All three lint OK and parse OK.
 
 | | aṭṭhakathā | mūlaṭīkā | anuṭīkā |
 |---|---|---|---|
@@ -109,7 +109,7 @@ Irregular citations (as printed in CST / tipitaka.app; see `4-SYSTEM/Guidelines/
 | TOC nodes | 278 | 211 | 206 |
 | Alignment pairs | 1,841 | 903 | 1,124 |
 
-Titles: `Kathāvatthu-aṭṭhakathā`, `Kathāvatthu-mūlaṭīkā`, `Kathāvatthu-anuṭīkā`.
+Titles: `Kathāvatthu-aṭṭhakathā`, `Kathāvatthupakaraṇa-mūlaṭīkā`, `Kathāvatthupakaraṇa-anuṭīkā`. Titles are the book headings as printed in the source; tipitaka.app uses the same names.
 
 ## Upload
 
@@ -121,7 +121,10 @@ Root edition: `WjnE60LMIzQETFlXoh9Hd` (`pi-5.md`).
 | mūlaṭīkā | `Awq6BwDSyKA3BEvodcEmk` | `4rL7eOexrXBXN7UydZNnI` | `t4pwbvl4zFrGIx3hQe20b` |
 | anuṭīkā | `s2GMCzOo9FrV9znoTCAM7` | `nkSDSS7ezbdrXo0XCxdvo` | `Cl385DCm70UPWZbQ1A5O1` |
 
-The live library matches the files. IDs are saved in each file's frontmatter.
+The live library matches the files; alignments re-checked on 2026-10-30 (1,841 / 903 / 1,124). IDs are saved in each file's frontmatter.
+
+**Titles in the library:** the mūlaṭīkā and anuṭīkā titles were changed to the source names after upload. They were updated in the library with `PATCH /v2/texts/{text_id}` on 2026-10-30; the live titles match the files.
+
 
 ## Things to know
 

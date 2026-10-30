@@ -1,17 +1,15 @@
 # Puggalapaññatti (`pi-4`) commentaries — structure, content, and upload
 
 **Date:** 2026-10-28  
-**Scope:** the three pi-4 commentaries only:
+**Scope:** the three pi-4 commentaries, checked against their root text:
 
 - `1-SOURCES/Commentaries/pi-puggalapannatti-atthakatha.md`
 - `1-SOURCES/Commentaries/pi-puggalapannatti-mulatiika.md`
 - `1-SOURCES/Commentaries/pi-puggalapannatti-anutiika.md`
 
-Root `1-SOURCES/Text/pi-4.md` was read for transclusion targets only and not edited. pi-1, pi-2, pi-3, pi-5, pi-6, pi-7 and `.gitignore` were not touched.
+**Root text (reference):** `1-SOURCES/Text/pi-4.md` (Puggalapaññattipāḷi). Every transclusion target, every linked range and every commentary section was checked against it. It was read only, not edited. pi-1, pi-2, pi-3, pi-5, pi-6, pi-7 and `.gitignore` were not touched.
 
-**Checked against:** `4-SYSTEM/Guidelines/block-id-spec.md`, the live tipitaka.app data (its own `/api/children` and `/api/text` endpoints), `4-SYSTEM/scripts/linter-commentary/` and `parser-commentary/`.
-
-**Nothing is committed.** Uploads were done by hand by the user (see below).
+**Checked against:** the root text `pi-4.md`, `4-SYSTEM/Guidelines/block-id-spec.md`, the live tipitaka.app data (its own `/api/children` and `/api/text` endpoints), `4-SYSTEM/scripts/linter-commentary/` and `parser-commentary/`.
 
 ---
 
@@ -19,11 +17,12 @@ Root `1-SOURCES/Text/pi-4.md` was read for transclusion targets only and not edi
 
 | Part | Result |
 |---|---|
-| A. Vault hierarchy (parent / child / siblings, IDs) | PASS |
-| B. tipitaka.app tree, titles and order | PASS |
+| A. Vault hierarchy (parent / child / siblings, IDs) | matches the block-ID spec |
+| B. tipitaka.app tree, titles and order | match the site |
 | C. Intentional differences | flagged, not changed |
-| D. Text quality (glued words) | PASS after 21 fixes |
-| E. Linter and parser | PASS (after adding `license: cc0`) |
+| D. Text quality (glued words) | 21 glued words fixed |
+| Root-verse transclusions | 148 / 71 / 57 root targets, same references as the site |
+| E. Linter and parser | lint OK, parse OK (after adding `license: cc0`) |
 | Upload | done by the user for all three; IDs in frontmatter |
 
 ---
@@ -100,7 +99,7 @@ First lint run failed on all three with one error: `license` required. `license:
 
 Warnings (none block upload): author/translator missing, `alt_titles` missing.
 
-Titles (frontmatter and upload payload): `Puggalapaññatti-aṭṭhakathā`, `Puggalapaññatti-mūlaṭīkā`, `Puggalapaññatti-anuṭīkā` (the earlier "(extract from …)" suffix was removed). `tag_ids: [296WZOr8MXWteSqBBI7pl]` added, the same Abhidhamma tag as the other commentaries.
+Titles (frontmatter and upload payload): `Puggalapaññatti-aṭṭhakathā`, `Puggalapaññattipakaraṇa-mūlaṭīkā`, `Puggalapaññattipakaraṇa-anuṭīkā` (the earlier "(extract from …)" suffix was removed). Titles are the book headings as printed in the source; tipitaka.app uses the same names. `tag_ids: [296WZOr8MXWteSqBBI7pl]` added, the same Abhidhamma tag as the other commentaries.
 
 Outputs: `4-SYSTEM/scripts/linter-commentary/output/pi-puggalapannatti-*.lint.json` and `4-SYSTEM/scripts/parser-commentary/output/pi-puggalapannatti-*/` (text, edition, toc and alignment JSON each).
 
@@ -118,10 +117,11 @@ IDs are saved in each file's frontmatter. The alignment is the same kind as pi-3
 
 ## Things to know
 
-- **Aṭṭhakathā title and tag:** the first title and `tag_ids` edit to the aṭṭhakathā frontmatter was lost when the IDs were saved (the file reverted to the old title and no tag). It was re-applied on 2026-10-28. The aṭṭhakathā was uploaded with the old title, so the live text may still show "(extract from …)" and lack the tag until patched (`PATCH /v2/texts/{id}` for the title, `POST /v2/texts/{id}/tags/296WZOr8MXWteSqBBI7pl` for the tag). Verify on the live text.
+- **Aṭṭhakathā title and tag:** verified live on 2026-10-30: `Puggalapaññatti-aṭṭhakathā` with tag `296WZOr8MXWteSqBBI7pl`.
+- **Titles in the library:** the mūlaṭīkā and anuṭīkā titles were changed to the source names after upload. They were updated in the library with `PATCH /v2/texts/{text_id}` on 2026-10-30; the live titles match the files.
 - Running the linter refreshes the tracked `4-SYSTEM/scripts/linter-commentary/languages.py` from the live API; it was restored with `git checkout` each time.
 - The live root edition for `pi-4` came from an older parser; commentary alignment targets use only verse and mātikā references, so this should not matter.
-- Not compared: the site's rendered page or sidebar in the browser, or the live library pages after upload. Open each text in the reader to confirm the TOC tree.
+- Live alignments were re-checked on 2026-10-30 and match the files pair for pair (267 / 91 / 86). Not compared: the site's rendered page or sidebar in the browser. Open each text in the reader to confirm the TOC tree.
 
 ## Files to commit
 

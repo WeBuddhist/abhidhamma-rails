@@ -1,5 +1,5 @@
 ---
-title: Puggalapaññatti-mūlaṭīkā
+title: Puggalapaññattipakaraṇa-mūlaṭīkā
 language: Pali
 script: Roman (PTS diacritics)
 file_type: commentary

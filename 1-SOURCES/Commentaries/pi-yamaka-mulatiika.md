@@ -1,5 +1,5 @@
 ---
-title: Yamaka-mūlaṭīkā
+title: Yamakapakaraṇa-mūlaṭīkā
 language: Pali
 script: Roman (PTS diacritics)
 file_type: commentary

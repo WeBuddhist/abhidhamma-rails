@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "source": "1-SOURCES/Commentaries/pi-puggalapannatti-anutiika.md",
-  "validated_at": "2026-10-27T11:06:02.701274+00:00",
+  "validated_at": "2026-10-30T05:48:08.060584+00:00",
   "notes": [
     "bdrc_work_id: not set (optional)",
     "wiki: not set (optional)",
@@ -21,7 +21,7 @@
     "wiki": null,
     "date": null,
     "title": {
-      "pi": "Puggalapaññatti-anuṭīkā"
+      "pi": "Puggalapaññattipakaraṇa-anuṭīkā"
     },
     "alt_titles": null,
     "language": "pi",
