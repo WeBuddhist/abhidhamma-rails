@@ -5740,7 +5740,7 @@
                   },
                   "span": {
                     "start": 527904,
-                    "end": 529435
+                    "end": 535857
                   },
                   "subsections": [
                     {
@@ -5751,18 +5751,16 @@
                         "start": 527923,
                         "end": 529435
                       }
-                    }
-                  ]
-                },
-                {
-                  "title": {
-                    "pi": "(Kha) anulomaokāso"
-                  },
-                  "span": {
-                    "start": 529453,
-                    "end": 535857
-                  },
-                  "subsections": [
+                    },
+                    {
+                      "title": {
+                        "pi": "(Kha) anulomaokāso"
+                      },
+                      "span": {
+                        "start": 529453,
+                        "end": 529488
+                      }
+                    },
                     {
                       "title": {
                         "pi": "(Ga) anulomapuggalokāsā"
@@ -7445,17 +7443,19 @@
                   },
                   "span": {
                     "start": 1018414,
-                    "end": 1018414
-                  }
-                },
-                {
-                  "title": {
-                    "pi": "(Ka) uddeso"
-                  },
-                  "span": {
-                    "start": 1018425,
                     "end": 1018425
-                  }
+                  },
+                  "subsections": [
+                    {
+                      "title": {
+                        "pi": "(Ka) uddeso"
+                      },
+                      "span": {
+                        "start": 1018425,
+                        "end": 1018425
+                      }
+                    }
+                  ]
                 },
                 {
                   "title": {

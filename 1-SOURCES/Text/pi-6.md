@@ -18,7 +18,7 @@ license: cc0
 category_id: MZUUxphQ0yFwLBon3Vng8
 text_id: IZ74xHeWa9xortlOhL6cc
 edition_id: vYtNelE9z5AWQ0jAv82cC
-toc_id: VaANYhf8m9tC5XdbtBgcv
+toc_id: Jn8erKpW4PQSv9NcjBEwU
 ---
 
 Namo tassa bhagavato arahato sammāsambuddhassa ^T-1
@@ -6846,11 +6846,11 @@ Savitakkasavicārapacchimacittassa bhaṅgakkhaṇe tesaṃ vacīsaṅkhāro nir
 (Kha) yassa vā pana cittasaṅkhāro nirujjhissati tassa vacīsaṅkhāro nirujjhatīti?
 Sabbesaṃ cittassa uppādakkhaṇe vinā vitakkavicārehi cittassa bhaṅgakkhaṇe nirodhasamāpannānaṃ asaññasattānaṃ tesaṃ cittasaṅkhāro nirujjhissati, no ca tesaṃ vacīsaṅkhāro nirujjhati. Vitakkavicārānaṃ bhaṅgakkhaṇe tesaṃ cittasaṅkhāro ca nirujjhissati vacīsaṅkhāro ca nirujjhati. ^6-6-109
 
-#### (Kha) anulomaokāso ^6-6-21-0
+##### (Kha) anulomaokāso ^6-6-20-2-0
 
 Yattha kāyasaṅkhāro nirujjhati…pe…. ^6-6-110
 
-##### (Ga) anulomapuggalokāsā ^6-6-21-1-0
+##### (Ga) anulomapuggalokāsā ^6-6-20-3-0
 
 (Ka) yassa yattha kāyasaṅkhāro nirujjhati tassa tattha vacīsaṅkhāro nirujjhissatīti?
 Dutiyajjhānaṃ tatiyajjhānaṃ samāpannānaṃ assāsapassāsānaṃ bhaṅgakkhaṇe tesaṃ tattha kāyasaṅkhāro nirujjhati, no ca tesaṃ tattha vacīsaṅkhāro nirujjhissati. Paṭhamajjhānaṃ samāpannānaṃ kāmāvacarānaṃ assāsapassāsānaṃ bhaṅgakkhaṇe tesaṃ tattha kāyasaṅkhāro ca nirujjhati vacīsaṅkhāro ca nirujjhissati.
@@ -6865,7 +6865,7 @@ Savitakkasavicārapacchimacittassa bhaṅgakkhaṇe tesaṃ tattha vacīsaṅkh�
 (Kha) yassa vā pana yattha cittasaṅkhāro nirujjhissati tassa tattha vacīsaṅkhāro nirujjhatīti?
 Sabbesaṃ cittassa uppādakkhaṇe vinā vitakkavicārehi cittassa bhaṅgakkhaṇe tesaṃ tattha cittasaṅkhāro nirujjhissati, no ca tesaṃ tattha vacīsaṅkhāro nirujjhati. Vitakkavicārānaṃ bhaṅgakkhaṇe tesaṃ tattha cittasaṅkhāro ca nirujjhissati vacīsaṅkhāro ca nirujjhati. ^6-6-112
 
-##### (Gha) paccanīkapuggalo ^6-6-21-2-0
+##### (Gha) paccanīkapuggalo ^6-6-20-4-0
 
 (Ka) yassa kāyasaṅkhāro na nirujjhati tassa vacīsaṅkhāro na nirujjhissatīti?
 Sabbesaṃ cittassa uppādakkhaṇe vinā assāsapassāsehi cittassa bhaṅgakkhaṇe nirodhasamāpannānaṃ asaññasattānaṃ tesaṃ kāyasaṅkhāro na nirujjhati, no ca tesaṃ vacīsaṅkhāro na nirujjhissati. Savitakkasavicārapacchimacittassa bhaṅgakkhaṇe avitakkaavicārapacchimacittasamaṅgīnaṃ yassa cittassa anantarā avitakkaavicāraṃ pacchimacittaṃ uppajjissati tesaṃ kāyasaṅkhāro ca na nirujjhati vacīsaṅkhāro ca na nirujjhissati.
@@ -6879,11 +6879,11 @@ Sabbesaṃ cittassa uppādakkhaṇe vinā vitakkavicārehi cittassa bhaṅgakkha
 (Kha) yassa vā pana cittasaṅkhāro na nirujjhissati tassa vacīsaṅkhāro na nirujjhatīti?
 Savitakkasavicārapacchimacittassa bhaṅgakkhaṇe tesaṃ cittasaṅkhāro na nirujjhissati, no ca tesaṃ vacīsaṅkhāro na nirujjhati. Avitakkaavicārapacchimacittassa bhaṅgakkhaṇe tesaṃ cittasaṅkhāro ca na nirujjhissati vacīsaṅkhāro ca na nirujjhati. ^6-6-114
 
-##### (Ṅa) paccanīkaokāso ^6-6-21-3-0
+##### (Ṅa) paccanīkaokāso ^6-6-20-5-0
 
 Yattha kāyasaṅkhāro na nirujjhati…pe…. ^6-6-115
 
-##### (Ca) paccanīkapuggalokāsā ^6-6-21-4-0
+##### (Ca) paccanīkapuggalokāsā ^6-6-20-6-0
 
 (Ka) yassa yattha kāyasaṅkhāro na nirujjhati tassa tattha vacīsaṅkhāro na nirujjhissatīti?
 Paṭhamajjhānaṃ samāpannānaṃ kāmāvacarānaṃ assāsapassāsānaṃ uppādakkhaṇe tesaṃyeva vinā assāsapassāsehi cittassa bhaṅgakkhaṇe rūpāvacarānaṃ arūpāvacarānaṃ tesaṃ tattha kāyasaṅkhāro na nirujjhati, no ca tesaṃ tattha vacīsaṅkhāro na nirujjhissati. Savitakkasavicārapacchimacittassa bhaṅgakkhaṇe avitakkaavicārapacchimacittasamaṅgīnaṃ yassa cittassa anantarā avitakkaavicāraṃ pacchimacittaṃ uppajjissati dutiyajjhānaṃ tatiyajjhānaṃ samāpannānaṃ assāsapassāsānaṃ uppādakkhaṇe tesaṃyeva vinā assāsapassāsehi cittassa bhaṅgakkhaṇe catutthajjhānaṃ samāpannānaṃ asaññasattānaṃ tesaṃ tattha kāyasaṅkhāro ca na nirujjhati vacīsaṅkhāro ca na nirujjhissati.
@@ -6898,9 +6898,9 @@ Sabbesaṃ cittassa uppādakkhaṇe vinā vitakkavicārehi cittassa bhaṅgakkha
 (Kha) yassa vā pana yattha cittasaṅkhāro na nirujjhissati tassa tattha vacīsaṅkhāro na nirujjhatīti?
 Savitakkasavicārapacchimacittassa bhaṅgakkhaṇe tesaṃ tattha cittasaṅkhāro na nirujjhissati, no ca tesaṃ tattha vacīsaṅkhāro na nirujjhati. Avitakkaavicārapacchimacittassa bhaṅgakkhaṇe asaññasattānaṃ tesaṃ tattha cittasaṅkhāro ca na nirujjhissati vacīsaṅkhāro ca na nirujjhati. ^6-6-117
 
-#### (6) Atītānāgatavāro ^6-6-22-0
+#### (6) Atītānāgatavāro ^6-6-21-0
 
-##### (Ka) anulomapuggalo ^6-6-22-1-0
+##### (Ka) anulomapuggalo ^6-6-21-1-0
 
 (Ka) yassa kāyasaṅkhāro nirujjhittha tassa vacīsaṅkhāro nirujjhissatīti?
 Savitakkasavicārapacchimacittassa bhaṅgakkhaṇe avitakkaavicārapacchimacittasamaṅgīnaṃ yassa cittassa anantarā avitakkaavicāraṃ pacchimacittaṃ uppajjissati tesaṃ kāyasaṅkhāro nirujjhittha, no ca tesaṃ vacīsaṅkhāro nirujjhissati. Itaresaṃ tesaṃ kāyasaṅkhāro ca nirujjhittha vacīsaṅkhāro ca nirujjhissati.
@@ -6913,11 +6913,11 @@ Pacchimacittassa bhaṅgakkhaṇe tesaṃ kāyasaṅkhāro nirujjhittha, no ca t
 Pacchimacittassa bhaṅgakkhaṇe tesaṃ vacīsaṅkhāro nirujjhittha, no ca tesaṃ cittasaṅkhāro nirujjhissati. Itaresaṃ tesaṃ vacīsaṅkhāro ca nirujjhittha cittasaṅkhāro ca nirujjhissati.
 (Kha) yassa vā pana…pe…? Āmantā. ^6-6-119
 
-##### (Kha) anulomaokāso ^6-6-22-2-0
+##### (Kha) anulomaokāso ^6-6-21-2-0
 
 Yattha kāyasaṅkhāro nirujjhittha…pe…. ^6-6-120
 
-##### (Ga) anulomapuggalokāsā ^6-6-22-3-0
+##### (Ga) anulomapuggalokāsā ^6-6-21-3-0
 
 (Ka) yassa yattha kāyasaṅkhāro nirujjhittha tassa tattha vacīsaṅkhāro nirujjhissatīti?
 Kāmāvacare pacchimacittassa bhaṅgakkhaṇe dutiyajjhānaṃ tatiyajjhānaṃ samāpannānaṃ tesaṃ tattha kāyasaṅkhāro nirujjhittha, no ca tesaṃ tattha vacīsaṅkhāro nirujjhissati. Paṭhamajjhānaṃ samāpannānaṃ itaresaṃ kāmāvacarānaṃ tesaṃ tattha kāyasaṅkhāro na nirujjhittha vacīsaṅkhāro ca nirujjhissati.
@@ -6933,7 +6933,7 @@ Savitakkasavicārabhūmiyaṃ pacchimacittassa bhaṅgakkhaṇe tesaṃ tattha v
 (Kha) yassa vā pana yattha cittasaṅkhāro nirujjhissati tassa tattha vacīsaṅkhāro nirujjhitthāti?
 Avitakkaavicārabhūmiyaṃ tesaṃ tattha cittasaṅkhāro nirujjhissati, no ca tesaṃ tattha vacīsaṅkhāro nirujjhittha. Savitakkasavicārabhūmiyaṃ tesaṃ tattha cittasaṅkhāro ca nirujjhissati vacīsaṅkhāro ca nirujjhittha. ^6-6-122
 
-##### (Gha) paccanīkapuggalo ^6-6-22-4-0
+##### (Gha) paccanīkapuggalo ^6-6-21-4-0
 
 (Ka) yassa kāyasaṅkhāro na nirujjhittha tassa vacīsaṅkhāro na nirujjhissatīti? Natthi.
 (Kha) yassa vā pana vacīsaṅkhāro na nirujjhissati tassa kāyasaṅkhāro na nirujjhitthāti? Nirujjhittha.
@@ -6943,11 +6943,11 @@ Avitakkaavicārabhūmiyaṃ tesaṃ tattha cittasaṅkhāro nirujjhissati, no ca
 (Ka) yassa vacīsaṅkhāro na nirujjhittha tassa cittasaṅkhāro na nirujjhissatīti? Natthi.
 (Kha) yassa vā pana cittasaṅkhāro na nirujjhissati tassa vacīsaṅkhāro na nirujjhitthāti? Nirujjhittha. ^6-6-124
 
-##### (Ṅa) paccanīkaokāso ^6-6-22-5-0
+##### (Ṅa) paccanīkaokāso ^6-6-21-5-0
 
 Yattha kāyasaṅkhāro na nirujjhittha…pe…. ^6-6-125
 
-##### (Ca) paccanīkapuggalokāsā ^6-6-22-6-0
+##### (Ca) paccanīkapuggalokāsā ^6-6-21-6-0
 
 (Ka) yassa yattha kāyasaṅkhāro na nirujjhittha tassa tattha vacīsaṅkhāro na nirujjhissatīti?
 Rūpāvacarānaṃ arūpāvacarānaṃ tesaṃ tattha kāyasaṅkhāro na nirujjhittha, no ca tesaṃ tattha vacīsaṅkhāro na nirujjhissati. Rūpāvacare arūpāvacare savitakkasavicārapacchimacittassa bhaṅgakkhaṇe avitakkaavicārapacchimacittasamaṅgīnaṃ yassa cittassa anantarā avitakkaavicāraṃ pacchimacittaṃ uppajjissati catutthajjhānaṃ samāpannānaṃ asaññasattānaṃ tesaṃ tattha kāyasaṅkhāro ca na nirujjhittha vacīsaṅkhāro ca na nirujjhissati.
@@ -6964,11 +6964,11 @@ Avitakkaavicārabhūmiyaṃ tesaṃ tattha vacīsaṅkhāro na nirujjhittha, no 
 Savitakkasavicārabhūmiyaṃ pacchimacittassa bhaṅgakkhaṇe tesaṃ tattha cittasaṅkhāro na nirujjhissati, no ca tesaṃ tattha vacīsaṅkhāro na nirujjhittha. Avitakkaavicārabhūmiyaṃ pacchimacittassa bhaṅgakkhaṇe asaññasattānaṃ tesaṃ tattha cittasaṅkhāro ca na nirujjhissati vacīsaṅkhāro ca na nirujjhittha.
 Nirodhavāro. ^6-6-127
 
-#### Pavatti 3. uppādanirodhavāro ^6-6-23-0
+#### Pavatti 3. uppādanirodhavāro ^6-6-22-0
 
-#### (1) Paccuppannavāro ^6-6-24-0
+#### (1) Paccuppannavāro ^6-6-23-0
 
-##### (Ka) anulomapuggalo ^6-6-24-1-0
+##### (Ka) anulomapuggalo ^6-6-23-1-0
 
 (Ka) yassa kāyasaṅkhāro uppajjati tassa vacīsaṅkhāro nirujjhatīti? No.
 (Kha) yassa vā pana vacīsaṅkhāro nirujjhati tassa kāyasaṅkhāro uppajjatīti? No.
@@ -6978,16 +6978,16 @@ Nirodhavāro. ^6-6-127
 (Ka) yassa vacīsaṅkhāro uppajjati tassa cittasaṅkhāro nirujjhatīti? No.
 (Kha) yassa vā pana…pe…? No. ^6-6-129
 
-##### (Kha) anulomaokāso ^6-6-24-2-0
+##### (Kha) anulomaokāso ^6-6-23-2-0
 
 Yattha kāyasaṅkhāro uppajjati tattha vacīsaṅkhāro nirujjhatīti?
 Dutiyajjhāne tatiyajjhāne tattha…pe… (itaresaṃ yatthakānaṃ sadisaṃ). ^6-6-130
 
-##### (Ga) anulomapuggalokāsā ^6-6-24-3-0
+##### (Ga) anulomapuggalokāsā ^6-6-23-3-0
 
 Yassa yattha kāyasaṅkhāro uppajjati…pe… (yassakampi yassayatthakampi sadisaṃ). ^6-6-131
 
-##### (Gha) paccanīkapuggalo ^6-6-24-4-0
+##### (Gha) paccanīkapuggalo ^6-6-23-4-0
 
 (Ka) yassa kāyasaṅkhāro nuppajjati tassa vacīsaṅkhāro na nirujjhatīti?
 Vitakkavicārānaṃ bhaṅgakkhaṇe tesaṃ kāyasaṅkhāro nuppajjati, no ca tesaṃ vacīsaṅkhāro na nirujjhati. Vinā assāsapassāsehi cittassa uppādakkhaṇe vinā vitakkavicārehi cittassa bhaṅgakkhaṇe nirodhasamāpannānaṃ asaññasattānaṃ tesaṃ kāyasaṅkhāro ca nuppajjati vacīsaṅkhāro ca na nirujjhati.
@@ -7003,25 +7003,25 @@ Sabbesaṃ cittassa bhaṅgakkhaṇe tesaṃ vacīsaṅkhāro nuppajjati, no ca 
 (Kha) yassa vā pana cittasaṅkhāro na nirujjhati tassa vacīsaṅkhāro nuppajjatīti?
 Vitakkavicārānaṃ uppādakkhaṇe tesaṃ cittasaṅkhāro na nirujjhati, no ca tesaṃ vacīsaṅkhāro nuppajjati. Vinā vitakkavicārehi cittassa uppādakkhaṇe nirodhasamāpannānaṃ asaññasattānaṃ tesaṃ cittasaṅkhāro ca na nirujjhati vacīsaṅkhāro ca nuppajjati. ^6-6-133
 
-##### (Ṅa) paccanīkaokāso ^6-6-24-5-0
+##### (Ṅa) paccanīkaokāso ^6-6-23-5-0
 
 Yattha kāyasaṅkhāro nuppajjati…pe…. ^6-6-134
 
-##### (Ca) paccanīkapuggalokāsā ^6-6-24-6-0
+##### (Ca) paccanīkapuggalokāsā ^6-6-23-6-0
 
 Yassa yattha kāyasaṅkhāro nuppajjati…pe….
 (Yassakampi yassayatthakampi sadisaṃ, yassayatthake nirodhasamāpannānanti na labbhati). ^6-6-135
 
-#### (2) Atītavāro ^6-6-25-0
+#### (2) Atītavāro ^6-6-24-0
 
-##### (Ka) anulomapuggalo ^6-6-25-1-0
+##### (Ka) anulomapuggalo ^6-6-24-1-0
 
 Yassa kāyasaṅkhāro uppajjittha tassa vacīsaṅkhāro nirujjhitthāti? Āmantā.
 (Atītā pucchā uppādavārepi nirodhavārepi uppādanirodhavārepi sadisaṃ vitthāretabbā). ^6-6-136
 
-#### (3) Anāgatavāro ^6-6-26-0
+#### (3) Anāgatavāro ^6-6-25-0
 
-##### (Ka) anulomapuggalo ^6-6-26-1-0
+##### (Ka) anulomapuggalo ^6-6-25-1-0
 
 (Ka) yassa kāyasaṅkhāro uppajjissati tassa vacīsaṅkhāro nirujjhissatīti? Āmantā.
 (Kha) yassa vā pana vacīsaṅkhāro nirujjhissati tassa kāyasaṅkhāro uppajjissatīti?
@@ -7034,11 +7034,11 @@ Kāmāvacarānaṃ pacchimacittassa uppādakkhaṇe yassa cittassa anantarā kā
 (Kha) yassa vā pana cittasaṅkhāro nirujjhissati tassa vacīsaṅkhāro uppajjissatīti?
 Pacchimacittassa uppādakkhaṇe yassa cittassa anantarā avitakkaavicāraṃ pacchimacittaṃ uppajjissati tesaṃ cittasaṅkhāro nirujjhissati, no ca tesaṃ vacīsaṅkhāro uppajjissati. Itaresaṃ tesaṃ cittasaṅkhāro ca nirujjhissati vacīsaṅkhāro ca uppajjissati. ^6-6-138
 
-##### (Kha) anulomaokāso ^6-6-26-2-0
+##### (Kha) anulomaokāso ^6-6-25-2-0
 
 Yattha kāyasaṅkhāro uppajjissati…pe…. ^6-6-139
 
-##### (Ga) anulomapuggalokāsā ^6-6-26-3-0
+##### (Ga) anulomapuggalokāsā ^6-6-25-3-0
 
 (Ka) yassa yattha kāyasaṅkhāro uppajjissati tassa tattha vacīsaṅkhāro nirujjhissatīti?
 Dutiyajjhānaṃ tatiyajjhānaṃ samāpannānaṃ tesaṃ tattha kāyasaṅkhāro uppajjissati, no ca tesaṃ tattha vacīsaṅkhāro nirujjhissati. Paṭhamajjhānaṃ samāpannānaṃ kāmāvacarānaṃ tesaṃ tattha kāyasaṅkhāro ca uppajjissati vacīsaṅkhāro ca nirujjhissati.
@@ -7052,7 +7052,7 @@ Kāmāvacarānaṃ pacchimacittassa uppādakkhaṇe yassa cittassa anantarā kā
 (Kha) yassa vā pana yattha cittasaṅkhāro nirujjhissati tassa tattha vacīsaṅkhāro uppajjissatīti?
 Pacchimacittassa uppādakkhaṇe yassa cittassa anantarā avitakkaavicāraṃ pacchimacittaṃ uppajjissati dutiyajjhānaṃ tatiyajjhānaṃ catutthajjhānaṃ samāpannānaṃ tesaṃ tattha cittasaṅkhāro nirujjhissati, no ca tesaṃ tattha vacīsaṅkhāro uppajjissati. Paṭhamajjhānaṃ samāpannānaṃ kāmāvacarānaṃ itaresaṃ rūpāvacarānaṃ arūpāvacarānaṃ tesaṃ tattha cittasaṅkhāro ca nirujjhissati vacīsaṅkhāro ca uppajjissati. ^6-6-141
 
-##### (Gha) paccanīkapuggalo ^6-6-26-4-0
+##### (Gha) paccanīkapuggalo ^6-6-25-4-0
 
 (Ka) yassa kāyasaṅkhāro nuppajjissati tassa vacīsaṅkhāro na nirujjhissatīti?
 Kāmāvacarānaṃ pacchimacittassa uppādakkhaṇe yassa cittassa anantarā kāmāvacarānaṃ pacchimacittaṃ uppajjissati rūpāvacare arūpāvacare pacchimabhavikānaṃ ye ca rūpāvacaraṃ arūpāvacaraṃ upapajjitvā parinibbāyissanti tesaṃ cavantānaṃ tesaṃ kāyasaṅkhāro nuppajjissati, no ca tesaṃ vacīsaṅkhāro na nirujjhissati. Savitakkasavicārapacchimacittassa bhaṅgakkhaṇe avitakkaavicārapacchimacittasamaṅgīnaṃ yassa cittassa anantarā avitakkaavicāraṃ pacchimacittaṃ uppajjissati tesaṃ kāyasaṅkhāro ca nuppajjissati vacīsaṅkhāro ca na nirujjhissati.
@@ -7065,11 +7065,11 @@ Kāmāvacarānaṃ pacchimacittassa uppādakkhaṇe yassa cittassa anantarā kā
 Pacchimacittassa uppādakkhaṇe yassa cittassa anantarā avitakkaavicāraṃ pacchimacittaṃ uppajjissati tesaṃ vacīsaṅkhāro nuppajjissati, no ca tesaṃ cittasaṅkhāro na nirujjhissati. Pacchimacittassa bhaṅgakkhaṇe tesaṃ vacīsaṅkhāro ca nuppajjissati cittasaṅkhāro ca na nirujjhissati.
 (Kha) yassa vā pana…pe…? Āmantā. ^6-6-143
 
-##### (Ṅa) paccanīkaokāso ^6-6-26-5-0
+##### (Ṅa) paccanīkaokāso ^6-6-25-5-0
 
 Yattha kāyasaṅkhāro nuppajjissati…pe…. ^6-6-144
 
-##### (Ca) paccanīkapuggalokāsā ^6-6-26-6-0
+##### (Ca) paccanīkapuggalokāsā ^6-6-25-6-0
 
 (Ka) yassa yattha kāyasaṅkhāro nuppajjissati tassa tattha vacīsaṅkhāro na nirujjhissatīti?
 Kāmāvacarānaṃ pacchimacittassa uppādakkhaṇe yassa cittassa anantarā kāmāvacarānaṃ pacchimacittaṃ uppajjissati rūpāvacarānaṃ arūpāvacarānaṃ tesaṃ tattha kāyasaṅkhāro nuppajjissati, no ca tesaṃ tattha vacīsaṅkhāro na nirujjhissati. Savitakkasavicārapacchimacittassa bhaṅgakkhaṇe avitakkaavicārapacchimacittasamaṅgīnaṃ yassa cittassa anantarā avitakkaavicāraṃ pacchimacittaṃ uppajjissati catutthajjhānaṃ samāpannānaṃ asaññasattānaṃ tesaṃ tattha kāyasaṅkhāro ca nuppajjissati vacīsaṅkhāro ca na nirujjhissati.
@@ -7083,18 +7083,18 @@ Kāmāvacarānaṃ pacchimacittassa uppādakkhaṇe yassa cittassa anantarā kā
 Pacchimacittassa uppādakkhaṇe yassa cittassa anantarā avitakkaavicāraṃ pacchimacittaṃ uppajjissati dutiyajjhānaṃ tatiyajjhānaṃ catutthajjhānaṃ samāpannānaṃ tesaṃ tattha vacīsaṅkhāro nuppajjissati, no ca tesaṃ tattha cittasaṅkhāro na nirujjhissati. Pacchimacittassa bhaṅgakkhaṇe asaññasattānaṃ tesaṃ tattha vacīsaṅkhāro ca nuppajjissati cittasaṅkhāro ca na nirujjhissati.
 (Kha) yassa vā pana yattha…pe…? Āmantā. ^6-6-146
 
-#### (4) Paccuppannātītavāro ^6-6-27-0
+#### (4) Paccuppannātītavāro ^6-6-26-0
 
-##### (Ka) anulomapuggalo ^6-6-27-1-0
+##### (Ka) anulomapuggalo ^6-6-26-1-0
 
 (Ka) yassa kāyasaṅkhāro uppajjati tassa vacīsaṅkhāro nirujjhitthāti? Āmantā.
 (Kha) yassa vā pana vacīsaṅkhāro nirujjhittha tassa kāyasaṅkhāro uppajjatīti?
 Sabbesaṃ cittassa bhaṅgakkhaṇe vinā assāsapassāsehi cittassa uppādakkhaṇe nirodhasamāpannānaṃ asaññasattānaṃ tesaṃ vacīsaṅkhāro nirujjhittha, no ca tesaṃ kāyasaṅkhāro uppajjati. Assāsapassāsānaṃ uppādakkhaṇe tesaṃ vacīsaṅkhāro ca nirujjhittha kāyasaṅkhāro ca uppajjati.
 (Yathā uppādavāre paccuppannātītā pucchā anulomampi paccanīkampi vibhattā evaṃ uppādavāranirodhavārepi paccuppannātītā pucchā anulomampi paccanīkampi vibhajitabbā.) ^6-6-147
 
-#### (5) Paccuppannānāgatavāro ^6-6-28-0
+#### (5) Paccuppannānāgatavāro ^6-6-27-0
 
-##### (Ka) anulomapuggalo ^6-6-28-1-0
+##### (Ka) anulomapuggalo ^6-6-27-1-0
 
 (Ka) yassa kāyasaṅkhāro uppajjati tassa vacīsaṅkhāro nirujjhissatīti? Āmantā.
 (Kha) yassa vā pana vacīsaṅkhāro nirujjhissati tassa kāyasaṅkhāro uppajjatīti?
@@ -7107,11 +7107,11 @@ Sabbesaṃ cittassa bhaṅgakkhaṇe vinā assāsapassāsehi cittassa uppādakkh
 (Kha) yassa vā pana cittasaṅkhāro nirujjhissati tassa vacīsaṅkhāro uppajjatīti?
 Sabbesaṃ cittassa bhaṅgakkhaṇe vinā vitakkavicārehi cittassa uppādakkhaṇe nirodhasamāpannānaṃ asaññasattānaṃ tesaṃ cittasaṅkhāro nirujjhissati, no ca tesaṃ vacīsaṅkhāro uppajjati. Vitakkavicārānaṃ uppādakkhaṇe tesaṃ cittasaṅkhāro ca nirujjhissati vacīsaṅkhāro ca uppajjati. ^6-6-149
 
-##### (Kha) anulomaokāso ^6-6-28-2-0
+##### (Kha) anulomaokāso ^6-6-27-2-0
 
 Yattha kāyasaṅkhāro uppajjati…pe…. ^6-6-150
 
-##### (Ga) anulomapuggalokāsā ^6-6-28-3-0
+##### (Ga) anulomapuggalokāsā ^6-6-27-3-0
 
 (Ka) yassa yattha kāyasaṅkhāro uppajjati tassa tattha vacīsaṅkhāro nirujjhissatīti?
 Dutiyajjhānaṃ tatiyajjhānaṃ samāpannānaṃ assāsapassāsānaṃ uppādakkhaṇe tesaṃ tattha kāyasaṅkhāro uppajjati, no ca tesaṃ tattha vacīsaṅkhāro nirujjhissati. Paṭhamajjhānaṃ samāpannānaṃ kāmāvacarānaṃ assāsapassāsānaṃ uppādakkhaṇe tesaṃ tattha kāyasaṅkhāro ca uppajjati vacīsaṅkhāro ca nirujjhissati.
@@ -7125,7 +7125,7 @@ Sabbesaṃ cittassa bhaṅgakkhaṇe vinā assāsapassāsehi cittassa uppādakkh
 (Kha) yassa vā pana yattha cittasaṅkhāro nirujjhissati tassa tattha vacīsaṅkhāro uppajjatīti?
 Sabbesaṃ cittassa bhaṅgakkhaṇe vinā vitakkavicārehi cittassa uppādakkhaṇe tesaṃ tattha cittasaṅkhāro nirujjhissati, no ca tesaṃ tattha vacīsaṅkhāro uppajjati. Vitakkavicārānaṃ uppādakkhaṇe tesaṃ tattha cittasaṅkhāro ca nirujjhissati vacīsaṅkhāro ca uppajjati. ^6-6-152
 
-##### (Gha) paccanīkapuggalo ^6-6-28-4-0
+##### (Gha) paccanīkapuggalo ^6-6-27-4-0
 
 (Ka) yassa kāyasaṅkhāro nuppajjati tassa vacīsaṅkhāro na nirujjhissatīti?
 Sabbesaṃ cittassa bhaṅgakkhaṇe vinā assāsapassāsehi cittassa uppādakkhaṇe nirodhasamāpannānaṃ asaññasattānaṃ tesaṃ kāyasaṅkhāro nuppajjati, no ca tesaṃ vacīsaṅkhāro na nirujjhissati. Savitakkasavicārapacchimacittassa bhaṅgakkhaṇe avitakkaavicārapacchimacittasamaṅgīnaṃ yassa cittassa anantarā avitakkaavicāraṃ pacchimacittaṃ uppajjissati tesaṃ kāyasaṅkhāro ca nuppajjati vacīsaṅkhāro ca na nirujjhissati.
@@ -7138,11 +7138,11 @@ Sabbesaṃ cittassa bhaṅgakkhaṇe vinā assāsapassāsehi cittassa uppādakkh
 Sabbesaṃ cittassa bhaṅgakkhaṇe vinā vitakkavicārehi cittassa uppādakkhaṇe nirodhasamāpannānaṃ asaññasattānaṃ tesaṃ vacīsaṅkhāro nuppajjati, no ca tesaṃ cittasaṅkhāro na nirujjhissati. Pacchimacittassa bhaṅgakkhaṇe tesaṃ vacīsaṅkhāro ca nuppajjati cittasaṅkhāro ca na nirujjhissati.
 (Kha) yassa vā pana cittasaṅkhāro na nirujjhissati tassa vacīsaṅkhāro nuppajjatīti? Āmantā. ^6-6-154
 
-##### (Ṅa) paccanīkaokāso ^6-6-28-5-0
+##### (Ṅa) paccanīkaokāso ^6-6-27-5-0
 
 Yattha kāyasaṅkhāro nuppajjati…pe…. ^6-6-155
 
-##### (Ca) paccanīkapuggalokāsā ^6-6-28-6-0
+##### (Ca) paccanīkapuggalokāsā ^6-6-27-6-0
 
 (Ka) yassa yattha kāyasaṅkhāro nuppajjati tassa tattha vacīsaṅkhāro na nirujjhissatīti?
 Paṭhamajjhānaṃ samāpannānaṃ kāmāvacarānaṃ assāsapassāsānaṃ bhaṅgakkhaṇe tesaṃyeva vinā assāsapassāsehi cittassa uppādakkhaṇe rūpāvacarānaṃ arūpāvacarānaṃ tesaṃ tattha kāyasaṅkhāro nuppajjati, no ca tesaṃ tattha vacīsaṅkhāro na nirujjhissati. Savitakkasavicārapacchimacittassa bhaṅgakkhaṇe avitakkaavicārapacchimacittasamaṅgīnaṃ yassa cittassa anantarā avitakkaavicāraṃ pacchimacittaṃ uppajjissati dutiyajjhānaṃ tatiyajjhānaṃ samāpannānaṃ assāsapassāsānaṃ bhaṅgakkhaṇe tesaṃyeva vinā assāsapassāsehi cittassa uppādakkhaṇe catutthajjhānaṃ samāpannānaṃ asaññasattānaṃ tesaṃ tattha kāyasaṅkhāro ca nuppajjati vacīsaṅkhāro ca na nirujjhissati.
@@ -7156,9 +7156,9 @@ Sabbesaṃ cittassa bhaṅgakkhaṇe vinā assāsapassāsehi cittassa uppādakkh
 Sabbesaṃ cittassa bhaṅgakkhaṇe vinā vitakkavicārehi cittassa uppādakkhaṇe tesaṃ tattha vacīsaṅkhāro nuppajjati, no ca tesaṃ tattha cittasaṅkhāro na nirujjhissati. Pacchimacittassa bhaṅgakkhaṇe asaññasattānaṃ tesaṃ tattha vacīsaṅkhāro ca nuppajjati cittasaṅkhāro ca na nirujjhissati.
 (Kha) yassa vā pana yattha cittasaṅkhāro na nirujjhissati tassa tattha vacīsaṅkhāro nuppajjatīti? Āmantā. ^6-6-157
 
-#### (6) Atītānāgatavāro ^6-6-29-0
+#### (6) Atītānāgatavāro ^6-6-28-0
 
-##### (Ka) anulomapuggalo ^6-6-29-1-0
+##### (Ka) anulomapuggalo ^6-6-28-1-0
 
 (Ka) yassa kāyasaṅkhāro uppajjittha tassa vacīsaṅkhāro nirujjhissatīti?
 Savitakkasavicārapacchimacittassa bhaṅgakkhaṇe avitakkaavicārapacchimacittasamaṅgīnaṃ yassa cittassa anantarā avitakkaavicāraṃ pacchimacittaṃ uppajjissati tesaṃ kāyasaṅkhāro uppajjittha, no ca tesaṃ vacīsaṅkhāro nirujjhissati. Itaresaṃ tesaṃ kāyasaṅkhāro ca uppajjittha vacīsaṅkhāro ca nirujjhissati.
@@ -7169,9 +7169,9 @@ Pacchimacittassa bhaṅgakkhaṇe tesaṃ kāyasaṅkhāro uppajjittha, no ca te
 (Yathā nirodhavāre atītānāgatā pucchā anulomampi paccanīkampi evaṃ uppādanirodhavārepi atītānāgatā pucchā anulomampi paccanīkampi vibhajitabbaṃ asammohantena nirodhavārena sadisaṃ, natthi nānākaraṇaṃ.)
 Uppādanirodhavāro. ^6-6-158
 
-#### Pariññāvāro ^6-6-30-0
+#### Pariññāvāro ^6-6-29-0
 
-##### 1-6. Paccuppannavārādi ^6-6-30-1-0
+##### 1-6. Paccuppannavārādi ^6-6-29-1-0
 
 (Ka) yo kāyasaṅkhāraṃ parijānāti so vacīsaṅkhāraṃ parijānātīti? Āmantā.
 (Kha) yo vā pana vacīsaṅkhāraṃ parijānāti so kāyasaṅkhāraṃ parijānātīti? Āmantā.
@@ -10825,11 +10825,11 @@ Cittayamakaṃ niṭṭhitaṃ. ^6-8-116
 
 #### Paṇṇattivāro ^6-9-1-0
 
-#### (Ka) uddeso ^6-9-2-0
+##### (Ka) uddeso ^6-9-1-1-0
 
-#### Padasodhanavāro ^6-9-3-0
+#### Padasodhanavāro ^6-9-2-0
 
-##### (Ka) anulomaṃ ^6-9-3-1-0
+##### (Ka) anulomaṃ ^6-9-2-1-0
 
 (Ka) kusalā kusalā dhammā?
 (Kha) kusalā dhammā kusalā?
@@ -10838,7 +10838,7 @@ Cittayamakaṃ niṭṭhitaṃ. ^6-8-116
 (Ka) abyākatā abyākatā dhammā?
 (Kha) abyākatā dhammā abyākatā? ^6-9-1
 
-##### (Kha) paccanīkaṃ ^6-9-3-2-0
+##### (Kha) paccanīkaṃ ^6-9-2-2-0
 
 (Ka) na kusalā na kusalā dhammā?
 (Kha) na kusalā dhammā na kusalā?
@@ -10847,9 +10847,9 @@ Cittayamakaṃ niṭṭhitaṃ. ^6-8-116
 (Ka) na abyākatā na abyākatā dhammā?
 (Kha) na abyākatā dhammā na abyākatā? ^6-9-2
 
-#### Padasodhanamūlacakkavāro ^6-9-4-0
+#### Padasodhanamūlacakkavāro ^6-9-3-0
 
-##### (Ka) anulomaṃ ^6-9-4-1-0
+##### (Ka) anulomaṃ ^6-9-3-1-0
 
 (Ka) kusalā kusalā dhammā?
 (Kha) dhammā akusalā dhammā?
@@ -10866,7 +10866,7 @@ Cittayamakaṃ niṭṭhitaṃ. ^6-8-116
 (Ka) abyākatā abyākatā dhammā?
 (Kha) dhammā akusalā dhammā? ^6-9-5
 
-##### (Kha) paccanīkaṃ ^6-9-4-2-0
+##### (Kha) paccanīkaṃ ^6-9-3-2-0
 
 (Ka) na kusalā na kusalā dhammā?
 (Kha) na dhammā na akusalā dhammā?
@@ -10883,9 +10883,9 @@ Cittayamakaṃ niṭṭhitaṃ. ^6-8-116
 (Ka) na abyākatā na abyākatā dhammā?
 (Kha) na dhammā na akusalā dhammā? ^6-9-8
 
-#### 3 Suddhadhammavāro ^6-9-5-0
+#### 3 Suddhadhammavāro ^6-9-4-0
 
-##### (Ka) anulomaṃ ^6-9-5-1-0
+##### (Ka) anulomaṃ ^6-9-4-1-0
 
 (Ka) kusalā dhammā?
 (Kha) dhammā kusalā?
@@ -10894,7 +10894,7 @@ Cittayamakaṃ niṭṭhitaṃ. ^6-8-116
 (Ka) abyākatā dhammā?
 (Kha) dhammā abyākatā? ^6-9-9
 
-##### (Kha) paccanīkaṃ ^6-9-5-2-0
+##### (Kha) paccanīkaṃ ^6-9-4-2-0
 
 (Ka) na kusalā na dhammā?
 (Kha) na dhammā na kusalā?
@@ -10903,9 +10903,9 @@ Cittayamakaṃ niṭṭhitaṃ. ^6-8-116
 (Ka) na abyākatā na dhammā?
 (Kha) na dhammā na abyākatā? ^6-9-10
 
-#### 4 Suddhadhammamūlacakkavāro ^6-9-6-0
+#### 4 Suddhadhammamūlacakkavāro ^6-9-5-0
 
-##### (Ka) anulomaṃ ^6-9-6-1-0
+##### (Ka) anulomaṃ ^6-9-5-1-0
 
 (Ka) kusalā dhammā?
 (Kha) dhammā akusalā?
@@ -10922,7 +10922,7 @@ Cittayamakaṃ niṭṭhitaṃ. ^6-8-116
 (Ka) abyākatā dhammā?
 (Kha) dhammā akusalā? ^6-9-13
 
-##### (Kha) paccanīkaṃ ^6-9-6-2-0
+##### (Kha) paccanīkaṃ ^6-9-5-2-0
 
 (Ka) na kusalā na dhammā?
 (Kha) na dhammā na akusalā?
@@ -10940,9 +10940,9 @@ Cittayamakaṃ niṭṭhitaṃ. ^6-8-116
 (Kha) na dhammā na akusalā?
 (Kha) niddeso ^6-9-16
 
-#### Padasodhanavāro ^6-9-7-0
+#### Padasodhanavāro ^6-9-6-0
 
-##### (Ka) anulomaṃ ^6-9-7-1-0
+##### (Ka) anulomaṃ ^6-9-6-1-0
 
 (Ka) kusalā kusalā dhammāti? Āmantā.
 (Kha) kusalā dhammā kusalāti? Āmantā.
@@ -10951,7 +10951,7 @@ Cittayamakaṃ niṭṭhitaṃ. ^6-8-116
 (Ka) abyākatā abyākatā dhammāti? Āmantā.
 (Kha) abyākatā dhammā abyākatāti? Āmantā. ^6-9-17
 
-##### (Kha) paccanīkaṃ ^6-9-7-2-0
+##### (Kha) paccanīkaṃ ^6-9-6-2-0
 
 (Ka) na kusalā na kusalā dhammāti? Āmantā.
 (Kha) na kusalā dhammā na kusalāti? Āmantā.
@@ -10960,9 +10960,9 @@ Cittayamakaṃ niṭṭhitaṃ. ^6-8-116
 (Ka) na abyākatā na abyākatā dhammāti? Āmantā.
 (Kha) na abyākatā dhammā na abyākatāti? Āmantā. ^6-9-18
 
-#### Padasodhanamūlacakkavāro ^6-9-8-0
+#### Padasodhanamūlacakkavāro ^6-9-7-0
 
-##### (Ka) anulomaṃ ^6-9-8-1-0
+##### (Ka) anulomaṃ ^6-9-7-1-0
 
 (Ka) kusalā kusalā dhammāti? Āmantā.
 (Kha) dhammā akusalā dhammāti?
@@ -10985,7 +10985,7 @@ Kusalā dhammā dhammā ceva kusalā dhammā ca. Avasesā dhammā na kusalā dha
 (Kha) dhammā akusalā dhammāti?
 Akusalā dhammā dhammā ceva akusalā dhammā ca. Avasesā dhammā na akusalā dhammā. ^6-9-21
 
-##### (Kha) paccanīkaṃ ^6-9-8-2-0
+##### (Kha) paccanīkaṃ ^6-9-7-2-0
 
 (Ka) na kusalā na kusalā dhammāti? Āmantā.
 (Kha) na dhammā na akusalā dhammāti? Āmantā.
@@ -11002,9 +11002,9 @@ Akusalā dhammā dhammā ceva akusalā dhammā ca. Avasesā dhammā na akusalā 
 (Ka) na abyākatā na abyākatā dhammāti? Āmantā.
 (Kha) na dhammā na akusalā dhammāti? Āmantā. ^6-9-24
 
-#### Suddhadhammavāro ^6-9-9-0
+#### Suddhadhammavāro ^6-9-8-0
 
-##### (Ka) anulomaṃ ^6-9-9-1-0
+##### (Ka) anulomaṃ ^6-9-8-1-0
 
 (Ka) kusalā dhammāti? Āmantā.
 (Kha) dhammā kusalā dhammāti?
@@ -11016,7 +11016,7 @@ Akusalā dhammā dhammā ceva akusalā dhammā ca. Avasesā dhammā na akusalā 
 (Kha) dhammā abyākatā dhammāti?
 Abyākatā dhammā dhammā ceva abyākatā dhammā ca. Avasesā dhammā na abyākatā dhammā. ^6-9-25
 
-##### (Kha) paccanīkaṃ ^6-9-9-2-0
+##### (Kha) paccanīkaṃ ^6-9-8-2-0
 
 (Ka) na kusalā na dhammāti?
 Kusalaṃ ṭhapetvā avasesā dhammā na kusalā, dhammā. Kusalañca dhamme ca ṭhapetvā avasesā na ceva kusalā na ca dhammā.
@@ -11028,9 +11028,9 @@ Akusalaṃ ṭhapetvā avasesā dhammā na akusalā, dhammā. Akusalañca dhamme
 Abyākataṃ ṭhapetvā avasesā dhammā na abyākatā, dhammā. Abyākatañca dhamme ca ṭhapetvā avasesā na ceva abyākatā na ca dhammā.
 (Kha) na dhammā na abyākatā dhammāti? Āmantā. ^6-9-26
 
-#### Suddhadhammamūlacakkavāro ^6-9-10-0
+#### Suddhadhammamūlacakkavāro ^6-9-9-0
 
-##### (Ka) anulomaṃ ^6-9-10-1-0
+##### (Ka) anulomaṃ ^6-9-9-1-0
 
 (Ka) kusalā dhammāti? Āmantā.
 (Kha) dhammā akusalā dhammāti?
@@ -11053,7 +11053,7 @@ Kusalā dhammā dhammā ceva kusalā dhammā ca. Avasesā dhammā na kusalā dha
 (Kha) dhammā akusalā dhammāti?
 Akusalā dhammā dhammā ceva akusalā dhammā ca. Avasesā dhammā na akusalā dhammā. ^6-9-29
 
-##### (Kha) paccanīkaṃ ^6-9-10-2-0
+##### (Kha) paccanīkaṃ ^6-9-9-2-0
 
 (Ka) na kusalā na dhammāti?
 Kusalaṃ ṭhapetvā avasesā dhammā na kusalā, dhammā. Kusalañca dhamme ca ṭhapetvā avasesā na ceva kusalā na ca dhammā.
@@ -11077,13 +11077,13 @@ Abyākataṃ ṭhapetvā avasesā dhammā na abyākatā, dhammā. Abyākatañca 
 (Kha) na dhammā na akusalā dhammāti? Āmantā.
 Paṇṇattiniddesavāro. ^6-9-32
 
-#### Pavattivāro ^6-9-11-0
+#### Pavattivāro ^6-9-10-0
 
-#### Uppādavāro ^6-9-12-0
+#### Uppādavāro ^6-9-11-0
 
-#### (1) Paccuppannavāro ^6-9-13-0
+#### (1) Paccuppannavāro ^6-9-12-0
 
-##### (Ka) anulomapuggalo ^6-9-13-1-0
+##### (Ka) anulomapuggalo ^6-9-12-1-0
 
 (Ka) yassa kusalā dhammā uppajjanti tassa akusalā dhammā uppajjantīti? No.
 (Kha) yassa vā pana akusalā dhammā uppajjanti tassa kusalā dhammā uppajjantīti? No.
@@ -11097,7 +11097,7 @@ Arūpe akusalānaṃ uppādakkhaṇe tesaṃ akusalā dhammā uppajjanti, no ca 
 (Kha) yassa vā pana abyākatā dhammā uppajjanti tassa akusalā dhammā uppajjantīti?
 Sabbesaṃ upapajjantānaṃ pavatte akusalavippayuttacittassa uppādakkhaṇe tesaṃ abyākatā dhammā uppajjanti, no ca tesaṃ akusalā dhammā uppajjanti. Pañcavokāre akusalānaṃ uppādakkhaṇe tesaṃ abyākatā ca dhammā uppajjanti akusalā ca dhammā uppajjanti. ^6-9-34
 
-##### (Kha) anulomaokāso ^6-9-13-2-0
+##### (Kha) anulomaokāso ^6-9-12-2-0
 
 (Ka) yattha kusalā dhammā uppajjanti tattha akusalā dhammā uppajjantīti? Āmantā.
 (Kha) yattha vā pana akusalā dhammā uppajjanti tattha kusalā dhammā uppajjantīti? Āmantā.
@@ -11109,7 +11109,7 @@ Asaññasatte tattha abyākatā dhammā uppajjanti, no ca tattha kusalā dhammā
 (Kha) yattha vā pana abyākatā dhammā uppajjanti tattha akusalā dhammā uppajjantīti?
 Asaññasatte tattha abyākatā dhammā uppajjanti, no ca tattha akusalā dhammā uppajjanti. Catuvokāre pañcavokāre tattha abyākatā ca dhammā uppajjanti akusalā ca dhammā uppajjanti. ^6-9-36
 
-##### (Ga) anulomapuggalokāsā ^6-9-13-3-0
+##### (Ga) anulomapuggalokāsā ^6-9-12-3-0
 
 (Ka) yassa yattha kusalā dhammā uppajjanti tassa tattha akusalā dhammā uppajjantīti? No.
 (Kha) yassa vā pana yattha akusalā dhammā uppajjanti tassa tattha kusalā dhammā uppajjantīti? No.
@@ -11123,7 +11123,7 @@ Arūpe akusalānaṃ uppādakkhaṇe tesaṃ tattha akusalā dhammā uppajjanti,
 (Kha) yassa vā pana yattha abyākatā dhammā uppajjanti tassa tattha akusalā dhammā uppajjantīti?
 Sabbesaṃ upapajjantānaṃ pavatte akusalavippayuttacittassa uppādakkhaṇe tesaṃ tattha abyākatā dhammā uppajjanti, no ca tesaṃ tattha akusalā dhammā uppajjanti. Pañcavokāre akusalānaṃ uppādakkhaṇe tesaṃ tattha abyākatā ca dhammā uppajjanti akusalā ca dhammā uppajjanti. ^6-9-38
 
-##### (Gha) paccanīkapuggalo ^6-9-13-4-0
+##### (Gha) paccanīkapuggalo ^6-9-12-4-0
 
 (Ka) yassa kusalā dhammā na uppajjanti tassa akusalā dhammā na uppajjantīti?
 Akusalānaṃ uppādakkhaṇe tesaṃ kusalā dhammā na uppajjanti, no ca tesaṃ akusalā dhammā na uppajjanti. Sabbesaṃ cittassa bhaṅgakkhaṇe kusalavippayuttaakusalavippayuttacittassa uppādakkhaṇe nirodhasamāpannānaṃ asaññasattānaṃ tesaṃ kusalā ca dhammā na uppajjanti akusalā ca dhammā na uppajjanti.
@@ -11139,7 +11139,7 @@ Sabbesaṃ upapajjantānaṃ pavatte akusalavippayuttacittassa uppādakkhaṇe t
 (Kha) yassa vā pana abyākatā dhammā na uppajjanti tassa akusalā dhammā na uppajjantīti?
 Arūpe akusalānaṃ uppādakkhaṇe tesaṃ abyākatā dhammā na uppajjanti, no ca tesaṃ akusalā dhammā na uppajjanti. Sabbesaṃ cavantānaṃ pavatte cittassa bhaṅgakkhaṇe arūpe kusalānaṃ uppādakkhaṇe tesaṃ abyākatā ca dhammā na uppajjanti akusalā ca dhammā na uppajjanti. ^6-9-40
 
-##### (Ṅa) paccanīkaokāso ^6-9-13-5-0
+##### (Ṅa) paccanīkaokāso ^6-9-12-5-0
 
 (Ka) yattha kusalā dhammā na uppajjanti tattha akusalā dhammā na uppajjantīti? Āmantā.
 (Kha) yattha vā pana akusalā dhammā na uppajjanti tattha kusalā dhammā na uppajjantīti? Āmantā.
@@ -11149,7 +11149,7 @@ Arūpe akusalānaṃ uppādakkhaṇe tesaṃ abyākatā dhammā na uppajjanti, n
 (Ka) yattha akusalā dhammā na uppajjanti tattha abyākatā dhammā na uppajjantīti? Uppajjanti.
 (Kha) yattha vā pana abyākatā dhammā na uppajjanti tattha akusalā dhammā na uppajjantīti? Natthi. ^6-9-42
 
-##### (Ca) paccanīkapuggalokāsā ^6-9-13-6-0
+##### (Ca) paccanīkapuggalokāsā ^6-9-12-6-0
 
 (Ka) yassa yattha kusalā dhammā na uppajjanti tassa tattha akusalā dhammā na uppajjantīti?
 Akusalānaṃ uppādakkhaṇe tesaṃ tattha kusalā dhammā na uppajjanti, no ca tesaṃ tattha akusalā dhammā na uppajjanti. Sabbesaṃ cittassa bhaṅgakkhaṇe kusalavippayuttaakusalavippayuttacittassa uppādakkhaṇe asaññasattānaṃ tesaṃ tattha kusalā ca dhammā na uppajjanti akusalā ca dhammā na uppajjanti.
@@ -11165,9 +11165,9 @@ Sabbesaṃ upapajjantānaṃ pavatte akusalavippayuttacittassa uppādakkhaṇe t
 (Kha) yassa vā pana yattha abyākatā dhammā na uppajjanti tassa tattha akusalā dhammā na uppajjantīti?
 Arūpe akusalānaṃ uppādakkhaṇe tesaṃ tattha abyākatā dhammā na uppajjanti, no ca tesaṃ tattha akusalā dhammā na uppajjanti. Sabbesaṃ cavantānaṃ pavatte cittassa bhaṅgakkhaṇe arūpe kusalānaṃ uppādakkhaṇe tesaṃ tattha abyākatā ca dhammā na uppajjanti akusalā ca dhammā na uppajjanti. ^6-9-44
 
-#### (2) Atītavāro ^6-9-14-0
+#### (2) Atītavāro ^6-9-13-0
 
-##### (Ka) anulomapuggalo ^6-9-14-1-0
+##### (Ka) anulomapuggalo ^6-9-13-1-0
 
 (Ka) yassa kusalā dhammā uppajjittha tassa akusalā dhammā uppajjitthāti? Āmantā.
 (Kha) yassa vā pana akusalā dhammā uppajjittha tassa kusalā dhammā uppajjitthāti? Āmantā.
@@ -11177,7 +11177,7 @@ Arūpe akusalānaṃ uppādakkhaṇe tesaṃ tattha abyākatā dhammā na uppajj
 (Ka) yassa akusalā dhammā uppajjittha tassa abyākatā dhammā uppajjitthāti? Āmantā.
 (Kha) yassa vā pana abyākatā dhammā uppajjittha tassa akusalā dhammā uppajjitthāti? Āmantā. ^6-9-46
 
-##### (Kha) anulomaokāso ^6-9-14-2-0
+##### (Kha) anulomaokāso ^6-9-13-2-0
 
 (Ka) yattha kusalā dhammā uppajjittha tattha akusalā dhammā uppajjitthāti? Āmantā.
 (Kha) yattha vā pana akusalā dhammā uppajjittha tattha kusalā dhammā uppajjitthāti? Āmantā.
@@ -11189,7 +11189,7 @@ Asaññasatte tattha abyākatā dhammā uppajjittha, no ca tattha kusalā dhamm�
 (Kha) yattha vā pana abyākatā dhammā uppajjittha tattha akusalā dhammā uppajjitthāti?
 Asaññasatte tattha abyākatā dhammā uppajjittha, no ca tattha akusalā dhammā uppajjittha. Catuvokāre pañcavokāre tattha abyākatā ca dhammā uppajjittha akusalā ca dhammā uppajjittha. ^6-9-48
 
-##### (Ga) anulomapuggalokāsā ^6-9-14-3-0
+##### (Ga) anulomapuggalokāsā ^6-9-13-3-0
 
 (Ka) yassa yattha kusalā dhammā uppajjittha tassa tattha akusalā dhammā uppajjitthāti? Āmantā.
 (Kha) yassa vā pana yattha akusalā dhammā uppajjittha tassa tattha kusalā dhammā uppajjitthāti?
@@ -11202,7 +11202,7 @@ Suddhāvāsānaṃ dutiye citte vattamāne asaññasattānaṃ tesaṃ tattha ab
 (Kha) yassa vā pana yattha abyākatā dhammā uppajjittha tassa tattha akusalā dhammā uppajjitthāti?
 Suddhāvāsānaṃ dutiye citte vattamāne asaññasattānaṃ tesaṃ tattha abyākatā dhammā uppajjittha, no ca tesaṃ tattha akusalā dhammā uppajjittha. Itaresaṃ catuvokārānaṃ pañcavokārānaṃ tesaṃ tattha abyākatā ca dhammā uppajjittha akusalā ca dhammā uppajjittha. ^6-9-50
 
-##### (Gha) paccanīkapuggalo ^6-9-14-4-0
+##### (Gha) paccanīkapuggalo ^6-9-13-4-0
 
 (Ka) yassa kusalā dhammā na uppajjittha tassa akusalā dhammā na uppajjitthāti? Natthi.
 (Kha) yassa vā pana akusalā dhammā na uppajjittha tassa kusalā dhammā na uppajjitthāti? Natthi.
@@ -11212,7 +11212,7 @@ Suddhāvāsānaṃ dutiye citte vattamāne asaññasattānaṃ tesaṃ tattha ab
 (Ka) yassa akusalā dhammā na uppajjittha tassa abyākatā dhammā na uppajjitthāti? Natthi.
 (Kha) yassa vā pana abyākatā dhammā na uppajjittha tassa akusalā dhammā na uppajjitthāti? Natthi. ^6-9-52
 
-##### (Ṅa) paccanīkaokāso ^6-9-14-5-0
+##### (Ṅa) paccanīkaokāso ^6-9-13-5-0
 
 (Ka) yattha kusalā dhammā na uppajjittha tattha akusalā dhammā na uppajjitthāti? Āmantā.
 (Kha) yattha vā pana akusalā dhammā na uppajjittha tattha kusalā dhammā na uppajjitthāti? Āmantā.
@@ -11222,7 +11222,7 @@ Suddhāvāsānaṃ dutiye citte vattamāne asaññasattānaṃ tesaṃ tattha ab
 (Ka) yattha akusalā dhammā na uppajjittha tattha abyākatā dhammā na uppajjitthāti? Uppajjittha.
 (Kha) yattha vā pana abyākatā dhammā na uppajjittha tattha akusalā dhammā na uppajjitthāti? Natthi. ^6-9-54
 
-##### (Ca) paccanīkapuggalokāsā ^6-9-14-6-0
+##### (Ca) paccanīkapuggalokāsā ^6-9-13-6-0
 
 (Ka) yassa yattha kusalā dhammā na uppajjittha tassa tattha akusalā dhammā na uppajjitthāti?
 Suddhāvāsānaṃ dutiye akusale citte vattamāne tesaṃ tattha kusalā dhammā na uppajjittha, no ca tesaṃ tattha akusalā dhammā na uppajjittha. Suddhāvāsānaṃ dutiye citte vattamāne asaññasattānaṃ tesaṃ tattha kusalā ca dhammā na uppajjittha akusalā ca dhammā na uppajjittha.
@@ -11235,9 +11235,9 @@ Suddhāvāsānaṃ dutiye citte vattamāne asaññasattānaṃ tesaṃ tattha ku
 Suddhāvāsānaṃ dutiye citte vattamāne asaññasattānaṃ tesaṃ tattha akusalā dhammā na uppajjittha, no ca tesaṃ tattha abyākatā dhammā na uppajjittha. Suddhāvāsaṃ upapajjantānaṃ tesaṃ tattha akusalā ca dhammā na uppajjittha abyākatā ca dhammā na uppajjittha.
 (Kha) yassa vā pana yattha abyākatā dhammā na uppajjittha tassa tattha akusalā dhammā na uppajjitthāti? Āmantā. ^6-9-56
 
-#### (3) Anāgatavāro ^6-9-15-0
+#### (3) Anāgatavāro ^6-9-14-0
 
-##### (Ka) anulomapuggalo ^6-9-15-1-0
+##### (Ka) anulomapuggalo ^6-9-14-1-0
 
 (Ka) yassa kusalā dhammā uppajjissanti tassa akusalā dhammā uppajjissantīti?
 Yassa cittassa anantarā aggamaggaṃ paṭilabhissanti tesaṃ kusalā dhammā uppajjissanti, no ca tesaṃ akusalā dhammā uppajjissanti. Itaresaṃ tesaṃ kusalā ca dhammā uppajjissanti akusalā ca dhammā uppajjissanti.
@@ -11250,7 +11250,7 @@ Aggamaggasamaṅgīnaṃ arahantānaṃ tesaṃ abyākatā dhammā uppajjissanti
 (Kha) yassa vā pana abyākatā dhammā uppajjissanti tassa akusalā dhammā uppajjissantīti?
 Aggamaggasamaṅgīnaṃ arahantānaṃ yassa cittassa anantarā aggamaggaṃ paṭilabhissanti tesaṃ abyākatā dhammā uppajjissanti, no ca tesaṃ akusalā dhammā uppajjissanti. Itaresaṃ tesaṃ abyākatā ca dhammā uppajjissanti akusalā ca dhammā uppajjissanti. ^6-9-58
 
-##### (Kha) anulomaokāso ^6-9-15-2-0
+##### (Kha) anulomaokāso ^6-9-14-2-0
 
 (Ka) yattha kusalā dhammā uppajjissanti tattha akusalā dhammā uppajjissantīti? Āmantā.
 (Kha) yattha vā pana akusalā dhammā uppajjissanti tattha kusalā dhammā uppajjissantīti? Āmantā.
@@ -11262,7 +11262,7 @@ Asaññasatte tattha abyākatā dhammā uppajjissanti, no ca tattha kusalā dham
 (Kha) yattha vā pana abyākatā dhammā uppajjissanti tattha akusalā dhammā uppajjissantīti?
 Asaññasatte tattha abyākatā dhammā uppajjissanti, no ca tattha akusalā dhammā uppajjissanti. Catuvokāre pañcavokāre tattha abyākatā ca dhammā uppajjissanti akusalā ca dhammā uppajjissanti. ^6-9-60
 
-##### (Ga) anulomapuggalokāsā ^6-9-15-3-0
+##### (Ga) anulomapuggalokāsā ^6-9-14-3-0
 
 (Ka) yassa yattha kusalā dhammā uppajjissanti tassa tattha akusalā dhammā uppajjissantīti?
 Yassa cittassa anantarā aggamaggaṃ paṭilabhissanti tesaṃ tattha kusalā dhammā uppajjissanti, no ca tesaṃ tattha akusalā dhammā uppajjissanti. Itaresaṃ catuvokārānaṃ pañcavokārānaṃ tesaṃ tattha kusalā ca dhammā uppajjissanti akusalā ca dhammā uppajjissanti.
@@ -11275,7 +11275,7 @@ Aggamaggasamaṅgīnaṃ arahantānaṃ asaññasattānaṃ tesaṃ tattha abyā
 (Kha) yassa vā pana yattha abyākatā dhammā uppajjissanti tassa tattha akusalā dhammā uppajjissantīti?
 Aggamaggasamaṅgīnaṃ arahantānaṃ yassa cittassa anantarā aggamaggaṃ paṭilabhissanti asaññasattānaṃ tesaṃ tattha abyākatā dhammā uppajjissanti, no ca tesaṃ tattha akusalā dhammā uppajjissanti. Itaresaṃ catuvokārānaṃ pañcavokārānaṃ tesaṃ tattha abyākatā ca dhammā uppajjissanti akusalā ca dhammā uppajjissanti. ^6-9-62
 
-##### (Gha) paccanīkapuggalo ^6-9-15-4-0
+##### (Gha) paccanīkapuggalo ^6-9-14-4-0
 
 (Ka) yassa kusalā dhammā na uppajjissanti tassa akusalā dhammā na uppajjissantīti? Āmantā.
 (Kha) yassa vā pana akusalā dhammā na uppajjissanti tassa kusalā dhammā na uppajjissantīti?
@@ -11288,7 +11288,7 @@ Aggamaggasamaṅgīnaṃ arahantānaṃ tesaṃ kusalā dhammā na uppajjissanti
 Aggamaggasamaṅgīnaṃ arahantānaṃ yassa cittassa anantarā aggamaggaṃ paṭilabhissanti tesaṃ akusalā dhammā na uppajjissanti, no ca tesaṃ abyākatā dhammā na uppajjissanti. Pacchimacittasamaṅgīnaṃ tesaṃ akusalā ca dhammā na uppajjissanti abyākatā ca dhammā na uppajjissanti.
 (Kha) yassa vā pana abyākatā dhammā na uppajjissanti tassa akusalā dhammā na uppajjissantīti? Āmantā. ^6-9-64
 
-##### (Ṅa) paccanīkaokāso ^6-9-15-5-0
+##### (Ṅa) paccanīkaokāso ^6-9-14-5-0
 
 (Ka) yattha kusalā dhammā na uppajjissanti tattha akusalā dhammā na uppajjissantīti? Āmantā.
 (Kha) yattha vā pana akusalā dhammā na uppajjissanti tattha kusalā dhammā na uppajjissantīti? Āmantā.
@@ -11298,7 +11298,7 @@ Aggamaggasamaṅgīnaṃ arahantānaṃ yassa cittassa anantarā aggamaggaṃ pa
 (Ka) yattha akusalā dhammā na uppajjissanti tattha abyākatā dhammā na uppajjissantīti? Uppajjissanti.
 (Kha) yattha vā pana abyākatā dhammā na uppajjissanti tattha akusalā dhammā na uppajjissantīti? Natthi. ^6-9-66
 
-##### (Ca) paccanīkapuggalokāsā ^6-9-15-6-0
+##### (Ca) paccanīkapuggalokāsā ^6-9-14-6-0
 
 (Ka) yassa yattha kusalā dhammā na uppajjissanti tassa tattha akusalā dhammā na uppajjissantīti? Āmantā.
 (Kha) yassa vā pana yattha akusalā dhammā na uppajjissanti tassa tattha kusalā dhammā na uppajjissantīti?
@@ -11311,9 +11311,9 @@ Aggamaggasamaṅgīnaṃ arahantānaṃ asaññasattānaṃ tesaṃ tattha kusal
 Aggamaggasamaṅgīnaṃ arahantānaṃ yassa cittassa anantarā aggamaggaṃ paṭilabhissanti asaññasattānaṃ tesaṃ tattha akusalā dhammā na uppajjissanti, no ca tesaṃ tattha abyākatā dhammā na uppajjissanti. Pacchimacittasamaṅgīnaṃ tesaṃ tattha akusalā ca dhammā na uppajjissanti abyākatā ca dhammā na uppajjissanti.
 (Kha) yassa vā pana yattha abyākatā dhammā na uppajjissanti tassa tattha akusalā dhammā na uppajjissantīti? Āmantā. ^6-9-68
 
-#### (4) Paccuppannātītavāro ^6-9-16-0
+#### (4) Paccuppannātītavāro ^6-9-15-0
 
-##### (Ka) anulomapuggalo ^6-9-16-1-0
+##### (Ka) anulomapuggalo ^6-9-15-1-0
 
 (Ka) yassa kusalā dhammā uppajjanti tassa akusalā dhammā uppajjitthāti? Āmantā.
 (Kha) yassa vā pana akusalā dhammā uppajjittha tassa kusalā dhammā uppajjantīti?
@@ -11326,11 +11326,11 @@ Sabbesaṃ cittassa bhaṅgakkhaṇe kusalavippayuttacittassa uppādakkhaṇe ni
 (Kha) yassa vā pana abyākatā dhammā uppajjittha tassa akusalā dhammā uppajjantīti?
 Sabbesaṃ cittassa bhaṅgakkhaṇe akusalavippayuttacittassa uppādakkhaṇe nirodhasamāpannānaṃ asaññasattānaṃ tesaṃ abyākatā dhammā uppajjittha, no ca tesaṃ akusalā dhammā uppajjanti. Akusalānaṃ uppādakkhaṇe tesaṃ abyākatā ca dhammā uppajjittha akusalā ca dhammā uppajjanti. ^6-9-70
 
-##### (Kha) anulomaokāso ^6-9-16-2-0
+##### (Kha) anulomaokāso ^6-9-15-2-0
 
 Yattha kusalā dhammā uppajjanti tattha akusalā dhammā uppajjitthāti?…Pe…. ^6-9-71
 
-##### (Ga) anulomapuggalokāsā ^6-9-16-3-0
+##### (Ga) anulomapuggalokāsā ^6-9-15-3-0
 
 (Ka) yassa yattha kusalā dhammā uppajjanti tassa tattha akusalā dhammā uppajjitthāti? Āmantā.
 (Kha) yassa vā pana yattha akusalā dhammā uppajjittha tassa tattha kusalā dhammā uppajjantīti?
@@ -11343,7 +11343,7 @@ Sabbesaṃ cittassa bhaṅgakkhaṇe kusalavippayuttacittassa uppādakkhaṇe as
 (Kha) yassa vā pana yattha abyākatā dhammā uppajjittha tassa tattha akusalā dhammā uppajjantīti?
 Sabbesaṃ cittassa bhaṅgakkhaṇe akusalavippayuttacittassa uppādakkhaṇe asaññasattānaṃ tesaṃ tattha abyākatā dhammā uppajjittha, no ca tesaṃ tattha akusalā dhammā uppajjanti. Akusalānaṃ uppādakkhaṇe tesaṃ tattha abyākatā ca dhammā uppajjittha akusalā ca dhammā uppajjanti. ^6-9-73
 
-##### (Gha) paccanīkapuggalo ^6-9-16-4-0
+##### (Gha) paccanīkapuggalo ^6-9-15-4-0
 
 (Ka) yassa kusalā dhammā na uppajjanti tassa akusalā dhammā na uppajjitthāti? Uppajjittha.
 (Kha) yassa vā pana akusalā dhammā na uppajjittha tassa kusalā dhammā na uppajjantīti? Natthi.
@@ -11353,11 +11353,11 @@ Sabbesaṃ cittassa bhaṅgakkhaṇe akusalavippayuttacittassa uppādakkhaṇe a
 (Ka) yassa akusalā dhammā na uppajjanti tassa abyākatā dhammā na uppajjitthāti? Uppajjittha.
 (Kha) yassa vā pana abyākatā dhammā na uppajjittha tassa akusalā dhammā na uppajjantīti? Natthi. ^6-9-75
 
-##### (Ṅa) paccanīkaokāso ^6-9-16-5-0
+##### (Ṅa) paccanīkaokāso ^6-9-15-5-0
 
 Yattha kusalā dhammā na uppajjanti tattha akusalā dhammā na uppajjitthāti?…Pe…. ^6-9-76
 
-##### (Ca) paccanīkapuggalokāsā ^6-9-16-6-0
+##### (Ca) paccanīkapuggalokāsā ^6-9-15-6-0
 
 (Ka) yassa yattha kusalā dhammā na uppajjanti tassa tattha akusalā dhammā na uppajjitthāti?
 Sabbesaṃ cittassa bhaṅgakkhaṇe kusalavippayuttacittassa uppādakkhaṇe tesaṃ tattha kusalā dhammā na uppajjanti, no ca tesaṃ tattha akusalā dhammā na uppajjittha. Suddhāvāsānaṃ dutiye citte vattamāne asaññasattānaṃ tesaṃ tattha kusalā ca dhammā na uppajjanti akusalā ca dhammā na uppajjittha.
@@ -11370,9 +11370,9 @@ Sabbesaṃ cittassa bhaṅgakkhaṇe kusalavippayuttacittassa uppādakkhaṇe as
 Sabbesaṃ cittassa bhaṅgakkhaṇe akusalavippayuttacittassa uppādakkhaṇe asaññasattānaṃ tesaṃ tattha akusalā dhammā na uppajjanti, no ca tesaṃ tattha abyākatā dhammā na uppajjittha. Suddhāvāsaṃ upapajjantānaṃ tesaṃ tattha akusalā ca dhammā na uppajjanti abyākatā ca dhammā na uppajjittha.
 (Kha) yassa vā pana yattha abyākatā dhammā na uppajjittha tassa tattha akusalā dhammā na uppajjantīti? Āmantā. ^6-9-78
 
-#### (5) Paccuppannānāgatavāro ^6-9-17-0
+#### (5) Paccuppannānāgatavāro ^6-9-16-0
 
-##### (Ka) anulomapuggalo ^6-9-17-1-0
+##### (Ka) anulomapuggalo ^6-9-16-1-0
 
 (Ka) yassa kusalā dhammā uppajjanti tassa akusalā dhammā uppajjissantīti?
 Aggamaggassa uppādakkhaṇe yassa cittassa anantarā aggamaggaṃ paṭilabhissanti tassa cittassa uppādakkhaṇe tesaṃ kusalā dhammā uppajjanti, no ca tesaṃ akusalā dhammā uppajjissanti. Itaresaṃ kusalānaṃ uppādakkhaṇe tesaṃ kusalā ca dhammā uppajjanti akusalā ca dhammā uppajjissanti.
@@ -11386,11 +11386,11 @@ Sabbesaṃ cittassa bhaṅgakkhaṇe kusalavippayuttacittassa uppādakkhaṇe ni
 (Kha) yassa vā pana abyākatā dhammā uppajjissanti tassa akusalā dhammā uppajjantīti?
 Sabbesaṃ cittassa bhaṅgakkhaṇe akusalavippayuttacittassa uppādakkhaṇe nirodhasamāpannānaṃ asaññasattānaṃ tesaṃ abyākatā dhammā uppajjissanti, no ca tesaṃ akusalā dhammā uppajjanti. Akusalānaṃ uppādakkhaṇe tesaṃ abyākatā ca dhammā uppajjissanti akusalā ca dhammā uppajjanti. ^6-9-80
 
-##### (Kha) anulomaokāso ^6-9-17-2-0
+##### (Kha) anulomaokāso ^6-9-16-2-0
 
 Yattha kusalā dhammā uppajjanti tattha akusalā dhammā uppajjissantīti?…Pe…. ^6-9-81
 
-##### (Ga) anulomapuggalokāsā ^6-9-17-3-0
+##### (Ga) anulomapuggalokāsā ^6-9-16-3-0
 
 (Ka) yassa yattha kusalā dhammā uppajjanti tassa tattha akusalā dhammā uppajjissantīti?
 Aggamaggassa uppādakkhaṇe yassa cittassa anantarā aggamaggaṃ paṭilabhissanti tassa cittassa uppādakkhaṇe tesaṃ tattha kusalā dhammā uppajjanti, no ca tesaṃ tattha akusalā dhammā uppajjissanti. Itaresaṃ kusalānaṃ uppādakkhaṇe tesaṃ tattha kusalā ca dhammā uppajjanti akusalā ca dhammā uppajjissanti.
@@ -11404,7 +11404,7 @@ Sabbesaṃ cittassa bhaṅgakkhaṇe kusalavippayuttacittassa uppādakkhaṇe as
 (Kha) yassa vā pana yattha abyākatā dhammā uppajjissanti tassa tattha akusalā dhammā uppajjantīti?
 Sabbesaṃ cittassa bhaṅgakkhaṇe akusalavippayuttacittassa uppādakkhaṇe asaññasattānaṃ tesaṃ tattha abyākatā dhammā uppajjissanti, no ca tesaṃ tattha akusalā dhammā uppajjanti. Akusalānaṃ uppādakkhaṇe tesaṃ tattha abyākatā ca dhammā uppajjissanti akusalā ca dhammā uppajjanti. ^6-9-83
 
-##### (Gha) paccanīkapuggalo ^6-9-17-4-0
+##### (Gha) paccanīkapuggalo ^6-9-16-4-0
 
 (Ka) yassa kusalā dhammā na uppajjanti tassa akusalā dhammā na uppajjissantīti?
 Sabbesaṃ cittassa bhaṅgakkhaṇe kusalavippayuttacittassa uppādakkhaṇe nirodhasamāpannānaṃ asaññasattānaṃ tesaṃ kusalā dhammā na uppajjanti, no ca tesaṃ akusalā dhammā na uppajjissanti. Aggamaggassa bhaṅgakkhaṇe arahantānaṃ yassa cittassa anantarā aggamaggaṃ paṭilabhissanti tassa cittassa bhaṅgakkhaṇe tesaṃ kusalā ca dhammā na uppajjanti akusalā ca dhammā na uppajjissanti.
@@ -11418,11 +11418,11 @@ Sabbesaṃ cittassa bhaṅgakkhaṇe kusalavippayuttacittassa uppādakkhaṇe ni
 Sabbesaṃ cittassa bhaṅgakkhaṇe akusalavippayuttacittassa uppādakkhaṇe nirodhasamāpannānaṃ asaññasattānaṃ tesaṃ akusalā dhammā na uppajjanti, no ca tesaṃ abyākatā dhammā na uppajjissanti. Pacchimacittasamaṅgīnaṃ tesaṃ akusalā ca dhammā na uppajjanti abyākatā ca dhammā na uppajjissanti.
 (Kha) yassa vā pana abyākatā dhammā na uppajjissanti tassa akusalā dhammā na uppajjantīti? Āmantā. ^6-9-85
 
-##### (Ṅa) paccanīkaokāso ^6-9-17-5-0
+##### (Ṅa) paccanīkaokāso ^6-9-16-5-0
 
 Yattha kusalā dhammā na uppajjanti tattha akusalā dhammā na uppajjissantīti?…Pe…. ^6-9-86
 
-##### (Ca) paccanīkapuggalokāsā ^6-9-17-6-0
+##### (Ca) paccanīkapuggalokāsā ^6-9-16-6-0
 
 (Ka) yassa yattha kusalā dhammā na uppajjanti tassa tattha akusalā dhammā na uppajjissantīti?
 Sabbesaṃ cittassa bhaṅgakkhaṇe kusalavippayuttacittassa uppādakkhaṇe tesaṃ tattha kusalā dhammā na uppajjanti, no ca tesaṃ tattha akusalā dhammā na uppajjissanti. Aggamaggassa bhaṅgakkhaṇe arahantānaṃ yassa cittassa anantarā aggamaggaṃ paṭilabhissanti tassa cittassa bhaṅgakkhaṇe asaññasattānaṃ tesaṃ tattha kusalā ca dhammā na uppajjanti akusalā ca dhammā na uppajjissanti.
@@ -11436,9 +11436,9 @@ Sabbesaṃ cittassa bhaṅgakkhaṇe kusalavippayuttacittassa uppādakkhaṇe as
 Sabbesaṃ cittassa bhaṅgakkhaṇe akusalavippayuttacittassa uppādakkhaṇe asaññasattānaṃ tesaṃ tattha akusalā dhammā na uppajjanti, no ca tesaṃ tattha abyākatā dhammā na uppajjissanti. Pacchimacittasamaṅgīnaṃ tesaṃ tattha akusalā ca dhammā na uppajjanti abyākatā ca dhammā na uppajjissanti.
 (Kha) yassa vā pana yattha abyākatā dhammā na uppajjissanti tassa tattha akusalā dhammā na uppajjantīti? Āmantā. ^6-9-88
 
-#### (6) Atītānāgatavāro ^6-9-18-0
+#### (6) Atītānāgatavāro ^6-9-17-0
 
-##### (Ka) anulomapuggalo ^6-9-18-1-0
+##### (Ka) anulomapuggalo ^6-9-17-1-0
 
 (Ka) yassa kusalā dhammā uppajjittha tassa akusalā dhammā uppajjissantīti?
 Aggamaggasamaṅgīnaṃ arahantānaṃ yassa cittassa anantarā aggamaggaṃ paṭilabhissanti tesaṃ kusalā dhammā uppajjittha, no ca tesaṃ akusalā dhammā uppajjissanti. Itaresaṃ tesaṃ kusalā ca dhammā uppajjittha akusalā ca dhammā uppajjissanti.
@@ -11451,11 +11451,11 @@ Pacchimacittasamaṅgīnaṃ tesaṃ kusalā dhammā uppajjittha, no ca tesaṃ 
 Pacchimacittasamaṅgīnaṃ tesaṃ akusalā dhammā uppajjittha, no ca tesaṃ abyākatā dhammā uppajjissanti. Itaresaṃ tesaṃ akusalā ca dhammā uppajjittha abyākatā ca dhammā uppajjissanti.
 (Kha) yassa vā pana abyākatā dhammā uppajjissanti tassa akusalā dhammā uppajjitthāti? Āmantā. ^6-9-90
 
-##### (Kha) anulomaokāso ^6-9-18-2-0
+##### (Kha) anulomaokāso ^6-9-17-2-0
 
 Yattha kusalā dhammā uppajjittha tattha akusalā dhammā uppajjissantīti?…Pe…. ^6-9-91
 
-##### (Ga) anulomapuggalokāsā ^6-9-18-3-0
+##### (Ga) anulomapuggalokāsā ^6-9-17-3-0
 
 (Ka) yassa yattha kusalā dhammā uppajjittha tassa tattha akusalā dhammā uppajjissantīti?
 Aggamaggasamaṅgīnaṃ arahantānaṃ yassa cittassa anantarā aggamaggaṃ paṭilabhissanti tesaṃ tattha kusalā dhammā uppajjittha, no ca tesaṃ tattha akusalā dhammā uppajjissanti. Itaresaṃ catuvokārānaṃ pañcavokārānaṃ tesaṃ tattha kusalā ca dhammā uppajjittha akusalā ca dhammā uppajjissanti.
@@ -11471,7 +11471,7 @@ Pacchimacittasamaṅgīnaṃ tesaṃ tattha akusalā dhammā uppajjittha, no ca 
 (Kha) yassa vā pana yattha abyākatā dhammā uppajjissanti tassa tattha akusalā dhammā uppajjitthāti?
 Suddhāvāsānaṃ dutiye citte vattamāne asaññasattānaṃ tesaṃ tattha abyākatā dhammā uppajjissanti, no ca tesaṃ tattha akusalā dhammā uppajjittha. Itaresaṃ catuvokārānaṃ pañcavokārānaṃ tesaṃ tattha abyākatā ca dhammā uppajjissanti akusalā ca dhammā uppajjittha. ^6-9-93
 
-##### (Gha) paccanīkapuggalo ^6-9-18-4-0
+##### (Gha) paccanīkapuggalo ^6-9-17-4-0
 
 (Ka) yassa kusalā dhammā na uppajjittha tassa akusalā dhammā na uppajjissantīti? Natthi.
 (Kha) yassa vā pana akusalā dhammā na uppajjissanti tassa kusalā dhammā na uppajjitthāti? Uppajjittha.
@@ -11481,11 +11481,11 @@ Suddhāvāsānaṃ dutiye citte vattamāne asaññasattānaṃ tesaṃ tattha ab
 (Ka) yassa akusalā dhammā na uppajjittha tassa abyākatā dhammā na uppajjissantīti? Natthi.
 (Kha) yassa vā pana abyākatā dhammā na uppajjissanti tassa akusalā dhammā na uppajjitthāti? Uppajjittha. ^6-9-95
 
-##### (Ṅa) paccanīkaokāso ^6-9-18-5-0
+##### (Ṅa) paccanīkaokāso ^6-9-17-5-0
 
 Yattha kusalā dhammā na uppajjittha tattha akusalā dhammā na uppajjissantīti?…Pe…. ^6-9-96
 
-##### (Ca) paccanīkapuggalokāsā ^6-9-18-6-0
+##### (Ca) paccanīkapuggalokāsā ^6-9-17-6-0
 
 (Ka) yassa yattha kusalā dhammā na uppajjittha tassa tattha akusalā dhammā na uppajjissantīti?
 Suddhāvāsānaṃ dutiye citte vattamāne tesaṃ tattha kusalā dhammā na uppajjittha, no ca tesaṃ tattha akusalā dhammā na uppajjissanti. Asaññasattānaṃ tesaṃ tattha kusalā ca dhammā na uppajjittha akusalā ca dhammā na uppajjissanti.
@@ -11498,11 +11498,11 @@ Aggamaggasamaṅgīnaṃ arahantānaṃ yassa cittassa anantarā aggamaggaṃ pa
 (Kha) yassa vā pana yattha abyākatā dhammā na uppajjissanti tassa tattha akusalā dhammā na uppajjitthāti? Uppajjittha.
 Uppādavāro. ^6-9-98
 
-#### Nirodhavāro ^6-9-19-0
+#### Nirodhavāro ^6-9-18-0
 
-#### (1) Paccuppannavāro ^6-9-20-0
+#### (1) Paccuppannavāro ^6-9-19-0
 
-##### (Ka) anulomapuggalo ^6-9-20-1-0
+##### (Ka) anulomapuggalo ^6-9-19-1-0
 
 (Ka) yassa kusalā dhammā nirujjhanti tassa akusalā dhammā nirujjhantīti? No.
 (Kha) yassa vā pana akusalā dhammā nirujjhanti tassa kusalā dhammā nirujjhantīti? No.
@@ -11516,7 +11516,7 @@ Arūpe akusalānaṃ bhaṅgakkhaṇe tesaṃ akusalā dhammā nirujjhanti, no c
 (Kha) yassa vā pana abyākatā dhammā nirujjhanti tassa akusalā dhammā nirujjhantīti?
 Sabbesaṃ cavantānaṃ pavatte akusalavippayuttacittassa bhaṅgakkhaṇe tesaṃ abyākatā dhammā nirujjhanti, no ca tesaṃ akusalā dhammā nirujjhanti. Pañcavokāre akusalānaṃ bhaṅgakkhaṇe tesaṃ abyākatā ca dhammā nirujjhanti akusalā ca dhammā nirujjhanti. ^6-9-100
 
-##### (Kha) anulomaokāso ^6-9-20-2-0
+##### (Kha) anulomaokāso ^6-9-19-2-0
 
 (Ka) yattha kusalā dhammā nirujjhanti tattha akusalā dhammā nirujjhantīti? Āmantā.
 (Kha) yattha vā pana akusalā dhammā nirujjhanti tattha kusalā dhammā nirujjhantīti? Āmantā.
@@ -11528,7 +11528,7 @@ Asaññasatte tattha abyākatā dhammā nirujjhanti, no ca tattha kusalā dhamm�
 (Kha) yattha vā pana abyākatā dhammā nirujjhanti tattha akusalā dhammā nirujjhantīti?
 Asaññasatte tattha abyākatā dhammā nirujjhanti, no ca tattha akusalā dhammā nirujjhanti. Catuvokāre pañcavokāre tattha abyākatā ca dhammā nirujjhanti akusalā ca dhammā nirujjhanti. ^6-9-102
 
-##### (Ga) anulomapuggalokāsā ^6-9-20-3-0
+##### (Ga) anulomapuggalokāsā ^6-9-19-3-0
 
 (Ka) yassa yattha kusalā dhammā nirujjhanti tassa tattha akusalā dhammā nirujjhantīti? No.
 (Kha) yassa vā pana yattha akusalā dhammā nirujjhanti tassa tattha kusalā dhammā nirujjhantīti? No.
@@ -11542,7 +11542,7 @@ Arūpe akusalānaṃ bhaṅgakkhaṇe tesaṃ tattha akusalā dhammā nirujjhant
 (Kha) yassa vā pana yattha abyākatā dhammā nirujjhanti tassa tattha akusalā dhammā nirujjhantīti?
 Sabbesaṃ cavantānaṃ pavatte akusalavippayuttacittassa bhaṅgakkhaṇe tesaṃ tattha abyākatā dhammā nirujjhanti, no ca tesaṃ tattha akusalā dhammā nirujjhanti. Pañcavokāre akusalānaṃ bhaṅgakkhaṇe tesaṃ tattha abyākatā ca dhammā nirujjhanti akusalā ca dhammā nirujjhanti. ^6-9-104
 
-##### (Gha) paccanīkapuggalo ^6-9-20-4-0
+##### (Gha) paccanīkapuggalo ^6-9-19-4-0
 
 (Ka) yassa kusalā dhammā na nirujjhanti tassa akusalā dhammā na nirujjhantīti?
 Akusalānaṃ bhaṅgakkhaṇe tesaṃ kusalā dhammā na nirujjhanti, no ca tesaṃ akusalā dhammā na nirujjhanti. Sabbesaṃ cittassa uppādakkhaṇe kusalavippayuttaakusalavippayuttacittassa bhaṅgakkhaṇe nirodhasamāpannānaṃ asaññasattānaṃ tesaṃ kusalā ca dhammā na nirujjhanti akusalā ca dhammā na nirujjhanti.
@@ -11558,7 +11558,7 @@ Sabbesaṃ cavantānaṃ pavatte akusalavippayuttacittassa bhaṅgakkhaṇe tesa
 (Kha) yassa vā pana abyākatā dhammā na nirujjhanti tassa akusalā dhammā na nirujjhantīti?
 Arūpe akusalānaṃ bhaṅgakkhaṇe tesaṃ abyākatā dhammā na nirujjhanti, no ca tesaṃ akusalā dhammā na nirujjhanti. Sabbesaṃ upapajjantānaṃ pavatte cittassa uppādakkhaṇe arūpe kusalānaṃ bhaṅgakkhaṇe tesaṃ abyākatā ca dhammā na nirujjhanti akusalā ca dhammā na nirujjhanti. ^6-9-106
 
-##### (Ṅa) paccanīkaokāso ^6-9-20-5-0
+##### (Ṅa) paccanīkaokāso ^6-9-19-5-0
 
 (Ka) yattha kusalā dhammā na nirujjhanti tattha akusalā dhammā na nirujjhantīti? Āmantā.
 (Kha) yattha vā pana akusalā dhammā na nirujjhanti tattha kusalā dhammā na nirujjhantīti? Āmantā.
@@ -11568,7 +11568,7 @@ Arūpe akusalānaṃ bhaṅgakkhaṇe tesaṃ abyākatā dhammā na nirujjhanti,
 (Ka) yattha akusalā dhammā na nirujjhanti tattha abyākatā dhammā na nirujjhantīti? Nirujjhanti.
 (Kha) yattha vā pana abyākatā dhammā na nirujjhanti tattha akusalā dhammā na nirujjhantīti? Natthi. ^6-9-108
 
-##### (Ca) paccanīkapuggalokāsā ^6-9-20-6-0
+##### (Ca) paccanīkapuggalokāsā ^6-9-19-6-0
 
 (Ka) yassa yattha kusalā dhammā na nirujjhanti tassa tattha akusalā dhammā na nirujjhantīti?
 Akusalānaṃ bhaṅgakkhaṇe tesaṃ tattha kusalā dhammā na nirujjhanti, no ca tesaṃ tattha akusalā dhammā na nirujjhanti. Sabbesaṃ cittassa uppādakkhaṇe kusalavippayuttaakusalavippayuttacittassa bhaṅgakkhaṇe asaññasattānaṃ tesaṃ tattha kusalā ca dhammā na nirujjhanti akusalā ca dhammā na nirujjhanti.
@@ -11584,9 +11584,9 @@ Sabbesaṃ cavantānaṃ pavatte akusalavippayuttacittassa bhaṅgakkhaṇe tesa
 (Kha) yassa vā pana yattha abyākatā dhammā na nirujjhanti tassa tattha akusalā dhammā na nirujjhantīti?
 Arūpe akusalānaṃ bhaṅgakkhaṇe tesaṃ tattha abyākatā dhammā na nirujjhanti, no ca tesaṃ tattha akusalā dhammā na nirujjhanti. Sabbesaṃ upapajjantānaṃ pavatte cittassa uppādakkhaṇe arūpe kusalānaṃ bhaṅgakkhaṇe tesaṃ tattha abyākatā ca dhammā na nirujjhanti akusalā ca dhammā na nirujjhanti. ^6-9-110
 
-#### (2) Atītavāro ^6-9-21-0
+#### (2) Atītavāro ^6-9-20-0
 
-##### (Ka) anulomapuggalo ^6-9-21-1-0
+##### (Ka) anulomapuggalo ^6-9-20-1-0
 
 (Ka) yassa kusalā dhammā nirujjhittha tassa akusalā dhammā nirujjhitthāti? Āmantā.
 (Kha) yassa vā pana akusalā dhammā nirujjhittha tassa kusalā dhammā nirujjhitthāti? Āmantā.
@@ -11596,7 +11596,7 @@ Arūpe akusalānaṃ bhaṅgakkhaṇe tesaṃ tattha abyākatā dhammā na niruj
 (Ka) yassa akusalā dhammā nirujjhittha tassa abyākatā dhammā nirujjhitthāti? Āmantā.
 (Kha) yassa vā pana abyākatā dhammā nirujjhittha tassa akusalā dhammā nirujjhitthāti? Āmantā. ^6-9-112
 
-##### (Kha) anulomaokāso ^6-9-21-2-0
+##### (Kha) anulomaokāso ^6-9-20-2-0
 
 (Ka) yattha kusalā dhammā nirujjhittha tattha akusalā dhammā nirujjhitthāti? Āmantā.
 (Kha) yattha vā pana akusalā dhammā nirujjhittha tattha kusalā dhammā nirujjhitthāti? Āmantā.
@@ -11608,7 +11608,7 @@ Asaññasatte tattha abyākatā dhammā nirujjhittha, no ca tattha kusalā dhamm
 (Kha) yattha vā pana abyākatā dhammā nirujjhittha tattha akusalā dhammā nirujjhitthāti?
 Asaññasatte tattha abyākatā dhammā nirujjhittha, no ca tattha akusalā dhammā nirujjhittha. Catuvokāre pañcavokāre tattha abyākatā ca dhammā nirujjhittha akusalā ca dhammā nirujjhittha. ^6-9-114
 
-##### (Ga) anulomapuggalokāsā ^6-9-21-3-0
+##### (Ga) anulomapuggalokāsā ^6-9-20-3-0
 
 (Ka) yassa yattha kusalā dhammā nirujjhittha tassa tattha akusalā dhammā nirujjhitthāti? Āmantā.
 (Kha) yassa vā pana yattha akusalā dhammā nirujjhittha tassa tattha kusalā dhammā nirujjhitthāti?
@@ -11621,7 +11621,7 @@ Suddhāvāsānaṃ dutiye citte vattamāne asaññasattānaṃ tesaṃ tattha ab
 (Kha) yassa vā pana yattha abyākatā dhammā nirujjhittha tassa tattha akusalā dhammā nirujjhitthāti?
 Suddhāvāsānaṃ dutiye citte vattamāne asaññasattānaṃ tesaṃ tattha abyākatā dhammā nirujjhittha, no ca tesaṃ tattha akusalā dhammā nirujjhittha. Itaresaṃ catuvokārānaṃ pañcavokārānaṃ tesaṃ tattha abyākatā ca dhammā nirujjhittha akusalā ca dhammā nirujjhittha. ^6-9-116
 
-##### (Gha) paccanīkapuggalo ^6-9-21-4-0
+##### (Gha) paccanīkapuggalo ^6-9-20-4-0
 
 (Ka) yassa kusalā dhammā na nirujjhittha tassa akusalā dhammā na nirujjhitthāti? Natthi.
 (Kha) yassa vā pana akusalā dhammā na nirujjhittha tassa kusalā dhammā na nirujjhitthāti? Natthi.
@@ -11631,7 +11631,7 @@ Suddhāvāsānaṃ dutiye citte vattamāne asaññasattānaṃ tesaṃ tattha ab
 (Ka) yassa akusalā dhammā na nirujjhittha tassa abyākatā dhammā na nirujjhitthāti? Natthi.
 (Kha) yassa vā pana abyākatā dhammā na nirujjhittha tassa akusalā dhammā na nirujjhitthāti? Natthi. ^6-9-118
 
-##### (Ṅa) paccanīkaokāso ^6-9-21-5-0
+##### (Ṅa) paccanīkaokāso ^6-9-20-5-0
 
 (Ka) yattha kusalā dhammā na nirujjhittha tattha akusalā dhammā na nirujjhitthāti? Āmantā.
 (Kha) yattha vā pana akusalā dhammā na nirujjhittha tattha kusalā dhammā na nirujjhitthāti? Āmantā.
@@ -11653,9 +11653,9 @@ Suddhāvāsānaṃ dutiye citte vattamāne asaññasattānaṃ tesaṃ tattha ku
 Suddhāvāsānaṃ dutiye citte vattamāne asaññasattānaṃ tesaṃ tattha akusalā dhammā na nirujjhittha, no ca tesaṃ tattha abyākatā dhammā na nirujjhittha. Suddhāvāsaṃ upapajjantānaṃ tesaṃ tattha akusalā ca dhammā na nirujjhittha abyākatā ca dhammā na nirujjhittha.
 (Kha) yassa vā pana yattha abyākatā dhammā na nirujjhittha tassa tattha akusalā dhammā na nirujjhitthāti? Āmantā. ^6-9-122
 
-#### (3) Anāgatavāro ^6-9-22-0
+#### (3) Anāgatavāro ^6-9-21-0
 
-##### (Ka) anulomapuggalo ^6-9-22-1-0
+##### (Ka) anulomapuggalo ^6-9-21-1-0
 
 (Ka) yassa kusalā dhammā nirujjhissanti tassa akusalā dhammā nirujjhissantīti?
 Aggamaggassa uppādakkhaṇe yassa cittassa anantarā aggamaggaṃ paṭilabhissanti tesaṃ kusalā dhammā nirujjhissanti, no ca tesaṃ akusalā dhammā nirujjhissanti. Itaresaṃ tesaṃ kusalā ca dhammā nirujjhissanti akusalā ca dhammā nirujjhissanti.
@@ -11668,11 +11668,11 @@ Aggamaggassa bhaṅgakkhaṇe arahantānaṃ tesaṃ abyākatā dhammā nirujjhi
 (Kha) yassa vā pana abyākatā dhammā nirujjhissanti tassa akusalā dhammā nirujjhissantīti?
 Aggamaggasamaṅgīnaṃ arahantānaṃ yassa cittassa anantarā aggamaggaṃ paṭilabhissanti tesaṃ abyākatā dhammā nirujjhissanti, no ca tesaṃ akusalā dhammā nirujjhissanti. Itaresaṃ tesaṃ abyākatā ca dhammā nirujjhissanti akusalā ca dhammā nirujjhissanti. ^6-9-124
 
-##### (Kha) anulomaokāso ^6-9-22-2-0
+##### (Kha) anulomaokāso ^6-9-21-2-0
 
 Yattha kusalā dhammā nirujjhissanti tattha akusalā dhammā nirujjhissantīti?…Pe…. ^6-9-125
 
-##### (Ga) anulomapuggalokāsā ^6-9-22-3-0
+##### (Ga) anulomapuggalokāsā ^6-9-21-3-0
 
 (Ka) yassa yattha kusalā dhammā nirujjhissanti tassa tattha akusalā dhammā nirujjhissantīti?
 Aggamaggassa uppādakkhaṇe yassa cittassa anantarā aggamaggaṃ paṭilabhissanti tesaṃ tattha kusalā dhammā nirujjhissanti, no ca tesaṃ tattha akusalā dhammā nirujjhissanti. Itaresaṃ catuvokārānaṃ pañcavokārānaṃ tesaṃ tattha kusalā ca dhammā nirujjhissanti akusalā ca dhammā nirujjhissanti.
@@ -11685,7 +11685,7 @@ Aggamaggassa bhaṅgakkhaṇe arahantānaṃ asaññasattānaṃ tesaṃ tattha 
 (Kha) yassa vā pana yattha abyākatā dhammā nirujjhissanti tassa tattha akusalā dhammā nirujjhissantīti?
 Aggamaggasamaṅgīnaṃ arahantānaṃ yassa cittassa anantarā aggamaggaṃ paṭilabhissanti asaññasattānaṃ tesaṃ tattha abyākatā dhammā nirujjhissanti, no ca tesaṃ tattha akusalā dhammā nirujjhissanti. Itaresaṃ catuvokārānaṃ pañcavokārānaṃ tesaṃ tattha abyākatā ca dhammā nirujjhissanti akusalā ca dhammā nirujjhissanti. ^6-9-127
 
-##### (Gha) paccanīkapuggalo ^6-9-22-4-0
+##### (Gha) paccanīkapuggalo ^6-9-21-4-0
 
 (Ka) yassa kusalā dhammā na nirujjhissanti tassa akusalā dhammā na nirujjhissantīti? Āmantā.
 (Kha) yassa vā pana akusalā dhammā na nirujjhissanti tassa kusalā dhammā na nirujjhissantīti?
@@ -11698,11 +11698,11 @@ Aggamaggassa bhaṅgakkhaṇe arahantānaṃ tesaṃ kusalā dhammā na nirujjhi
 Aggamaggasamaṅgīnaṃ arahantānaṃ yassa cittassa anantarā aggamaggaṃ paṭilabhissanti tesaṃ akusalā dhammā na nirujjhissanti, no ca tesaṃ abyākatā dhammā na nirujjhissanti. Pacchimacittassa bhaṅgakkhaṇe tesaṃ akusalā ca dhammā na nirujjhissanti abyākatā ca dhammā na nirujjhissanti.
 (Kha) yassa vā pana abyākatā dhammā na nirujjhissanti tassa akusalā dhammā na nirujjhissantīti? Āmantā. ^6-9-129
 
-##### (Ṅa) paccanīkaokāso ^6-9-22-5-0
+##### (Ṅa) paccanīkaokāso ^6-9-21-5-0
 
 Yattha kusalā dhammā na nirujjhissanti tattha akusalā dhammā na nirujjhissantīti?…Pe…. ^6-9-130
 
-##### (Ca) paccanīkapuggalokāsā ^6-9-22-6-0
+##### (Ca) paccanīkapuggalokāsā ^6-9-21-6-0
 
 (Ka) yassa yattha kusalā dhammā na nirujjhissanti tassa tattha akusalā dhammā na nirujjhissantīti? Āmantā.
 (Kha) yassa vā pana yattha akusalā dhammā na nirujjhissanti tassa tattha kusalā dhammā na nirujjhissantīti?
@@ -11715,9 +11715,9 @@ Aggamaggassa bhaṅgakkhaṇe arahantānaṃ asaññasattānaṃ tesaṃ tattha 
 Aggamaggasamaṅgīnaṃ arahantānaṃ yassa cittassa anantarā aggamaggaṃ paṭilabhissanti asaññasattānaṃ tesaṃ tattha akusalā dhammā na nirujjhissanti, no ca tesaṃ tattha abyākatā dhammā na nirujjhissanti. Pacchimacittassa bhaṅgakkhaṇe tesaṃ tattha akusalā ca dhammā na nirujjhissanti abyākatā ca dhammā na nirujjhissanti.
 (Kha) yassa vā pana yattha abyākatā dhammā na nirujjhissanti tassa tattha akusalā dhammā na nirujjhissantīti? Āmantā. ^6-9-132
 
-#### (4) Paccuppannātītavāro ^6-9-23-0
+#### (4) Paccuppannātītavāro ^6-9-22-0
 
-##### (Ka) anulomapuggalo ^6-9-23-1-0
+##### (Ka) anulomapuggalo ^6-9-22-1-0
 
 (Ka) yassa kusalā dhammā nirujjhanti tassa akusalā dhammā nirujjhitthāti? Āmantā.
 (Kha) yassa vā pana akusalā dhammā nirujjhittha tassa kusalā dhammā nirujjhantīti?
@@ -11730,7 +11730,7 @@ Sabbesaṃ cittassa uppādakkhaṇe kusalavippayuttacittassa bhaṅgakkhaṇe ni
 (Kha) yassa vā pana abyākatā dhammā nirujjhittha tassa akusalā dhammā nirujjhantīti?
 Sabbesaṃ cittassa uppādakkhaṇe akusalavippayuttacittassa bhaṅgakkhaṇe nirodhasamāpannānaṃ asaññasattānaṃ tesaṃ abyākatā dhammā nirujjhittha, no ca tesaṃ akusalā dhammā nirujjhanti. Akusalānaṃ bhaṅgakkhaṇe tesaṃ abyākatā ca dhammā nirujjhittha akusalā ca dhammā nirujjhanti. ^6-9-134
 
-##### (Kha) anulomaokāso ^6-9-23-2-0
+##### (Kha) anulomaokāso ^6-9-22-2-0
 
 Yattha kusalā dhammā nirujjhanti tattha akusalā dhammā nirujjhitthāti?…Pe….
 (Ga) anulomapuggalokāsā ^6-9-135
@@ -11746,7 +11746,7 @@ Sabbesaṃ cittassa uppādakkhaṇe kusalavippayuttacittassa bhaṅgakkhaṇe as
 (Kha) yassa vā pana yattha abyākatā dhammā nirujjhittha tassa tattha akusalā dhammā nirujjhantīti?
 Sabbesaṃ cittassa uppādakkhaṇe akusalavippayuttacittassa bhaṅgakkhaṇe asaññasattānaṃ tesaṃ tattha abyākatā dhammā nirujjhittha, no ca tesaṃ tattha akusalā dhammā nirujjhanti. Akusalānaṃ bhaṅgakkhaṇe tesaṃ tattha abyākatā ca dhammā nirujjhittha akusalā ca dhammā nirujjhanti. ^6-9-137
 
-##### (Gha) paccanīkapuggalo ^6-9-23-3-0
+##### (Gha) paccanīkapuggalo ^6-9-22-3-0
 
 (Ka) yassa kusalā dhammā na nirujjhanti tassa akusalā dhammā na nirujjhitthāti? Nirujjhittha.
 (Kha) yassa vā pana akusalā dhammā na nirujjhittha tassa kusalā dhammā na nirujjhantīti? Natthi.
@@ -11756,11 +11756,11 @@ Sabbesaṃ cittassa uppādakkhaṇe akusalavippayuttacittassa bhaṅgakkhaṇe a
 (Ka) yassa akusalā dhammā na nirujjhanti tassa abyākatā dhammā na nirujjhitthāti? Nirujjhittha.
 (Kha) yassa vā pana abyākatā dhammā na nirujjhittha tassa akusalā dhammā na nirujjhantīti? Natthi. ^6-9-139
 
-##### (Ṅa) paccanīkaokāso ^6-9-23-4-0
+##### (Ṅa) paccanīkaokāso ^6-9-22-4-0
 
 Yattha kusalā dhammā na nirujjhanti tattha akusalā dhammā na nirujjhitthāti?…Pe…. ^6-9-140
 
-##### (Ca) paccanīkapuggalokāsā ^6-9-23-5-0
+##### (Ca) paccanīkapuggalokāsā ^6-9-22-5-0
 
 (Ka) yassa yattha kusalā dhammā na nirujjhanti tassa tattha akusalā dhammā na nirujjhitthāti?
 Sabbesaṃ cittassa uppādakkhaṇe kusalavippayuttacittassa bhaṅgakkhaṇe tesaṃ tattha kusalā dhammā na nirujjhanti, no ca tesaṃ tattha akusalā dhammā na nirujjhittha. Suddhāvāsānaṃ dutiye citte vattamāne asaññasattānaṃ tesaṃ tattha kusalā ca dhammā na nirujjhanti akusalā ca dhammā na nirujjhittha.
@@ -11773,9 +11773,9 @@ Sabbesaṃ cittassa uppādakkhaṇe kusalavippayuttacittassa bhaṅgakkhaṇe as
 Sabbesaṃ cittassa uppādakkhaṇe akusalavippayuttacittassa bhaṅgakkhaṇe asaññasattānaṃ tesaṃ tattha akusalā dhammā na nirujjhanti, no ca tesaṃ tattha abyākatā dhammā na nirujjhittha. Suddhāvāsaṃ upapajjantānaṃ tesaṃ tattha akusalā ca dhammā na nirujjhanti abyākatā ca dhammā na nirujjhittha.
 (Kha) yassa vā pana yattha abyākatā dhammā na nirujjhittha tassa tattha akusalā dhammā na nirujjhantīti? Āmantā. ^6-9-142
 
-#### (5) Paccuppannānāgatavāro ^6-9-24-0
+#### (5) Paccuppannānāgatavāro ^6-9-23-0
 
-##### (Ka) anulomapuggalo ^6-9-24-1-0
+##### (Ka) anulomapuggalo ^6-9-23-1-0
 
 (Ka) yassa kusalā dhammā nirujjhanti tassa akusalā dhammā nirujjhissantīti?
 Aggamaggassa bhaṅgakkhaṇe yassa cittassa anantarā aggamaggaṃ paṭilabhissanti tassa cittassa bhaṅgakkhaṇe tesaṃ kusalā dhammā nirujjhanti, no ca tesaṃ akusalā dhammā nirujjhissanti. Itaresaṃ kusalānaṃ bhaṅgakkhaṇe tesaṃ kusalā ca dhammā nirujjhanti akusalā ca dhammā nirujjhissanti.
@@ -11789,11 +11789,11 @@ Sabbesaṃ cittassa uppādakkhaṇe kusalavippayuttacittassa bhaṅgakkhaṇe ni
 (Kha) yassa vā pana abyākatā dhammā nirujjhissanti tassa akusalā dhammā nirujjhantīti?
 Sabbesaṃ cittassa uppādakkhaṇe akusalavippayuttacittassa bhaṅgakkhaṇe nirodhasamāpannānaṃ asaññasattānaṃ tesaṃ abyākatā dhammā nirujjhissanti, no ca tesaṃ akusalā dhammā nirujjhanti. Akusalānaṃ bhaṅgakkhaṇe tesaṃ abyākatā ca dhammā nirujjhissanti akusalā ca dhammā nirujjhanti. ^6-9-144
 
-##### (Kha) anulomaokāso ^6-9-24-2-0
+##### (Kha) anulomaokāso ^6-9-23-2-0
 
 Yattha kusalā dhammā nirujjhanti tattha akusalā dhammā nirujjhissantīti?…Pe…. ^6-9-145
 
-##### (Ga) anulomapuggalokāsā ^6-9-24-3-0
+##### (Ga) anulomapuggalokāsā ^6-9-23-3-0
 
 (Ka) yassa yattha kusalā dhammā nirujjhanti tassa tattha akusalā dhammā nirujjhissantīti?
 Aggamaggassa bhaṅgakkhaṇe yassa cittassa anantarā aggamaggaṃ paṭilabhissanti tassa cittassa bhaṅgakkhaṇe tesaṃ tattha kusalā dhammā nirujjhanti, no ca tesaṃ tattha akusalā dhammā nirujjhissanti. Itaresaṃ kusalānaṃ bhaṅgakkhaṇe tesaṃ tattha kusalā ca dhammā nirujjhanti akusalā ca dhammā nirujjhissanti.
@@ -11807,7 +11807,7 @@ Sabbesaṃ cittassa uppādakkhaṇe kusalavippayuttacittassa bhaṅgakkhaṇe as
 (Kha) yassa vā pana yattha abyākatā dhammā nirujjhissanti tassa tattha akusalā dhammā nirujjhantīti?
 Sabbesaṃ cittassa uppādakkhaṇe akusalavippayuttacittassa bhaṅgakkhaṇe asaññasattānaṃ tesaṃ tattha abyākatā dhammā nirujjhissanti, no ca tesaṃ tattha akusalā dhammā nirujjhanti. Akusalānaṃ bhaṅgakkhaṇe tesaṃ tattha abyākatā ca dhammā nirujjhissanti akusalā ca dhammā nirujjhanti. ^6-9-147
 
-##### (Gha) paccanīkapuggalo ^6-9-24-4-0
+##### (Gha) paccanīkapuggalo ^6-9-23-4-0
 
 (Ka) yassa kusalā dhammā na nirujjhanti tassa akusalā dhammā na nirujjhissantīti?
 Sabbesaṃ cittassa uppādakkhaṇe kusalavippayuttacittassa bhaṅgakkhaṇe nirodhasamāpannānaṃ asaññasattānaṃ tesaṃ kusalā dhammā na nirujjhanti, no ca tesaṃ akusalā dhammā na nirujjhissanti. Aggamaggassa uppādakkhaṇe arahantānaṃ yassa cittassa anantarā aggamaggaṃ paṭilabhissanti tassa cittassa uppādakkhaṇe tesaṃ kusalā ca dhammā na nirujjhanti akusalā ca dhammā na nirujjhissanti.
@@ -11821,11 +11821,11 @@ Sabbesaṃ cittassa uppādakkhaṇe kusalavippayuttacittassa bhaṅgakkhaṇe ni
 Sabbesaṃ cittassa uppādakkhaṇe akusalavippayuttacittassa bhaṅgakkhaṇe nirodhasamāpannānaṃ asaññasattānaṃ tesaṃ akusalā dhammā na nirujjhanti, no ca tesaṃ abyākatā dhammā na nirujjhissanti. Pacchimacittassa bhaṅgakkhaṇe tesaṃ akusalā ca dhammā na nirujjhanti abyākatā ca dhammā na nirujjhissanti.
 (Kha) yassa vā pana abyākatā dhammā na nirujjhissanti tassa akusalā dhammā na nirujjhantīti? Āmantā. ^6-9-149
 
-##### (Ṅa) paccanīkaokāso ^6-9-24-5-0
+##### (Ṅa) paccanīkaokāso ^6-9-23-5-0
 
 Yattha kusalā dhammā na nirujjhanti tattha akusalā dhammā na nirujjhissantīti?…Pe…. ^6-9-150
 
-##### (Ca) paccanīkapuggalokāsā ^6-9-24-6-0
+##### (Ca) paccanīkapuggalokāsā ^6-9-23-6-0
 
 (Ka) yassa yattha kusalā dhammā na nirujjhanti tassa tattha akusalā dhammā na nirujjhissantīti?
 Sabbesaṃ cittassa uppādakkhaṇe kusalavippayuttacittassa bhaṅgakkhaṇe tesaṃ tattha kusalā dhammā na nirujjhanti, no ca tesaṃ tattha akusalā dhammā na nirujjhissanti. Aggamaggassa uppādakkhaṇe arahantānaṃ yassa cittassa anantarā aggamaggaṃ paṭilabhissanti tassa cittassa uppādakkhaṇe asaññasattānaṃ tesaṃ tattha kusalā ca dhammā na nirujjhanti akusalā ca dhammā na nirujjhissanti.
@@ -11839,9 +11839,9 @@ Sabbesaṃ cittassa uppādakkhaṇe kusalavippayuttacittassa bhaṅgakkhaṇe as
 Sabbesaṃ cittassa uppādakkhaṇe akusalavippayuttacittassa bhaṅgakkhaṇe asaññasattānaṃ tesaṃ tattha akusalā dhammā na nirujjhanti, no ca tesaṃ tattha abyākatā dhammā na nirujjhissanti. Pacchimacittassa bhaṅgakkhaṇe tesaṃ tattha akusalā ca dhammā na nirujjhanti abyākatā ca dhammā na nirujjhissanti.
 (Kha) yassa vā pana yattha abyākatā dhammā na nirujjhissanti tassa tattha akusalā dhammā na nirujjhantīti? Āmantā. ^6-9-152
 
-#### (6) Atītānāgatavāro ^6-9-25-0
+#### (6) Atītānāgatavāro ^6-9-24-0
 
-##### (Ka) anulomapuggalo ^6-9-25-1-0
+##### (Ka) anulomapuggalo ^6-9-24-1-0
 
 (Ka) yassa kusalā dhammā nirujjhittha tassa akusalā dhammā nirujjhissantīti?
 Aggamaggasamaṅgīnaṃ arahantānaṃ yassa cittassa anantarā aggamaggaṃ paṭilabhissanti tesaṃ kusalā dhammā nirujjhittha, no ca tesaṃ akusalā dhammā nirujjhissanti. Itaresaṃ tesaṃ kusalā ca dhammā nirujjhittha akusalā ca dhammā nirujjhissanti.
@@ -11854,11 +11854,11 @@ Pacchimacittassa bhaṅgakkhaṇe tesaṃ kusalā dhammā nirujjhittha, no ca te
 Pacchimacittassa bhaṅgakkhaṇe tesaṃ akusalā dhammā nirujjhittha, no ca tesaṃ abyākatā dhammā nirujjhissanti. Itaresaṃ tesaṃ akusalā ca dhammā nirujjhittha abyākatā ca dhammā nirujjhissanti.
 (Kha) yassa vā pana abyākatā dhammā nirujjhissanti tassa akusalā dhammā nirujjhitthāti? Āmantā. ^6-9-154
 
-##### (Kha) anulomaokāso ^6-9-25-2-0
+##### (Kha) anulomaokāso ^6-9-24-2-0
 
 Yattha kusalā dhammā nirujjhittha tattha akusalā dhammā nirujjhissantīti?…Pe…. ^6-9-155
 
-##### (Ga) anulomapuggalokāsā ^6-9-25-3-0
+##### (Ga) anulomapuggalokāsā ^6-9-24-3-0
 
 (Ka) yassa yattha kusalā dhammā nirujjhittha tassa tattha akusalā dhammā nirujjhissantīti?
 Aggamaggasamaṅgīnaṃ arahantānaṃ yassa cittassa anantarā aggamaggaṃ paṭilabhissanti tesaṃ tattha kusalā dhammā nirujjhittha, no ca tesaṃ tattha akusalā dhammā nirujjhissanti. Itaresaṃ catuvokārānaṃ pañcavokārānaṃ tesaṃ tattha kusalā ca dhammā nirujjhittha akusalā ca dhammā nirujjhissanti.
@@ -11874,7 +11874,7 @@ Pacchimacittassa bhaṅgakkhaṇe tesaṃ tattha akusalā dhammā nirujjhittha, 
 (Kha) yassa vā pana yattha abyākatā dhammā nirujjhissanti tassa tattha akusalā dhammā nirujjhitthāti?
 Suddhāvāsānaṃ dutiye citte vattamāne asaññasattānaṃ tesaṃ tattha abyākatā dhammā nirujjhissanti, no ca tesaṃ tattha akusalā dhammā nirujjhittha. Itaresaṃ catuvokārānaṃ pañcavokārānaṃ tesaṃ tattha abyākatā ca dhammā nirujjhissanti akusalā ca dhammā nirujjhittha. ^6-9-157
 
-##### (Gha) paccanīkapuggalo ^6-9-25-4-0
+##### (Gha) paccanīkapuggalo ^6-9-24-4-0
 
 (Ka) yassa kusalā dhammā na nirujjhittha tassa akusalā dhammā na nirujjhissantīti? Natthi.
 (Kha) yassa vā pana akusalā dhammā na nirujjhissanti tassa kusalā dhammā na nirujjhitthāti? Nirujjhittha.
@@ -11884,11 +11884,11 @@ Suddhāvāsānaṃ dutiye citte vattamāne asaññasattānaṃ tesaṃ tattha ab
 (Ka) yassa akusalā dhammā na nirujjhittha tassa abyākatā dhammā na nirujjhissantīti? Natthi.
 (Kha) yassa vā pana abyākatā dhammā na nirujjhissanti tassa akusalā dhammā na nirujjhitthāti? Nirujjhittha. ^6-9-159
 
-##### (Ṅa) paccanīkaokāso ^6-9-25-5-0
+##### (Ṅa) paccanīkaokāso ^6-9-24-5-0
 
 Yattha kusalā dhammā na nirujjhittha tattha akusalā dhammā na nirujjhissantīti?…Pe…. ^6-9-160
 
-##### (Ca) paccanīkapuggalokāsā ^6-9-25-6-0
+##### (Ca) paccanīkapuggalokāsā ^6-9-24-6-0
 
 (Ka) yassa yattha kusalā dhammā na nirujjhittha tassa tattha akusalā dhammā na nirujjhissantīti?
 Suddhāvāsānaṃ dutiye citte vattamāne tesaṃ tattha kusalā dhammā na nirujjhittha, no ca tesaṃ tattha akusalā dhammā na nirujjhissanti. Asaññasattānaṃ tesaṃ tattha kusalā ca dhammā na nirujjhittha akusalā ca dhammā na nirujjhissanti.
@@ -11901,11 +11901,11 @@ Aggamaggasamaṅgīnaṃ arahantānaṃ yassa cittassa anantarā aggamaggaṃ pa
 (Kha) yassa vā pana yattha abyākatā dhammā na nirujjhissanti tassa tattha akusalā dhammā na nirujjhitthāti? Nirujjhittha.
 Nirodhavāro. ^6-9-162
 
-#### Uppādanirodhavāro ^6-9-26-0
+#### Uppādanirodhavāro ^6-9-25-0
 
-#### (1) Paccuppannavāro ^6-9-27-0
+#### (1) Paccuppannavāro ^6-9-26-0
 
-##### (Ka) anulomapuggalo ^6-9-27-1-0
+##### (Ka) anulomapuggalo ^6-9-26-1-0
 
 (Ka) yassa kusalā dhammā uppajjanti tassa akusalā dhammā nirujjhantīti? No.
 (Kha) yassa vā pana akusalā dhammā nirujjhanti tassa kusalā dhammā uppajjantīti? No.
@@ -11915,7 +11915,7 @@ Nirodhavāro. ^6-9-162
 (Ka) yassa akusalā dhammā uppajjanti tassa abyākatā dhammā nirujjhantīti? No.
 (Kha) yassa vā pana abyākatā dhammā nirujjhanti tassa akusalā dhammā uppajjantīti? No. ^6-9-164
 
-##### (Kha) anulomaokāso ^6-9-27-2-0
+##### (Kha) anulomaokāso ^6-9-26-2-0
 
 (Ka) yattha kusalā dhammā uppajjanti tattha akusalā dhammā nirujjhantīti? Āmantā.
 (Kha) yattha vā pana akusalā dhammā nirujjhanti tattha kusalā dhammā uppajjantīti? Āmantā.
@@ -11927,7 +11927,7 @@ Asaññasatte tattha abyākatā dhammā nirujjhanti, no ca tattha kusalā dhamm�
 (Kha) yattha vā pana abyākatā dhammā nirujjhanti tattha akusalā dhammā uppajjantīti?
 Asaññasatte tattha abyākatā dhammā nirujjhanti, no ca tattha akusalā dhammā uppajjanti. Catuvokāre pañcavokāre tattha abyākatā ca dhammā nirujjhanti akusalā ca dhammā uppajjanti. ^6-9-166
 
-##### (Ga) anulomapuggalokāsā ^6-9-27-3-0
+##### (Ga) anulomapuggalokāsā ^6-9-26-3-0
 
 (Ka) yassa yattha kusalā dhammā uppajjanti tassa tattha akusalā dhammā nirujjhantīti? No.
 (Kha) yassa vā pana yattha akusalā dhammā nirujjhanti tassa tattha kusalā dhammā uppajjantīti? No.
@@ -11937,7 +11937,7 @@ Asaññasatte tattha abyākatā dhammā nirujjhanti, no ca tattha akusalā dhamm
 (Ka) yassa yattha akusalā dhammā uppajjanti tassa tattha abyākatā dhammā nirujjhantīti? No.
 (Kha) yassa vā pana yattha abyākatā dhammā nirujjhanti tassa tattha akusalā dhammā uppajjantīti? No. ^6-9-168
 
-##### (Gha) paccanīkapuggalo ^6-9-27-4-0
+##### (Gha) paccanīkapuggalo ^6-9-26-4-0
 
 (Ka) yassa kusalā dhammā na uppajjanti tassa akusalā dhammā na nirujjhantīti?
 Akusalānaṃ bhaṅgakkhaṇe tesaṃ kusalā dhammā na uppajjanti, no ca tesaṃ akusalā dhammā na nirujjhanti. Kusalavippayuttacittassa uppādakkhaṇe akusalavippayuttacittassa bhaṅgakkhaṇe nirodhasamāpannānaṃ asaññasattānaṃ tesaṃ kusalā ca dhammā na uppajjanti akusalā ca dhammā na nirujjhanti.
@@ -11953,7 +11953,7 @@ Sabbesaṃ cavantānaṃ pavatte cittassa bhaṅgakkhaṇe tesaṃ akusalā dham
 (Kha) yassa vā pana abyākatā dhammā na nirujjhanti tassa akusalā dhammā na uppajjantīti?
 Akusalānaṃ uppādakkhaṇe tesaṃ abyākatā dhammā na nirujjhanti, no ca tesaṃ akusalā dhammā na uppajjanti. Sabbesaṃ upapajjantānaṃ pavatte akusalavippayuttacittassa uppādakkhaṇe arūpe kusalākusalānaṃ bhaṅgakkhaṇe tesaṃ abyākatā ca dhammā na nirujjhanti akusalā ca dhammā na uppajjanti. ^6-9-170
 
-##### (Ṅa) paccanīkaokāso ^6-9-27-5-0
+##### (Ṅa) paccanīkaokāso ^6-9-26-5-0
 
 (Ka) yattha kusalā dhammā na uppajjanti tattha akusalā dhammā na nirujjhantīti? Āmantā.
 (Kha) yattha vā pana akusalā dhammā na nirujjhanti tattha kusalā dhammā na uppajjantīti? Āmantā.
@@ -11963,7 +11963,7 @@ Akusalānaṃ uppādakkhaṇe tesaṃ abyākatā dhammā na nirujjhanti, no ca t
 (Ka) yattha akusalā dhammā na uppajjanti tattha abyākatā dhammā na nirujjhantīti? Nirujjhanti.
 (Kha) yattha vā pana abyākatā dhammā na nirujjhanti tattha akusalā dhammā na uppajjantīti? Natthi. ^6-9-172
 
-##### (Ca) paccanīkapuggalokāsā ^6-9-27-6-0
+##### (Ca) paccanīkapuggalokāsā ^6-9-26-6-0
 
 (Ka) yassa yattha kusalā dhammā na uppajjanti tassa tattha akusalā dhammā na nirujjhantīti?
 Akusalānaṃ bhaṅgakkhaṇe tesaṃ tattha kusalā dhammā na uppajjanti, no ca tesaṃ tattha akusalā dhammā na nirujjhanti. Kusalavippayuttacittassa uppādakkhaṇe akusalavippayuttacittassa bhaṅgakkhaṇe asaññasattānaṃ tesaṃ tattha kusalā ca dhammā na uppajjanti akusalā ca dhammā na nirujjhanti.
@@ -11979,9 +11979,9 @@ Sabbesaṃ cavantānaṃ pavatte cittassa bhaṅgakkhaṇe tesaṃ tattha akusal
 (Kha) yassa vā pana yattha abyākatā dhammā na nirujjhanti tassa tattha akusalā dhammā na uppajjantīti?
 Akusalānaṃ uppādakkhaṇe tesaṃ tattha abyākatā dhammā na nirujjhanti, no ca tesaṃ tattha akusalā dhammā na uppajjanti. Sabbesaṃ upapajjantānaṃ pavatte akusalavippayuttacittassa uppādakkhaṇe arūpe kusalākusalānaṃ bhaṅgakkhaṇe tesaṃ tattha abyākatā ca dhammā na nirujjhanti akusalā ca dhammā na uppajjanti. ^6-9-174
 
-#### (2) Atītavāro ^6-9-28-0
+#### (2) Atītavāro ^6-9-27-0
 
-##### (Ka) anulomapuggalo ^6-9-28-1-0
+##### (Ka) anulomapuggalo ^6-9-27-1-0
 
 (Ka) yassa kusalā dhammā uppajjittha tassa akusalā dhammā nirujjhitthāti? Āmantā.
 (Kha) yassa vā pana akusalā dhammā nirujjhittha tassa kusalā dhammā uppajjitthāti? Āmantā.
@@ -11991,7 +11991,7 @@ Akusalānaṃ uppādakkhaṇe tesaṃ tattha abyākatā dhammā na nirujjhanti, 
 (Ka) yassa akusalā dhammā uppajjittha tassa abyākatā dhammā nirujjhitthāti? Āmantā.
 (Kha) yassa vā pana abyākatā dhammā nirujjhittha tassa akusalā dhammā uppajjitthāti? Āmantā. ^6-9-176
 
-##### (Kha) anulomaokāso ^6-9-28-2-0
+##### (Kha) anulomaokāso ^6-9-27-2-0
 
 (Ka) yattha kusalā dhammā uppajjittha tattha akusalā dhammā nirujjhitthāti? Āmantā.
 (Kha) yattha vā pana akusalā dhammā nirujjhittha tattha kusalā dhammā uppajjitthāti? Āmantā.
@@ -12003,7 +12003,7 @@ Asaññasatte tattha abyākatā dhammā nirujjhittha, no ca tattha kusalā dhamm
 (Kha) yattha vā pana abyākatā dhammā nirujjhittha tattha akusalā dhammā uppajjitthāti?
 Asaññasatte tattha abyākatā dhammā nirujjhittha, no ca tattha akusalā dhammā uppajjittha. Catuvokāre pañcavokāre tattha abyākatā ca dhammā nirujjhittha akusalā ca dhammā uppajjittha. ^6-9-178
 
-##### (Ga) anulomapuggalokāsā ^6-9-28-3-0
+##### (Ga) anulomapuggalokāsā ^6-9-27-3-0
 
 (Ka) yassa yattha kusalā dhammā uppajjittha tassa tattha akusalā dhammā nirujjhitthāti? Āmantā.
 (Kha) yassa vā pana yattha akusalā dhammā nirujjhittha tassa tattha kusalā dhammā uppajjitthāti?
@@ -12016,7 +12016,7 @@ Suddhāvāsānaṃ dutiye citte vattamāne asaññasattānaṃ tesaṃ tattha ab
 (Kha) yassa vā pana yattha abyākatā dhammā nirujjhittha tassa tattha akusalā dhammā uppajjitthāti?
 Suddhāvāsānaṃ dutiye citte vattamāne asaññasattānaṃ tesaṃ tattha abyākatā dhammā nirujjhittha, no ca tesaṃ tattha akusalā dhammā uppajjittha. Itaresaṃ catuvokārānaṃ pañcavokārānaṃ tesaṃ tattha abyākatā ca dhammā nirujjhittha akusalā ca dhammā uppajjittha. ^6-9-180
 
-##### (Gha) paccanīkapuggalo ^6-9-28-4-0
+##### (Gha) paccanīkapuggalo ^6-9-27-4-0
 
 (Ka) yassa kusalā dhammā na uppajjittha tassa akusalā dhammā na nirujjhitthāti? Natthi.
 (Kha) yassa vā pana akusalā dhammā na nirujjhittha tassa kusalā dhammā na uppajjitthāti? Natthi.
@@ -12026,7 +12026,7 @@ Suddhāvāsānaṃ dutiye citte vattamāne asaññasattānaṃ tesaṃ tattha ab
 (Ka) yassa akusalā dhammā na uppajjittha tassa abyākatā dhammā na nirujjhitthāti? Natthi.
 (Kha) yassa vā pana abyākatā dhammā na nirujjhittha tassa akusalā dhammā na uppajjitthāti? Natthi. ^6-9-182
 
-##### (Ṅa) paccanīkaokāso ^6-9-28-5-0
+##### (Ṅa) paccanīkaokāso ^6-9-27-5-0
 
 (Ka) yattha kusalā dhammā na uppajjittha tattha akusalā dhammā na nirujjhitthāti? Āmantā.
 (Kha) yattha vā pana akusalā dhammā na nirujjhittha tattha kusalā dhammā na uppajjitthāti? Āmantā.
@@ -12036,7 +12036,7 @@ Suddhāvāsānaṃ dutiye citte vattamāne asaññasattānaṃ tesaṃ tattha ab
 (Ka) yattha akusalā dhammā na uppajjittha tattha abyākatā dhammā na nirujjhitthāti? Nirujjhittha.
 (Kha) yattha vā pana abyākatā dhammā na nirujjhittha tattha akusalā dhammā na uppajjitthāti? Natthi. ^6-9-184
 
-##### (Ca) paccanīkapuggalokāsā ^6-9-28-6-0
+##### (Ca) paccanīkapuggalokāsā ^6-9-27-6-0
 
 (Ka) yassa yattha kusalā dhammā na uppajjittha tassa tattha akusalā dhammā na nirujjhitthāti?
 Suddhāvāsānaṃ dutiye akusale citte vattamāne tesaṃ tattha kusalā dhammā na uppajjittha, no ca tesaṃ tattha akusalā dhammā na nirujjhittha. Suddhāvāsānaṃ dutiye citte vattamāne asaññasattānaṃ tesaṃ tattha kusalā ca dhammā na uppajjittha akusalā ca dhammā na nirujjhittha.
@@ -12049,9 +12049,9 @@ Suddhāvāsānaṃ dutiye citte vattamāne asaññasattānaṃ tesaṃ tattha ku
 Suddhāvāsānaṃ dutiye citte vattamāne asaññasattānaṃ tesaṃ tattha akusalā dhammā na uppajjittha, no ca tesaṃ tattha abyākatā dhammā na nirujjhittha. Suddhāvāsaṃ upapajjantānaṃ tesaṃ tattha akusalā ca dhammā na uppajjittha abyākatā ca dhammā na nirujjhittha.
 (Kha) yassa vā pana yattha abyākatā dhammā na nirujjhittha tassa tattha akusalā dhammā na uppajjitthāti? Āmantā. ^6-9-186
 
-#### (3) Anāgatavāro ^6-9-29-0
+#### (3) Anāgatavāro ^6-9-28-0
 
-##### (Ka) anulomapuggalo ^6-9-29-1-0
+##### (Ka) anulomapuggalo ^6-9-28-1-0
 
 (Ka) yassa kusalā dhammā uppajjissanti tassa akusalā dhammā nirujjhissantīti?
 Yassa cittassa anantarā aggamaggaṃ paṭilabhissanti tesaṃ kusalā dhammā uppajjissanti, no ca tesaṃ akusalā dhammā nirujjhissanti. Itaresaṃ tesaṃ kusalā ca dhammā uppajjissanti akusalā ca dhammā nirujjhissanti.
@@ -12064,7 +12064,7 @@ Aggamaggasamaṅgīnaṃ arahantānaṃ tesaṃ abyākatā dhammā nirujjhissant
 (Kha) yassa vā pana abyākatā dhammā nirujjhissanti tassa akusalā dhammā uppajjissantīti?
 Aggamaggasamaṅgīnaṃ arahantānaṃ yassa cittassa anantarā aggamaggaṃ paṭilabhissanti tesaṃ abyākatā dhammā nirujjhissanti, no ca tesaṃ akusalā dhammā uppajjissanti. Itaresaṃ tesaṃ abyākatā ca dhammā nirujjhissanti akusalā ca dhammā uppajjissanti. ^6-9-188
 
-##### (Kha) anulomaokāso ^6-9-29-2-0
+##### (Kha) anulomaokāso ^6-9-28-2-0
 
 (Ka) yattha kusalā dhammā uppajjissanti tattha akusalā dhammā nirujjhissantīti? Āmantā.
 (Kha) yattha vā pana akusalā dhammā nirujjhissanti tattha kusalā dhammā uppajjissantīti? Āmantā.
@@ -12076,7 +12076,7 @@ Asaññasatte tattha abyākatā dhammā nirujjhissanti, no ca tattha kusalā dha
 (Kha) yattha vā pana abyākatā dhammā nirujjhissanti tattha akusalā dhammā uppajjissantīti?
 Asaññasatte tattha abyākatā dhammā nirujjhissanti, no ca tattha akusalā dhammā uppajjissanti. Catuvokāre pañcavokāre tattha abyākatā ca dhammā nirujjhissanti akusalā ca dhammā uppajjissanti. ^6-9-190
 
-##### (Ga) anulomapuggalokāsā ^6-9-29-3-0
+##### (Ga) anulomapuggalokāsā ^6-9-28-3-0
 
 (Ka) yassa yattha kusalā dhammā uppajjissanti tassa tattha akusalā dhammā nirujjhissantīti?
 Yassa cittassa anantarā aggamaggaṃ paṭilabhissanti tesaṃ tattha kusalā dhammā uppajjissanti, no ca tesaṃ tattha akusalā dhammā nirujjhissanti. Itaresaṃ catuvokārānaṃ pañcavokārānaṃ tesaṃ tattha kusalā ca dhammā uppajjissanti akusalā ca dhammā nirujjhissanti.
@@ -12089,7 +12089,7 @@ Aggamaggasamaṅgīnaṃ arahantānaṃ asaññasattānaṃ tesaṃ tattha abyā
 (Kha) yassa vā pana yattha abyākatā dhammā nirujjhissanti tassa tattha akusalā dhammā uppajjissantīti?
 Aggamaggasamaṅgīnaṃ arahantānaṃ yassa cittassa anantarā aggamaggaṃ paṭilabhissanti, asaññasattānaṃ tesaṃ tattha abyākatā dhammā nirujjhissanti, no ca tesaṃ tattha kusalā dhammā uppajjissanti. Itaresaṃ catuvokārānaṃ pañcavokārānaṃ tesaṃ tattha abyākatā ca dhammā nirujjhissanti akusalā ca dhammā uppajjissanti. ^6-9-192
 
-##### (Gha) paccanīkapuggalo ^6-9-29-4-0
+##### (Gha) paccanīkapuggalo ^6-9-28-4-0
 
 (Ka) yassa kusalā dhammā na uppajjissanti tassa akusalā dhammā na nirujjhissantīti? Āmantā.
 (Kha) yassa vā pana akusalā dhammā na nirujjhissanti tassa kusalā dhammā na uppajjissantīti?
@@ -12102,7 +12102,7 @@ Aggamaggasamaṅgīnaṃ arahantānaṃ tesaṃ kusalā dhammā na uppajjissanti
 Aggamaggasamaṅgīnaṃ arahantānaṃ yassa cittassa anantarā aggamaggaṃ paṭilabhissanti tesaṃ akusalā dhammā na uppajjissanti, no ca tesaṃ abyākatā dhammā na nirujjhissanti. Pacchimacittassa bhaṅgakkhaṇe tesaṃ akusalā ca dhammā na uppajjissanti abyākatā ca dhammā na nirujjhissanti.
 (Kha) yassa vā pana abyākatā dhammā na nirujjhissanti tassa akusalā dhammā na uppajjissantīti? Āmantā. ^6-9-194
 
-##### (Ṅa) paccanīkaokāso ^6-9-29-5-0
+##### (Ṅa) paccanīkaokāso ^6-9-28-5-0
 
 (Ka) yattha kusalā dhammā na uppajjissanti tattha akusalā dhammā na nirujjhissantīti? Āmantā.
 (Kha) yattha vā pana akusalā dhammā na nirujjhissanti tattha kusalā dhammā na uppajjissantīti? Āmantā.
@@ -12112,7 +12112,7 @@ Aggamaggasamaṅgīnaṃ arahantānaṃ yassa cittassa anantarā aggamaggaṃ pa
 (Ka) yattha akusalā dhammā na uppajjissanti tattha abyākatā dhammā na nirujjhissantīti? Nirujjhissanti.
 (Kha) yattha vā pana abyākatā dhammā na nirujjhissanti tattha akusalā dhammā na uppajjissantīti? Natthi. ^6-9-196
 
-##### (Ca) paccanīkapuggalokāsā ^6-9-29-6-0
+##### (Ca) paccanīkapuggalokāsā ^6-9-28-6-0
 
 (Ka) yassa yattha kusalā dhammā na uppajjissanti tassa tattha akusalā dhammā na nirujjhissantīti? Āmantā.
 (Kha) yassa vā pana yattha akusalā dhammā na nirujjhissanti tassa tattha kusalā dhammā na uppajjissantīti?
@@ -12125,9 +12125,9 @@ Aggamaggasamaṅgīnaṃ arahantānaṃ asaññasattānaṃ tesaṃ tattha kusal
 Aggamaggasamaṅgīnaṃ arahantānaṃ yassa cittassa anantarā aggamaggaṃ paṭilabhissanti asaññasattānaṃ tesaṃ tattha akusalā dhammā na uppajjissanti, no ca tesaṃ tattha abyākatā dhammā na nirujjhissanti. Pacchimacittassa bhaṅgakkhaṇe tesaṃ tattha akusalā ca dhammā na uppajjissanti abyākatā ca dhammā na nirujjhissanti.
 (Kha) yassa vā pana yattha abyākatā dhammā na nirujjhissanti tassa tattha akusalā dhammā na uppajjissantīti? Āmantā. ^6-9-198
 
-#### (4) Paccuppannātītavāro ^6-9-30-0
+#### (4) Paccuppannātītavāro ^6-9-29-0
 
-##### (Ka) anulomapuggalo ^6-9-30-1-0
+##### (Ka) anulomapuggalo ^6-9-29-1-0
 
 (Ka) yassa kusalā dhammā uppajjanti tassa akusalā dhammā nirujjhitthāti? Āmantā.
 (Kha) yassa vā pana akusalā dhammā nirujjhittha tassa kusalā dhammā uppajjantīti?
@@ -12140,11 +12140,11 @@ Sabbesaṃ cittassa bhaṅgakkhaṇe kusalavippayuttacittassa uppādakkhaṇe ni
 (Kha) yassa vā pana abyākatā dhammā nirujjhittha tassa akusalā dhammā uppajjantīti?
 Sabbesaṃ cittassa bhaṅgakkhaṇe akusalavippayuttacittassa uppādakkhaṇe nirodhasamāpannānaṃ asaññasattānaṃ tesaṃ abyākatā dhammā nirujjhittha, no ca tesaṃ akusalā dhammā uppajjanti. Akusalānaṃ uppādakkhaṇe tesaṃ abyākatā ca dhammā nirujjhittha akusalā ca dhammā uppajjanti. ^6-9-200
 
-##### (Kha) anulomaokāso ^6-9-30-2-0
+##### (Kha) anulomaokāso ^6-9-29-2-0
 
 Yattha kusalā dhammā uppajjanti tattha akusalā dhammā nirujjhitthāti?…Pe…. ^6-9-201
 
-##### (Ga) anulomapuggalokāsā ^6-9-30-3-0
+##### (Ga) anulomapuggalokāsā ^6-9-29-3-0
 
 (Ka) yassa yattha kusalā dhammā uppajjanti tassa tattha akusalā dhammā nirujjhitthāti? Āmantā.
 (Kha) yassa vā pana yattha akusalā dhammā nirujjhittha tassa tattha kusalā dhammā uppajjantīti?
@@ -12157,7 +12157,7 @@ Sabbesaṃ cittassa bhaṅgakkhaṇe kusalavippayuttacittassa uppādakkhaṇe as
 (Kha) yassa vā pana yattha abyākatā dhammā nirujjhittha tassa tattha akusalā dhammā uppajjantīti?
 Sabbesaṃ cittassa bhaṅgakkhaṇe akusalavippayuttacittassa uppādakkhaṇe asaññasattānaṃ tesaṃ tattha abyākatā dhammā nirujjhittha, no ca tesaṃ tattha akusalā dhammā uppajjanti. Akusalānaṃ uppādakkhaṇe tesaṃ tattha abyākatā ca dhammā nirujjhittha akusalā ca dhammā uppajjanti. ^6-9-203
 
-##### (Gha) paccanīkapuggalo ^6-9-30-4-0
+##### (Gha) paccanīkapuggalo ^6-9-29-4-0
 
 (Ka) yassa kusalā dhammā na uppajjanti tassa akusalā dhammā na nirujjhitthāti? Nirujjhittha.
 (Kha) yassa vā pana akusalā dhammā na nirujjhittha tassa kusalā dhammā na uppajjantīti? Natthi.
@@ -12167,11 +12167,11 @@ Sabbesaṃ cittassa bhaṅgakkhaṇe akusalavippayuttacittassa uppādakkhaṇe a
 (Ka) yassa akusalā dhammā na uppajjanti tassa abyākatā dhammā na nirujjhitthāti? Nirujjhittha.
 (Kha) yassa vā pana abyākatā dhammā na nirujjhittha tassa akusalā dhammā na uppajjantīti? Natthi. ^6-9-205
 
-##### (Ṅa) paccanīkaokāso ^6-9-30-5-0
+##### (Ṅa) paccanīkaokāso ^6-9-29-5-0
 
 Yattha kusalā dhammā na uppajjanti tattha akusalā dhammā na nirujjhitthāti?…Pe…. ^6-9-206
 
-##### (Ca) paccanīkapuggalokāsā ^6-9-30-6-0
+##### (Ca) paccanīkapuggalokāsā ^6-9-29-6-0
 
 (Ka) yassa yattha kusalā dhammā na uppajjanti tassa tattha akusalā dhammā na nirujjhitthāti?
 Sabbesaṃ cittassa bhaṅgakkhaṇe kusalavippayuttacittassa uppādakkhaṇe tesaṃ tattha kusalā dhammā na uppajjanti, no ca tesaṃ tattha akusalā dhammā na nirujjhittha. Suddhāvāsānaṃ dutiye citte vattamāne asaññasattānaṃ tesaṃ tattha kusalā ca dhammā na uppajjanti akusalā ca dhammā na nirujjhittha.
@@ -12184,9 +12184,9 @@ Sabbesaṃ cittassa bhaṅgakkhaṇe kusalavippayuttacittassa uppādakkhaṇe as
 Sabbesaṃ cittassa bhaṅgakkhaṇe akusalavippayuttacittassa uppādakkhaṇe asaññasattānaṃ tesaṃ tattha akusalā dhammā na uppajjanti, no ca tesaṃ tattha abyākatā dhammā na nirujjhittha. Suddhāvāsaṃ upapajjantānaṃ tesaṃ tattha akusalā ca dhammā na uppajjanti abyākatā ca dhammā na nirujjhittha.
 (Kha) yassa vā pana yattha abyākatā dhammā na nirujjhittha tassa tattha akusalā dhammā na uppajjantīti? Āmantā. ^6-9-208
 
-#### (5) Paccuppannānāgatavāro ^6-9-31-0
+#### (5) Paccuppannānāgatavāro ^6-9-30-0
 
-##### (Ka) anulomapuggalo ^6-9-31-1-0
+##### (Ka) anulomapuggalo ^6-9-30-1-0
 
 (Ka) yassa kusalā dhammā uppajjanti tassa akusalā dhammā nirujjhissantīti?
 Aggamaggassa uppādakkhaṇe yassa cittassa anantarā aggamaggaṃ paṭilabhissanti tassa cittassa uppādakkhaṇe tesaṃ kusalā dhammā uppajjanti, no ca tesaṃ akusalā dhammā nirujjhissanti. Itaresaṃ kusalānaṃ uppādakkhaṇe tesaṃ kusalā ca dhammā uppajjanti akusalā ca dhammā nirujjhissanti.
@@ -12200,11 +12200,11 @@ Sabbesaṃ cittassa bhaṅgakkhaṇe kusalavippayuttacittassa uppādakkhaṇe ni
 (Kha) yassa vā pana abyākatā dhammā nirujjhissanti tassa akusalā dhammā uppajjantīti?
 Sabbesaṃ cittassa bhaṅgakkhaṇe akusalavippayuttacittassa uppādakkhaṇe nirodhasamāpannānaṃ asaññasattānaṃ tesaṃ abyākatā dhammā nirujjhissanti, no ca tesaṃ akusalā dhammā uppajjanti. Akusalānaṃ uppādakkhaṇe tesaṃ abyākatā ca dhammā nirujjhissanti akusalā ca dhammā uppajjanti. ^6-9-210
 
-##### (Kha) anulomaokāso ^6-9-31-2-0
+##### (Kha) anulomaokāso ^6-9-30-2-0
 
 Yattha kusalā dhammā uppajjanti tattha akusalā dhammā nirujjhissantīti?…Pe…. ^6-9-211
 
-##### (Ga) anulomapuggalokāsā ^6-9-31-3-0
+##### (Ga) anulomapuggalokāsā ^6-9-30-3-0
 
 (Ka) yassa yattha kusalā dhammā uppajjanti tassa tattha akusalā dhammā nirujjhissantīti?
 Aggamaggassa uppādakkhaṇe yassa cittassa anantarā aggamaggaṃ paṭilabhissanti tassa cittassa uppādakkhaṇe tesaṃ tattha kusalā dhammā uppajjanti, no ca tesaṃ tattha akusalā dhammā nirujjhissanti. Itaresaṃ kusalānaṃ uppādakkhaṇe tesaṃ tattha kusalā ca dhammā uppajjanti akusalā ca dhammā nirujjhissanti.
@@ -12218,7 +12218,7 @@ Sabbesaṃ cittassa bhaṅgakkhaṇe kusalavippayuttacittassa uppādakkhaṇe as
 (Kha) yassa vā pana yattha abyākatā dhammā nirujjhissanti tassa tattha akusalā dhammā uppajjantīti?
 Sabbesaṃ cittassa bhaṅgakkhaṇe akusalavippayuttacittassa uppādakkhaṇe asaññasattānaṃ tesaṃ tattha abyākatā dhammā nirujjhissanti, no ca tesaṃ tattha akusalā dhammā uppajjanti. Akusalānaṃ uppādakkhaṇe tesaṃ tattha abyākatā ca dhammā nirujjhissanti akusalā ca dhammā uppajjanti. ^6-9-213
 
-##### (Gha) paccanīkapuggalo ^6-9-31-4-0
+##### (Gha) paccanīkapuggalo ^6-9-30-4-0
 
 (Ka) yassa kusalā dhammā na uppajjanti tassa akusalā dhammā na nirujjhissantīti?
 Sabbesaṃ cittassa bhaṅgakkhaṇe kusalavippayuttacittassa uppādakkhaṇe nirodhasamāpannānaṃ asaññasattānaṃ tesaṃ kusalā dhammā na uppajjanti, no ca tesaṃ akusalā dhammā na nirujjhissanti. Aggamaggassa bhaṅgakkhaṇe arahantānaṃ yassa cittassa anantarā aggamaggaṃ paṭilabhissanti tassa cittassa bhaṅgakkhaṇe tesaṃ kusalā ca dhammā na uppajjanti akusalā ca dhammā na nirujjhissanti.
@@ -12232,11 +12232,11 @@ Sabbesaṃ cittassa bhaṅgakkhaṇe kusalavippayuttacittassa uppādakkhaṇe ni
 Sabbesaṃ cittassa bhaṅgakkhaṇe akusalavippayuttacittassa uppādakkhaṇe nirodhasamāpannānaṃ asaññasattānaṃ tesaṃ akusalā dhammā na uppajjanti, no ca tesaṃ abyākatā dhammā na nirujjhissanti. Pacchimacittassa bhaṅgakkhaṇe tesaṃ akusalā ca dhammā na uppajjanti abyākatā ca dhammā na nirujjhissanti.
 (Kha) yassa vā pana abyākatā dhammā na nirujjhissanti tassa akusalā dhammā na uppajjantīti? Āmantā. ^6-9-215
 
-##### (Ṅa) paccanīkaokāso ^6-9-31-5-0
+##### (Ṅa) paccanīkaokāso ^6-9-30-5-0
 
 Yattha kusalā dhammā na uppajjanti tattha akusalā dhammā na nirujjhissantīti?…Pe…. ^6-9-216
 
-##### (Ca) paccanīkapuggalokāsā ^6-9-31-6-0
+##### (Ca) paccanīkapuggalokāsā ^6-9-30-6-0
 
 (Ka) yassa yattha kusalā dhammā na uppajjanti tassa tattha akusalā dhammā na nirujjhissantīti?
 Sabbesaṃ cittassa bhaṅgakkhaṇe kusalavippayuttacittassa uppādakkhaṇe tesaṃ tattha kusalā dhammā na uppajjanti, no ca tesaṃ tattha akusalā dhammā na nirujjhissanti. Aggamaggassa bhaṅgakkhaṇe arahantānaṃ yassa cittassa anantarā aggamaggaṃ paṭilabhissanti tassa cittassa bhaṅgakkhaṇe asaññasattānaṃ tesaṃ tattha kusalā ca dhammā na uppajjanti akusalā ca dhammā na nirujjhissanti.
@@ -12250,9 +12250,9 @@ Sabbesaṃ cittassa bhaṅgakkhaṇe kusalavippayuttacittassa uppādakkhaṇe as
 Sabbesaṃ cittassa bhaṅgakkhaṇe akusalavippayuttacittassa uppādakkhaṇe asaññasattānaṃ tesaṃ tattha akusalā dhammā na uppajjanti, no ca tesaṃ tattha abyākatā dhammā na nirujjhissanti. Pacchimacittassa bhaṅgakkhaṇe tesaṃ tattha akusalā ca dhammā na uppajjanti abyākatā ca dhammā na nirujjhissanti.
 (Kha) yassa vā pana yattha abyākatā dhammā na nirujjhissanti tassa tattha akusalā dhammā na uppajjantīti? Āmantā. ^6-9-218
 
-#### (6) Atītānāgatavāro ^6-9-32-0
+#### (6) Atītānāgatavāro ^6-9-31-0
 
-##### (Ka) anulomapuggalo ^6-9-32-1-0
+##### (Ka) anulomapuggalo ^6-9-31-1-0
 
 (Ka) yassa kusalā dhammā uppajjittha tassa akusalā dhammā nirujjhissantīti?
 Aggamaggasamaṅgīnaṃ arahantānaṃ yassa cittassa anantarā aggamaggaṃ paṭilabhissanti tesaṃ kusalā dhammā uppajjittha, no ca tesaṃ akusalā dhammā nirujjhissanti. Itaresaṃ tesaṃ kusalā ca dhammā uppajjittha akusalā ca dhammā nirujjhissanti.
@@ -12265,11 +12265,11 @@ Pacchimacittassa bhaṅgakkhaṇe tesaṃ kusalā dhammā uppajjittha, no ca tes
 Pacchimacittassa bhaṅgakkhaṇe tesaṃ akusalā dhammā uppajjittha, no ca tesaṃ abyākatā dhammā nirujjhissanti. Itaresaṃ tesaṃ akusalā ca dhammā uppajjittha abyākatā ca dhammā nirujjhissanti.
 (Kha) yassa vā pana abyākatā dhammā nirujjhissanti tassa akusalā dhammā uppajjitthāti? Āmantā. ^6-9-220
 
-##### (Kha) anulomaokāso ^6-9-32-2-0
+##### (Kha) anulomaokāso ^6-9-31-2-0
 
 Yattha kusalā dhammā uppajjittha tattha akusalā dhammā nirujjhissantīti?…Pe…. ^6-9-221
 
-##### (Ga) anulomapuggalokāsā ^6-9-32-3-0
+##### (Ga) anulomapuggalokāsā ^6-9-31-3-0
 
 (Ka) yassa yattha kusalā dhammā uppajjittha tassa tattha akusalā dhammā nirujjhissantīti?
 Aggamaggasamaṅgīnaṃ arahantānaṃ yassa cittassa anantarā aggamaggaṃ paṭilabhissanti tesaṃ tattha kusalā dhammā uppajjittha, no ca tesaṃ tattha akusalā dhammā nirujjhissanti. Itaresaṃ catuvokārānaṃ pañcavokārānaṃ tesaṃ tattha kusalā ca dhammā uppajjittha akusalā ca dhammā nirujjhissanti.
@@ -12285,7 +12285,7 @@ Pacchimacittassa bhaṅgakkhaṇe tesaṃ tattha akusalā dhammā uppajjittha, n
 (Kha) yassa vā pana yattha abyākatā dhammā nirujjhissanti tassa tattha akusalā dhammā uppajjitthāti?
 Suddhāvāsānaṃ dutiye citte vattamāne asaññasattānaṃ tesaṃ tattha abyākatā dhammā nirujjhissanti, no ca tesaṃ tattha akusalā dhammā uppajjittha. Itaresaṃ catuvokārānaṃ pañcavokārānaṃ tesaṃ tattha abyākatā ca dhammā nirujjhissanti akusalā ca dhammā uppajjittha. ^6-9-223
 
-##### (Gha) paccanīkapuggalo ^6-9-32-4-0
+##### (Gha) paccanīkapuggalo ^6-9-31-4-0
 
 (Ka) yassa kusalā dhammā na uppajjittha tassa akusalā dhammā na nirujjhissantīti? Natthi.
 (Kha) yassa vā pana akusalā dhammā na nirujjhissanti tassa kusalā dhammā na uppajjitthāti? Uppajjittha.
@@ -12295,11 +12295,11 @@ Suddhāvāsānaṃ dutiye citte vattamāne asaññasattānaṃ tesaṃ tattha ab
 (Ka) yassa akusalā dhammā na uppajjittha tassa abyākatā dhammā na nirujjhissantīti? Natthi.
 (Kha) yassa vā pana abyākatā dhammā na nirujjhissanti tassa akusalā dhammā na uppajjitthāti? Uppajjittha. ^6-9-225
 
-##### (Ṅa) paccanīkaokāso ^6-9-32-5-0
+##### (Ṅa) paccanīkaokāso ^6-9-31-5-0
 
 Yattha kusalā dhammā na uppajjittha tattha akusalā dhammā na nirujjhissantīti?…Pe…. ^6-9-226
 
-##### (Ca) paccanīkapuggalokāsā ^6-9-32-6-0
+##### (Ca) paccanīkapuggalokāsā ^6-9-31-6-0
 
 (Ka) yassa yattha kusalā dhammā na uppajjittha tassa tattha akusalā dhammā na nirujjhissantīti?
 Suddhāvāsānaṃ dutiye citte vattamāne tesaṃ tattha kusalā dhammā na uppajjittha, no ca tesaṃ tattha akusalā dhammā na nirujjhissanti. Asaññasattānaṃ tesaṃ tattha kusalā ca dhammā na uppajjittha akusalā ca dhammā na nirujjhissanti.
@@ -12313,7 +12313,7 @@ Aggamaggasamaṅgīnaṃ arahantānaṃ yassa cittassa anantarā aggamaggaṃ pa
 Uppādanirodhavāro.
 Pavattivāro niṭṭhito. ^6-9-228
 
-#### Bhāvanāvāro ^6-9-33-0
+#### Bhāvanāvāro ^6-9-32-0
 
 (Ka) yo kusalaṃ dhammaṃ bhāveti so akusalaṃ dhammaṃ pajahatīti? Āmantā.
 (Kha) yo vā pana akusalaṃ dhammaṃ pajahati so kusalaṃ dhammaṃ bhāvetīti? Āmantā.
